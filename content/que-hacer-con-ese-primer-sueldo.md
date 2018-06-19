@@ -8,13 +8,15 @@ Cuando entré a trabajar me explicaron lo que era "pagar el piso", que es invita
 
 ![huele a pagada de piso](/uploads/rsk1gl.jpg "Yoda Meme")
 
-No lo quise hacer, no se si por amarrete o porque no quería juntarme a pagarle cervezas a **puros desconocidos que se aprovechaban** de que yo era el nuevo.
+**No lo quise hacer**, no se si por amarrete o porque no quería juntarme a pagarle cervezas a **puros desconocidos que se aprovechaban** de que yo era el nuevo.
 
-Yo vivía todavía con mis papás, así que creo que **necesitaba como un 20% de lo que ganaba**, y no sabía muy bien qué hacer con lo que me sobraba. Sabía que había que invertir la plata, que no era bueno dejarla en la cuenta corriente.
+Cuando gané mi primer sueldo yo vivía **todavía** con mis papás, así que creo que necesitaba como un 20% de lo que ganaba, y **no sabía muy bien qué hacer con lo que me sobraba**. Sabía que  la plata había que invertirla, que no era bueno dejarla en la cuenta corriente porque era regalarle plata al banco.
 
 Entonces me puse a mirar si habían acciones donde podía invertir, **me hice una cuenta en una corredora de bolsa** y me puse a adivinar si LAN, CAP o CENCOSUD.
 
-Invertir en acciones **no resultó ser una buena idea** porque hay que gastar mucho tiempo investigando. Además, para lograr que las comisiones de compra/venta no se coman la ganancia tienes que tener un muy buen acuerdo con un corredor, y si tienes menos de 1 millón de dólares es imposible lograrlo.
+Invertir en acciones **no resultó ser una buena idea** porque hay que gastar mucho tiempo investigando.
+
+Además, para lograr que las comisiones de compra/venta no se coman la ganancia tienes que tener un muy buen acuerdo con un corredor, y si tienes menos de 1 millón de dólares es imposible lograrlo.
 
 Después **fui al banco y pregunté por los Fondos Mutuos**: terrible. Te cobran algo así como 4-5% cada año, lo que **se come toda la rentabilidad**.
 
