@@ -18,4 +18,5 @@ fields:
   hidden: false
   default: true
 pages:
+- content/-que-hacer-con-ese-primer-sueldo-.md
 - content/index.html.md
