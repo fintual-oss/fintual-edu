@@ -14,6 +14,8 @@ Cuando entré a trabajar me explicaron lo que era "pagar el piso", que es invita
 
 Cuando gané mi primer sueldo yo vivía **todavía** con mis papás, así que creo que necesitaba como un 20% de lo que ganaba, y **no sabía muy bien qué hacer con lo que me sobraba**. 
 
+Sí tenía algo claro:
+
 > La plata hay que invertirla. No es bueno dejarla en la cuenta corriente porque es como **regalarle plata al banco**.
 
 Entonces me puse a mirar si habían acciones donde podía invertir, **me hice una cuenta en una corredora de bolsa** y me puse a adivinar si LAN, CAP o CENCOSUD.
