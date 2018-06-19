@@ -25,3 +25,7 @@ Lo importante es saber seguir índices de manera barata, porque una forma sería
 Después de muchos años siendo ingeniero de software, terminé asociándome con gente experta en finanzas para crear justamente el servicio que habría necesitado en esos años. 
 
 Se trata de un servicio 100% online que hace una inversión pasiva por ti, es todo automatizado y no tiene ejecutivos o sucursales con mármol en la entrada. Por eso puede cobrar solamente 1.19% al año.
+
+Te recomiendo que hagas la simulación y veas cómo tu plata puede rentar:
+
+<a class="simulator-page__button btn btn--secondary" href="/#empezar">Empezar</a>
