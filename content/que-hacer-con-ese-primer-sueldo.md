@@ -20,7 +20,7 @@ Para que las comisiones de compra/venta no se coman la ganancia tienes que tener
 
 Después **fui al banco y pregunté por los Fondos Mutuos**: terrible. Te cobran algo así como 4-5% cada año, lo que **se come toda la rentabilidad**.
 
-##### Después de mucho dar vueltas, llegué a que lo mejor que puedes hacer con tus primeros sueldos es empezar una inversión pasiva.
+Después de mucho dar vueltas, llegué a que lo mejor que puedes hacer con tus primeros sueldos es empezar una inversión pasiva.
 
 ### ¿Qué es una inversión pasiva?
 
@@ -28,7 +28,7 @@ Se trata de invertir en una combinación de _índices de mercado_, como el IPSA,
 
 Lo difícil es seguir varios índices de manera **barata**. Si te pusieras a comprar un poquito de cada una de las acciones que conforman esos índices **te gastarías un montón de plata solo en comisiones de compra/venta** y te volverías chango tratando de mantenerte al día re-balanceando para mantener las proporciones correctas (solo el S&P500 son 500 acciones!).
 
-### ¿Y qué hacer entonces?
+### ¿Y qué puedes hacer entonces?
 
 Después de muchos años siendo ingeniero de software, terminé asociándome con ingenieros expertos en inversiones para crear justamente el servicio que habría necesitado en esos primeros años de trabajo.
 
