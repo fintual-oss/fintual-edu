@@ -20,7 +20,7 @@ Para que las comisiones de compra/venta no se coman la ganancia tienes que tener
 
 Después **fui al banco y pregunté por los Fondos Mutuos**: terrible. Te cobran algo así como 4-5% cada año, lo que **se come toda la rentabilidad**.
 
-> ##### Después de mucho dar vueltas, llegué a que lo mejor que puedes hacer con tus primeros sueldos es empezar una inversión pasiva.
+##### Después de mucho dar vueltas, llegué a que lo mejor que puedes hacer con tus primeros sueldos es empezar una inversión pasiva.
 
 ### ¿Qué es una inversión pasiva?
 
