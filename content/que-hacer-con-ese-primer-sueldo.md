@@ -10,7 +10,9 @@ Cuando entré a trabajar me explicaron lo que era "pagar el piso", que es invita
 
 **No lo quise hacer**, no se si por amarrete o porque no quería juntarme a pagar las cervezas de **puros desconocidos que se aprovechaban** de que yo era el nuevo.
 
-Cuando gané mi primer sueldo yo vivía **todavía** con mis papás, así que creo que necesitaba como un 20% de lo que ganaba, y **no sabía muy bien qué hacer con lo que me sobraba**. Sabía que  la plata había que invertirla, que no era bueno dejarla en la cuenta corriente porque era regalarle plata al banco.
+### Tonteras que haces cuando te sobra la plata.
+
+Cuando gané mi primer sueldo yo vivía **todavía** con mis papás, así que creo que necesitaba como un 20% de lo que ganaba, y **no sabía muy bien qué hacer con lo que me sobraba**. Sabía que la plata había que invertirla, que no era bueno dejarla en la cuenta corriente porque era regalarle plata al banco.
 
 Entonces me puse a mirar si habían acciones donde podía invertir, **me hice una cuenta en una corredora de bolsa** y me puse a adivinar si LAN, CAP o CENCOSUD.
 
@@ -28,7 +30,7 @@ Se trata de invertir en una combinación de _índices de mercado_, como el IPSA,
 
 Lo difícil es seguir varios índices de manera **barata**. Si te pusieras a comprar un poquito de cada una de las acciones que conforman esos índices **te gastarías un montón de plata solo en comisiones de compra/venta** y te volverías chango tratando de mantenerte al día re-balanceando para mantener las proporciones correctas (solo el S&P500 son 500 acciones!).
 
-### ¿Y qué puedes hacer entonces?
+### ¿Y qué se puede hacer entonces?
 
 Después de muchos años siendo ingeniero de software, terminé asociándome con ingenieros expertos en inversiones para crear justamente el servicio que habría necesitado en esos primeros años de trabajo.
 
