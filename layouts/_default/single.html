@@ -6,21 +6,20 @@
     <div class="site-wrapper">
       <div class="page allocation-page">
 
-        <div class="container">
-          <div class="allocation-box">
+        <div class="container page-content footer-big__overlap">
 
-            <main class="content" role="main">
+            <div class="row">
 
-              <h1 class="simulator-page__title header__title">{{.Title}}</h1>
-              <div class="simulator-page__subtitle">{{.Description}}</div>
-              <div class="simulator-page__cta">
+              <div class="col-sm-9 col-sm-offset-1">
+                <h1 class="simulator-page__title header__title">{{.Title}}</h1>
+                <div class="simulator-page__subtitle">{{.Description}}</div>
+                <br>
                 {{ .Content }}
               </div>
-            </main>
+            </div>
           </div>
         </div>
       </div>
-    </div>
     {{ partial "landing-footer" . }}
  </body>
 </html>
