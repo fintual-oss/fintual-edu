@@ -24,14 +24,14 @@ Después de mucho dar vueltas, llegué a que lo mejor que puedes hacer con tus p
 
 ### **¿Qué es una inversión pasiva?**
 
-Se trata de invertir siguiendo índices de mercado, como el IPSA por ejemplo, y **no cambiar tu inversión a cada rato**.
+Se trata de invertir en una combinación de _índices de mercado_, como el IPSA, el S&P500 y el Nasdaq por ejemplo, y **no cambiar tu inversión a cada rato**.
 
-Lo importante es saber seguir índices de manera barata, porque una forma sería gastarte tu sueldo comprando cada una de las acciones que conforman el IPSA, pero de nuevo, si no tienes un buen acuerdo con un corredor, **te lo gastas todo en comisiones de compra/venta**.
+Lo difícil es justamente lograr una inversión diversificada que siga varios índices de manera barata. Si te pusieras a comprar un poquito de cada una de las acciones que conforman esos índices **te gastarías un montón de plata solo en comisiones de compra/venta** y te volverías loco tratando de mantenerte al día con las proporciones (solo el S&P500 son 500 acciones!).
 
 Después de muchos años siendo ingeniero de software, terminé asociándome con ingenieros expertos en inversiones para crear justamente el servicio que habría necesitado en esos primeros años de trabajo.
 
 Se trata de un **servicio 100% online que hace una inversión pasiva por ti**, es todo automatizado y no tiene ejecutivos o sucursales con mármol en la entrada. Por eso puede cobrar tan poco: 1.19% al año.
 
-Te recomiendo que hagas la simulación y veas cómo tu plata puede rentar:
+Aunque ya te hayas gastado tu primer sueldo, te recomiendo entrar a hacer la simulación para ver cómo tu plata puede rentar con Fintual, es gratis y sin compromiso:
 
 <a class="simulator-page__button btn btn--secondary" href="https://fintual.com/#empezar">Empezar</a>
