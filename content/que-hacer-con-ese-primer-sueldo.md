@@ -4,7 +4,9 @@ draft = false
 title = "¿Qué hacer con ese primer sueldo?"
 
 +++
-Cuando entré a trabajar me explicaron lo que era "pagar el piso", que es invitar a toda la oficina a tomarse una cerveza o algo y **pagar con el primer sueldo**. 
+Cuando entré a trabajar me explicaron lo que era "pagar el piso", que es invitar a toda la oficina a tomarse una cerveza o algo y **pagar con el primer sueldo**.
+
+![](/uploads/rsk1gl.jpg)
 
 No lo quise hacer, no se si por amarrete o porque no quería juntarme a pagarle cervezas a **puros desconocidos que se aprovechaban** de que yo era el nuevo.
 
