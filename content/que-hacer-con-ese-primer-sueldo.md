@@ -14,19 +14,21 @@ Cuando gané mi primer sueldo yo vivía **todavía** con mis papás, así que cr
 
 Entonces me puse a mirar si habían acciones donde podía invertir, **me hice una cuenta en una corredora de bolsa** y me puse a adivinar si LAN, CAP o CENCOSUD.
 
-Invertir en acciones **no resultó ser una buena idea** porque hay que gastar mucho tiempo investigando.
+Invertir en acciones **no resultó ser una buena idea** porque hay que gastar mucho tiempo investigando y es fácil gastarse toda la ganancia en comisiones.
 
-Además, para lograr que las comisiones de compra/venta no se coman la ganancia tienes que tener un muy buen acuerdo con un corredor, y si tienes menos de 1 millón de dólares es imposible lograrlo.
+Para que las comisiones de compra/venta no se coman la ganancia tienes que tener un muy buen acuerdo con un corredor, y si tienes menos de 1 millón de dólares es imposible lograrlo.
 
 Después **fui al banco y pregunté por los Fondos Mutuos**: terrible. Te cobran algo así como 4-5% cada año, lo que **se come toda la rentabilidad**.
 
-Después de mucho dar vueltas, llegué a que lo mejor que puedes hacer con tus primeros sueldos es empezar una inversión pasiva.
+> ##### Después de mucho dar vueltas, llegué a que lo mejor que puedes hacer con tus primeros sueldos es empezar una inversión pasiva.
 
-### **¿Qué es una inversión pasiva?**
+### ¿Qué es una inversión pasiva?
 
 Se trata de invertir en una combinación de _índices de mercado_, como el IPSA, el S&P500 y el Nasdaq por ejemplo, y **no cambiar tu inversión a cada rato**.
 
-Lo difícil es justamente lograr una inversión diversificada que siga varios índices de manera barata. Si te pusieras a comprar un poquito de cada una de las acciones que conforman esos índices **te gastarías un montón de plata solo en comisiones de compra/venta** y te volverías loco tratando de mantenerte al día con las proporciones (solo el S&P500 son 500 acciones!).
+Lo difícil es seguir varios índices de manera **barata**. Si te pusieras a comprar un poquito de cada una de las acciones que conforman esos índices **te gastarías un montón de plata solo en comisiones de compra/venta** y te volverías chango tratando de mantenerte al día re-balanceando para mantener las proporciones correctas (solo el S&P500 son 500 acciones!).
+
+### ¿Y qué hacer entonces?
 
 Después de muchos años siendo ingeniero de software, terminé asociándome con ingenieros expertos en inversiones para crear justamente el servicio que habría necesitado en esos primeros años de trabajo.
 
