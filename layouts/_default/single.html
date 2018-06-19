@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="{{.Site.LanguageCode}}">
+ {{ partial "landing-head" . }}
+ <body>
+   {{ partial "landing-nav" . }}
+    <div class="site-wrapper">
+      <div class="page allocation-page">
+
+        <div class="container">
+          <div class="allocation-box">
+
+            <main class="content" role="main">
+
+              <h1 class="simulator-page__title header__title">{{.Title}}</h1>
+              <div class="simulator-page__subtitle">{{.Description}}</div>
+              <div class="simulator-page__cta">
+                {{ .Content }}
+              </div>
+            </main>
+          </div>
+        </div>
+      </div>
+    </div>
+    {{ partial "landing-footer" . }}
+ </body>
+</html>
