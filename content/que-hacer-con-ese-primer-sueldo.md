@@ -8,7 +8,7 @@ Cuando entré a trabajar me explicaron lo que era "pagar el piso", que es invita
 
 ![huele a pagada de piso](/uploads/rsk1gl.jpg "Yoda Meme")
 
-**No lo quise hacer**, no se si por amarrete o porque no quería juntarme a pagarle cervezas a **puros desconocidos que se aprovechaban** de que yo era el nuevo.
+**No lo quise hacer**, no se si por amarrete o porque no quería juntarme a pagar las cervezas de **puros desconocidos que se aprovechaban** de que yo era el nuevo.
 
 Cuando gané mi primer sueldo yo vivía **todavía** con mis papás, así que creo que necesitaba como un 20% de lo que ganaba, y **no sabía muy bien qué hacer con lo que me sobraba**. Sabía que  la plata había que invertirla, que no era bueno dejarla en la cuenta corriente porque era regalarle plata al banco.
 
