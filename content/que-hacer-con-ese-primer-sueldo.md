@@ -36,7 +36,7 @@ Lo difícil es seguir varios índices de manera **barata**. Si te pusieras a com
 
 Después de muchos años siendo ingeniero de software, terminé asociándome con ingenieros expertos en inversiones para crear justamente el servicio que habría necesitado en esos primeros años de trabajo (ahora que tengo una hija no me sobra la plata y tengo que ahorrar para su colegiatura!).
 
-Se trata de un **servicio 100% online que hace una inversión pasiva por ti**, es todo automatizado y no tiene ejecutivos o sucursales con mármol en la entrada. Por eso puede cobrar tan poco: 1.19% al año.
+Fintual es un **servicio 100% online que hace una inversión pasiva por ti**, tiene todo automatizado y no tiene ejecutivos o sucursales con mármol en la entrada. Por eso puede cobrar tan poco: 1.19% al año.
 
 Aunque ya te hayas gastado tu primer sueldo, te recomiendo entrar a hacer la simulación para ver cómo tu plata puede rentar con Fintual, es gratis y sin compromiso:
 
