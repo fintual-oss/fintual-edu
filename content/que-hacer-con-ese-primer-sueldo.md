@@ -20,7 +20,7 @@ Después **fui al banco y pregunté por los Fondos Mutuos**: terrible. Te cobran
 
 Después de mucho dar vueltas, llegué a que lo mejor que puedes hacer con tus primeros sueldos es empezar una inversión pasiva.
 
-**¿Qué es una inversión pasiva?**
+### **¿Qué es una inversión pasiva?**
 
 Se trata de invertir siguiendo índices de mercado, como el IPSA por ejemplo, y **no cambiar tu inversión a cada rato**.
 
