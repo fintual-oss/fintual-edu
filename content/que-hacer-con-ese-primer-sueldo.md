@@ -42,4 +42,4 @@ Fintual es un **servicio 100% online que hace una inversión pasiva por ti**, ti
 
 Aunque ya te hayas gastado tu primer sueldo, te recomiendo entrar a hacer la simulación para ver cómo tu plata puede rentar con Fintual, es gratis y sin compromiso:
 
-<a class="simulator-page__button btn btn--secondary" href="[https://fintual.com/?utm_source=edu&utm_medium=landing&utm_campaign=first-salary#empezar](https://fintual.com/?utm_source=edu&utm_medium=landing&utm_campaign=first-salary#empezar "https://fintual.com/?utm_source=edu&utm_medium=landing&utm_campaign=first-salary#empezar")">Empezar</a>
+<a class="simulator-page__button btn btn--secondary" href="https://fintual.com/?utm_source=edu&utm_medium=landing&utm_campaign=first-salary#empezar">Empezar</a>
