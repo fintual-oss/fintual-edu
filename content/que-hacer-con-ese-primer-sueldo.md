@@ -18,11 +18,11 @@ Sí tenía algo claro:
 
 > La plata hay que invertirla. No es bueno dejarla en la cuenta corriente porque es como **regalarle plata al banco**.
 
-Entonces me puse a mirar si habían acciones donde podía invertir, **me hice una cuenta en una corredora de bolsa** y me puse a adivinar si LAN, CAP o CENCOSUD.
+Entonces me puse a mirar si habían acciones donde podía invertir, abrí una cuenta en una corredora de bolsa y **me puse a adivinar si me convenía meter plata en LAN, CAP o CENCOSUD**.
 
-Invertir en acciones **no resultó ser una buena idea** porque hay que gastar mucho tiempo investigando y es fácil gastarse toda la ganancia en comisiones.
+Invertir en acciones **no resultó ser una buena idea** porque hay que gastar mucho tiempo investigando y es fácil gastarse toda la ganancia en las comisiones de compra/venta que te cobra el corredor.
 
-Para que las comisiones de compra/venta no se coman la ganancia tienes que tener un muy buen acuerdo con un corredor, y si tienes menos de 1 millón de dólares es imposible lograrlo.
+Hay gente que gana plata en la bolsa, pero para que las comisiones no se coman la ganancia tienes que tener un muy buen acuerdo con un corredor, y si tienes menos de 1 millón de dólares es imposible lograrlo.
 
 Después **fui al banco y pregunté por los Fondos Mutuos**: terrible. Te cobran algo así como 4-5% cada año, lo que **se come toda la rentabilidad**.
 
