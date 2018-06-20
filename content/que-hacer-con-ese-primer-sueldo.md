@@ -22,7 +22,7 @@ Entonces me puse a mirar si habían acciones donde podía invertir, abrí una cu
 
 Invertir en acciones **no resultó ser una buena idea** porque hay que gastar mucho tiempo investigando y es fácil gastarse toda la ganancia en las comisiones de compra/venta que te cobra el corredor.
 
-Hay gente que gana plata en la bolsa, pero para que las comisiones no se coman la ganancia tienes que tener un muy buen acuerdo con un corredor, y si tienes menos de 1 millón de dólares es imposible lograrlo.
+Hay gente que gana harta plata en la bolsa, pero para que las comisiones no se coman la ganancia tienes que tener un muy buen acuerdo con un corredor, y si tienes menos de 1 millón de dólares es imposible lograrlo.
 
 Después **fui al banco y pregunté por los Fondos Mutuos**: terrible. Te cobran algo así como 4-5% cada año, lo que **se come toda la rentabilidad**.
 
