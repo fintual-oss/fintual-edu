@@ -17,3 +17,5 @@ fields:
   type: boolean
   hidden: false
   default: true
+pages:
+- content/test123.md
