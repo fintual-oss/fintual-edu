@@ -17,5 +17,3 @@ fields:
   type: boolean
   hidden: false
   default: true
-pages:
-- content/que-hacer-con-ese-primer-sueldo-2.md
