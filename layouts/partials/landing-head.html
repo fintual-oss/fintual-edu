@@ -1,9 +1,11 @@
 
 <head>
+    {{partial "google_tag_manager_head.html" . }}
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
     {{/*partial "twitter_card.html" . */}}
+
 
   	<meta property="og:title" content="{{ if ne .URL "/" }}{{ .Title }} &middot; {{ end }}{{ .Site.Title }}" />
   	<meta property="og:site_name" content="{{ .Site.Title }}" />
@@ -68,8 +70,6 @@
     {{ else }}
       {{ partial "semantic.html" . }}
     {{end}}
-
-    {{ partial "google_analytics.html" . }}
 
     {{ if .Site.Params.customHeaderPartial }}
         {{ partial .Site.Params.customHeaderPartial . }}
