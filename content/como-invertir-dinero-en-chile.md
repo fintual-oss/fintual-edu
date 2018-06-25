@@ -6,7 +6,7 @@ title = "¿Cómo invertir dinero en Chile?"
 +++
 Si quieres invertir dinero en Chile, tienes varias opciones:
 
-1. **Fondos Mutuos**
+**1) Fondos Mutuos**
 
 Los fondos mutuos no son gratis.
 
@@ -16,7 +16,7 @@ Si uno de esos fondos mutuos rentara 5% en un año, entonces con esa comisión t
 
 Que los fondos mutuos son caros en Chile es algo que todos sabemos en la industria financiera.
 
-1. **Invertir en acciones**
+**2) Invertir en acciones**
 
 Invertir en acciones es difícil.
 
@@ -24,7 +24,7 @@ Decir que tienes acciones te hace parecer  inteligente y podrás presumir con tu
 
 Cuando inviertes en acciones pagas, dependiendo de la corredora, un 0,5% de comisión al comprar y otro 0,5% al vender. Suba o baje la acción, ya tienes un 1% menos de tu dinero.
 
-1. **Depósitos a plazo**
+**3) Depósitos a plazo**
 
 Los depósitos a plazo te dan cerca a un 0,23% al mes¹, lo que en un año se traduce en 2,76%.
 
@@ -32,7 +32,7 @@ Los depósitos a plazo te dan cerca a un 0,23% al mes¹, lo que en un año se tr
 
 O sea que si durante el año pasado fuiste renovando depósitos a plazo en tu banco, no es que hayas ganado realmente mucho. **Apenas lograste ganarle a la inflación** y el precio de las cosas subirá igual a como sube tu plata.
 
-1. **Inversión pasiva en índices**
+**4) Inversión pasiva en índices**
 
 Los ETF son instrumentos muy prácticos porque siguen índices de mercado, entregan la diversificación que necesitas pero al mismo tiempo son baratos.
 
