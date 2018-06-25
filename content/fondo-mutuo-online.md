@@ -16,5 +16,4 @@ Rescatar el dinero tampoco tiene costo.
 
 Fintual es fácil de usar y te muestra cómo le ha ido a tu inversión de manera simple y comprensible.
 
-Prueba haciendo una [https://fintual.com/?utm_source=edu&utm_medium=landing&utm_campaign=fondo-mutuo-online#empezar](simulación sin compromiso):
-
+Prueba haciendo una [simulación sin compromiso](https://fintual.com/?utm_source=edu&utm_medium=landing&utm_campaign=fondo-mutuo-online#empezar)
