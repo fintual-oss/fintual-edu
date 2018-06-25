@@ -36,6 +36,6 @@ O sea que si durante el año pasado fuiste renovando depósitos a plazo en tu ba
 
 Los ETF son instrumentos muy prácticos porque siguen índices de mercado, entregan la diversificación que necesitas pero al mismo tiempo son baratos.
 
-Fintual es una Administradora General de Fondos, regulada por la CMF, que te ofrece un portafolio diversificado, personalizado para tu caso de inversión.
+Fintual es una Administradora General de Fondos, regulada por la CMF, que te ofrece acceder a tres Fondos diversificados que invierten en ETFs y cobra solo 1.19% al año.
 
-<a class="simulator-page__button btn btn--secondary" href="[https://fintual.com/?utm_source=edu&utm_medium=landing&utm_campaign=first-salary#empezar](https://fintual.com/?utm_source=edu&utm_medium=landing&utm_campaign=first-salary#empezar "https://fintual.com/?utm_source=edu&utm_medium=landing&utm_campaign=first-salary#empezar")">Empezar</a>
+Para simular una inversión haz [click acá](https://fintual.com/?utm_source=edu&utm_medium=landing&utm_campaign=como-invertir#empezar)
