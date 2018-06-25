@@ -4,7 +4,7 @@ draft = false
 title = "¿Cómo invertir dinero en Chile?"
 
 +++
-Si quieres invertir dinero en Chile, tienes varias opciones:
+Las alternativas para invertir en Chile son las siguientes:
 
 <br>
 
