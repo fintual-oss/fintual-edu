@@ -3,7 +3,9 @@ date = "2018-07-02T19:48:26+00:00"
 title = "Renta poco el depósito a plazo?"
 
 +++
-![](/uploads/omar.jpg)Es una pregunta que he escuchado a cada rato. La respuesta rápida es más o menos así: los depósitos a plazo rentan lo que le corresponde rentar por su nivel de riesgo, y depende del banco.
+![](/uploads/omar.jpg)<br>
+
+Es una pregunta que he escuchado a cada rato. La respuesta rápida es más o menos así: los depósitos a plazo rentan lo que le corresponde rentar por su nivel de riesgo, y depende del banco.
 
 Recuerda que cuando inviertes en un depósito a plazo, tú estás prestándole plata al banco para que éste a su vez se la preste a otros. Como el banco presta con una tasa de interés más alta que la tasa de interés del depósito que te entrega a ti, el banco se gana la diferencia.
 
