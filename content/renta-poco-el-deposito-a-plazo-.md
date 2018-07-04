@@ -3,7 +3,7 @@ date = "2018-07-02T19:48:26+00:00"
 title = "Renta poco el depósito a plazo?"
 
 +++
-![](/uploads/omar_pm.jpg)<br>
+![](/uploads/Screen Shot 2018-07-04 at 8.08.10 AM.png)<br>
 
 Es una pregunta que he escuchado a cada rato. La respuesta rápida es más o menos así: los depósitos a plazo rentan lo que le corresponde rentar por su nivel de riesgo, y depende del banco.
 
