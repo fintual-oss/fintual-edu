@@ -1,6 +1,6 @@
 +++
 date = "2018-07-02T19:48:26+00:00"
-title = "¿Renta poco el depósito a plazo?"
+title = "¿Rentan poco los depósitos a plazo?"
 
 +++
 ![](/uploads/Screen Shot 2018-07-04 at 8.08.10 AM.png)<br>
