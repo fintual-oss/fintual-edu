@@ -5,7 +5,7 @@ title = "¿Qué es un robotadvisor y por qué te conviene?"
 +++
 Un **robotadvisor** o "roboadvisor" es un asesor financiero, automatizado.
 
-![](/uploads/finance-2837085_1280.png =300x300) 
+![](/uploads/finance-draw.png)
 
 La gente que tiene mucha plata puede contratar a una persona experta en inversiones que les ayuda a invertir su dinero, pero no todo el mundo tiene suficiente dinero para hacer eso.
 
