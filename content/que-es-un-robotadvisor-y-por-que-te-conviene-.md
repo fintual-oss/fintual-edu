@@ -5,7 +5,7 @@ title = "¿Qué es un robotadvisor y por qué te conviene?"
 +++
 Un **robotadvisor** o "roboadvisor" es un asesor financiero, automatizado.
 
-![](/uploads/finance-2837085_1280.png =300)La gente que tiene mucha plata puede contratar asesores financieros que les ayudan a invertir su dinero, pero no todo el mundo tiene suficiente dinero para hacer eso.
+![](/uploads/finance-2837085_1280.png =300x300)La gente que tiene mucha plata puede contratar asesores financieros que les ayudan a invertir su dinero, pero no todo el mundo tiene suficiente dinero para hacer eso.
 
 Si alguien quiere invertir bien pero no tiene suficiente dinero como para contratar a un asesor que le ayude, le conviene pensar en un robotadvisor. [Fintual](https://fintual.com/?utm_source=edu&utm_medium=landing&utm_campaign=roboadvisor) es el primer robotadvisor que funciona en Chile desde Marzo del 2018 y atiende personas aunque tengan solo 5 mil pesos para empezar.
 
