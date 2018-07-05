@@ -18,6 +18,7 @@ fields:
   hidden: false
   default: true
 pages:
+- content/si-eres-de-acid-labs--te-queremos-regalar-una-pizza.md
 - content/renta-poco-el-deposito-a-plazo-.md
 - content/como-invertir-dinero-en-chile.md
 - content/inversion-online-en-chile-desde--5.000.md
