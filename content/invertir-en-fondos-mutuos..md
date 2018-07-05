@@ -5,11 +5,7 @@ title = "Invertir en fondos mutuos."
 +++
 Invertir bien no es sencillo.
 
-Los depósitos a plazos y los fondos mutuos son soluciones más o menos malas pero muy usadas por ser simples.
-
-A los depósitos a plazos ya los analizamos un poquito [acá.](https://blog.fintual.cl/el-dep%C3%B3sito-a-plazo-es-una-mala-inversi%C3%B3n-entonces-qu%C3%A9-fintual-b3688432911d)
-
-Veamos los fondos mutuos.
+Y los fondos mutuos son soluciones más o menos malas pero muy usados por ser simples.
 
 Para empezar: no son gratis.
 
