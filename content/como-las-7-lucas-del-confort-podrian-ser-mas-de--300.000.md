@@ -22,4 +22,4 @@ Y para preguntar y simular que pasaría si en vez de $7.000 invirtieran $50.000.
 
 O $1.000.000.
 
-Si entran a [Fintual](https://fintual.cl/ "Fintual") van a poder descubrilo.
+Si entran a [Fintual](https://fintual.cl/ "Fintual") van a poder descubrirlo.
