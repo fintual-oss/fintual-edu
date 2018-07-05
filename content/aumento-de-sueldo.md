@@ -1,6 +1,6 @@
 +++
 date = "2018-07-05T04:01:25+00:00"
-title = "aumento de sueldo"
+title = "Aumento de sueldo"
 
 +++
 ¿Te subieron el sueldo?
