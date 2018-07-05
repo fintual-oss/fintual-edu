@@ -12,3 +12,5 @@ Pero no lo metas en los típicos fondos mutuos, ni menos en un depósito a plazo
 Nada de eso.
 
 Dale un vistazo a [Fintual,](www.fintual.cl) donde ayudamos a personas que no saben de inversiones a hacerlo bien y simple.
+
+![](/uploads/Screen Shot 2018-07-04 at 10.31.40 PM.png)
