@@ -3,9 +3,7 @@ date = "2018-07-05T05:56:30+00:00"
 title = "El mejor café es el que inviertes."
 
 +++
-### **El café te quita tiempo de vida.**
-
-![](https://cdn-images-1.medium.com/max/800/1\*NUF-h3-UCqcgSC5nF99DoQ.png)Debe decir: inviértelo en fintual.com (y ser rediseñado por Alina)
+El café te quita tiempo de vida.
 
 No se trata de la última publicación científica sobre la cafeína.
 
