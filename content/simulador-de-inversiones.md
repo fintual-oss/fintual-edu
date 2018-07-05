@@ -5,6 +5,6 @@ title = "Simulador de inversiones"
 +++
 ¿Necesitas un simulador de inversiones para saber cuánto puedes ganar?
 
-Hicimos [este simulador](fintual.com/simulador) que puedes revisar.
+Hicimos [este simulador](fintual.com/simulador) para que puedes revisar.
 
-Te servirá para darte cuenta cuanto le afecta la comisión que te cobran a la rentabilidad que puedes obtener cuando inviertes.
+Te servirá para darte cuenta cuánto afecta la comisión que te cobran a la rentabilidad que puedes obtener cuando inviertes.
