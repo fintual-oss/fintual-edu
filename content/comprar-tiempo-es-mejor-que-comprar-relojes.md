@@ -21,7 +21,7 @@ Tiempo para un año sabático, tiempo para buscar respuestas en ti o tiempo para
 
 ¿Cómo se compra tiempo?
 
-Ahorrando algo de tu sueldo mes a mes e invirtiéndolo a largo plazo para aprovechar el efecto del interés compuesto de la rentabilidad. 
+Ahorrando algo de tu sueldo mes a mes e invirtiéndolo a largo plazo para aprovechar el efecto del interés compuesto de la rentabilidad.
 
 Y cuando necesites ese tiempo para ti, vas y usas todo el tiempo que te compraste.
 
