@@ -16,5 +16,3 @@ Si trabajas en 2Brains, recibe gratis una pizza familiar de pepperoni hoy 6 de j
 3) comer :)
 
 <br>
-
-Tienes hasta las 6pm.
