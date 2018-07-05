@@ -1,6 +1,6 @@
 +++
 date = "2018-07-05T04:32:13+00:00"
-title = "Invertir en fondos mutuos."
+title = "¿Cómo es la inversión en fondos mutuos?"
 
 +++
 Invertir bien no es sencillo.
