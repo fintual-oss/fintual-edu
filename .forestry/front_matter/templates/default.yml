@@ -17,6 +17,10 @@ fields:
   type: boolean
   hidden: false
   default: true
+- type: text
+  name: image
+  label: image
+  description: image used on links
 pages:
 - content/si-eres-de-acid-labs--te-queremos-regalar-una-pizza.md
 - content/6-de-julio---pizza-gratis-para-los-2brains.md
