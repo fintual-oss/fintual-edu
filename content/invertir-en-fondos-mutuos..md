@@ -41,6 +41,6 @@ Sacamos una licencia regulatoria y armamos nosotros mismos nuestros propios fond
 
 Qué tiernos nos vemos en esta lista junto al BBVA, Santander, BancoEstado y Banchile.
 
-Le cobramos a todos un único precio (1,19% anual) y como en [FINTUAL](http://www.fintual.com/)somos casi todos computines y financieros, lo hicimos en una plataforma de internet que creemos que es muy sencilla y simpática.
+Le cobramos a todos un único precio (1,19% anual) y como en [FINTUAL](http://www.fintual.com/) somos casi todos computines y financieros, lo hicimos en una plataforma de internet que creemos que es muy sencilla y simpática.
 
 Mira [www.fintual.com](http://www.fintual.com/) y ve si te gustaría invertir ;)
