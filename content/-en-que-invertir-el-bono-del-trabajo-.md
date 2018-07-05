@@ -3,9 +3,7 @@ date = "2018-07-05T03:46:08+00:00"
 title = "¿En qué invertir el bono del trabajo?"
 
 +++
-¿Recibiste un bono en tu trabajo?
-
-Aparte de envidiarte, te recomendamos que lo inviertas.
+¿Recibiste un bono en tu trabajo? Aparte de envidiarte, te recomendamos que lo inviertas. 
 
 Las alternativas que tienes en Chile son las siguientes:
 
