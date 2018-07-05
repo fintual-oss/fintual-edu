@@ -15,7 +15,7 @@ Y lo único que logras es gastar el dinero que conseguiste vendiendo tu tiempo e
 
 Sí, ésa es la buena noticia: puedes comprar tiempo.
 
-Tiempo para un año sabático, tiempo para buscar respuestas en ti o tiempo para ir al Mundial (probablemente el 2026 porque al de Qatar no sé si clasifiquemos).
+Tiempo para un año sabático durante el cual entrenar y entrenar, tiempo para buscar respuestas en ti o tiempo para ir al Mundial (probablemente el 2026 porque al de Qatar no sé si clasifiquemos).
 
 ¿Cómo se compra tiempo?
 
