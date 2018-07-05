@@ -1,6 +1,6 @@
 +++
 date = "2018-07-05T22:13:45+00:00"
-title = "6 de Julio - pizza gratis para los 2Brains"
+title = "6 de julio - pizza gratis para los 2Brains"
 
 +++
 Si trabajas en 2Brains, recibe gratis una pizza familiar de pepperoni hoy 6 de julio en tu oficina. 
