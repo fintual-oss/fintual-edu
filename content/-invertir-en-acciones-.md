@@ -1,6 +1,6 @@
 +++
 date = "2018-07-05T04:21:03+00:00"
-title = "¿Invertir en acciones?"
+title = "¿Tiene sentido invertir en acciones?"
 
 +++
 Al buscar en qué invertir, ésta es la opción que te hace parecer más inteligente y con la que probablemente te guste presumir con tus amigos. Pero es también en la que más te expones a ser embaucado si no sabes.
