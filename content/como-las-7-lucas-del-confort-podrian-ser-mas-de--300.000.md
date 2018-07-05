@@ -4,7 +4,7 @@ draft = true
 title = "cómo las 7 lucas del confort podrían ser más de $300.000"
 
 +++
-Cachen esta conversación en twitter (les juramos que no son palos blancos).
+Cachen [esta conversación](https://twitter.com/JmChile/status/1014684402411016195 "esta conversación") en twitter (les juramos que no son palos blancos).
 
 ![](/uploads/Screen Shot 2018-07-04 at 6.32.38 PM.png)
 
@@ -23,4 +23,4 @@ Y para preguntar y simular que pasaría si en vez de $7.000 invirtieran $50.000.
 
 O $1.000.000.
 
-Si entran a [Fintual]() van a poder descubrilo.
+Si entran a [Fintual](https://fintual.cl/ "Fintual") van a poder descubrilo.
