@@ -1,6 +1,6 @@
 +++
 date = "2018-07-05T03:27:00+00:00"
-title = "¿Compra de departamentos?"
+title = "¿Seguro quieres comprar departamentos como inversión?"
 
 +++
 Hay gente que compra departamentos como inversión, lo que nos parece una alternativa interesante.
