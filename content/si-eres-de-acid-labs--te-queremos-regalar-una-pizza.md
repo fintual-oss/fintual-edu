@@ -3,7 +3,7 @@ date = "2018-07-05T20:08:20+00:00"
 title = "Si eres de Acid Labs, te queremos regalar una pizza"
 
 +++
-Si trabajas en Acid Labs, recibe gratis una pizza familiar de pepperoni hoy entre las 6:00pm y las 8:00pm en tu oficina. 
+Si trabajas en Acid Labs, recibe gratis una pizza familiar de pepperoni hoy 5 de julio entre las 6:00pm y las 8:00pm en tu oficina. 
 
   
 ![](/uploads/pizza-1344720_640.jpg)
