@@ -6,3 +6,5 @@ title = "Simulador de Fondos Mutuos"
 ¿Quieres ver cuánto ganarías invirtiendo en fondos mutuos?
 
 Mira cuanto le afecta la comisión que te cobran a la rentabilidad que puedes obtener en [este simulador](fintual.com/simulador) que creamos.
+
+![](/uploads/Screen Shot 2018-07-04 at 10.27.26 PM.png)
