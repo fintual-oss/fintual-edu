@@ -7,10 +7,14 @@ La cuenta 2 es una cuenta de ahorro voluntario, creada por las AFPs como complem
 
 Se invierte sobre los mismos fondos que la obligatoria, pero el dinero lo puedes sacar cuando quieras.
 
-En térmipero hay mucha gente a la que no le gusta darle más plata a las AFPs.
+En términos de costos, las comisiones bordean el 1% anual, menor a lo que cobran los fondos mutuos en promedio.
 
-Para esas personas algo como [Fintual](www.fintual.cl) puedes ser súper atractivo.
+El problema es que hay mucha gente a la que no le gusta "darle" más plata a las AFPs.
 
-Un servicio de inversión para personas que no saben de inversiones pero que quieren invertir bien y fácil.
+Para esas personas algo como [Fintual](www.fintual.cl) puedes ser súper atractivo, porque es un servicio de inversión independiente para personas que no saben de inversiones pero que quieren invertir bien y fácil.
 
-Échale un vistazo [aquí.](www.fintual.cl)
+Además de ser similar en comisión, los fondos no tienen restricciones como sí lo tienen los fondos de pensiones de las AFPs.
+
+Esto da más grados de libertad a los fondos que administra Fintual y podrían implicar una rentabilidad mejor.
+
+Puedes revisar de que se trata Fintual [aquí.](www.fintual.cl)
