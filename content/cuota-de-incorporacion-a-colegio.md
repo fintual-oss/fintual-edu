@@ -13,4 +13,4 @@ Una buena solución podría ser empezar a ahorrar $50.000 mensuales desde el mom
 
 Mira la simulación que hicimos.
 
-![](/uploads/Screen Shot 2018-07-04 at 8.09.38 PM.png)
+![](/uploads/Screen Shot 2018-07-04 at 8.09.38 PM.png)Si en tu caso los montos o plazos son distintos, puedes entrar a [Fintual]() y simular escenarios distintos.
