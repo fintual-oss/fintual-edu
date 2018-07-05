@@ -9,4 +9,6 @@ Un depósito a plazo puede ser bueno cuando necesitas invertir tu plata unos tre
 
 Para plazos más largas, debieras definitivamente echar un vistazo a [Fintual.](www.fintual.cl)
 
-Un servicio online para gente que no sabe de inversiones pero que quiere invertir bien y simple.![](/uploads/Screen Shot 2018-07-04 at 10.31.40 PM.png)
+Un servicio online para gente que no sabe de inversiones pero que quiere invertir bien y simple.
+
+![](/uploads/Screen Shot 2018-07-04 at 10.31.40 PM.png)
