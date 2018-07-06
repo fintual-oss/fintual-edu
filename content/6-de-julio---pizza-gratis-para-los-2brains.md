@@ -1,5 +1,6 @@
 +++
 date = "2018-07-05T22:13:45+00:00"
+draft = true
 image = "/uploads/pizza-1344720_640.jpg"
 title = "6 de julio - pizza gratis para los 2Brains"
 
