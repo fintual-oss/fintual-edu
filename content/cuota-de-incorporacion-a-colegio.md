@@ -14,4 +14,4 @@ Una buena solución podría ser empezar a ahorrar $50.000 mensuales desde el mom
 
 Mira la simulación que hicimos.
 
-![](/uploads/Screen Shot 2018-07-04 at 8.09.38 PM.png)Si en tu caso los montos o plazos son distintos, puedes entrar a [Fintual](https://fintual.cl) y simular tu caso particular.
+![](/uploads/Screen Shot 2018-07-04 at 8.09.38 PM.png)Si en tu caso los montos o plazos son distintos, puedes entrar a [Fintual](https://fintual.cl?utm_campaign=cuota-colegio&utm_source=edu&utm_medium=landing) y simular tu caso particular.
