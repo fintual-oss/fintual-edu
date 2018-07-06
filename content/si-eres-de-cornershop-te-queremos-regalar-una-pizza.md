@@ -4,14 +4,14 @@ image = ""
 title = "Si eres de Cornershop te queremos regalar una pizza"
 
 +++
-Si trabajas en Cornershop, recibe gratis una pizza familiar de pepperoni hoy 6 de julio en tu oficina (de repente para ver el partido Brasil Bélgica)
+Si trabajas en Cornershop, recibe gratis una pizza familiar de pepperoni hoy lunes 9 de julio en tu oficina
 
 ![](/uploads/pizza-1344720_640.jpg)
 
 ¿La dura? si, esto es lo que hay que hacer:
 
 1. que tú y 2 compañeros de Cornershop se inscriban en Fintual.com y cada uno deposite al menos $1.000 como inversión (esa plata es y seguirá siendo de ustedes, la pizza es gratis, queremos que prueben nuestra página)
-2. mandarnos un email a mipizza@fintual.com con los ruts de los 3 para verificar.
+2. poner los ruts de los 3 para verificar [acá](https://docs.google.com/forms/d/e/1FAIpQLSc7Dmv4ath78yffCEowMHC4odFjr3sLfJEhBdMRrOviN5Gydg/viewform).
 3. comer :)
 
 <br>
