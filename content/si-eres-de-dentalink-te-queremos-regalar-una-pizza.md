@@ -10,9 +10,9 @@ Si trabajas en Dentalink, recibe gratis una pizza familiar de pepperoni hoy 6 de
 
 ¿La dura? si, esto es lo que hay que hacer:
 
-1. que tú y 3 compañeros de Dentalink se inscriban en Fintual.com y cada uno deposite al menos $1.000 como inversión (esa plata es y seguirá siendo de ustedes, la pizza es gratis, queremos que prueben nuestra página)
-2. mandarnos un email con los ruts de los 4 para verificar.
-3. comer 
+1. que tú y 2 compañeros de Dentalink se inscriban en Fintual.com y cada uno deposite al menos $1.000 como inversión (esa plata es y seguirá siendo de ustedes, la pizza es gratis, queremos que prueben nuestra página)
+2. mandarnos un email con los ruts de los 3 para verificar.
+3. comer
 
 <br>
 
