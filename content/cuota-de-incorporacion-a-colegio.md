@@ -1,5 +1,6 @@
 +++
 date = "2018-07-05T02:46:31+00:00"
+image = ""
 title = "¿Cómo ahorrar para la cuota de incorporación del colegio?"
 
 +++
@@ -9,8 +10,8 @@ Y por si fuera poco existe un pago único adicional conocido como la cuota de in
 
 ¿Cómo enfrentar un gasto así sin descuadrarse?
 
-Una buena solución podría ser empezar a ahorrar $50.000 mensuales desde el momento en que nace su hijo/a e invertirlos en [Fintual.cl](www.fintual.cl)
+Una buena solución podría ser empezar a ahorrar $50.000 mensuales desde el momento en que nace su hijo/a e invertirlos en [Fintual.cl](https://www.fintual.cl)
 
 Mira la simulación que hicimos.
 
-![](/uploads/Screen Shot 2018-07-04 at 8.09.38 PM.png)Si en tu caso los montos o plazos son distintos, puedes entrar a [Fintual]() y simular escenarios distintos.
+![](/uploads/Screen Shot 2018-07-04 at 8.09.38 PM.png)Si en tu caso los montos o plazos son distintos, puedes entrar a [Fintual](https://fintual.cl) y simular escenarios distintos.
