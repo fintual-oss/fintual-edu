@@ -10,6 +10,6 @@ Si trabajas en 2Brains, recibe gratis una pizza familiar de pepperoni hoy 6 de j
 
 ¿La dura? si, esto es lo que hay que hacer:
 
-1. que tú y 3 compañeros de 2Brains se inscriban en Fintual.com y cada uno deposite al menos $1.000 como inversión (esa plata es y seguirá siendo de ustedes, la pizza es gratis, queremos que prueben nuestra página)
-2. mandarnos un email con los 4 inscritos para verificar.
+1. que tú y 2 compañeros de 2Brains se inscriban en Fintual.com y cada uno deposite al menos $1.000 como inversión (esa plata es y seguirá siendo de ustedes, la pizza es gratis, queremos que prueben nuestra página)
+2. mandarnos un email a 2brains@fintual.com con los 3 inscritos para verificar.
 3. comer :)
