@@ -22,9 +22,6 @@ fields:
   label: image
   description: image used on links
 pages:
-- content/si-eres-de-acid-labs--te-queremos-regalar-una-pizza.md
-- content/si-eres-de-dentalink-te-queremos-regalar-una-pizza.md
-- content/si-eres-de-synaptic-te-queremos-regalar-una-pizza.md
 - content/si-eres-de-cornershop-te-queremos-regalar-una-pizza.md
 - content/renta-poco-el-deposito-a-plazo-.md
 - content/si-estas-en-socrates-te-queremos-regalar-una-pizza.md
