@@ -4,7 +4,7 @@ image = ""
 title = "Si estás en SoCraTes te queremos regalar una pizza"
 
 +++
-Si estás en Sócrates, recibe gratis una pizza familiar de pepperoni hoy 6 de julio ahí (de repente para ver el partido Brasil Bélgica)
+Si estás en SoCraTes, recibe gratis una pizza familiar de pepperoni hoy 6 de julio ahí (de repente para ver el partido Brasil Bélgica)
 
 ![](/uploads/pizza-1344720_640.jpg)
 
