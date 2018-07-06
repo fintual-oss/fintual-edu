@@ -16,4 +16,4 @@ Si trabajas en Cornershop, recibe gratis una pizza familiar de pepperoni hoy 6 d
 
 <br>
 
-Tienes hasta las 6pm.
+Eso.
