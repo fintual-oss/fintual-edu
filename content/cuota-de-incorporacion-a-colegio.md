@@ -12,6 +12,8 @@ Y por si fuera poco existe un pago único adicional conocido como la cuota de in
 
 Una buena solución podría ser empezar a ahorrar $50.000 mensuales desde el momento en que nace su hijo/a e invertirlos.
 
-Mira la simulación que hicimos.
+Mira la simulación que hicimos:
 
-![](/uploads/Screen Shot 2018-07-04 at 8.09.38 PM.png)Si en tu caso los montos o plazos son distintos, puedes ir a [Fintual](https://fintual.cl?utm_campaign=cuota-colegio&utm_source=edu&utm_medium=landing) y simular tu caso particular.
+![](/uploads/simulador.png)
+
+Si en tu caso los montos o plazos son distintos, puedes ir a [Fintual](https://fintual.cl?utm_campaign=cuota-colegio&utm_source=edu&utm_medium=landing) y simular tu caso particular.
