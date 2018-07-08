@@ -4,7 +4,9 @@ image = ""
 title = "Paté"
 
 +++
-![](/uploads/pate-invierte-fintual.jpg)Invertir tiene que ser fácil.
+![](/uploads/Screen Shot 2018-07-08 at 9.41.39 AM.png)
+
+Invertir tiene que ser fácil.
 
 Habiendo tantas apps y páginas en internet para pedir comida, arrendar autos o encontrar trabajo, ¿cómo no existía una que te ayudara a invertir bien y fácil tu plata?
 
