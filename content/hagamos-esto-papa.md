@@ -4,7 +4,7 @@ image = ""
 title = "Hagamos esto papa"
 
 +++
-![](/uploads/papa-invierte-fintual.jpg)
+![](/uploads/Screen Shot 2018-07-08 at 9.43.17 AM.png)
 
 Invertir tiene que ser fácil.
 
@@ -52,6 +52,6 @@ Fintual es una institución financiera regulada. Cool pero regulada. La Comisió
 
 Oye ¿y la papa?
 
-Algunas personas dicen que algo es papa cuando es fácil. 
+Algunas personas dicen que algo es papa cuando es fácil.
 
 Y nosotros queremos eso, que invertir sea papa.
