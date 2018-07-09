@@ -10,7 +10,7 @@ Si trabajas en CasaCo, recibe gratis una pizza familiar de pepperoni.
 
 ![](/uploads/pizza-1344720_640.jpg)
 
-Amigos de CasaCo, queremos invitarlos a probar Fintual, una manera simple de ahorrar e invertir para la gente que no ama las finanzas.
+Amigos de CasaCo, queremos invitarlos a probar Fintual, una manera simple de ahorrar e invertir para gente que no ama las finanzas.
 
 ¿La dura? si, esto es lo que hay que hacer:
 
