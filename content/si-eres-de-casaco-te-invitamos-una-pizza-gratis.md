@@ -1,6 +1,5 @@
 +++
 date = "2018-07-09T18:14:26+00:00"
-draft = true
 image = "https://edu.fintual.com/uploads/pizza-1344720_640.jpg"
 title = "Martes 10 de julio - Si eres de CasaCo te regalamos una pizza de pepperoni"
 
