@@ -5,8 +5,6 @@ image = "https://edu.fintual.com/uploads/pizza-1344720_640.jpg"
 title = "Martes 10 de julio - Si eres de CasaCo te regalamos una pizza de pepperoni"
 
 +++
-**Solo martes 10 de julio**
-
 Si trabajas en CasaCo, recibe gratis una pizza familiar de pepperoni.
 
 
