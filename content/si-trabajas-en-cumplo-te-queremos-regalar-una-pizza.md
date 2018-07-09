@@ -1,6 +1,5 @@
 +++
 date = "2018-07-09T14:51:04+00:00"
-draft = true
 image = "/uploads/pizza-1344720_640.jpg"
 title = "Si trabajas en Cumplo te queremos regalar una pizza"
 
