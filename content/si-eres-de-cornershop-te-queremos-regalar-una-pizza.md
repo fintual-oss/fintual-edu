@@ -12,7 +12,7 @@ Si trabajas en Cornershop, recibe gratis una pizza familiar de pepperoni hoy lun
 
 1) que tú y 2 compañeros de Cornershop se inscriban en [Fintual.com](https://fintual.com) y cada uno deposite al menos $1.000 como inversión (esa plata es y seguirá siendo de ustedes, la pizza es gratis, queremos que prueben nuestra página)
 
-2) poner los ruts de los 3 para verificar [acá](https://docs.google.com/forms/d/e/1FAIpQLSc7Dmv4ath78yffCEowMHC4odFjr3sLfJEhBdMRrOviN5Gydg/viewform).
+2) mandarnos un email a mipizza@fintual.com con los 3 ruts de los inscritos
 
 3) comer :)
 
