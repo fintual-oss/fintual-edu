@@ -2,17 +2,22 @@
 date = "2018-07-09T18:14:26+00:00"
 draft = true
 image = "https://edu.fintual.com/uploads/pizza-1344720_640.jpg"
-title = "Si eres de CasaCo te regalamos una pizza de pepperoni"
+title = "Martes 10 de julio - Si eres de CasaCo te regalamos una pizza de pepperoni"
 
 +++
-**Solo durante el martes 10 de Julio!**
+**Solo martes 10 de julio**
 
-Amigos de CasaCo, queremos invitarlos a probar Fintual, la primera Fintech para invertir de manera simple que está regulada por la Comisión de Mercado Financiero. 
+Si trabajas en CasaCo, recibe gratis una pizza familiar de pepperoni.
 
-Para hacer todo más buena onda y que puedan probar Fintual, vamos a regalarles pizzas.
 
 ![](/uploads/pizza-1344720_640.jpg)
 
-Por cada 3 personas que hayan invertido mil pesos o más en su cuenta Fintual, mandaremos una pizza familiar de pepperoni a la CasaCo.
+Amigos de CasaCo, queremos invitarlos a probar Fintual, para invertir de manera simple. Está regulada por la Comisión de Mercado Financiero. 
 
-Cuando ya hayan invertido, escriban un email a mipizza@fintual.com con los ruts de 3 compañeros y nosotros nos encargamos del resto.
+¿La dura? si, esto es lo que hay que hacer:
+
+1) que tú y 2 compañeros de CasaCo se inscriban en [Fintual.com](https://fintual.com/) y cada uno invierta mil pesos o más (esa plata es y seguirá siendo de ustedes, la pizza es gratis, queremos que prueben nuestra página)
+
+2) mandarnos un email a mipizza@fintual.com con los 3 ruts de los inscritos
+
+3) comer :)
