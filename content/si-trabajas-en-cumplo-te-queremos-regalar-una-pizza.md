@@ -1,7 +1,7 @@
 +++
 date = "2018-07-09T14:51:04+00:00"
 image = "/uploads/pizza-1344720_640.jpg"
-title = "Si trabajas en Cumplo te queremos regalar una pizza"
+title = "Si trabajas en Cumplo, te queremos regalar una pizza"
 
 +++
 Si trabajas en Cumplo, recibe gratis una pizza familiar de pepperoni hoy lunes 9 de julio en tu oficina
