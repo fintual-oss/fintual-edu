@@ -6,7 +6,7 @@ title = "10 de julio - Si eres de CasaCo te queremos regalar una pizza de pepper
 +++
 ![](/uploads/pizza-1344720_640.jpg)
 
-Porque te queremos invitar a probar Fintual, una manera simple de invertir y ahorrar para gente que no ama las finanzas.
+Los queremos invitar a probar Fintual, una manera simple de invertir y ahorrar para gente que no ama las finanzas, y para eso les regalamos una pizza.
 
 ¿La dura? si, esto es lo que hay que hacer:
 
