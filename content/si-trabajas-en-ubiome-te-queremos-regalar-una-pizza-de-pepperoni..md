@@ -1,7 +1,7 @@
 +++
 date = "2018-07-10T21:24:12+00:00"
 draft = true
-image = ""
+image = "https://edu.fintual.com/uploads/pizza-1344720_640.jpg"
 title = "10 de julio - Si trabajas en Ubiome, te queremos regalar una pizza de pepperoni."
 
 +++
