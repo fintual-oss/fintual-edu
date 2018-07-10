@@ -1,6 +1,6 @@
 +++
 date = "2018-07-06T13:54:02+00:00"
-image = ""
+image = "https://edu.fintual.com/uploads/pizza-1344720_640.jpg"
 title = "Si eres de Cornershop te queremos regalar una pizza"
 
 +++
