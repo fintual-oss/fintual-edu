@@ -1,7 +1,7 @@
 +++
 date = "2018-07-10T22:30:52+00:00"
 draft = true
-image = ""
+image = "https://edu.fintual.com/uploads/pizza-1344720_640.jpg"
 title = "11 de julio - si eres de Linets te queremos regalar una pizza."
 
 +++
