@@ -1,7 +1,7 @@
 +++
 date = "2018-07-06T13:54:02+00:00"
 image = "https://edu.fintual.com/uploads/pizza-1344720_640.jpg"
-title = "Si eres de Cornershop te queremos regalar una pizza"
+title = "11 de julio - si eres de Cornershop te queremos regalar una pizza"
 
 +++
 Queremos invitar a todos los que trabajan en Cornershop a probar Fintual y les mandaremos pizza de pepperoni **este viernes** a los que lo hagan.
