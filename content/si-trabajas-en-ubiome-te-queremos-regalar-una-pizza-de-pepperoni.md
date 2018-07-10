@@ -1,7 +1,7 @@
 +++
 date = "2018-07-10T21:24:12+00:00"
 image = "https://edu.fintual.com/uploads/pizza-1344720_640.jpg"
-title = "10 de julio - Si trabajas en Ubiome, te queremos regalar una pizza."
+title = "11 de julio - Si trabajas en Ubiome, te queremos regalar una pizza."
 
 +++
 Queremos invitar a todos los que trabajan en Ubiome a probar Fintual y les mandaremos pizza de pepperoni **este viernes** a los que lo hagan.
