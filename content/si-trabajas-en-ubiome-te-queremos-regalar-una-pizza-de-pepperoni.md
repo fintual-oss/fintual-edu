@@ -14,7 +14,7 @@ Queremos invitar a todos los que trabajan en Ubiome a probar Fintual y les manda
 
 1 ) que tú y dos compañeros de Ubiome sigan los pasos en [Fintual.com](https://fintual.com/?utm_source=edu&utm_medium=landing&utm_campaign=pizzas) y lleguen a invertir mil pesos o más (esa plata es y seguirá siendo de ustedes, la pizza es gratis, queremos que prueben nuestra página).
 
-2 ) que uno de ustedes mande un email a mipizza@fintual.com con los ruts de los inscritos.
+2 ) que uno de ustedes mande un email a mipizza@fintual.com con los nombres de los inscritos.
 
 3 ) comer :)
 
