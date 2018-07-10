@@ -1,7 +1,28 @@
 +++
 date = "2018-07-10T21:24:12+00:00"
 draft = true
-title = "Si trabajas en Ubiome, te queremos regalar una pizza de pepperoni."
+image = ""
+title = "10 de julio - Si trabajas en Ubiome, te queremos regalar una pizza de pepperoni."
 
 +++
+![](/uploads/pizza-1344720_640.jpg)
 
+Queremos invitar a todos los que trabajan en Ubiome a probar Fintual y les mandaremos pizza de pepperoni este viernes si lo hacen.
+
+¿La dura? sí, así es la cosa:
+
+<br>
+
+1) mandaremos una pizza familiar por cada 3 compañeros de Ubiome que sigan los pasos en [Fintual.com](https://fintual.com/) y lleguen a invertir mil pesos o más (esa plata es y seguirá siendo de ustedes, la pizza es gratis, queremos que prueben nuestra página). Solo vale si se inscriben HOY 10 de julio.
+
+<br>
+
+2) alguno de ustedes tiene que mandar un email a mipizza@fintual.com con los ruts de los inscritos. 
+
+<br>
+
+3) comer :)
+
+<br>
+
+Eso.
