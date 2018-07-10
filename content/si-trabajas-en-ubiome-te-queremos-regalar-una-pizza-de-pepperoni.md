@@ -6,7 +6,8 @@ title = "10 de julio - Si trabajas en Ubiome, te queremos regalar una pizza de p
 +++
 Queremos invitar a todos los que trabajan en Ubiome a probar Fintual y les mandaremos pizza de pepperoni **este viernes** a los que lo hagan.
 
-![](/uploads/pizza-1344720_640.jpg)
+<img src="/uploads/pizza-1344720_640.jpg" width="500"/>
+
 
 ¿La dura? sí, esto es lo que hay que hacer hoy:
 
