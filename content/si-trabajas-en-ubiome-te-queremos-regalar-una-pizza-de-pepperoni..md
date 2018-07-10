@@ -13,7 +13,7 @@ Queremos invitar a todos los que trabajan en Ubiome a probar Fintual y les manda
 
 <br>
 
-1) que tú y dos compañeros de Ubiome sigan los pasos en [Fintual.com](https://fintual.com/) y lleguen a invertir mil pesos o más (esa plata es y seguirá siendo de ustedes, la pizza es gratis, queremos que prueben nuestra página). Solo vale si se inscriben HOY 10 de julio.
+1) que tú y dos compañeros de Ubiome sigan los pasos en [Fintual.com](https://fintual.com/) y lleguen a invertir mil pesos o más (esa plata es y seguirá siendo de ustedes, la pizza es gratis, queremos que prueben nuestra página).
 
 <br>
 
