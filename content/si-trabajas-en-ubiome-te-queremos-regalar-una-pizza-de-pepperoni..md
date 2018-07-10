@@ -9,11 +9,11 @@ title = "10 de julio - Si trabajas en Ubiome, te queremos regalar una pizza de p
 
 Queremos invitar a todos los que trabajan en Ubiome a probar Fintual y les mandaremos pizza de pepperoni este viernes si lo hacen.
 
-¿La dura? sí, así es la cosa:
+¿La dura? sí, esto es lo que hay que hacer:
 
 <br>
 
-1) mandaremos una pizza familiar por cada 3 compañeros de Ubiome que sigan los pasos en [Fintual.com](https://fintual.com/) y lleguen a invertir mil pesos o más (esa plata es y seguirá siendo de ustedes, la pizza es gratis, queremos que prueben nuestra página). Solo vale si se inscriben HOY 10 de julio.
+1) que tú y dos compañeros de Ubiome sigan los pasos en [Fintual.com](https://fintual.com/) y lleguen a invertir mil pesos o más (esa plata es y seguirá siendo de ustedes, la pizza es gratis, queremos que prueben nuestra página). Solo vale si se inscriben HOY 10 de julio.
 
 <br>
 
