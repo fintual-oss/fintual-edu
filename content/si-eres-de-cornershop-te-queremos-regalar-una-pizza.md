@@ -4,7 +4,7 @@ image = "https://edu.fintual.com/uploads/pizza-1344720_640.jpg"
 title = "11 de julio - si eres de Cornershop te queremos regalar una pizza"
 
 +++
-Queremos invitar a todos los que trabajan en Cornershop a probar Fintual y les mandaremos pizza de pepperoni **este viernes** a los que lo hagan.
+Queremos invitar a todos los que trabajan en Cornershop a probar Fintual y les mandaremos pizza de pepperoni este viernes a los que lo hagan.
 <br>
 <br>
 <img src="/uploads/pizza-1344720_640.jpg" style="width:100%;height: auto;"/>
