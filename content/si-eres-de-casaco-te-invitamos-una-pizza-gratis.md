@@ -1,7 +1,7 @@
 +++
 date = "2018-07-09T18:14:26+00:00"
 image = "https://edu.fintual.com/uploads/pizza-1344720_640.jpg"
-title = "Martes 10 de julio - Si eres de CasaCo te regalamos una pizza de pepperoni"
+title = "10 de julio - Si eres de CasaCo te queremos regalar una pizza de pepperoni"
 
 +++
 ![](/uploads/pizza-1344720_640.jpg)
