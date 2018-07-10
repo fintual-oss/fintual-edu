@@ -4,7 +4,7 @@ image = "https://edu.fintual.com/uploads/pizza-1344720_640.jpg"
 title = "10 de julio - Si trabajas en Ubiome, te queremos regalar una pizza de pepperoni."
 
 +++
-Queremos invitar a todos los que trabajan en Ubiome a probar Fintual y les mandaremos pizza de pepperoni **este viernes** si lo hacen.
+Queremos invitar a todos los que trabajan en Ubiome a probar Fintual y les mandaremos pizza de pepperoni **este viernes** a los que lo hagan.
 
 ![](/uploads/pizza-1344720_640.jpg)
 
