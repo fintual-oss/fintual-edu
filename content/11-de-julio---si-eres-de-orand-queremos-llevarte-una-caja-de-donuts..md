@@ -5,7 +5,7 @@ image = "https://edu.fintual.com/uploads/donuts.jpg"
 title = "11 de julio - si eres de Orand queremos llevarte una caja de donuts."
 
 +++
-Queremos invitar a todos los que trabajan en Orand a probar Fintual y les mandaremos una caja de donuts si lo hacen.
+Queremos invitar a todos los que trabajan en Orand a probar Fintual y les mandaremos una caja de 12 donuts si lo hacen.
 <br>
 <br>
 <img src="/uploads/donuts.jpg" style="width:100%;height: auto;"/>
