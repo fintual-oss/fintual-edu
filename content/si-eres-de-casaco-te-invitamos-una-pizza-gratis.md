@@ -10,6 +10,8 @@ Los queremos invitar a probar Fintual, una manera simple de invertir y ahorrar p
 
 ¿La dura? sí, esto es lo que hay que hacer:
 
+<br>
+
 1) que tú y 2 compañeros de CasaCo se inscriban en [Fintual.com](https://fintual.com/) y cada uno invierta mil pesos o más (esa plata es y seguirá siendo de ustedes, la pizza es gratis, queremos que prueben nuestra página)
 
 <br>
