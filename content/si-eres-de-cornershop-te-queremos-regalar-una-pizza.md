@@ -12,7 +12,7 @@ Queremos invitar a todos los que trabajan en Cornershop a probar Fintual y les m
 <br>
 ¿La dura? sí, esto es lo que hay que hacer hoy:
 
-1 ) que tú y dos compañeros de Cornershop sigan los pasos en [Fintual.com](https://fintual.com/?utm_source=edu&utm_medium=landing&utm_campaign=pizzas) y lleguen a invertir mil pesos o más (esa plata es y seguirá siendo de ustedes, la pizza es gratis, queremos que prueben nuestra página).
+1 ) que tú y dos compañeros de Cornershop sigan los pasos en [Fintual.com](https://fintual.com/?utm_source=edu&utm_medium=landing&utm_campaign=pizzas) y lleguen a invertir mil pesos o más (esa plata es inversión de ustedes, la pizza es gratis, queremos que prueben nuestra página).
 
 2 ) que uno de ustedes mande un email a mipizza@fintual.com con los nombres de los inscritos.
 
