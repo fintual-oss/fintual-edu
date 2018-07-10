@@ -8,7 +8,7 @@ title = "10 de julio - Si eres de CasaCo te queremos regalar una pizza de pepper
 
 Los queremos invitar a probar Fintual, una manera simple de invertir y ahorrar para gente que no ama las finanzas, y para eso les regalamos una pizza.
 
-¿La dura? si, esto es lo que hay que hacer:
+¿La dura? sí, esto es lo que hay que hacer:
 
 1) que tú y 2 compañeros de CasaCo se inscriban en [Fintual.com](https://fintual.com/) y cada uno invierta mil pesos o más (esa plata es y seguirá siendo de ustedes, la pizza es gratis, queremos que prueben nuestra página)
 
