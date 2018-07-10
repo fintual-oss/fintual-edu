@@ -13,7 +13,7 @@ Queremos invitar a todos los que trabajan en Orand a probar Fintual y les mandar
 <br>
 ¿La dura? sí, esto es lo que hay que hacer hoy:
 
-1 ) que tú y dos compañeros de Orand sigan los pasos en [Fintual.com](https://fintual.com/?utm_source=edu&utm_medium=landing&utm_campaign=pizzas) y lleguen a invertir mil pesos o más (esa plata es inversión de ustedes, la pizza es gratis, queremos que prueben nuestra página).
+1 ) que tú y dos compañeros de Orand sigan los pasos en [Fintual.com](https://fintual.com/?utm_source=edu&utm_medium=landing&utm_campaign=pizzas) y lleguen a invertir mil pesos o más (esa plata es inversión de ustedes, los donuts son gratis, queremos que prueben nuestra página).
 
 2 ) que uno de ustedes mande un email a donuts@fintual.com con los nombres de los inscritos.
 
