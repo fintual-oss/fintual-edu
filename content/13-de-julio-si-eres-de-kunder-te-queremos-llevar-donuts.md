@@ -1,6 +1,5 @@
 +++
 date = "2018-12-10T22:30:52+00:00"
-draft = true
 image = "https://edu.fintual.com/uploads/donuts.jpg"
 title = "13 de julio - si eres de Kunder te queremos regalar donuts."
 
