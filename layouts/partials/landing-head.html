@@ -3,7 +3,6 @@
     {{partial "google_tag_manager_head.html" . }}
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <link rel="shortcut icon" href="/uploads/favicon.ico">
     
     {{partial "twitter_card.html" . }}
 
@@ -44,8 +43,7 @@
     <meta name="HandheldFriendly" content="True" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <link rel="shortcut icon" href="{{ "images/favicon.ico" | relURL}}">
-	  <link rel="apple-touch-icon" href="{{ "images/apple-touch-icon.png" | relURL}}" />
+    <link rel="shortcut icon" href="{{ "uploads/favicon.ico" | relURL}}">
     <link rel="stylesheet" type="text/css" href="https://www.fintual.com/assets/application.css" />
 
     {{ range .Site.Params.customCSS }}
