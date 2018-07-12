@@ -20,7 +20,7 @@ Y listo.
 
 Cosas importantes a considerar:
 
-Cada vez que transfieras (automática o manualmente) identificamos la cuenta de origen sin que tengas que avisarnos y la invertimos en el mismo plan que ya tienes.
+1 Cada vez que transfieras (automática o manualmente) identificamos la cuenta de origen sin que tengas que avisarnos y la invertimos en el mismo plan que ya tienes.
 
 2 Si creas más de un objetivo de inversión, te llegará un mail nuestro preguntándote en cual quieres meter la plata. Revisa el spam si no.
 
