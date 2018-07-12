@@ -22,6 +22,8 @@ En esa vista verás “¿Desea programar esta transferencia?” Si eliges sí, 
 
 ![](https://cdn-images-1.medium.com/max/800/1\*msSD4B_mM-tMlUT2vfPjiQ.png)
 
+<br>
+
 Y listo.
 
 <br>
