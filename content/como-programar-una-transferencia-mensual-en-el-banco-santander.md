@@ -12,7 +12,7 @@ Algo que puedes hacer es programar transferencias mensuales en la cuenta de tu b
 
 <br>
 
-Para eso, en tu cuenta del banco haz clic la columna de la izquierda donde dice Transferencia. Aparecerá una vista con seis botones arriba. Clic en el que dice Programadas.
+Para eso, en tu cuenta del Santander haz clic en la columna de la izquierda donde dice Transferencia. Aparecerá una vista con seis botones arriba. Clic en el que dice Programadas.
 
 <br>
 
