@@ -30,8 +30,6 @@ Y listo.
 
 IMPORTANTE:
 
-<br>
-
 1 Si tienes un objetivo identificamos la cuenta de origen sin que tengas que avisarnos.
 
 2 Si creas **más de un objetivo** de inversión, te llegará un mail nuestro preguntándote en cual quieres meter la plata. Revisa el spam si no.
