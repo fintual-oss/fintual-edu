@@ -1,7 +1,7 @@
 +++
 date = "2018-07-10T22:30:52+00:00"
 image = "https://edu.fintual.com/uploads/donuts.jpg"
-title = "12 de julio - si eres de Linets te queremos regalar donuts."
+title = "12 de julio - si eres de Kunder te queremos regalar donuts."
 
 +++
 Si trabajas en Kunder te queremos invitar a probar Fintual (una manera simple de invertir bien) y mandaremos una caja de 12 donuts de regalo a los que lo hagan.
