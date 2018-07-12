@@ -2,7 +2,7 @@
 date = "2018-07-10T22:38:22+00:00"
 draft = true
 image = "https://edu.fintual.com/uploads/donuts.jpg"
-title = "11 de julio - si eres de Zenta queremos llevarte una caja de donuts."
+title = "12 de julio - si eres de Zenta queremos llevarte una caja de donuts."
 
 +++
 Queremos invitar a todos los que trabajan en Zenta Group a probar Fintual y les mandaremos una caja de 12 donuts si lo hacen.
