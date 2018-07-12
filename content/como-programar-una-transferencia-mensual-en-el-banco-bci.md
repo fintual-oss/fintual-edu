@@ -12,7 +12,7 @@ Algo que puedes hacer es programar transferencias mensuales en la cuenta de tu b
 
 <br>
 
-Para eso, en tu cuenta del banco haz clic arriba a la izquierda en Transferencias y elige Transferencias Fondos en línea. 
+Para eso, en tu cuenta del BCI haz clic arriba a la izquierda en Transferencias y elige Transferencias Fondos en línea. 
 
 <br>
 
