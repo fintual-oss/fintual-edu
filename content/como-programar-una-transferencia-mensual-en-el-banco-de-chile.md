@@ -4,9 +4,9 @@ image = ""
 title = "Cómo programar una transferencia mensual en el Banco de Chile"
 
 +++
-Una cosa que puedes hacer cuando inviertes en [FINTUAL](http://www.fintual.com) es programar transferencias mensuales en la cuenta de tu banco.
+Una cosa que puedes hacer cuando inviertes en [FINTUAL](http://www.fintual.com) es programar transferencias mensuales en la cuenta de tu banco.<br>
 
-Da lo mismo lo que hayas invertido antes, puedes sumarle un monto fijo cada mes a tu objetivo de inversión.
+Da lo mismo lo que hayas invertido antes, puedes sumarle un monto fijo cada mes a tu objetivo de inversión.<br>
 
 Para eso, en tu cuenta del banco haz clic arriba en Transferencias y Pagos. Elige Transferencias. Y en la parte de Configurar, haz clic en Transferencias Programadas:
 
