@@ -23,6 +23,7 @@ fields:
   label: image
   description: image used on links
 pages:
+- content/como-programar-una-transferencia-mensual-en-el-banco-santander.md
 - content/como-programar-una-transferencia-mensual-en-el-banco-bci.md
 - content/como-programar-una-transferencia-mensual-en-el-banco-de-chile.md
 - content/si-trabajas-en-ubiome-te-queremos-regalar-una-pizza-de-pepperoni.md
