@@ -8,7 +8,7 @@ title = "Cómo programar una transferencia mensual en el Banco de Chile"
 
 <br>
 
-Algo que puedes hacer es programar transferencias mensuales en la cuenta de tu banco. Da lo mismo lo que hayas invertido antes, puedes sumarle un monto fijo cada mes a tu objetivo de inversión.
+Algo que puedes hacer es programar transferencias mensuales en la cuenta de tu banco (da lo mismo lo que hayas invertido antes, puedes sumarle un monto fijo cada mes a tu objetivo de inversión).
 
 <br>
 
