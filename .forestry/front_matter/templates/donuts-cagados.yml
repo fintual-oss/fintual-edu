@@ -22,3 +22,5 @@ fields:
   hidden: true
   config:
     required: true
+pages:
+- content/la-d-de-dcc-significa-donas.md
