@@ -19,3 +19,6 @@ fields:
   label: layout
   name: layout
   default: donuts_cagados
+  hidden: true
+  config:
+    required: true
