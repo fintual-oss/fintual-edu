@@ -44,7 +44,7 @@
     {{ with .Params.image }}
     "image": {
         "@type": "ImageObject",
-        "url": {{ printf "%s%s" $.Site.BaseURL . }},
+        "url": {{ printf "%s" . }},
         "width": 3000,
         "height": 1445
     },
