@@ -24,14 +24,10 @@ fields:
   description: image used on links
 pages:
 - content/si-eres-de-linets-te-mandamos-ensaladas.md
-- content/si-trabajas-en-ubiome-te-queremos-regalar-una-pizza-de-pepperoni.md
-- content/11-de-julio-si-eres-de-impresee-queremos-llevarte-una-caja-de-donuts.md
 - content/si-eres-de-kunder-hay-donuts.md
-- content/si-eres-de-cornershop-te-queremos-regalar-una-pizza.md
 - content/como-programar-una-transferencia-mensual-en-el-banco-de-chile.md
 - content/como-programar-una-transferencia-mensual-en-el-banco-bci.md
 - content/como-programar-una-transferencia-mensual-en-el-banco-santander.md
-- content/si-estas-en-socrates-te-queremos-regalar-una-pizza.md
 - content/como-invertir-dinero-en-chile.md
 - content/inversion-online-en-chile-desde--5.000.md
 - content/aumento-de-sueldo.md
@@ -39,7 +35,6 @@ pages:
 - content/impuesto-a-la-herencia.md
 - content/como-las-7-lucas-del-confort-podrian-ser-mas-de--300.000.md
 - content/compra-de-departamentos.md
-- content/11-de-julio-si-eres-de-cloner-te-queremos-regalar-una-caja-de-donuts.md
 - content/cuota-de-incorporacion-a-colegio.md
 - content/invierte-palta.md
 - content/-en-que-invertir-el-bono-del-trabajo-.md
@@ -60,6 +55,3 @@ pages:
 - content/que-es-un-robotadvisor-y-por-que-te-conviene-.md
 - content/pate.md
 - content/hagamos-esto-papa.md
-- content/si-trabajas-en-cumplo-te-queremos-regalar-una-pizza.md
-- content/10-de-julio-si-eres-de-magnet-te-queremos-regalar-una-pizza.md
-- content/si-eres-de-casaco-te-invitamos-una-pizza-gratis.md
