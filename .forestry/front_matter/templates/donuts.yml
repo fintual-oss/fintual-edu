@@ -7,6 +7,9 @@ fields:
   name: image
   label: image
   default: "/uploads/donuts.jpg"
+  hidden: true
+  config:
+    required: true
 - type: text
   name: company
   label: company
@@ -16,6 +19,9 @@ fields:
   name: layout
   label: layout
   default: donuts
+  config:
+    required: true
+  hidden: true
 pages:
 - content/11-de-julio-si-eres-de-sosafe-queremos-llevarte-una-caja-de-donuts.md
 - content/si-eres-de-4talent-tenemos-donuts-para-ti.md
