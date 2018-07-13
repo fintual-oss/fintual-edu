@@ -26,7 +26,6 @@ fields:
   name: title
   label: title
 pages:
-- content/donas-para-synaptic-ahora.md
 - content/11-de-julio-si-eres-de-sosafe-queremos-llevarte-una-caja-de-donuts.md
 - content/continuum-quiere-comer-donuts.md
 - content/queremos-regalarle-donuts-a-los-khipu.md
@@ -40,7 +39,8 @@ pages:
 - content/donuts-para-bbr.md
 - content/tenemos-donuts-para-4talent.md
 - content/queremos-mandarle-donuts-a-cornershop.md
-- content/donas-para-la-gente-del-ministerio-de-economia.md
 - content/donas-para-pricing-compass.md
+- content/donas-para-synaptic-ahora.md
+- content/donas-para-la-gente-del-ministerio-de-economia.md
 - content/queremos-mandarle-donuts-a-platanus.md
 - content/queremos-regalarle-donuts-a-los-coredevx.md
