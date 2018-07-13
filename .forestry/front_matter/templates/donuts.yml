@@ -4,20 +4,16 @@ hide_body: false
 is_partial: false
 fields:
 - type: text
-  label: title
-  name: title
-- type: datetime
-  name: date
-  label: date
-- type: text
   name: image
   label: image
+  default: "/uploads/donuts.jpg"
 - type: text
   name: company
   label: company
 - type: text
   name: layout
   label: layout
+  default: donuts
 pages:
 - content/11-de-julio-si-eres-de-sosafe-queremos-llevarte-una-caja-de-donuts.md
 - content/si-eres-de-4talent-tenemos-donuts-para-ti.md
