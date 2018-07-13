@@ -7,7 +7,7 @@ fields:
   name: image
   label: image
   default: https://edu.fintual.com/uploads/donuts.jpg
-  hidden: true
+  hidden: false
   config:
     required: true
 - type: text
