@@ -26,6 +26,7 @@ fields:
   name: title
   label: title
 pages:
+- content/queremos-regalarle-donuts-a-cumplo.md
 - content/continuum-quiere-comer-donuts.md
 - content/si-trabajas-en-corfo-tienes-donas.md
 - content/queremos-mandarle-donuts-a-abstract.md
