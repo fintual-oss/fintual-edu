@@ -1,5 +1,5 @@
 {{ if .IsPage }}
-    {{ with .Params.large_image }}
+    {{ with .Params.image }}
         <!-- Twitter summary card with large image must be at least 280x150px -->
         <meta name="twitter:card" content="summary_large_image"/>
         <meta name="twitter:image" content="{{ .  | relURL }}"/>
