@@ -1,0 +1,17 @@
+---
+label: donuts
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  label: title
+  name: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: image
+  label: image
+- type: text
+  name: company
+  label: company
