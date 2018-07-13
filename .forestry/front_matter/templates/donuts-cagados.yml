@@ -22,3 +22,5 @@ fields:
   hidden: true
   config:
     required: true
+pages:
+- content/donas-para-todo-everis.md
