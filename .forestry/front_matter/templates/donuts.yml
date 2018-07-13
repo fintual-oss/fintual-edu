@@ -10,6 +10,8 @@ fields:
 - type: text
   name: company
   label: company
+  config:
+    required: true
 - type: text
   name: layout
   label: layout
