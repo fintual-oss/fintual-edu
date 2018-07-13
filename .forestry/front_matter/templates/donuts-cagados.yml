@@ -1,0 +1,21 @@
+---
+label: Donuts Cagados
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: company
+  label: company
+  config:
+    required: true
+- type: text
+  name: image
+  label: image
+  hidden: true
+  config:
+    required: true
+  default: "/uploads/donuts.jpg"
+- type: text
+  label: layout
+  name: layout
+  default: donuts_cagados
