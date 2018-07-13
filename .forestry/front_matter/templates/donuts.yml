@@ -22,6 +22,9 @@ fields:
   config:
     required: true
   hidden: true
+- type: text
+  name: title
+  label: title
 pages:
 - content/11-de-julio-si-eres-de-sosafe-queremos-llevarte-una-caja-de-donuts.md
 - content/continuum-quiere-comer-donuts.md
