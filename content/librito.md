@@ -1,10 +1,10 @@
 +++
-date = "2018-07-14T00:40:18+00:00"
+date = ""
 image = ""
 title = "Libro"
 
 +++
-![Grey cover of the Unsplash book with written names in Toronto](https://images.unsplash.com/photo-1461419912973-9964f1f54b24?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=1f4fff70025a2bf77191c2a7ee6fac76&dpr=1&auto=format&fit=crop&w=1000&q=80&cs=tinysrgb)
+![](https://images.unsplash.com/photo-1506953752663-add60014e80e?ixlib=rb-0.3.5&s=c5ca4925b3c2f815597cafa99acaa454&dpr=1&auto=format&fit=crop&w=1000&q=80&cs=tinysrgb)
 
 En estos años hemos conversado con varias personas bacanes sobre el dinero. 
 
