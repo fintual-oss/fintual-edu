@@ -1,7 +1,7 @@
 +++
 date = "2018-07-14T00:40:18+00:00"
 image = ""
-title = "librito"
+title = "Libro"
 
 +++
 En estos años hemos conversado con varias personas bacanes sobre el dinero. 
