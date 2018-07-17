@@ -4,7 +4,7 @@ image = "https://edu.fintual.com/uploads/morgan-1.jpg"
 title = "¿Sabes cuánto te cobra tu fondo mutuo?"
 
 +++
-Es **super difícil saber cuánto te cobra tu fondo mutuo**, tal vez porque a los mismos bancos no les conviene que la gente sepa. Mucha gente incluso cree que son gratis.
+Es **super difícil saber cuánto te cobra tu fondo mutuo**, tal vez porque a los mismos bancos no les conviene que la gente sepa. Mucha gente cree que son gratis, pero no lo son.
 
 Por eso inventamos a Morgan "Feeman", el servicio que te ayudará a saber cuánto te están cobrando.
 
