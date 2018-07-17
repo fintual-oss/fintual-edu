@@ -1,7 +1,7 @@
 +++
 date = "2018-07-17T19:23:11+00:00"
 image = "https://edu.fintual.com/uploads/morgan-1.jpg"
-title = "¿Sabes cuánto te cobra tu fondo mutuo?"
+title = "¿Cuánto te cobra tu fondo mutuo?"
 
 +++
 Es **super difícil saber cuánto te cobra tu fondo mutuo**.
