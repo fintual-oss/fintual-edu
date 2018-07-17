@@ -16,8 +16,6 @@ Por eso inventamos a Morgan "Feeman", un servicio gratuito que te ayudará a sab
 
 <br>
 
-Funciona así:
-
 **Escríbele un email a** [**morgan@fintual.com**](mailto://morgan@fintual.com) diciéndole:
 
 1) el nombre del fondo en que invertiste
@@ -27,6 +25,8 @@ Funciona así:
 3) cuánto tiempo ha pasado
 
 No te preocupes: mantenemos todo confidencial.
+
+**<br>**
 
 **Te responderemos en términos simples cuánto ganaste y cuánto pagaste en comisiones.**
 
