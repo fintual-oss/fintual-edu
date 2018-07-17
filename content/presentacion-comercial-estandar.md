@@ -4,7 +4,7 @@ image = ""
 title = "Presentación Comercial Estándar"
 
 +++
-![](/uploads/Screen Shot 2018-07-04 at 10.31.40 PM.png)
+![](/uploads/Screen Shot 2018-07-17 at 3.28.07 PM.png)
 
 Hicimos esta presentación porque clientes con más experiencia nos han pedido más detalles de los fondos. 
 
