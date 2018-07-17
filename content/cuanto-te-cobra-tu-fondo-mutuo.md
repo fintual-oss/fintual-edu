@@ -10,7 +10,7 @@ Por eso inventamos a Morgan "Feeman", el servicio que te ayudará a saber cuánt
 
 <br>
 
-<img src="/uploads/morgan-1.jpg" style="width:100%;height: auto;"/>
+<img src="/uploads/morgan.jpg" style="width:100%;height: auto;"/>
 
 <br>
 
