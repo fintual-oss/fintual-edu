@@ -6,11 +6,7 @@ title = "Presentación Comercial Estándar"
 +++
 Hicimos esta presentación porque clientes con más experiencia nos han pedido más detalles de los fondos. 
 
-<br>
-
 Si no sabes de inversiones o no te interesan, no tienes para qué mirar esto.
-
-<br>
 
 Anda a ver Netflix, mejor.
 
