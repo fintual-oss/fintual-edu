@@ -8,10 +8,24 @@ Es **super difícil saber cuánto te cobra tu fondo mutuo**, tal vez porque a lo
 
 Por eso inventamos a Morgan "Feeman", el servicio que te ayudará a saber cuánto te están cobrando.
 
+<br>
+
 <img src="/uploads/morgan-1.jpg" style="width:100%;height: auto;"/>
 
-Si quieres saber cuánto has ganado y cuánto te están cobrando, **escríbele un email a morgan@fintual.com** diciéndole cuánta plata tienes en qué fondo y por cuánto tiempo la has tenido (no te preocupes que mantenemos esta información 100% confidencial)
+<br>
 
-También puedes reenviarle el mismo email que te manda el banco con la cartola de fondos (sí, esa que nadie entiende, no eres el único)
+Funciona así:
 
-Te responderemos cuánto pagaste y cuánto ganaste.
+Si quieres saber cuánto has ganado y cuánto te están cobrando, **escríbele un email a** [**morgan@fintual.com**](mailto://morgan@fintual.com) diciéndole:
+
+1) el nombre del fondo en que invertiste
+
+2) cuánta plata metiste
+
+3) cuánto tiempo ha pasado
+
+ (no te preocupes que mantenemos esta información 100% confidencial)
+
+También puedes reenviarle el mismo email que te manda el banco (sí, esa cartola que nadie entiende, no eres el único)
+
+Te responderemos en términos simples cuánto ganaste y cuánto pagaste .
