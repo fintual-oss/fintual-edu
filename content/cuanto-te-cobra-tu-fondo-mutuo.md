@@ -24,8 +24,8 @@ Si quieres saber cuánto has ganado y cuánto te están cobrando, **escríbele u
 
 3) cuánto tiempo ha pasado
 
- (no te preocupes que mantenemos esta información 100% confidencial)
+No te preocupes: mantenemos esta información 100% confidencial.
 
-También puedes reenviarle el mismo email que te manda el banco (sí, esa cartola que nadie entiende, no eres el único)
+También puedes reenviar el mismo email que te manda el banco (sí, esa cartola que no entiendes, no eres el único).
 
-Te responderemos en términos simples cuánto ganaste y cuánto pagaste .
+Te responderemos en términos simples cuánto ganaste y cuánto pagaste.
