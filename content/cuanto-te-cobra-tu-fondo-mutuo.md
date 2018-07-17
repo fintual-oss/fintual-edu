@@ -1,6 +1,6 @@
 +++
 date = "2018-07-17T19:23:11+00:00"
-image = "https://edu.fintual.com/uploads/morgan-1.jpg"
+image = "https://edu.fintual.com/uploads/morgan-2.jpg"
 title = "¿Cuánto te cobra tu fondo mutuo?"
 
 +++
@@ -28,6 +28,6 @@ No te preocupes: mantenemos todo confidencial.
 
 **<br>**
 
-**Te responderemos en términos simples cuánto ganaste y cuánto pagaste en comisiones.**
+**Te responderemos en términos simples cuánto ganaste y cuánto pagaste en comisiones**
 
 PD: También puedes reenviar el mismo email que te manda el banco (esa cartola de fondos que nadie entiende).
