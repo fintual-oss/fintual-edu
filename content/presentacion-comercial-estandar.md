@@ -14,4 +14,6 @@ Anda a ver Netflix, mejor.
 
 ![](/uploads/Screen Shot 2018-07-17 at 3.28.07 PM.png)
 
+<br>
+
 [Descargar.](http://s3.amazonaws.com/fintual.platan.us/documents/files/000/000/031/original/Fintual_Inversiones_20180710.pdf?1531843699)
