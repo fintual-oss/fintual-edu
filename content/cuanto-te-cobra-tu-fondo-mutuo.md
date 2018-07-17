@@ -26,7 +26,7 @@ Funciona así:
 
 3) cuánto tiempo ha pasado
 
-No te preocupes: mantenemos esta información 100% confidencial.
+No te preocupes: mantenemos todo confidencial.
 
 **Te responderemos en términos simples cuánto ganaste y cuánto pagaste.**
 
