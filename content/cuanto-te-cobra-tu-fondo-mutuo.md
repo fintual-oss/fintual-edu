@@ -28,6 +28,6 @@ Funciona así:
 
 No te preocupes: mantenemos todo confidencial.
 
-**Te responderemos en términos simples cuánto ganaste y cuánto pagaste.**
+**Te responderemos en términos simples cuánto ganaste y cuánto pagaste en comisiones.**
 
-PD: También puedes reenviar el mismo email que te manda el banco (sí, esa cartola de fondos que nadie entiende).
+PD: También puedes reenviar el mismo email que te manda el banco (esa cartola de fondos que nadie entiende).
