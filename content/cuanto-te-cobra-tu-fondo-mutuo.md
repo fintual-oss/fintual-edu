@@ -4,9 +4,11 @@ image = "https://edu.fintual.com/uploads/morgan-1.jpg"
 title = "¿Sabes cuánto te cobra tu fondo mutuo?"
 
 +++
-Es **super difícil saber cuánto te cobra tu fondo mutuo**, tal vez porque a los mismos bancos no les conviene que la gente sepa. 
+Es **super difícil saber cuánto te cobra tu fondo mutuo**.
 
-Por eso inventamos a Morgan "Feeman", el servicio que te ayudará a saber cuánto te están cobrando.
+Tal vez lo hacen dificil porque a los mismos bancos no les conviene que la gente sepa. 
+
+Por eso inventamos a Morgan "Feeman", un servicio gratuito que te ayudará a saber cuánto te están cobrando.
 
 <br>
 
@@ -16,7 +18,7 @@ Por eso inventamos a Morgan "Feeman", el servicio que te ayudará a saber cuánt
 
 Funciona así:
 
-Si quieres saber cuánto has ganado y cuánto te están cobrando, **escríbele un email a** [**morgan@fintual.com**](mailto://morgan@fintual.com) diciéndole:
+**Escríbele un email a** [**morgan@fintual.com**](mailto://morgan@fintual.com) diciéndole:
 
 1) el nombre del fondo en que invertiste
 
@@ -26,6 +28,6 @@ Si quieres saber cuánto has ganado y cuánto te están cobrando, **escríbele u
 
 No te preocupes: mantenemos esta información 100% confidencial.
 
-También puedes reenviar el mismo email que te manda el banco (sí, esa cartola que no entiendes, no eres el único).
+**Te responderemos en términos simples cuánto ganaste y cuánto pagaste.**
 
-Te responderemos en términos simples cuánto ganaste y cuánto pagaste.
+PD: También puedes reenviar el mismo email que te manda el banco (sí, esa cartola de fondos que nadie entiende).
