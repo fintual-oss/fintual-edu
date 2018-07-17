@@ -24,8 +24,6 @@ Por eso inventamos a Morgan "Feeman", un servicio gratuito que te ayudará a sab
 
 3) cuánto tiempo ha pasado
 
-No te preocupes: mantenemos todo confidencial.
-
 **<br>**
 
 **Recibirás una respuesta simple: cuánto ganaste y cuánto pagaste en comisiones**
