@@ -25,6 +25,9 @@ fields:
 - type: text
   name: title
   label: title
+- type: text
+  name: fecha
+  label: fecha
 pages:
 - content/continuum-quiere-comer-donuts.md
 - content/si-trabajas-en-corfo-tienes-donas.md
