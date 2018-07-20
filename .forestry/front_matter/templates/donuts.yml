@@ -26,7 +26,6 @@ fields:
   name: title
   label: title
 pages:
-- content/queremos-regalarle-donuts-a-cumplo.md
 - content/continuum-quiere-comer-donuts.md
 - content/si-trabajas-en-corfo-tienes-donas.md
 - content/queremos-mandarle-donuts-a-abstract.md
@@ -34,7 +33,6 @@ pages:
 - content/donuts-para-todo-comparaonline.md
 - content/donuts-para-bbr.md
 - content/queremos-mandarle-donuts-a-cornershop.md
-- content/tenemos-donuts-para-4talent.md
 - content/donas-para-pricing-compass.md
 - content/donas-para-synaptic-ahora.md
 - content/donas-para-la-gente-del-ministerio-de-economia.md
@@ -45,6 +43,8 @@ pages:
 - content/queremos-regalarle-donuts-a-los-khipu.md
 - content/donas-para-todo-everis.md
 - content/let-s-donuts.md
-- content/queremos-mandarle-donuts-a-platanus.md
 - content/queremos-regalarle-donuts-a-los-coredevx.md
 - content/queremos-darle-donuts-a-puntoticket.md
+- content/tenemos-donuts-para-4talent.md
+- content/queremos-regalarle-donuts-a-cumplo.md
+- content/queremos-mandarle-donuts-a-platanus.md
