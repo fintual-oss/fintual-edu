@@ -1,6 +1,5 @@
 +++
 date = "2018-07-24T22:40:18+00:00"
-draft = true
 image = "https://edu.fintual.com/uploads/sherlock.jpg"
 title = "Sherlock analiza tus fondos mutuos."
 
@@ -8,8 +7,10 @@ title = "Sherlock analiza tus fondos mutuos."
   
 ![](/uploads/sherlock.jpg)
 
-Manda tu cartola de fondos mutuos o simplemente el nombre y monto de tu fondo a sherlock@fintual.com y te diremos en palabras simples:
+Manda tu cartola de fondos mutuos o simplemente el nombre y monto de tu fondo a sherlock@fintual.com y te diremos, gratis y en palabras simples:
 
 \(1) cuánto estás pagando.
 
 \(2) cuánto estás ganando.  
+
+Eso es todo.
