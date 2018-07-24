@@ -13,4 +13,4 @@ Manda tu cartola de fondos mutuos o simplemente el nombre y monto de tu fondo a 
 
 \(2) cuánto estás ganando.  
 
-Eso es todo.
+\(3) si hay algo que puedes hacer mejor.
