@@ -6,7 +6,7 @@ title = "Sherlock analiza tus fondos mutuos."
 +++
 <img src="/uploads/sherlock.jpg" style="width:50%;height: auto;"/>
 
-Escribe un email a sherlock@fintual.com con tu cartola de fondos mutuos o simplemente el nombre y monto que invertiste en tus fondo mutuos  y te diremos, gratis y en palabras simples:
+Escribe un email a sherlock@fintual.com con tu cartola de fondos mutuos o simplemente el nombre y monto que invertiste en tus fondos mutuos  y te diremos, gratis y en palabras simples:
 
 \(1) cuánto estás pagando.
 
