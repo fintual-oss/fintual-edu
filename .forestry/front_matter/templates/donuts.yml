@@ -28,9 +28,11 @@ fields:
 - type: text
   name: fecha
   label: fecha
+  default: 27 de julio
 - type: text
   name: minimum
   label: minimum
+  default: desde $250.000
 pages:
 - content/continuum-quiere-comer-donuts.md
 - content/si-trabajas-en-corfo-tienes-donas.md
