@@ -28,6 +28,9 @@ fields:
 - type: text
   name: fecha
   label: fecha
+- type: text
+  name: minimum
+  label: minimum
 pages:
 - content/continuum-quiere-comer-donuts.md
 - content/si-trabajas-en-corfo-tienes-donas.md
