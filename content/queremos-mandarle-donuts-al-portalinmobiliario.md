@@ -5,6 +5,6 @@ fecha = "27 de julio"
 image = "https://edu.fintual.com/uploads/donuts.jpg"
 layout = "donuts_fintech"
 minimum = "desde $250.000"
-title = "Si trabajas en Portal Inmobiliario puedes recibir donuts hoy"
+title = "Si trabajas en Portal Inmobiliario, queremos mandarte unos donuts hoy"
 
 +++
