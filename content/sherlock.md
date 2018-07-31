@@ -8,7 +8,7 @@ title = "Déjanos analizar tus fondos mutuos."
 <img src="/uploads/sherlock2.jpg" style="width:50%;height: auto;"/>
 </div>
 
-<p>Estamos ofreciendo un estudio gratuito de tus inversiones en fondos mutuos nacionales.</p>
+<p>Estamos ofreciendo un estudio gratuito de inversiones en fondos mutuos nacionales.</p>
 
 <h3>1. Los fondos mutuos no son gratis.</h3>
 <p>
