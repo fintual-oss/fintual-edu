@@ -5,10 +5,10 @@ title = "Déjanos analizar tus fondos mutuos."
 
 +++
 <div class="text-center">
-  <img src="/uploads/sherlock2.jpg" style="width:50%;height: auto;"/>
+<img src="/uploads/sherlock2.jpg" style="width:50%;height: auto;"/>
 </div>
 
-<p>Estamos haciendo un estudio de mercado y te puedes beneficiar de eso.</p>
+<p>Estamos ofreciendo un estudio gratuito de tus inversiones.</p>
 
 <h3>1. Los fondos mutuos no son gratis.</h3>
 <p>
