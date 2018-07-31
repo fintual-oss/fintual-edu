@@ -10,7 +10,11 @@ title = "Servicio de análisis de fondos mutuos."
 
 <p>Mira aquí como funciona el servicio gratuito de análisis de inversiones en fondos mutuos nacionales.</p>
 
-<h3>1. Los fondos mutuos no son gratis.</h3> <p> Todos los fondos mutuos, sin excepción, cobran una remuneración que se descuenta diariamente. Casi nadie sabe cuánto le cobran, muchas veces es demasiado y esa es la principal razón por la cual muy poca gente gana plata invirtiendo en fondos mutuos. </p> <h3>2. Es muy simple mejorar tu situación.</h3> <p> Escribe un email a sherlock@fintual.com adjuntando tu cartola de fondos mutuos o simplemente poniendo el nombre del fondo, monto y fecha en que invertiste. </p> <h3>3. Recibirás un correo sencillo.</h3> <p>Te diremos en palabras simples:</p>
+<h3>1. Tu fondo mutuo te está cobrando (no es gratis).</h3> <p> Todos los fondos mutuos, sin excepción, cobran una remuneración que se descuenta diariamente. Casi nadie sabe cuánto le cobran, muchas veces es demasiado y esa es la principal razón por la cual muy poca gente gana plata invirtiendo en fondos mutuos. </p> 
+
+<h3>2. Te podemos mostrar cuánto.</h3> <p> Escribe un email a sherlock@fintual.com adjuntando tu cartola de fondos mutuos o simplemente poniendo el nombre del fondo, monto y fecha en que invertiste. </p> 
+
+<h3>3. Recibirás un correo sencillo.</h3> <p>Te diremos en palabras simples:</p>
 
 \(1) cuánto estás pagando.
 
