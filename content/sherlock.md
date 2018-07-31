@@ -1,5 +1,6 @@
 +++
 date = "2018-07-24T22:40:18+00:00"
+description = "La mayoría de los fondos mutuos cobran demasiado a sus clientes, te vamos a ayudar a saber cuánto te están cobrando."
 image = "https://edu.fintual.com/uploads/sherlock2.jpg"
 title = "Análisis gratis de tus fondos mutuos"
 
