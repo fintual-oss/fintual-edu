@@ -1,14 +1,14 @@
 +++
 date = "2018-07-24T22:40:18+00:00"
 image = "https://edu.fintual.com/uploads/sherlock2.jpg"
-title = "Análisis gratis de inversiones en fondos mutuos."
+title = "Análisis gratis de tus fondos mutuos."
 
 +++
 <div class="text-center">
 <img src="/uploads/sherlock2.jpg" style="width:50%;height: auto;"/>
 </div>
 
-<p>Mira aquí cómo aprovechar el servicio gratuito de análisis de inversiones en fondos mutuos nacionales.</p>
+<p>Mira aquí cómo aprovechar este servicio.</p>
 
 <h3>1. Tu fondo mutuo te está cobrando (no es gratis).</h3> 
 
