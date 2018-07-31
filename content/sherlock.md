@@ -1,7 +1,7 @@
 +++
 date = "2018-07-24T22:40:18+00:00"
 image = "https://edu.fintual.com/uploads/sherlock2.jpg"
-title = "Análisis gratuito de inversiones en fondos mutuos."
+title = "Análisis gratis de inversiones en fondos mutuos."
 
 +++
 <div class="text-center">
