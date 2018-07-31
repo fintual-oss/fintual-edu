@@ -8,7 +8,7 @@ title = "Análisis gratis de tus fondos mutuos"
 <img src="/uploads/sherlock2.jpg" style="width:50%;height: auto;"/>
 </div>
 
-<div class="col-sm-8 col-sm-offset-2">
+<div class="col-sm-9 col-sm-offset-2">
 
 <h3>1. Los fondos mutuos no son gratis.</h3> 
 
