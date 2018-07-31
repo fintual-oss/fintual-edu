@@ -12,7 +12,7 @@ title = "Análisis gratis de tus fondos mutuos"
 
 <p> Todos cobran una comisión que se descuenta diariamente. Casi nadie sabe cuánto y en general son caros. Por eso no se gana mucho invirtiendo en fondos mutuos. </p> 
 
-<h3>2. Te podemos mostrar cuánto te cobran.</h3> <p> Escribe un email a sherlock@fintual.com con tu caso. Puedes adjuntar tu cartola de fondos mutuos o simplemente poner el nombre del fondo, monto y fecha en que invertiste. </p> 
+<h3>2. Te podemos mostrar cuánto te cobran.</h3> <p> Escribe un email a <b>sherlock@fintual.com</b> con tu caso. Puedes adjuntar tu cartola de fondos mutuos o simplemente poner el nombre del fondo, monto y fecha en que invertiste. </p> 
 
 <h3>3. Recibirás un correo sencillo y nada más.</h3> <p>Te diremos en palabras simples:</p>
 
