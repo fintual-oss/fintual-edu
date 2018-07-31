@@ -22,6 +22,9 @@ fields:
   name: image
   label: image
   description: image used on links
+- type: text
+  name: description
+  label: Description
 pages:
 - content/si-eres-de-linets-te-mandamos-ensaladas.md
 - content/sapos.md
