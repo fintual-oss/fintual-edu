@@ -8,9 +8,9 @@ title = "Análisis gratis de tus fondos mutuos"
 <img src="/uploads/sherlock2.jpg" style="width:50%;height: auto;"/>
 </div>
 
-<h3>1. Tu fondo mutuo te está cobrando (no es gratis).</h3> 
+<h3>1. Los Fondos Mutuos no son gratis.</h3> 
 
-<p> Todos cobran una comisión que se descuenta diariamente. Casi nadie sabe cuánto, y en general son caros. Por eso no se gana mucho invirtiendo en fondos mutuos. </p> 
+<p> Todos cobran una comisión que se descuenta diariamente. Casi nadie sabe cuánto y en general son caros. Por eso no se gana mucho invirtiendo en fondos mutuos. </p> 
 
 <h3>2. Te podemos mostrar cuánto.</h3> <p> Escribe un email a sherlock@fintual.com con tu caso. Puedes adjuntar tu cartola de fondos mutuos o simplemente poner el nombre del fondo, monto y fecha en que invertiste. </p> 
 
