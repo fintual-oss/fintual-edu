@@ -1,7 +1,7 @@
 +++
 date = "2018-07-24T22:40:18+00:00"
 image = "https://edu.fintual.com/uploads/sherlock2.jpg"
-title = "Sherlock: un servicio de análisis de fondos mutuos."
+title = "Servicio de análisis de fondos mutuos."
 
 +++
 <div class="text-center">
