@@ -8,32 +8,39 @@ title = "newsletter-amigo-secreto"
 <h1>Cuando llega la navidad, tú y tus amigos usan la página gratuita que hicimos.</h1>
 
 <img src="/uploads/Screen Shot 2018-08-08 at 4.26.13 PM.png" style="width:50%;height: auto;"/>
+Seguramente ni te acuerdas
 
 <h1>¿Alguna vez te preguntaste quienes eran los que estaban detrás?</h1>
 
 <img src="/uploads/Screen Shot 2018-08-08 at 4.29.22 PM.png" style="width:50%;height: auto;"/>
+Qué onda el bigote de Jaime
 
 <h1>Apenas salimos de la universidad decidimos formar una empresa juntos.</h1>
 
-<h1>Nos fue mal al principio, queríamos hacer un Spotify</h1>
+<h1>Queríamos hacer un Spotify</h1>
 
 <img src="/uploads/Screen Shot 2018-08-08 at 4.30.49 PM.png" style="width:50%;height: auto;"/>
+
+<h1>Nos fue mal.</h1>
 
 <h1>Pero terminamos haciendo una empresa de comidas a domicilio que más o menos resultó.</h1>
 
 <img src="/uploads/Screen Shot 2018-08-08 at 4.40.04 PM.png" style="width:50%;height: auto;"/>
+Este era el auto del negro
 
 <h1>Entonces tuvimos un golpe de suerte.</h1>
 
 <img src="/uploads/Screen Shot 2018-08-08 at 4.38.49 PM.png" style="width:50%;height: auto;"/>
 
-<h1>Luego pasó el tiempo y conocimos los Bitcoins, compramos Bitcoins, nos encantaron los Bitcoins.</h1>
+<h1>Luego pasó el tiempo y conocimos los Bitcoins, nos encantaron los Bitcoins. Compramos Bitcoins.</h1>
 
 <img src="/uploads/bitcoin.jpg" style="width:50%;height: auto;"/>
+(Nos gustan harto pero nunca tanto)
 
 <h1>En eso conocimos a Guille Torrealba</h1>
 
 <img src="/uploads/Screen Shot 2018-08-08 at 4.43.43 PM.png" style="width:50%;height: auto;"/>
+El medio mino
 
 <h1>y con él construimos una página para comprar y vender Bitcoins.</h1>
 
@@ -44,6 +51,7 @@ title = "newsletter-amigo-secreto"
 <h1>Buda creció y siguió pasando el tiempo. Un día nos juntamos con Andrés,Omar y Pedro.</h1>
 
 <img src="/uploads/3.jpg" style="width:50%;height: auto;"/>
+En la fuente de soda ahí los pobrecitos.
 
 <h1>Ellos querían hacer algo para que las personas comunes y corrientes pudieran invertir su plata de manera inteligente y online.</h1>
 
