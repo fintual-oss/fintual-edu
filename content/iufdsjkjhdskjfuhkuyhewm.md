@@ -57,6 +57,6 @@ title = "newsletter-amigo-secreto"
 
 <img src="/uploads/Screen Shot 2018-08-08 at 4.51.15 PM.png" style="width:50%;height: auto;"/>
 
-<h1>Ahora cumplimos 10 años juntos y todos los años nos preocupamos de que SorteoAmigoSecreto.com siga siempre arriba, junto a tí ya son más de 2 millones de usuarios los que la usan cada navidad!</h1>
+<h1>Ahora cumplimos 10 años juntos y todos los años nos preocupamos de que SorteoAmigoSecreto.com siga siempre arriba, junto a ti ya son más de 2 millones de usuarios los que la usan cada navidad!</h1>
 
 <h1>Un abrazo y feliz no navidad!</h1>
