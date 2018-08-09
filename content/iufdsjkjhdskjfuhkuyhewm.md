@@ -6,53 +6,55 @@ title = "newsletter-amigo-secreto"
 
 +++
 Cuando llega la navidad, tú y tus amigos usan la página gratuita que hicimos.
-
-![](/uploads/Screen Shot 2018-08-08 at 4.26.13 PM.png)
+<img src="/uploads/Screen Shot 2018-08-08 at 4.26.13 PM.png" style="width:100%;height: auto;"/>
 
 ¿Alguna vez te preguntaste quienes eran los que estaban detrás?
 
-![](/uploads/Screen Shot 2018-08-08 at 4.29.22 PM.png)
+<img src="/uploads/Screen Shot 2018-08-08 at 4.29.22 PM.png" style="width:100%;height: auto;"/>
 
 Apenas salimos de la universidad decidimos formar una empresa juntos.
 
 Nos fue mal al principio, queríamos hacer un Spotify
 
-![](/uploads/Screen Shot 2018-08-08 at 4.30.49 PM.png)  
+<img src="/uploads/Screen Shot 2018-08-08 at 4.30.49 PM.png" style="width:100%;height: auto;"/>
+
 Pero terminamos haciendo una empresa de comidas a domicilio que más o menos resultó.
 
-![](/uploads/Screen Shot 2018-08-08 at 4.40.04 PM.png)
+<img src="/uploads/Screen Shot 2018-08-08 at 4.40.04 PM.png"style="width:100%;height: auto;" style="width:100%;height: auto;"/>
 
 Entonces tuvimos un golpe de suerte.
 
-![](/uploads/Screen Shot 2018-08-08 at 4.38.49 PM.png)
+<img src="/uploads/Screen Shot 2018-08-08 at 4.38.49 PM.png"style="width:100%;height: auto;" style="width:100%;height: auto;"/>
 
 Luego pasó el tiempo y conocimos los Bitcoins, compramos Bitcoins, nos encantaron los Bitcoins.
 
-![](/uploads/bitcoin.jpg)
+<img src="/uploads/bitcoin.jpg"style="width:100%;height: auto;" style="width:100%;height: auto;"/>
 
-En eso conocimos a Guille Torrealba![](/uploads/Screen Shot 2018-08-08 at 4.43.43 PM.png)
+En eso conocimos a Guille Torrealba
+
+<img src="/uploads/Screen Shot 2018-08-08 at 4.43.43 PM.png"style="width:100%;height: auto;" style="width:100%;height: auto;"/>
 
 y con él construimos una página para comprar y vender Bitcoins.
 
 Al principio tenía un nombre muy feo, pero le cambiamos el nombre a Buda.com
 
-![](/uploads/Screen Shot 2018-08-08 at 4.46.12 PM.png)
+<img src="/uploads/Screen Shot 2018-08-08 at 4.46.12 PM.png"style="width:100%;height: auto;" style="width:100%;height: auto;"/>
 
 Buda creció y siguió pasando el tiempo. Un día nos juntamos con Andrés,Omar y Pedro.
 
-![](/uploads/3.jpg)
+<img src="/uploads/3.jpg"style="width:100%;height: auto;" style="width:100%;height: auto;"/>
 
 Ellos querían hacer algo para que las personas comunes y corrientes pudieran invertir su plata de manera inteligente y online.
 
-![](/uploads/Screen Shot 2018-08-08 at 4.57.38 PM.png)
+<img src="/uploads/Screen Shot 2018-08-08 at 4.57.38 PM.png"style="width:100%;height: auto;" style="width:100%;height: auto;"/>
 
 Creamos Fintual y tuvimos que pedir una licencia que se demoró harto tiempo en aprobar.
 
-![](/uploads/Screen Shot 2018-08-08 at 4.49.40 PM.png)
+<img src="/uploads/Screen Shot 2018-08-08 at 4.49.40 PM.png"style="width:100%;height: auto;" style="width:100%;height: auto;"/>
 
 Y entonces quedamos en Y-Combinator, que es un programa de Silicon Valley muy choro para emprendedores
 
-![](/uploads/Screen Shot 2018-08-08 at 4.51.15 PM.png)
+<img src="/uploads/Screen Shot 2018-08-08 at 4.51.15 PM.png"style="width:100%;height: auto;" style="width:100%;height: auto;"/>
 
 Ahora cumplimos 10 años juntos y todos los años nos preocupamos de que SorteoAmigoSecreto.com siga siempre arriba, junto a tí ya son más de 2 millones de usuarios los que la usan cada navidad!
 
