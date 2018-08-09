@@ -6,6 +6,7 @@ title = "newsletter-amigo-secreto"
 
 +++
 Cuando llega la navidad, tú y tus amigos usan la página gratuita que hicimos.
+
 <img src="/uploads/Screen Shot 2018-08-08 at 4.26.13 PM.png" style="width:50%;height: auto;"/>
 
 ¿Alguna vez te preguntaste quienes eran los que estaban detrás?
