@@ -10,15 +10,25 @@ Estas son las cuentas donde puedes depositar tu inversión en Fintual AGF.
 ### Cuenta Security
 
 Nombre: Fintual Administradora General de Fondos S.A.
+
+
 Rut: 76810627-4
+
 Banco: Banco Security
+
 Cuenta: 917498607
 
 ### Cuenta Banco de Chile
 
 Nombre: Fintual Administradora General de Fondos S.A.
+
+
 Rut: 76810627-4
+
+
 Banco: Banco de Chile
+
+
 Cuenta: 001642711701
 
 Importante: no enviamos las cuentas de banco por email para evitar engaños.
