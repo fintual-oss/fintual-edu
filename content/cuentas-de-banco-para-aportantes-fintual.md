@@ -5,6 +5,7 @@ image = ""
 title = "Cuentas de banco para abonar en Fintual"
 
 +++
+
 Estas son las cuentas donde puedes depositar tu inversión en Fintual AGF.
 
 ### Cuenta Banco Security
