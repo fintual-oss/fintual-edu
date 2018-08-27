@@ -26,6 +26,7 @@ fields:
   name: description
   label: Description
 pages:
+- content/como-transferir-desde-el-banco-bice.md
 - content/cuentas-de-banco-para-aportantes-fintual.md
 - content/iufdsjkjhdskjfuhkuyhewm.md
 - content/sherlock.md
