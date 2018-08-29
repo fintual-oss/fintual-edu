@@ -1,10 +1,11 @@
 +++
 date = "2018-07-12T01:44:25+00:00"
+description = ""
 image = ""
 title = "Cómo programar una transferencia mensual en el Banco BCI"
 
 +++
-[FINTUAL](http://www.fintual.com/) no saca cuenta de tu plata. Tú la tienes que transferir.
+[FINTUAL](http://www.fintual.com/) no saca plata de tu cuenta. Tú la tienes que transferir.
 
 <br>
 
@@ -12,7 +13,7 @@ Algo que puedes hacer es programar transferencias mensuales en la cuenta de tu b
 
 <br>
 
-Para eso, en tu cuenta del BCI haz clic arriba a la izquierda en Transferencias y elige Transferencias Fondos en línea. 
+Para eso, en tu cuenta del BCI haz clic arriba a la izquierda en Transferencias y elige Transferencias Fondos en línea.
 
 <br>
 
@@ -20,7 +21,7 @@ En esa vista verás “¿Desea programar esta transferencia?” Si eliges sí, 
 
 <br>
 
-![](https://cdn-images-1.medium.com/max/800/1\*msSD4B_mM-tMlUT2vfPjiQ.png)
+![](https://cdn-images-1.medium.com/max/800/1*msSD4B_mM-tMlUT2vfPjiQ.png)
 
 <br>
 

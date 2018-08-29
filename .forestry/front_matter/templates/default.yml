@@ -26,6 +26,7 @@ fields:
   name: description
   label: Description
 pages:
+- content/como-programar-una-transferencia-mensual-en-el-banco-bci.md
 - content/como-transferir-desde-el-banco-bice.md
 - content/cuentas-de-banco-para-aportantes-fintual.md
 - content/iufdsjkjhdskjfuhkuyhewm.md
@@ -43,7 +44,6 @@ pages:
 - content/cuanto-te-cobra-tu-fondo-mutuo.md
 - content/librito.md
 - content/si-eres-de-linets-te-mandamos-ensaladas.md
-- content/como-programar-una-transferencia-mensual-en-el-banco-bci.md
 - content/renta-poco-el-deposito-a-plazo-.md
 - content/pate.md
 - content/mas-tiempo-y-menos-iphones.md
