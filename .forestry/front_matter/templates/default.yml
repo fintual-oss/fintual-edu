@@ -26,6 +26,7 @@ fields:
   name: description
   label: Description
 pages:
+- content/como-programar-una-transferencia-mensual-en-el-banco-santander.md
 - content/como-programar-una-transferencia-mensual-en-el-banco-bci.md
 - content/como-transferir-desde-el-banco-bice.md
 - content/cuentas-de-banco-para-aportantes-fintual.md
@@ -35,7 +36,6 @@ pages:
 - content/cuota-de-incorporacion-a-colegio.md
 - content/comprar-tiempo-es-mejor-que-comprar-relojes.md
 - content/hagamos-esto-papa.md
-- content/como-programar-una-transferencia-mensual-en-el-banco-santander.md
 - content/el-mejor-cafe-es-el-que-inviertes..md
 - content/presentacion-comercial-estandar.md
 - content/si-eres-de-kunder-hay-donuts.md
