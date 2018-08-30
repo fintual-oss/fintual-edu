@@ -21,7 +21,7 @@ En esa vista verás “¿Desea programar esta transferencia?” Si eliges sí, 
 
 <br>
 
-<img src="/uploads/1_msSD4B_mM-tMlUT2vfPjiQ.png" style="width:100%;height: auto;"/>
+<img src="/uploads/1_msSD4B_mM-tMlUT2vfPjiQ.png" style="width:90%;height: auto;"/>
 
 <br>
 
