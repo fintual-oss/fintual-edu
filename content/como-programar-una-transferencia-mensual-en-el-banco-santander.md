@@ -1,5 +1,6 @@
 +++
 date = "2018-07-12T01:48:57+00:00"
+description = ""
 image = ""
 title = "Cómo programar una transferencia mensual en el Banco Santander"
 
@@ -16,7 +17,7 @@ Para eso, en tu cuenta del Santander haz clic en la columna de la izquierda dond
 
 <br>
 
-![](https://cdn-images-1.medium.com/max/800/1\*LHarWLumJfXT1HkVy6LJXQ.png)
+<img src="/uploads/1*LHarWLumJfXT1HkVy6LJXQ.png" style="width:90%;height: auto;"/>
 
 <br>
 
