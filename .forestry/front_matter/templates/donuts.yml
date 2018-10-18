@@ -28,11 +28,11 @@ fields:
 - type: text
   name: fecha
   label: fecha
-  default: 27 de julio
+  default: esta semana
 - type: text
   name: minimum
   label: minimum
-  default: desde $250.000
+  default: desde $0
 pages:
 - content/volvieron-las-donitas.md
 - content/queremos-regalarle-donuts-a-la-gente-de-zweicom.md
