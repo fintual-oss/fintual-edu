@@ -34,6 +34,7 @@ fields:
   label: minimum
   default: desde $250.000
 pages:
+- content/volvieron-las-donitas.md
 - content/queremos-regalarle-donuts-a-la-gente-de-zweicom.md
 - content/wireless-donuts-para-quienes-trabajan-en-yx-wireless.md
 - content/si-donuts-para-si-emens.md
