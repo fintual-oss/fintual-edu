@@ -34,9 +34,17 @@ fields:
   label: minimum
   default: desde $0
 pages:
+- content/donuts-para-welcu-porque-welcu-es-bacan.md
+- content/continuum-quiere-comer-donuts.md
+- content/queremos-mandarle-donuts-a-platanus.md
+- content/donuts-para-noisegrasp.md
+- content/wireless-donuts-para-quienes-trabajan-en-yx-wireless.md
+- content/donuts-para-evoting.md
+- content/queremos-mandarle-donuts-al-portalinmobiliario.md
+- content/queremos-darle-donuts-a-puntoticket.md
+- content/donuts-gratis-para-synopsys.md
 - content/volvieron-las-donitas.md
 - content/queremos-regalarle-donuts-a-la-gente-de-zweicom.md
-- content/wireless-donuts-para-quienes-trabajan-en-yx-wireless.md
 - content/si-donuts-para-si-emens.md
 - content/dnts-para-amtc.md
 - content/donuts-para-los-que-trabajan-en-cima.md
@@ -44,12 +52,10 @@ pages:
 - content/queremos-darle-donuts-a-los-de-cuponatic.md
 - content/queremos-darle-donuts-a-los-de-shipit.md
 - content/queremos-mandar-donuts-a-los-de-nisum.md
-- content/queremos-mandarle-donuts-al-portalinmobiliario.md
 - content/si-estas-en-lemontech-te-queremos-mandar-donuts.md
 - content/si-eres-de-yx-wireless-te-queremos-regalar-donuts.md
 - content/si-eres-de-adereso-queremos-darte-unas-donuts.md
 - content/tenemos-donuts-para-4talent.md
-- content/donuts-para-welcu-porque-welcu-es-bacan.md
 - content/si-eres-de-goplaceit-aca-tienes-donuts.md
 - content/le-queremos-mandar-donuts-a-los-de-smartcob.md
 - content/si-trabajas-en-antica-tienes-donuts.md
@@ -57,21 +63,16 @@ pages:
 - content/si-trabajas-en-planok-te-queremos-regalar-donuts.md
 - content/queremos-regalarle-donuts-a-los-de-woodtech.md
 - content/si-trabajas-en-broota-queremos-mandarte-donuts.md
-- content/donuts-gratis-para-synopsys.md
-- content/donuts-para-noisegrasp.md
 - content/queremos-regalarle-donuts-a-los-de-finvox.md
 - content/si-trabajas-en-multicaja-te-queremos-regalar-donuts.md
 - content/si-eres-de-destacame-te-queremos-regalar-donuts.md
-- content/queremos-mandarle-donuts-a-platanus.md
 - content/queremos-regalarle-donuts-a-cumplo.md
-- content/queremos-darle-donuts-a-puntoticket.md
 - content/let-s-donuts.md
 - content/queremos-mandarle-donuts-a-abstract.md
 - content/donas-para-todo-everis.md
 - content/queremos-regalarle-donuts-a-los-khipu.md
 - content/11-de-julio-si-eres-de-sosafe-queremos-llevarte-una-caja-de-donuts.md
 - content/bci-quiere-donas.md
-- content/donuts-para-evoting.md
 - content/donuts-para-la-gente-de-banco-falabella.md
 - content/donas-para-la-gente-del-ministerio-de-economia.md
 - content/donas-para-synaptic-ahora.md
@@ -81,5 +82,4 @@ pages:
 - content/si-trabajas-en-corfo-tienes-donas.md
 - content/donuts-para-todo-comparaonline.md
 - content/si-eres-de-exe-queremos-mandarte-donuts.md
-- content/continuum-quiere-comer-donuts.md
 - content/donuts-para-bbr.md
