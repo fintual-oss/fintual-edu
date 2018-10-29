@@ -34,6 +34,7 @@ fields:
   label: minimum
   default: desde $0
 pages:
+- "content/si-trabajas-en-mckinsey-te-queremos-regalar-donuts\U0001F369.md"
 - content/donuts-para-welcu-porque-welcu-es-bacan.md
 - content/continuum-quiere-comer-donuts.md
 - content/queremos-mandarle-donuts-a-platanus.md
