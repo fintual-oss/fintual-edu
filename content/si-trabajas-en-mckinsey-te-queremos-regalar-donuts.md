@@ -12,7 +12,7 @@ Si eres de McKinsey te queremos invitar a probar Fintual (una manera simple de i
 
 Mandaremos una caja de 12 donuts de regalo a los que lo hagan.
 
-¿La dura? Sí, esto es lo que hay que hacer HOY:
+**¿La dura? Sí, esto es lo que hay que hacer HOY lunes 29 de octubre:**
 
 **1 )** Que tú y dos compañeros de McKinsey sigan los pasos en [fintual.com/mckinsey](www.fintual.com/mckinsey) y lleguen hasta el último paso (validación de identidad).
 
