@@ -1,7 +1,7 @@
 +++
 company = "McKinsey"
 date = "2018-10-29T15:08:18+00:00"
-fecha = "esta semana"
+fecha = "29 de octubre"
 image = "https://edu.fintual.com/uploads/donuts.jpg"
 layout = "donuts_fintech"
 minimum = "desde $0"
