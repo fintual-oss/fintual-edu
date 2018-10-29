@@ -34,8 +34,8 @@ fields:
   label: minimum
   default: desde $0
 pages:
-- "content/donuts-para-bain-company\U0001F369.md"
-- "content/queremos-mandarle-donuts-a-bcg\U0001F369.md"
+- content/donuts-para-bain-company.md
+- content/queremos-mandarle-donuts-a-bcg.md
 - content/si-eres-de-mckinsey-te-queremos-regalar-donuts.md
 - content/donuts-para-welcu-porque-welcu-es-bacan.md
 - content/continuum-quiere-comer-donuts.md
