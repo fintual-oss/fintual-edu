@@ -34,6 +34,7 @@ fields:
   label: minimum
   default: desde $0
 pages:
+- content/donuts-para-mercadolibre.md
 - content/si-trabajas-en-lávame-app-queremos-mandarte-donuts.md
 - content/queremos-mandarle-donuts-a-avla.md
 - content/donuts-para-bain-company.md
