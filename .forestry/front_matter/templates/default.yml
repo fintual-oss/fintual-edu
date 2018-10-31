@@ -26,6 +26,7 @@ fields:
   name: description
   label: Description
 pages:
+- content/test.md
 - content/mejor-deposito-a-plazo.md
 - content/comprar-tiempo-es-mejor-que-comprar-relojes.md
 - content/fondo-mutuo-online.md
