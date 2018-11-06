@@ -1,7 +1,8 @@
 +++
+company = "Consorcio"
 date = "2018-11-06T15:00:09+00:00"
 draft = true
-fecha = "esta semana"
+fecha = "6 de noviembre"
 image = "https://edu.fintual.com/uploads/donuts.jpg"
 layout = "donuts_fintech"
 minimum = "desde $0"
