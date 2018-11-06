@@ -34,6 +34,7 @@ fields:
   label: minimum
   default: desde $0
 pages:
+- content/donuts-para-todo-comparaonline.md
 - content/queremos-mandarle-donuts-a-grupo-alto.md
 - content/donuts-para-mercadolibre.md
 - content/si-trabajas-en-lávame-app-queremos-mandarte-donuts.md
@@ -87,6 +88,5 @@ pages:
 - content/queremos-mandarle-donuts-a-cornershop.md
 - content/queremos-regalarle-donuts-a-los-coredevx.md
 - content/si-trabajas-en-corfo-tienes-donas.md
-- content/donuts-para-todo-comparaonline.md
 - content/si-eres-de-exe-queremos-mandarte-donuts.md
 - content/donuts-para-bbr.md
