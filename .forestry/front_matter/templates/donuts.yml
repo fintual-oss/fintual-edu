@@ -34,6 +34,7 @@ fields:
   label: minimum
   default: desde $0
 pages:
+- content/queremos-mandarle-donuts-a-transbank.md
 - content/queremos-mandarle-donuts-a-grupo-taisa.md
 - content/queremos-mandarle-donuts-a-consorcio.md
 - content/queremos-mandarle-donuts-a-the-not-company.md
