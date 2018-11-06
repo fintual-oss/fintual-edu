@@ -34,6 +34,7 @@ fields:
   label: minimum
   default: desde $0
 pages:
+- content/queremos-mandarle-donuts-a-the-not-company.md
 - content/donuts-para-la-gente-de-cmr-falabella.md
 - content/donuts-para-todo-comparaonline.md
 - content/queremos-mandarle-donuts-a-grupo-alto.md
