@@ -1,7 +1,6 @@
 +++
 company = "Grupo Alto"
 date = "2018-11-06T14:01:27+00:00"
-draft = true
 fecha = "6 de noviembre"
 image = "https://edu.fintual.com/uploads/donuts.jpg"
 layout = "donuts_fintech"
