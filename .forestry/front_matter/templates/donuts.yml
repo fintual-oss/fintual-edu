@@ -33,6 +33,11 @@ fields:
   name: minimum
   label: minimum
   default: desde $0
+- type: text
+  name: link
+  label: link
+  description: link a crearse una cuenta en fintual
+  default: https://fintual.cl/?utm_source=edu&amp;utm_medium=landing&amp;utm_campaign=pizzas
 pages:
 - content/queremos-mandarle-donuts-a-transbank.md
 - content/queremos-mandarle-donuts-a-achs.md
