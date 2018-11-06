@@ -1,6 +1,6 @@
 +++
+company = "mi"
 date = "2018-11-06T20:41:57+00:00"
-draft = true
 fecha = "esta semana"
 image = "https://edu.fintual.com/uploads/donuts.jpg"
 layout = "donuts_fintech"
