@@ -1,7 +1,7 @@
 +++
 company = "ANFP Chile"
 date = "2018-11-06T15:48:37+00:00"
-fecha = "esta semana"
+fecha = "6 de noviembre"
 image = "https://edu.fintual.com/uploads/donuts.jpg"
 layout = "donuts_fintech"
 minimum = "desde $0"
