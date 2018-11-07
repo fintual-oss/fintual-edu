@@ -39,6 +39,7 @@ fields:
   description: link a crearse una cuenta en fintual
   default: https://fintual.cl/?utm_source=edu&amp;utm_medium=landing&amp;utm_campaign=pizzas
 pages:
+- content/si-trabajas-en-notus-queremos-mandarte-donuts.md
 - content/donuts-para-notus.md
 - content/queremos-mandarles-donuts-a-acids-labs.md
 - content/donuts-para-arler.md
