@@ -39,6 +39,7 @@ fields:
   description: link a crearse una cuenta en fintual
   default: https://fintual.cl/?utm_source=edu&amp;utm_medium=landing&amp;utm_campaign=pizzas
 pages:
+- content/acid.md
 - content/donuts-para-arler.md
 - content/donuts-para-dhl.md
 - content/si-trabajas-en-entel-queremos-mandarte-donuts.md
