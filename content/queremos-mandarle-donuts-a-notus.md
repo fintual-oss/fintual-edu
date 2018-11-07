@@ -1,7 +1,6 @@
 +++
 company = "Notus"
 date = "2018-11-07T22:05:16+00:00"
-draft = true
 fecha = "8 de noviembre"
 image = "https://edu.fintual.com/uploads/donuts.jpg"
 layout = "donuts_fintech"
