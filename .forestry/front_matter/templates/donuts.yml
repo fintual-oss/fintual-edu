@@ -40,7 +40,6 @@ fields:
   default: https://fintual.cl/?utm_source=edu&amp;utm_medium=landing&amp;utm_campaign=pizzas
 pages:
 - content/si-trabajas-en-entel-queremos-mandarte-donuts.md
-- content/queremos-mandarle-donuts-a-buta.md
 - content/queremos-mandarle-donuts-a-transbank.md
 - content/queremos-mandarle-donuts-a-achs.md
 - content/queremos-mandarle-donuts-a-anfp-chile.md
