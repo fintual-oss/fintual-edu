@@ -1,7 +1,7 @@
 +++
 company = "ACHS"
 date = "2018-11-06T16:07:12+00:00"
-fecha = "7 de noviembre"
+fecha = "8 de noviembre"
 image = "https://edu.fintual.com/uploads/donuts.jpg"
 layout = "donuts_fintech"
 link = ""
