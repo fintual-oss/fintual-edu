@@ -39,6 +39,7 @@ fields:
   description: link a crearse una cuenta en fintual
   default: https://fintual.cl/?utm_source=edu&amp;utm_medium=landing&amp;utm_campaign=pizzas
 pages:
+- content/donuts-para-cervecerias-chile.md
 - content/si-trabajas-en-clay-te-queremos-mandar-donuts.md
 - content/mcflurrys-para-cornershop.md
 - content/queremos-mandarle-donuts-a-security.md
