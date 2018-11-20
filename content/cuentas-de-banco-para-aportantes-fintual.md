@@ -16,7 +16,7 @@ Rut: 76810627-4
 
 Banco: Banco Security
 
-Cuenta: 917498607
+Cuenta: 
 
 ### Cuenta Banco de Chile
 
@@ -26,7 +26,7 @@ Rut: 76810627-4
 
 Banco: Banco de Chile
 
-Cuenta: 001642711701
+Cuenta: 
 
 ***
 
