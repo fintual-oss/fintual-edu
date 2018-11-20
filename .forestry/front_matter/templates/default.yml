@@ -26,6 +26,7 @@ fields:
   name: description
   label: Description
 pages:
+- content/cuentas-de-banco-para-aportantes-fintual.md
 - content/tutorial-2fa.md
 - content/mejor-deposito-a-plazo.md
 - content/comprar-tiempo-es-mejor-que-comprar-relojes.md
@@ -39,7 +40,6 @@ pages:
 - content/beneficios-tributarios.md
 - content/sherlock.md
 - content/como-programar-una-transferencia-mensual-en-el-banco-santander.md
-- content/cuentas-de-banco-para-aportantes-fintual.md
 - content/renta-poco-el-deposito-a-plazo-.md
 - content/cuanto-te-cobra-tu-fondo-mutuo.md
 - content/presentacion-comercial-estandar.md
