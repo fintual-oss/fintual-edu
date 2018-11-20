@@ -1,7 +1,6 @@
 +++
 date = "2018-08-20T19:55:52+00:00"
 description = "Cuentas bancarias para abonar en Fintual"
-draft = true
 image = ""
 title = "Cuentas de banco para abonar en Fintual"
 
