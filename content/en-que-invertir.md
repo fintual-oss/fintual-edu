@@ -1,11 +1,13 @@
 +++
 date = "2018-07-05T03:16:27+00:00"
-title = "¿En qué invertir si recibo una herencia?"
+description = ""
+image = ""
+title = "¿En qué invertir mi plata?"
 
 +++
-¿Qué hacer si recibes una herencia?
+Imagínate que recibes una herencia. O que te aburriste de tener tu plata parada en el banco sin generar intereses.
 
-¡Invertirla!
+¿Qué hacer con esa plata? ¡Invertirla!
 
 Las alternativas para invertir en Chile son las siguientes:
 
