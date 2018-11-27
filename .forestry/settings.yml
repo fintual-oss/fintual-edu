@@ -5,6 +5,13 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: ''
+  label: Donuts
+  create: all
+  match: "*donuts*"
+  templates:
+  - donuts
+- type: directory
   path: content
   label: Pages
   create: all
