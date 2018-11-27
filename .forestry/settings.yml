@@ -8,7 +8,7 @@ sections:
   path: ''
   label: Donuts
   create: all
-  match: "*donuts*"
+  match: "**/*donuts*"
   templates:
   - donuts
 - type: directory
