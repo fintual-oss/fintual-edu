@@ -6,6 +6,12 @@ webhook_url:
 sections:
 - type: directory
   path: ''
+  label: Landings
+  create: documents
+  match: "**/*"
+  exclude: "**/*donut*"
+- type: directory
+  path: ''
   label: Donuts
   create: all
   match: "**/*donut*"
