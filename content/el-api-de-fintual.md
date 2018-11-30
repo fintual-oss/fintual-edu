@@ -1,6 +1,6 @@
 +++
 date = "2018-11-30T13:01:31+00:00"
-description = "Fintual es la primera Administradora General de Fondos en ofrecer un API para acceder a sus datos."
+description = "Fintual es la primera Administradora General de Fondos en ofrecer un API para acceder a sus datos. Aquí una descripción de cómo usarla."
 image = "/uploads/fatos-bytyqi-535528-unsplash.jpg"
 title = "El API de Fintual"
 
