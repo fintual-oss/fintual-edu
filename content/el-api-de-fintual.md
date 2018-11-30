@@ -47,7 +47,10 @@ con un header ContentType: application/json y un body así:
 
 Ahí la API te devolverá un token que tienes que agregar en el resto de las llamadas como un parámetro "user_token" (además de user_email)
 
-Ejemplo que no funciona porque no tiene un token válido (a menos que estés logeado en tu cuenta de Fintual en este navegador):
+**Ejemplo que no funciona porque no tiene un token válido** (a menos que estés logeado en tu cuenta de Fintual en este navegador):
 
 https://fintual.cl/api/goals?user_token=ESTONOESUNTOKENVALIDO&user_email=tuemail@shemail.com
 
+Eso por el momento! saludos y suerte.
+
+Ah, te dejo esto que hizo Oscar Estay usando el API pública. [https://oaestay.github.io/fintual-charts/](https://oaestay.github.io/fintual-charts/ "https://oaestay.github.io/fintual-charts/")
