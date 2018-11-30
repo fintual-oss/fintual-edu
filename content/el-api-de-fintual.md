@@ -45,4 +45,4 @@ con un header ContentType: application/json y un body así:
          }
      }
 
-Ahí la API te devolverá un token que tienes que agregar en el resto de las llamadas como un parámetro "user_token" (además de user_
+Ahí la API te devolverá un token que tienes que agregar en el resto de las llamadas como un parámetro "user_token" (además de user_email)
