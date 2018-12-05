@@ -1,13 +1,13 @@
 +++
 date = "2018-11-30T13:01:31+00:00"
 description = "Fintual es la primera Administradora General de Fondos en ofrecer un API para acceder a sus datos. Aquí una descripción de cómo usarla."
-image = "/uploads/fatos-bytyqi-535528-unsplash.jpg"
+image = "/uploads/image.png"
 title = "El API de Fintual"
 
 +++
-En Fintual somos más ingenieros de software que comerciales / financieros así que no podíamos pasar demasiado tiempo sin ofrecer un API. 
+En Fintual somos más ingenieros de software que comerciales / financieros así que no podíamos pasar demasiado tiempo sin ofrecer un API.
 
-![](/uploads/fatos-bytyqi-535528-unsplash.jpg)\[Foto por [Fatos Bytyqi](https://unsplash.com/photos/Agx5_TLsIf4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) en [Unsplash](https://unsplash.com/search/photos/programming?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)\]
+![](/uploads/image.png)
 
 Aunque no teníamos claro para qué podría llegar a usarse, liberamos una primera versión:
 
