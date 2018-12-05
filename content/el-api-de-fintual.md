@@ -7,7 +7,7 @@ title = "El API de Fintual"
 +++
 En Fintual somos más ingenieros de software que comerciales / financieros así que no podíamos pasar demasiado tiempo sin ofrecer un API.
 
-![](/uploads/image.png)
+![](/uploads/image.p)
 
 Aunque no teníamos claro para qué podría llegar a usarse, liberamos una primera versión:
 
