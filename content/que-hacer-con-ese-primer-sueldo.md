@@ -1,6 +1,5 @@
 +++
 date = "2018-06-19T14:49:52+00:00"
-draft = false
 title = "¿Qué hacer con ese primer sueldo?"
 
 +++
@@ -42,4 +41,4 @@ Fintual es un **servicio 100% online que hace una inversión pasiva por ti**, ti
 
 Aunque ya te hayas gastado tu primer sueldo, te recomiendo entrar a hacer la simulación para ver cómo tu plata puede rentar con Fintual, es gratis y sin compromiso:
 
-<a class="simulator-page__button btn btn--secondary" href="https://fintual.com/?utm_source=edu&utm_medium=landing&utm_campaign=first-salary#empezar">Empezar</a>
+<a class="simulator-page__button btn btn--secondary" href="[https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=consideration&utm_content=first+salary-107#empezar](https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=consideration&utm_content=first+salary-107#empezar "https://fintual.cl/#empezar")">Empezar</a>
