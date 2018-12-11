@@ -9,7 +9,7 @@ title = "Fondo Mutuo Online"
 
 Sí.
 
-Fintual AGF S.A. es una Administradora General de Fondos chilena, supervisada por la CMF (Comisión de Mercado Financiero) que funciona 100% online desde 2018.
+Fintual AGF S.A. es una Administradora General de Fondos chilena, regulada por la CMF (Comisión de Mercado Financiero) que funciona 100% online desde 2018.
 
 La gracia es que solo cobra 1,19% al año (hay fondos similares que pueden cobrarte hasta el 6-7% de tu dinero!)
 
