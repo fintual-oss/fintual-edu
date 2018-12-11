@@ -1,5 +1,6 @@
 +++
 date = "2018-07-08T16:37:29+00:00"
+description = ""
 image = ""
 title = "Hagamos esto papa"
 
@@ -16,7 +17,7 @@ Todo lo contrario.
 
 Acciones que uno no sabe escoger ni comprar.
 
-Fondos Mutuos con nombres que uno no entiende, con comisiones escondidas (¿eres de las personas que cree que los fondos mutuos son gratis, cierto?) y una asesoría débil o a veces en contra de tus propios intereses, porque el ejecutivo gana comisiones de lo que te recomienda.
+Fondos mutuos con nombres que uno no entiende, con comisiones escondidas (¿eres de las personas que cree que los fondos mutuos son gratis?) y una asesoría débil o a veces en contra de tus propios intereses, porque el ejecutivo gana comisiones de lo que te recomienda.
 
 Lo único simple que encontramos eran los depósitos a plazo, pero es tan poco lo que se gana que no tenía sentido.
 
