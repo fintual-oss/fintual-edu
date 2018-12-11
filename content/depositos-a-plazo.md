@@ -31,7 +31,7 @@ Si a eso le sumas que en [FINTUAL](https://fintual.cl/?utm_source=edu.fintual.c
 
 Mira tabla de El Mercurio Inversiones donde ya aparecemos compitiendo con Banchile, LarrainVial, BCI, entre otros. Nos vemos tiernos… por ahora.
 
-![](/uploads/AGF noviembre.png)
+![](/uploads/rsz_agf_noviembre.png)
 
 Empieza a invertir de la manera más sencilla en [www.fintual.cl](https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=awareness&utm_content=depositos+a+plazo-109) y chao con los depósitos a plazo.
 
