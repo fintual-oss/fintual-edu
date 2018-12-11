@@ -1,6 +1,7 @@
 +++
 date = "2018-06-25T19:33:31+00:00"
-draft = false
+description = ""
+image = ""
 title = "Fondo Mutuo Online"
 
 +++
@@ -18,4 +19,4 @@ Rescatar el dinero tampoco tiene costo.
 
 Fintual es fácil de usar y te muestra cómo le ha ido a tu inversión de manera simple y comprensible.
 
-Prueba haciendo una [simulación sin compromiso](https://fintual.com/?utm_source=edu&utm_medium=landing&utm_campaign=fondo-mutuo-online#empezar)
+Prueba haciendo una [simulación sin compromiso](https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=consideration&utm_content=edu+ffmm-110#empezar)
