@@ -1,5 +1,5 @@
 +++
-date = "2018-06-19T14:49:52+00:00"
+date = "2018-12-11T13:49:52+00:00"
 title = "¿Qué hacer con ese primer sueldo?"
 
 +++
