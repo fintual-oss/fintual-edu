@@ -21,7 +21,7 @@ Fondos mutuos con nombres que uno no entiende, con comisiones escondidas (¿eres
 
 Lo único simple que encontramos eran los depósitos a plazo, pero es tan poco lo que se gana que no tenía sentido.
 
-Ojo, si tienes mucha plata siempre existirá alguien que te pueda asesorar bien y de manera personalizada a cambio de una comisión pequeña (que como tienes mucha plata, debiera ser suficiente) pero qué pasa con las personas que tienen $1.000.000, $5.000.000 o incluso $50.000.000, o aquellas que pueden ahorrar $50.000 al mes.
+Ojo, si tienes mucha plata siempre existirá alguien que te pueda asesorar bien y de manera personalizada a cambio de una comisión pequeña (que como tienes mucha plata, debiera ser suficiente), pero qué pasa con las personas que tienen $1.000.000, $5.000.000 o incluso $50.000.000, o aquellas que pueden ahorrar $50.000 al mes.
 
 Cuando vas al banco con tu plata, digamos que $1.000.000, el banco sólo por decirte hola está perdiendo plata contigo y lo que va a hacer es cobrarte mucha comisión y atenderte poco tiempo para que sea negocio para ellos.
 
@@ -45,7 +45,7 @@ Y tratamos que todo sea simple.
 
 Fintual es exactamente lo que querías.
 
-Y si no lo es, nos puedes escribir a quieromas@fintual.com diciéndonos qué crees que falta. Somos todos ingenieros nerds que saben mucho de finanzas y de programación pero amamos el feedback de nuestros clientes porque se les ocurren mejoras que a nosotros no.
+Y si no lo es, nos puedes escribir a quieromas@fintual.com diciéndonos qué crees que falta. Somos todos ingenieros nerds que saben mucho de finanzas y de programación, pero amamos el feedback de nuestros clientes porque se les ocurren mejoras que a nosotros no.
 
 Ah, lo último.
 
