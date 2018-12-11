@@ -1,9 +1,11 @@
 +++
 date = "2018-07-05T04:36:52+00:00"
+description = ""
+image = ""
 title = "¿Depósitos a plazo?"
 
 +++
-![](https://cdn-images-1.medium.com/max/800/1\*rpK6BEPYIaZ1vJijLxiHlw.png)
+![](https://cdn-images-1.medium.com/max/800/1*rpK6BEPYIaZ1vJijLxiHlw.png)
 
 Hoy un banco te da un 0,23% al mes¹ cuando haces un depósito a plazo, lo que en un año se traduce en 2,76%.
 
@@ -13,7 +15,7 @@ O sea que si durante el año pasado fuiste renovando depósitos a plazo en tu ba
 
 _“Ya, ¿y qué hago? me da lata aprender a invertir. No sé y no tengo tiempo”._
 
-Para eso creamos [FINTUAL](http://www.fintual.com/). Para jóvenes profesionales que aunque no saben de finanzas y no tienen ganas de aprender, sí quieren **invertir en algo que sea bueno y fácil.**
+Para eso creamos [FINTUAL](https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=awareness&utm_content=depositos+a+plazo-109). Para jóvenes profesionales que aunque no saben de finanzas y no tienen ganas de aprender, sí quieren **invertir en algo que sea bueno y fácil.**
 
 > “Llegó Fintual AGF \[…\] que administra sus vehículos bajo el esquema de robot advisors, por lo que las comisiones cobradas a los clientes superan levemente el 1% anual, muy por debajo del promedio de la industria”, El Mercurio Inversiones, 7 marzo 2018.
 
@@ -25,15 +27,15 @@ Un ETF es como una canasta de varias acciones con la que sigues un mercado en pa
 
 Los ETFs son muy baratos de administrar y la mayoría sigue a un índice financiero. Lo bueno de los índices financieros es que representan estrategias que le han ganado en rentabilidad al 80% de las otras estrategias de inversión en los últimos 5 años en los mercados².
 
-Si a eso le sumas que en [FINTUAL](http://www.fintual.com/) automatizamos casi todo el proceso y cobramos una comisión significativamente menor al mercado, la rentabilidad debiera ser más alta para ti.
+Si a eso le sumas que en [FINTUAL](https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=awareness&utm_content=depositos+a+plazo-109) automatizamos casi todo el proceso y cobramos una comisión significativamente menor al mercado, la rentabilidad debiera ser más alta para ti.
 
-Mira tabla de El Mercurio donde ya aparecemos compitiendo con el Santander, BancoEstado, BBVA entre otros. Nos vemos tiernos… por ahora.
+Mira tabla de El Mercurio Inversiones donde ya aparecemos compitiendo con Banchile, LarrainVial, BCI, entre otros. Nos vemos tiernos… por ahora.
 
-![](https://cdn-images-1.medium.com/max/800/1\*puUtIzRpupSpq9KyVLfj8g.png)
+![](/uploads/AGF noviembre.png)
 
-Empieza a invertir de la manera más sencilla en [www.fintual.com](http://www.fintual.com/) y chao con los depósitos a plazo.
+Empieza a invertir de la manera más sencilla en [www.fintual.cl](https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=awareness&utm_content=depositos+a+plazo-109) y chao con los depósitos a plazo.
 
-Cualquier duda escríbenos a quehago@fintual.com
+Cualquier duda escríbenos a tengodudas@fintual.com
 
-\(¹) Fuente: [Banco Central ](https://si3.bcentral.cl/Boletin/secure/boletin.aspx?idCanasta=PBMQW1191)  
-\(²)Fuente: [SPIVA Statistics & Reports](https://us.spindices.com/spiva/#/reports)
+(¹) Fuente: [Banco Central ](https://si3.bcentral.cl/Boletin/secure/boletin.aspx?idCanasta=PBMQW1191)  
+(²)Fuente: [SPIVA Statistics & Reports](https://us.spindices.com/spiva/#/reports)
