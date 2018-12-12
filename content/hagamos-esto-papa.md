@@ -5,15 +5,17 @@ image = "https://edu.fintual.cl/uploads/invierte-papa.png"
 title = "Hagamos esto papa"
 
 +++
-<style> p{ margin:4rem 0px; text-align:justify; } .footer-big__overlap { padding-bottom:0px; } .image-wrapper{ width: 100%; text-align: center; margin: 40px 0px;} .image-wrapper img{ width: 80%; } </style> Habiendo tantas apps y páginas para pedir comida, arrendar autos o encontrar trabajo, ¿cómo no existía una que te ayudara a invertir bien tu plata?
+<style> p{ margin:4rem 0px; text-align:justify; } .footer-big__overlap { padding-bottom:0px; } .image-wrapper{ width: 100%; text-align: center; margin: 40px 0px;} .image-wrapper img{ width: 80%; } </style> 
 
-Pero no, en Chile no conocíamos algo que fuera simple, transparente y barato.
+Habiendo tantas apps y páginas para pedir comida ¿cómo no existía una que te ayudara a invertir bien tu plata?
 
-Todo lo contrario.
+En Chile no conocíamos algo que fuera simple, transparente y barato.
 
-Lo único simple que encontramos eran los depósitos a plazo, pero es tan poco lo que se gana que no tenía sentido.
+Lo único simple que encontramos fueron los depósitos a plazo, pero es tan poco lo que se gana que no tenía sentido.
 
-**Por eso invertir tiene que ser fácil. ¿Qué significa fácil?**
+**Por eso invertir tiene que ser fácil.** 
+
+**¿Qué significa fácil?**
 
 1\. Responder unas preguntas para medir tu tolerancia al riesgo
 
@@ -21,18 +23,15 @@ Lo único simple que encontramos eran los depósitos a plazo, pero es tan poco l
 
 3\. Listo.
 
+<div class="image-wrapper">![](/uploads/invierte-papa.png) </div>
+
 ¿Es broma?
 
 No, no es broma.
 
-**¿Quieres poner poca plata para empezar?** Pudes hacerlo, no hay montos mínimos.
+**¿Quieres poner poca plata?** Puedes hacerlo, no hay montos mínimos.
 
-**¿Quieres sacar tu plata antes?** Obvio. No hay comisiones ni costos por sacar tu plata.
-
-<div class="image-wrapper">![](/uploads/invierte-papa.png)
-</div>
-
-Ah, y lo último.. 
+**¿Quieres sacar tu plata antes?** Obvio. No costos por sacar tu plata.
 
 **¿Es seguro?**
 
@@ -40,7 +39,7 @@ Fintual es una institución financiera regulada.
 
 Cool pero regulada. 
 
-La Comisión para el Mercado Financiero vigila que cumplamos con la ley. Puedes ver nuestro registro en el [sitio web de la CMF.](http://www.cmfchile.cl/institucional/mercados/entidad.php?auth=&send=&mercado=V&rut=76810627&grupo=&tipoentidad=RGAGF&vig=VI&row=AAAwy2ACTAAAB4AAAP&control=svs&pestania=1)
+La Comisión para el Mercado Financiero vigila que cumplamos con la ley. Puedes ver nuestro registro en la CMF [aquí.](http://www.cmfchile.cl/institucional/mercados/entidad.php?auth=&send=&mercado=V&rut=76810627&grupo=&tipoentidad=RGAGF&vig=VI&row=AAAwy2ACTAAAB4AAAP&control=svs&pestania=1)
 
 _Algunas personas dicen que algo es papa cuando es fácil._
 
