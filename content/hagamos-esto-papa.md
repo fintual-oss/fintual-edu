@@ -40,9 +40,9 @@ Te cobramos 1% + IVA al año. Somos la administradora que menos cobra a clientes
 **¿No puedes meter plata todos los meses?** No pasa nada. Un mes puedes poner $50.000, otro nada, o a los 15 días poner $89.400. O simplemente invertir una sola vez un monto grande. Como tú quieras.
 
 Recuerda:
-
+<div>
 ![Invierte papa.](/uploads/INVIERTE PAPA.png "Invierte papa.")
-
+</div>
 Y si no lo es, nos puedes escribir a quieromas@fintual.com diciéndonos qué crees que falta. Somos todos ingenieros nerds que saben mucho de finanzas y de programación, pero **amamos el feedback de nuestros clientes porque se les ocurren mejoras que a nosotros no.**
 
 Ah, lo último.
