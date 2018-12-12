@@ -23,7 +23,11 @@ Lo único simple que encontramos fueron los depósitos a plazo, pero es tan poco
 
 3\. Listo.
 
-<div class="image-wrapper">![invierte-papa](/uploads/invierte-papa.png "invierte-papa") </div>
+<div class="image-wrapper">
+
+![](/uploads/invierte-papa.png)
+
+</div>
 
 ¿Es broma?
 
