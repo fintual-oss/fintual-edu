@@ -5,6 +5,15 @@ image = ""
 title = "Hagamos esto papa"
 
 +++
+<style>
+  .image-wrapper{
+    width: 100%;
+    text-align: center;
+    margin: 40px 0px;}
+  .image-wrapper img{
+    width: 80%;
+  }
+</style>
 Invertir tiene que ser fácil.
 
 Habiendo tantas apps y páginas en internet para pedir comida, arrendar autos o encontrar trabajo, ¿cómo no existía una que te ayudara a **invertir** **bien y fácil** tu plata?
@@ -40,10 +49,7 @@ Te cobramos 1% + IVA al año. Somos la administradora que menos cobra a clientes
 **¿No puedes meter plata todos los meses?** No pasa nada. Un mes puedes poner $50.000, otro nada, o a los 15 días poner $89.400. O simplemente invertir una sola vez un monto grande. Como tú quieras.
 
 Recuerda:
-<div style="
-    width: 100%;
-    text-align: center;
-    margin: 40px 0px;">
+<div class="image-wrapper">
 ![Invierte papa.](/uploads/INVIERTE PAPA.png "Invierte papa.")
 </div>
 
