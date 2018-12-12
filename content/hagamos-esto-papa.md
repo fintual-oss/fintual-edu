@@ -5,7 +5,24 @@ image = ""
 title = "Hagamos esto papa"
 
 +++
-<style> p{ margin:4rem 0px; text-align:justify; } .footer-big__overlap { padding-bottom:0px; } .image-wrapper{ width: 100%; text-align: center; margin: 40px 0px;} .image-wrapper img{ width: 80%; } </style>
+<style> 
+  p
+  { 
+    margin:4rem 0px; 
+    text-align:justify; 
+  } 
+  .footer-big__overlap 
+  { 
+    padding-bottom:0px; 
+  } 
+  .image-wrapper img
+  { 
+    width: 60%; 
+    text-align: center; 
+    margin: 40px 0px; 
+  } 
+
+</style>
 
 Habiendo tantas páginas para pedir comida ¿cómo no existía una que te ayudara a invertir bien tu plata?
 
@@ -25,7 +42,7 @@ Lo único simple que encontramos fueron los depósitos a plazo, pero es tan poco
 
 <div class="image-wrapper">
 
-![](/uploads/inviertepapa.png)
+<p><img src="/uploads/inviertepapa.png" alt=""></p>
 
 </div>
 
