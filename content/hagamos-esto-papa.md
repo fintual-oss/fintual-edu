@@ -1,7 +1,7 @@
 +++
 date = "2018-07-08T16:37:29+00:00"
 description = "Invertir tiene que ser fácil."
-image = "/uploads/inviertepapa.png"
+image = ""
 title = "Hagamos esto papa"
 
 +++
@@ -28,8 +28,6 @@ Lo único simple que encontramos fueron los depósitos a plazo, pero es tan poco
 ![](/uploads/inviertepapa.png)
 
 </div>
-
-![](/uploads/inviertepapa.png)
 
 ¿Es broma?
 
