@@ -1,13 +1,13 @@
 +++
 date = "2018-07-08T16:37:29+00:00"
-description = "Invertir tiene que ser fácil. ¿Qué significa fácil?"
-image = ""
+description = "Invertir tiene que ser fácil."
+image = "/uploads/inviertepapa.png"
 title = "Hagamos esto papa"
 
 +++
 <style> p{ margin:4rem 0px; text-align:justify; } .footer-big__overlap { padding-bottom:0px; } .image-wrapper{ width: 100%; text-align: center; margin: 40px 0px;} .image-wrapper img{ width: 80%; } </style>
 
-Habiendo tantas apps y páginas para pedir comida ¿cómo no existía una que te ayudara a invertir bien tu plata?
+Habiendo tantas páginas para pedir comida ¿cómo no existía una que te ayudara a invertir bien tu plata?
 
 En Chile no conocíamos algo que fuera simple, transparente y barato.
 
@@ -23,7 +23,13 @@ Lo único simple que encontramos fueron los depósitos a plazo, pero es tan poco
 
 3\. Listo.
 
-<div class="image-wrapper">![](/uploads/inviertepapa.png)</div>![](/uploads/invierte-papa-1.png)¿Es broma?
+<div class="image-wrapper">
+
+![](/uploads/inviertepapa.png)
+
+</div>
+
+¿Es broma?
 
 No, no es broma.
 
