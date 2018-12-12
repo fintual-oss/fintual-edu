@@ -17,9 +17,11 @@ Lo único simple que encontramos eran los depósitos a plazo, pero es tan poco l
 
 Por eso invertir tiene que ser fácil. ¿Qué significa fácil?
 
-1. Responder unas preguntas para medir tu tolerancia al riesgo
-2. Decide cuánta plata y durante cuánto tiempo vas a invertir
-3. Listo.
+1\. Responder unas preguntas para medir tu tolerancia al riesgo
+
+2\. Decide cuánta plata y durante cuánto tiempo vas a invertir
+
+3\. Listo.
 
 ¿Es broma?
 
