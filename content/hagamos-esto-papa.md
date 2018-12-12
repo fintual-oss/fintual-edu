@@ -33,7 +33,7 @@ Solo tienes que esponder a unas preguntas para que midamos tu tolerancia al ries
 
 Te cobramos 1% + IVA al año. Somos la administradora que menos cobra a clientes pequeños según un ranking de [El Mercurio Inversiones.](http://www.elmercurio.com/Inversiones/Noticias/Analisis/2018/05/23/Rankig-Las-AGF-mas-caras-y-mas-baratas-de-abril.aspx)
 
-**¿Quieres poner poca plata para empezar?** Perfecto. Lo ideal es que inviertas al menos $1.000.000. Pero puedes hacer lo que quieras: invertir $200.000 todos los meses, no invertir un mes (no pasa nada), invertir $98.500 diecisiete días después, como tú quieras.  
+**¿Quieres poner poca plata para empezar?** Perfecto. Lo ideal es que inviertas al menos $1.000.000. Pero puedes hacer lo que quieras: invertir $200.000 todos los meses, no invertir un mes (no pasa nada), invertir $98.500 diecisiete días después, como tú quieras.
 
 **¿Quieres sacar tu plata antes?** No pasa nada. No hay comisiones ni costos por sacar tu plata.
 
@@ -51,8 +51,10 @@ Ah, lo último.
 
 Fintual es una institución financiera regulada. Cool pero regulada. La Comisión para el Mercado Financiero vigila que cumplamos con la ley y con todas las normativas, y los activos están custodiados en el DCV, Depósito Central de Valores.
 
-Puedes ver nuestro registro en el [sitio web de la CMF.](http://www.cmfchile.cl/institucional/mercados/entidad.php?auth=&send=&mercado=V&rut=76810627&grupo=&tipoentidad=RGAGF&vig=VI&row=AAAwy2ACTAAAB4AAAP&control=svs&pestania=1)  
+Puedes ver nuestro registro en el [sitio web de la CMF.](http://www.cmfchile.cl/institucional/mercados/entidad.php?auth=&send=&mercado=V&rut=76810627&grupo=&tipoentidad=RGAGF&vig=VI&row=AAAwy2ACTAAAB4AAAP&control=svs&pestania=1)
 
 _Algunas personas dicen que algo es papa cuando es fácil._
 
 _Y nosotros queremos eso, que invertir sea papa._
+<p style="text-align:center">
+<a class="simulator-page__button btn btn--secondary" href="https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=awareness&utm_content=hagamos+esto+papa-112#empezar">Empezar</a></p>
