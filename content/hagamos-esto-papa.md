@@ -54,9 +54,7 @@ No, no es broma.
 
 **¿Quieres sacar tu plata antes?** Obvio. No hay costos por sacar tu plata.
 
-**¿Es seguro?**
-
-Fintual es una institución financiera regulada.
+**¿Es seguro?** Fintual es una institución financiera regulada.
 
 Cool pero regulada.
 
