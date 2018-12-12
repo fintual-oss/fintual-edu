@@ -8,6 +8,7 @@ title = "Hagamos esto papa"
 <style>
   p{
   	margin:4rem 0px;
+    text-align:justify;
   }
   .footer-big__overlap {
   	padding-bottom:0px;
