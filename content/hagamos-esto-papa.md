@@ -1,7 +1,7 @@
 +++
 date = "2018-07-08T16:37:29+00:00"
-description = ""
-image = ""
+description = "Invertir tiene que ser fácil. ¿Qué significa fácil?"
+image = "https://edu.fintual.cl/uploads/invierte-papa.png"
 title = "Hagamos esto papa"
 
 +++
@@ -27,15 +27,11 @@ No, no es broma.
 
 **Nosotros nos encargamos de armarte automáticamente una inversión personalizada como lo haría el mejor de los asesores en Chile con su cliente.**
 
-Te cobramos 1% + IVA al año. Somos la administradora que menos cobra a clientes pequeños según un ranking de [El Mercurio Inversiones.](http://www.elmercurio.com/Inversiones/Noticias/Analisis/2018/05/23/Rankig-Las-AGF-mas-caras-y-mas-baratas-de-abril.aspx)
-
 **¿Quieres poner poca plata para empezar?** Pudes hacerlo, no hay montos mínimos.
 
 **¿Quieres sacar tu plata antes?** Obvio. No hay comisiones ni costos por sacar tu plata.
 
-Recuerda:
-<div class="image-wrapper">
-![Invierte papa.](/uploads/INVIERTE PAPA.png "Invierte papa.")
+Recuerda: <div class="image-wrapper">![](/uploads/invierte-papa.png)
 </div>
 
 Ah, lo último.
@@ -49,7 +45,6 @@ Puedes ver nuestro registro en el [sitio web de la CMF.](http://www.cmfchile.cl
 _Algunas personas dicen que algo es papa cuando es fácil._
 
 _Y nosotros queremos eso, que invertir sea papa._
-
 
 <p style="text-align:center">
 <a class="simulator-page__button btn btn--secondary" href="https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=awareness&utm_content=hagamos+esto+papa-112#empezar">Empezar</a></p>
