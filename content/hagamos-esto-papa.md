@@ -7,7 +7,11 @@ title = "Hagamos esto papa"
 +++
 <style>
   p{
-  margin:4rem 0px;}
+  	margin:4rem 0px;
+  }
+  .footer-big__overlap {
+  	padding-bottom:0px;
+  }
   .image-wrapper{
     width: 100%;
     text-align: center;
