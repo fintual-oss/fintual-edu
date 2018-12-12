@@ -23,13 +23,7 @@ Lo único simple que encontramos fueron los depósitos a plazo, pero es tan poco
 
 3\. Listo.
 
-<div class="image-wrapper">
-
-![](/uploads/invierte-papa-1.png)
-
-</div>
-
-¿Es broma?
+<div class="image-wrapper">![](/uploads/inviertepapa.png)</div>![](/uploads/invierte-papa-1.png)¿Es broma?
 
 No, no es broma.
 
