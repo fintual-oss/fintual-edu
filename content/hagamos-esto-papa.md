@@ -29,6 +29,8 @@ Lo único simple que encontramos fueron los depósitos a plazo, pero es tan poco
 
 </div>
 
+![](/uploads/inviertepapa.png)
+
 ¿Es broma?
 
 No, no es broma.
