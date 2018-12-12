@@ -1,7 +1,7 @@
 +++
 date = "2018-07-08T16:37:29+00:00"
 description = "Invertir tiene que ser fácil. ¿Qué significa fácil?"
-image = "uploads/invierte-papa.png"
+image = ""
 title = "Hagamos esto papa"
 
 +++
@@ -24,10 +24,10 @@ Lo único simple que encontramos fueron los depósitos a plazo, pero es tan poco
 3\. Listo.
 
 <div class="image-wrapper">
-![](/uploads/invierte-papa.png)
+
+![](/uploads/invierte-papa-1.png)
+
 </div>
-
-
 
 ¿Es broma?
 
