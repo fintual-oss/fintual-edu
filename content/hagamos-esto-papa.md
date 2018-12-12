@@ -5,22 +5,22 @@ image = ""
 title = "Hagamos esto papa"
 
 +++
-<style> 
-  p
-  { 
-    margin:4rem 0px; 
-    text-align:justify; 
-  } 
-  .footer-big__overlap 
-  { 
-    padding-bottom:0px; 
-  } 
-  .image-wrapper img
-  { 
-    width: 60%; 
-    text-align: center; 
-    margin: 40px 0px; 
-  } 
+<style>
+p
+{
+margin:4rem 0px;
+text-align:justify;
+}
+.footer-big__overlap
+{
+padding-bottom:0px;
+}
+.image-wrapper img
+{
+width: 60%;
+text-align: center;
+margin: 40px 0px;
+}
 
 </style>
 
@@ -36,7 +36,7 @@ Lo único simple que encontramos fueron los depósitos a plazo, pero es tan poco
 
 1\. Responder unas preguntas para medir tu tolerancia al riesgo
 
-2\. Decide cuánta plata y durante cuánto tiempo vas a invertir
+2\. Decidir cuánta plata y durante cuánto tiempo quieres invertir
 
 3\. Listo.
 
@@ -52,7 +52,7 @@ No, no es broma.
 
 **¿Quieres poner poca plata?** Puedes hacerlo, no hay montos mínimos.
 
-**¿Quieres sacar tu plata antes?** Obvio. No costos por sacar tu plata.
+**¿Quieres sacar tu plata antes?** Obvio. No hay costos por sacar tu plata.
 
 **¿Es seguro?**
 
