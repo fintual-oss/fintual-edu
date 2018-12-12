@@ -1,7 +1,7 @@
 +++
 date = "2018-07-08T16:37:29+00:00"
 description = "Invertir tiene que ser fácil."
-image = "/uploads/inviertepapa.png"
+image = "https://edu.fintual.cl/uploads/inviertepapa.png"
 title = "Hagamos esto papa"
 
 +++
