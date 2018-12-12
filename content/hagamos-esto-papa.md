@@ -6,6 +6,8 @@ title = "Hagamos esto papa"
 
 +++
 <style>
+  p{
+  margin:5px 0px;}
   .image-wrapper{
     width: 100%;
     text-align: center;
