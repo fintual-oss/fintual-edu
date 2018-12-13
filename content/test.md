@@ -12,11 +12,11 @@ Parece una broma pero es cierto.
 
 Si eres de las personas que compra un café todos los días, probablemente estés gastando unos $2.700 (eso es lo que vale un Latte grande en una cadena muy famosa).
 
-¿Sabes qué pasaría si dejaras el café e invirtieras ese dinero a largo plazo?
+**¿Sabes qué pasaría si dejaras el café e invirtieras ese dinero a largo plazo?**
 
-Si tienes 35 años como yo, significa que te quedan 30 años para jubilar.
+Supongamos que tienes 30 años, significa que te quedan 30-35 años para jubilar.
 
-Entonces, invirtiendo diariamente durante 30 años esos $2.700 en un fondo muy arriesgado (que es lo que uno debiera hacer cuando invierte a tan largo plazo) uno podría esperar una rentabilidad de 10% al año.
+Invirtiendo diariamente durante 30 años esos $2.700 en un fondo muy arriesgado (que es lo que uno debiera hacer cuando invierte a tan largo plazo) uno podría esperar una rentabilidad de 10% al año.
 
 <div class="image-wrapper">
 
@@ -32,6 +32,8 @@ Sólo por ahorrar en un café diario.
 
 Para que pienses en ello cuando estés tomándote un café.
 
-_(En_ [_FINTUAL_](http://www.fintual.com/) _puedes invertir con transferencias programadas de $2.700 diarios, $54.000 mensuales o el monto que quieras)._
+En **Fintual** te damos la herramienta para simular cuánto podría significar un ahorro mensual como este u otro distinto.
+
+Además puede programar transferencias de $2.700 diarios, $54.000 mensuales o el monto que quieras.
 
 <p style="text-align:center"> <a class="simulator-page__button btn btn--secondary" href="[https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=awareness&utm_content=hagamos+esto+papa-112#empezar](https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=awareness&utm_content=hagamos+esto+papa-112#empezar "https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=awareness&utm_content=hagamos+esto+papa-112#empezar")">Empezar</a></p>
