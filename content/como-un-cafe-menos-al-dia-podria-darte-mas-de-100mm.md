@@ -1,7 +1,7 @@
 +++
 date = "2018-12-13T13:01:29+00:00"
-description = ""
-image = ""
+description = "Parece una broma pero es cierto. ¿Sabes qué pasaría si dejaras el café e invirtieras ese dinero a largo plazo?"
+image = "/uploads/cafe-millonario.png"
 title = "Cómo un café menos al día podría darte más de $100.000.000"
 
 +++
@@ -63,4 +63,4 @@ En **Fintual** te damos la herramienta para simular cuánto podría significar u
 
 Además puede programar transferencias de $2.700 diarios, $54.000 mensuales o el monto que quieras.
 
-<p style="text-align:center"> <a class="simulator-page__button btn btn--secondary" href="[https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=awareness&utm_content=hagamos+esto+papa-112#empezar](https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=awareness&utm_content=hagamos+esto+papa-112#empezar "https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=awareness&utm_content=hagamos+esto+papa-112#empezar")">Empezar</a></p>
+<p style="text-align:center"> <a class="simulator-page__button btn btn--secondary" href="[https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=awareness&utm_content=un-cafe-menos-113#empezar](https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=awareness&utm_content=un-cafe-menos-113#empezar "https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=awareness&utm_content=un-cafe-menos-113#empezar")">Empezar</a></p>
