@@ -6,6 +6,8 @@ image = ""
 title = "Cómo un café menos al día podría darte más de $100.000.000"
 
 +++
+<style> p { margin:4rem 0px; text-align:justify; } .footer-big__overlap { padding-bottom:0px; } .image-wrapper img { width: 60%; text-align: center; margin: 40px 0px; }</style>
+
 Parece una broma pero es cierto.
 
 Si eres de las personas que compra un café todos los días, probablemente estés gastando unos $2.700 (eso es lo que vale un Latte grande en una cadena muy famosa).
@@ -16,7 +18,11 @@ Si tienes 35 años como yo, significa que te quedan 30 años para jubilar.
 
 Entonces, invirtiendo diariamente durante 30 años esos $2.700 en un fondo muy arriesgado (que es lo que uno debiera hacer cuando invierte a tan largo plazo) uno podría esperar una rentabilidad de 10% al año.
 
-![](/uploads/cafe-millonario.png)
+<div class="image-wrapper">
+
+<p><img src="/uploads/cafe-millonario.png" alt="cafe-millonario"></p>
+
+</div>
 
 Si haces el cálculo con todos estos supuestos, **el día que te jubiles tendrás unos $122.000.000 adicionales** y eso que ni hemos considerado el beneficio tributario que hay al hacer esto.
 
@@ -27,3 +33,5 @@ Sólo por ahorrar en un café diario.
 Para que pienses en ello cuando estés tomándote un café.
 
 _(En_ [_FINTUAL_](http://www.fintual.com/) _puedes invertir con transferencias programadas de $2.700 diarios, $54.000 mensuales o el monto que quieras)._
+
+<p style="text-align:center"> <a class="simulator-page__button btn btn--secondary" href="[https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=awareness&utm_content=hagamos+esto+papa-112#empezar](https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=awareness&utm_content=hagamos+esto+papa-112#empezar "https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=awareness&utm_content=hagamos+esto+papa-112#empezar")">Empezar</a></p>
