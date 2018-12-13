@@ -6,20 +6,31 @@ title = "Hagamos esto papa"
 
 +++
 <style>
-p
-{
-margin:4rem 0px;
-text-align:justify;
-}
-.footer-big__overlap
-{
-padding-bottom:0px;
-}
-.image-wrapper img
-{
-width: 60%;
+
+p { margin:4rem 0px; text-align:justify; }
+
+.footer-big__overlap { padding-bottom:0px; }
+
+.image-wrapper {
+
 text-align: center;
-margin: 40px 0px;
+
+}
+
+.image-wrapper img {
+
+width: 60%; text-align: center; margin: 40px 0px;
+
+}
+
+@media (max-width: 768px)  {
+
+.image-wrapper img {
+
+width: 100%;
+
+}
+
 }
 
 </style>
@@ -42,7 +53,7 @@ Lo único simple que encontramos fueron los depósitos a plazo, pero es tan poco
 
 <div class="image-wrapper">
 
-<p><img src="/uploads/inviertepapa.png" alt="inviertepapa"></p>
+<img src="/uploads/inviertepapa.png" alt="inviertepapa">
 
 </div>
 
