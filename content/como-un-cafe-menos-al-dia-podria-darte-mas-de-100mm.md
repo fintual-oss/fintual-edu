@@ -1,6 +1,6 @@
 +++
 date = "2018-12-13T13:01:29+00:00"
-description = "Parece una broma pero es cierto. ¿Sabes qué pasaría si dejaras el café e invirtieras ese dinero a largo plazo?"
+description = "Para que pienses en ello cuando estés tomándote un café."
 image = "/uploads/cafe-millonario.png"
 title = "Cómo un café menos al día podría darte más de $100.000.000"
 
