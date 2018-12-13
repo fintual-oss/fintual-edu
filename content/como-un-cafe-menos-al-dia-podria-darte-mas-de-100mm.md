@@ -5,7 +5,35 @@ image = ""
 title = "Cómo un café menos al día podría darte más de $100.000.000"
 
 +++
-<style> p { margin:4rem 0px; text-align:justify; } .footer-big__overlap { padding-bottom:0px; } .image-wrapper img { width: 60%; text-align: center; margin: 40px 0px; }</style>
+<style> 
+
+p { margin:4rem 0px; text-align:justify; } 
+
+.footer-big__overlap { padding-bottom:0px; } 
+
+.image-wrapper {
+
+text-align: center;
+
+}
+
+.image-wrapper img { 
+
+width: 60%; text-align: center; margin: 40px 0px; 
+
+}
+
+@media (max-width: 768px)  {
+
+.image-wrapper img { 
+
+width: 100%;
+
+}
+
+}
+
+</style>
 
 Parece una broma pero es cierto.
 
@@ -19,7 +47,7 @@ Invirtiendo diariamente durante 30 años esos $2.700 en un fondo muy arriesgado 
 
 <div class="image-wrapper">
 
-<p><img src="/uploads/cafe-millonario.png" alt="cafe-millonario"></p>
+<img src="/uploads/cafe-millonario.png" alt="cafe-millonario">
 
 </div>
 
