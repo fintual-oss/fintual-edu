@@ -5,11 +5,11 @@ image = "/uploads/cafe-millonario.png"
 title = "Cómo un café menos al día podría darte más de $100.000.000"
 
 +++
-<style> 
+<style>
 
-p { margin:4rem 0px; text-align:justify; } 
+p { margin:4rem 0px; text-align:justify; }
 
-.footer-big__overlap { padding-bottom:0px; } 
+.footer-big__overlap { padding-bottom:0px; }
 
 .image-wrapper {
 
@@ -17,15 +17,15 @@ text-align: center;
 
 }
 
-.image-wrapper img { 
+.image-wrapper img {
 
-width: 60%; text-align: center; margin: 40px 0px; 
+width: 60%; text-align: center; margin: 40px 0px;
 
 }
 
 @media (max-width: 768px)  {
 
-.image-wrapper img { 
+.image-wrapper img {
 
 width: 100%;
 
@@ -63,4 +63,4 @@ En **Fintual** te damos la herramienta para simular cuánto podría significar u
 
 Además puede programar transferencias de $2.700 diarios, $54.000 mensuales o el monto que quieras.
 
-<p style="text-align:center"> <a class="simulator-page__button btn btn--secondary" href="[https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=awareness&utm_content=un-cafe-menos-113#empezar](https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=awareness&utm_content=un-cafe-menos-113#empezar "https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=awareness&utm_content=un-cafe-menos-113#empezar")">Empezar</a></p>
+<p style="text-align:center"> <a class="simulator-page__button btn btn--secondary" href="https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=awareness&utm_content=un-cafe-menos-113#empezar">Empezar</a></p>
