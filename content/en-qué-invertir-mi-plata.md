@@ -144,7 +144,9 @@ Los ETFs no son muy comunes en Chile porque una de las características que tien
 
 En EEUU son muchísimo más comunes y se caracterizan por ser **simples, diversificados y baratos,** porque no tienen cargos de administración ni condiciones especiales de permanencia o costos por retiros anticipados.
 
-_*Guía elaborada por Francesca Finaldi, periodista en Fintual. Menciono algunas instituciones financieras y empresas, pero aparte de Fintual no tengo ninguna relación ni intereses con ninguna._
+En Fintual puedes invertir fácilmente en ETFs y proyectar tu retorno según el monto y el tiempo que quieras ahorrar.
 
 <p style="text-align:center">
-<a class="simulator-page__button btn btn--secondary" href="https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&u_m_campaign=awareness&utm_content=en-qué-invertir-mi-plata-114#empeza_r">Empezar</a></p>
+<a class="simulator-page__button btn btn--secondary" href="https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&um_campaign=awareness&utm_content=en-qué-invertir-mi-plata-114#empezar">Empezar</a></p>
+
+_*Guía elaborada por Francesca Finaldi, periodista en Fintual. Menciono algunas instituciones financieras y empresas, pero aparte de Fintual no tengo ninguna relación ni intereses con ninguna._
