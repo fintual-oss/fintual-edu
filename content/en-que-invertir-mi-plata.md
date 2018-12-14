@@ -39,7 +39,7 @@ width: 100%;
 
 Depósito a plazo es meter plata en el banco por un retorno tan seguro como pequeño: un 3% anual aprox.
 
-Es una solución cómoda y simple cuando necesitas gastar la plata en 30 días y hasta 6 meses, aunque [es un error para inversiones de largo plazo](https://blog.fintual.cl/el-dep%C3%B3sito-a-plazo-es-una-mala-inversi%C3%B3n-entonces-qu%C3%A9-fintual-b3688432911d): los intereses que se generan son tan bajos que apenas superan a la inflación.
+Es una solución cómoda y simple cuando necesitas gastar la plata en 30 días y hasta 6 meses, aunque [es un error para inversiones de largo plazo](https://edu.fintual.cl/el-deposito-a-plazo-es-una-mala-inversion/): los intereses que se generan son tan bajos que apenas superan a la inflación.
 
 ## 2. Acciones
 
@@ -53,7 +53,7 @@ Peeero:
 
 **Lo único que es 100% seguro son las comisiones que te van a cobrar.** En el largo plazo, en promedio, las acciones suben. En el corto plazo, nadie (o por lo menos tú no probablemente) tiene idea de lo que va a pasar.
 
-**¿Qué acciones comprar?**: Nidea. Para no poner todos los huevos en la misma canasta siempre se recomienda armar un portafolio de varias acciones, pero el mercado chileno es bien pequeño y probablemente no estés en los círculos de información privilegiada (algunos reñidos con la ley), por lo que las recomendaciones que te lleguen serán de amigos que _“cachan”_ o de ejecutivos que tienen metas de ventas. 
+**¿Qué acciones comprar?**: Nidea. Para no poner todos los huevos en la misma canasta siempre se recomienda armar un portafolio de varias acciones, pero el mercado chileno es bien pequeño y probablemente no estés en los círculos de información privilegiada (algunos reñidos con la ley), por lo que las recomendaciones que te lleguen serán de amigos que _“cachan”_ o de ejecutivos que tienen metas de ventas.
 
 Los ejecutivos te venderán lo que les conviene a ellos, incluso por sobre tus intereses. La ley no lo permite, la CMF dicta lo contrario en sus normativas, pero esto sigue siendo así y no creemos que vaya a cambiar. Si quieres hacerlo por tu cuenta, tienes que dedicar tu tiempo a leer seguido noticias financieras (y probablemente vas a llegar tarde igual). Para invertir en acciones y dormir tranquilo, la única estrategia que me atrevo a recomendar –y que históricamente ha dado resultado– es invertir de forma pasiva (siguiendo un índice o al promedio de un mercado).
 
