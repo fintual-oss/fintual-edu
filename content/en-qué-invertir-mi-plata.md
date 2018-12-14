@@ -53,8 +53,9 @@ Peeero:
 
 **Lo único que es 100% seguro son las comisiones que te van a cobrar.** En el largo plazo, en promedio, las acciones suben. En el corto plazo, nadie (o por lo menos tú no probablemente) tiene idea de lo que va a pasar.
 
-**¿Qué acciones comprar?**: Nidea. Para no poner todos los huevos en la misma canasta siempre se recomienda armar un portafolio de varias acciones, pero el mercado chileno es bien pequeño y probablemente no estés en los círculos de información privilegiada (algunos reñidos con la ley), por lo que las recomendaciones que te lleguen serán de amigos que _“cachan”_ o de ejecutivos que tienen metas de ventas.   
-\**Los ejecutivos te venderán lo que les conviene a ellos, incluso por sobre tus intereses.**La ley no lo permite, la CMF dicta lo contrario en sus normativas, pero esto sigue siendo así y no creemos que vaya a cambiar. Si quieres hacerlo por tu cuenta, tienes que dedicar tu tiempo a leer seguido noticias financieras (y probablemente vas a llegar tarde igual). Para invertir en acciones y dormir tranquilo, la única estrategia que me atrevo a recomendar –y que históricamente ha dado resultado– es invertir de forma pasiva (siguiendo un índice o al promedio de un mercado).
+**¿Qué acciones comprar?**: Nidea. Para no poner todos los huevos en la misma canasta siempre se recomienda armar un portafolio de varias acciones, pero el mercado chileno es bien pequeño y probablemente no estés en los círculos de información privilegiada (algunos reñidos con la ley), por lo que las recomendaciones que te lleguen serán de amigos que _“cachan”_ o de ejecutivos que tienen metas de ventas. 
+
+Los ejecutivos te venderán lo que les conviene a ellos, incluso por sobre tus intereses. La ley no lo permite, la CMF dicta lo contrario en sus normativas, pero esto sigue siendo así y no creemos que vaya a cambiar. Si quieres hacerlo por tu cuenta, tienes que dedicar tu tiempo a leer seguido noticias financieras (y probablemente vas a llegar tarde igual). Para invertir en acciones y dormir tranquilo, la única estrategia que me atrevo a recomendar –y que históricamente ha dado resultado– es invertir de forma pasiva (siguiendo un índice o al promedio de un mercado).
 
 <div class="image-wrapper">
 
@@ -66,9 +67,9 @@ Peeero:
 
 Un fondo mutuo es plata de mucha gente reunida (algo así como una _vaca_) para invertir en acciones e índices de forma diversificada. La administradora hace la pega “por mí y por todos mis compañeros” y arma un portafolio diversificado de acciones, ETF y cuotas de otros fondos.
 
-Es **demasiado importante** fijarse en las comisiones. Hay administradoras de fondos mutuos que cobran un 6% de comisión al año (ni se arrugan) y eso es una locura. **Puede que tu fondo rente 5% en un año, pero como la comisión es 6%, _oh!,_ tienes una pérdida del 1%.**
+Es **demasiado importante** fijarse en las comisiones. Hay administradoras de fondos mutuos que cobran un 6% de comisión al año (ni se arrugan) y eso es una locura. **Puede que tu fondo rente 5% en un año, pero como la comisión es 6%, oh!, tienes una pérdida del 1%.**
 
-Hay otros fondos que tienen el descaro de llamarse “_Selección Acciones XXX”_ y cobrarte una comisión de 4% anual, pero terminan siendo una selección de ETF (que son mucho más baratos y no justifican esa comisión tan cara).
+Hay otros fondos que tienen el descaro de llamarse “Selección Acciones XXX” y cobrarte una comisión de 4% anual, pero terminan siendo una selección de ETF (que son mucho más baratos y no justifican esa comisión tan cara).
 
 Eso pasa y mucho. **Especialmente porque la gran mayoría de la gente no tiene ni idea de cuánto le están cobrando de comisión o no entiende que 6% es un número gigantesco: en EE.UU. las comisiones son de 0,1% a 2%.**
 
@@ -144,7 +145,7 @@ Los ETFs no son muy comunes en Chile porque una de las características que tien
 
 En EEUU son muchísimo más comunes y se caracterizan por ser **simples, diversificados y baratos,** porque no tienen cargos de administración ni condiciones especiales de permanencia o costos por retiros anticipados.
 
-#### En Fintual puedes invertir fácilmente en ETFs y proyectar tu retorno según el monto y el tiempo que quieras ahorrar.
+### En Fintual puedes invertir fácilmente en ETFs y proyectar tu retorno según el monto y el tiempo que quieras ahorrar.
 
 <p style="text-align:center">
 <a class="simulator-page__button btn btn--secondary" href="https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&um_campaign=awareness&utm_content=en-qué-invertir-mi-plata-114#empezar">Empezar</a></p>
