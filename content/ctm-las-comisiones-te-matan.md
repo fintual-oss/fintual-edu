@@ -3,7 +3,7 @@ date = "2018-07-08T16:37:29+00:00"
 description = "Una guía para personas que no saben invertir."
 draft = true
 image = "/uploads/guiainversion.jpeg"
-title = "ctm las comisiones te matan"
+title = "CTM: las Comisiones Te Matan"
 
 +++
 <style>
@@ -36,55 +36,31 @@ width: 100%;
 
 </style>
 
-## 1. Depósitos a plazo
+Súper poca gente sabe cuánto paga en comisiones cuando invierte.
 
-Depósito a plazo es meter plata en el banco por un retorno tan seguro como pequeño: un 3% anual aprox.
+Incluso una vez un contador -que se supone que sabe- nos dijo: _“pero si los fondos mutuos son gratis”._
 
-Es una solución cómoda y simple cuando necesitas gastar la plata en 30 días y hasta 6 meses, aunque [es un error para inversiones de largo plazo](https://edu.fintual.cl/el-deposito-a-plazo-es-una-mala-inversion/): los intereses que se generan son tan bajos que apenas superan a la inflación.
+¡Un contador!
 
-## 2. Acciones
+Los fondos mutuos son súper caros pero la gente no cacha. Según una vendedora:
 
-En simple, la lógica de invertir en acciones consiste en comprar una pequeña parte de una empresa –o acción– y venderla cuando suba de precio.
+> Mi técnica es decirle al cliente _“no tiene que pagar nada por **sacar** su plata”_ y él entiende que no tiene que pagar por nada, que es todo gratis.
 
-Peeero:
+Lo mismo pasa con las acciones, donde uno no pregunta quizá por vergüenza o flojera cuánto te cobran de comisión las corredoras ya que **estas afectan la rentabilidad.**
 
-**Se necesita un intermediario**: las Corredoras de Bolsa. Cada transacción tiene un costo y los clientes con montos más pequeños (las personas comunes y corrientes) salen perjudicados. Cuando inviertes en acciones pagas, dependiendo de la corredora, un 0,5% de comisión al comprar y otro 0,5% al vender. Suba o baje la acción, ya tienes un 1% menos de tu dinero.
+> _“Con las comisiones que tienen algunos fondos mutuos, mucho del premio por riesgo se lo está llevando la administradora y no el cliente”, dijo Andrés Navarrete, portfolio manager de acciones chilenas en BTG Pactual en esta nota de_ <a href="http://www.elmercurio.com/Inversiones/Noticias/Fondos-Mutuos/2017/08/25/El-mordisco-de-los-fondos-mutuos.aspx" target="_blank"><i>El Mercurio Inversiones</i></a>
 
-**Es muy difícil ganarle consistentemente al mercado** y predecir qué va a pasar en el futuro. Tan impredecible como una caída de 6% en una acción luego de que el CEO de la compañía fume marihuana en un programa de radio. Todos los economistas y analistas dicen lo que creen, o incluso lo que les conviene decir, pero se equivocan muy seguido. Y cuando se equivoquen, aparecerán al día siguiente explicando porqué pasó lo contrario. _“China salió a comprar divisas inesperadamente”_ o cualquier otra explicación enredada que en retrospectiva se puede entender: después de la guerra somos todos generales.
+## ¿Qué tanta diferencia puede haber si me cobran más?
 
-**Lo único que es 100% seguro son las comisiones que te van a cobrar.** En el largo plazo, en promedio, las acciones suben. En el corto plazo, nadie (o por lo menos tú no probablemente) tiene idea de lo que va a pasar.
+Mucha.
 
-**¿Qué acciones comprar?**: Nidea. Para no poner todos los huevos en la misma canasta siempre se recomienda armar un portafolio de varias acciones, pero el mercado chileno es bien pequeño y probablemente no estés en los círculos de información privilegiada (algunos reñidos con la ley), por lo que las recomendaciones que te lleguen serán de amigos que _“cachan”_ o de ejecutivos que tienen metas de ventas.
+Muchísima de hecho.
 
-Los ejecutivos te venderán lo que les conviene a ellos, incluso por sobre tus intereses. La ley no lo permite, la CMF dicta lo contrario en sus normativas, pero esto sigue siendo así y no creemos que vaya a cambiar. Si quieres hacerlo por tu cuenta, tienes que dedicar tu tiempo a leer seguido noticias financieras (y probablemente vas a llegar tarde igual). Para invertir en acciones y dormir tranquilo, la única estrategia que me atrevo a recomendar –y que históricamente ha dado resultado– es invertir de forma pasiva (siguiendo un índice o al promedio de un mercado).
+Mira un ejemplo.
 
-<div class="image-wrapper">
+Si inviertes 5.000.000 en un fondo mutuo que cobra 6,25% al año como <a href="http://www.banchileinversiones.cl/web/guest/detalle-fondo-mutuo/-/detalle/fondo-mutuo-capitalisa-accionario" target="_blank"><i>éste</i></a> y renta como el promedio, después de 5 años vas a haber ganado $426.544.
 
-<img src="/uploads/guiainversion.jpeg" alt="guiainversion">
-
-</div>
-
-## 3. Fondos mutuos
-
-Un fondo mutuo es plata de mucha gente reunida (algo así como una _vaca_) para invertir en acciones e índices de forma diversificada. La administradora hace la pega “por mí y por todos mis compañeros” y arma un portafolio diversificado de acciones, ETF y cuotas de otros fondos.
-
-Es **demasiado importante** fijarse en las comisiones. Hay administradoras de fondos mutuos que cobran un 6% de comisión al año (ni se arrugan) y eso es una locura. **Puede que tu fondo rente 5% en un año, pero como la comisión es 6%, oh!, tienes una pérdida del 1%.**
-
-Hay otros fondos que tienen el descaro de llamarse “Selección Acciones XXX” y cobrarte una comisión de 4% anual, pero terminan siendo una selección de ETF (que son mucho más baratos y no justifican esa comisión tan cara).
-
-Eso pasa y mucho. **Especialmente porque la gran mayoría de la gente no tiene ni idea de cuánto le están cobrando de comisión o no entiende que 6% es un número gigantesco: en EE.UU. las comisiones son de 0,1% a 2%.**
-
-## 4. APV
-
-El Estado te regala hasta $290.000 (6 UTM) en efectivo todos los años.
-
-Sí.
-
-Gratis.
-
-No, no es el bono marzo.
-
-Esto es para cualquier persona.
+Si ese banco fuera más buena onda y cobrara lo que por ejemplo cobramos nosotros en Fintual, ganarías $1.918.489 y no 426 lucas.
 
 <div class="image-wrapper">
 
