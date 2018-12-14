@@ -1,7 +1,6 @@
 +++
 date = "2018-07-08T16:37:29+00:00"
 description = "Entonces, ¿en qué invertir? FINTUAL"
-draft = true
 image = "/uploads/rankingagf.png"
 title = "El deposito a plazo es una mala inversion"
 
