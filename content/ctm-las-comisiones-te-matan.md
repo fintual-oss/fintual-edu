@@ -2,7 +2,7 @@
 date = "2018-07-08T16:37:29+00:00"
 description = "Una guía para personas que no saben invertir."
 draft = true
-image = "/uploads/simulador.png"
+image = "/uploads/simulador-1.png"
 title = "CTM: las Comisiones Te Matan"
 
 +++
@@ -64,7 +64,7 @@ Si ese banco fuera más buena onda y cobrara lo que por ejemplo cobramos nosotro
 
 <div class="image-wrapper">
 
-<img src="/uploads/simulador.png" alt="simulador">
+<img src="/uploads/simulador-1.png" alt="simulador">
 
 </div>
 
@@ -74,7 +74,7 @@ A veces pasa que tu inversión teniendo una rentabilidad del 6% anual, en realid
 
 La comisión se come **toda la rentabilidad.**
 
-Si quieres ver cuánta plata estás dejando de ganar por las comisiones revisa el simulador que hicimos: 
+Si quieres ver cuánta plata estás dejando de ganar por las comisiones revisa el simulador que hicimos:
 
 <p style="text-align:center">
 <a class="simulator-page__button btn btn--secondary" href="https://fintual.cl/simulador/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=awareness&utm_content=ctm-las-comisiones-te-matan-116  ">Aquí</a></p>
