@@ -1,8 +1,8 @@
 +++
 date = "2018-07-08T16:37:29+00:00"
-description = "Una guía para personas que no saben invertir."
+description = "Entonces, ¿en qué invertir? FINTUAL"
 draft = true
-image = "/uploads/guiainversion.jpeg"
+image = "/uploads/rankingagf.png"
 title = "El deposito a plazo es una mala inversion"
 
 +++
@@ -36,59 +36,33 @@ width: 100%;
 
 </style>
 
-## 1. Depósitos a plazo
+## Hoy un banco te da un 0,23% al mes¹ cuando haces un depósito a plazo, lo que en un año se traduce en 2,76%.
 
-Depósito a plazo es meter plata en el banco por un retorno tan seguro como pequeño: un 3% anual aprox.
+¿La inflación en Chile el año pasado?: 2,27%
 
-Es una solución cómoda y simple cuando necesitas gastar la plata en 30 días y hasta 6 meses, aunque [es un error para inversiones de largo plazo](https://blog.fintual.cl/el-dep%C3%B3sito-a-plazo-es-una-mala-inversi%C3%B3n-entonces-qu%C3%A9-fintual-b3688432911d): los intereses que se generan son tan bajos que apenas superan a la inflación.
+O sea que si durante el año pasado fuiste renovando depósitos a plazo en tu banco, no es que hayas ganado realmente mucho. Apenas lograste ganarle a la inflación y el precio de las cosas subirá igual a como sube tu plata.
 
-## 2. Acciones
+_“Ya, ¿y qué hago? me da lata aprender a invertir. No sé y no tengo tiempo”._
 
-En simple, la lógica de invertir en acciones consiste en comprar una pequeña parte de una empresa –o acción– y venderla cuando suba de precio.
+Para eso creamos [FINTUAL](http://www.fintual.com/). Para jóvenes profesionales que aunque no saben de finanzas y no tienen ganas de aprender, sí quieren **invertir en algo que sea bueno y fácil.**
 
-Peeero:
+> “Llegó Fintual AGF \[…\] que administra sus vehículos bajo el esquema de robot advisors, por lo que las comisiones cobradas a los clientes superan levemente el 1% anual, muy por debajo del promedio de la industria”, El Mercurio Inversiones, 7 marzo 2018.
 
-**Se necesita un intermediario**: las Corredoras de Bolsa. Cada transacción tiene un costo y los clientes con montos más pequeños (las personas comunes y corrientes) salen perjudicados. Cuando inviertes en acciones pagas, dependiendo de la corredora, un 0,5% de comisión al comprar y otro 0,5% al vender. Suba o baje la acción, ya tienes un 1% menos de tu dinero.
+Invertimos tu dinero en instrumentos sencillos, principalmente ETFs, que si no sabes lo qué son, excelente, eres nuestro tipo de cliente.
 
-**Es muy difícil ganarle consistentemente al mercado** y predecir qué va a pasar en el futuro. Tan impredecible como una caída de 6% en una acción luego de que el CEO de la compañía fume marihuana en un programa de radio. Todos los economistas y analistas dicen lo que creen, o incluso lo que les conviene decir, pero se equivocan muy seguido. Y cuando se equivoquen, aparecerán al día siguiente explicando porqué pasó lo contrario. _“China salió a comprar divisas inesperadamente”_ o cualquier otra explicación enredada que en retrospectiva se puede entender: después de la guerra somos todos generales.
+Un ETF es como una canasta de varias acciones con la que sigues un mercado en particular diversificando el riesgo. Si alguna de las acciones que componen esta canasta sube, entonces sube también el precio del ETF.
 
-**Lo único que es 100% seguro son las comisiones que te van a cobrar.** En el largo plazo, en promedio, las acciones suben. En el corto plazo, nadie (o por lo menos tú no probablemente) tiene idea de lo que va a pasar.
+> “Cuando me muera, le dije a mi esposa que pusiera el 90% del dinero en ETFs porque pienso que en el largo plazo los resultados serán superiores a la mayoría”,_Warren Buffet._
 
-**¿Qué acciones comprar?**: Nidea. Para no poner todos los huevos en la misma canasta siempre se recomienda armar un portafolio de varias acciones, pero el mercado chileno es bien pequeño y probablemente no estés en los círculos de información privilegiada (algunos reñidos con la ley), por lo que las recomendaciones que te lleguen serán de amigos que _“cachan”_ o de ejecutivos que tienen metas de ventas. 
+Los ETFs son muy baratos de administrar y la mayoría sigue a un índice financiero. Lo bueno de los índices financieros es que representan estrategias que le han ganado en rentabilidad al 80% de las otras estrategias de inversión en los últimos 5 años en los mercados².
 
-Los ejecutivos te venderán lo que les conviene a ellos, incluso por sobre tus intereses. La ley no lo permite, la CMF dicta lo contrario en sus normativas, pero esto sigue siendo así y no creemos que vaya a cambiar. Si quieres hacerlo por tu cuenta, tienes que dedicar tu tiempo a leer seguido noticias financieras (y probablemente vas a llegar tarde igual). Para invertir en acciones y dormir tranquilo, la única estrategia que me atrevo a recomendar –y que históricamente ha dado resultado– es invertir de forma pasiva (siguiendo un índice o al promedio de un mercado).
+Si a eso le sumas que en FINTUAL automatizamos casi todo el proceso y cobramos una comisión significativamente menor al mercado, la rentabilidad debiera ser más alta para ti.
 
-<div class="image-wrapper">
-
-<img src="/uploads/guiainversion.jpeg" alt="guiainversion">
-
-</div>
-
-## 3. Fondos mutuos
-
-Un fondo mutuo es plata de mucha gente reunida (algo así como una _vaca_) para invertir en acciones e índices de forma diversificada. La administradora hace la pega “por mí y por todos mis compañeros” y arma un portafolio diversificado de acciones, ETF y cuotas de otros fondos.
-
-Es **demasiado importante** fijarse en las comisiones. Hay administradoras de fondos mutuos que cobran un 6% de comisión al año (ni se arrugan) y eso es una locura. **Puede que tu fondo rente 5% en un año, pero como la comisión es 6%, oh!, tienes una pérdida del 1%.**
-
-Hay otros fondos que tienen el descaro de llamarse “Selección Acciones XXX” y cobrarte una comisión de 4% anual, pero terminan siendo una selección de ETF (que son mucho más baratos y no justifican esa comisión tan cara).
-
-Eso pasa y mucho. **Especialmente porque la gran mayoría de la gente no tiene ni idea de cuánto le están cobrando de comisión o no entiende que 6% es un número gigantesco: en EE.UU. las comisiones son de 0,1% a 2%.**
-
-## 4. APV
-
-El Estado te regala hasta $290.000 (6 UTM) en efectivo todos los años.
-
-Sí.
-
-Gratis.
-
-No, no es el bono marzo.
-
-Esto es para cualquier persona.
+Mira tabla de El Mercurio donde ya aparecemos compitiendo con el Santander, BancoEstado, BBVA entre otros. Nos vemos tiernos… por ahora.
 
 <div class="image-wrapper">
 
-<img src="/uploads/puglife.gif" alt="puglife">
+<img src="/uploads/rankingagf.png" alt="rankingagf.png">
 
 </div>
 
