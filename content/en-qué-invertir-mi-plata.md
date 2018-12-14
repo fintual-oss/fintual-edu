@@ -1,7 +1,6 @@
 +++
 date = "2018-07-08T16:37:29+00:00"
 description = "Una guía para personas que no saben invertir."
-draft = true
 image = "/uploads/guiainversion.jpeg"
 title = "En qué invertir mi plata"
 
@@ -145,7 +144,7 @@ Los ETFs no son muy comunes en Chile porque una de las características que tien
 
 En EEUU son muchísimo más comunes y se caracterizan por ser **simples, diversificados y baratos,** porque no tienen cargos de administración ni condiciones especiales de permanencia o costos por retiros anticipados.
 
-\*Guía elaborada por Francesca Finaldi, periodista en Fintual. _Menciono algunas instituciones financieras y empresas, pero aparte de Fintual no tengo ninguna relación ni intereses con ninguna._
+_*Guía elaborada por Francesca Finaldi, periodista en Fintual. Menciono algunas instituciones financieras y empresas, pero aparte de Fintual no tengo ninguna relación ni intereses con ninguna._
 
 <p style="text-align:center">
-<a class="simulator-page__button btn btn--secondary" href="https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=awareness&utm_content=hagamos+esto+papa-112#empezar">Empezar</a></p>
+<a class="simulator-page__button btn btn--secondary" href="https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&u_m_campaign=awareness&utm_content=en-qué-invertir-mi-plata-114#empeza_r">Empezar</a></p>
