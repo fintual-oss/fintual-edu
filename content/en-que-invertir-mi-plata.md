@@ -119,8 +119,6 @@ Y lo que es mejor, puedes invertir desde $20.000 adquiriendo “acciones” o �
 
 Entre los 5 fondos más grandes de renta inmobiliaria, Aurus es la única que te entrega dividendos mensuales como si te estuvieran pagando el arriendo en tiempo real. Las otras lo hacen cada tres o cuatro meses.
 
-La rentabilidad anual se parece mucho a la rentabilidad de un departamento pequeño (que de hecho son los más rentables) restándole arreglos y gastos varios, por lo que puede ser una buena opción para personas que prefieran lidiar lo menos posible con problemas y que no les preocupe tanto sentir que tienen o no un lugar físico en el cual estar.
-
 Hay emprendimientos en internet que permiten invertir desde $1.000.000 bajo esta modalidad. No sé quiénes están detrás, así que mejor los investigas tú mismo.
 
 ## 7. Préstamos persona a persona (o empresa).
@@ -133,13 +131,7 @@ Eso es lo que hacen en Chile las empresas Cumplo, Becual y Dobleimpacto (no sé 
 
 ## 8. ETFs
 
-El ETF es una mezcla entre fondos y acciones, porque es un fondo barato diversificado que se puede comprar y vender como si fuera una acción.
-
 Un ETF puede ser visto como un portafolio de varias acciones de algún mercado, industria o país y por eso suele decirse que son un índice que sigue a tal mercado, industria o país.
-
-Imagínate que existiera un ETF que se llamara ETF Chile, en el cual hay una acción de cada empresa en la Bolsa de Santiago. Si un día le fuera mal en promedio a la Bolsa de Santiago, lo mismo le pasaría al ETF Chile porque al tener acciones de todas las empresas posibles estaría replicando el comportamiento del mercado.
-
-De hecho, existe algo más o menos así que se llama ETF It now IPSA (por Índice de Precios Selectivo de Acciones), que incluye las 35 acciones del **S&P/CLX IPSA** (o las que tienen mayor presencia en el mercado chileno). Este ETF lo puedes comprar en el Banco Itaú, quienes lo administran y lo llaman ItNowIpsa.
 
 Los ETFs no son muy comunes en Chile porque una de las características que tienen es que sean de alta liquidez (que sea muy fácil transformarlos en plata, es decir venderlos o comprarlos rápidamente), algo difícil en un mercado chico como el chileno donde hay pocos participantes que venden y compran.
 
