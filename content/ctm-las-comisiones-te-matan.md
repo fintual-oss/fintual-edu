@@ -44,11 +44,11 @@ Incluso una vez un contador -que se supone que sabe- nos dijo: _“pero si los 
 
 Los fondos mutuos son súper caros pero la gente no cacha. Según una vendedora:
 
-> Mi técnica es decirle al cliente _“no tiene que pagar nada por **sacar** su plata”_ y él entiende que no tiene que pagar por nada, que es todo gratis.
+> Mi técnica es decirle al cliente **“no tiene que pagar nada por sacar su plata”** y él entiende que no tiene que pagar por nada, que es todo gratis.
 
 Lo mismo pasa con las acciones, donde uno no pregunta quizá por vergüenza o flojera cuánto te cobran de comisión las corredoras ya que **estas afectan la rentabilidad.**
 
-> _“Con las comisiones que tienen algunos fondos mutuos, mucho del premio por riesgo se lo está llevando la administradora y no el cliente”, dijo Andrés Navarrete, portfolio manager de acciones chilenas en BTG Pactual en esta nota de_ <a href="http://www.elmercurio.com/Inversiones/Noticias/Fondos-Mutuos/2017/08/25/El-mordisco-de-los-fondos-mutuos.aspx" target="_blank"><i>El Mercurio Inversiones</i></a>
+> “Con las comisiones que tienen algunos fondos mutuos, mucho del premio por riesgo se lo está llevando la administradora y no el cliente”, dijo Andrés Navarrete, portfolio manager de acciones chilenas en BTG Pactual en esta nota de <a href="http://www.elmercurio.com/Inversiones/Noticias/Fondos-Mutuos/2017/08/25/El-mordisco-de-los-fondos-mutuos.aspx" target="_blank"><i>El Mercurio Inversiones</i></a>
 
 ## ¿Qué tanta diferencia puede haber si me cobran más?
 
@@ -74,7 +74,7 @@ A veces pasa que tu inversión teniendo una rentabilidad del 6% anual, en realid
 
 La comisión se come **toda la rentabilidad.**
 
-Si quieres ver cuánta plata estás dejando de ganar por las comisiones revisa el simulador que hicimos: <a href="https://fintual.cl/simulador" target="_blank"><i>aquí</i></a>
+Si quieres ver cuánta plata estás dejando de ganar por las comisiones revisa el simulador que hicimos: 
 
 <p style="text-align:center">
-<a class="simulator-page__button btn btn--secondary" href="https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&um_campaign=awareness&utm_content=en-qué-invertir-mi-plata-114#empezar">Aquí</a></p>
+<a class="simulator-page__button btn btn--secondary" href="https://fintual.cl/simulador/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=awareness&utm_content=ctm-las-comisiones-te-matan-116  ">Aquí</a></p>
