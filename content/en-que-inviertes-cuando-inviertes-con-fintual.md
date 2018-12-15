@@ -31,15 +31,15 @@ Simple. En fondos mutuos que creamos nosotros. En nuestro caso, **un fondo mutuo
 
 ### Pero, ¿en qué acciones específicamente?
 
-Esto lo podemos aclarar con una breve historia
+Esto nos gusta aclararlo con una breve historia.
 
-En la oficina, a veces estamos tan metidos en las operaciones del día a día que a veces se nos olvida lo bacán que es lo que hacemos. Es así como una vez se escuchó el siguiente diálogo:
+En la oficina, estamos tan metidos en las operaciones del día a día que a veces se nos olvida lo bacán que es. Es así como una vez se escuchó el siguiente diálogo:
 
 \- Maldito Trump, se mandó unas declaraciones sobre regular Amazon y el precio de la acción bajó 3% _-dijo Omar, nuestro CIO._
 
 \- ¿Y eso le pega a nuestros clientes en Fintual? _-pregunta alguien_
 
-Omar, que también es co-fundador de Fintual y se encarga de las inversiones, lo mira con cara de “¿en serio me _estai_ preguntando eso?” y se da vuelta en su silla.
+Omar, que también es co-fundador de Fintual y se encarga de las inversiones, lo mira con cara de “¿en serio me estai preguntando eso?” y se da vuelta en su silla.
 
 \- ¿Invertimos en Amazon? _-insiste el otro_
 
@@ -68,7 +68,7 @@ De esa forma, nosotros podemos saber **qué tipo de inversionista eres, y cuál 
 
 _Fintual es una Administradora General de Fondos regulada por la Comisión para el Mercado Financiero (ex SVS). **La opción más barata para inversionistas con menos de $100.000.000. Cobramos 1,19% de comisión anual y nada más.**_
 
-Comparte esta historia:
+#### Comparte esta historia:
 
 <div class="simulator-page__sharing">
 
