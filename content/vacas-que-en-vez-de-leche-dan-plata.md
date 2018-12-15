@@ -1,9 +1,8 @@
 +++
 date = "2018-07-08T16:37:29+00:00"
 description = "Invertir tiene que ser fácil."
-draft = true
 image = ""
-title = "Vacas que en vez de leche dan plata"
+title = "\"Vacas\" que en vez de leche dan plata"
 
 +++
 <style>
@@ -35,6 +34,20 @@ width: 100%;
 }
 
 </style>
+
+<div class="simulator-page__sharing">
+
+<a class="js-social-share simulator-page__sharing-link facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://edu.fintual.cl/vacas-que-en-vez-de-leche-dan-plata/">
+
+    <img alt="Compartir en Facebook" src="/uploads/facebook.svg">
+
+</a>          <a class="js-social-share simulator-page__sharing-link twitter" target="_blank" href="https://twitter.com/intent/tweet?text=Cuando inviertes, lo que ganas depende de las comisiones&url=https%3A%2F%2Ffintual.cl%2Fsimulador">
+<img alt="Compartir en Twitter" src="/assets/social/twitter-clean-5b89c47e94fa24547c98d519561b8494009ee7fd4fcc1c63bca5f3f7e881c586.svg">
+</a>          <a class="js-social-share simulator-page__sharing-link whatsapp" target="_blank" href="whatsapp://send?text=Cuando inviertes, lo que ganas depende de las comisiones:https%3A%2F%2Ffintual.cl%2Fsimulador">
+<img alt="Compartir en WhatsApp" src="/assets/social/whatsapp-clean-2ef5f256583bfc924c87cf1bd2d7fc5d51e62eb590a0127e7ea70a31db7307e0.svg">
+</a>          <a class="js-social-share simulator-page__sharing-link linkedin" target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&title=Cuando+inviertes%2C+lo+que+ganas+depende+de+las+comisiones      &url=https%3A%2F%2Ffintual.cl%2Fsimulador&source=Fintual">
+<img alt="Compartir en LinkedIn" src="/assets/social/linkedin-clean-41d1b449eff2b5996f984d822b8d2f7a34ad24327e1bef198e296da110711d82.svg">
+</a>      </div>
 
 Habiendo tantas páginas para pedir comida ¿cómo no existía una que te ayudara a invertir bien tu plata?
 
