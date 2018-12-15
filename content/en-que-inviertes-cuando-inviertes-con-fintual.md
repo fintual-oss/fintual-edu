@@ -68,7 +68,7 @@ De esa forma, nosotros podemos saber **qué tipo de inversionista eres, y cuál 
 
 _Fintual es una Administradora General de Fondos regulada por la Comisión para el Mercado Financiero (ex SVS). **La opción más barata para inversionistas con menos de $100.000.000. Cobramos 1,19% de comisión anual y nada más.**_
 
-#### Comparte esta historia:
+#### **Comparte esta historia:**
 
 <div class="simulator-page__sharing">
 
