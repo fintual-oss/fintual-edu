@@ -52,17 +52,11 @@ margin: 40px 0px;
 </a>  
 </div>
 
-## Pregunta típica: ¿en qué se invierte cuando inviertes en Fintual?
+### Pregunta típica: ¿en qué se invierte cuando inviertes en Fintual?
 
-En fondos mutuos que creamos nosotros. Fondo mutuo = plata de mucha gente reunida (algo así como una _vaca_ 🐄) **que en palabras simples se invierten en acciones, bonos soberanos de Chile y bonos de empresas nacionales.**  
+Simple. En fondos mutuos que creamos nosotros. Un fondo mutuo es plata de mucha gente reunida (algo así como una _vaca_ 🐄) que se invierte en acciones e indíces, bonos soberanos de Chile y bonos de empresas nacionales.
 
-Pero, ¿en qué acciones específicamente? 
-
-<div class="image-wrapper">
-
-<img src="/uploads/vaca.png" alt="vaca">
-
-</div>
+### Pero, ¿en qué acciones específicamente?
 
 En la oficina, a veces estamos tan metidos en las operaciones del día a día que a veces se nos olvida lo bacán que es.
 
@@ -70,30 +64,33 @@ Una vez se escuchó el siguiente diálogo:
 
 \- Maldito Trump, se mandó unas declaraciones sobre regular Amazon y el precio de la acción bajó 3% -dijo Omar, nuestro CIO.
 
-  
 \- ¿Y eso le pega a nuestros clientes en Fintual? -pregunta alguien
 
 Omar, que también es co-fundador de Fintual y se encarga de las inversiones, lo mira con cara de “¿en serio me _estai_ preguntando eso?” y se da vuelta en su silla.
 
 \- ¿Invertimos en Amazon? -insiste el otro
 
-  
 \- Y en Netflix, Apple, Google, … en casi todas las tecnológicas. Es una pequeña parte de todo lo que tienen en su portafolio nuestros clientes, dependiendo del nivel de riesgo.
 
-  
 \- Qué la raja.
 
 \- …
 
-**¿Cómo invertir en Fintual?**
+<div class="image-wrapper">
+
+<img src="/uploads/vaca.png" alt="vaca">
+
+</div>
+
+### ¿Cómo invertir en Fintual?
 
 Súper fácil. Haz clic abajo y responde muchas preguntas (bueno, no son tantas).
 
 <p style="text-align:center">
 <a class="simulator-page__button btn btn--secondary" href="https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referr_tm_campaign=awareness&utm_content=hagamos+esto+papa-112#empezar">Empezar</a></p>
-  
-Nuestro algoritmo clasifica tus respuestas sin importar si tienes experiencia en finanzas o no.  
 
-De esa forma, nosotros podemos saber qué tipo de inversionista eres, y cuál categoría te corresponde o acomoda.
+Nuestro algoritmo clasifica tus respuestas sin importar si tienes experiencia en finanzas o no.
 
-_Fintual es una Administradora General de Fondos regulada por la Comisión para el Mercado Financiero (ex SVS). La opción más barata para inversionistas con menos de $100.000.000. Cobramos 1,19% de comisión anual y nada más._  
+De esa forma, nosotros podemos saber **qué tipo de inversionista eres, y cuál categoría te corresponde o acomoda.**
+
+_Fintual es una Administradora General de Fondos regulada por la Comisión para el Mercado Financiero (ex SVS). **La opción más barata para inversionistas con menos de $100.000.000. Cobramos 1,19% de comisión anual y nada más.**_
