@@ -11,28 +11,18 @@ p { margin:4rem 0px; text-align:justify; }
 
 .footer-big__overlap { padding-bottom:0px; }
 
-.image-wrapper {
-
-text-align: center;
-
-}
+.image-wrapper { text-align: center; }
 
 .image-wrapper img {
-
-width: 60%; text-align: center; margin: 40px 0px;
-
+width: 60%;
+text-align: center;
+margin: 40px 0px;
 }
 
 @media (max-width: 768px)  {
-
-.image-wrapper img {
-
-width: 100%;
+.image-wrapper img { width: 100%; }
 
 }
-
-}
-
 </style>
 
 <div class="simulator-page__sharing">
@@ -40,39 +30,29 @@ width: 100%;
 <a class="js-social-share simulator-page__sharing-link facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://edu.fintual.cl/vacas-que-en-vez-de-leche-dan-plata/">
 
     <img alt="Compartir en Facebook" src="/uploads/facebook.svg">
+
 </a>
-  
-  <a class="js-social-share simulator-page__sharing-link twitter" target="_blank" href="https://twitter.com/intent/tweet?text=Vacas que en vez de leche dan plata&url=http://edu.fintual.cl/vacas-que-en-vez-de-leche-dan-plata/">
+
+<a class="js-social-share simulator-page__sharing-link twitter" target="_blank" href="https://twitter.com/intent/tweet?text=Vacas que en vez de leche dan plata&url=http://edu.fintual.cl/vacas-que-en-vez-de-leche-dan-plata/">
 
     <img alt="Compartir en Twitter" src="/uploads/twitter.svg">
+
 </a>
-  
-  <a class="js-social-share simulator-page__sharing-link whatsapp" target="_blank" href="whatsapp://send?text=Vacas que en vez de leche dan plata:http://edu.fintual.cl/vacas-que-en-vez-de-leche-dan-plata/">
+
+<a class="js-social-share simulator-page__sharing-link whatsapp" target="_blank" href="whatsapp://send?text=Vacas que en vez de leche dan plata:http://edu.fintual.cl/vacas-que-en-vez-de-leche-dan-plata/">
 
     <img alt="Compartir en WhatsApp" src="/uploads/whatsapp.svg">
+
 </a>
-  
-  <a class="js-social-share simulator-page__sharing-link linkedin" target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&title=Vacas+que+en+vez+de+leche+dan+plata&url=http://edu.fintual.cl/vacas-que-en-vez-de-leche-dan-plata/">
+
+<a class="js-social-share simulator-page__sharing-link linkedin" target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&title=Vacas+que+en+vez+de+leche+dan+plata&url=http://edu.fintual.cl/vacas-que-en-vez-de-leche-dan-plata/">
 
     <img alt="Compartir en LinkedIn" src="/uploads/linkedin.svg">
-</a>      
+
+</a>  
 </div>
 
-Habiendo tantas páginas para pedir comida ¿cómo no existía una que te ayudara a invertir bien tu plata?
-
-En Chile no conocíamos algo que fuera simple, transparente y barato.
-
-Lo único simple que encontramos fueron los depósitos a plazo, pero es tan poco lo que se gana que no tenía sentido.
-
-**Por eso invertir tiene que ser fácil.**
-
-**¿Qué significa fácil?**
-
-1\. Responder unas preguntas para medir tu tolerancia al riesgo
-
-2\. Decidir cuánta plata y durante cuánto tiempo quieres invertir
-
-3\. Listo.
+Cuando inviertes en fintual inviertes en fondos mutuos. Un fondo mutuo es plata de mucha gente reunida (algo así como una vaca🐄) para invertir en acciones e índices de forma diversificada. A nuestras vacas les dan de comer Google, Facebook, Amazon, Microsoft y en vez de dar leche dan plata.
 
 <div class="image-wrapper">
 
@@ -80,23 +60,5 @@ Lo único simple que encontramos fueron los depósitos a plazo, pero es tan poco
 
 </div>
 
-¿Es broma?
-
-No, no es broma.
-
-**¿Quieres poner poca plata?** Puedes hacerlo, no hay montos mínimos.
-
-**¿Quieres sacar tu plata antes?** Obvio. No hay costos por sacar tu plata.
-
-**¿Es seguro?** Fintual es una institución financiera regulada.
-
-Cool pero regulada.
-
-La Comisión para el Mercado Financiero vigila que cumplamos con la ley. Puedes ver nuestro registro en la CMF [aquí.](http://www.cmfchile.cl/institucional/mercados/entidad.php?auth=&send=&mercado=V&rut=76810627&grupo=&tipoentidad=RGAGF&vig=VI&row=AAAwy2ACTAAAB4AAAP&control=svs&pestania=1)
-
-_Algunas personas dicen que algo es papa cuando es fácil._
-
-_Y nosotros queremos eso, que invertir sea papa._
-
 <p style="text-align:center">
-<a class="simulator-page__button btn btn--secondary" href="https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=awareness&utm_content=hagamos+esto+papa-112#empezar">Empezar</a></p>
+<a class="simulator-page__button btn btn--secondary" href="https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referr_tm_campaign=awareness&utm_content=hagamos+esto+papa-112#empezar">Definitivamente quiero invertir en esas vacas ☝</a></p>
