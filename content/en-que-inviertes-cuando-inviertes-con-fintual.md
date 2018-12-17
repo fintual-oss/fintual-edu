@@ -22,6 +22,17 @@ margin: 40px 0px;
 @media (max-width: 768px)  {
 .image-wrapper img { width: 100%; }
 
+.simulator-page__sharing-link {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    color: #fff;
+    margin: 0 5px;
+  }
+
 }
 </style>
 
