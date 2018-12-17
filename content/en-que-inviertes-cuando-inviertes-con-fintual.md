@@ -72,25 +72,25 @@ _Fintual es una Administradora General de Fondos regulada por la Comisión para 
 
 <div class="simulator-page__sharing">
 
-<a class="js-social-share simulator-page__sharing-link facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://edu.fintual.cl/vacas-que-en-vez-de-leche-dan-plata/">
+<a class="js-social-share simulator-page__sharing-link facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://edu.fintual.cl/en-que-inviertes-cuando-inviertes-con-fintual">
 
     <img alt="Compartir en Facebook" src="/uploads/facebook.svg">
 
 </a>
 
-<a class="js-social-share simulator-page__sharing-link twitter" target="_blank" href="https://twitter.com/intent/tweet?text=Vacas que en vez de leche dan plata&url=http://edu.fintual.cl/vacas-que-en-vez-de-leche-dan-plata/">
+<a class="js-social-share simulator-page__sharing-link twitter" target="_blank" href="https://twitter.com/intent/tweet?text=Vacas que en vez de leche dan plata&url=https://edu.fintual.cl/en-que-inviertes-cuando-inviertes-con-fintual/">
 
     <img alt="Compartir en Twitter" src="/uploads/twitter.svg">
 
 </a>
 
-<a class="js-social-share simulator-page__sharing-link whatsapp" target="_blank" href="whatsapp://send?text=Vacas que en vez de leche dan plata:http://edu.fintual.cl/vacas-que-en-vez-de-leche-dan-plata/">
+<a class="js-social-share simulator-page__sharing-link whatsapp" target="_blank" href="whatsapp://send?text=Vacas que en vez de leche dan plata:https://edu.fintual.cl/en-que-inviertes-cuando-inviertes-con-fintual/">
 
     <img alt="Compartir en WhatsApp" src="/uploads/whatsapp.svg">
 
 </a>
 
-<a class="js-social-share simulator-page__sharing-link linkedin" target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&title=Vacas+que+en+vez+de+leche+dan+plata&url=http://edu.fintual.cl/vacas-que-en-vez-de-leche-dan-plata/">
+<a class="js-social-share simulator-page__sharing-link linkedin" target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&title=Vacas+que+en+vez+de+leche+dan+plata&url=https://edu.fintual.cl/en-que-inviertes-cuando-inviertes-con-fintual/">
 
     <img alt="Compartir en LinkedIn" src="/uploads/linkedin.svg">
 
