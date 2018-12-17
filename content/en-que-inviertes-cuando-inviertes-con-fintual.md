@@ -1,7 +1,7 @@
 +++
 date = "2018-07-08T16:37:29+00:00"
 description = "En la oficina, a veces estamos tan metidos en las operaciones del día a día que a veces se nos olvida lo bacán que es."
-image = "/uploads/vaca.png"
+image = "/uploads/vaca1.png"
 title = "Cuando inviertes con Fintual, inviertes en Netflix, Apple, Google y Amazon"
 
 +++
@@ -84,15 +84,4 @@ _Fintual es una Administradora General de Fondos regulada por la Comisión para 
 
 </a>
 
-<a class="js-social-share simulator-page__sharing-link whatsapp" target="_blank" href="whatsapp://send?text=Vacas que en vez de leche dan plata:https://edu.fintual.cl/en-que-inviertes-cuando-inviertes-con-fintual/">
-
-    <img alt="Compartir en WhatsApp" src="/uploads/whatsapp.svg">
-
-</a>
-
-<a class="js-social-share simulator-page__sharing-link linkedin" target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&title=Vacas+que+en+vez+de+leche+dan+plata&url=https://edu.fintual.cl/en-que-inviertes-cuando-inviertes-con-fintual/">
-
-    <img alt="Compartir en LinkedIn" src="/uploads/linkedin.svg">
-
-</a>  
 </div>
