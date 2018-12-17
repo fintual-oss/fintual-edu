@@ -95,9 +95,4 @@ _Fintual es una Administradora General de Fondos regulada por la Comisión para 
 
 </a>
   
-<a class="twitter-share-button"
-  href="https://twitter.com/intent/tweet?text=Cuando inviertes con Fintual, inviertes en Netflix, Apple, Google y Amazon&url=https://edu.fintual.cl/en-que-inviertes-cuando-inviertes-con-fintual/">
-Tweet</a>
-  <meta property="twitter:image" content="edu.fintual.cl/uploads/vaca1.png" />
-  
 </div>
