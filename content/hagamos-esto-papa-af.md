@@ -76,4 +76,4 @@ _Algunas personas dicen que algo es papa cuando es fácil._
 _Y nosotros queremos eso, que invertir sea papa._
 
 <p style="text-align:center">
-<a class="simulator-page__button btn btn--secondary" href="https://fintual.cl/?utm_source=edu.fintual.cl&utm__edium=referral&utm_campaign=awareness&utm_content=hagamos+esto+papa+af-122#empezar">Empezar</a></p>
+<a class="simulator-page__button btn btn--secondary" href="https://fintual.cl/?utm_source=edu.fintual.cl&utm__edium=referral&utm_campaign=awareness&utm_content=hagamos+esto+papa+af-123#empezar">Empezar</a></p>
