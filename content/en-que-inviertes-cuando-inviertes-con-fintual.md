@@ -36,6 +36,12 @@ margin: 40px 0px;
 }
 </style>
 
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="/uploads/vaca1.png"/>
+<meta name="twitter:title" content="Hola"/>
+<meta name="twitter:description" content="descripcion"/>
+<meta name="twitter:site" content="@fintual"/>
+
 ### Pregunta típica: ¿en qué se invierte cuando inviertes en Fintual?
 
 Simple. En fondos mutuos que creamos nosotros. En nuestro caso, **un fondo mutuo es plata de mucha gente reunida** (algo así como una _vaca_ 🐄) **que se invierte en acciones e indíces, bonos soberanos de Chile y bonos de empresas nacionales.**
