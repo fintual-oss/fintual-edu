@@ -1,8 +1,7 @@
 +++
 date = "2018-07-08T16:37:29+00:00"
 description = "Invertir tiene que ser fácil."
-draft = true
-image = ""
+image = "/uploads/inviertepapa.png"
 title = "Hagamos esto papa-Linkedin"
 
 +++
@@ -77,4 +76,4 @@ _Algunas personas dicen que algo es papa cuando es fácil._
 _Y nosotros queremos eso, que invertir sea papa._
 
 <p style="text-align:center">
-<a class="simulator-page__button btn btn--secondary" href="https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=awareness&utm_content=hagamos+esto+papa-112#empezar">Empezar</a></p>
+<a class="simulator-page__button btn btn--secondary" href="https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=awareness&utm_content=hagamos+esto+papa+lk-122#empezar">Empezar</a></p>
