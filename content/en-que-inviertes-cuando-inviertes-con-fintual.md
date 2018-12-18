@@ -37,7 +37,7 @@ margin: 40px 0px;
 </style>
 
 <meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:image" content="edu.fintual.cl/uploads/vaca1.png"/>
+<meta name="twitter:image" content="https://edu.fintual.cl/uploads/vaca1.png"/>
 <meta name="twitter:title" content="Hola"/>
 <meta name="twitter:description" content="descripcion"/>
 <meta name="twitter:site" content="@fintual"/>
