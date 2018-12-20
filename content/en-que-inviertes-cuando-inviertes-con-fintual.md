@@ -89,7 +89,7 @@ _Fintual es una Administradora General de Fondos regulada por la Comisión para 
 
 <div class="simulator-page__sharing">
 
-<a data-shared="sharing-facebook-1276" class="js-social-share simulator-page__sharing-link facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://edu.fintual.cl/en-que-inviertes-cuando-inviertes-con-fintual">
+<a class="js-social-share simulator-page__sharing-link facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://edu.fintual.cl/en-que-inviertes-cuando-inviertes-con-fintual">
 
     <img alt="Compartir en Facebook" src="/uploads/facebook.svg">
 
