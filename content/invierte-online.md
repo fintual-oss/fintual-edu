@@ -6,6 +6,36 @@ image = ""
 title = "Invierte Online"
 
 +++
+<style>
+
+p { margin:4rem 0px; text-align:justify; }
+
+.footer-big__overlap { padding-bottom:0px; }
+
+.image-wrapper {
+
+text-align: center;
+
+}
+
+.image-wrapper img {
+
+width: 60%; text-align: center; margin: 40px 0px;
+
+}
+
+@media (max-width: 768px)  {
+
+.image-wrapper img {
+
+width: 100%;
+
+}
+
+}
+
+</style>
+
 ¿Existe alguna Administradora General de Fondos en Chile que permita a personas invertir 100% online?
 
 Sí.
@@ -21,3 +51,5 @@ Rescatar el dinero tampoco tiene costo.
 Fintual es fácil de usar y te muestra cómo le ha ido a tu inversión de manera simple y comprensible.
 
 Prueba haciendo una [simulación sin compromiso](https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=consideration&utm_content=edu+ffmm-110#empezar)
+
+<p style="text-align:center"> <a class="simulator-page__button btn btn--secondary" href="https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=awareness&utm_content=hagamos+esto+papa+fb-131#empezar"></a>Simula Tu Inversión</p>
