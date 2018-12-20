@@ -23,15 +23,15 @@ margin: 40px 0px;
 .image-wrapper img { width: 100%; }
 
 .simulator-page__sharing-link {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 40px;
-    height: 40px;
-    border-radius: 50%;
-    color: #fff;
-    margin: 0 5px;
-  }
+display: flex;
+align-items: center;
+justify-content: center;
+width: 40px;
+height: 40px;
+border-radius: 50%;
+color: #fff;
+margin: 0 5px;
+}
 
 }
 </style>
@@ -89,7 +89,7 @@ _Fintual es una Administradora General de Fondos regulada por la Comisión para 
 
 <div class="simulator-page__sharing">
 
-<a class="js-social-share simulator-page__sharing-link facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://edu.fintual.cl/en-que-inviertes-cuando-inviertes-con-fintual">
+<a data-shared="sharing-facebook-1276" class="js-social-share simulator-page__sharing-link facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://edu.fintual.cl/en-que-inviertes-cuando-inviertes-con-fintual">
 
     <img alt="Compartir en Facebook" src="/uploads/facebook.svg">
 
@@ -100,5 +100,5 @@ _Fintual es una Administradora General de Fondos regulada por la Comisión para 
     <img alt="Compartir en Twitter" src="/uploads/twitter.svg">
 
 </a>
-  
+
 </div>
