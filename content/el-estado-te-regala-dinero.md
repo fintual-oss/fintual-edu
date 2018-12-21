@@ -88,7 +88,7 @@ En Fintual puedes invertir esos $155.000 mensuales o $1.860.000 de una antes d
 
 </a>
 
-<a class="js-social-share simulator-page__sharing-link twitter" target="_blank" href="https://twitter.com/intent/tweet?text=Vacas que en vez de leche dan plata&url=http://edu.fintual.cl/el-estado-te-regala-dinero">
+<a class="js-social-share simulator-page__sharing-link twitter" target="_blank" href="https://twitter.com/intent/tweet?text=¿Dónde pedir mis $290.000 gratis?&url=http://edu.fintual.cl/el-estado-te-regala-dinero">
 
     <img alt="Compartir en Twitter" src="/uploads/twitter.svg">
 
