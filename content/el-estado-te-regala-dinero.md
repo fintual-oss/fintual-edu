@@ -60,7 +60,8 @@ Es para cualquier persona.
 
 </div>
 
-El Estado te regala $290.000 al año, todos los años, **si tú logras ahorrar un equivalente a $155.000 mensuales.**
+El Estado te regala $290.118 al año (tope de 6 UTM a diciembre de 2018), todos los años, **si tú logras ahorrar $1.93.120 cada año ($161.176 mensual).**  
+  
 
 Si ahorras menos, el bono es proporcionalmente menos.
 
@@ -81,7 +82,7 @@ En Fintual puedes invertir esos $155.000 mensuales o $1.860.000 de una antes d
 
 <div class="simulator-page__sharing">
 
-<a class="js-social-share simulator-page__sharing-link facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://edu.fintual.cl/en-que-inviertes-cuando-inviertes-con-fintual">
+<a class="js-social-share simulator-page__sharing-link facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://edu.fintual.cl/el-estado-te-regala-dinero">
 
     <img alt="Compartir en Facebook" src="/uploads/facebook.svg">
 
