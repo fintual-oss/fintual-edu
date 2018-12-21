@@ -2,7 +2,7 @@
 date = "2018-07-08T16:37:29+00:00"
 description = "No, no es el bono marzo."
 image = "/uploads/don-cangrejo.gif"
-title = "¿Dónde pedir mis $290.0 gratis?"
+title = "¿Dónde pedir mis $290.000 gratis?"
 
 +++
 <style>
