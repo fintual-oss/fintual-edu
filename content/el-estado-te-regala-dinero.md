@@ -60,7 +60,7 @@ Es para cualquier persona.
 
 </div>
 
-El Estado te regala $290.000 al año, todos los años, **si tú logras ahorrar un equivalente a $155.000 mensuales.**
+El Estado te regala $290.000 al año, todos los años, **si tú logras ahorrar un equivalente a $155.000 mensuales..**
 
 Si ahorras menos, el bono es proporcionalmente menos.
 
