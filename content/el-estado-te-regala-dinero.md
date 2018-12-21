@@ -75,7 +75,7 @@ En Fintual puedes invertir esos $155.000 mensuales o $1.860.000 de una antes d
 **Es súper fácil, simple y automatizado.**
 
 <p style="text-align:center">
-<a class="simulator-page__button btn btn--secondary" href="https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=awareness&utm_content=en-que-se-invierte-cuando-inviertes-en-fintual-118#empezar">Empezar</a></p>
+<a class="simulator-page__button btn btn--secondary" href="https://fintual.cl/apv/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=consideration&utm_content=el+estado+te+regala+dinero-136  ">Empezar</a></p>
 
 #### **Comparte esta historia:**
 
