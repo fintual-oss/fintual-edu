@@ -36,8 +36,6 @@ margin: 0 5px;
 }
 </style>
 
-<meta name="twitter:card" content="summary_large_image"/> <meta name="twitter:image" content="https://edu.fintual.cl/el-estado-te-regala-dinero/"/> <meta name="twitter:title" content="El Estado te regala $290.000 en efectivo todos los años."/> <meta name="twitter:description" content="No, no es el bono marzo."/> <meta name="twitter:site" content="@fintual"/>
-
 #### El Estado te regala $290.000 en efectivo todos los años.
 
 Sí.
