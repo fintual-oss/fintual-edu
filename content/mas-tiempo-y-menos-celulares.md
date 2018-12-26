@@ -1,6 +1,7 @@
 +++
 date = "2018-07-05T05:55:28+00:00"
 description = "No. Este no es un post sobre usar menos el celular y dedicar más tiempo a la gente que quieres.  Este es un post para que dejes de gastar plata en el nuevo celular que sale cada año y uses esa plata para comprar tiempo."
+draft = true
 image = ""
 title = "Más tiempo y menos celulares"
 
