@@ -5,7 +5,7 @@ image = ""
 title = "Más tiempo y menos celulares"
 
 +++
-### **Más tiempo y menos iPhones.**
+### **Más tiempo y menos celulares**
 
 imagen\[enohPi  
 X  
