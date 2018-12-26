@@ -1,11 +1,40 @@
 +++
 date = "2018-07-05T05:55:28+00:00"
 description = "No. Este no es un post sobre usar menos el celular y dedicar más tiempo a la gente que quieres.  Este es un post para que dejes de gastar plata en el nuevo celular que sale cada año y uses esa plata para comprar tiempo."
-draft = true
 image = ""
 title = "Más tiempo y menos celulares"
 
 +++
+<style>
+
+p { margin:4rem 0px; text-align:justify; }
+
+.footer-big__overlap { padding-bottom:0px; }
+
+.image-wrapper {
+
+text-align: center;
+
+}
+
+.image-wrapper img {
+
+width: 60%; text-align: center; margin: 40px 0px;
+
+}
+
+@media (max-width: 768px)  {
+
+.image-wrapper img {
+
+width: 100%;
+
+}
+
+}
+
+</style>
+
 ### **Más tiempo y menos celulares**
 
 No. Este no es un post sobre usar menos el celular y dedicar más tiempo a la gente que quieres.
@@ -24,7 +53,11 @@ Si te gusta cambiar el celular todos los años y cumpliste 30 hace poco, inverti
 
 Eso se traduciría en poder jubilarte un par de años antes:
 
-![](/uploads/abuelitas.gif)
+<div class="image-wrapper">
+
+<img src="/uploads/abuelitas.gif" alt="abuelitas">
+
+</div>
 
 **Y eso es comprar tiempo.**
 
