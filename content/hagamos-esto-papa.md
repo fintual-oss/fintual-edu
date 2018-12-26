@@ -35,7 +35,7 @@ width: 100%;
 
 </style>
 
-Habiendo tantas páginas para pedir comida ¿cómo no existía una que te ayudara a invertir bien tu plata?
+Habiendo tantas páginas para pedir comida, ¿cómo no existía una que te ayudara a invertir bien tu plata?
 
 En Chile no conocíamos algo que fuera simple, transparente y barato.
 
