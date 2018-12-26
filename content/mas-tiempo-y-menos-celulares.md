@@ -64,3 +64,5 @@ Eso se traduciría en poder jubilarte un par de años antes:
 No se trata de no usar celular. Se trata de que la próxima vez que vayas a comprarte el celular último modelo que viste en la tele, pienses si no sería mejor comprar uno más barato y jubilarse un poquito antes.
 
 Y si, además, sueltas un poquito el celular, no estaría mal tampoco...
+
+<p style="text-align:center"> <a class="simulator-page__button btn btn--secondary" href="[https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=awareness&utm_content=celulares-144#empezar](https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=awareness&utm_content=celulares-144#empezar "https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=awareness&utm_content=celulares-144#empezar")">Empezar</a></p>
