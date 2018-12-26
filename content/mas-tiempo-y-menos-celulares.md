@@ -35,8 +35,6 @@ width: 100%;
 
 </style>
 
-### **Más tiempo y menos celulares**
-
 No. Este no es un post sobre usar menos el celular y dedicar más tiempo a la gente que quieres.
 
 Este es un post para que dejes de gastar plata en el nuevo celular que sale cada año y uses esa plata para comprar tiempo.
