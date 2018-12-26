@@ -1,6 +1,8 @@
 +++
 date = "2018-07-05T05:55:28+00:00"
-title = "Más tiempo y menos iPhones"
+description = ""
+image = ""
+title = "Más tiempo y menos celulares"
 
 +++
 ### **Más tiempo y menos iPhones.**
