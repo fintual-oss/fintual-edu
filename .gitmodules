@@ -1,0 +1,3 @@
+[submodule "themes/nederburg"]
+	path = themes/nederburg
+	url = git@github.com:appernetic/hugo-nederburg-theme.git
