@@ -1,7 +1,6 @@
 +++
 date = ""
 description = ""
-draft = true
 image = ""
 title = "Cómo programar una transferencia mensual en el Banco de Chile"
 
