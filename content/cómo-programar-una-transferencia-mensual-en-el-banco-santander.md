@@ -14,7 +14,7 @@ title = "Cómo programar una transferencia mensual en el Banco Santander"
 
 <p>Aparecerá una vista con seis botones arriba. Clic en el que dice Programadas.</p>
 
-![](/uploads/transferencia_santander.png)
+<img src="/uploads/transferencia_santander.png" style="max-width: 100%"/>
 
 <p>Se desplegará un submenú. Clic en “A Terceros”.</p>
 
