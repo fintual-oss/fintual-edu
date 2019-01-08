@@ -1,7 +1,6 @@
 +++
 date = "2019-1-7"
 description = ""
-draft = true
 image = ""
 title = "Cómo programar una transferencia mensual en el Banco Santander"
 
