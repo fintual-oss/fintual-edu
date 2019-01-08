@@ -13,7 +13,7 @@ title = "Cómo programar una transferencia mensual en el Banco de Chile"
 
 <img src="/uploads/transferencias_banchile.png" style="max-width: 100%" />
 
-<p>Eso te llevará a una página donde decides el monto y el día de cada mes.</p
+<p>Eso te llevará a una página donde decides el monto y el día de cada mes.</p>
 
 <p>Y listo.</p>
 
@@ -21,10 +21,10 @@ title = "Cómo programar una transferencia mensual en el Banco de Chile"
 
 <ul>
 
-  <li><p>Cada vez que transfieras (automática o manualmente) identificamos la cuenta de origen sin que tengas que avisarnos y la invertimos en el mismo plan que ya tienes.</p></li>
+<li><p>Cada vez que transfieras (automática o manualmente) identificamos la cuenta de origen sin que tengas que avisarnos y la invertimos en el mismo plan que ya tienes.</p></li>
 
-  <li><p>Si creas más de un objetivo de inversión, te llegará un mail nuestro preguntándote en cual quieres meter la plata. Revisa el spam si no.</p></li>
+<li><p>Si creas más de un objetivo de inversión, te llegará un mail nuestro preguntándote en cual quieres meter la plata. Revisa el spam si no.</p></li>
 
-  <li><p>Nosotros no sacamos o descontamos plata de tu cuenta. Eres tú quien nos la envía a nosotros al programarla en tu cuenta de banco y lo puedes interrumpir cuando quieras y como quieras.</p></li>
+<li><p>Nosotros no sacamos o descontamos plata de tu cuenta. Eres tú quien nos la envía a nosotros al programarla en tu cuenta de banco y lo puedes interrumpir cuando quieras y como quieras.</p></li>
 
 </ul>
