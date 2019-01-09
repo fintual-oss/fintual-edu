@@ -1,7 +1,6 @@
 +++
 date = "2018-07-08T16:37:29+00:00"
 description = "Invertir tiene que ser fácil."
-draft = true
 image = ""
 title = "Hagamos esto paté"
 
@@ -54,7 +53,7 @@ Lo único simple que encontramos fueron los depósitos a plazo, pero es tan poco
 
 <div class="image-wrapper">
 
-<img src="/uploads/inviertepalta.png" alt="inviertepalta">
+<img src="/uploads/inviertepate.png" alt="inviertepate">
 
 </div>
 
@@ -71,10 +70,6 @@ No, no es broma.
 Cool pero regulada.
 
 La Comisión para el Mercado Financiero vigila que cumplamos con la ley. Puedes ver nuestro registro en la CMF [aquí.](http://www.cmfchile.cl/institucional/mercados/entidad.php?auth=&send=&mercado=V&rut=76810627&grupo=&tipoentidad=RGAGF&vig=VI&row=AAAwy2ACTAAAB4AAAP&control=svs&pestania=1)
-
-_Algunas personas dicen que algo es palta cuando es fácil._
-
-_Y nosotros queremos eso, que invertir sea palta._
 
 <p style="text-align:center">
 <a class="simulator-page__button btn btn--secondary" href="https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=awareness&utm_content=hagamos+esto+palta-159#empezar">Empezar</a></p>
