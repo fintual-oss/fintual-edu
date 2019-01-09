@@ -76,4 +76,4 @@ _Algunas personas dicen que algo es palta cuando es fácil._
 _Y nosotros queremos eso, que invertir sea palta._
 
 <p style="text-align:center">
-<a class="simulator-page__button btn btn--secondary" href="https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=awareness&utm_content=hagamos+esto+papa-112#empezar">Empezar</a></p>
+<a class="simulator-page__button btn btn--secondary" href="https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=awareness&utm_content=hagamos+esto+palta-159#empezar">Empezar</a></p>
