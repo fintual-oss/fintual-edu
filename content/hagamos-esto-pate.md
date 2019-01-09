@@ -71,5 +71,9 @@ Cool pero regulada.
 
 La Comisión para el Mercado Financiero vigila que cumplamos con la ley. Puedes ver nuestro registro en la CMF [aquí.](http://www.cmfchile.cl/institucional/mercados/entidad.php?auth=&send=&mercado=V&rut=76810627&grupo=&tipoentidad=RGAGF&vig=VI&row=AAAwy2ACTAAAB4AAAP&control=svs&pestania=1)
 
+_Ya lo sabes. En Fintual invierte Paté..._
+
+_Personalizado, Asesorado, Tecnológico, Ético._
+
 <p style="text-align:center">
 <a class="simulator-page__button btn btn--secondary" href="https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=awareness&utm_content=hagamos+esto+palta-159#empezar">Empezar</a></p>
