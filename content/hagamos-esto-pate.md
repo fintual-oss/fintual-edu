@@ -76,4 +76,4 @@ _Ya lo sabes. En Fintual invierte Paté..._
 _Personalizado, Asesorado, Tecnológico, Ético._
 
 <p style="text-align:center">
-<a class="simulator-page__button btn btn--secondary" href="https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=awareness&utm_content=hagamos+esto+palta-159#empezar">Empezar</a></p>
+<a class="simulator-page__button btn btn--secondary" href="https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=awareness&utm_content=hagamos+esto+pate-160#empezar">Empezar</a></p>
