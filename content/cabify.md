@@ -3,7 +3,7 @@ date = "2018-07-08T16:37:29+00:00"
 description = "Invertir tiene que ser fácil."
 draft = true
 image = ""
-title = "Cabify"
+title = "¿Y si pudieras ahorrar tan fácil como consigues carreras en Cabify?"
 
 +++
 <style>
@@ -36,15 +36,11 @@ width: 100%;
 
 </style>
 
-Habiendo tantas páginas para pedir comida, ¿cómo no existía una que te ayudara a invertir bien tu plata?
+De 133 países desarrollados y emergentes, Chile es uno de los cinco países con mayor aumento del porcentaje de personas que ahorra (49%).
 
-En Chile no conocíamos algo que fuera simple, transparente y barato.
+Esto es bajo comparado con países de mayores ingresos (71%), pero quizás sea porque en ellos ahorrar es mucho más fácil que en Chile...
 
-Lo único simple que encontramos fueron los depósitos a plazo, pero es tan poco lo que se gana que no tenía sentido.
-
-**Por eso invertir tiene que ser fácil.**
-
-**¿Qué significa fácil?**
+**Hasta ahora.**
 
 1\. Responder unas preguntas para medir tu tolerancia al riesgo
 
