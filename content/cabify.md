@@ -86,7 +86,11 @@ Si te interesa llena el formulario:
 
 (imagen de fintual)?
 
-Fintual es una empresa que combina finanzas con tecnología para eliminar la burocracia y otras ineficiencias de la industria para traducirlo en mayor rentabilidad.
+Fintual es una adminsitradora regulada por la Comisión para el Mercado Financiero (ex SVS). 
+
+Buena onda y 0% corporativa. 
+
+Eliminan la burocracia y otras ineficiencias de la industria financiera usando tecnología para recomendarte una ¿cartera de inversión adecuada a tu sensibilidad al riesgo.
 
  
 
