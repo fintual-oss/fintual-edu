@@ -3,7 +3,7 @@ date = "2018-07-08T16:37:29+00:00"
 description = "Invertir tiene que ser fácil."
 draft = true
 image = ""
-title = "Cabify.v3"
+title = "Ahorra en Piloto Automático"
 
 +++
 <style>
@@ -36,21 +36,21 @@ width: 100%;
 
 </style>
 
-Buscamos la manera **más simple** de que aproveches **al máximo** los ingresos de tus viajes.
-
-Desde hoy, los drivers de Cabify podrán elegir un porcentaje de sus ingresos para depositarlos directamente a una cuenta de Ahorro Previsional Voluntario (APV).
+Ahora los drivers de Cabify podrán depositar parte de sus ingresos a una cuenta de Ahorro Previsional Voluntario (APV).
 
 ### **¿Cómo funciona?**
 
 100% online.
 
-No te haremos firmar ningún papel.
+No tienes que firmar ningún papel.
 
 Ni ir a una sucursal.
 
 Ni hablar con ejecutivos.
 
-Tú eliges cuánto depositar y solo te cobrarán 0,49% de lo que ahorres al año.
+Solo elegir cuánto quieres depositar y ver crecer tus ahorros.
+
+0,49% de comisión anual.
 
 Si te interesa solo tienes que llenar este formulario y nosotros te contactaremos.
 
