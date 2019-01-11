@@ -36,17 +36,59 @@ width: 100%;
 
 </style>
 
-De 133 países desarrollados y emergentes, Chile es uno de los cinco países con mayor aumento del porcentaje de personas que ahorra (49%).
+De 133 países, Chile es uno de los cinco con un mayor aumento del porcentaje de personas que ahorra (49%).
 
-Esto es bajo comparado con países de mayores ingresos (71%), pero quizás sea porque en ellos ahorrar es mucho más fácil que en Chile...
+En países de mayores ingresos esto llega a 71%, pero quizás sea porque afuera ahorrar es mucho más fácil que en Chile...
 
 **Hasta ahora.**
 
-1\. Responder unas preguntas para medir tu tolerancia al riesgo
+### Alianza Cabify+Fintual 
 
-2\. Decidir cuánta plata y durante cuánto tiempo quieres invertir
+Sabemos que como driver de Cabify tu tiempo es escaso y lo último que quieres es tener que andar preocupado de hacer trámites (basta con tener que pasar a poner bencina a diario).
 
-3\. Listo.
+Por eso buscamos la manera más simple de que aproveches al máximo los ingresos que logras en tus carreras y elegimos a Fintual para que puedas tener tu Ahorro Previsional Voluntario (APV) saltándote todos los trámites fomes.
+
+### Hagámoslo fácil
+
+El APV sirve para aumentar tu pensión para cuando ya no trabajes; y lo que poca gente sabe son los beneficios que trae.
+
+En Chile la tasa de ahorro promedio es un 10% del ingreso disponible
+
+Si eliges tener tu APV en el régimen A por ejemplo, el Estado te regalará un 15% de lo que ahorres durante el año, con un tope de 6 UTM anuales ($290.118 a diciembre de 2018).
+
+Osea que ahorrando $1.934.120 cada año ($161.176 mensual) le sacas el máximo provecho.
+
+### ¿Cómo funcionará?
+
+Nuestros drivers podrán ahorrar con la misma facilidad con la que consiguen carreras, 100% online y sin moverse de su asiento.
+
+No te haremos firmar ningún papel.
+
+Ni ir a una sucursal.
+
+Ni hablar con ejecutivos.
+
+Parte viendo cuánto quisieras ahorrar:
+
+(SIMULADOR)
+
+Tú eliges cuánto quieres aportar.
+
+Si algún día lo necesitas puedes sacar tu plata de vuelta y no se te cobrará ninguna multa. 
+
+Si te interesa llena el formulario:
+
+\-
+
+\-
+
+\-
+
+(imagen de fintual)?
+
+Fintual es una empresa que combina finanzas con tecnología para eliminar la burocracia y otras ineficiencias de la industria para traducirlo en mayor rentabilidad.
+
+ 
 
 <div class="image-wrapper">
 
