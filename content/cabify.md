@@ -70,5 +70,3 @@ O sea, ahorrando $161.176 mensuales le sacas el máximo provecho. (pie de pg.)
 En el B, los aportes se rebajan de la base imponible del impuesto único de segunda categoría, es decir, **el beneficio es pagar menos impuesto a la renta**.
 
 En una APV la plata es tuya y puedes sacarla cuando quieras, pero es un ahorro pensado para tu jubilación. Si lo retiras antes de pensionarte pierdes el beneficio estatal (y tienes que devolver lo que te aportó el Estado).
-
-### **¿Quién administrará mis ahorros?**
