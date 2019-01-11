@@ -55,7 +55,7 @@ Elegimos a Fintual para que puedas tener tu Ahorro Previsional Voluntario (APV) 
 
 El APV sirve para aumentar tu pensión para cuando ya no trabajes.
 
-Lo que poca gente sabe es que en Chile **la tasa de ahorro promedio es un 10% del ingreso disponible** y si eliges tener tu APV en el régimen A, el Estado **te regala un 15% de lo que ahorres** **todos los años** para cuando jubiles. 
+Lo que poca gente sabe es que en Chile **la tasa de ahorro promedio es un 10% del ingreso disponible** y si eliges tener tu APV en el régimen A, el Estado **te regala un 15% de lo que ahorres** **todos los años** para cuando jubiles.
 
 Osea que ahorrando $161.176 mensuales le sacas el máximo provecho. (pie de pg.)
 
@@ -84,6 +84,12 @@ Si algún día lo necesitas puedes sacar tu plata de vuelta y no se te cobrará 
 **Así de fácil.**
 
 (Formulario)
+
+Acepto términos y condiciones de Cabify (checkbox)
+
+Acepto términos y condiciones de Fintual (checkbox) 
+
+**Si quieres interrumpir el descuento que se te hace, solo debes enviar un correo a xxxx@cabify.cl** 
 
 Fintual es una adminsitradora regulada por la Comisión para el Mercado Financiero (ex SVS), buena onda y 0% corporativa.
 
