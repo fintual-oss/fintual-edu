@@ -1,9 +1,8 @@
 +++
 date = "2018-07-08T16:37:29+00:00"
 description = "Invertir tiene que ser fácil."
-draft = true
 image = ""
-title = "cabify2"
+title = "¿Te gustaría tener Ahorro Previsional Voluntario (APV) con Cabify?"
 
 +++
 <style>
@@ -36,60 +35,16 @@ width: 100%;
 
 </style>
 
-De 133 países, Chile es **uno de los cinco** con mayor aumento en el porcentaje de personas que ahorra. (pie de pg.)
+Cabify y Fintual se juntaron para mejorar tu futura pensión, sabemos que en Chile son bajas y por eso queremos comprometernos contigo. 
 
-En países de mayores ingresos esta proporción llega al 71%.
+Acá tienes toda la información acerca de cómo funciona el [APV](fintual.cl/apv).
 
-Pero quizás eso sea porque **afuera ahorrar es mucho más fácil** que en Chile...
+Si te interesa participar, llena el siguiente
 
-**Hasta ahora.**
+<p style="text-align:center"> <a class="simulator-page__button btn btn--secondary" href="">Formulario</a></p>
 
-### Alianza Cabify + Fintual
+Acepto términos y condiciones de Cabify (checkbox)
 
-Buscamos la manera **más simple** de que aproveches **al máximo** los ingresos que logras en tus carreras.
+Acepto términos y condiciones de Fintual (checkbox) 
 
-### Hagámoslo fácil
-
-Elegimos a Fintual para que puedas tener tu Ahorro Previsional Voluntario (APV) saltándote todos los trámites fomes.
-
-**¿Qué es APV?**
-
-El APV sirve para aumentar tu pensión para cuando ya no trabajes.
-
-Lo que poca gente sabe es que en Chile **la tasa de ahorro promedio es un 10% del ingreso disponible** y si eliges tener tu APV en el régimen A, el Estado **te regala un 15% de lo que ahorres** **todos los años** para cuando jubiles. 
-
-Osea que ahorrando $161.176 mensuales le sacas el máximo provecho. (pie de pg.)
-
-### ¿Cómo funcionará?
-
-Nuestros drivers podrán ahorrar con la misma facilidad con la que consiguen carreras, 100% online y sin moverse de su asiento.
-
-Tu eliges qué porcentaje de tus ingresos quieres enviar a tu APV.
-
-No te haremos firmar ningún papel.
-
-Ni ir a una sucursal.
-
-Ni hablar con ejecutivos.
-
-De lo que inviertas solo te cobrarán 0,49% al año.
-
-Puedes partir viendo cuánto quieres ahorrar:
-
-(¿SIMULADOR?)
-
-Tú eliges cuánto depositar y con qué frecuencia.
-
-Si algún día lo necesitas puedes sacar tu plata de vuelta y no se te cobrará ninguna multa.
-
-**Así de fácil.**
-
-(Formulario)
-
-Fintual es una adminsitradora regulada por la Comisión para el Mercado Financiero (ex SVS), buena onda y 0% corporativa.
-
-Eliminan la burocracia y otras ineficiencias de la industria financiera usando tecnología para traducir el ahorro de trámites en más rentabilidad para tu APV.
-
-_pie de pg 1: fuente, 49% de las personas mayores a 15 años._
-
-_pie de pg 2: fuente, con un tope de 6 UTM anuales o $290.118 a diciembre de 2018._
+**Si quieres interrumpir el descuento que se te hace, solo debes enviar un correo a xxxx@cabify.cl** 
