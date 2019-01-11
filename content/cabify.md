@@ -35,17 +35,19 @@ width: 100%;
 
 </style>
 
-Buscamos la manera **más simple** de que aproveches **al máximo** los ingresos que logras en tus carreras.
+Buscamos la manera **más simple** de que aproveches **al máximo** los ingresos que logras en tus carreras.
 
-Desde hoy nuestros drivers podrán tener su Ahorro Previsional Voluntario (APV) desde Cabify, saltándose todos los trámites fomes y con la misma facilidad con la que consiguen carreras: 100% online y sin moverse de su asiento.
+Desde hoy, los drivers de Cabify podrán tener su Ahorro Previsional Voluntario (APV) 100% online y sin moverse de su asiento.
 
 **¿Qué es APV?**
 
 El APV sirve para aumentar tu pensión para cuando ya no trabajes.
 
+es un mecanismo de ahorro para la jubilación que te permite aumentar tu pensión y recibir un aporte estatal proporcional a tu ahorro.
+
 ### ¿Cómo funcionará?
 
-Tu eliges qué porcentaje de tus ingresos quieres enviar a tu APV.
+Tú eliges qué porcentaje de tus ingresos quieres destinar a tu APV. Puedes ahorrar lo que quieras, no existen montos mínimos.
 
 No te haremos firmar ningún papel.
 
@@ -53,24 +55,20 @@ Ni ir a una sucursal.
 
 Ni hablar con ejecutivos.
 
+Tú eliges cuánto depositar y el riesgo que estás dispuesto a asumir 👇:
+
+SIMULADOR
+
 De lo que ahorres solo te cobrarán 0,49% al año.
-
-Tú eliges cuánto depositar y con qué frecuencia:
-
-(¿SIMULADOR?)
 
 En el régimen A **el Estado** **suma a tu cuenta un 15% de lo que ahorres** **todos los años** para cuando jubiles.
 
-Osea que ahorrando $161.176 mensuales le sacas el máximo provecho. (pie de pg.) 
+Osea que ahorrando $161.176 mensuales le sacas el máximo provecho. (pie de pg.)
 
-Si algún día lo necesitas puedes sacar tu plata sin costo alguno pero el Estado retiraría el beneficio.
+La plata es tuya y puedes sacarla cuando quieras, pero es un ahorro pensado para tu jubilación. Si lo retiras antes de pensionarte pierdes el beneficio estatal (y tienes que devolver lo que te aportó el Estado).
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf7GRwn2GIz7nCfRv4M7U2IYPHYgXoENoWclfQjwzgJ5ut--g/viewform?embedded=true" width="640" height="733" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 Acepto términos y condiciones de Cabify (checkbox)
 
 Acepto términos y condiciones de Fintual (checkbox)
-
-Fintual es una adminsitradora regulada por la Comisión para el Mercado Financiero (ex SVS) 0% corporativa.
-
-Eliminan la burocracia y otras ineficiencias de la industria financiera usando tecnología para traducir el ahorro de trámites en más rentabilidad para tu APV.
