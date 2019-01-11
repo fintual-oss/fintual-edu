@@ -2,7 +2,7 @@
 date = "2018-07-08T16:37:29+00:00"
 description = "Invertir tiene que ser fácil."
 image = ""
-title = "¿Y si pudieras ahorrar tan fácil como consigues pasajeros en Cabify?"
+title = "¿Y si ahorrar fuese tan fácil como conseguir pasajeros en Cabify?"
 
 +++
 <style>
@@ -37,13 +37,11 @@ width: 100%;
 
 Buscamos la manera **más simple** de que aproveches **al máximo** los ingresos que logras en tus carreras.
 
-Desde hoy, los drivers de Cabify podrán tener su Ahorro Previsional Voluntario (APV) 100% online y sin moverse de su asiento.
+Desde hoy, los drivers de Cabify podrán contratar su Ahorro Previsional Voluntario (APV) 100% online.
 
 **¿Qué es APV?**
 
-El APV sirve para aumentar tu pensión para cuando ya no trabajes.
-
-es un mecanismo de ahorro para la jubilación que te permite aumentar tu pensión y recibir un aporte estatal proporcional a tu ahorro.
+Un mecanismo de ahorro para la jubilación que te permite aumentar tu pensión y recibir un aporte estatal proporcional a tu ahorro.
 
 ### ¿Cómo funcionará?
 
@@ -55,11 +53,7 @@ Ni ir a una sucursal.
 
 Ni hablar con ejecutivos.
 
-Tú eliges cuánto depositar y el riesgo que estás dispuesto a asumir 👇:
-
-SIMULADOR
-
-De lo que ahorres solo te cobrarán 0,49% al año.
+Tú eliges cuánto depositar y solo te cobrarán 0,49% de lo que ahorres al año.
 
 En el régimen A **el Estado** **suma a tu cuenta un 15% de lo que ahorres** **todos los años** para cuando jubiles.
 
