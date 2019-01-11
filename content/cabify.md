@@ -35,29 +35,13 @@ width: 100%;
 
 </style>
 
-De 133 países, Chile es **uno de los cinco** con mayor aumento en el porcentaje de personas que ahorra. (pie de pg.)
-
-En países de mayores ingresos esta proporción llega al 71%.
-
-Pero quizás eso sea porque **afuera ahorrar es mucho más fácil** que en Chile...
-
-**Hasta ahora.**
-
-### Alianza Cabify + Fintual
-
 Buscamos la manera **más simple** de que aproveches **al máximo** los ingresos que logras en tus carreras.
 
-### Hagámoslo fácil
-
-Elegimos a Fintual para que puedas tener tu Ahorro Previsional Voluntario (APV) saltándote todos los trámites fomes.
+Desde hoy puedes tener tu Ahorro Previsional Voluntario (APV) y saltarte todos los trámites fomes.
 
 **¿Qué es APV?**
 
 El APV sirve para aumentar tu pensión para cuando ya no trabajes.
-
-Lo que poca gente sabe es que en Chile **la tasa de ahorro promedio es un 10% del ingreso disponible** y si eliges tener tu APV en el régimen A, el Estado **te regala un 15% de lo que ahorres** **todos los años** para cuando jubiles.
-
-Osea que ahorrando $161.176 mensuales le sacas el máximo provecho. (pie de pg.)
 
 ### ¿Cómo funcionará?
 
@@ -71,25 +55,27 @@ Ni ir a una sucursal.
 
 Ni hablar con ejecutivos.
 
-De lo que inviertas solo te cobrarán 0,49% al año.
+De lo que ahorres solo te cobrarán 0,49% al año.
 
-Puedes partir viendo cuánto quieres ahorrar:
+Mira cómo impactaría en tu futuro:
 
 (¿SIMULADOR?)
 
 Tú eliges cuánto depositar y con qué frecuencia.
 
-Si algún día lo necesitas puedes sacar tu plata de vuelta y no se te cobrará ninguna multa.
+En el régimen A **el Estado** **suma a tu cuenta un 15% de lo que ahorres** **todos los años** para cuando jubiles.
 
-**Así de fácil.**
+Osea que ahorrando $161.176 mensuales le sacas el máximo provecho. (pie de pg.) 
+
+Si algún día lo necesitas puedes sacar tu plata sin costo alguno pero el Estado retiraría el beneficio.
 
 (Formulario)
 
 Acepto términos y condiciones de Cabify (checkbox)
 
-Acepto términos y condiciones de Fintual (checkbox) 
+Acepto términos y condiciones de Fintual (checkbox)
 
-**Si quieres interrumpir el descuento que se te hace, solo debes enviar un correo a xxxx@cabify.cl** 
+**Si quieres interrumpir el descuento que se te hace, solo debes enviar un correo a xxxx@cabify.cl**
 
 Fintual es una adminsitradora regulada por la Comisión para el Mercado Financiero (ex SVS), buena onda y 0% corporativa.
 
