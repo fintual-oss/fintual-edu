@@ -3,7 +3,7 @@ date = "2018-07-08T16:37:29+00:00"
 description = "Invertir tiene que ser fácil."
 draft = true
 image = ""
-title = "¿Y si pudieras ahorrar tan fácil como consigues carreras en Cabify?"
+title = "¿Y si pudieras ahorrar tan fácil como consigues pasajeros en Cabify?"
 
 +++
 <style>
@@ -36,36 +36,36 @@ width: 100%;
 
 </style>
 
-De 133 países, Chile es uno de los cinco con mayor aumento en el porcentaje de personas que ahorra1   
-49% de las personas mayores a 15 años
+De 133 países, Chile es uno de los cinco con mayor aumento en el porcentaje de personas que ahorra1  
+(49% de las personas mayores a 15 años)
 
-En países de mayores ingresos esta proporción llega a 71%. 
+En países de mayores ingresos esta proporción llega a 71%.
 
-Pero quizás eso sea porque afuera ahorrar es mucho más fácil que en Chile...
+Pero quizás eso sea porque **afuera ahorrar es mucho más fácil** que en Chile...
 
 **Hasta ahora.**
 
-### Alianza Cabify + Fintual 
+### Alianza Cabify + Fintual
 
-Sabemos que como driver de Cabify tu tiempo es escaso y lo último que quieres es tener que andar preocupado de hacer trámites (basta con tener que pasar a poner bencina a diario).
-
-Por eso buscamos la manera **más simple** de que aproveches **al máximo** los ingresos que logras en tus carreras.
+Buscamos la manera **más simple** de que aproveches **al máximo** los ingresos que logras en tus carreras.
 
 ### Hagámoslo fácil
 
-Elegimos a Fintual para que puedas tener tu Ahorro Previsional Voluntario (APV) saltándote todos los trámites fomes. 
+Elegimos a Fintual para que puedas tener tu Ahorro Previsional Voluntario (APV) saltándote todos los trámites fomes.
 
-El APV sirve para aumentar tu pensión para cuando ya no trabajes
+**¿Qué es APV?**
 
-Lo que poca gente sabe es que en Chile la tasa de ahorro promedio es un 10% del ingreso disponible.
+El APV sirve para aumentar tu pensión para cuando ya no trabajes.
 
-Y si eliges tener tu APV en el régimen A por ejemplo, el Estado te regalará un 15% de lo que ahorres durante el año, con un tope de 6 UTM anuales ($290.118 a diciembre de 2018).
+Lo que poca gente sabe es que en Chile **la tasa de ahorro promedio es un 10% del ingreso disponible** y si eliges tener tu APV en el régimen A por ejemplo, el Estado te regalará un 15% de lo que ahorres (con un tope de 6 UTM anuales o $290.118 a diciembre de 2018).
 
-Osea que ahorrando $1.934.120 cada año ($161.176 mensual) le sacas el máximo provecho.
+Osea que ahorrando $161.176 mensuales le sacas el máximo provecho.
 
 ### ¿Cómo funcionará?
 
 Nuestros drivers podrán ahorrar con la misma facilidad con la que consiguen carreras, 100% online y sin moverse de su asiento.
+
+Tu eliges cuánto quieres ahorrar de los ingresos que tienes en Cabify.
 
 No te haremos firmar ningún papel.
 
@@ -73,55 +73,22 @@ Ni ir a una sucursal.
 
 Ni hablar con ejecutivos.
 
-Parte viendo cuánto quisieras ahorrar:
+De lo que inviertas solo te cobrarán 0,49% al año y nada más.
 
-(SIMULADOR)
+Sabemos que como driver de Cabify tu tiempo es escaso y lo último que quieres es tener que andar preocupado de hacer trámites (basta con tener que pasar a poner bencina a diario).
+
+Puedes partir viendo cuánto quieres ahorrar:
+
+(¿SIMULADOR?)
 
 Tú eliges cuánto depositar y con qué frecuencia.
 
-Si algún día lo necesitas puedes sacar tu plata de vuelta y no se te cobrará ninguna multa. 
+Si algún día lo necesitas puedes sacar tu plata de vuelta y no se te cobrará ninguna multa.
 
-Si te interesa llena el formulario:
+**Así de fácil.**
 
-\-
+(Formulario)
 
-\-
+Fintual es una adminsitradora regulada por la Comisión para el Mercado Financiero (ex SVS), buena onda y 0% corporativa.
 
-\-
-
-(imagen de fintual)?
-
-Fintual es una adminsitradora regulada por la Comisión para el Mercado Financiero (ex SVS). 
-
-Buena onda y 0% corporativa. 
-
-Eliminan la burocracia y otras ineficiencias de la industria financiera usando tecnología para recomendarte una cartera de inversión adecuada a tu sensibilidad al riesgo.
-
- 
-
-<div class="image-wrapper">
-
-<img src="/uploads/inviertepate.png" alt="inviertepate">
-
-</div>
-
-¿Es broma?
-
-No, no es broma.
-
-**¿Quieres poner poca plata?** Puedes hacerlo, no hay montos mínimos.
-
-**¿Quieres sacar tu plata antes?** Obvio. No hay costos por sacar tu plata.
-
-**¿Es seguro?** Fintual es una institución financiera regulada.
-
-Cool pero regulada.
-
-La Comisión para el Mercado Financiero vigila que cumplamos con la ley. Puedes ver nuestro registro en la CMF [aquí.](http://www.cmfchile.cl/institucional/mercados/entidad.php?auth=&send=&mercado=V&rut=76810627&grupo=&tipoentidad=RGAGF&vig=VI&row=AAAwy2ACTAAAB4AAAP&control=svs&pestania=1)
-
-_Ya lo sabes. En Fintual invierte Paté..._
-
-_Personalizado, Asesorado, Tecnológico, Ético._
-
-<p style="text-align:center">
-<a class="simulator-page__button btn btn--secondary" href="https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=awareness&utm_content=hagamos+esto+pate-160#empezar">Empezar</a></p>
+Eliminan la burocracia y otras ineficiencias de la industria financiera usando tecnología para traducir el ahorro de trámites en más rentabilidad para tu APV.
