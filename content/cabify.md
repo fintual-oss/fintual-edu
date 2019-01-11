@@ -37,13 +37,11 @@ width: 100%;
 
 Buscamos la manera **más simple** de que aproveches **al máximo** los ingresos que logras en tus viajes.
 
-Desde hoy, los drivers de Cabify elegir un procentaje de sus ingresos para depositarlos directamente a una cuenta de Ahorro Previsional Voluntario (APV).
+Desde hoy, los drivers de Cabify podrán elegir un procentaje de sus ingresos para depositarlos directamente a una cuenta de Ahorro Previsional Voluntario (APV).
 
 ### **¿Cómo funcionará?**
 
-100% online. 
-
-Sabemos que tu tiempo es escaso y lo último que quieres es tener lidiar con más trámites.
+100% online.
 
 No te haremos firmar ningún papel.
 
