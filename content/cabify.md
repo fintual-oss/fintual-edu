@@ -36,8 +36,7 @@ width: 100%;
 
 </style>
 
-De 133 países, Chile es uno de los cinco con mayor aumento en el porcentaje de personas que ahorra1  
-(49% de las personas mayores a 15 años)
+De 133 países, Chile es uno de los cinco con mayor aumento en el porcentaje de personas que ahorra (pie de pg.)
 
 En países de mayores ingresos esta proporción llega a 71%.
 
@@ -57,15 +56,15 @@ Elegimos a Fintual para que puedas tener tu Ahorro Previsional Voluntario (APV) 
 
 El APV sirve para aumentar tu pensión para cuando ya no trabajes.
 
-Lo que poca gente sabe es que en Chile **la tasa de ahorro promedio es un 10% del ingreso disponible** y si eliges tener tu APV en el régimen A por ejemplo, el Estado te regalará un 15% de lo que ahorres (con un tope de 6 UTM anuales o $290.118 a diciembre de 2018).
+Lo que poca gente sabe es que en Chile **la tasa de ahorro promedio es un 10% del ingreso disponible** y si eliges tener tu APV en el régimen A, el Estado te regala un 15% de lo que ahorres **todos los años** para cuando jubiles. 
 
-Osea que ahorrando $161.176 mensuales le sacas el máximo provecho.
+Osea que ahorrando $161.176 mensuales le sacas el máximo provecho. (pie de pg.)
 
 ### ¿Cómo funcionará?
 
 Nuestros drivers podrán ahorrar con la misma facilidad con la que consiguen carreras, 100% online y sin moverse de su asiento.
 
-Tu eliges cuánto quieres ahorrar de los ingresos que tienes en Cabify.
+Tu eliges qué porcentaje de tus ingresos quieres mandar a tu APV.
 
 No te haremos firmar ningún papel.
 
@@ -73,9 +72,7 @@ Ni ir a una sucursal.
 
 Ni hablar con ejecutivos.
 
-De lo que inviertas solo te cobrarán 0,49% al año y nada más.
-
-Sabemos que como driver de Cabify tu tiempo es escaso y lo último que quieres es tener que andar preocupado de hacer trámites (basta con tener que pasar a poner bencina a diario).
+De lo que inviertas solo te cobrarán 0,49% al año.
 
 Puedes partir viendo cuánto quieres ahorrar:
 
@@ -92,3 +89,7 @@ Si algún día lo necesitas puedes sacar tu plata de vuelta y no se te cobrará 
 Fintual es una adminsitradora regulada por la Comisión para el Mercado Financiero (ex SVS), buena onda y 0% corporativa.
 
 Eliminan la burocracia y otras ineficiencias de la industria financiera usando tecnología para traducir el ahorro de trámites en más rentabilidad para tu APV.
+
+pie de pg 1: fuente, 49% de las personas mayores a 15 años.
+
+pie de pg 2: con un tope de 6 UTM anuales o $290.118 a diciembre de 2018.
