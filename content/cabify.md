@@ -69,15 +69,13 @@ Osea que ahorrando $161.176 mensuales le sacas el máximo provecho. (pie de pg.)
 
 Si algún día lo necesitas puedes sacar tu plata sin costo alguno pero el Estado retiraría el beneficio.
 
-(Formulario)
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf7GRwn2GIz7nCfRv4M7U2IYPHYgXoENoWclfQjwzgJ5ut--g/viewform?embedded=true" width="640" height="733" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 Acepto términos y condiciones de Cabify (checkbox)
 
 Acepto términos y condiciones de Fintual (checkbox)
 
-**Si quieres interrumpir el descuento que se te hace, solo debes enviar un correo a xxxx@cabify.cl**
-
-Fintual es una adminsitradora regulada por la Comisión para el Mercado Financiero (ex SVS), buena onda y 0% corporativa.
+Fintual es una adminsitradora regulada por la Comisión para el Mercado Financiero (ex SVS) 0% corporativa.
 
 Eliminan la burocracia y otras ineficiencias de la industria financiera usando tecnología para traducir el ahorro de trámites en más rentabilidad para tu APV.
 
