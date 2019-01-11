@@ -35,17 +35,15 @@ width: 100%;
 
 </style>
 
-Buscamos la manera **más simple** de que aproveches **al máximo** los ingresos que logras en tus carreras.
+Buscamos la manera **más simple** de que aproveches **al máximo** los ingresos que logras en tus viajes.
 
-Desde hoy, los drivers de Cabify podrán contratar su Ahorro Previsional Voluntario (APV) 100% online.
+Desde hoy, los drivers de Cabify elegir un procentaje de sus ingresos para depositarlos directamente a una cuenta de Ahorro Previsional Voluntario (APV).
 
-**¿Qué es APV?**
+### **¿Cómo funcionará?**
 
-Un mecanismo de ahorro para la jubilación que te permite aumentar tu pensión y recibir un aporte estatal proporcional a tu ahorro.
+100% online. 
 
-### ¿Cómo funcionará?
-
-Tú eliges qué porcentaje de tus ingresos quieres destinar a tu APV. Puedes ahorrar lo que quieras, no existen montos mínimos.
+Sabemos que tu tiempo es escaso y lo último que quieres es tener lidiar con más trámites.
 
 No te haremos firmar ningún papel.
 
@@ -55,14 +53,20 @@ Ni hablar con ejecutivos.
 
 Tú eliges cuánto depositar y solo te cobrarán 0,49% de lo que ahorres al año.
 
-En el régimen A **el Estado** **suma a tu cuenta un 15% de lo que ahorres** **todos los años** para cuando jubiles.
-
-Osea que ahorrando $161.176 mensuales le sacas el máximo provecho. (pie de pg.)
-
-La plata es tuya y puedes sacarla cuando quieras, pero es un ahorro pensado para tu jubilación. Si lo retiras antes de pensionarte pierdes el beneficio estatal (y tienes que devolver lo que te aportó el Estado).
-
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf7GRwn2GIz7nCfRv4M7U2IYPHYgXoENoWclfQjwzgJ5ut--g/viewform?embedded=true" width="640" height="733" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
-Acepto términos y condiciones de Cabify (checkbox)
+### **¿Qué es APV?**
 
-Acepto términos y condiciones de Fintual (checkbox)
+El Ahorro Previsional Voluntario es un mecanismo de ahorro para la jubilación que te permite aumentar tu pensión, complementando lo que cotizas con tu AFP, pero que además tiene otros beneficios.
+
+### **¿Cómo funciona el aporte estatal?**
+
+Existen dos tipos de regímenes tributarios, A y B. El B es para gente que tiene altos ingresos y que paga muchos impuestos por eso.
+
+En el régimen A, **el Estado** **suma a tu cuenta un 15% de lo que ahorres** **todos los años** para cuando jubiles, con un tope de 6 UTM al año.
+
+O sea, ahorrando $161.176 mensuales le sacas el máximo provecho. (pie de pg.)
+
+En una APV la plata es tuya y puedes sacarla cuando quieras, pero es un ahorro pensado para tu jubilación. Si lo retiras antes de pensionarte pierdes el beneficio estatal (y tienes que devolver lo que te aportó el Estado).
+
+### **¿Quién administrará mis ahorros?**
