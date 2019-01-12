@@ -1,8 +1,10 @@
 +++
+
 date = "2018-07-05T04:36:52+00:00"
 description = ""
 image = ""
 title = "¿Depósitos a plazo?"
+aliases = ["/depositos-a-plazo/"]
 
 +++
 ![](https://cdn-images-1.medium.com/max/800/1*rpK6BEPYIaZ1vJijLxiHlw.png)

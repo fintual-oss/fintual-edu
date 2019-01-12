@@ -1,8 +1,11 @@
 +++
+
 date = "2018-07-05T05:12:11+00:00"
 title = "Beneficios tributarios al invertir"
 aliases = ["/beneficios-tributarios/"]
 categories = ["impuestos"]
+aliases = ["/beneficios-tributarios/"]
+
 +++
 Al invertir hay algunos beneficios en cuanto a impuestos que es bueno que sepas.
 

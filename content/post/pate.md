@@ -1,7 +1,9 @@
 +++
+
 date = "2018-07-08T16:40:11+00:00"
 image = ""
 title = "Paté"
+aliases = ["/pate/"]
 
 +++
 ![](/uploads/Screen Shot 2018-07-08 at 9.41.39 AM.png)

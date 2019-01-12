@@ -1,8 +1,10 @@
 +++
+
 date = "2018-07-12T01:48:57+00:00"
 description = ""
 image = ""
 title = "Cómo programar una transferencia mensual en el Banco Santander"
+aliases = ["/como-programar-una-transferencia-mensual-en-el-banco-santander/"]
 
 +++
 [FINTUAL](http://www.fintual.com/) no saca cuenta de tu plata. Tú la tienes que transferir.

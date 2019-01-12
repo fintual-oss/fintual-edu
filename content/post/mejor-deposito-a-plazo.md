@@ -1,6 +1,8 @@
 +++
+
 date = "2018-07-05T04:06:55+00:00"
 title = "¿Cuál es el mejor depósito a plazo?"
+aliases = ["/mejor-deposito-a-plazo/"]
 
 +++
 Decir el mejor depósito a plazo es como decir el mejor equipo de segunda división, el mejor cuarto lugar en los juegos olímpicos, ...

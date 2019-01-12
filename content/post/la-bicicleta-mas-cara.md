@@ -1,6 +1,8 @@
 +++
+
 date = "2018-07-05T04:41:49+00:00"
 title = "Antes de que te compres la bicicleta más cara, lee esto."
+aliases = ["/la-bicicleta-mas-cara/"]
 
 +++
 Cuando compras algo, un auto, un celular o una bicicleta top, lo que estás queriendo comprar es una mejor versión de ti mismo. Por eso te sientes bien cuando compras cosas.

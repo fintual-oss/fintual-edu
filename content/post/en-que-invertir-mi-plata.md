@@ -1,8 +1,10 @@
 +++
+
 date = "2018-07-08T16:37:29+00:00"
 description = "Una guía para personas que no saben invertir."
 image = "/uploads/guiainversion.jpeg"
 title = "En qué invertir mi plata"
+aliases = ["/en-que-invertir-mi-plata/"]
 
 +++
 <style>

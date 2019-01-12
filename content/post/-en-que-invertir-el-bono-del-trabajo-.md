@@ -1,8 +1,10 @@
 +++
+
 date = "2018-07-05T03:46:08+00:00"
 draft = true
 title = "¿En qué invertir el bono del trabajo?"
-categories = [ "inversión"]
+categories = [ "inversión"]aliases = ["/-en-que-invertir-el-bono-del-trabajo-/"]
+
 +++
 ¿Recibiste un bono en tu trabajo? Aparte de envidiarte, te recomendamos que lo inviertas.
 
