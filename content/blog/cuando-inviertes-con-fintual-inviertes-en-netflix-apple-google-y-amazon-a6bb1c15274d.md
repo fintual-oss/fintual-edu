@@ -1,8 +1,11 @@
 ---
 author: Pedro Pineda
 author_thumbnail: 1*P0sNvCNy0pvZnkfNkEKl_g.png
-title: "Cuando inviertes con Fintual, inviertes en Netflix, Apple, Google y Amazon."
+title: Cuando inviertes con Fintual, inviertes en Netflix, Apple, Google y Amazon.
 date: 2018-2-29
+draft: 'true'
+
+
 ---
 
 ### Estoy tan metido en el día a día con las operaciones en Fintual que a veces se me olvida lo bacán que es.

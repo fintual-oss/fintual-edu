@@ -1,8 +1,11 @@
 ---
 author: Cristóbal Fredes
 author_thumbnail: 1*tFD0xb7V70kDhg_xtrGVQw.jpeg
-title: "Tomás Olivera: “El bolsillo es el nervio más sensible del ser humano”"
-date: 2017-9-22
+title: 'Tomás Olivera: “El bolsillo es el nervio más sensible del ser humano”'
+date: 2017-09-22
+draft: 'true'
+
+
 ---
 
 ### Tomás Olivera: “El bolsillo es el nervio más sensible del ser humano”

@@ -1,8 +1,11 @@
 ---
 author: Pedro Pineda
 author_thumbnail: 1*P0sNvCNy0pvZnkfNkEKl_g.png
-title: "FINTUAL elegida Mejor startup fintech Latam 2017"
+title: FINTUAL elegida Mejor startup fintech Latam 2017
 date: 2017-10-21
+draft: 'true'
+
+
 ---
 
 ### FINTUAL recibe este premio junto a la mexicana Mutuo Financiera. Es la primera vez que una startup chilena gana la competencia de la firma de capital de riesgo Village Capital, patrocinada por BlackRock, PayPal y CitiBanamex quienes invertirán US$ 75.000 por un porcentaje de la empresa.

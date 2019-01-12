@@ -2,7 +2,10 @@
 author: Omar Larré
 author_thumbnail: 0*Fxb64VaERzEbMLti.
 title: "¿Pérdidas de corto plazo? Tómate unos minutos y lee esto"
-date: 2018-3-23
+date: 2018-03-23
+draft: 'true'
+
+
 ---
 
 ### Es más común de lo que se piensa, pero las bajas del mercado son la parte más normal de una cartera de inversiones de buen retorno. A menudo, los inversionistas, tanto profesionales como personas común y corrientes, tienden a sobrerreaccionar con pánico en respuesta a bajas de mercado, incluso sabiendo que están invirtiendo de forma apropiada y en un plan de largo plazo. Sin embargo, reaccionar a las bajas de mercado terminan siendo, en la mayor parte de los casos, una mala estrategia de inversiones.

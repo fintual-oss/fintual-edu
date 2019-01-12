@@ -1,8 +1,11 @@
 ---
 author: Pedro Pineda
 author_thumbnail: 1*P0sNvCNy0pvZnkfNkEKl_g.png
-title: "CTM: las Comisiones Te Matan"
-date: 2018-4-18
+title: 'CTM: las Comisiones Te Matan'
+date: 2018-04-18
+draft: 'true'
+
+
 ---
 
 ### Súper poca gente sabe cuánto paga en comisiones cuando invierte.

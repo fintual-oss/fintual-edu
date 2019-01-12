@@ -1,8 +1,11 @@
 ---
 author: Agustin Feuerhake
 author_thumbnail: 0*t6MxUX_jX9L6zyFK.jpg
-title: "Presentando Fintual: cómo fue pasar de Silicon Valley al Chile Day en Londres."
-date: 2018-8-15
+title: 'Presentando Fintual: cómo fue pasar de Silicon Valley al Chile Day en Londres.'
+date: 2018-08-15
+draft: 'true'
+
+
 ---
 
 ### Es primera vez que invitan a una fintech al Chile Day. Aquí les cuento lo que pasó.

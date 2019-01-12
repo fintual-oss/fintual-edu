@@ -1,8 +1,11 @@
 ---
 author: Francesca Finaldi
 author_thumbnail: 1*cpAQhZhbBZgMrNepn5ymgw.jpeg
-title: "En qué invertir mi plata"
+title: En qué invertir mi plata
 date: 2018-11-10
+draft: 'true'
+
+
 ---
 
 ### Una guía para personas que no saben invertir
