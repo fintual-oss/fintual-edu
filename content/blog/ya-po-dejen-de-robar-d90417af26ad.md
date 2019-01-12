@@ -1,8 +1,11 @@
 ---
 author: Pedro Pineda
 author_thumbnail: 1*P0sNvCNy0pvZnkfNkEKl_g.png
-title: "Lobos de Wall Street en Chile"
+title: Lobos de Wall Street en Chile
 date: 2016-10-26
+draft: 'true'
+
+
 ---
 
 ### En una noticia de El Mercurio Inversiones que publicaron el viernes se lee: “El ex presidente de la Bolsa de Valparaíso acumula tres querellas por estafa y apropiación indebida. Actualmente tiene una orden de detención en su contra”.

@@ -1,8 +1,11 @@
 ---
 author: Pedro Pineda
 author_thumbnail: 1*P0sNvCNy0pvZnkfNkEKl_g.png
-title: "Millennial: tus $50.000 mensuales hoy son un sueldo de $1.000.000 en el futuro."
-date: 2018-3-17
+title: 'Millennial: tus $50.000 mensuales hoy son un sueldo de $1.000.000 en el futuro.'
+date: 2018-03-17
+draft: 'true'
+
+
 ---
 
 ### Un millennial lo que quiere es ahorrar un par de años e irse al sudeste asiático.

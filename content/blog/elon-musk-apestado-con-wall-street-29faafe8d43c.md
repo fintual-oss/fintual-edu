@@ -1,8 +1,11 @@
 ---
 author: Omar Larré
 author_thumbnail: 0*Fxb64VaERzEbMLti.
-title: "Elon Musk apestado con Wall Street"
-date: 2018-7-8
+title: Elon Musk apestado con Wall Street
+date: 2018-07-08
+draft: 'true'
+
+
 ---
 
 ### El CEO y en parte dueño de Tesla está tan cansado de los analistas de Wall Street que apuestan en contra de la acción de su compañía, que dijo que pensaba convertir la actual empresa a una empresa cerrada y privada (ya no va a estar más listada en bolsa).

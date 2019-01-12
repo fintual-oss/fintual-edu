@@ -2,7 +2,10 @@
 author: Pedro Pineda
 author_thumbnail: 1*P0sNvCNy0pvZnkfNkEKl_g.png
 title: "¿Por qué las AFPs podrían invertir mejor y no lo hacen?"
-date: 2017-5-7
+date: 2017-05-07
+draft: 'true'
+
+
 ---
 
 ### Me siento como director de cine gringo haciendo el remake de una película coreana excelente pero críptica. La de Alejandro Bernales, investigador en Finanzas y Economía Aplicada de la Universidad de Chile quien escribió un muy buen texto sobre por qué las AFPs invierten mal nuestros fondos.

@@ -1,8 +1,11 @@
 ---
 author: Pedro Pineda
 author_thumbnail: 1*P0sNvCNy0pvZnkfNkEKl_g.png
-title: "Nuestro CEO en la UNESCO"
-date: 2017-3-28
+title: Nuestro CEO en la UNESCO
+date: 2017-03-28
+draft: 'true'
+
+
 ---
 
 ### Esta semana estoy en París al igual que en los últimos dos años para hablar de tecnología y de las nuevas startups en el mundo, invitado por la UNESCO y Netexplo.

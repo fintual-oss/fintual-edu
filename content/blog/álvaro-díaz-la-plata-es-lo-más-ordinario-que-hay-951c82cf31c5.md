@@ -1,8 +1,11 @@
 ---
 author: FranFeuer
 author_thumbnail: 0*5Ba8u2jyfN08L-yX.jpg
-title: "Álvaro Díaz: “La plata es lo más ordinario que hay”"
+title: 'Álvaro Díaz: “La plata es lo más ordinario que hay”'
 date: 2017-04-23
+draft: 'true'
+
+
 ---
 
 ### Álvaro Díaz: “La plata es lo más ordinario que hay”

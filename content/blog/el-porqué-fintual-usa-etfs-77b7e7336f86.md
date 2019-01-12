@@ -1,8 +1,11 @@
 ---
 author: Omar Larré
 author_thumbnail: 0*Fxb64VaERzEbMLti.
-title: "Porqué Fintual invierte en ETFs"
-date: 2018-2-7
+title: Porqué Fintual invierte en ETFs
+date: 2018-02-07
+draft: 'true'
+
+
 ---
 
 ### Los ETFs entregan el mejor nivel de acceso a activos globales, flexibilidad y bajos costos. Pero ¿qué son? ¿Y por qué son lo indicado para ti?

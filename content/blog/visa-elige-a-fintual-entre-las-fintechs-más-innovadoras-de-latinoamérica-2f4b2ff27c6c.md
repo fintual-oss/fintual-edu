@@ -1,8 +1,11 @@
 ---
 author: Pedro Pineda
 author_thumbnail: 1*P0sNvCNy0pvZnkfNkEKl_g.png
-title: "VISA elige a FINTUAL entre las fintechs más innovadoras de Latinoamérica."
-date: 2017-8-12
+title: VISA elige a FINTUAL entre las fintechs más innovadoras de Latinoamérica.
+date: 2017-08-12
+draft: 'true'
+
+
 ---
 
 ### Somos bien malos para postular a concursos. Creemos que es mejor enfocarse en desarrollar el producto hasta que tus usuarios te amen y que el resto muchas veces es sólo ruido.

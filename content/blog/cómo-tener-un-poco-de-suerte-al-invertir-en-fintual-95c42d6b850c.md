@@ -1,8 +1,11 @@
 ---
 author: Omar Larré
 author_thumbnail: 0*Fxb64VaERzEbMLti.
-title: "Cómo tener un poco de suerte al invertir en Fintual"
-date: 2018-9-2
+title: Cómo tener un poco de suerte al invertir en Fintual
+date: 2018-09-02
+draft: 'true'
+
+
 ---
 
 ### Cuando inviertes en Fintual, tu rentabilidad va a subir o bajar todos los días. Lamentablemente ni nosotros (ni nadie) tiene cómo saber qué va a pasar. Si bien diseñamos cada una de las carteras de inversión de nuestros usuarios para que en el largo plazo las inversiones suban, puede ser que hayas entrado en un mal momento. Acá te contamos una estrategia para evitar esta mala suerte.

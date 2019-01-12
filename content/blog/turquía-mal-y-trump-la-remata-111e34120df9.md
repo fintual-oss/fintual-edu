@@ -1,8 +1,11 @@
 ---
 author: Omar Larré
 author_thumbnail: 0*Fxb64VaERzEbMLti.
-title: "Turquía mal y Trump la remata"
-date: 2018-7-10
+title: Turquía mal y Trump la remata
+date: 2018-07-10
+draft: 'true'
+
+
 ---
 
 ### Donald Trump quiere aumentar al doble el impuesto que pagan los norteamericanos al comprar acero y aluminio turco. Y con eso la lira turca se desploma arrastrando a otros emergentes como Argentina, Brasil, Sudáfrica e incluso Chile, porque una vez que se desconfía de un emergente, se desconfía de todos. En gran parte por eso el dólar subió tanto estas últimas dos semanas (cerró casi a $670 el viernes) en Chile.

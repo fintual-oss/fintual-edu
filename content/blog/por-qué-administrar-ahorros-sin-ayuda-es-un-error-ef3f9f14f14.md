@@ -2,7 +2,10 @@
 author: Agustin Feuerhake
 author_thumbnail: 0*t6MxUX_jX9L6zyFK.jpg
 title: "¿Por qué administrar ahorros sin ayuda es un error?"
-date: 2016-8-8
+date: 2016-08-08
+draft: 'true'
+
+
 ---
 
 ### Si entras a tu banco, caminas hacia el escritorio donde está sentada la señora elegante que trabaja en inversiones, te sientas en la silla y le preguntas dónde puedes poner tus 5 millones de pesos para que renten algo en los próximos 2 años, te va a pasar esto:

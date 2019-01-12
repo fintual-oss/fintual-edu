@@ -1,8 +1,12 @@
 ---
 author: Pedro Pineda
 author_thumbnail: 1*P0sNvCNy0pvZnkfNkEKl_g.png
-title: "Axel Christensen: “los robot-advisors son una cuestión de timing, pero para allá va la cosa”."
-date: 2016-11-2
+title: 'Axel Christensen: “los robot-advisors son una cuestión de timing, pero para
+  allá va la cosa”.'
+date: 2016-11-02
+draft: 'true'
+
+
 ---
 
 ### Axel Christensen: “los robot-advisors son una cuestión de timing, pero para allá va la cosa”.

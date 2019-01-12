@@ -1,8 +1,11 @@
 ---
 author: Pedro Pineda
 author_thumbnail: 1*P0sNvCNy0pvZnkfNkEKl_g.png
-title: "El depósito a plazo es una mala inversión ¿Entonces qué? FINTUAL"
-date: 2018-2-14
+title: El depósito a plazo es una mala inversión ¿Entonces qué? FINTUAL
+date: 2018-02-14
+draft: 'true'
+
+
 ---
 
 ### 

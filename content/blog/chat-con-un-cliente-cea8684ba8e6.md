@@ -3,6 +3,9 @@ author: Pedro Pineda
 author_thumbnail: 1*P0sNvCNy0pvZnkfNkEKl_g.png
 title: "¿Cómo funciona FINTUAL? Conversando con un cliente."
 date: 2016-10-14
+draft: 'true'
+
+
 ---
 
 ### Parece muy fake, pero es una conversación real que acabamos de tener y que te puede servir para entender cómo funciona FINTUAL

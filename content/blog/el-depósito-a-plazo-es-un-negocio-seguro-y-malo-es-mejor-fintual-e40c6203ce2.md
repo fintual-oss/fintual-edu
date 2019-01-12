@@ -1,8 +1,11 @@
 ---
 author: Pedro Pineda
 author_thumbnail: 1*P0sNvCNy0pvZnkfNkEKl_g.png
-title: "El depósito a plazo es un negocio seguro y malo. Es mejor FINTUAL."
-date: 2016-10-7
+title: El depósito a plazo es un negocio seguro y malo. Es mejor FINTUAL.
+date: 2016-10-07
+draft: 'true'
+
+
 ---
 
 ### Hoy, un banco te da entre un 0,18% (Santander) y un 0,29% (Consorcio) al mes si pones tu plata en un depósito a plazo¹. El promedio general en un año es 2,6%.
