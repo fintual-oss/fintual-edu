@@ -1,8 +1,10 @@
 +++
+
 date = "2018-07-08T16:37:29+00:00"
 description = "En la oficina, a veces estamos tan metidos en las operaciones del día a día que a veces se nos olvida lo bacán que es."
 image = "/uploads/vaca1.png"
 title = "Cuando inviertes con Fintual, inviertes en Netflix, Apple, Google y Amazon"
+aliases = ["/en-que-inviertes-cuando-inviertes-con-fintual/"]
 
 +++
 <style>

@@ -1,7 +1,9 @@
 +++
+
 date = ""
 image = ""
 title = "Libro"
+aliases = ["/librito/"]
 
 +++
 En estos años hemos conversado con varias personas bacanes sobre el dinero. 

@@ -1,8 +1,10 @@
 +++
+
 date = "2018-07-12T01:44:25+00:00"
 description = ""
 image = ""
 title = "Cómo programar una transferencia mensual en el Banco BCI"
+aliases = ["/como-programar-una-transferencia-mensual-en-el-banco-bci/"]
 
 +++
 FINTUAL no saca plata de tu cuenta. Tú la tienes que transferir.

@@ -1,9 +1,11 @@
 +++
+
 date = "2018-08-20T19:55:52+00:00"
 description = "Cuentas bancarias para abonar en Fintual"
 draft = true
 image = ""
 title = "Cuentas de banco para abonar en Fintual"
+aliases = ["/cuentas-de-banco-para-aportantes-fintual/"]
 
 +++
 Estas son las cuentas donde puedes depositar tu inversión en Fintual AGF.

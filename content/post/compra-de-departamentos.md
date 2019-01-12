@@ -1,8 +1,11 @@
 +++
+
 date = "2018-07-05T03:27:00+00:00"
 image = ""
 title = "¿Seguro quieres comprar departamentos como inversión?"
 categories = ["inversión"]
+aliases = ["/compra-de-departamentos/"]
+
 +++
 ![](/uploads/Screen Shot 2018-07-04 at 10.31.40 PM.png)<br>
 

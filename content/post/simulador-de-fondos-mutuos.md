@@ -1,8 +1,10 @@
 +++
+
 date = "2018-07-05T04:34:29+00:00"
 description = ""
 image = ""
 title = "Simulador de Fondos Mutuos"
+aliases = ["/simulador-de-fondos-mutuos/"]
 
 +++
 ¿Quieres ver cuánto ganarías invirtiendo en fondos mutuos?

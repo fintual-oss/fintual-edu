@@ -1,6 +1,8 @@
 +++
+
 date = "2018-07-05T04:40:03+00:00"
 title = "CTM: las Comisiones Te Matan"
+aliases = ["/ctm--las-comisiones-te-matan/"]
 
 +++
 Súper poca gente sabe cuánto paga en comisiones cuando invierte.
