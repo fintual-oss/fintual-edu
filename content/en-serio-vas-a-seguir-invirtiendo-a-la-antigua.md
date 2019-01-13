@@ -36,21 +36,57 @@ width: 100%;
 
 </style>
 
-Habiendo tantas páginas para pedir comida, ¿cómo no existía una que te ayudara a invertir bien tu plata?
+¿Quieres invertir?
 
-En Chile no conocíamos algo que fuera simple, transparente y barato.
+En Chile hay 20 AGFs. 
 
-Lo único simple que encontramos fueron los depósitos a plazo, pero es tan poco lo que se gana que no tenía sentido.
+### **19 de ellas hacen lo mismo:**
 
-**Por eso invertir tiene que ser fácil.**
+1\. Tienen sistemas arcaicos.
 
-**¿Qué significa fácil?**
+2\. Su servicio al cliente es lento.
 
-1\. Responder unas preguntas para medir tu tolerancia al riesgo
+3\. Tienen sitios complicados de entender.
 
-2\. Decidir cuánta plata y durante cuánto tiempo quieres invertir
+4\. Te confunden con decenas de fondos mutuos.
 
-3\. Listo.
+5\. Algunos te exigirán montos mínimos de inversión.
+
+6\. Otros tendrán comisiones altas a no ser que inviertas más de $100.000.000
+
+7\. Y tendrás que leer la letra chica para descubrir que hay costos por rescate
+
+¿Quieres invertir a la antigua?
+
+Pero no termina ahí. Prepárate para ir a sucursales, hacer trámites, firmar papeles... cómo si internet si hubiese creado ayer.
+
+No queremos sonar muy mala onda ni soberbios. Pero tarde o temprano alguien tenía que decir las cosas como son. 
+
+Prueba Fintual. 
+
+Sabemos que te importa dónde invertir. Y la mejor manera de saber que estás tomando una buena decisión es que pruebes. lo critiques todo, cuestiónate, háznos todas las preguntas que quieras. Pero al menos inténtalo. Así también estarás seguro de estar tomando la mejor decisión.
+
+Fintual funciona distinto:
+
+\-
+
+\-sólo cobramos 1,19% anual y 0,49% anual por apv
+
+Suena soberbio. Lo sabemos. 
+
+Pero son hechos, no opiniones. 
+
+Solo creíamos que era mejor que alguien te las dijera a que pierdas el tiempo dándote cuenta tu solo.
+
+Tú eliges :D
+
+botón1: Ya bueno, voy a darle una oportunidad a Fintual.
+
+botón2: ¡Déjenme! ¡Quiero invertir con dinosaurios!
+
+Administramos $ 4.897.104.706 de más de 1600 clientes.
+
+lista de las 20 agf?
 
 <div class="image-wrapper">
 
@@ -58,23 +94,8 @@ Lo único simple que encontramos fueron los depósitos a plazo, pero es tan poco
 
 </div>
 
-¿Es broma?
+<p style="text-align:center"> 
 
-No, no es broma.
+<a class="simulator-page__button btn btn--secondary"href="https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=awareness&utm_content=hagamos+esto+palta-159#empezar">Empezar</a>
 
-**¿Quieres poner poca plata?** Puedes hacerlo, no hay montos mínimos.
-
-**¿Quieres sacar tu plata antes?** Obvio. No hay costos por sacar tu plata.
-
-**¿Es seguro?** Fintual es una institución financiera regulada.
-
-Cool pero regulada.
-
-La Comisión para el Mercado Financiero vigila que cumplamos con la ley. Puedes ver nuestro registro en la CMF [aquí.](http://www.cmfchile.cl/institucional/mercados/entidad.php?auth=&send=&mercado=V&rut=76810627&grupo=&tipoentidad=RGAGF&vig=VI&row=AAAwy2ACTAAAB4AAAP&control=svs&pestania=1)
-
-_Algunas personas dicen que algo es palta cuando es fácil._
-
-_Y nosotros queremos eso, que invertir sea palta._
-
-<p style="text-align:center">
-<a class="simulator-page__button btn btn--secondary" href="https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=awareness&utm_content=hagamos+esto+palta-159#empezar">Empezar</a></p>
+</p>
