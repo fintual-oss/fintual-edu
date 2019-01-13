@@ -38,13 +38,13 @@ width: 100%;
 
 En Chile hay 20 Administradoras Generales de Fondos (AGF).
 
-### **19 de ellas hacen lo mismo.**
+## 19 de ellas hacen lo mismo.
 
 Te ofrecen decenas de fondos mutuos sin decirte cuál es mejor para ti.
 
 Algunos con montos mínimos de inversión.
 
-Comisiones más altas hasta que inviertas más de $100.000.000.
+Comisiones más altas a no ser que inviertas más de $100.000.000.
 
 Y tendrás que leer la letra chica para descubrir que hay costos por rescate.
 
@@ -52,11 +52,11 @@ Todo esto usando sistemas arcaicos.
 
 Si tienes alguna duda, prepárate para enviar correos, llamar call centers, contactarte con ejecutivos, ir a sucursales, hacer trámites, firmar papeles...
 
-Cómo si internet se inventado creado ayer.
+Cómo si internet se hubiese inventado ayer.
 
 ¿Por qué lo complican tanto?
 
-### **Invertir tiene que ser fácil.**
+## Invertir tiene que ser fácil.
 
 **¿Qué significa fácil?**
 
@@ -70,7 +70,7 @@ Y listo.
 
 Si, en serio. Si quieres complicarte invierte en bienes raíces.
 
-Fintual funciona distinto, 100% online, sin montos mínimos ni penalizaciones por rescate.
+Fintual funciona distinto. 100% online, sin montos mínimos ni penalizaciones por rescate.
 
 **1,19% comisión anual sea lo que sea que inviertas.**
 
@@ -90,7 +90,7 @@ o
 
 <p style="text-align:center">
 
-<a class="simulator-page__button btn btn--secondary"href="https://www.google.com/">¡Déjenme invertir con los dinosaurios!🦖</a>
+<a class="simulator-page__button btn btn--secondary"href="https://www.google.com/">¡No! ¡Quiero volver para invertir con los dinosaurios!🦖</a>
 
 </p>
 
