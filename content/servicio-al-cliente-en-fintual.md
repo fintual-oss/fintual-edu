@@ -82,16 +82,38 @@ Redacto mi respuesta, voy al chat... y ya hay alguien que respondió.
 
 Todo _en cuestión de minutos._
 
-En Fintual, las preguntas que hace la gente son una prioridad (y eso que ni siquiera son clientes).
-
 Quizás no suene tan increíble, pero en realidad son pocas las páginas que entregan un servicio así.
 
-Yo al menos, hasta la semana pasada, no tenía idea cómo funcionaba esta área en el resto de las Administradoras de Fondos, así que me puse a explorar.
+Yo al menos no tenía idea cómo funcionaba esta área en el resto de las Administradoras de Fondos, así que fui a indagar...
 
 <div class="image-wrapper">
 
-<img src="/uploads/busqueda.PNG" alt="chat-fintual">
+<img src="/uploads/oh-gran-google.PNG" alt="chat-fintual">
 
 </div>
 
-Si te paseas por las otras 19 AGF que existen hoy en Chile, tienes ganas de invertir, pero a medio camino te surgen dudas al respecto, estas son las opciones:
+Imagina que tienes ganas de invertir. Le preguntas a tus amigos dónde invierten ellos y te dan el nombre de una Administradora General de Fondos específica. La googleas, te informas, pero a medio camino te surgen dudas al respecto... ¿Cuánto cobran? ¿Cuánto es el mínimo que puedo invertir? ¿Me penalizan si saco la plata? 
+
+Entonces empiezas a buscar cuál, de los cientos de botónes que ves en la página, te llevarán a esa famosa sección dónde podrás aclarar tus dudas: el _servicio al cliente._ Y bueno, uno que ya hizo la búsqueda, te puedo decir cuáles son las opciones:
+
+<div class="image-wrapper">
+
+<img src="/uploads/tus-opciones.png" alt="chat-fintual">
+
+</div>
+
+1. **Formularios de contacto** (¿quién llena estas cuestiones?)
+2. **Call Centers** (para los que hay que tener un poco de paciencia)
+3. **Asistentes Virtuales** (¿¿??)
+
+Este último me llamó la atención así que lo probé:
+
+<div class="image-wrapper">
+
+<img src="/uploads/chat-robot1.png" alt="chat-fintual">
+
+<img src="/uploads/chat-robot2.png" alt="chat-fintual">
+
+</div>
+
+ Fintual, las preguntas que hace la gente son una prioridad (y eso que ni siquiera son clientes).
