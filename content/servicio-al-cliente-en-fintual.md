@@ -3,7 +3,7 @@ date = "2018-07-08T16:37:29+00:00"
 description = "Invertir tiene que ser fácil."
 draft = true
 image = ""
-title = "El servicio al cliente en Fintual"
+title = "El servicio al cliente de Fintual"
 
 +++
 <style>
@@ -74,11 +74,13 @@ Esta pequeña frase (que no llama la atención porque en general es mentira), **
 
 Imagínenselo.
 
-Llega una pregunta. 
+Llega una pregunta (de alguien que ni siquiera es cliente).
 
 Todos en la oficina reciben la notificación.
 
-Redacto mi respuesta, voy al chat... y ya hay alguien que respondió. 
+La veo, empiezo a redactar mi respuesta, voy al chat... 
+
+y ya hay alguien que respondió. 
 
 Todo _en cuestión de minutos._
 
@@ -102,11 +104,13 @@ Entonces empiezas a buscar cuál, de los cientos de botónes que ves en la pági
 
 </div>
 
-1. **Formularios de contacto** (¿quién llena estas cuestiones?)
-2. **Call Centers** (para los que hay que tener un poco de paciencia)
-3. **Asistentes Virtuales** (¿¿??)
+**1. Formularios de contacto** (¿quién llena estas cuestiones?)
 
-Este último me llamó la atención así que lo probé:
+**2. Call Centers** (para los que hay que tener un poco de paciencia)
+
+**3. Asistentes Virtuales** (¿¿??)
+
+Este último me llamó la atención así que lo probé..
 
 <div class="image-wrapper">
 
@@ -116,4 +120,20 @@ Este último me llamó la atención así que lo probé:
 
 </div>
 
- Fintual, las preguntas que hace la gente son una prioridad (y eso que ni siquiera son clientes).
+..y resultó ser otro Call Center (camuflado).  
+
+El punto es que una vez más me quedó claro por qué dicen que los chilenos somos tan malos para atender clientes.
+
+Hay que tener dos dedos de frente para darse cuenta de que cuándo la gente tiene preguntas, quieren una forma **fácil** de obtener respuestas **rápidas y claras.** 
+
+No me cabe la menor duda de que es algo que eventualmente las empresas podrán delegarlo a los famosos bots, pero hasta entonces, qué mejor que sean personas reales las que estén siempre pendientes de atenderte :).
+
+<div class="image-wrapper">
+
+<img src="/uploads/saludo.png" alt="chat-fintual">
+
+</div>
+
+¿arma de doble filo?
+
+Yo me quedo con que es una manera distinta (y mejor) de hacer las cosas.
