@@ -3,7 +3,7 @@ date = "2018-07-08T16:37:29+00:00"
 description = "Invertir tiene que ser fácil."
 draft = true
 image = ""
-title = "El servicio al cliente de Fintual"
+title = "El call center de Fintual"
 
 +++
 <style>
