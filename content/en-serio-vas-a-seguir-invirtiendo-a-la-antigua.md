@@ -3,7 +3,7 @@ date = "2018-07-08T16:37:29+00:00"
 description = "Invertir tiene que ser fácil."
 draft = true
 image = ""
-title = "¿En serio vas a seguir invirtiendo a la antigua?"
+title = "¿En serio vas a invertir a la antigua?"
 
 +++
 <style>
@@ -36,17 +36,15 @@ width: 100%;
 
 </style>
 
-¿Quieres invertir?
-
-En Chile hay 20 AGFs. 
+En Chile hay 20 Administradoras Generales de Fondos (AGF). 
 
 ### **19 de ellas hacen lo mismo:**
 
-1\. Tienen sistemas arcaicos.
+1\. Con sistemas arcaicos.
 
-2\. Su servicio al cliente es lento.
+2\. Servicio al cliente lento.
 
-3\. Tienen sitios complicados de entender.
+3\. Sitios complicados de entender.
 
 4\. Te confunden con decenas de fondos mutuos.
 
@@ -54,33 +52,31 @@ En Chile hay 20 AGFs.
 
 6\. Otros tendrán comisiones altas a no ser que inviertas más de $100.000.000
 
-7\. Y tendrás que leer la letra chica para descubrir que hay costos por rescate
+7\. Y tendrás que leer la letra chica para descubrir que hay costos por rescate.
 
 ¿Quieres invertir a la antigua?
 
-Pero no termina ahí. Prepárate para ir a sucursales, hacer trámites, firmar papeles... cómo si internet si hubiese creado ayer.
+No termina ahí. Prepárate para ir a sucursales, hacer trámites, firmar papeles... cómo si internet se hubiese creado ayer.
 
-No queremos sonar muy mala onda ni soberbios. Pero tarde o temprano alguien tenía que decir las cosas como son. 
+No queremos ser mala onda. Pero tarde o temprano alguien tenía que salir a decir las cosas como son. Nosotros queríamos hacerlo hace rato, pero no sin antes tener una solución.
 
 Prueba Fintual. 
 
-Sabemos que te importa dónde invertir. Y la mejor manera de saber que estás tomando una buena decisión es que pruebes. lo critiques todo, cuestiónate, háznos todas las preguntas que quieras. Pero al menos inténtalo. Así también estarás seguro de estar tomando la mejor decisión.
+Sabemos que te importa dónde invertir. Y la mejor manera de saber que estás tomando una buena decisión es que pruebes. Critícalo todo, cuestiónate, háznos todas las preguntas que quieras. Pero al menos inténtalo. 
 
 Fintual funciona distinto:
 
-\-
+1\. 100% online
 
-\-sólo cobramos 1,19% anual y 0,49% anual por apv
+2\. 1,19% comisión anual **igual para todos.**
 
-Suena soberbio. Lo sabemos. 
+3\. 
 
-Pero son hechos, no opiniones. 
+No importa si tienes años de experiencia o no sabes nada de inversiones. Fintual es una forma simple de invertir.
 
-Solo creíamos que era mejor que alguien te las dijera a que pierdas el tiempo dándote cuenta tu solo.
+Solo queríamos ahorrarte la tarea de darte cuenta de estas cosas solo. 
 
-Tú eliges :D
-
-botón1: Ya bueno, voy a darle una oportunidad a Fintual.
+botón1: Prueba Fintual
 
 botón2: ¡Déjenme! ¡Quiero invertir con dinosaurios!
 
