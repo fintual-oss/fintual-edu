@@ -36,13 +36,11 @@ width: 100%;
 
 </style>
 
-_Hace poco entré a trabajar en Fintual (bueno, en realidad estoy haciendo mi práctica), pero no ha tenido que pasar mucho tiempo para darme cuenta de que la mayoría de las cosas que se hacen aquí son hechas de una manera muy distinta al resto de las empresas._
+_Hace poco entré a trabajar en Fintual (bueno, en realidad estoy haciendo mi práctica) y no ha tenido que pasar mucho tiempo para darme cuenta de que aquí la mayoría de las cosas se hacen distinto a lo tradicional._
 
-_Un ejemplo concreto es el servicio al cliente. Lo sé, esta frase evoca casi puras malas experiencias. Pero aquí va una historia sobre cómo tratan esta área en Fintual._ 
+_Un ejemplo concreto es el **servicio al cliente**. Lo sé, puede que esa frase te traiga malos recuerdos, pero aquí va una historia sobre cómo tratan esta área en Fintual._ (_pista: lo hacen de una manera muy distinta)._
 
-_Una pista: lo hacen de una manera distinta._
-
-Parte de ser uno más del equipo aquí es estar atento al chat de la página.  
+Parte de ser uno más del equipo es estar atento al chat de la página.
 
 <div class="image-wrapper">
 
@@ -50,21 +48,17 @@ Parte de ser uno más del equipo aquí es estar atento al chat de la página.
 
 </div>
 
-Esa pelotita azul (un poco molestosa) que se vé cuando entras a la página, es un acceso directo para resolver dudas.
+Esa pelotita azul que se vé cuando entras a la página, es un acceso directo para resolver dudas. Y en general, la gente que llega a la página _algo_ sabe de inversiones, pero la gracia de Fintual es que puedas invertir sin saber nada al respecto.
 
-En general, la gente que llega a la página _algo_ sabe de inversiones. 
+Así que una de las primeras cosas que me enseñaron fue cómo responder las dudas que llegan por el chat. Me dijeron que había que estar mirando que no hubieran mensajes sin atender y cerrar la conversación **solamente** cuando estuviera seguro de haber resuelto todas las preguntas.
 
-Pero la gracia de Fintual es que puedas invertir sin saber nada al respecto
+Así que partí configurando las notificaciones en mi celular y luego me dediqué a _espiar_ las conversaciones del resto del equipo para aprender más o menos el tono que usaban para responderle a la gente.
 
-Así que una de las primeras cosas que me enseñaron fue cómo responder las dudas que llegan por el chat.
+Ha pasado como un mes y **de las más de cien preguntas** que llegado, he logrado responder un asombroso total de... 
 
-Me dijeron que había que estar mirando que no hubieran mensajes sin atender y cerrar la conversación **solamente** cuando estuviera seguro de haber resuelto todas las preguntas.
+**6 chats.** 🙃
 
-Así que después de configurar las notificaciones en mi celular me dediqué a _espiar_ las conversaciones del resto del equipo para aprender el estilo de sus respuestas.
-
-Ha pasado como un mes **y de las más de cien preguntas** que han hecho distintas personas durante este tiempo, yo he respondido un asombroso total de: 6 chats. 🙃
-
-No es de flojo, lo prometo. Si abren el chat encontrarán la respuesta:
+No es de flojo, lo prometo. Esto es lo que pasa:
 
 <div class="image-wrapper">
 
@@ -72,30 +66,32 @@ No es de flojo, lo prometo. Si abren el chat encontrarán la respuesta:
 
 <img src="/uploads/chat-abierto-zoom.png" alt="chat-fintual">
 
-</div> 
+</div>
 
-Esta frase, que no llama mucho la atención porque suele ser mentira en Fintual es real. 
+Esta pequeña frase, que no llama la atención porque suele ser mentira en otras páginas, **aquí se cumple de verdad.**
 
-¡Simplemente no los alcanzo a contestar!
+¡Simplemente no alcanzo a contestar!
 
-El chat, aparte de ser igual de instantáneo que Whatsapp, está dirigido a todos en el equipo, por que cualquiera puede responder.
+Imagínenselo.
 
-Y todos los hacen _en cuestión de minutos._
+Llega una pregunta. 
+
+Todos en la oficina reciben la notificación.
+
+Y antes de poder empezar a redactar mi respuesta, ya hay alguien respondiendo. 
+
+Todo _en cuestión de minutos._
 
 En Fintual, las preguntas que hace la gente son una prioridad (y eso que ni siquiera son clientes).
 
 Quizás no suene tan increíble, pero en realidad son pocas las páginas que entregan un servicio así.
 
-Y yo al menos, hasta la semana pasada, no tenía idea cómo funcionaba esta área en el resto de las Administradoras de Fondos. 
-
-Así que me puse a explorar.
+Yo al menos, hasta la semana pasada, no tenía idea cómo funcionaba esta área en el resto de las Administradoras de Fondos, así que me puse a explorar.
 
 <div class="image-wrapper">
 
 <img src="/uploads/busqueda.png" alt="chat-fintual">
 
-</div> 
+</div>
 
 Si te paseas por las otras 19 AGF que existen hoy en Chile, tienes ganas de invertir, pero a medio camino te surgen dudas al respecto, estas son las opciones:
-
-  
