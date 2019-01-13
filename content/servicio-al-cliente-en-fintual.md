@@ -58,7 +58,7 @@ Ha pasado como un mes y **de las más de cien preguntas** que llegado, he lograd
 
 **6 chats.** 🙃
 
-No es de flojo, lo prometo. Esto es lo que pasa:
+Pero antes de que digan que soy un flojo, déjenme mostrarles algo:
 
 <div class="image-wrapper">
 
@@ -68,7 +68,7 @@ No es de flojo, lo prometo. Esto es lo que pasa:
 
 </div>
 
-Esta pequeña frase, que no llama la atención porque suele ser mentira en otras páginas, **aquí se cumple de verdad.**
+Esta pequeña frase (que no llama la atención porque en general es mentira), **aquí se cumple de verdad.**
 
 ¡Simplemente no alcanzo a contestar!
 
@@ -78,7 +78,7 @@ Llega una pregunta.
 
 Todos en la oficina reciben la notificación.
 
-Y antes de poder empezar a redactar mi respuesta, ya hay alguien respondiendo. 
+Redacto mi respuesta, voy al chat... y ya hay alguien que respondió. 
 
 Todo _en cuestión de minutos._
 
@@ -90,7 +90,7 @@ Yo al menos, hasta la semana pasada, no tenía idea cómo funcionaba esta área 
 
 <div class="image-wrapper">
 
-<img src="/uploads/busqueda.png" alt="chat-fintual">
+<img src="/uploads/busqueda.PNG" alt="chat-fintual">
 
 </div>
 
