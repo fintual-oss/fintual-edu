@@ -70,40 +70,42 @@ Y listo.
 
 ¿En serio?
 
-Obvio, si Ni siquiera estamos hablando de invertir en bienes raíces.
+Si, en serio. Ni siquiera estamos hablando de invertir en bienes raíces.
 
-Y qué mejor si esto no te quita mucho tiempo.
+Fintual funciona distinto, 100% online, sin montos mínimos ni penalizaciones por rescate.
 
-Apreta el botón y responde unas preguntas. Te recomendaremos una estrategia de inversión adecuada a tu tolerancia al riesgo.
+¿Lo mejor?
 
-Simula tu inversión con distintos plazos para proyectar tu rentabilidad y si tienes alguna pregunta, solo abre el chat (la pelotita azul que estará abajo a la derecha) y escríbenos lo que quieras. Alguien del equipo te responderá en minutos.
+1,19% comisión anual sea lo que sea que inviertas.
 
-Y no importa si no sabes nada de inversiones. Fintual es una forma simple de invertir.
+Si te animas, puedes apretar el botón de abajo. No importa si no sabes nada de inversiones. Luego de que respondas unas preguntas te recomendaremos una estrategia de inversión adecuada a tu tolerancia al riesgo.
 
-Fintual funciona distinto:
+Podrás simular tu inversión con distintos plazos y proyectar tu rentabilidad en distintos escenarios.
 
-1\. 100% online
-
-2\. 1,19% comisión anual **igual para todos.**
-
-3\. 
-
-botón1: Prueba Fintual
-
-botón2: ¡Déjenme! ¡Quiero invertir con dinosaurios!
-
-Administramos $ 4.897.104.706 de más de 1600 clientes.
-
-lista de las 20 agf?
-
-<div class="image-wrapper">
-
-<img src="/uploads/inviertepalta.png" alt="inviertepalta">
-
-</div>
+Si tienes alguna pregunta, solo abre el chat (la pelotita azul que estará abajo a la derecha) y escríbe lo que quieras. Alguien del equipo te responderá en minutos.
 
 <p style="text-align:center"> 
 
 <a class="simulator-page__button btn btn--secondary"href="https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=awareness&utm_content=hagamos+esto+palta-159#empezar">Empezar</a>
 
 </p>
+
+<p style="text-align:center"> 
+
+<a class="simulator-page__button btn btn--secondary"href="https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=awareness&utm_content=hagamos+esto+palta-159#empezar">¡Déjenme invertir con los dinosaurios!🦖</a>
+
+</p>
+
+botón2: ¡Déjenme! ¡Quiero invertir con dinosaurios!
+
+**¿Es seguro?**
+
+Administramos $ 4.897.104.706 de más de 1600 clientes.
+
+Al igual que el resto de las AGF, nos regula la Comisión para el Mercado Financiero de Chile. Puedes ver nuestro registro aquí.
+
+<div class="image-wrapper">
+
+<img src="/uploads/inviertepalta.png" alt="inviertepalta">
+
+</div>
