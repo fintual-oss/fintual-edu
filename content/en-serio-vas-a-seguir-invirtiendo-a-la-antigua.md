@@ -38,31 +38,47 @@ width: 100%;
 
 En Chile hay 20 Administradoras Generales de Fondos (AGF). 
 
-### **19 de ellas hacen lo mismo:**
+### **19 de ellas hacen lo mismo.**
 
-1\. Con sistemas arcaicos.
+Te ofrecen decenas de fondos mutuos sin decirte cuál es el mejor para ti. 
 
-2\. Servicio al cliente lento.
+Algunos te exigirán montos mínimos de inversión.
 
-3\. Sitios complicados de entender.
+Te cobrarán más comisión si inviertes menos de $100.000.000.
 
-4\. Te confunden con decenas de fondos mutuos.
+Y tendrás que leer la letra chica para descubrir que hay costos por rescate.
 
-5\. Algunos te exigirán montos mínimos de inversión.
+Todo esto usando sistemas arcaicos. 
 
-6\. Otros tendrán comisiones altas a no ser que inviertas más de $100.000.000
+Si tienes alguna duda, prepárate para enviar correos, llamar call centers, contactarte con ejecutivos, ir a sucursales, hacer trámites, firmar papeles...
 
-7\. Y tendrás que leer la letra chica para descubrir que hay costos por rescate.
+Cómo si internet se hubiese creado ayer.
 
-¿Quieres invertir a la antigua?
+**¿Por qué lo complican tanto?** 
 
-No termina ahí. Prepárate para ir a sucursales, hacer trámites, firmar papeles... cómo si internet se hubiese creado ayer.
+No queremos ser mala onda. Pero tarde o temprano alguien tenía que decir las cosas como son y proponer una solución.
 
-No queremos ser mala onda. Pero tarde o temprano alguien tenía que salir a decir las cosas como son. Nosotros queríamos hacerlo hace rato, pero no sin antes tener una solución.
+### **Invertir tiene que ser fácil.** 
 
-Prueba Fintual. 
+**¿Qué significa fácil?**  
 
-Sabemos que te importa dónde invertir. Y la mejor manera de saber que estás tomando una buena decisión es que pruebes. Critícalo todo, cuestiónate, háznos todas las preguntas que quieras. Pero al menos inténtalo. 
+1\. Hacerte unas preguntas para medir tu tolerancia al riesgo.
+
+2\. Que decidas cuánta plata y durante cuánto tiempo quieres invertir.
+
+Y listo.
+
+¿En serio?
+
+Obvio, si Ni siquiera estamos hablando de invertir en bienes raíces.
+
+Y qué mejor si esto no te quita mucho tiempo.
+
+Apreta el botón y responde unas preguntas. Te recomendaremos una estrategia de inversión adecuada a tu tolerancia al riesgo.
+
+Simula tu inversión con distintos plazos para proyectar tu rentabilidad y si tienes alguna pregunta, solo abre el chat (la pelotita azul que estará abajo a la derecha) y escríbenos lo que quieras. Alguien del equipo te responderá en minutos.
+
+Y no importa si no sabes nada de inversiones. Fintual es una forma simple de invertir.
 
 Fintual funciona distinto:
 
@@ -71,10 +87,6 @@ Fintual funciona distinto:
 2\. 1,19% comisión anual **igual para todos.**
 
 3\. 
-
-No importa si tienes años de experiencia o no sabes nada de inversiones. Fintual es una forma simple de invertir.
-
-Solo queríamos ahorrarte la tarea de darte cuenta de estas cosas solo. 
 
 botón1: Prueba Fintual
 
