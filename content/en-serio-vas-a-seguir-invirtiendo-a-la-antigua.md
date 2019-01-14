@@ -42,13 +42,23 @@ En Chile hay 20 Administradoras Generales de Fondos (AGF).
 
 Te ofrecen decenas de fondos mutuos sin decirte cuál es mejor para ti.
 
-* Algunos con montos mínimos de inversión.
-* Comisiones más altas a no ser que inviertas más de $100.000.000.
-* Y tendrás que leer la letra chica para descubrir que hay costos por rescate.
+<ul>
+
+  
+  <li>Algunos con **montos mínimos de inversión.**</li>
+
+  
+  <li>Otros con comisiones más altas a no ser de que inviertas **más de $100.000.000.**</li>
+
+  
+  <li>Y tendrás que leer la letra chica para descubrir que hay **costos por rescate.**</li>
+
+  
+</ul>  
 
 Todo esto usando sistemas arcaicos.
 
-Si tienes alguna duda, prepárate para enviar correos, llamar call centers, contactarte con ejecutivos, ir a sucursales, hacer trámites, firmar papeles...
+Si tienes alguna duda, prepárate para **enviar correos, llamar call centers, contactarte con ejecutivos, ir a sucursales, hacer trámites, firmar papeles...**
 
 Cómo si internet se hubiese inventado ayer.
 
@@ -58,25 +68,37 @@ Cómo si internet se hubiese inventado ayer.
 
 **¿Qué significa fácil?**
 
-1\. Hacerte unas preguntas para medir tu tolerancia al riesgo.
+<ol>
 
-2\. Que decidas cuánta plata y durante cuánto tiempo quieres invertir.
+  <li>Responder unas preguntas para medir tu tolerancia al riesgo.</li>
 
-Y listo.
+  <li>Que decidas **cuánta plata** y durante **cuánto tiempo** quieres invertir.</li>
+
+  <li>Y listo.</li>
+
+</ol>  
 
 ¿En serio?
 
-Si, en serio. Si quieres complicarte invierte en bienes raíces.
+Si, en serio. Si quieres complicarte mejor invierte en bienes raíces. Fintual funciona distinto. 
 
-Fintual funciona distinto. 100% online, sin montos mínimos ni penalizaciones por rescate.
+<ul>
 
-**1,19% comisión anual sea lo que sea que inviertas.**
+  <li>**100% online**</li>
 
-Si te animas, puedes apretar el botón de abajo. No importa si no sabes nada de inversiones. Te recomendaremos una estrategia de inversión adecuada a tu tolerancia al riesgo.
+  <li>**Sin montos mínimos ni penalizaciones por rescate.**</li>
 
-Podrás simular tu inversión con distintos plazos y proyectar tu rentabilidad en distintos escenarios.
+  <li>**1,19% de comisión anual sobre el monto que inviertas (sin costos ocultos o comisiones fantasma).**</li>
 
-Si tienes alguna pregunta, solo abre el chat (la pelotita azul que estará abajo a la derecha) y escríbe lo que quieras. Alguien del equipo te responderá en minutos.
+</ul> 
+
+Programamos los algoritmos (oh, algoritmos) que optimizan y buscan la frontera eficiente de riesgo-retorno para ofrecerte automáticamente una cartera que se ajuste a tu perfil.
+
+Si te animas, puedes empezar apretando el botón de abajo. **No importa si no sabes nada de inversiones.** Te recomendaremos una estrategia de inversión adecuada a tu tolerancia al riesgo.
+
+Podrás **simular tu inversión** con distintos plazos y proyectar tu rentabilidad en distintos escenarios.
+
+Si tienes alguna pregunta, solo abre el chat (la pelotita azul que estará abajo a la derecha) y escríbe lo que quieras. **Alguien del equipo te responderá en minutos.**
 
 <p style="text-align:center">
 
@@ -84,7 +106,7 @@ Si tienes alguna pregunta, solo abre el chat (la pelotita azul que estará abajo
 
 </p>
 
-o
+<p style="text-align:center;">o</p>
 
 <p style="text-align:center">
 
@@ -92,11 +114,11 @@ o
 
 </p>
 
-**¿Es seguro?**
+**¿Es Fintual seguro?**
 
 Administramos $ 4.897.104.706 de más de 1600 clientes.
 
-Al igual que las otras AGF, nos regula la Comisión para el Mercado Financiero de Chile. Puedes ver nuestro registro en el [sitio web de la CMF.](http://www.cmfchile.cl/institucional/mercados/entidad.php?auth=&send=&mercado=V&rut=76810627&grupo=&tipoentidad=RGAGF&vig=VI&row=AAAwy2ACTAAAB4AAAP&control=svs&pestania=1)
+Al igual que las otras AGF, nos regula la Comisión para el Mercado Financiero de Chile. Puedes ver nuestro registro en el <a href="http://www.cmfchile.cl/institucional/mercados/entidad.php?auth=&send=&mercado=V&rut=76810627&grupo=&tipoentidad=RGAGF&vig=VI&row=AAAwy2ACTAAAB4AAAP&control=svs&pestania=1" target="blank">sitio web de la CMF.</a>
 
 También puedes ver el artículo de [El Mercurio Inversiones](http://www.elmercurio.com/Inversiones/Noticias/Analisis/2019/01/08/Ranking-Las-AGF-que-mas-crecieron-en-2018.aspx) que muestra que somos la segunda AGF de mayor crecimiento en el último mes.
 
