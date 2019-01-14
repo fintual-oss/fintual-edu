@@ -10,10 +10,6 @@ title = "¿En serio vas a invertir a la antigua?"
 
 p { margin:4rem 0px; text-align:justify; }
 
-ul { margin:4rem 0px; text-align:justify; color:black; }
-
-ol { margin:4rem 0px; text-align:justify; color:black; }
-
 .footer-big__overlap { padding-bottom:0px; }
 
 .image-wrapper {
@@ -46,15 +42,11 @@ En Chile hay 20 Administradoras Generales de Fondos (AGF).
 
 Te ofrecen decenas de fondos mutuos sin decirte cuál es mejor para ti.
 
-<ul>
+Algunos con **montos mínimos de inversión.**
 
-<li>Algunos con **montos mínimos de inversión.**</li>
+Otros con comisiones más altas a no ser de que inviertas **más de $100.000.000.**
 
-<li>Otros con comisiones más altas a no ser de que inviertas **más de $100.000.000.**</li>
-
-<li>Y tendrás que leer la letra chica para descubrir que hay **costos por rescate.**</li>
-
-</ul>
+Y tendrás que leer la letra chica para descubrir que hay **costos por rescate.**
 
 Todo esto usando sistemas arcaicos.
 
@@ -68,31 +60,21 @@ Cómo si internet se hubiese inventado ayer.
 
 **¿Qué significa fácil?**
 
-<ol>
+1\. Responder unas preguntas para medir tu tolerancia al riesgo.
 
-<li>Responder unas preguntas para medir tu tolerancia al riesgo.</li>
+2\. Que decidas **cuánta plata** y durante **cuánto tiempo** quieres invertir.
 
-<li>Que decidas **cuánta plata** y durante **cuánto tiempo** quieres invertir.</li>
-
-<li>Y listo.</li>
-
-</ol>
-
-</p>
+3\. Y listo.
 
 ¿En serio?
 
 Si, en serio. Si quieres complicarte mejor invierte en bienes raíces. Fintual funciona distinto.
 
-<ul>
+**100% online**
 
-<li>**100% online**</li>
+**Sin montos mínimos ni penalizaciones por rescate.**
 
-<li>**Sin montos mínimos ni penalizaciones por rescate.**</li>
-
-<li>**1,19% de comisión anual sobre el monto que inviertas (sin costos ocultos o comisiones fantasma).**</li>
-
-</ul>
+**1,19% de comisión anual sobre el monto que inviertas (sin costos ocultos o comisiones fantasma).**
 
 Programamos los algoritmos (oh, algoritmos) que optimizan y buscan la frontera eficiente de riesgo-retorno para ofrecerte automáticamente una cartera que se ajuste a tu perfil.
 
@@ -108,7 +90,7 @@ Si tienes alguna pregunta, solo abre el chat (la pelotita azul que estará abajo
 
 </p>
 
-<p style="text-align:center;">o</p>
+o
 
 <p style="text-align:center">
 
@@ -120,12 +102,6 @@ Si tienes alguna pregunta, solo abre el chat (la pelotita azul que estará abajo
 
 Administramos $ 4.897.104.706 de más de 1600 clientes.
 
-Al igual que las otras AGF, nos regula la Comisión para el Mercado Financiero de Chile. Puedes ver nuestro registro en el
+Al igual que las otras AGF, nos regula la Comisión para el Mercado Financiero de Chile. Puedes ver nuestro registro en el sitio web de la CMF.
 
-<a href="http://www.cmfchile.cl/institucional/mercados/entidad.php?auth=&send=&mercado=V&rut=76810627&grupo=&tipoentidad=RGAGF&vig=VI&row=AAAwy2ACTAAAB4AAAP&control=svs&pestania=1" target="_blank">sitio web de la CMF.</a>
-
-También puedes ver el artículo de 
-
-<a href="http://www.elmercurio.com/Inversiones/Noticias/Analisis/2019/01/08/Ranking-Las-AGF-que-mas-crecieron-en-2018.aspx" target="_blank">El Mercurio Inversiones</a>
-
-que muestra que somos la segunda AGF de mayor crecimiento en el último mes.
+También puedes ver el artículo de El Mercurio Inversiones que muestra que somos la segunda AGF de mayor crecimiento en el último mes.
