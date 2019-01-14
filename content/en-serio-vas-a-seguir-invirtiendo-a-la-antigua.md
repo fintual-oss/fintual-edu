@@ -44,19 +44,15 @@ Te ofrecen decenas de fondos mutuos sin decirte cuál es mejor para ti.
 
 <p style="color:black;">
 
-<ul>
+<ul style="color:black;">
 
-  
-  <li>Algunos con **montos mínimos de inversión.**</li>
+<li>Algunos con **montos mínimos de inversión.**</li>
 
-  
-  <li>Otros con comisiones más altas a no ser de que inviertas **más de $100.000.000.**</li>
+<li>Otros con comisiones más altas a no ser de que inviertas **más de $100.000.000.**</li>
 
-  
-  <li>Y tendrás que leer la letra chica para descubrir que hay **costos por rescate.**</li>
+<li>Y tendrás que leer la letra chica para descubrir que hay **costos por rescate.**</li>
 
-  
-</ul>  
+</ul>
 
 </p>
 
@@ -76,11 +72,11 @@ Cómo si internet se hubiese inventado ayer.
 
 <ol>
 
-  <li>Responder unas preguntas para medir tu tolerancia al riesgo.</li>
+<li>Responder unas preguntas para medir tu tolerancia al riesgo.</li>
 
-  <li>Que decidas **cuánta plata** y durante **cuánto tiempo** quieres invertir.</li>
+<li>Que decidas **cuánta plata** y durante **cuánto tiempo** quieres invertir.</li>
 
-  <li>Y listo.</li>
+<li>Y listo.</li>
 
 </ol>
 
@@ -88,21 +84,21 @@ Cómo si internet se hubiese inventado ayer.
 
 ¿En serio?
 
-Si, en serio. Si quieres complicarte mejor invierte en bienes raíces. Fintual funciona distinto. 
+Si, en serio. Si quieres complicarte mejor invierte en bienes raíces. Fintual funciona distinto.
 
 <p>
 
 <ul>
 
-  <li>**100% online**</li>
+<li>**100% online**</li>
 
-  <li>**Sin montos mínimos ni penalizaciones por rescate.**</li>
+<li>**Sin montos mínimos ni penalizaciones por rescate.**</li>
 
-  <li>**1,19% de comisión anual sobre el monto que inviertas (sin costos ocultos o comisiones fantasma).**</li>
+<li>**1,19% de comisión anual sobre el monto que inviertas (sin costos ocultos o comisiones fantasma).**</li>
 
 </ul>
 
-</p> 
+</p>
 
 Programamos los algoritmos (oh, algoritmos) que optimizan y buscan la frontera eficiente de riesgo-retorno para ofrecerte automáticamente una cartera que se ajuste a tu perfil.
 
@@ -130,7 +126,7 @@ Si tienes alguna pregunta, solo abre el chat (la pelotita azul que estará abajo
 
 Administramos $ 4.897.104.706 de más de 1600 clientes.
 
-Al igual que las otras AGF, nos regula la Comisión para el Mercado Financiero de Chile. Puedes ver nuestro registro en el 
+Al igual que las otras AGF, nos regula la Comisión para el Mercado Financiero de Chile. Puedes ver nuestro registro en el
 
 <p>
 
