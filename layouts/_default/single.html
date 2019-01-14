@@ -1,25 +1,263 @@
-<!DOCTYPE html>
-<html lang="{{.Site.LanguageCode}}">
- {{ partial "landing-head" . }}
- <body>
-   {{partial "google_tag_manager_body.html" . }}
-   {{ partial "landing-nav" . }}
-    <div class="site-wrapper">
-      <div class="page allocation-page">
+{{ define "body" }}
 
-        <div class="container page-content footer-big__overlap">
+<body class="post-template-default single single-post single-format-standard ct-body singular singular-post not-front standard">
+  {{ partial "google_tag_manager_body.html" . }}
+{{ end }}
 
-            <div class="row">
 
-              <div class="col-sm-10 col-sm-offset-1">
-                <h1 class="simulator-page__title text-center header__title">{{.Title}}</h1>
-                <br>
-                {{ .Content }}
-              </div>
-            </div>
-          </div>
+{{ define "main" }}
+  {{ $scratch := newScratch }}
+  {{ if .Site.Params.writers }}
+    {{ $scratch.Set "writer" (index .Site.Params.writers (lower .Params.writer) | default dict) }}
+  {{ else }}
+    {{ $scratch.Set "writer" .Site.Params.social | default dict }}
+  {{ end }}
+  {{ $writer := $scratch.Get "writer" }}
+  <div id="loop-container" class="loop-container">
+
+
+      <div class="post type-post status-publish format-standard hentry category-standard category-travel entry full-without-featured odd excerpt-1">
+
+        <div class="entry-meta">
+          <span class="date">{{ .Date.Format "02 January" }}</span>	<span> / </span>
+
+          <span class="author">
+            <a href="{{ $writer.link | default "" | absURL}}" title="Posts by {{ .Params.writer | default "" }}" rel="author">{{ .Params.writer | default ""}}</a>
+          </span>
+
+
+          {{ range .Params.categories }}
+          <span class="category">
+            <span> / </span>
+
+            <a href="/categories{{ . | relURL }}">{{ . }}</a>
+          </span>
+          {{ end }}
+
+
         </div>
-      </div>
-    {{ partial "landing-footer" . }}
- </body>
-</html>
+        <div class='entry-header'>
+          <h1 class='entry-title'> {{ .Title }}</h1>
+        </div>
+        <div class="entry-container">
+          <div class="entry-content">
+            <article>
+              {{ .Content }}
+            </article>
+          </div>
+
+
+	{{ if and (isset .Site.Params "author") .Site.Params.author }}
+<div class="author-meta">
+
+  <div class="author">
+    	{{ if and (isset .Params "writer") $writer.email }}
+    <img alt='{{ .Params.writer | default .Site.Params.author }}' src="https://www.gravatar.com/avatar/{{ md5 $writer.email }}?s=100&d=identicon" class='avatar avatar-72 photo' height='72' width='72'>
+    {{ else }}
+      <img alt='{{ .Params.writer | default .Site.Params.author }}' src="https://www.gravatar.com/avatar/{{ md5 .Site.Params.email }}?s=100&d=identicon" class='avatar avatar-72 photo' height='72' width='72'>
+    {{ end }}
+    <span>
+      Escrito por:<a href="{{ $writer.link | default .Site.Params.authorlink | absURL}}" title="Posts by {{ .Params.writer | default .Site.Params.author }}" rel="author">{{ .Params.writer | default .Site.Params.author }}</a> </span>
+    </div>
+    <div class="bio">
+      {{ if and (isset .Params "writer") $writer.bio }}
+      {{ range $writer.bio  }}
+      <p>{{ . | default "" | safeHTML }}</p>
+        {{ end }}
+      {{ else }}
+      {{ range .Site.Params.bio  }}
+      <p>{{ . | default "" | safeHTML }}</p>
+      {{ end }}
+      {{ end }}
+	{{ if isset .Params "writer" }}
+      {{ with $writer.facebook }}
+      <a class="facebook" target="_blank"
+      href="{{ . }}">
+      <i class="fa fa-facebook"
+      title="facebook icon"></i>
+    </a>
+    {{end}}
+
+    {{ with $writer.googleplus }}
+    <a class="googleplus" target="_blank"
+    href="{{ . }}">
+    <i class="fa fa-google-plus"
+    title="googleplus icon"></i>
+  </a>
+  {{end}}
+
+
+  {{ with $writer.twitter }}
+  <a class="twitter" target="_blank"
+  href="{{ . }}">
+  <i class="fa fa-twitter-square"
+  title="twitter icon"></i>
+</a>
+{{end}}
+{{ with $writer.linkedin }}
+<a class="linkedin" target="_blank"
+href="{{ . }}">
+<i class="fa fa-linkedin-square"
+title="linkedin icon"></i>
+</a>
+{{end}}
+
+{{ with $writer.email }}
+<a class="email" target="_blank"
+href="mailto:{{ . }}">
+<i class="fa fa-envelope"
+title="email icon"></i>
+</a>
+{{end}}
+
+{{ with $writer.instagram }}
+<a class="instagram" target="_blank"
+href="{{ . }}">
+<i class="fa fa-instagram"
+title="instagram icon"></i>
+</a>
+{{end}}
+
+{{ with $writer.stackoverflow }}
+<a class="stackoverflow" target="_blank"
+href="{{ . }}">
+<i class="fa fa-stack-overflow"
+title="stackoverflow icon"></i>
+</a>
+{{end}}
+
+{{ with $writer.github }}
+<a class="github" target="_blank"
+href="{{ . }}">
+<i class="fa fa-github"
+title="github icon"></i>
+</a>
+{{end}}
+
+
+{{ with $writer.pinterest }}
+<a class="pinterest" target="_blank"
+href="{{ . }}">
+<i class="fa fa-pinterest"
+title="pinterest icon"></i>
+</a>
+{{end}}
+
+
+{{ else }}
+{{ with .Site.Params.social.facebook }}
+<a class="facebook" target="_blank"
+href="{{ . }}">
+<i class="fa fa-facebook"
+title="facebook icon"></i>
+</a>
+{{end}}
+
+{{ with .Site.Params.social.googleplus }}
+<a class="googleplus" target="_blank"
+href="{{ . }}">
+<i class="fa fa-google-plus"
+title="googleplus icon"></i>
+</a>
+{{end}}
+
+
+{{ with .Site.Params.social.twitter }}
+<a class="twitter" target="_blank"
+href="{{ . }}">
+<i class="fa fa-twitter-square"
+title="twitter icon"></i>
+</a>
+{{end}}
+{{ with .Site.Params.social.linkedin }}
+<a class="linkedin" target="_blank"
+href="{{ . }}">
+<i class="fa fa-linkedin-square"
+title="linkedin icon"></i>
+</a>
+{{end}}
+
+{{ with .Site.Params.social.email }}
+<a class="email" target="_blank"
+href="mailto:{{ . }}">
+<i class="fa fa-envelope"
+title="email icon"></i>
+</a>
+{{end}}
+
+{{ with .Site.Params.social.instagram }}
+<a class="instagram" target="_blank"
+href="{{ . }}">
+<i class="fa fa-instagram"
+title="instagram icon"></i>
+</a>
+{{end}}
+
+{{ with .Site.Params.social.stackoverflow }}
+<a class="stackoverflow" target="_blank"
+href="{{ . }}">
+<i class="fa fa-stack-overflow"
+title="stackoverflow icon"></i>
+</a>
+{{end}}
+
+{{ with .Site.Params.social.github }}
+<a class="github" target="_blank"
+href="{{ . }}">
+<i class="fa fa-github"
+title="github icon"></i>
+</a>
+{{end}}
+
+
+{{ with .Site.Params.social.pinterest }}
+<a class="pinterest" target="_blank"
+href="{{ . }}">
+<i class="fa fa-pinterest"
+title="pinterest icon"></i>
+</a>
+{{end}}
+{{ end }}
+
+
+</div>
+</div>
+{{ end }}
+</div>
+</div>
+
+<section id="comments" class="comments">
+  {{ template "_internal/disqus.html" . }}
+
+  <!--<div class="comments-number">
+  <h2>
+  4 Comments			</h2>
+</div>-->
+
+<!--
+<ol class="comment-list">
+<li class="comment even thread-even depth-1" id="li-comment-54">
+<article id="comment-54" class="comment">
+<div class="comment-author">
+<img alt='' src='https://secure.gravatar.com/avatar/39f7e57ccd31847dc1a4bfb2ee1cd596?s=72&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/39f7e57ccd31847dc1a4bfb2ee1cd596?s=144&#038;d=mm&#038;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />				<div>
+<div class="author-name"><a href='http://commenter.url' rel='external nofollow' class='url'>Commenter 2799</a></div>
+<div class="comment-date">April 18</div>
+<a rel='nofollow' class='comment-reply-link' href='https://www.competethemes.com/tracks-live-demo/this-is-a-standard-post/?replytocom=54#respond' onclick='return addComment.moveForm( "comment-54", "54", "respond", "1969" )' aria-label='Reply to Commenter 2799'>Reply</a>									</div>
+</div>
+<div class="comment-content">
+<p>sque lacus. Etiam consectetur rutrum justo.</p>
+<p>Duis facilisis. Aliquam sagittis. Proin consectetur egestas metus. Curabitur pellentesque posuere arcu. Integer lorem nulla, congue a, rhoncus nec, vestibulum a, ante. Mauris lobortis iaculis erat. Maecenas faucibus tincidunt dui. Cras accumsan vestibulum ligula. Morbi dapibus, lorem nec euismod pharetra, augue risus congue augue, molestie eleifend lacus magna nec magna. Mo</p>
+</div>
+</article>
+</li>
+
+</ol>-->
+
+
+</section>
+</div>
+
+<!--</div>--> <!-- .main -->
+
+
+{{ end }}
