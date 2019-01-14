@@ -42,11 +42,9 @@ En Chile hay 20 Administradoras Generales de Fondos (AGF).
 
 Te ofrecen decenas de fondos mutuos sin decirte cuál es mejor para ti.
 
-Algunos con montos mínimos de inversión.
-
-Comisiones más altas a no ser que inviertas más de $100.000.000.
-
-Y tendrás que leer la letra chica para descubrir que hay costos por rescate.
+* Algunos con montos mínimos de inversión.
+* Comisiones más altas a no ser que inviertas más de $100.000.000.
+* Y tendrás que leer la letra chica para descubrir que hay costos por rescate.
 
 Todo esto usando sistemas arcaicos.
 
