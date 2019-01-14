@@ -8,9 +8,11 @@ title = "¿En serio vas a invertir a la antigua?"
 +++
 <style>
 
-p { margin:4rem 0px; text-align:justify; 
+p { margin:4rem 0px; text-align:justify; }
 
-}
+ul { margin:4rem 0px; text-align:justify; color:black; }
+
+ol { margin:4rem 0px; text-align:justify; color:black; }
 
 .footer-big__overlap { padding-bottom:0px; }
 
@@ -44,9 +46,7 @@ En Chile hay 20 Administradoras Generales de Fondos (AGF).
 
 Te ofrecen decenas de fondos mutuos sin decirte cuál es mejor para ti.
 
-<p class="p">
-
-<ul style="color:black;">
+<ul>
 
 <li>Algunos con **montos mínimos de inversión.**</li>
 
@@ -55,8 +55,6 @@ Te ofrecen decenas de fondos mutuos sin decirte cuál es mejor para ti.
 <li>Y tendrás que leer la letra chica para descubrir que hay **costos por rescate.**</li>
 
 </ul>
-
-</p>
 
 Todo esto usando sistemas arcaicos.
 
@@ -69,8 +67,6 @@ Cómo si internet se hubiese inventado ayer.
 ## Invertir tiene que ser fácil.
 
 **¿Qué significa fácil?**
-
-<p>
 
 <ol>
 
@@ -88,8 +84,6 @@ Cómo si internet se hubiese inventado ayer.
 
 Si, en serio. Si quieres complicarte mejor invierte en bienes raíces. Fintual funciona distinto.
 
-<p>
-
 <ul>
 
 <li>**100% online**</li>
@@ -99,8 +93,6 @@ Si, en serio. Si quieres complicarte mejor invierte en bienes raíces. Fintual f
 <li>**1,19% de comisión anual sobre el monto que inviertas (sin costos ocultos o comisiones fantasma).**</li>
 
 </ul>
-
-</p>
 
 Programamos los algoritmos (oh, algoritmos) que optimizan y buscan la frontera eficiente de riesgo-retorno para ofrecerte automáticamente una cartera que se ajuste a tu perfil.
 
@@ -130,16 +122,10 @@ Administramos $ 4.897.104.706 de más de 1600 clientes.
 
 Al igual que las otras AGF, nos regula la Comisión para el Mercado Financiero de Chile. Puedes ver nuestro registro en el
 
-<p>
+<a href="http://www.cmfchile.cl/institucional/mercados/entidad.php?auth=&send=&mercado=V&rut=76810627&grupo=&tipoentidad=RGAGF&vig=VI&row=AAAwy2ACTAAAB4AAAP&control=svs&pestania=1" target="_blank">sitio web de la CMF.</a>
 
-<a href="http://www.cmfchile.cl/institucional/mercados/entidad.php?auth=&send=&mercado=V&rut=76810627&grupo=&tipoentidad=RGAGF&vig=VI&row=AAAwy2ACTAAAB4AAAP&control=svs&pestania=1" target="blank">sitio web de la CMF.</a>
+También puedes ver el artículo de 
 
-</p>
+<a href="http://www.elmercurio.com/Inversiones/Noticias/Analisis/2019/01/08/Ranking-Las-AGF-que-mas-crecieron-en-2018.aspx" target="_blank">El Mercurio Inversiones</a>
 
-También puedes ver el artículo de [El Mercurio Inversiones](http://www.elmercurio.com/Inversiones/Noticias/Analisis/2019/01/08/Ranking-Las-AGF-que-mas-crecieron-en-2018.aspx) que muestra que somos la segunda AGF de mayor crecimiento en el último mes.
-
-<div class="image-wrapper">
-
-<img src="/uploads/inviertepalta.png" alt="inviertepalta">
-
-</div>
+que muestra que somos la segunda AGF de mayor crecimiento en el último mes.
