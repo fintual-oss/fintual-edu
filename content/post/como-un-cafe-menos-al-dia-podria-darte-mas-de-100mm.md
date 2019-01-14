@@ -7,35 +7,6 @@ title = "Cómo un café menos al día podría darte más de $100.000.000"
 aliases = ["/como-un-cafe-menos-al-dia-podria-darte-mas-de-100mm/"]
 
 +++
-<style>
-
-p { margin:4rem 0px; text-align:justify; }
-
-.footer-big__overlap { padding-bottom:0px; }
-
-.image-wrapper {
-
-text-align: center;
-
-}
-
-.image-wrapper img {
-
-width: 60%; text-align: center; margin: 40px 0px;
-
-}
-
-@media (max-width: 768px)  {
-
-.image-wrapper img {
-
-width: 100%;
-
-}
-
-}
-
-</style>
 
 Parece una broma pero es cierto.
 

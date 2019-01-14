@@ -5,6 +5,7 @@ description = ""
 image = ""
 title = "¿Depósitos a plazo?"
 aliases = ["/depositos-a-plazo/"]
+categories =["inversión", "ahorro"]
 
 +++
 ![](https://cdn-images-1.medium.com/max/800/1*rpK6BEPYIaZ1vJijLxiHlw.png)
