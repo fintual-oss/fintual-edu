@@ -36,9 +36,9 @@ width: 100%;
 
 </style>
 
-_Hace poco entré a trabajar en Fintual (bueno, en realidad estoy haciendo mi práctica), prero no ha tenido que pasar mucho tiempo para darme cuenta de que la mayoría de las cosas aquí se hacen de una manera distinta a la tradicional._
+_Hace poco entré a trabajar en Fintual (bueno, en realidad estoy haciendo mi práctica), pero no ha tenido que pasar mucho tiempo para darme cuenta de que la mayoría de las cosas aquí que se hacen aquí son hechas de una manera muy distinta a la tradicional._
 
-**_Un ejemplo concreto es el servicio al cliente._** _Lo sé, puede que esa frase te traiga malos recuerdos, pero aquí va una historia sobre cómo tratan esta área en Fintual._ (una _pista: es algo distinto)._
+**_Un ejemplo concreto es el servicio al cliente._** _Lo sé, puede que esa frase te traiga malos recuerdos, pero aquí va una historia sobre cómo tratan esta área en Fintual._ (no, no hay un call center).
 
 Parte de ser uno más del equipo es estar atento al chat de la página.
 
@@ -48,15 +48,13 @@ Parte de ser uno más del equipo es estar atento al chat de la página.
 
 </div>
 
-Esa pelotita azul que ves cuando entras a la página es un acceso directo para que resuelvas tus dudas. Ya que en general, aunque la gente que llega a la página _algo_ sabe de inversiones, la gracia de Fintual es que puedas invertir sin saber nada al respecto.
+Esa pelotita azul que ves cuando entras a la página es un acceso directo para que resuelvas tus dudas. Ya que la gracia de Fintual es que puedas invertir sin saber nada al respecto.
 
-Así que una de las primeras cosas que me enseñaron fue cómo atender las dudas del chat. Me dijeron que había que estar mirando que no hubieran mensajes sin responder y cerrar la conversación **solamente** cuando estuviera seguro de haber resuelto todas las preguntas.
+Así que una de las primeras cosas que me enseñaron fue cómo atender las dudas del chat. Me dijeron que había que estar mirando que no hubieran mensajes sin responder y cerrar la conversación **solamente** cuando estuviera seguro de haber resuelto todas las preguntas.Entonces, partí configurando las notificaciones en mi celular y luego me dediqué a _espiar_ las conversaciones del resto para aprender el tono que usaban para responderle a la gente.
 
-Así que partí configurando las notificaciones en mi celular y luego me dediqué a _espiar_ las conversaciones del resto del equipo para aprender más o menos el tono que usaban para responderle a la gente.
+Ha pasado como un mes y de las **más de cien preguntas** que han llegado en este tiempo, he logrado responder un asombroso total de...
 
-Ha pasado como un mes y de las **más de cien preguntas** que han llegado en este tiempo, he logrado responder un asombroso total de... 
-
-**6 chats.** 🙃
+6 chats. 🙃
 
 Antes de que pienses que soy un flojo, déjame mostrarte algo:
 
@@ -68,23 +66,19 @@ Antes de que pienses que soy un flojo, déjame mostrarte algo:
 
 </div>
 
-Esta pequeña frase, que no llama mucho la atención porque en otras páginas suele ser mentira, **aquí se cumple en serio.**
+Esta frase, que no llama mucho la atención porque en otras páginas suele ser mentira, **aquí se cumple en serio.**
 
 ¡Simplemente no alcanzo a contestar!
 
 Imagínenselo.
 
-Llega una pregunta.
-
-Todos en la oficina reciben la notificación.
-
-Empiezo a redactar mi respuesta, voy al chat... y ya hay alguien que respondió. 
+Llega una pregunta, todos en la oficina reciben la notificación, empiezo a redactar mi respuesta, voy al chat... y ya hay alguien que respondió.
 
 Todo _en cuestión de minutos._
 
 Quizás no suene tan increíble, pero de verdad son pocas las páginas que entregan un servicio así.
 
-Muchas menos si te vas al rubro específico de Fintual. Yo al menos no tenía idea cómo funcionaba este tema en el resto de las Administradoras de Fondos, así que fui a indagar...
+Muchas menos si te vas al rubro específico de Fintual. Yo al menos no tenía idea cómo funcionaba este tema en otras Administradoras de Fondos, así que fui a indagar...
 
 <div class="image-wrapper">
 
@@ -92,9 +86,11 @@ Muchas menos si te vas al rubro específico de Fintual. Yo al menos no tenía id
 
 </div>
 
-Imagina que tienes ganas de invertir. Le preguntas a tus amigos dónde invierten ellos y te dan el nombre de una Administradora General de Fondos. La googleas, te informas, pero a medio camino, te surgen dudas al respecto... ¿Cuánto cobran? ¿Cuánto es el mínimo que puedo invertir? ¿Me penalizan si saco la plata? 
+Imagina que tienes ganas de invertir. 
 
-Entonces empiezas a buscar cuál, **de los cientos de botónes que tienen estos sitios**, te pondrán en contacto con alguien para poder que responder a tu pregunta_._ 
+Le preguntas a tus amigos dónde invierten ellos y te dan el nombre de una Administradora General de Fondos. La _googleas_, lees cosas en su páginas web, pero a medio camino, te surgen dudas al respecto... ¿Cuánto cobran? ¿Cuánto es el mínimo que puedo invertir? ¿Me penalizan si saco la plata?
+
+Entonces empiezas a buscar cuál, **de los cientos de botónes que tienen estos sitios**, lograrán ponerte en contacto con alguien para que responda tus preguntas.
 
 Y habrán 3 posibilidades:
 
@@ -120,13 +116,13 @@ Este último se veía un poco más eficiente así que lo probé..
 
 </div>
 
-Pero resultó ser otro Call Center (camuflado).  
+Pero resultó ser otro Call Center (camuflado).
 
 El punto es que una vez más me quedó claro por qué dicen que los chilenos somos tan malos para atender clientes.
 
-Hay que tener dos dedos de frente para darse cuenta de que cuándo la gente tiene preguntas, lo que buscan es una forma **fácil** de obtener respuestas **rápidas y claras.** 
+Hay que tener dos dedos de frente para darse cuenta de que cuándo la gente tiene preguntas, lo que buscan es una forma **fácil** de obtener respuestas **rápidas y claras.**
 
-No me cabe la menor duda de que algún día, las empresas podrán automatizar esta tarea con los famosos bots. Pero hasta entonces... qué mejor a que hayan personas reales pendientes para atenderte :)
+No me cabe la menor duda de que algún día, las empresas podrán automatizar esta tarea con los famosos bots. Pero hasta entonces... qué mejor que hayan **personas reales** pendientes para atenderte :)
 
 <div class="image-wrapper">
 
