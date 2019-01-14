@@ -8,7 +8,9 @@ title = "¿En serio vas a invertir a la antigua?"
 +++
 <style>
 
-p { margin:4rem 0px; text-align:justify; }
+p { margin:4rem 0px; text-align:justify; 
+
+}
 
 .footer-big__overlap { padding-bottom:0px; }
 
@@ -42,7 +44,7 @@ En Chile hay 20 Administradoras Generales de Fondos (AGF).
 
 Te ofrecen decenas de fondos mutuos sin decirte cuál es mejor para ti.
 
-<p style="color:black;">
+<p class="p">
 
 <ul style="color:black;">
 
