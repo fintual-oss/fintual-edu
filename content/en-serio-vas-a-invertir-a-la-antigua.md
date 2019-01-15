@@ -95,7 +95,7 @@ Si tienes alguna pregunta, solo abre el chat (la pelotita azul que estará abajo
 
 <p style="text-align:center">
 
-<a class="simulator-page__button btn btn--secondary"href="https://chromedino.com" target="_blank">¡No! ¡Yo quiero invertir con dinosaurios!🦖</a>
+<a class="dinosaurio simulator-page__button btn btn--secondary"href="https://chromedino.com" target="_blank">¡No! ¡Yo quiero invertir con dinosaurios!🦖</a>
 
 </p>
 
