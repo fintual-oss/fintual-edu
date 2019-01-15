@@ -109,4 +109,4 @@ Administramos $ 4.897.104.706 de más de 1600 clientes.
 
 Al igual que las otras AGF, nos regula la Comisión para el Mercado Financiero de Chile. Puedes ver nuestro registro en el <a href="http://www.cmfchile.cl/institucional/mercados/entidad.php?auth=&send=&mercado=V&rut=76810627&grupo=&tipoentidad=RGAGF&vig=VI&row=AAAwy2ACTAAAB4AAAP&control=svs&pestania=1" target="_blank">sitio web de la CMF.</a>
 
-También puedes ver el artículo de El Mercurio Inversiones que muestra que somos la segunda AGF de mayor crecimiento en el último mes.
+También puedes ver el artículo de <a href="http://www.elmercurio.com/Inversiones/Noticias/Analisis/2018/05/23/Rankig-Las-AGF-mas-caras-y-mas-baratas-de-abril.aspx" target="_blank">El Mercurio Inversiones</a> que muestra que somos la segunda AGF de mayor crecimiento en el último mes.
