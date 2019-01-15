@@ -38,9 +38,9 @@ width: 100%;
 
 Hace poco entré a trabajar en Fintual (bueno, en realidad estoy haciendo mi práctica), y rápidamente me di cuenta de que la mayoría de las cosas que se hacen aquí son hechas de una manera muy distinta a la tradicional.
 
-**Un ejemplo es el servicio al cliente.** Lo sé, puede que esa frase te traiga malos recuerdos, pero aquí va una historia sobre cómo tratan esta área en Fintual. (No, no hay un call center).
+**Un ejemplo es el servicio al cliente.** Lo sé, puede que "servicio al cliente" te traiga malos recuerdos, pero aquí va una historia sobre cómo tratan esta área en Fintual. (No, no hay un call center).
 
-Parte de ser uno más del equipo es estar atento al chat de la página.
+Esa pelotita azul que ves cuando entras a la página es un acceso directo para que resuelvas tus dudas. Asumimos que vas a tener dudas, porque una de las gracias de Fintual es que puedes invertir sin saber mucho del tema.
 
 <div class="image-wrapper">
 
@@ -48,7 +48,7 @@ Parte de ser uno más del equipo es estar atento al chat de la página.
 
 </div>
 
-Esa pelotita azul que ves cuando entras a la página es un acceso directo para que resuelvas tus dudas. Asumimos que vas a tener dudas, porque una de las gracias de Fintual es que puedes invertir sin saber mucho del tema.
+**Parte de ser uno más del equipo es estar atento al chat de la página**. De hecho, cada persona tiene un horario asignado para responder, aunque es muy común que algún ansioso se adelante si ve que la persona asignada se está demorando un poco en responder.
 
 Así que una de las primeras cosas que me enseñaron fue cómo atender las dudas del chat. Me dijeron que había que estar mirando que no hubieran mensajes sin responder y **cerrar la conversación solo cuando estuviera seguro de haber resuelto todas las preguntas.** Entonces, partí configurando las notificaciones en mi celular y luego me dediqué a _espiar_ las conversaciones del resto para aprender el tono que usaban para responderle a la gente.
 
@@ -74,7 +74,7 @@ Llega una pregunta, todos en la oficina reciben la notificación, empiezo a reda
 
 _Todo en cuestión de segundos._
 
-Quizás no suene tan increíble, pero de verdad son pocas las páginas que entregan un servicio así.
+Quizás no suene tan asombroso, pero de verdad son pocas las páginas que entregan un servicio así.
 
 Muchas menos si te vas al rubro de Fintual. Yo al menos no tenía idea cómo funcionaba este tema en otras Administradoras de Fondos, así que fui a indagar...
 
@@ -114,7 +114,7 @@ Este último se veía un poco más eficiente así que lo probé.
 
 </div>
 
-Pero resultó ser otro Call Center (camuflado).
+Pero resultó ser otro call center camuflado.
 
 Una vez más me quedó claro por qué dicen que los chilenos somos tan malos para atender clientes.
 
@@ -130,4 +130,4 @@ No me cabe la menor duda de que algún día las empresas podrán automatizar est
 
 ¿Arma de doble filo?
 
-Yo prefiero verlo simplemente como una manera distinta (y mejor) de hacer las cosas.
+Yo prefiero verlo simplemente como **una manera distinta (y mejor) de hacer las cosas.** Además, muchas de las mejoras que ha implementado Fintual han surgido de sugerencias que los usuarios manifiestan por el chat. 
