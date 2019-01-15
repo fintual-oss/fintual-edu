@@ -49,6 +49,10 @@ Esa pelotita azul que ves cuando entras a la página es un acceso directo para q
 
 **Parte de ser uno más del equipo es estar atento al chat de la página**. De hecho, cada persona tiene un horario asignado para responder, aunque es muy común que algún ansioso se adelante si ve que la persona asignada se está demorando un poco en responder.
 
+De 9 a 10 el que tiene que estar atento es Sebastián, nuestro oficial de compliance (que antes trabajaba de gerente en otra AGF).
+
+Y de 10 a 11 es Juan Fran (que antes era programador en Google).
+
 Así que una de las primeras cosas que me enseñaron fue cómo atender las dudas del chat. Me dijeron que había que estar mirando que no hubieran mensajes sin responder y **cerrar la conversación solo cuando estuviera seguro de haber resuelto todas las preguntas.** Entonces, partí configurando las notificaciones en mi celular y luego me dediqué a _espiar_ las conversaciones del resto para aprender el tono que usaban para responderle a la gente.
 
 Ha pasado como un mes y de las **más de cien preguntas** que han llegado en este tiempo, he logrado responder un asombroso total de...
