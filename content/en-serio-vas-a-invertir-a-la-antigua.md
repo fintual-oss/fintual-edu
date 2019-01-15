@@ -37,7 +37,9 @@ width: 100%;
 
 .dinosaurio {
 
-font-size: 10px;
+background-color: black;
+
+font-size: 12px;
 
 }
 
@@ -67,7 +69,7 @@ Como si internet se hubiese inventado ayer.
 
 ¿En serio?
 
-Sí, en serio. 
+Sí, en serio.
 
 Fintual funciona distinto al resto de las AGF en Chile:
 
@@ -83,7 +85,7 @@ Si te animas, puedes empezar apretando el botón de abajo.
 
 Te recomendaremos una estrategia de inversión adecuada a tu tolerancia al riesgo.
 
-Podrás **simular tu inversión** con distintos plazos y elegir la estrategia que más te acomode. 
+Podrás **simular tu inversión** con distintos plazos y elegir la estrategia que más te acomode.
 
 Si tienes alguna pregunta, solo abre el chat (la pelotita azul que estará abajo a la derecha) y escribe lo que quieras. **Alguien del equipo te responderá en minutos 😉.**
 
@@ -95,7 +97,7 @@ Si tienes alguna pregunta, solo abre el chat (la pelotita azul que estará abajo
 
 <p style="text-align:center">
 
-<a class="dinosaurio simulator-page__button btn btn--secondary"href="https://chromedino.com" target="_blank">¡No! ¡Yo quiero invertir con dinosaurios!🦖</a>
+<a class="dinosaurio simulator-page__button btn btn--secondary"href="https://chromedino.com" target="_blank">¡Quiero invertir con dinosaurios!🦖</a>
 
 </p>
 
