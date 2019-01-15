@@ -81,13 +81,13 @@ Si tienes alguna pregunta, solo abre el chat (la pelotita azul que estará abajo
 
 <p style="text-align:center">
 
-<a class="simulator-page__button btn btn--secondary"href="https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=awareness&utm_content=hagamos+esto+palta-159#empezar">Empezar</a>
+<a class="simulator-page__button btn btn--secondary"href="https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=conversion&utm_content=dinosaurios-162#empezar">Empezar</a>
 
 </p>
 
 <p style="text-align:center">
 
-<a class="simulator-page__button btn btn--secondary"href="https://www.google.com/">¡No! ¡Quiero volver para invertir con los dinosaurios!🦖</a>
+<a class="simulator-page__button btn btn--secondary"href="https://chromedino.com" target="_blank">¡No! ¡Yo quiero invertir con dinosaurios!🦖</a>
 
 </p>
 
