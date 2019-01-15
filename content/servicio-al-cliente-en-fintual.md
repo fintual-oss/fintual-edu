@@ -36,9 +36,9 @@ width: 100%;
 
 </style>
 
-_Hace poco entré a trabajar en Fintual (bueno, en realidad estoy haciendo mi práctica), pero no ha tenido que pasar mucho tiempo para darme cuenta de que la mayoría de las cosas aquí que se hacen aquí son hechas de una manera muy distinta a la tradicional._
+Hace poco entré a trabajar en Fintual (bueno, en realidad estoy haciendo mi práctica), pero no ha tenido que pasar mucho tiempo para darme cuenta de que la mayoría de las cosas aquí que se hacen aquí son hechas de una manera muy distinta a la tradicional.
 
-**_Un ejemplo concreto es el servicio al cliente._** _Lo sé, puede que esa frase te traiga malos recuerdos, pero aquí va una historia sobre cómo tratan esta área en Fintual._ (No, no hay un call center).
+**Un ejemplo concreto es el servicio al cliente.** Lo sé, puede que esa frase te traiga malos recuerdos, pero aquí va una historia sobre cómo tratan esta área en Fintual. (No, no hay un call center).
 
 Parte de ser uno más del equipo es estar atento al chat de la página.
 
