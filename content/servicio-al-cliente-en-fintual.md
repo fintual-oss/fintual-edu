@@ -124,10 +124,10 @@ No me cabe la menor duda de que algún día las empresas podrán automatizar est
 
 <div class="image-wrapper">
 
-<img src="/uploads/saludo.png" alt="chat-fintual">
+<img src="/uploads/chat-francesca.png" alt="chat-fintual">
 
 </div>
 
 ¿Arma de doble filo?
 
-Yo prefiero verlo simplemente como **una manera distinta (y mejor) de hacer las cosas.** Además, muchas de las mejoras que ha implementado Fintual han surgido de sugerencias que los usuarios manifiestan por el chat. 
+Yo prefiero verlo simplemente como **una manera distinta (y mejor) de hacer las cosas.** Además, muchas de las mejoras que ha implementado Fintual han surgido de sugerencias que los usuarios manifiestan por el chat.
