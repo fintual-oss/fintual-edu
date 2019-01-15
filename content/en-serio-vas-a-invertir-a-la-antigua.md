@@ -37,7 +37,7 @@ width: 100%;
 
 .dinosaurio {
 
-font-size: 12px;
+font-size: 10px;
 
 }
 
