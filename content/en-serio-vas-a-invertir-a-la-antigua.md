@@ -37,7 +37,7 @@ width: 100%;
 
 En Chile hay 20 Administradoras Generales de Fondos (AGF).
 
-## 19 de ellas te piden:
+## 19 de ellas te exigen:
 
 **enviar correos, llamar _call centers_, contactarte con ejecutivos, ir a sucursales, hacer trámites, firmar papeles...**
 
