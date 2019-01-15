@@ -77,7 +77,7 @@ Fintual funciona distinto:
 
 3\. **1,19% de comisión anual sobre el monto que inviertas (sin costos ocultos o comisiones fantasma).**
 
-Programamos los algoritmos (oh, algoritmos) que optimizan y buscan la frontera eficiente de riesgo-retorno para ofrecerte automáticamente una cartera que se ajuste a tu perfil.
+Programamos algoritmos (oh, algoritmos) que optimizan y buscan la frontera eficiente de riesgo-retorno para ofrecerte automáticamente una cartera que se ajuste a tu perfil.
 
 Si te animas, puedes empezar apretando el botón de abajo.
 
