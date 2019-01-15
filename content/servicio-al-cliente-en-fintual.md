@@ -36,9 +36,9 @@ width: 100%;
 
 </style>
 
-Hace poco entré a trabajar en Fintual (bueno, en realidad estoy haciendo mi práctica), pero no ha tenido que pasar mucho tiempo para darme cuenta de que la mayoría de las cosas aquí que se hacen aquí son hechas de una manera muy distinta a la tradicional.
+Hace poco entré a trabajar en Fintual (bueno, en realidad estoy haciendo mi práctica), y rápidamente me di cuenta de que la mayoría de las cosas que se hacen aquí son hechas de una manera muy distinta a la tradicional.
 
-**Un ejemplo concreto es el servicio al cliente.** Lo sé, puede que esa frase te traiga malos recuerdos, pero aquí va una historia sobre cómo tratan esta área en Fintual. (No, no hay un call center).
+**Un ejemplo es el servicio al cliente.** Lo sé, puede que esa frase te traiga malos recuerdos, pero aquí va una historia sobre cómo tratan esta área en Fintual. (No, no hay un call center).
 
 Parte de ser uno más del equipo es estar atento al chat de la página.
 
@@ -66,19 +66,17 @@ Antes de que pienses que soy un flojo, déjame mostrarte algo:
 
 </div>
 
-Esta frase, que no llama mucho la atención porque en otras páginas suele ser mentira, **aquí se cumple en serio.**
+Esta frase, que no llama mucho la atención porque suele ser mentira, **aquí se cumple.**
 
-¡Simplemente no alcanzo a contestar!
-
-Imagínenselo.
+¡No alcanzo a contestar!
 
 Llega una pregunta, todos en la oficina reciben la notificación, empiezo a redactar mi respuesta, voy al chat... y ya hay alguien que respondió.
 
-Todo _en cuestión de segundos._
+_Todo en cuestión de segundos._
 
 Quizás no suene tan increíble, pero de verdad son pocas las páginas que entregan un servicio así.
 
-Muchas menos si te vas al rubro específico de Fintual. Yo al menos no tenía idea cómo funcionaba este tema en otras Administradoras de Fondos, así que fui a indagar...
+Muchas menos si te vas al rubro de Fintual. Yo al menos no tenía idea cómo funcionaba este tema en otras Administradoras de Fondos, así que fui a indagar...
 
 <div class="image-wrapper">
 
