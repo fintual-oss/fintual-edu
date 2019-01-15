@@ -95,8 +95,6 @@ Si tienes alguna pregunta, solo abre el chat (la pelotita azul que estará abajo
 
 </p>
 
-o
-
 <p style="text-align:center">
 
 <a class="simulator-page__button btn btn--secondary"href="https://www.google.com/">¡No! ¡Quiero volver para invertir con los dinosaurios!🦖</a>
