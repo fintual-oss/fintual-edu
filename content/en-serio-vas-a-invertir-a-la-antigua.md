@@ -59,7 +59,7 @@ Como si internet se hubiese inventado ayer.
 
 Sí, en serio. 
 
-Fintual funciona distinto:
+Fintual funciona distinto al resto de las AGF en Chile:
 
 1\. **100% online**
 
@@ -67,17 +67,15 @@ Fintual funciona distinto:
 
 3\. **1,19% de comisión anual sobre el monto que inviertas (sin costos ocultos o comisiones fantasma).**
 
-Programamos algoritmos (oh, algoritmos) que optimizan y buscan la frontera eficiente de riesgo-retorno para ofrecerte automáticamente una cartera que se ajuste a tu perfil.
-
 Si te animas, puedes empezar apretando el botón de abajo.
 
 **No importa si no sabes nada de inversiones.**
 
 Te recomendaremos una estrategia de inversión adecuada a tu tolerancia al riesgo.
 
-Podrás **simular tu inversión** con distintos plazos y proyectar tu rentabilidad en distintos escenarios.
+Podrás **simular tu inversión** con distintos plazos y elegir la estrategia que más te acomode. 
 
-Si tienes alguna pregunta, solo abre el chat (la pelotita azul que estará abajo a la derecha) y escribe lo que quieras. **Alguien del equipo te responderá en minutos.**
+Si tienes alguna pregunta, solo abre el chat (la pelotita azul que estará abajo a la derecha) y escribe lo que quieras. **Alguien del equipo te responderá en minutos 😉.**
 
 <p style="text-align:center">
 
@@ -93,8 +91,8 @@ Si tienes alguna pregunta, solo abre el chat (la pelotita azul que estará abajo
 
 **¿Es Fintual seguro?**
 
-Administramos $ 4.897.104.706 de más de 1600 clientes.
+Acutalmente administramos $ 4.897.104.706 de más de 1600 clientes.
 
-Al igual que las otras AGF, nos regula la Comisión para el Mercado Financiero de Chile. Puedes ver nuestro registro en el <a href="http://www.cmfchile.cl/institucional/mercados/entidad.php?auth=&send=&mercado=V&rut=76810627&grupo=&tipoentidad=RGAGF&vig=VI&row=AAAwy2ACTAAAB4AAAP&control=svs&pestania=1" target="_blank">sitio web de la CMF.</a>
+Al igual que todas las AGF, nos regula la Comisión para el Mercado Financiero de Chile. Puedes ver nuestro registro en el <a href="http://www.cmfchile.cl/institucional/mercados/entidad.php?auth=&send=&mercado=V&rut=76810627&grupo=&tipoentidad=RGAGF&vig=VI&row=AAAwy2ACTAAAB4AAAP&control=svs&pestania=1" target="_blank">sitio web de la CMF.</a>
 
-También puedes ver el artículo de <a href="http://www.elmercurio.com/Inversiones/Noticias/Analisis/2018/05/23/Rankig-Las-AGF-mas-caras-y-mas-baratas-de-abril.aspx" target="_blank">El Mercurio Inversiones</a> que muestra que somos la segunda AGF de mayor crecimiento en el último mes.
+También puedes leer el artículo de <a href="http://www.elmercurio.com/Inversiones/Noticias/Analisis/2019/01/08/Ranking-Las-AGF-que-mas-crecieron-en-2018.aspx" target="_blank">El Mercurio Inversiones</a> que muestra que somos la segunda AGF de mayor crecimiento en el último mes.
