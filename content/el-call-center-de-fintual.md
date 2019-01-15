@@ -35,11 +35,11 @@ width: 100%;
 
 </style>
 
-Hace poco entré a trabajar en Fintual (bueno, en realidad estoy haciendo mi práctica), y rápidamente me di cuenta de que la mayoría de las cosas que se hacen aquí son hechas de una manera muy distinta a la tradicional.
+Hace poco entré a trabajar en Fintual (bueno, en realidad estoy haciendo mi práctica), y rápidamente me di cuenta de que la mayoría de las cosas aquí se hacen de una manera muy distinta a la tradicional.
 
-**Un ejemplo es el servicio al cliente.** Lo sé, puede que "servicio al cliente" te traiga malos recuerdos, pero aquí va una historia sobre cómo tratan esta área en Fintual. (No, no hay un call center).
+**Un ejemplo es el servicio al cliente.** Lo sé, puede que "servicio al cliente" te traiga malos recuerdos, pero aquí va una historia sobre cómo tratan esta área en Fintual. (Y no, no hay un call center).
 
-Esa pelotita azul que ves cuando entras a la página es un acceso directo para que resuelvas tus dudas. Asumimos que vas a tener dudas, porque una de las gracias de Fintual es que puedes invertir sin saber mucho del tema.
+Esa pelotita azul que ves cuando entras a la página es un acceso directo para que resuelvas tus dudas. Asumimos que vas a tener dudas, porque una de las gracias de Fintual es que **puedes invertir sin saber mucho del tema.**
 
 <div class="image-wrapper">
 
@@ -47,17 +47,17 @@ Esa pelotita azul que ves cuando entras a la página es un acceso directo para q
 
 </div>
 
-**Parte de ser uno más del equipo es estar atento al chat de la página**. De hecho, cada persona tiene un horario asignado para responder, aunque es muy común que algún ansioso se adelante si ve que la persona asignada se está demorando un poco en responder.
+**Parte de ser uno más del equipo es estar atento al chat de la página**. De hecho, cada persona tiene un horario asignado para responder, aunque es muy común que algún ansioso se adelante si ve que la persona a la que le toca se está demorando un poco en responder.
 
-De 9 a 10 el que tiene que estar atento es Sebastián, nuestro oficial de compliance (que antes trabajaba de gerente en otra AGF).
+Por ejemplo, de 9 a 10 el que tiene que estar atento es Sebastián, nuestro Oficial de Cumplimiento o Sheriff (que antes trabajaba de gerente en otra AGF). Juan Fra, que antes era programador en Google, responde entre 16 y 17 y así.
 
-Y de 10 a 11 es Juan Fran (que antes era programador en Google).
+Así que una de las primeras cosas que me enseñaron fue cómo atender las dudas del chat. Me dijeron que había que estar mirando que no hubieran mensajes sin responder y **cerrar la conversación solo cuando estuviera seguro de haber resuelto todas las preguntas.** 
 
-Así que una de las primeras cosas que me enseñaron fue cómo atender las dudas del chat. Me dijeron que había que estar mirando que no hubieran mensajes sin responder y **cerrar la conversación solo cuando estuviera seguro de haber resuelto todas las preguntas.** Entonces, partí configurando las notificaciones en mi celular y luego me dediqué a _espiar_ las conversaciones del resto para aprender el tono que usaban para responderle a la gente.
+Entonces, partí configurando las notificaciones en mi celular y luego me dediqué a _espiar_ las conversaciones del resto para aprender el tono que usaban para responderle a la gente.
 
 Ha pasado como un mes y de las **más de cien preguntas** que han llegado en este tiempo, he logrado responder un asombroso total de...
 
-6 chats 🙃
+2 chats 🙃
 
 Antes de que pienses que soy un flojo, déjame mostrarte algo:
 
@@ -89,9 +89,9 @@ Muchas menos si te vas al rubro de Fintual. Yo al menos no tenía idea cómo fun
 
 Imagina que tienes ganas de invertir.
 
-Le preguntas a tus amigos dónde invierten ellos y te dan el nombre de una Administradora General de Fondos. La _googleas_, lees cosas en su páginas web, pero a medio camino, te surgen dudas al respecto... ¿Cuánto cobran? ¿Cuánto es el mínimo que puedo invertir? ¿Me penalizan si saco la plata?
+Le preguntas a tus amigos dónde invierten ellos y te dan el nombre de una Administradora General de Fondos. La _googleas_, lees cosas en su páginas web, pero a medio camino, te surgen dudas al respecto... ¿Cuánto cobran? ¿Cuánto es el mínimo que puedo invertir? ¿Me cobran extra si saco la plata?
 
-Entonces empiezas a buscar cuál, **de los cientos de botónes que tienen estos sitios**, lograrán ponerte en contacto con alguien para que responda tus preguntas.
+Entonces empiezas a buscar cuál, **de los cientos de botones que tienen estos sitios**, lograrán ponerte en contacto con alguien para que responda tus preguntas.
 
 Y habrán 3 posibilidades:
 
@@ -119,11 +119,9 @@ Este último se veía un poco más eficiente así que lo probé.
 
 Pero resultó ser otro call center camuflado.
 
-Una vez más me quedó claro por qué dicen que los chilenos somos tan malos para atender clientes.
+Es evidente que, cuando la gente tiene preguntas, lo que buscan es una forma **fácil** de obtener respuestas **rápidas y claras.**
 
-Hay que tener dos dedos de frente para darse cuenta de que cuando la gente tiene preguntas, lo que buscan es una forma **fácil** de obtener respuestas **rápidas y claras.**
-
-No me cabe la menor duda de que algún día las empresas podrán automatizar esta tarea con los famosos bots. Pero hasta entonces... qué mejor que hayan **personas reales** pendientes para atenderte :)
+No me cabe la menor duda de que algún día las empresas podrán automatizar esta tarea con los famosos bots. Pero hasta entonces... Qué mejor que hayan **personas reales** pendientes de atenderte :)
 
 <div class="image-wrapper">
 
@@ -133,4 +131,4 @@ No me cabe la menor duda de que algún día las empresas podrán automatizar est
 
 ¿Arma de doble filo?
 
-Yo prefiero verlo simplemente como **una manera distinta (y mejor) de hacer las cosas.** Además, muchas de las mejoras que ha implementado Fintual han surgido de sugerencias que los usuarios manifiestan por el chat.
+Yo prefiero verlo simplemente como **una manera distinta (y mejor) de hacer las cosas.** Muchas de las mejoras que ha implementado Fintual han surgido de sugerencias que los usuarios manifiestan por el chat.
