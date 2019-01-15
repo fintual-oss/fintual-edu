@@ -51,7 +51,7 @@ Todo esto usando sistemas arcaicos...
 
 Si tienes alguna duda, prepárate para **enviar correos, llamar _call centers_, contactarte con ejecutivos, ir a sucursales, hacer trámites, firmar papeles...**
 
-Cómo si internet se hubiese inventado ayer.
+Como si internet se hubiese inventado ayer.
 
 ¿Por qué lo complican tanto?
 
@@ -67,7 +67,7 @@ Cómo si internet se hubiese inventado ayer.
 
 ¿En serio?
 
-Si, en serio. Si quieres complicarte mejor invierte en bienes raíces.
+Sí, en serio. Si quieres complicarte mejor invierte en bienes raíces.
 
 Fintual funciona distinto:
 
