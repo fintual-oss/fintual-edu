@@ -33,6 +33,16 @@ width: 100%;
 
 }
 
+@media (max-width: 640px) {
+
+.dinosaurio {
+
+font-size: 15px;
+
+}
+
+}
+
 </style>
 
 En Chile hay 20 Administradoras Generales de Fondos (AGF).
