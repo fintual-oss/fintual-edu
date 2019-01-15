@@ -1,7 +1,6 @@
 +++
 date = "2018-07-08T16:37:29+00:00"
 description = "Invertir tiene que ser fácil."
-draft = true
 image = ""
 title = "¿En serio vas a invertir a la antigua?"
 
@@ -38,25 +37,15 @@ width: 100%;
 
 En Chile hay 20 Administradoras Generales de Fondos (AGF).
 
-## 19 de ellas hacen lo mismo.
+## 19 de ellas te piden:
 
-Te ofrecen decenas de fondos mutuos sin decirte cuál es mejor para ti.
-
-Algunos con **montos mínimos de inversión.**
-
-Otros con **comisiones más altas** a no ser de que inviertas más de $100.000.000.
-
-Y tendrás que leer la letra chica para descubrir que hay **costos por rescate.**
-
-Todo esto usando sistemas arcaicos...
-
-Si tienes alguna duda, prepárate para **enviar correos, llamar _call centers_, contactarte con ejecutivos, ir a sucursales, hacer trámites, firmar papeles...**
+**enviar correos, llamar _call centers_, contactarte con ejecutivos, ir a sucursales, hacer trámites, firmar papeles...**
 
 Como si internet se hubiese inventado ayer.
 
 ¿Por qué lo complican tanto?
 
-## Invertir tiene que ser fácil.
+## Invertir puede ser fácil.
 
 **¿Qué significa fácil?**
 
@@ -68,7 +57,7 @@ Como si internet se hubiese inventado ayer.
 
 ¿En serio?
 
-Sí, en serio. Si quieres complicarte mejor invierte en bienes raíces.
+Sí, en serio. 
 
 Fintual funciona distinto:
 
@@ -88,7 +77,7 @@ Te recomendaremos una estrategia de inversión adecuada a tu tolerancia al riesg
 
 Podrás **simular tu inversión** con distintos plazos y proyectar tu rentabilidad en distintos escenarios.
 
-Si tienes alguna pregunta, solo abre el chat (la pelotita azul que estará abajo a la derecha) y escríbe lo que quieras. **Alguien del equipo te responderá en minutos.**
+Si tienes alguna pregunta, solo abre el chat (la pelotita azul que estará abajo a la derecha) y escribe lo que quieras. **Alguien del equipo te responderá en minutos.**
 
 <p style="text-align:center">
 
