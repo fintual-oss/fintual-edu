@@ -67,7 +67,7 @@ Cómo si internet se hubiese inventado ayer.
 
 ¿En serio?
 
-Si, en serio. Si quieres complicarte mejor invierte en bienes raíces. 
+Si, en serio. Si quieres complicarte mejor invierte en bienes raíces.
 
 Fintual funciona distinto:
 
@@ -79,9 +79,9 @@ Fintual funciona distinto:
 
 Programamos los algoritmos (oh, algoritmos) que optimizan y buscan la frontera eficiente de riesgo-retorno para ofrecerte automáticamente una cartera que se ajuste a tu perfil.
 
-Si te animas, puedes empezar apretando el botón de abajo. 
+Si te animas, puedes empezar apretando el botón de abajo.
 
-**No importa si no sabes nada de inversiones.** 
+**No importa si no sabes nada de inversiones.**
 
 Te recomendaremos una estrategia de inversión adecuada a tu tolerancia al riesgo.
 
@@ -107,6 +107,6 @@ o
 
 Administramos $ 4.897.104.706 de más de 1600 clientes.
 
-Al igual que las otras AGF, nos regula la Comisión para el Mercado Financiero de Chile. Puedes ver nuestro registro en el <a href="https://www.google.com/" target="_blank">sitio web de la CMF.</a>
+Al igual que las otras AGF, nos regula la Comisión para el Mercado Financiero de Chile. Puedes ver nuestro registro en el <a href="http://www.cmfchile.cl/institucional/mercados/entidad.php?auth=&send=&mercado=V&rut=76810627&grupo=&tipoentidad=RGAGF&vig=VI&row=AAAwy2ACTAAAB4AAAP&control=svs&pestania=1" target="_blank">sitio web de la CMF.</a>
 
 También puedes ver el artículo de El Mercurio Inversiones que muestra que somos la segunda AGF de mayor crecimiento en el último mes.
