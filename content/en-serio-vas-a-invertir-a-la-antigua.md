@@ -83,11 +83,9 @@ Si te animas, puedes empezar apretando el botón de abajo👇
 
 **No importa si no sabes mucho de inversiones.**
 
-Te recomendaremos una estrategia de inversión adecuada a tu tolerancia al riesgo.
-
 Podrás **simular tu inversión** con distintos plazos y elegir la estrategia que más te acomode.
 
-Si tienes alguna pregunta, solo abre el chat (la pelotita azul que estará abajo a la derecha) y escribe lo que quieras. **Alguien del equipo te responderá en minutos 😉**
+Si tienes alguna pregunta, solo abre el chat (la pelotita azul que estará abajo a la derecha) y pregúntanos todas tus dudas. **Alguien del equipo te responderá en minutos 😉**
 
 <p style="text-align:center">
 
@@ -107,4 +105,4 @@ Administramos el dinero de más de 1600 clientes.
 
 Al igual que todas las AGF, nos regula la Comisión para el Mercado Financiero de Chile. Puedes ver nuestro registro en el <a href="http://www.cmfchile.cl/institucional/mercados/entidad.php?auth=&send=&mercado=V&rut=76810627&grupo=&tipoentidad=RGAGF&vig=VI&row=AAAwy2ACTAAAB4AAAP&control=svs&pestania=1" target="_blank">sitio web de la CMF.</a>
 
-También puedes leer el artículo de <a href="http://www.elmercurio.com/Inversiones/Noticias/Analisis/2019/01/08/Ranking-Las-AGF-que-mas-crecieron-en-2018.aspx" target="_blank">El Mercurio Inversiones</a> que muestra que somos la segunda AGF de mayor crecimiento en el último mes.
+También puedes leer el artículo de <a href="http://www.elmercurio.com/Inversiones/Noticias/Analisis/2019/01/08/Ranking-Las-AGF-que-mas-crecieron-en-2018.aspx" target="_blank">El Mercurio Inversiones</a> que muestra que fuimos la segunda AGF que más creció en diciembre de 2018.
