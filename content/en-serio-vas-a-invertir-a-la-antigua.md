@@ -61,9 +61,9 @@ Como si internet se hubiese inventado ayer.
 
 **¿Qué significa fácil?**
 
-1\. Responder unas preguntas para medir tu perfil de riesgo.
+1\. Responder unas preguntas para **medir tu perfil de riesgo**.
 
-2\. Decidir **cuánta plata** y durante **cuánto tiempo** quieres invertir, aunque esto no es un compromiso (nos sirve para modelar tu inversión).
+2\. Decidir **cuánta plata** y durante **cuánto tiempo** quieres invertir, aunque esto no es un compromiso (nos sirve para recomendarte una estrategia de inversión).
 
 3\. **Simular tu inversión,** confirmar tu depósito y listo.
 
