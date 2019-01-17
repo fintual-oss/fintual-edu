@@ -79,7 +79,7 @@ Fintual funciona distinto al resto de las AGF en Chile:
 
 3\. **1,19% de comisión anual sobre el monto que inviertas (sin costos ocultos o comisiones fantasma).**
 
-Si te animas, puedes empezar apretando el botón de abajo.
+Si te animas, puedes empezar apretando el botón de abajo👇
 
 **No importa si no sabes mucho de inversiones.**
 
