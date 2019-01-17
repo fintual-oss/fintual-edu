@@ -47,7 +47,7 @@ font-size: 12px;
 
 </style>
 
-En Chile hay 20 Administradoras Generales de Fondos (AGF) autorizadas por ley a ofrecer **fondos mutuos**.
+En Chile hay 20 Administradoras Generales de Fondos (AGF) autorizadas por ley para ofrecer **fondos mutuos**.
 
 ## 19 de ellas te exigen:
 
