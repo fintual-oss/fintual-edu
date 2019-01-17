@@ -51,7 +51,7 @@ En Chile hay 20 Administradoras Generales de Fondos (AGF).
 
 ## 19 de ellas te exigen:
 
-**enviar correos, llamar _call centers_, contactarte con ejecutivos, ir a sucursales, hacer trámites, firmar papeles...**
+**enviar correos, llamar a _call centers_, contactarte con ejecutivos, ir a sucursales, hacer trámites...**
 
 Como si internet se hubiese inventado ayer.
 
@@ -65,7 +65,7 @@ Como si internet se hubiese inventado ayer.
 
 2\. Decidir **cuánta plata** y durante **cuánto tiempo** quieres invertir.
 
-3\. **Y listo.**
+3\. **Simular tu inversión,** confirmar tu depósito y listo.
 
 ¿En serio?
 
