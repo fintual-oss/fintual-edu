@@ -47,29 +47,29 @@ font-size: 12px;
 
 </style>
 
-En Chile hay 20 Administradoras Generales de Fondos (AGF).
+En Chile hay 20 Administradoras Generales de Fondos (AGF) autorizadas por ley a ofrecer **fondos mutuos**.
 
 ## 19 de ellas te exigen:
 
-**enviar correos, llamar a _call centers_, contactarte con ejecutivos, ir a sucursales, hacer trámites...**
+**Enviar correos, llamar a _call centers_, contactarte con ejecutivos, ir a sucursales, hacer trámites presenciales...**
 
 Como si internet se hubiese inventado ayer.
 
-¿Por qué lo complican tanto?
+¿Por qué tan complicado?
 
 ## Invertir puede ser fácil.
 
 **¿Qué significa fácil?**
 
-1\. Responder unas preguntas para medir tu tolerancia al riesgo.
+1\. Responder unas preguntas para medir tu perfil de riesgo.
 
-2\. Decidir **cuánta plata** y durante **cuánto tiempo** quieres invertir.
+2\. Decidir **cuánta plata** y durante **cuánto tiempo** quieres invertir, aunque esto no es un compromiso (nos sirve para modelar tu inversión).
 
 3\. **Simular tu inversión,** confirmar tu depósito y listo.
 
-¿En serio?
+¿Tan simple?
 
-Sí, en serio.
+Sí, así de simple.
 
 Fintual funciona distinto al resto de las AGF en Chile:
 
@@ -81,13 +81,13 @@ Fintual funciona distinto al resto de las AGF en Chile:
 
 Si te animas, puedes empezar apretando el botón de abajo.
 
-**No importa si no sabes nada de inversiones.**
+**No importa si no sabes mucho de inversiones.**
 
 Te recomendaremos una estrategia de inversión adecuada a tu tolerancia al riesgo.
 
 Podrás **simular tu inversión** con distintos plazos y elegir la estrategia que más te acomode.
 
-Si tienes alguna pregunta, solo abre el chat (la pelotita azul que estará abajo a la derecha) y escribe lo que quieras. **Alguien del equipo te responderá en minutos 😉.**
+Si tienes alguna pregunta, solo abre el chat (la pelotita azul que estará abajo a la derecha) y escribe lo que quieras. **Alguien del equipo te responderá en minutos 😉**
 
 <p style="text-align:center">
 
