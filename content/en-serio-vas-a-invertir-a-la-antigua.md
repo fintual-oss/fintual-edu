@@ -75,7 +75,7 @@ Fintual funciona distinto al resto de las AGF en Chile:
 
 1\. **100% online**
 
-2\. **Sin montos mínimos ni penalizaciones por rescate.**
+2\. **Sin montos mínimos ni cobros por rescate.**
 
 3\. **1,19% de comisión anual sobre el monto que inviertas (sin costos ocultos o comisiones fantasma).**
 
