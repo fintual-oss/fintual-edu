@@ -19,4 +19,4 @@ Rescatar el dinero tampoco tiene costo.
 
 Fintual es fácil de usar y te muestra cómo le ha ido a tu inversión de manera simple y comprensible.
 
-Prueba haciendo una [simulación sin compromiso](https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=consideration&utm_content=edu+ffmm-110#empezar)
+Prueba haciendo una [simulación sin compromiso](https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=consideration&utm_content=edu+ffmm2-167#empezar)
