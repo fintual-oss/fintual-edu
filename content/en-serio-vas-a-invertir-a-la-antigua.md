@@ -67,14 +67,6 @@ font-size: 12px;
 
 </style>
 
-<meta name="twitter:card" content="summary_large_image">
-
-<meta name="twitter:title" content="Una forma simple de invertir bien">
-
-<meta name="twitter:description" content="Ya no estamos en la época de los dinosaurios.">
-
-<meta name="twitter:image" content="https://edu.fintual.cl/uploads/trex-thumbnail.png">
-
 En Chile hay 20 Administradoras Generales de Fondos (AGF) autorizadas por ley para ofrecer **fondos mutuos**.
 
 ## 19 de ellas te exigen:
@@ -133,15 +125,15 @@ Si tienes alguna pregunta, solo abre el chat (la pelotita azul que estará abajo
 
 </p>
 
-**¿Es Fintual seguro?**
+**Comparte esta página** 👇
 
-Administramos el dinero de más de 1600 clientes.
+<meta name="twitter:card" content="summary_large_image">
 
-Al igual que todas las AGF, nos regula la Comisión para el Mercado Financiero de Chile. Puedes ver nuestro registro en el <a href="http://www.cmfchile.cl/institucional/mercados/entidad.php?auth=&send=&mercado=V&rut=76810627&grupo=&tipoentidad=RGAGF&vig=VI&row=AAAwy2ACTAAAB4AAAP&control=svs&pestania=1" target="_blank">sitio web de la CMF.</a>
+<meta name="twitter:title" content="Una forma simple de invertir bien">
 
-También puedes leer el artículo de <a href="http://www.elmercurio.com/Inversiones/Noticias/Analisis/2019/01/08/Ranking-Las-AGF-que-mas-crecieron-en-2018.aspx" target="_blank">El Mercurio Inversiones</a> que muestra que fuimos la segunda AGF que más creció en diciembre de 2018. Lento pero seguro.
+<meta name="twitter:description" content="Ya no estamos en la época de los dinosaurios.">
 
-**Comparte esta página 👇**
+<meta name="twitter:image" content="https://edu.fintual.cl/uploads/trex-thumbnail.png">
 
 <div id="share-buttons">
 
@@ -168,3 +160,11 @@ También puedes leer el artículo de <a href="http://www.elmercurio.com/Inversi
     </a>
 
 </div>
+
+**¿Es Fintual seguro?**
+
+Administramos el dinero de más de 1600 clientes.
+
+Al igual que todas las AGF, nos regula la Comisión para el Mercado Financiero de Chile. Puedes ver nuestro registro en el <a href="http://www.cmfchile.cl/institucional/mercados/entidad.php?auth=&send=&mercado=V&rut=76810627&grupo=&tipoentidad=RGAGF&vig=VI&row=AAAwy2ACTAAAB4AAAP&control=svs&pestania=1" target="_blank">sitio web de la CMF.</a>
+
+También puedes leer el artículo de <a href="http://www.elmercurio.com/Inversiones/Noticias/Analisis/2019/01/08/Ranking-Las-AGF-que-mas-crecieron-en-2018.aspx" target="_blank">El Mercurio Inversiones</a> que muestra que fuimos la segunda AGF que más creció en diciembre de 2018. Lento pero seguro.
