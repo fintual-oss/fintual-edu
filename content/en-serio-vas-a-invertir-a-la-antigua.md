@@ -21,7 +21,13 @@ display: inline;
 
 }
 
-p { margin:4rem 0px; text-align:justify; }
+p { 
+
+margin:4rem 0px; 
+
+text-align:justify; 
+
+}
 
 .footer-big__overlap { padding-bottom:0px; }
 
@@ -119,13 +125,15 @@ Si tienes alguna pregunta, solo abre el chat (la pelotita azul que estará abajo
 
 </p>
 
-<p style="text-align:center">
+## ¿Es seguro?
 
-<a class="dinosaurio simulator-page__button btn btn--secondary"href="https://chromedino.com" target="_blank">¡Quiero invertir con dinosaurios!🦖</a>
+Administramos el dinero de más de 1600 clientes.
 
-</p>
+Al igual que todas las AGF, nos regula la Comisión para el Mercado Financiero de Chile. Puedes ver nuestro registro en el <a href="http://www.cmfchile.cl/institucional/mercados/entidad.php?auth=&send=&mercado=V&rut=76810627&grupo=&tipoentidad=RGAGF&vig=VI&row=AAAwy2ACTAAAB4AAAP&control=svs&pestania=1" target="_blank">sitio web de la CMF.</a>
 
-**Comparte esta página** 👇
+También puedes leer el artículo de <a href="http://www.elmercurio.com/Inversiones/Noticias/Analisis/2019/01/08/Ranking-Las-AGF-que-mas-crecieron-en-2018.aspx" target="_blank">El Mercurio Inversiones</a> que muestra que fuimos la segunda AGF que más creció en diciembre de 2018. Lento pero seguro.
+
+<p style="text-align:center"> <b> Comparte esta página </b> 👇 </p>
 
 <meta name="twitter:card" content="summary_large_image">
 
@@ -135,7 +143,7 @@ Si tienes alguna pregunta, solo abre el chat (la pelotita azul que estará abajo
 
 <meta name="twitter:image" content="https://edu.fintual.cl/uploads/trex-thumbnail.png">
 
-<div id="share-buttons">
+<div id="share-buttons" align="center">
 
 <a href="http://www.facebook.com/sharer.php?u=https://edu.fintual.cl/en-serio-vas-a-invertir-a-la-antigua/" onclick="window.open(this.href, 'facebookwindow','left=20,top=20,width=600,height=300,toolbar=0,resizable=1'); return false;">
 
@@ -161,10 +169,8 @@ Si tienes alguna pregunta, solo abre el chat (la pelotita azul que estará abajo
 
 </div>
 
-**¿Es Fintual seguro?**
+<p style="text-align:center">
 
-Administramos el dinero de más de 1600 clientes.
+<a class="dinosaurio simulator-page__button btn btn--secondary"href="https://chromedino.com" target="_blank">O vuelve a la época de los dinosaurios 🦖</a>
 
-Al igual que todas las AGF, nos regula la Comisión para el Mercado Financiero de Chile. Puedes ver nuestro registro en el <a href="http://www.cmfchile.cl/institucional/mercados/entidad.php?auth=&send=&mercado=V&rut=76810627&grupo=&tipoentidad=RGAGF&vig=VI&row=AAAwy2ACTAAAB4AAAP&control=svs&pestania=1" target="_blank">sitio web de la CMF.</a>
-
-También puedes leer el artículo de <a href="http://www.elmercurio.com/Inversiones/Noticias/Analisis/2019/01/08/Ranking-Las-AGF-que-mas-crecieron-en-2018.aspx" target="_blank">El Mercurio Inversiones</a> que muestra que fuimos la segunda AGF que más creció en diciembre de 2018. Lento pero seguro.
+</p>
