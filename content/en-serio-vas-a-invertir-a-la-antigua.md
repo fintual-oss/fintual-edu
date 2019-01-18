@@ -57,7 +57,7 @@ width: 100%;
 
 .dinosaurio {
 
-background-color: black;
+background-color: gray;
 
 font-size: 12px;
 
