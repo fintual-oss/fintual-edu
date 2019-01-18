@@ -67,13 +67,13 @@ font-size: 12px;
 
 </style>
 
-<meta property="og:url" content="">
+<meta name="twitter:card" content="summary_large_image">
 
-<meta property="og:image" content="">
+<meta name="twitter:title" content="Una forma simple de invertir bien">
 
-<meta property="og:title" content="">
+<meta name="twitter:description" content="Ya no estamos en la época de los dinosaurios.">
 
-<meta property="og:description" content="">
+<meta name="twitter:image" content="https://edu.fintual.cl/uploads/trex-thumbnail.png">
 
 En Chile hay 20 Administradoras Generales de Fondos (AGF) autorizadas por ley para ofrecer **fondos mutuos**.
 
