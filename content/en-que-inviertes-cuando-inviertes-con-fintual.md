@@ -7,6 +7,20 @@ title = "Cuando inviertes con Fintual, inviertes en Netflix, Apple, Google y Ama
 +++
 <style>
 
+\#share-buttons img {
+
+width: 35px;
+
+padding: 5px;
+
+border: 0;
+
+box-shadow: 0;
+
+display: inline;
+
+}
+
 p { margin:4rem 0px; text-align:justify; }
 
 .footer-big__overlap { padding-bottom:0px; }
@@ -35,6 +49,14 @@ margin: 0 5px;
 
 }
 </style>
+
+<div id="share-buttons">
+
+<a href="whatsapp://send?text=No gano nada con esto, pero lo recomiendo igual:https://fintual.com" target="_blank"  class="js-social-share referrals-page__sharing-link referrals-page__sharing-link--whatsapp">
+
+        <img src="https://fintual.com/assets/social/whatsapp-clean-2ef5f256583bfc924c87cf1bd2d7fc5d51e62eb590a0127e7ea70a31db7307e0.svg" alt="Whatsapp">
+
+</a>
 
 <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="https://edu.fintual.cl/uploads/vaca1.png"/>
