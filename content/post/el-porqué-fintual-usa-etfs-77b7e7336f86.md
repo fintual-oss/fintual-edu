@@ -4,13 +4,14 @@ author_thumbnail: 0*Fxb64VaERzEbMLti.
 title: Porqué Fintual invierte en ETFs
 date: 2018-02-07
 draft: 'true'
+image: "/uploads/el-porqué-fin6323.png"
 
 
 ---
 
 ### Los ETFs entregan el mejor nivel de acceso a activos globales, flexibilidad y bajos costos. Pero ¿qué son? ¿Y por qué son lo indicado para ti?
 
-![ETF?](https://cdn-images-1.medium.com/max/2000/1*hdJmlLONyBBDctXcjrPeeA.png)*ETF?*
+![ETF?](/uploads/el-porqué-fin6323.png)*ETF?*
 
 Después de largos meses de trabajo junto a mis socios, creamos Fintual con la idea de entregar el mejor portafolio posible para alguien común y corriente, y de la forma más fácil posible. Para hacer esto, teníamos que tener en consideración el costo total del producto financiero (la suma de todas las comisiones y cobros finales), la rentabilidad del portafolio, y cómo hacer llegar esto de forma fácil y simple a cada persona.
 

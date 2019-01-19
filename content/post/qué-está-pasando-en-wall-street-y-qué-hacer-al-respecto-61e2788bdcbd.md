@@ -4,6 +4,7 @@ author_thumbnail: 1*cpAQhZhbBZgMrNepn5ymgw.jpeg
 title: Qué está pasando en Wall Street y qué hacer al respecto
 date: 2018-09-16
 draft: 'true'
+image: "/uploads/qué-está-pasa8817.jpeg"
 
 
 ---
@@ -16,7 +17,7 @@ El jueves 11 de octubre, los mercados en todo el mundo pasaron por completo a un
 
 En Estados Unidos, ayer [el índice accionario S&P 500 perdió 3,29%, y en Chile el S&P/CLX IPSA perdió 1,42%](https://www.df.cl/noticias/mercados/bolsa/tecnologicas-se-derrumban-en-estados-unidos-y-llevan-al-nasdaq-a-su-peor/2018-10-10/161356.html). También fueron afectados los mercados asiáticos y europeos. [Los principales índices en China se desplomaron más de un 5%, y en Europa se acercaban a caídas de un 2% esta mañana.](https://www.latercera.com/pulso/noticia/bolsas-mundiales-sufren-duras-caidas-contagiadas-derrumbe-wall-street/356485/)
 
-![](https://cdn-images-1.medium.com/max/2048/1*InNwe94hS1JOPGBtRr58Bg.jpeg)
+![](/uploads/qué-está-pasa8817.jpeg)
 
 **Nuestra recomendación**
 

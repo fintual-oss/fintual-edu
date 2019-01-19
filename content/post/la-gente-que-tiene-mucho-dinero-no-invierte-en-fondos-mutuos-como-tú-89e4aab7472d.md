@@ -4,6 +4,7 @@ author_thumbnail: 1*P0sNvCNy0pvZnkfNkEKl_g.png
 title: La gente que tiene mucho dinero no invierte en Fondos Mutuos como tú.
 date: 2018-02-14
 draft: 'true'
+image: "/uploads/la-gente-que-4060.png"
 
 
 ---
@@ -47,7 +48,7 @@ Y no sólo eso.
 
 Sacamos una licencia regulatoria y armamos nosotros mismos nuestros propios fondos mutuos con instrumentos financieros que un robotito va midiendo en riesgo.
 
-![Qué tiernos nos vemos en esta lista junto al BBVA, Santander, BancoEstado y Banchile.](https://cdn-images-1.medium.com/max/2000/1*puUtIzRpupSpq9KyVLfj8g.png)*Qué tiernos nos vemos en esta lista junto al BBVA, Santander, BancoEstado y Banchile.*
+![Qué tiernos nos vemos en esta lista junto al BBVA, Santander, BancoEstado y Banchile.](/uploads/la-gente-que-4060.png)*Qué tiernos nos vemos en esta lista junto al BBVA, Santander, BancoEstado y Banchile.*
 
 Le cobramos a todos un único precio (1,19% anual) y como en [FINTUAL ](http://www.fintual.com)somos casi todos computines y financieros, lo hicimos en una plataforma de internet que creemos que es muy sencilla y simpática.
 

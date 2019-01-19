@@ -4,6 +4,7 @@ author_thumbnail: 1*P0sNvCNy0pvZnkfNkEKl_g.png
 title: Invertir es una lata.
 date: 2018-02-14
 draft: 'true'
+image: "/uploads/invertir-es-u6140.png"
 
 
 ---
@@ -20,7 +21,7 @@ Lo que no imaginamos era que expertos en finanzas iban a querer ser clientes nue
 
 Como en este mail:
 
-![](https://cdn-images-1.medium.com/max/2000/1*dc49RB73zQkcYCELOUgWxw.png)
+![](/uploads/invertir-es-u6140.png)
 
 :)
 

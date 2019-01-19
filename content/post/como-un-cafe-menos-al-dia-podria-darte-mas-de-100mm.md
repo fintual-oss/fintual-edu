@@ -1,12 +1,13 @@
-+++
+---
+date: '2018-12-13T13:01:29+00:00'
+description: Para que pienses en ello cuando estés tomándote un café.
+image: "/uploads/cafe-millonario.png"
+title: Cómo un café menos al día podría darte más de $100.000.000
+aliases:
+- "/como-un-cafe-menos-al-dia-podria-darte-mas-de-100mm/"
 
-date = "2018-12-13T13:01:29+00:00"
-description = "Para que pienses en ello cuando estés tomándote un café."
-image = "/uploads/cafe-millonario.png"
-title = "Cómo un café menos al día podría darte más de $100.000.000"
-aliases = ["/como-un-cafe-menos-al-dia-podria-darte-mas-de-100mm/"]
 
-+++
+---
 
 Parece una broma pero es cierto.
 

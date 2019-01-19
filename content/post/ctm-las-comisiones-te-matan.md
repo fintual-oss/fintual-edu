@@ -1,13 +1,16 @@
-+++
+---
+date: '2018-07-08T16:37:29+00:00'
+description: 'Si quieres ver cuánta plata estás dejando de ganar por las comisiones
+  revisa el simulador que hicimos:'
+image: "/uploads/simulador-1.png"
+title: 'CTM: las Comisiones Te Matan'
+categories:
+- ahorro
+aliases:
+- "/ctm-las-comisiones-te-matan/"
 
-date = "2018-07-08T16:37:29+00:00"
-description = "Si quieres ver cuánta plata estás dejando de ganar por las comisiones revisa el simulador que hicimos:"
-image = "/uploads/simulador-1.png"
-title = "CTM: las Comisiones Te Matan"
-categories = ["ahorro"]
-aliases = ["/ctm-las-comisiones-te-matan/"]
 
-+++
+---
 
 
 Súper poca gente sabe cuánto paga en comisiones cuando invierte.

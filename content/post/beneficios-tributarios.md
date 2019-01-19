@@ -1,11 +1,13 @@
-+++
+---
+date: '2018-07-05T05:12:11+00:00'
+title: Beneficios tributarios al invertir
+aliases:
+- "/beneficios-tributarios/"
+categories:
+- impuestos
 
-date = "2018-07-05T05:12:11+00:00"
-title = "Beneficios tributarios al invertir"
-aliases = ["/beneficios-tributarios/"]
-categories = ["impuestos"]
 
-+++
+---
 Al invertir hay algunos beneficios en cuanto a impuestos que es bueno que sepas.
 
 #### 1. La pregunta más común es ¿tengo que pagar impuestos cuando invierto?

@@ -1,14 +1,17 @@
-+++
+---
+date: '2018-07-05T04:36:52+00:00'
+description: ''
+image: "/uploads/depositos-a-p4929.png"
+title: "¿Depósitos a plazo?"
+aliases:
+- "/depositos-a-plazo/"
+categories:
+- inversión
+- ahorro
 
-date = "2018-07-05T04:36:52+00:00"
-description = ""
-image = ""
-title = "¿Depósitos a plazo?"
-aliases = ["/depositos-a-plazo/"]
-categories =["inversión", "ahorro"]
 
-+++
-![](https://cdn-images-1.medium.com/max/800/1*rpK6BEPYIaZ1vJijLxiHlw.png)
+---
+![](/uploads/depositos-a-p4929.png)
 
 Hoy un banco te da un 0,23% al mes¹ cuando haces un depósito a plazo, lo que en un año se traduce en 2,76%.
 

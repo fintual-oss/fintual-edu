@@ -4,6 +4,7 @@ author_thumbnail: 1*P0sNvCNy0pvZnkfNkEKl_g.png
 title: Cómo fuimos la primera startup chilena en quedar en Y Combinator
 date: 2018-04-08
 draft: 'true'
+image: "/uploads/cómo-fuimos-l3107.png"
 
 
 ---
@@ -20,7 +21,7 @@ Si no, recibiríamos un mail a las 19:00.
 
 18:35: Los cuatro pensando en voz alta: “Pero si respondimos todo súper bien”, “no preguntaron nada muy peludo, no nos pillaron en nada”, “si no les gustábamos desde un principio, *pa`* qué nos invitan”, “¿por qué no nos hicieron cagar por lo menos?”.
 
-![Ricardo nos había ayudado a preparar la entrevista de ese día.](https://cdn-images-1.medium.com/max/2000/1*qzs8V3a4yo6cUUjBH371vg.png)*Ricardo nos había ayudado a preparar la entrevista de ese día.*
+![Ricardo nos había ayudado a preparar la entrevista de ese día.](/uploads/cómo-fuimos-l5588.png)*Ricardo nos había ayudado a preparar la entrevista de ese día.*
 
 18:40: Ya había convencido a todos de que no habíamos quedado.
 
@@ -93,7 +94,7 @@ Debe ser entretenidísimo trabajar en Y Combinator si lo tuyo es hacer sufrir a 
 
 Tres días después nos llega un mail.
 
-![](https://cdn-images-1.medium.com/max/2326/1*jnPylERqWDktv8AHjYKQrA.png)
+![](/uploads/cómo-fuimos-l5496.png)
 
 ¡¿Qué?!
 
@@ -107,7 +108,7 @@ Estoy en Chile.
 
 Así que le escribí a Gustaf el mail más *hueón* que he escrito en mi vida.
 
-![](https://cdn-images-1.medium.com/max/2000/1*W7qOiWjaA0C0scdTAHKsCQ.png)
+![](/uploads/cómo-fuimos-l5783.png)
 
 Volví a leer el mail de invitación que habíamos recibido, me metí de nuevo a los links y claro, nos estaban pagando el pasaje a los 4 *cofounders* y un poco de plata para el hotel para ir a una entrevista… de diez minutos!
 
@@ -135,7 +136,7 @@ Y lo peor es que no me daba cuenta porque lo estaba pasando súper bien, nunca h
 
 No pensábamos realmente que fuéramos a quedar.
 
-![Santa Con. Fuimos a un Walgreens y nos compramos el disfraz para estar a tono.](https://cdn-images-1.medium.com/max/2560/0*McQIB6EI_IVyw827)*Santa Con. Fuimos a un Walgreens y nos compramos el disfraz para estar a tono.*
+![Santa Con. Fuimos a un Walgreens y nos compramos el disfraz para estar a tono.](/uploads/cómo-fuimos-l2041)*Santa Con. Fuimos a un Walgreens y nos compramos el disfraz para estar a tono.*
 
 ### Tesla
 
@@ -153,7 +154,7 @@ Y llegamos a nuestra entrevista en un Tesla.
 
 Pelotudos.
 
-![](https://cdn-images-1.medium.com/max/2022/1*eBOJbci1qf6IU27041nw3w.jpeg)
+![](/uploads/cómo-fuimos-l8898.jpeg)
 
 ### La entrevista
 
@@ -274,7 +275,7 @@ Pasa harto con los mails hirientes de una ex, por ejemplo.
 
 Incluso ahora, este mail de rechazo de Y Combinator me cuesta leerlo.
 
-![](https://cdn-images-1.medium.com/max/2000/1*0f7Ihb7Js_PrCcEh_Xax9A.png)
+![](/uploads/cómo-fuimos-l3226.png)
 
 Fuimos a un mirador.
 
@@ -386,9 +387,9 @@ Simulamos entre nosotros.
 
 Nos atacamos 3 contra 1.
 
-![](https://cdn-images-1.medium.com/max/2000/1*HSr77UENO_rJoqt1HOSyQQ.png)
+![](/uploads/cómo-fuimos-l7656.png)
 
-![Izq: todos contra Agustín. Der: todos contra Omar.](https://cdn-images-1.medium.com/max/2000/1*c1UWKHyLeWU4ziAvX7ps7A.png)*Izq: todos contra Agustín. Der: todos contra Omar.*
+![Izq: todos contra Agustín. Der: todos contra Omar.](/uploads/cómo-fuimos-l5023.png)*Izq: todos contra Agustín. Der: todos contra Omar.*
 
 Yo practicaba sonreír frente a un espejo porque me cuesta cuando estoy tenso.
 
@@ -402,7 +403,7 @@ Esta vez nos fuimos en tren, riéndonos de lo imbéciles (y felices) que fuimos 
 
 * Sí. Y yo creo que haber gastado tanta energía antes hizo que llegáramos apagados.
 
-![T de tren, no de Tesla.](https://cdn-images-1.medium.com/max/2000/1*4pAfGIjsLg_sUos68Xe86g.png)*T de tren, no de Tesla.*
+![T de tren, no de Tesla.](/uploads/cómo-fuimos-l4846.png)*T de tren, no de Tesla.*
 
 Por eso fuimos a la entrevista con un poquito de hambre. Compramos uva chilena de exportación sin cachar (una uva que jamás de los jamáses he comido en Chile, deliciosa, parecía manzana de lo crujiente que era), gomitas y M&M.
 
@@ -487,7 +488,7 @@ Nos sentamos en una terraza de Mountain View a comer, tomar cerveza, jugar y esp
 
 Nos costaba concentrarnos pero fue una gran idea haber llevado el juego para no pensar tanto y hacer que pasara el tiempo.
 
-![](https://cdn-images-1.medium.com/max/2000/1*C206vZTCTpZ9g_a3ExFPAQ.png)
+![](/uploads/cómo-fuimos-l4810.png)
 
 A las 18:20 ya se hacía casi imposible jugar.
 
@@ -544,7 +545,7 @@ San Francisco es una ciudad llena de locos. La gente alrededor ni nos miró. Y s
 
 Agustín corta y se arrodilla cagado de la risa.
 
-![](https://cdn-images-1.medium.com/max/2000/1*FuWPRRPl-Aj0IsAMeY7EKA.png)
+![](/uploads/cómo-fuimos-l1523.png)
 
 Andrés lo abraza.
 
@@ -560,6 +561,6 @@ Y sigo sin poder creerlo.
 
 Somos la primera startup chilena en quedar en Y Combinator.
 
-![](https://cdn-images-1.medium.com/max/2000/1*KbNIhxjaXWbhs_KiJAYtMQ.png)
+![](/uploads/cómo-fuimos-l3107.png)
 
 undefined

@@ -1,12 +1,14 @@
-+++
+---
+date: '2018-07-24T22:40:18+00:00'
+description: La mayoría de los fondos mutuos cobran demasiado a sus clientes, te vamos
+  a ayudar a saber cuánto te están cobrando.
+image: https://edu.fintual.com/uploads/sherlock2.jpg
+title: Análisis gratis de tus fondos mutuos
+aliases:
+- "/sherlock/"
 
-date = "2018-07-24T22:40:18+00:00"
-description = "La mayoría de los fondos mutuos cobran demasiado a sus clientes, te vamos a ayudar a saber cuánto te están cobrando."
-image = "https://edu.fintual.com/uploads/sherlock2.jpg"
-title = "Análisis gratis de tus fondos mutuos"
-aliases = ["/sherlock/"]
 
-+++
+---
 <div class="text-center"> <img src="/uploads/sherlock2.jpg" style="width:90%;height: auto;"/> </div>
 
 <div class="col-sm-9 col-sm-offset-2">

@@ -4,6 +4,7 @@ author_thumbnail: 1*LOSP3TsTW_eFBFd49oGj6w.jpeg
 title: Por qué tienes que sacar tu plata del fondo B.
 date: 2016-06-12
 draft: 'true'
+image: "/uploads/por-qué-tiene2219.jpeg"
 
 
 ---
@@ -24,7 +25,7 @@ El fondo B debe invertir en acciones entre un 25% y un 60% del dinero.
 
 Y así, mientras más cerca de la letra E, menos acciones y más renta fija.
 
-![El fantasma de la B.](https://cdn-images-1.medium.com/max/2000/1*dqUpp4JNeH3H4HpmJvr0Ww.jpeg)*El fantasma de la B.*
+![El fantasma de la B.](/uploads/por-qué-tiene2219.jpeg)*El fantasma de la B.*
 
 Sin embargo, al revisar la historia de los últimos 5–8 años, **el fondo B es casi tan arriesgado como el A** y no sólo renta menos que el A, sino que **renta menos que una combinación entre A y C. **O sea que el fondo B es un vino de etiqueta linda y sabor a caja.
 

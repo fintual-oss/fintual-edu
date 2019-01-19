@@ -4,6 +4,7 @@ author_thumbnail: 1*P0sNvCNy0pvZnkfNkEKl_g.png
 title: "¿Cómo tuvimos reuniones en Europa?"
 date: 2017-05-06
 draft: 'true'
+image: "/uploads/cómo-tuvimos-5262.png"
 
 
 ---
@@ -22,27 +23,27 @@ Siempre es bueno tener contactos o haber hecho un MBA en alguna universidad del 
 
 Para alguien como yo, sin MBA ni contactos en Europa, no me quedó otra que probar escribiendo al mail de atención a clientes.
 
-![Mail en frío a service@scalable.capital](https://cdn-images-1.medium.com/max/2000/1*jSVCE3eSQp8rimwyEuJ_ew.png)*Mail en frío a service@scalable.capital*
+![Mail en frío a service@scalable.capital](/uploads/cómo-tuvimos-4768.png)*Mail en frío a service@scalable.capital*
 
 No sé si porque los de Scalable Capital son unos bacanes o qué, pero en menos de dos horas tenía respuesta del Investment Manager.
 
-![](https://cdn-images-1.medium.com/max/2000/1*n6pdJP4HhKKA5_4q88QSng.png)
+![](/uploads/cómo-tuvimos-5819.png)
 
 Así de simple, acordamos una reunión para un mes más. Y yo [aprovechando que estaría en Europa](https://blog.fintual.cl/por-qu%C3%A9-salgo-en-una-pantalla-gigante-3f32ee7894d1) compré pasajes a Munich.
 
 Escribí el mismo mail a Vaamo tres minutos después y también me respondieron el mismo día!
 
-![](https://cdn-images-1.medium.com/max/2000/1*uRh4igmh3rai9766ZiIH5Q.png)
+![](/uploads/cómo-tuvimos-2249.png)
 
 *Sure. *Tampoco es llegar y tener la reunión. Pero el punto estaba hecho, la puerta se abría y ahora tenía que lograr entrar.
 
-![Mi mail.](https://cdn-images-1.medium.com/max/2276/1*HiIxEsbkXo4tJ0BKSRutnQ.png)*Mi mail.*
+![Mi mail.](/uploads/cómo-tuvimos-7886.png)*Mi mail.*
 
 Enviado.
 
 Ese mismo día, recibí del CEO de Vaamo este mail.
 
-![](https://cdn-images-1.medium.com/max/2000/1*hyAyvat3XEZLVxLBVgnnDw.png)
+![](/uploads/cómo-tuvimos-6504.png)
 
 Coordiné la fecha con él y compré el pasaje en tren de Munich a Frankfurt.
 
@@ -62,9 +63,9 @@ Ir de *hueón* por el mundo como dice el Coco Legrand. Y en este caso, de *hueó
 
 En ambas reuniones el resultado fue mágico. Al contarles todo y decirles que había viajado hasta ahí -por el día- sólo para esa reunión, fueron muy generosos y me revelaron todos sus números operacionales. Todos. Incluso los datos que me pidieron no comentar me los dijeron. Cuanta gente trabaja en el equipo, cuanto gastan en marketing, cuanto les cuesta cada usuario, cuantos usuarios tienen, cuanto invierten en promedio, cuantos lo hacen mes a mes, cuantos desarrolladores tienen, cuanta gente trabaja en atención al cliente. Todos sus números.
 
-![Oficina de Scalable en Munich.](https://cdn-images-1.medium.com/max/6912/1*wma6kS_PAW0NLm5SdcxC8A.jpeg)*Oficina de Scalable en Munich.*
+![Oficina de Scalable en Munich.](/uploads/cómo-tuvimos-8241.jpeg)*Oficina de Scalable en Munich.*
 
-![Oficina de Vaamo en Frankfurt. No es la mejor foto pero me dio plancha sacar más.](https://cdn-images-1.medium.com/max/2000/1*9q0ebh2GBj87dJtP1xOY4A.png)*Oficina de Vaamo en Frankfurt. No es la mejor foto pero me dio plancha sacar más.*
+![Oficina de Vaamo en Frankfurt. No es la mejor foto pero me dio plancha sacar más.](/uploads/cómo-tuvimos-5262.png)*Oficina de Vaamo en Frankfurt. No es la mejor foto pero me dio plancha sacar más.*
 
 Traté todo el tiempo de llevar la conversación hacia donde quería y lo hacía explícito si intentaban sacar una ppt para mostrarme algo: “Prefiero hablar de las cosas blandas, las cosas de la empresa que no están en una ppt o en internet”.
 

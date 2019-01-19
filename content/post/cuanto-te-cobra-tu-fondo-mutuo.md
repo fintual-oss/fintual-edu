@@ -1,11 +1,12 @@
-+++
+---
+date: '2018-07-17T19:23:11+00:00'
+image: https://edu.fintual.com/uploads/morgan-2.jpg
+title: "¿Cuánto te cobra tu fondo mutuo?"
+aliases:
+- "/cuanto-te-cobra-tu-fondo-mutuo/"
 
-date = "2018-07-17T19:23:11+00:00"
-image = "https://edu.fintual.com/uploads/morgan-2.jpg"
-title = "¿Cuánto te cobra tu fondo mutuo?"
-aliases = ["/cuanto-te-cobra-tu-fondo-mutuo/"]
 
-+++
+---
 Es muy difícil que lo sepas.
 
 Tal vez los mismos bancos lo hacen difícil porque les conviene.

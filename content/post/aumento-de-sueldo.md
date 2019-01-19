@@ -1,12 +1,14 @@
-+++
+---
+date: '2018-07-05T04:01:25+00:00'
+title: "¿Te subieron el sueldo? Llegó el momento de invertir."
+type: post
+categories:
+- ideas
+aliases:
+- "/aumento-de-sueldo/"
 
-date = "2018-07-05T04:01:25+00:00"
-title = "¿Te subieron el sueldo? Llegó el momento de invertir."
-type = "post"
-categories = ["ideas"]
-aliases = ["/aumento-de-sueldo/"]
 
-+++
+---
 
 Aparte de envidiarte, te recomendamos que lo inviertas antes de que empieces a gastártelo y te acostumbres al nuevo estándar de vida.
 

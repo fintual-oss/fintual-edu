@@ -4,6 +4,7 @@ author_thumbnail: 1*AufcVB25eJVAOqdCQc8r4g.jpeg
 title: Pocas mujeres en el mundo financiero
 date: 2018-04-11
 draft: 'true'
+image: "/uploads/pocas-mujeres5581.png"
 
 
 ---
@@ -28,4 +29,4 @@ Además les aseguro que las pocas mujeres que estaban presentes ahí tenían har
 
 Y mi letra es horrenda.
 
-![](https://cdn-images-1.medium.com/max/2000/1*8er-eIhSyYPzt8anNbKADg.png)
+![](/uploads/pocas-mujeres5581.png)

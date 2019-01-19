@@ -4,6 +4,7 @@ author_thumbnail: 1*P0sNvCNy0pvZnkfNkEKl_g.png
 title: Cómo un café menos al día podría darte más de $100.000.000
 date: 2018-03-16
 draft: 'true'
+image: "/uploads/cómo-un-café-5600.png"
 
 
 ---
@@ -18,7 +19,7 @@ Si tienes 35 años como yo, significa que te quedan 30 años para jubilar.
 
 Entonces, invirtiendo diariamente durante 30 años esos $2.700 en un fondo muy arriesgado (que es lo que uno debiera hacer cuando invierte a tan largo plazo) uno podría esperar una rentabilidad de 10% al año.
 
-![](https://cdn-images-1.medium.com/max/2000/1*nsxwOXuGYz3biyGUQwbmpQ.png)
+![](/uploads/cómo-un-café-5600.png)
 
 Si haces el cálculo con todos estos supuestos, **el día que te jubiles tendrás unos $122.000.000 adicionales **y eso que ni hemos considerado el beneficio tributario que hay al hacer esto.
 

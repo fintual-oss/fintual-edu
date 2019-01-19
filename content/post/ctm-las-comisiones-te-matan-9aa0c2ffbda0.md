@@ -4,6 +4,7 @@ author_thumbnail: 1*P0sNvCNy0pvZnkfNkEKl_g.png
 title: 'CTM: las Comisiones Te Matan'
 date: 2018-04-18
 draft: 'true'
+image: "/uploads/ctm-las-comis3990.png"
 
 
 ---
@@ -37,7 +38,7 @@ Si inviertes 5.000.000 en un fondo mutuo que cobra 6,25% al año como [éste](ht
 
 Si ese banco fuera más buena onda y cobrara lo que por ejemplo cobramos nosotros en [Fintual](http://www.fintual.cl), ganarías $1.918.489 y no 426 lucas.
 
-![](https://cdn-images-1.medium.com/max/2000/1*V-W8uGRHMObmCIjsj6fy3Q.png)
+![](/uploads/ctm-las-comis3990.png)
 
 Es más:
 

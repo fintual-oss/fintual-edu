@@ -1,13 +1,14 @@
-+++
+---
+date: '2018-06-25T19:33:31+00:00'
+description: ''
+draft: true
+image: ''
+title: Invierte Online
+aliases:
+- "/invierte-online/"
 
-date = "2018-06-25T19:33:31+00:00"
-description = ""
-draft = true
-image = ""
-title = "Invierte Online"
-aliases = ["/invierte-online/"]
 
-+++
+---
 <style>
 
 p { margin:4rem 0px; text-align:justify; }

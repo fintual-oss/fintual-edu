@@ -4,6 +4,7 @@ author_thumbnail: 1*P0sNvCNy0pvZnkfNkEKl_g.png
 title: El depósito a plazo es un negocio seguro y malo. Es mejor FINTUAL.
 date: 2016-10-07
 draft: 'true'
+image: "/uploads/el-depósito-a4163.png"
 
 
 ---
@@ -18,7 +19,7 @@ Lo bueno de un depósito a plazo es que es seguro y fácil de entender. Un negoc
 
 Y aún así **¿quién puede querer eso?**
 
-![Ilustración de Early Salary](https://cdn-images-1.medium.com/max/2000/1*rpK6BEPYIaZ1vJijLxiHlw.png)*Ilustración de Early Salary*
+![Ilustración de Early Salary](/uploads/el-depósito-a4163.png)*Ilustración de Early Salary*
 
 Saber en qué invertir requiere un poco de sofisticación y conocimiento. Si uno estudia un poco podrá encontrar opciones que se ajusten mejor a lo que se esté buscando.
 

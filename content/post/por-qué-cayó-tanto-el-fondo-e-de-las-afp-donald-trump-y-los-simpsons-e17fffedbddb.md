@@ -4,6 +4,7 @@ author_thumbnail: 1*LOSP3TsTW_eFBFd49oGj6w.jpeg
 title: "¿Por qué cayó tanto el fondo E de las AFP? Donald Trump y Los Simpsons"
 date: 2017-0-9
 draft: 'true'
+image: "/uploads/por-qué-cayó-6207"
 
 
 ---
@@ -14,13 +15,13 @@ El 8 de noviembre de 2016 Trump gana sorpresivamente las elecciones presidencial
 
 Siete días después el fondo E tuvo una de sus peores semanas a nivel histórico. ¿Coincidencia? No tanto y este capítulo de la serie tiene algo más que contar.
 
-![](https://cdn-images-1.medium.com/max/2000/1*_39Oco8gUc2C5qDPB7aWHQ.png)
+![](/uploads/por-qué-cayó-6780.png)
 
 Veamos qué pasó: en noviembre recién pasado, el sistema de los fondos E de las AFPs tuvo una caída fuerte de 1,76%, con un máximo de casi 3% en el peor momento.
 
 Esto llamó la atención considerando que es el fondo con “menos riesgos”. Sin embargo menos riesgo no significa “cero riesgo”. Estas turbulencias de mercado -aunque inesperadas- suelen suceder con cierta frecuencia. Un evento así en renta fija suele ocurrir cada 4 años.
 
-![Así se vio la caída del fondo en noviembre](https://cdn-images-1.medium.com/max/2000/0*y-RacQb7999JGXKz.)*Así se vio la caída del fondo en noviembre*
+![Así se vio la caída del fondo en noviembre](/uploads/por-qué-cayó-2911)*Así se vio la caída del fondo en noviembre*
 
 El fondo E es un fondo casi totalmente compuesto por renta fija (puede tener [a lo más 5% de renta variable,](http://www.spensiones.cl/portal/orientacion/580/w3-article-2835.html) es decir, acciones) especialmente bonos del estado de Chile y bonos de empresas locales.
 
@@ -38,7 +39,7 @@ Resultado (tasas suben, renta fija baja): El fondo E (de renta fija) cae, y cae 
 
 Ya, ¿y por qué subieron las tasas en el mundo después de la sorpresa de Trump? Volvamos a “*Bart to the Future*”: luego de que Trump termina su mandato, es Lisa Simpson la que se convierte en presidenta, recibiendo un país “con una crisis presupuestaria” tan profunda que “tuvieron que pedir prestada plata a cada país del mundo”. Esto podría ser otra gran predicción de Los Simpsons, porque el triunfo de Trump significa en teoría aumento de gasto fiscal y reducción de impuestos corporativos, lo que en la práctica se traduce en mayores expectativas de inflación y peores expectativas respecto al presupuesto, que a su vez se refleja en una ALZA REPENTINA DE TASAS. Y es que a las tasas en general suelen subir en la medida que hayan movimientos sostenidos de expectativas de inflación al alza. Más encima, si el gobierno de USA gasta más plata de lo que tiene, eventualmente necesitará emitir más bonos, generando que los bonos valgan todavía menos, o dicho de otra forma, que las tasas suban.
 
-![Así se ve el fondo E en el largo plazo. Las caídas forman parte natural de su historia.](https://cdn-images-1.medium.com/max/2000/0*g5jMIEEcmtX3HBMd.)*Así se ve el fondo E en el largo plazo. Las caídas forman parte natural de su historia.*
+![Así se ve el fondo E en el largo plazo. Las caídas forman parte natural de su historia.](/uploads/por-qué-cayó-6207)*Así se ve el fondo E en el largo plazo. Las caídas forman parte natural de su historia.*
 
 ¿Qué pasó después?
 

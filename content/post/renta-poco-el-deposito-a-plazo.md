@@ -1,12 +1,13 @@
-+++
+---
+date: '2018-07-02T19:48:26+00:00'
+description: ''
+image: ''
+title: "¿Rentan poco los depósitos a plazo?"
+aliases:
+- "/renta-poco-el-deposito-a-plazo/"
 
-date = "2018-07-02T19:48:26+00:00"
-description = ""
-image = ""
-title = "¿Rentan poco los depósitos a plazo?"
-aliases = ["/renta-poco-el-deposito-a-plazo/"]
 
-+++
+---
 <img src="/uploads/Screen Shot 2018-07-04 at 8.08.10 AM.png" style="width:100%;height: auto;"/>
 
 <br>

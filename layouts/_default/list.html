@@ -11,7 +11,7 @@
             <div class="section-title">
             </div>
             <div class="row listrecent">
-                {{ $post_paginator := .Paginate (where .Data.Pages "Type" "post") 6 }}
+                {{ $post_paginator := .Paginate (where .Data.Pages "Type" "post") 12 }}
                 {{ range $post_paginator.Pages }}
                     {{- partial "list-partials/postbox.html" . -}}
                 {{end}}

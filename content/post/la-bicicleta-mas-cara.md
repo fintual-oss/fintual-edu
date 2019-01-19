@@ -1,10 +1,11 @@
-+++
+---
+date: '2018-07-05T04:41:49+00:00'
+title: Antes de que te compres la bicicleta más cara, lee esto.
+aliases:
+- "/la-bicicleta-mas-cara/"
 
-date = "2018-07-05T04:41:49+00:00"
-title = "Antes de que te compres la bicicleta más cara, lee esto."
-aliases = ["/la-bicicleta-mas-cara/"]
 
-+++
+---
 Cuando compras algo, un auto, un celular o una bicicleta top, lo que estás queriendo comprar es una mejor versión de ti mismo. Por eso te sientes bien cuando compras cosas.
 
 Según un chiste, la única diferencia entre un niño y un hombre es el precio de los juguetes que tiene. Esto no tiene nada de malo si lo que quieres es jugar y no competir por quien compra el juguete más caro.

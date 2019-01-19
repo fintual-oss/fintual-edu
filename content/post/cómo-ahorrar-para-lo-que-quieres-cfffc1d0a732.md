@@ -4,17 +4,18 @@ author_thumbnail: 0*Fxb64VaERzEbMLti.
 title: Cómo ahorrar para lo que quieres
 date: 2018-07-28
 draft: 'true'
+image: "/uploads/cómo-ahorrar-8768.jpg"
 
 
 ---
 
 ### Ayer vi el comercial de un niño en Tailandia que ahorra en su alcancía (con forma de nave espacial) y me recordó a mí cuando niño.
 
-![Casi yo en los ‘90.](https://cdn-images-1.medium.com/max/2762/1*JVQ3jO3tLYljgkuNSVOsDw.png)*Casi yo en los ‘90.*
+![Casi yo en los ‘90.](/uploads/cómo-ahorrar-6791.png)*Casi yo en los ‘90.*
 
 Solía tener alcancías de greda en forma de *chanchito* y cada vez que tenía ganas de ahorrar metía mis monedas ahí.
 
-![Tuve varios chanchitos-alcancía de greda así. Made in Pomaire.](https://cdn-images-1.medium.com/max/2048/0*8Sm2UBUVQo-vqZSl.jpg)*Tuve varios chanchitos-alcancía de greda así. Made in Pomaire.*
+![Tuve varios chanchitos-alcancía de greda así. Made in Pomaire.](/uploads/cómo-ahorrar-8768.jpg)*Tuve varios chanchitos-alcancía de greda así. Made in Pomaire.*
 
 Soñaba con hartas cosas: telescopios, consolas de videojuegos, incluso pensé en una moto (hasta el día de hoy no pasa nada con la moto). Y tuve más o menos algo de determinación y lograba casi siempre llenar el *chanchito* para después romperlo —con mucha pena por lo demás, porque me terminaba encariñando, especialmente los que venían pintados.
 

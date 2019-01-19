@@ -4,6 +4,7 @@ author_thumbnail: 1*P0sNvCNy0pvZnkfNkEKl_g.png
 title: Cuando inviertes con Fintual, inviertes en Netflix, Apple, Google y Amazon.
 date: 2018-2-29
 draft: 'true'
+image: "/uploads/cuando-invier8500.jpeg"
 
 
 ---
@@ -22,4 +23,4 @@ Omar, co-fundador que se encarga de las inversiones, me mira con cara de “¿en
 
 Creamos Fintual para que nuestros clientes no tuvieran que preocuparse de decidir en qué invertir, pero creo que yo debería meterme un poquito más, jaja.
 
-![Foto de Alex Kotliarskyi](https://cdn-images-1.medium.com/max/10944/1*6AMAmSIfHotp9XybUDqK4A.jpeg)*Foto de Alex Kotliarskyi*
+![Foto de Alex Kotliarskyi](/uploads/cuando-invier8500.jpeg)*Foto de Alex Kotliarskyi*
