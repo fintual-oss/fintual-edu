@@ -1,0 +1,18 @@
+
+    <section class="recent-posts">
+      <div class="col-lg-10 offset-lg-1 ">
+
+          {{ $related := .Site.RegularPages.Related . | first 3 }}
+          {{ with $related }}
+          <br></br>
+          <br></br>
+
+          <div class="row listrecent ">
+          	{{ range . }}
+          	 {{- partial "list-partials/postbox.html" . -}}
+          	{{ end }}
+          {{ end }}
+        </div>
+
+        </div>
+    </section>

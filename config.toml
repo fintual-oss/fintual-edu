@@ -1,67 +1,33 @@
 baseURL = "https://edu.fintual.com"
-languageCode = "es"
 title = "EDU Fintual"
 preserveTaxonomyNames = true
-theme = "nederburg"
+theme = "mediumish"
+copyright = " 2019 | fintual.com "
+languageCode = "es-cl"
+summaryLength = 15
+removePathAccents = true
 [params]
-  # Unmark to use post folder for images. Default is static folder.
-  #usepostimgfolder = true
-  slogan = "Aprendiendo a invertir bien"
-  description = "Describe your website" # meta description
-  # You need to set author to have an author bio. If you have a writer in the markdown file it will override this.
-  author = "Equipo Fintual"
-  authorLink = "https://edu.fintual.com"
-  bio = [
-    "Personas que invierten bien"
-  ]
-  copyright = [
-    "<a href=\"https://fintual.com\">&copy; 2019 Fintual, Inc.</a>"
-  ]
-
-
-  # Contact page
-     # Since this template is static, the contact form uses www.formspree.io as a
-     # proxy. The form makes a POST request to their servers to send the actual
-     # email. Visitors can send up to a 1000 emails each month for free.
-     #
-     # What you need to do for the setup?
-     #
-     # - set your email address under 'email' below (it is also used in Gravatar for the bio).
-     # - upload the generated site to your server
-     # - send a dummy email yourself to confirm your account
-     # - click the confirm link in the email from www.formspree.io
-     # - you're done. Happy mailing!
-  email = "hola@fintual.com"
-
-  # Nav links in the side bar
-  [[menu.main]]
-  name = "Principal"
-  url = "/"
-  weight = 1
-
-  [[menu.main]]
-  name = "Sobre nosotros"
-  url = "about/"
-  weight = 2
-
-
-# this will also be in author bio if there is no writer.
-  [params.social]
-  facebook      = "https://facebook.com/fintual"
-  email         = "hola@fintual.com"
-  twitter       = "https://twitter.com/fintual"
-  linkedin      = "https://www.linkedin.com/company/fintual/"
-  instagram     = "https://www.instagram.com/fintual/"
-  github        = "https://www.github.com/fintual"
-  rss           = true
-
-[params.writers]
-    [params.writers."Agustin Feuerhake"]
-      link = "https://platan.us"
-      email = "agustin@platan.us"
-      bio = [
-        "Socio Fundador y CMO (Chief Marketing Officer) de Fintual. Ingeniero Civil Industrial con Diploma en Tecnologías de la Información titulado con Distinción Máxima de la Pontificia Universidad Católica de Chile el año 2006. Confundador de Platanus y QueHambre.cl, el servicio de comidas a domicilio que fue vendido existosamente a la internacional Delivery Hero en 2014. En 2015 co-fundó la mayor plataforma de compra venta de Bitcoins de Chile, Colombia y Perú, Buda.com. Tiene más de 10 años de experiencia en marketing digital y construcción de negocios en internet y ha participado en la creación de servicios globales con más de 3 millones de usuarios combinados. Es hermano de la \"vieja cuica\" y alumnus de Y Combinator (Fintual, S18)."
-      ]
-      twitter       = "https://twitter.com/agustinf"
-      linkedin      = "https://linkedin.com/in/agustinfeuerhake"
-      github        = "https://github.com/agustinf"
+author = "Equipo Fintual"
+description = "Aprendiendo a invertir bien"
+displayauthor = true
+keywords = ["inversion", "fondos mutuos", "ahorro"]
+logo = "img/logo.png"
+sharingicons = false
+[params.highlight]
+languages = ["go", "dockerfile"]
+style = "github"
+[params.social]
+  twitter = "fintual"
+[taxonomies]
+category = "categories"
+tag = "tags"
+[related]
+threshold = 30.0
+includeNewer = true
+toLower = false
+  # [[related.indices]]
+  # name = "keywords"
+  # weight = 70.0
+  [[related.indices]]
+  name = "date"
+  weight = 30.0

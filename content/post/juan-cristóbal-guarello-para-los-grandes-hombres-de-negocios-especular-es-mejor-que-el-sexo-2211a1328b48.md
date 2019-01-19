@@ -5,11 +5,13 @@ title: 'Juan Cristóbal Guarello: “Especular es mejor que el sexo para los gra
   hombres de negocios”.'
 date: 2018-05-07
 draft: 'true'
-
+image: 'uploads/juan_cristobal_guarello.png'
+categories:
+  - entrevistas
 
 ---
 
-### Juan Cristóbal Guarello: “Especular es mejor que el sexo para los grandes hombres de negocios”.
+![](/uploads/juan_cristobal_guarello.jpeg)
 
 ### El periodista le contó a [Fintual](http://www.fintual.com) que no tiene talento para los negocios, que no gana un peso con su libro que acaba de publicar y cómo es que desde chico ha estado al tanto de la economía nacional.
 
@@ -74,5 +76,3 @@ Es que lo que hizo Piñera con el banco de Talca es francamente reprobable, los 
 **Bueno, no necesitas preocuparte tanto porque ahora eres millonario con tu libro.**
 
 Es muy divertido. La gente que no conoce el mundo editorial, se empieza a imaginar la casa en la playa cuando les hablas de sacar un libro. Salvo Ortega, Baradit… nadie gana un peso. En los libros, el autor se lleva el 10% de la ganancia, entonces si tu vendes tu libro en 14 lucas, y vendes mil libros, te llevas 1.400.000….y tienes que vender ¡MIL! O sea, anda juntando mil personas…y si vendes diez mil libros, te llevas catorce palos. Te alcanza y te compras un auto bueno, y te queda un poco de plata, y si vendes 100.000 libros te llevas 140 palos. Pero ¡¿cien mil libros?! En chile hay, con suerte , cuatro autores que venden eso. No. Yo no vivo de los libros.
-
-undefined

@@ -2,40 +2,11 @@
 
 date = "2018-07-08T16:37:29+00:00"
 description = "Invertir tiene que ser fácil."
-image = ""
+image = "/uploads/inviertepapa.png"
 title = "Hagamos esto papa"
 aliases = ["/hagamos-esto-papa/"]
 
 +++
-<style>
-
-p { margin:4rem 0px; text-align:justify; }
-
-.footer-big__overlap { padding-bottom:0px; }
-
-.image-wrapper {
-
-text-align: center;
-
-}
-
-.image-wrapper img {
-
-width: 60%; text-align: center; margin: 40px 0px;
-
-}
-
-@media (max-width: 768px)  {
-
-.image-wrapper img {
-
-width: 100%;
-
-}
-
-}
-
-</style>
 
 Habiendo tantas páginas para pedir comida, ¿cómo no existía una que te ayudara a invertir bien tu plata?
 
@@ -78,4 +49,7 @@ _Algunas personas dicen que algo es papa cuando es fácil._
 _Y nosotros queremos eso, que invertir sea papa._
 
 <p style="text-align:center">
-<a class="simulator-page__button btn btn--secondary" href="https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=awareness&utm_content=hagamos+esto+papa-112#empezar">Empezar</a></p>
+  <div class="buttonish">
+    <a href="https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=awareness&utm_content=hagamos+esto+papa-112#empezar">Empezar</a>
+  </div>
+</p>
