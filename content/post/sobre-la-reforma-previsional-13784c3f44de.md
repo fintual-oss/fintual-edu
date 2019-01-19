@@ -4,6 +4,7 @@ author_thumbnail: 0*Fxb64VaERzEbMLti.
 title: Sobre la reforma previsional
 date: 2018-10-06
 draft: 'true'
+image: "/uploads/sobre-la-refo4955.png"
 
 
 ---
@@ -12,7 +13,7 @@ draft: 'true'
 
 Las pensiones en Chile son malas — “gran noticia” — y la reforma busca mejorarlas, entre otras cosas, aumentando la cotización obligatoria de 10% a un 14%.
 
-![](https://cdn-images-1.medium.com/max/2000/1*RHCxUNPUFKSm4GtDRqJd2A.png)
+![](/uploads/sobre-la-refo4955.png)
 
 **Creemos que el ahorro previsional debiese ser alrededor de 20% o más**, y este nuevo 14% de ahorro obligatorio es un paso pequeño, pero importante, aún cuando no soluciona el problema de las lagunas previsionales, el financiamiento del pilar solidario, el analfabetismo financiero y la competencia de las AFPs.
 

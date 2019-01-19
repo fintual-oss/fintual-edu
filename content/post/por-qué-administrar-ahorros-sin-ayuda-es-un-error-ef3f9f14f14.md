@@ -4,6 +4,7 @@ author_thumbnail: 0*t6MxUX_jX9L6zyFK.jpg
 title: "¿Por qué administrar ahorros sin ayuda es un error?"
 date: 2016-08-08
 draft: 'true'
+image: "/uploads/por-qué-admin3141.jpeg"
 
 
 ---
@@ -21,7 +22,7 @@ No te convienen estos Fondos Mutuos por dos razones:
 
 ¿Y por qué la señora te ofrece fondos mal ajustados a tu riesgo y caros? Mal ajustados porque no sabe o no tiene tiempo. A la institución donde trabaja no le es rentable preparar asesores financieros para asesorar gente con “montos tan bajos”. Te ofrece fondos caros, porque a la institución le conviene vender precisamente los “productos” que les dejan mejor margen. Es como en las farmacias: el más vivo va a preguntar por el genérico, pero la que atiende igual le va a decir “cuidado que no son tan iguales” y hasta ahí no más llegó el vivaracho.
 
-![The Money Changers — Marinus van Reymerswaele](https://cdn-images-1.medium.com/max/2000/1*RbTeJ_KRzd7J2d5ouS3OTA.jpeg)*The Money Changers — Marinus van Reymerswaele*
+![The Money Changers — Marinus van Reymerswaele](/uploads/por-qué-admin3141.jpeg)*The Money Changers — Marinus van Reymerswaele*
 
 Y entonces, ¿qué puedes hacer? Existen alrededor de 500 fondos mutuos y muchos más instrumentos de inversión. Todos con distintas remuneraciones, comisiones, series y riesgos. Armar una cartera diversificada y ajustada para cada uno, donde (al menos) esperas no rentar peor que el promedio, es un problema donde hay que elegir de entre 2⁵⁰⁰ opciones (más opciones que la cantidad estimada de átomos en el universo). A esto súmale la poca transparencia, las comisiones y costos escondidos en explicaciones crípticas. No es fácil decidir y tener claridad de cómo y cuánto te están cobrando.
 

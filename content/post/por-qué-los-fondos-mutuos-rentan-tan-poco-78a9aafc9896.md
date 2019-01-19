@@ -4,6 +4,7 @@ author_thumbnail: 1*P0sNvCNy0pvZnkfNkEKl_g.png
 title: Por qué los fondos mutuos rentan tan poco
 date: 2018-03-20
 draft: 'true'
+image: "/uploads/por-qué-los-f8004.png"
 
 
 ---
@@ -22,7 +23,7 @@ Por ejemplo si tu plata renta 5% al año pero la comisión es 5%, tu rentabilida
 
 De hecho muchas veces pasa que tienes rentabilidad negativa porque la comisión es mayor que la rentabilidad.
 
-![Alguien que no conocemos pero que suele publicar cálculos financieros en twitter.](https://cdn-images-1.medium.com/max/2000/1*d-PB2bfdLtcmknpJsaChAQ.png)*Alguien que no conocemos pero que suele publicar cálculos financieros en twitter.*
+![Alguien que no conocemos pero que suele publicar cálculos financieros en twitter.](/uploads/por-qué-los-f8004.png)*Alguien que no conocemos pero que suele publicar cálculos financieros en twitter.*
 
 ¿Cómo funciona esto?
 

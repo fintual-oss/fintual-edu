@@ -1,10 +1,11 @@
-+++
+---
+date: '2018-07-05T04:32:13+00:00'
+title: "¿Cómo es la inversión en fondos mutuos?"
+aliases:
+- "/invertir-en-fondos-mutuos./"
 
-date = "2018-07-05T04:32:13+00:00"
-title = "¿Cómo es la inversión en fondos mutuos?"
-aliases = ["/invertir-en-fondos-mutuos./"]
 
-+++
+---
 Invertir bien no es sencillo.
 
 Y los fondos mutuos son soluciones más o menos malas pero muy usados por ser simples.

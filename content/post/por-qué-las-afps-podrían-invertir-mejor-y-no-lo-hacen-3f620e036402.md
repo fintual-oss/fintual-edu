@@ -4,6 +4,7 @@ author_thumbnail: 1*P0sNvCNy0pvZnkfNkEKl_g.png
 title: "¿Por qué las AFPs podrían invertir mejor y no lo hacen?"
 date: 2017-05-07
 draft: 'true'
+image: "/uploads/por-qué-las-a8063.jpeg"
 
 
 ---
@@ -48,7 +49,7 @@ En este caso el profesor, que es la ley, no tiene problemas con esto y de hecho 
 
 Porque la ley penaliza a las que estén muy debajo del promedio (artículo 37), entonces éstas prefieren copiarse y así no arriesgarse ninguna a pagar la multa.
 
-![Parte del equipo de Inversiones en una AFP](https://cdn-images-1.medium.com/max/2000/1*YOJeA51m20YyrcnXVqToGw.jpeg)*Parte del equipo de Inversiones en una AFP*
+![Parte del equipo de Inversiones en una AFP](/uploads/por-qué-las-a8063.jpeg)*Parte del equipo de Inversiones en una AFP*
 
 A la ley no le importa si todas lo hacen bien o mal, siempre y cuando estén en el promedio.
 

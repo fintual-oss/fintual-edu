@@ -4,13 +4,14 @@ author_thumbnail: 0*t6MxUX_jX9L6zyFK.jpg
 title: 'Presentando Fintual: cómo fue pasar de Silicon Valley al Chile Day en Londres.'
 date: 2018-08-15
 draft: 'true'
+image: "/uploads/presentando-f7808.jpeg"
 
 
 ---
 
 ### Es primera vez que invitan a una fintech al Chile Day. Aquí les cuento lo que pasó.
 
-![Ahí estoy presentando.](https://cdn-images-1.medium.com/max/3200/1*_lxxN86Pv4lHBmsj4CCbOA.jpeg)*Ahí estoy presentando.*
+![Ahí estoy presentando.](/uploads/presentando-f7170.jpeg)*Ahí estoy presentando.*
 
 Al Chile Day van casi puros señores importantes, los principales actores de la industria financiera chilena, algunos representantes del gobierno como el ministro de Hacienda o el presidente de la Comisión para el Mercado Financiero, y un par de individuos mal vestidos como yo.
 
@@ -18,7 +19,7 @@ Mal vestido porque algo pasó que **a todo el mundo le dio con ponerse traje y c
 
 El Chile Day se hace en “One Whitehall Place” un centro de eventos muy elegante que queda en la mitad de lo que se considera el centro gubernamental del Reino Unido, al lado de ministerios, departamentos de gobierno, los guardias reales, etc.
 
-![Éste era el salón principal de la conferencia.](https://cdn-images-1.medium.com/max/2000/1*DHUIW3TBsfKwWRWykm1w8Q.jpeg)*Éste era el salón principal de la conferencia.*
+![Éste era el salón principal de la conferencia.](/uploads/presentando-f1707.jpeg)*Éste era el salón principal de la conferencia.*
 
 Para llegar me perdí un poco, pero fue hasta agradable porque iba con tiempo y pude pasear un poco por Londres que es muy choro.
 
@@ -42,7 +43,7 @@ Así que para salir del paso me hice el millennial y los convencí a todos de qu
 
 Algo muy bueno en estos coffee breaks fue encontrarme con Axel Christensen, que es un crack y me cae muy bien. Le pedí hasta una selfie.
 
-![Axel Christensen y yo en Chile Day Londres 2018](https://cdn-images-1.medium.com/max/9216/1*eEEkNU1ixzfV5IpX2RxI-g.jpeg)*Axel Christensen y yo en Chile Day Londres 2018*
+![Axel Christensen y yo en Chile Day Londres 2018](/uploads/presentando-f7808.jpeg)*Axel Christensen y yo en Chile Day Londres 2018*
 
 **De todas las presentaciones la que más me gustó fue justamente la de Nico Shea, que entre otras cosas le pidió directamente a los viejujos ricachones de la audiencia que donaran plata para apoyar a emprendedores de origen humilde. **Contó cómo en otros países hay mucha más cultura de donación y cómo eso nos puede dejar atrás. De hecho, esto fue lo que más me llamó la atención en California, donde hasta el acuario de los pulpos en el zoológico tenía una plaquita tipo “donado por Angela Roberts en 1998”. **La donación es algo muy importante y genera muchos cambios, no sé por qué en Chile casi no veo nada de eso.**
 

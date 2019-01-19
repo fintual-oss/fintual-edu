@@ -1,12 +1,13 @@
-+++
+---
+date: '2018-07-05T03:16:27+00:00'
+description: ''
+image: ''
+title: "¿En qué invertir mi plata?"
+aliases:
+- "/en-que-invertir/"
 
-date = "2018-07-05T03:16:27+00:00"
-description = ""
-image = ""
-title = "¿En qué invertir mi plata?"
-aliases = ["/en-que-invertir/"]
 
-+++
+---
 Imagínate que recibes una herencia. O que te aburriste de tener tu plata parada en el banco sin generar intereses.
 
 ¿Qué hacer con esa plata? ¡Invertirla!

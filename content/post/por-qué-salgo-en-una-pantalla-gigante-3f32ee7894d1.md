@@ -4,6 +4,7 @@ author_thumbnail: 1*P0sNvCNy0pvZnkfNkEKl_g.png
 title: Nuestro CEO en la UNESCO
 date: 2017-03-28
 draft: 'true'
+image: "/uploads/por-qué-salgo7856.jpeg"
 
 
 ---
@@ -12,9 +13,9 @@ draft: 'true'
 
 Soy miembro de un directorio o think tank acá (junto a profes de Stanford, Oxford, Shangai, India, etc) y esta vez el foco estuvo en inteligencia artificial y machine learning, temas que nos tocará desarrollar en [FINTUAL.](http://www.fintual.com)
 
-![](https://cdn-images-1.medium.com/max/8064/1*drv_SPVt9o6LEEI5TNPIeQ.jpeg)
+![](/uploads/por-qué-salgo5290.jpeg)
 
-![Hablando de Premonition, un proyecto de Microsoft.](https://cdn-images-1.medium.com/max/8064/1*v7dkvud4HHXeUN55BzlwuQ.jpeg)*Hablando de Premonition, un proyecto de Microsoft.*
+![Hablando de Premonition, un proyecto de Microsoft.](/uploads/por-qué-salgo5056.jpeg)*Hablando de Premonition, un proyecto de Microsoft.*
 
 Por eso es que una vez al año me subo al escenario del auditorio de la UNESCO a hablar sobre alguna startup en particular y explicar porqué la elegimos entre las 10 más importantes ese año.
 
@@ -28,7 +29,7 @@ Según Pauline -la encargada comercial- los franceses son más clásicos y quier
 
 De nuevo, el nuestro tampoco es el mejor sitio (aún), pero tenemos nuevos releases cada lunes hasta lograr que *“mi mamá lo entienda” *y no le tenga miedo.
 
-![Oficina de fundshop.fr en París](https://cdn-images-1.medium.com/max/9216/1*nhaMtBjOq8mNq4UTFAvOEQ.jpeg)*Oficina de fundshop.fr en París*
+![Oficina de fundshop.fr en París](/uploads/por-qué-salgo7856.jpeg)*Oficina de fundshop.fr en París*
 
 En una de las conversaciones sobre inteligencia artificial alguien dijo algo que me hizo ruido: “mi hija millennial ni siquiera online quiere interactuar con una persona”. Wow, no sé si lleguemos a tanto porque la gente creo que necesita a un humano al otro cuando se trata de mucha plata, pero sí que tenemos que automatizar todo lo que se pueda con tal de bajar los costos que inciden directamente en la rentabilidad de nuestros clientes.
 

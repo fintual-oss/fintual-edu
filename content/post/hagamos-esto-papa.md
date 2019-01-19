@@ -1,12 +1,13 @@
-+++
+---
+date: '2018-07-08T16:37:29+00:00'
+description: Invertir tiene que ser fácil.
+image: "/uploads/inviertepapa.png"
+title: Hagamos esto papa
+aliases:
+- "/hagamos-esto-papa/"
 
-date = "2018-07-08T16:37:29+00:00"
-description = "Invertir tiene que ser fácil."
-image = "/uploads/inviertepapa.png"
-title = "Hagamos esto papa"
-aliases = ["/hagamos-esto-papa/"]
 
-+++
+---
 
 Habiendo tantas páginas para pedir comida, ¿cómo no existía una que te ayudara a invertir bien tu plata?
 

@@ -4,13 +4,14 @@ author_thumbnail: 0*Fxb64VaERzEbMLti.
 title: Turquía mal y Trump la remata
 date: 2018-07-10
 draft: 'true'
+image: "/uploads/turquía-mal-y5467.jpg"
 
 
 ---
 
 ### Donald Trump quiere aumentar al doble el impuesto que pagan los norteamericanos al comprar acero y aluminio turco. Y con eso la lira turca se desploma arrastrando a otros emergentes como Argentina, Brasil, Sudáfrica e incluso Chile, porque una vez que se desconfía de un emergente, se desconfía de todos. En gran parte por eso el dólar subió tanto estas últimas dos semanas (cerró casi a $670 el viernes) en Chile.
 
-![Roast Turkey](https://cdn-images-1.medium.com/max/2000/0*ZTOkddNXc8N6yavo.jpg)*Roast Turkey*
+![Roast Turkey](/uploads/turquía-mal-y8582.jpg)*Roast Turkey*
 
 Las finanzas del gobierno del turco Erdogan ya venían desastrosas, y depende totalmente de que otros países le presten plata ya que están muy mal endeudados. Que Trump les haga esto es un tiro de gracia disparado desde Twitter, a estas alturas, la plataforma oficial de comunicación del presidente de Estados Unidos.
 
@@ -22,7 +23,7 @@ Todos sabemos lo mucho que está sufriendo Venezuela con la hiperinflación. Blo
 
 Para combatir esto al presidente de Venezuela Nicolás Maduro se le ocurrió [subir el sueldo mínimo 3000%](https://www.washingtonpost.com/world/the_americas/maduro-has-a-plan-to-fix-venezuelas-inflation----which-may-make-things-worse/2018/08/19/7a6ee048-a3bf-11e8-ad6f-080770dcddc2_story.html?utm_term=.9e443f26a0bb) , además de devaluar el bolívar en un 90%. Al mismo tiempo declaró — redoble de tambores tucutucutúm — que ahora el bolívar estará respaldado por la moneda virtual [Petro](https://en.wikipedia.org/wiki/Petro_(cryptocurrency))!!! El Petro, criptomoneda lanzada en febrero de 2018 y desarrollada por el gobierno de Venezuela, supuestamente está ligado a reservas de petróleo del país (¿?).
 
-![Maduro muy feliz presentando su criptomoneda Petro](https://cdn-images-1.medium.com/max/2000/0*u1OplBdA4KV-wxZQ.jpg)*Maduro muy feliz presentando su criptomoneda Petro*
+![Maduro muy feliz presentando su criptomoneda Petro](/uploads/turquía-mal-y5467.jpg)*Maduro muy feliz presentando su criptomoneda Petro*
 
 Esto ya ha sido catalogado como un engaño por distintos expertos en la materia.
 

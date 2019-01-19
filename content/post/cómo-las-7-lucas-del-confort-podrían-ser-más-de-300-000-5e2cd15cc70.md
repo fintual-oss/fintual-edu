@@ -4,13 +4,14 @@ author_thumbnail: 1*P0sNvCNy0pvZnkfNkEKl_g.png
 title: Cómo las 7 lucas del confort podrían ser más de $300.000
 date: 2018-06-04
 draft: 'true'
+image: "/uploads/cómo-las-7-lu7744.png"
 
 
 ---
 
 ### Cachen esta conversación en twitter (les juramos que no son palos blancos).
 
-![](https://cdn-images-1.medium.com/max/2000/1*RW7azbZJvO8E8G3R1j2KmA.png)
+![](/uploads/cómo-las-7-lu7744.png)
 
 Así es.
 

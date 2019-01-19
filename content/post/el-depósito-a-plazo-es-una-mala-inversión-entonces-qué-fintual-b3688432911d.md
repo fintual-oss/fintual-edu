@@ -4,6 +4,7 @@ author_thumbnail: 1*P0sNvCNy0pvZnkfNkEKl_g.png
 title: El depósito a plazo es una mala inversión ¿Entonces qué? FINTUAL
 date: 2018-02-14
 draft: 'true'
+image: "/uploads/el-depósito-a5227.png"
 
 
 ---
@@ -32,7 +33,7 @@ Si a eso le sumas que en [FINTUAL](http://www.fintual.com) automatizamos casi to
 
 Mira tabla de El Mercurio donde ya aparecemos compitiendo con el Santander, BancoEstado, BBVA entre otros. Nos vemos tiernos… por ahora.
 
-![](https://cdn-images-1.medium.com/max/2604/1*D5lqUlIvf0qjDupFOYFzLA.png)
+![](/uploads/el-depósito-a5227.png)
 
 Empieza a invertir de la manera más sencilla en [www.fintual.com](http://www.fintual.com) y chao con los depósitos a plazo.
 

@@ -4,6 +4,7 @@ author_thumbnail: 1*P0sNvCNy0pvZnkfNkEKl_g.png
 title: "¿Qué vai a comprar acciones voh?"
 date: 2016-08-15
 draft: 'true'
+image: "/uploads/qué-vai-a-com8607.jpeg"
 
 
 ---
@@ -16,7 +17,7 @@ Nadie puede saber lo que va a pasar en el futuro. Nadie puede asegurar a ciencia
 
 No olvides que** siempre que alguien compra hay alguien que vende al otro lado. **Y que por lo tanto lo que tú crees que es bueno comprar, otro piensa que es mejor vender.
 
-![Imagen de Paul Colgan](https://cdn-images-1.medium.com/max/2280/1*Cijs5X7QzSf9HqUG5JkaQA.jpeg)*Imagen de Paul Colgan*
+![Imagen de Paul Colgan](/uploads/qué-vai-a-com8607.jpeg)*Imagen de Paul Colgan*
 
 Lo único que es 100% seguro son las comisiones que te van a cobrar.
 

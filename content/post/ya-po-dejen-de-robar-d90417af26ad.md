@@ -4,6 +4,7 @@ author_thumbnail: 1*P0sNvCNy0pvZnkfNkEKl_g.png
 title: Lobos de Wall Street en Chile
 date: 2016-10-26
 draft: 'true'
+image: "/uploads/ya-po-dejen-d4009"
 
 
 ---
@@ -12,7 +13,7 @@ draft: 'true'
 
 El mes pasado, [en el Diario Financiero](https://www.df.cl/noticias/mercados/finanzas-personales/gerente-de-aurus-esconde-perdidas-por-us-25-millones-y-fiscalia-inicia/2016-10-06/205434.html) explotó el caso Aurus donde uno de sus gerentes y socio que perdió millones de dólares, está acusado de esconder las pérdidas y transferirse millones de sus clientes mientras se emborrachaba en el Monticello (para evadirse del problema en el que estaba metido).
 
-![De la película Lobo de Wall Street.](https://cdn-images-1.medium.com/max/2000/0*sD6t98P_Eg2baPoL.jpg)*De la película Lobo de Wall Street.*
+![De la película Lobo de Wall Street.](/uploads/ya-po-dejen-d7886.jpg)*De la película Lobo de Wall Street.*
 
 En enero cuando fuimos a la oficina de Aurus en La Dehesa a pedir plata para nuestro emprendimiento, quedamos gratamente sorprendidos de la empresa, del equipo, de la oficina, pero particularmente del desempeño de sus fondos.
 
@@ -32,7 +33,7 @@ Hablamos de Aurus, grupo súper respetado en la industria cuyos fundadores viene
 
 Hablamos de las corredoras como Forex Chile (hoy Capitaria) y su CEO declarando a Bloomberg el año pasado [que el 70% de sus clientes perdía dinero](http://www.elmercurio.com/Inversiones/Noticias/Acciones/2015/03/13/Ganar-dinero-en-Chile-con-un-negocio-prohibido-en-EEUU.aspx), cuando lo que hacían (¿siguen haciendo?) es vender contratos por diferencia, *hueá* que en EEUU y Bélgica está prohibido vender al retail. ¿Es ilegal acá en Chile? no. ¿Es algo que recomendemos? por supuesto que no. ¿Lo encontramos* flaite*? oh yes we do.
 
-![](https://cdn-images-1.medium.com/max/2270/0*YIyU0eEVUGEKQHY1.)
+![](/uploads/ya-po-dejen-d4009)
 
 Hablamos de los directores de banco que al terminar una reunión de directorio tiran: “no olviden traer su *cachita* para la próxima reunión”. Donde *cachita* es cualquier idea nueva de comisión de $500 que se le pueda cobrar mensualmente a su millón de clientes o más.
 

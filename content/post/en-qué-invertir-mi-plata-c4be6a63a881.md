@@ -4,6 +4,7 @@ author_thumbnail: 1*cpAQhZhbBZgMrNepn5ymgw.jpeg
 title: En qué invertir mi plata
 date: 2018-11-10
 draft: 'true'
+image: "/uploads/en-qué-invert6761.png"
 
 
 ---
@@ -30,7 +31,7 @@ Peeero:
 
 * **¿Qué acciones comprar?**: Nidea. Para no poner todos los huevos en la misma canasta siempre se recomienda armar un portafolio de varias acciones, pero el mercado chileno es bien pequeño y probablemente no estés en los círculos de información privilegiada (algunos reñidos con la ley), por lo que las recomendaciones que te lleguen serán de amigos que *“cachan”* o de ejecutivos que tienen metas de ventas. **Los ejecutivos te venderán lo que les conviene a ellos, incluso por sobre tus intereses. **La ley no lo permite, la CMF dicta lo contrario en sus normativas, pero esto sigue siendo así y no creemos que vaya a cambiar. Si quieres hacerlo por tu cuenta, tienes que dedicar tu tiempo a leer seguido noticias financieras (y probablemente vas a llegar tarde igual). Para invertir en acciones y dormir tranquilo, la única estrategia que me atrevo a recomendar –y que históricamente ha dado resultado– es invertir de forma pasiva (siguiendo un índice o al promedio de un mercado).
 
-![Imagen de Paul Colgan](https://cdn-images-1.medium.com/max/2280/1*Cijs5X7QzSf9HqUG5JkaQA.jpeg)*Imagen de Paul Colgan*
+![Imagen de Paul Colgan](/uploads/en-qué-invert5107.jpeg)*Imagen de Paul Colgan*
 
 ### 3. Fondos mutuos
 
@@ -56,7 +57,7 @@ No, no es el bono marzo.
 
 Esto es para cualquier persona.
 
-![](https://cdn-images-1.medium.com/max/2600/1*x0ZWhED6tr8iBaLpDXY8VQ.png)
+![](/uploads/en-qué-invert6761.png)
 
 [El Estado te regala hasta $290.000 al año,](http://www.svs.cl/educa/602/w3-article-1721.html) todos los años, si logras ahorrar el equivalente a $155.000 mensuales.
 

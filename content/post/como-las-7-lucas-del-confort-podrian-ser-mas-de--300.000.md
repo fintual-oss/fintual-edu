@@ -1,10 +1,11 @@
-+++
+---
+date: '2018-07-05T01:32:11+00:00'
+title: Cómo las 7 lucas del confort podrían ser más de $300.000
+aliases:
+- "/como-las-7-lucas-del-confort-podrian-ser-mas-de--300.000/"
 
-date = "2018-07-05T01:32:11+00:00"
-title = "Cómo las 7 lucas del confort podrían ser más de $300.000"
-aliases = ["/como-las-7-lucas-del-confort-podrian-ser-mas-de--300.000/"]
 
-+++
+---
 Cachen [esta conversación](https://twitter.com/JmChile/status/1014684402411016195 "esta conversación") en twitter (les juramos que no son palos blancos).
 
 ![](/uploads/Screen Shot 2018-07-04 at 6.32.38 PM.png)

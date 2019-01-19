@@ -4,6 +4,7 @@ author_thumbnail: 1*P0sNvCNy0pvZnkfNkEKl_g.png
 title: "¿Cómo funciona FINTUAL? Conversando con un cliente."
 date: 2016-10-14
 draft: 'true'
+image: "/uploads/chat-con-un-c8459.png"
 
 
 ---
@@ -250,4 +251,4 @@ El cliente se llamaba… no, mentira.
 
 Si te quedan dudas, puedes revisar [fintual.cl/preguntas-frecuentes](https://fintual.cl/preguntas-frecuentes)
 
-![Imagen del inicio de la conversación](https://cdn-images-1.medium.com/max/2000/1*i4asdOgqVIVJxhYfNzq-og.png)*Imagen del inicio de la conversación*
+![Imagen del inicio de la conversación](/uploads/chat-con-un-c8459.png)*Imagen del inicio de la conversación*

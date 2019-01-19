@@ -1,12 +1,13 @@
-+++
+---
+date: '2018-06-25T19:33:31+00:00'
+description: ''
+image: ''
+title: Fondo Mutuo Online
+aliases:
+- "/fondo-mutuo-online/"
 
-date = "2018-06-25T19:33:31+00:00"
-description = ""
-image = ""
-title = "Fondo Mutuo Online"
-aliases = ["/fondo-mutuo-online/"]
 
-+++
+---
 ¿Existe alguna Administradora General de Fondos en Chile que permita a personas invertir 100% online?
 
 Sí.

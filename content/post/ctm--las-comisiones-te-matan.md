@@ -1,10 +1,12 @@
-+++
+---
+date: '2018-07-05T04:40:03+00:00'
+title: 'CTM: las Comisiones Te Matan'
+aliases:
+- "/ctm--las-comisiones-te-matan/"
+image: "/uploads/ctm--las-comi6974.png"
 
-date = "2018-07-05T04:40:03+00:00"
-title = "CTM: las Comisiones Te Matan"
-aliases = ["/ctm--las-comisiones-te-matan/"]
 
-+++
+---
 Súper poca gente sabe cuánto paga en comisiones cuando invierte.
 
 Incluso una vez un contador -que se supone que sabe- me dijo: _“pero si los fondos mutuos son gratis”._
@@ -33,7 +35,7 @@ Si inviertes 5.000.000 en un fondo mutuo que cobra 6,25% al año como [éste](h
 
 Si ese banco fuera más buena onda y cobrara lo que por ejemplo cobramos nosotros en Fintual, ganarías $1.918.489 y no 426 lucas.
 
-![](https://cdn-images-1.medium.com/max/800/1\*V-W8uGRHMObmCIjsj6fy3Q.png)
+![](/uploads/ctm--las-comi6974.png)
 
 Es más:
 

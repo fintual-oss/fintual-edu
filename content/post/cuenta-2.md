@@ -1,10 +1,11 @@
-+++
+---
+date: '2018-07-05T04:51:57+00:00'
+title: "¿Qué es la cuenta 2?"
+aliases:
+- "/cuenta-2/"
 
-date = "2018-07-05T04:51:57+00:00"
-title = "¿Qué es la cuenta 2?"
-aliases = ["/cuenta-2/"]
 
-+++
+---
 La cuenta 2 es una cuenta de ahorro voluntario, creada por las AFPs como complemento de la cuenta de capitalización individual que es obligatoria por ley. 
 
 Se invierte sobre los mismos fondos que la obligatoria, pero el dinero lo puedes sacar cuando quieras.

@@ -1,11 +1,12 @@
-+++
+---
+date: '2018-07-05T02:46:31+00:00'
+image: ''
+title: "¿Cómo ahorrar para la cuota de incorporación del colegio?"
+aliases:
+- "/cuota-de-incorporacion-a-colegio/"
 
-date = "2018-07-05T02:46:31+00:00"
-image = ""
-title = "¿Cómo ahorrar para la cuota de incorporación del colegio?"
-aliases = ["/cuota-de-incorporacion-a-colegio/"]
 
-+++
+---
 Los colegios con mejores resultados en la PSU suelen tener mensualidades altas respecto al promedio y aún así una alta demanda por ingresar cada año.
 
 Y por si fuera poco existe un pago único adicional conocido como la cuota de incorporación al colegio que en algunos casos bordea los $5.000.000.

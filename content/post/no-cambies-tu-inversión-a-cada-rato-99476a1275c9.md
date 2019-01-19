@@ -4,6 +4,7 @@ author_thumbnail: 1*d6W-SSXaQvYO6PueTLbwNw.png
 title: No cambies tu inversión a cada rato
 date: 2016-10-09
 draft: 'true'
+image: "/uploads/no-cambies-tu6942.jpeg"
 
 
 ---
@@ -26,7 +27,7 @@ Es por eso que sigo en el fondo A de mi AFP a pesar de todo lo que pasó el 2016
 
 Yo sé, la imagen del inversionista calmado que espera y no hace nada no es la que venden los medios. Todos crecimos con historias como las del Lobo de Wall Street, personajes que están día y noche vendiendo y comprando en forma frenética, buscando minuto a minuto oportunidades para hacerse más ricos. Pensamos que ésa es la única forma de ganar plata en el mundo de las inversiones.
 
-![](https://cdn-images-1.medium.com/max/2000/0*aa8IzVZ9h4rcwB1K.jpg)
+![](/uploads/no-cambies-tu4867.jpg)
 
 La realidad es un poco distinta y está basada en algo bastante obvio que sin embargo olvidamos frecuentemente: **nadie sabe cómo se va a comportar el mercado. Nadie. Absolutamente nadie.** ¿Por qué? Porque el mercado depende de infinitos factores, y como nadie puede predecir el futuro, nadie sabe qué va a pasar con esos factores. Y cualquiera de ellos puede tener una repercusión enorme en el precio los activos.
 
@@ -46,7 +47,7 @@ Los diarios venden más cuando hay una crisis.
 
 Las corredoras de bolsa ganan una comisión cada vez que vendes y compras, por lo que se esmeran en mostrarte nuevas *“oportunidades que no puedes dejar pasar”*.
 
-![Publicidad de un servicio de inversión chileno aparecida en diario La Tercera en enero 2017](https://cdn-images-1.medium.com/max/4842/1*LAY47y0ToxRPT6bzCxEBsw.jpeg)*Publicidad de un servicio de inversión chileno aparecida en diario La Tercera en enero 2017*
+![Publicidad de un servicio de inversión chileno aparecida en diario La Tercera en enero 2017](/uploads/no-cambies-tu6942.jpeg)*Publicidad de un servicio de inversión chileno aparecida en diario La Tercera en enero 2017*
 
 Y es por ella que los servicios que te recomiendan cambiarte de fondo de la AFP generan un clima de incertidumbre: necesitan que estés atento a su próxima recomendación para justificar su existencia (siendo que en realidad [no aportan ningún valor a sus usuarios](https://twitter.com/TendenciaAFP/status/805859921791250433)).
 
