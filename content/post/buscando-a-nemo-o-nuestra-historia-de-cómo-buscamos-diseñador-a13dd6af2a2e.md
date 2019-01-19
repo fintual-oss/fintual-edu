@@ -3,15 +3,14 @@ author: Pedro Pineda
 author_thumbnail: 1*P0sNvCNy0pvZnkfNkEKl_g.png
 title: Buscando a Nemo (o nuestra historia de cómo buscamos diseñador)
 date: 2018-09-16
-draft: 'true'
-image: "/uploads/buscando-a-ne5765.png"
+image: "/uploads/buscando-a-ne6543.png"
 
 
 ---
 
 ### Ésta es la historia de cómo buscamos a alguien para mejorar el diseño de Fintual. Llegaron tan buenos candidatos que quise compartirlos al final de este post y contar qué fue lo que hicimos.
 
-![](/uploads/buscando-a-ne8001.png)
+![](/uploads/buscando-a-ne1221.png)
 
 Cuando estás emprendiendo no está mal lanzar rápido y feo. Es una de las cosas que he aprendido y que a la gente más le cuesta aprender.
 
@@ -44,7 +43,7 @@ Le escribí.
 
 Después de 10 mails, este otro diseñador simplemente dejó de responderme.
 
-![¿Aló?](/uploads/buscando-a-ne4283.png)*¿Aló?*
+![¿Aló?](/uploads/buscando-a-ne3486.png)*¿Aló?*
 
 Y volví a cero.
 
@@ -52,7 +51,7 @@ Y volví a cero.
 
 El empleado número 1 de Fintual postuló a través de Getonbrd, así que volví a pagar gustoso los US$99 que cuesta publicar un anuncio, tratando de ser lo más explícito en el tipo de diseño que buscaba (puse hasta el link del gringo).
 
-![Anuncio en getonbrd](/uploads/buscando-a-ne2794.png)*Anuncio en getonbrd*
+![Anuncio en getonbrd](/uploads/buscando-a-ne5688.png)*Anuncio en getonbrd*
 
 Ofrecimos un sueldo (sin decir “envíen sus pretensiones de sueldo”).
 
@@ -66,35 +65,35 @@ Estoy muy agradecido de tantos trabajos tan buenos que llegaron, que de hecho po
 **Daniel Rebolledo.
 Propuesta para Fintual: [https://rezpo.design/fintual/index.html](https://rezpo.design/fintual/index.html)
 
-![](/uploads/buscando-a-ne6233.png)
+![](/uploads/buscando-a-ne8186.png)
 
-![A medida que ingresas tu mail, la ilustración te mira.](/uploads/buscando-a-ne5512.png)*A medida que ingresas tu mail, la ilustración te mira.*
+![A medida que ingresas tu mail, la ilustración te mira.](/uploads/buscando-a-ne4096.png)*A medida que ingresas tu mail, la ilustración te mira.*
 
-![Y cuando escribes tu clave un gato le tapa los ojos.](/uploads/buscando-a-ne1387.png)*Y cuando escribes tu clave un gato le tapa los ojos.*
+![Y cuando escribes tu clave un gato le tapa los ojos.](/uploads/buscando-a-ne3034.png)*Y cuando escribes tu clave un gato le tapa los ojos.*
 
 **Candidato 2**
 Javier Hernández Sánchez
 Propuesta para Fintual: [http://myguesttable.com/funtual](http://myguesttable.com/funtual)
 
-![](/uploads/buscando-a-ne6447.png)
+![](/uploads/buscando-a-ne6387.png)
 
 **Candidato 3.**
 Carlos Montenegro
 Propuesta para Fintual:
 
-![](/uploads/buscando-a-ne8416.png)
+![](/uploads/buscando-a-ne6440.png)
 
 **Candidato 4.**
 Philippe Paris
 Propuesta para Fintual: [https://philippeparis.net/fintual/web/fintual.html](https://philippeparis.net/fintual/web/fintual.html)
 
-![](/uploads/buscando-a-ne2744.png)
+![](/uploads/buscando-a-ne7312.png)
 
 **Candidato 5**
 Matías Gómez
 Propuesta para Fintual: [http://ielectric.cl/Pruebas/Login%20animado/](http://ielectric.cl/Pruebas/Login%20animado/)
 
-![](/uploads/buscando-a-ne6546.png)
+![](/uploads/buscando-a-ne6902.png)
 
 Estoy súper agradecido del tiempo y dedicación de los candidatos y feliz les comparto el contacto de cualquiera de ellos si me escriben a pedro@fintual.com
 
@@ -106,11 +105,11 @@ El ganador fue Juan, que se atrevió con una animación aún más difícil.
 **Juan Bustamante
 Propuesta para Fintual: [https://jb-fintual-demo.netlify.com/](https://jb-fintual-demo.netlify.com/)
 
-![Paso 1](/uploads/buscando-a-ne1107.png)*Paso 1*
+![Paso 1](/uploads/buscando-a-ne8444.png)*Paso 1*
 
-![Paso 2: Cuando aumentas el monto de la inversión la casa crece (las nubecitas también se mueven)](/uploads/buscando-a-ne4063.png)*Paso 2: Cuando aumentas el monto de la inversión la casa crece (las nubecitas también se mueven)*
+![Paso 2: Cuando aumentas el monto de la inversión la casa crece (las nubecitas también se mueven)](/uploads/buscando-a-ne5720.png)*Paso 2: Cuando aumentas el monto de la inversión la casa crece (las nubecitas también se mueven)*
 
-![Paso 3](/uploads/buscando-a-ne5765.png)*Paso 3*
+![Paso 3](/uploads/buscando-a-ne6543.png)*Paso 3*
 
 Ahora tengo que escribirle a Juan para que sepa.
 
