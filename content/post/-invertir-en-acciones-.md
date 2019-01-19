@@ -4,6 +4,7 @@ draft: true
 title: "¿Tiene sentido invertir en acciones?"
 categories:
 - inversión
+- ideas
 aliases:
 - "/-invertir-en-acciones-/"
 

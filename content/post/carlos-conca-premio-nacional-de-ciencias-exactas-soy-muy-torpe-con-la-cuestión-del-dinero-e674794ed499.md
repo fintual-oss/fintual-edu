@@ -5,7 +5,6 @@ title: 'Carlos Conca, Premio Nacional de Ciencias Exactas: “Soy muy torpe con 
   del dinero”.'
 date: 2018-06-09
 image: 'uploads/carlos_conca.jpeg'
-draft: 'true'
 categories:
   - entrevistas
 

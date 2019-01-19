@@ -5,7 +5,9 @@ title: Cuando inviertes con Fintual, inviertes en Netflix, Apple, Google y Amazo
 date: 2018-2-29
 draft: 'true'
 image: "/uploads/cuando-invier8500.jpeg"
-
+categories:
+  - ideas
+  - inversión
 
 ---
 

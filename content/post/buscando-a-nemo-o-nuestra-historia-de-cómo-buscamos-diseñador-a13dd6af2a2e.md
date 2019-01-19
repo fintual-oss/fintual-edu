@@ -4,7 +4,8 @@ author_thumbnail: 1*P0sNvCNy0pvZnkfNkEKl_g.png
 title: Buscando a Nemo (o nuestra historia de cómo buscamos diseñador)
 date: 2018-09-16
 image: "/uploads/buscando-a-ne6543.png"
-
+categories:
+- ideas
 
 ---
 

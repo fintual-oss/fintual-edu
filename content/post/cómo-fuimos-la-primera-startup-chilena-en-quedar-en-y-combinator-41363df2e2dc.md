@@ -3,9 +3,9 @@ author: Pedro Pineda
 author_thumbnail: 1*P0sNvCNy0pvZnkfNkEKl_g.png
 title: Cómo fuimos la primera startup chilena en quedar en Y Combinator
 date: 2018-04-08
-draft: 'true'
 image: "/uploads/cómo-fuimos-l3107.png"
-
+categories:
+- ideas
 
 ---
 
@@ -65,7 +65,7 @@ Primera vez que respondía *“How long have the founders known one another and 
 
 En esta última respondí:
 
-*I, Pedro, discovered three galaxies when I was 20. 
+*I, Pedro, discovered three galaxies when I was 20.
 Link: [https://arxiv.org/abs/astro-ph/0411325](http://email.email.ycombinator.com/c/eJwVjckKwyAURb8m7loca1y46Ka_UZ7DawQTRU3p59fA5Q5w4QQrJUdFklXgJPcIXCLAW7DIOERKdWASlRR6jYuk6RixHZDvO6RMNmuCcSoEZNHMmzFaIPWwikdELYJDku02Ru2LeC78NQXtl7730j5Xd_3yPlq51W1WKhkTXJFmawytTB5O4DlxvuxkWKg1Jw8jlaPP2Tll65Wn29MYMfwB7_5Asg)*
 
 El profe había elegido todos los puntos en el cielo, el telescopio los captó y yo sólo hacía el análisis espectral e iba diciendo “estrella, estrella, estrella, ¡galaxia!, estrella, estrella, estrella, estrella…” tres veces, pero si voy a competir con 15.000 postulantes del mundo entero tengo que encontrar una forma de destacar. Y si más encima me hacen esa pregunta: “dinos algo sorprendente que hayas descubierto?” “puta, tres galaxias…”

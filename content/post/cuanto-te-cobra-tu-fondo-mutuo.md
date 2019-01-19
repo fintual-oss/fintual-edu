@@ -4,7 +4,9 @@ image: https://edu.fintual.com/uploads/morgan-2.jpg
 title: "¿Cuánto te cobra tu fondo mutuo?"
 aliases:
 - "/cuanto-te-cobra-tu-fondo-mutuo/"
-
+categories:
+  - ideas
+  - inversión
 
 ---
 Es muy difícil que lo sepas.

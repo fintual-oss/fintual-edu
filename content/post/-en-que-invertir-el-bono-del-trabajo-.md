@@ -4,6 +4,7 @@ draft: true
 title: "¿En qué invertir el bono del trabajo?"
 categories:
 - inversión
+- ideas
 aliases:
 - "/-en-que-invertir-el-bono-del-trabajo-/"
 

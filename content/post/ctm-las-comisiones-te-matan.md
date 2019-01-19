@@ -5,7 +5,7 @@ description: 'Si quieres ver cuánta plata estás dejando de ganar por las comis
 image: "/uploads/simulador-1.png"
 title: 'CTM: las Comisiones Te Matan'
 categories:
-- ahorro
+- inversión
 aliases:
 - "/ctm-las-comisiones-te-matan/"
 

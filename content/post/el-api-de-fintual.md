@@ -6,7 +6,8 @@ image: "/uploads/image2.png"
 title: El API de Fintual
 aliases:
 - "/el-api-de-fintual/"
-
+categories:
+  - ideas
 
 ---
 En Fintual somos más ingenieros de software que comerciales / financieros así que no podíamos pasar demasiado tiempo sin ofrecer un API.
