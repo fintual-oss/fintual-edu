@@ -6,7 +6,9 @@ categories:
 - inversión
 aliases:
 - "/compra-de-departamentos/"
-
+categories:
+  - ideas
+  - inversión
 
 ---
 ![](/uploads/Screen Shot 2018-07-04 at 10.31.40 PM.png)<br>

@@ -5,7 +5,8 @@ title: 'CTM: las Comisiones Te Matan'
 date: 2018-04-18
 draft: 'true'
 image: "/uploads/ctm-las-comis3990.png"
-
+categories:
+  - inversión
 
 ---
 

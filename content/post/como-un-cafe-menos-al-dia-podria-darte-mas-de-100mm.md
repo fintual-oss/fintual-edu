@@ -5,7 +5,9 @@ image: "/uploads/cafe-millonario.png"
 title: Cómo un café menos al día podría darte más de $100.000.000
 aliases:
 - "/como-un-cafe-menos-al-dia-podria-darte-mas-de-100mm/"
-
+categories:
+  - ahorro
+  - ideas
 
 ---
 

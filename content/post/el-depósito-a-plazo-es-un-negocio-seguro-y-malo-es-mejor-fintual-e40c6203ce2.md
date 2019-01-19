@@ -5,7 +5,8 @@ title: El depósito a plazo es un negocio seguro y malo. Es mejor FINTUAL.
 date: 2016-10-07
 draft: 'true'
 image: "/uploads/el-depósito-a4163.png"
-
+categories:
+  - ahorro
 
 ---
 

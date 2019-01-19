@@ -5,11 +5,13 @@ title: "¿Cuánta plata hay que tener en la cuenta del banco?"
 date: 2017-11-20
 draft: 'true'
 image: "/uploads/"
-
+categories:
+  - ideas
+  - ahorro
 
 ---
 
-### 
+###
 
 Cuando tienes plata en el banco, ésta no se queda realmente ahí. El banco se la presta a otra persona, gana un 20% en intereses y a ti: ni las gracias.
 

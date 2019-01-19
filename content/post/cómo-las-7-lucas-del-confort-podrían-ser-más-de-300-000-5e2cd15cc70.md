@@ -3,9 +3,9 @@ author: Pedro Pineda
 author_thumbnail: 1*P0sNvCNy0pvZnkfNkEKl_g.png
 title: Cómo las 7 lucas del confort podrían ser más de $300.000
 date: 2018-06-04
-draft: 'true'
 image: "/uploads/cómo-las-7-lu7744.png"
-
+categories:
+- ideas
 
 ---
 
