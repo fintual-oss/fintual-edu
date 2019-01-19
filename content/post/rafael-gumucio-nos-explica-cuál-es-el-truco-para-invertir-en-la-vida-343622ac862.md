@@ -4,11 +4,13 @@ author_thumbnail: 1*P0sNvCNy0pvZnkfNkEKl_g.png
 title: Rafael Gumucio nos explica cuál es el truco para invertir en la vida
 date: 2016-07-29
 draft: 'true'
-
+image: 'uploads/rafael_gumucio.jpeg'
+categories:
+  - entrevistas
 
 ---
 
-### Rafael Gumucio nos explica cuál es el truco para invertir en la vida
+![](/uploads/rafael_gumucio.jpeg)
 
 ## **El escritor se sentó con [FINTUAL](https://fintual.cl/) y habló de su primer trabajo remunerado, su método neurótico para manejar las finanzas y el truco con el que invirtió su capital entre los 18 y los 29.**
 

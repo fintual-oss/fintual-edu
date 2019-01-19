@@ -4,11 +4,13 @@ author_thumbnail: 0*5Ba8u2jyfN08L-yX.jpg
 title: 'Álvaro Díaz: “La plata es lo más ordinario que hay”'
 date: 2017-04-23
 draft: 'true'
-
+image: 'uploads/alvaro_diaz.jpeg'
+categories:
+  - entrevistas
 
 ---
 
-### Álvaro Díaz: “La plata es lo más ordinario que hay”
+![](/uploads/alvaro_diaz.jpeg)
 
 ## El co-creador de 31 minutos nos cuenta que nunca se tituló porque no tenía plata, que prefiere un Toyota a un Mercedes y que no vale la pena perder el tiempo en inversiones.
 
@@ -107,5 +109,3 @@ Yo creo que el peor castigo para la gente es ese discurso de que te estás *perd
 No, ni cagando, no me interesa.
 
 *Ve porqué FINTUAL es [mejor que un depósito a plazo.](https://blog.fintual.cl/el-dep%C3%B3sito-a-plazo-es-un-negocio-seguro-y-malo-es-mejor-fintual-e40c6203ce2)*
-
-undefined

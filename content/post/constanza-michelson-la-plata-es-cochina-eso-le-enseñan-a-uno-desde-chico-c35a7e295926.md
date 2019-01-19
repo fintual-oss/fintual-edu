@@ -4,12 +4,13 @@ author_thumbnail: 0*5Ba8u2jyfN08L-yX.jpg
 title: 'Constanza Michelson: “La plata es cochina, eso le enseñan a uno desde chico”.'
 date: 2018-05-11
 draft: 'true'
-
+image: '/uploads/constanza_michelson.png'
+categories:
+  - entrevistas
 
 ---
 
-### Constanza Michelson: “La plata es cochina, eso le enseñan a uno desde chico”.
-
+![](/uploads/constanza_michelson.png)
 ## La psicoanalista cuenta que en el colegio se avergonzaba de su situación económica, que se gasta todo lo que gana y que Kidzania no es tan terrible como creen los progres.
 
 *Esta entrevista es parte de la serie “Con dinero y sin dinero” de [FINTUAL](https://fintual.cl) donde preguntamos a gente interesante sobre el rol que el dinero ha jugado en sus vidas. Constanza Michelson es psicóloga de la Universidad Diego Portales con magister en psicoanálisis. Escribe columnas en diversos medios como The Clinic, Tendencias de La Tercera y Huffington Post España. Ha publicado dos libros: “50 sombras de Freud: laberintos del amor y el sexo” (Catalonia, 2015) y “Neuróticos” (Planeta, 2017)*

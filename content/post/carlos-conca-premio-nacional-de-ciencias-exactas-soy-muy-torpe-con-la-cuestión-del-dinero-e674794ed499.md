@@ -4,12 +4,14 @@ author_thumbnail: 1*P0sNvCNy0pvZnkfNkEKl_g.png
 title: 'Carlos Conca, Premio Nacional de Ciencias Exactas: “Soy muy torpe con la cuestión
   del dinero”.'
 date: 2018-06-09
+image: 'uploads/carlos_conca.jpeg'
 draft: 'true'
-
+categories:
+  - entrevistas
 
 ---
 
-### Carlos Conca, Premio Nacional de Ciencias Exactas: “Soy muy torpe con la cuestión del dinero”.
+![](/uploads/carlos_conca.jpeg)
 
 ### El ingeniero matemático nos contó sobre su sueldo de $0 en los años setenta, su participación como accionista fundador de Azul Azul y la relación distante que tiene con el dinero.
 
@@ -118,5 +120,3 @@ No. Ni una. Es más por cariño. En los negocios a mí nunca me ha ido bien. Nun
 **Hay que priorizar la pasión antes que el dinero entonces…**
 
 El consejo que siempre doy es que uno tiene que amar lo que hace y hacerlo incluso si no hay dinero de por medio.
-
-undefined

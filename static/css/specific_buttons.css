@@ -1,0 +1,24 @@
+.buttonish {
+  text-align: center;
+}
+
+.buttonish a {
+  background-color: #38312f;
+  color: #8c8c8c;
+  padding: 1em 1.5em;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.buttonish a:hover {
+  background-color: #555;
+  color: #fff;
+}
+
+.buttonish a:active {
+  background-color: #000;
+}
+
+.buttonish a:visited {
+  background-color: #38312f;
+}
