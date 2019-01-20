@@ -6,6 +6,8 @@ date: 2017-05-06
 categories:
 - ideas
 image: "/uploads/cómo-tuvimos-5262.png"
+aliases:
+- "/cómo-tuvimos-reuniones-en-europa-1bc5e3408873/"
 
 
 ---

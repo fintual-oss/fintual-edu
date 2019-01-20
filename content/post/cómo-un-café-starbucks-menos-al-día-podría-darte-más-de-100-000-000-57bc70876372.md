@@ -5,6 +5,8 @@ title: Cómo un café menos al día podría darte más de $100.000.000
 date: 2018-03-16
 draft: 'true'
 image: "/uploads/cómo-un-café-5600.png"
+aliases:
+- "/cómo-un-café-starbucks-menos-al-día-podría-darte-más-de-100-000-000-57bc70876372/"
 
 
 ---

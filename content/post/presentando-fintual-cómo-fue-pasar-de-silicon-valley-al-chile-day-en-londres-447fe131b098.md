@@ -5,7 +5,11 @@ title: 'Presentando Fintual: cómo fue pasar de Silicon Valley al Chile Day en L
 date: 2018-08-15
 image: "/uploads/presentando-f7808.jpeg"
 categories:
-  - noticias
+- noticias
+aliases:
+- "/presentando-fintual-cómo-fue-pasar-de-silicon-valley-al-chile-day-en-londres-447fe131b098/"
+
+
 ---
 
 ### Es primera vez que invitan a una fintech al Chile Day. Aquí les cuento lo que pasó.

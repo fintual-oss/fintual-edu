@@ -20,10 +20,10 @@
                       <h1 class="posttitle">{{ .Title }}</h1>
                         <!-- Author Box -->
                         {{if isset .Params "author"}}
-                        {{if isset .Params "face"}}
+                        {{if isset .Params "author_thumbnail"}}
                         <div class="post-top-meta">
                             <div>
-                                <img class="author-thumb" src="{{ .Params.face | urlize | relURL}}" alt="{{ .Params.author }}">
+                                <img class="author-thumb" src="{{ .Params.author_thumbnail | urlize | relURL}}" alt="{{ .Params.author }}">
                             </div>
                             <div >
                                 <a target="_blank" class="link-dark">{{ .Params.author }}</a><br>

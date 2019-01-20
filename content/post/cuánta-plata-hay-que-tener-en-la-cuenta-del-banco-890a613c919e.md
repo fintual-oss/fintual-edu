@@ -6,8 +6,11 @@ date: 2017-11-20
 draft: 'true'
 image: "/uploads/"
 categories:
-  - ideas
-  - ahorro
+- ideas
+- ahorro
+aliases:
+- "/cuánta-plata-hay-que-tener-en-la-cuenta-del-banco-890a613c919e/"
+
 
 ---
 

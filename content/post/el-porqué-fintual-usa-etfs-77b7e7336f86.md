@@ -6,7 +6,10 @@ date: 2018-02-07
 draft: 'true'
 image: "/uploads/el-porqué-fin6323.png"
 categories:
-  - inversión
+- inversión
+aliases:
+- "/el-porqué-fintual-usa-etfs-77b7e7336f86/"
+
 
 ---
 

@@ -5,7 +5,10 @@ title: Turquía mal y Trump la remata
 date: 2018-07-10
 image: "/uploads/turquía-mal-y5467.jpg"
 categories:
-  - inversión
+- inversión
+aliases:
+- "/turquía-mal-y-trump-la-remata-111e34120df9/"
+
 
 ---
 

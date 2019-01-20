@@ -3,9 +3,12 @@ author: FranFeuer
 author_thumbnail: 0*5Ba8u2jyfN08L-yX.jpg
 title: 'Álvaro Díaz: “La plata es lo más ordinario que hay”'
 date: 2017-04-23
-image: 'uploads/alvaro_diaz.jpeg'
+image: uploads/alvaro_diaz.jpeg
 categories:
-  - entrevistas
+- entrevistas
+aliases:
+- "/álvaro-díaz-la-plata-es-lo-más-ordinario-que-hay-951c82cf31c5/"
+
 
 ---
 

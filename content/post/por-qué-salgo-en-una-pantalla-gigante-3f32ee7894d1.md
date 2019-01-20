@@ -5,7 +5,10 @@ title: Nuestro CEO en la UNESCO
 date: 2017-03-28
 image: "/uploads/por-qué-salgo7856.jpeg"
 categories:
-  - noticias
+- noticias
+aliases:
+- "/por-qué-salgo-en-una-pantalla-gigante-3f32ee7894d1/"
+
 
 ---
 

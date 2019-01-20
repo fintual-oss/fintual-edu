@@ -6,7 +6,10 @@ date: 2018-04-18
 draft: 'true'
 image: "/uploads/ctm-las-comis3990.png"
 categories:
-  - inversión
+- inversión
+aliases:
+- "/ctm-las-comisiones-te-matan-9aa0c2ffbda0/"
+
 
 ---
 

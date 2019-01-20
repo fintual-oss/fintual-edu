@@ -4,6 +4,9 @@ author_thumbnail: 1*AufcVB25eJVAOqdCQc8r4g.jpeg
 title: Pocas mujeres en el mundo financiero
 date: 2018-04-11
 image: "/uploads/pocas-mujeres5581.png"
+aliases:
+- "/pocas-mujeres-en-el-mundo-financiero-76c31a395a3f/"
+
 
 ---
 
