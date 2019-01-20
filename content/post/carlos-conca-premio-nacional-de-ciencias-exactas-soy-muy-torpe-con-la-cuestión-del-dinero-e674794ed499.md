@@ -1,6 +1,6 @@
 ---
 author: Pedro Pineda
-author_thumbnail: 1*P0sNvCNy0pvZnkfNkEKl_g.png
+author_thumbnail: "/uploads/pedro_pineda.png"
 title: 'Carlos Conca, Premio Nacional de Ciencias Exactas: “Soy muy torpe con la cuestión
   del dinero”.'
 date: 2018-06-09

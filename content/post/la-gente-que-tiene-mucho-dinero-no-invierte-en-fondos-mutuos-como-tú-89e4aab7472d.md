@@ -1,6 +1,6 @@
 ---
 author: Pedro Pineda
-author_thumbnail: 1*P0sNvCNy0pvZnkfNkEKl_g.png
+author_thumbnail: "/uploads/pedro_pineda.png"
 title: La gente que tiene mucho dinero no invierte en Fondos Mutuos como tú.
 date: 2018-02-14
 image: "/uploads/la-gente-que-4060.png"

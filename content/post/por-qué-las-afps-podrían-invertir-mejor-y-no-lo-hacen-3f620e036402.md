@@ -1,6 +1,6 @@
 ---
 author: Pedro Pineda
-author_thumbnail: 1*P0sNvCNy0pvZnkfNkEKl_g.png
+author_thumbnail: "/uploads/pedro_pineda.png"
 title: "¿Por qué las AFPs podrían invertir mejor y no lo hacen?"
 date: 2017-05-07
 image: "/uploads/por-qué-las-a8063.jpeg"

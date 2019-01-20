@@ -1,9 +1,8 @@
 ---
 author: Omar Larré
-author_thumbnail: 0*Fxb64VaERzEbMLti.
+author_thumbnail: "/uploads/omar_larre.jpeg"
 title: Porqué Fintual invierte en ETFs
 date: 2018-02-07
-draft: 'true'
 image: "/uploads/el-porqué-fin6323.png"
 categories:
 - inversión

@@ -4,7 +4,8 @@ title: "¿Cómo es la inversión en fondos mutuos?"
 aliases:
 - "/invertir-en-fondos-mutuos./"
 categories:
-  - inversión
+- inversión
+
 
 ---
 Invertir bien no es sencillo.

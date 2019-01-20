@@ -1,6 +1,6 @@
 ---
 author: Pedro Pineda
-author_thumbnail: 1*P0sNvCNy0pvZnkfNkEKl_g.png
+author_thumbnail: "/uploads/pedro_pineda.png"
 title: "¿Cómo funciona FINTUAL? Conversando con un cliente."
 date: 2016-10-14
 image: "/uploads/chat-con-un-c8459.png"

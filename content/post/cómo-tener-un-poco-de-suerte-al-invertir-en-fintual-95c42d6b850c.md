@@ -1,6 +1,6 @@
 ---
 author: Omar Larré
-author_thumbnail: 0*Fxb64VaERzEbMLti.
+author_thumbnail: "/uploads/omar_larre.jpeg"
 title: Cómo tener un poco de suerte al invertir en Fintual
 date: 2018-09-02
 image: "/uploads/cómo-tener-un4313.jpeg"

@@ -1,6 +1,6 @@
 ---
 author: FranFeuer
-author_thumbnail: 0*5Ba8u2jyfN08L-yX.jpg
+author_thumbnail: "/uploads/francisca_feuerhake.jpg"
 title: 'Álvaro Díaz: “La plata es lo más ordinario que hay”'
 date: 2017-04-23
 image: uploads/alvaro_diaz.jpeg

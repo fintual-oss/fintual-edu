@@ -5,6 +5,8 @@ image: "/uploads/inviertepapa.png"
 title: Hagamos esto papa
 aliases:
 - "/hagamos-esto-papa/"
+
+
 ---
 
 Habiendo tantas páginas para pedir comida, ¿cómo no existía una que te ayudara a invertir bien tu plata?

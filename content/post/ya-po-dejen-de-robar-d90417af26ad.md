@@ -1,6 +1,6 @@
 ---
 author: Pedro Pineda
-author_thumbnail: 1*P0sNvCNy0pvZnkfNkEKl_g.png
+author_thumbnail: "/uploads/pedro_pineda.png"
 title: Lobos de Wall Street en Chile
 date: 2016-10-26
 image: "/uploads/ya-po-dejen-d4009"

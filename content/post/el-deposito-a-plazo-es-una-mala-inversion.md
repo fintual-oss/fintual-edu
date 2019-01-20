@@ -6,7 +6,8 @@ title: El deposito a plazo es una mala inversion
 aliases:
 - "/el-deposito-a-plazo-es-una-mala-inversion/"
 categories:
-  - ahorro
+- ahorro
+
 
 ---
 <style>

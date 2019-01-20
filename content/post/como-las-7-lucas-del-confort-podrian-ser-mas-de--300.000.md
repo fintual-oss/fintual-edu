@@ -7,6 +7,7 @@ categories:
 - ideas
 draft: 'true'
 
+
 ---
 Cachen [esta conversación](https://twitter.com/JmChile/status/1014684402411016195 "esta conversación") en twitter (les juramos que no son palos blancos).
 

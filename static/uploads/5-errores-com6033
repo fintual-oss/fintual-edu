@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="es" itemscope itemtype="http://schema.org/Organization">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    
+
+    <!-- Favicon icon -->
+    <link rel="shortcut icon" href="https://fintual.cl/assets/favicon-aac992d304fa62389e0b8c8336c9abd447474b7d661bf53f0c5d7ebfc006532a.ico">
+    <link rel="apple-touch-icon" sizes="57x57" href="https://fintual.cl/assets/apple-icon-57x57-6dcf8241c78a1b8a0f13d70c7906ed04a686b78360479f6710d6d6d20c4d72e7.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="https://fintual.cl/assets/apple-icon-72x72-229e9667fe53fa5db70c834d735e416d429109e3fc4778713544e2c61fa1cd43.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="https://fintual.cl/assets/apple-icon-114x114-c49177524e79ca2894184b363ff4e053032c23a5e0acd18a6d6f9678033c1e01.png" />
+    <link rel="apple-touch-icon" sizes="144x144" href="https://fintual.cl/assets/apple-icon-144x144-761dd5d3bc52f605f55e9c46640626ca67cab2ff9a20c43511af80ec5b2cfb0f.png" />
+
+    <!-- Google fonts -->
+    <link href='https://fonts.googleapis.com/css?family=Roboto:400,300,500,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:600|Montserrat:400,700' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+    <!-- Site Title -->
+    <title>Fintual - Personas que invierten bien</title>
+    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MZ9JMJ');</script>
+<!-- End Google Tag Manager -->
+
+    <script>
+  window.intercomSettings = {
+    app_id: "ee20jij0",
+  };
+</script>
+<script>(function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',intercomSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Intercom=i;var l=function(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/ee20jij0';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);};if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})()</script>
+
+    <script src="/packs/referrer-9df804cf80ce5b8cd87c.js"></script>
+
+    <link rel="stylesheet" media="all" href="/assets/application-729e192d274333ddce597259fbe9eac3ddf5012463a70fc73bc12263a83e924c.css" />
+    <link rel="stylesheet" media="screen" href="/packs/referrer-d34cbf21f0f4afc608d5073560829c62.css" />
+
+    <script src="/assets/application-be6f9bd6a016f90e00573c647b446df3a5061dc33377cac46e1ac3cc7609c671.js"></script>
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="MaGuo8bo+vvM9wWSQ2VzFP4skqF6syBVlvVAft30eu/vxlkC9wMj88d+SncpX1PzRPsffxb9HGvyhwySZ+KERw==" />
+  </head>
+
+<body data-spy="scroll" ng-app="fintualApp" data-target="#navbar-menu" class="">
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MZ9JMJ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+  <div csrf-token="nhCKkFyaslKOmoVRElSYPuS4zfO2e2SD1Otwr5B4hI1Ad30xbXFrWoUTyrR4brjZXm9ALdo1WL2wmTxDKm56JQ=="></div>
+  <div class="navbar" role="navigation">
+      <div class="container">
+
+        <!-- Navbar-header -->
+        <div class="navbar-header">
+          <!-- Responsive menu button -->
+          <button type="button" class="navbar-toggle navbar-custom__toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Expandir</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+
+          <!-- LOGO -->
+          <div class="navbar-brand navbar-custom__brand">
+            <a href="/">
+              <i class="zmdi zmdi-navigation"></i> <img src="/assets/fintual-78b8cb76f6108d80f3219e43530ddb9d4700e4d0b44d6f567f6395a377d66367.png" width="120"/>
+</a>          </div>
+
+        </div>
+
+        <!-- menu -->
+        <div class="navbar-collapse collapse" id="navbar-menu">
+
+          <!-- Navbar right -->
+          <ul class="nav navbar-nav navbar-right">
+            <li class="navbar-nav__item" navbar-item="como-funciona"><a href="/simple">¿Cómo funciona?</a></li>
+            <li class="navbar-nav__item" navbar-item="numeros"><a href="/numeros">Números</a></li>
+            <li class="navbar-nav__item" navbar-item="equipo"><a href="/equipo">Equipo</a></li>
+            <li class="navbar-nav__item" navbar-item="blog"><a target="_blank" href="http://blog.fintual.cl">Blog</a></li>
+              <li class="navbar-nav__item navbar-nav__item--positive" navbar-item="login">
+                <a class="btn-positive" href="/app/login">Ir a mi cuenta</a>
+              </li>
+          </ul>
+
+        </div>
+      </div>
+  </div>
+
+  <div class="page allocation-page simulator-page"
+     ng-controller="SimulatorController as vm">
+  <div class="container">
+    <div class="allocation-box">
+      <div class="simulator-page__header header">
+        <h1 class="simulator-page__title header__title">Lo que ganas cuando inviertes $5.000.000</h1>
+        <div class="simulator-page__subtitle">depende de lo que te cobran</div>
+      </div>
+      <div class="simulator-page__sharing">
+          <a class="js-social-share simulator-page__sharing-link facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ffintual.cl%2Fsimulador">
+            <img alt="Compartir en Facebook" src="/assets/social/facebook-clean-a1d200c2c177bdec4c3bd98c8472efaa60792d8aa0e7e33da82e56c5e9b68bd6.svg" />
+</a>          <a class="js-social-share simulator-page__sharing-link twitter" target="_blank" href="https://twitter.com/intent/tweet?text=Cuando inviertes, lo que ganas depende de las comisiones&amp;url=https%3A%2F%2Ffintual.cl%2Fsimulador">
+            <img alt="Compartir en Twitter" src="/assets/social/twitter-clean-5b89c47e94fa24547c98d519561b8494009ee7fd4fcc1c63bca5f3f7e881c586.svg" />
+</a>          <a class="js-social-share simulator-page__sharing-link whatsapp" target="_blank" href="whatsapp://send?text=Cuando inviertes, lo que ganas depende de las comisiones:https%3A%2F%2Ffintual.cl%2Fsimulador">
+            <img alt="Compartir en WhatsApp" src="/assets/social/whatsapp-clean-2ef5f256583bfc924c87cf1bd2d7fc5d51e62eb590a0127e7ea70a31db7307e0.svg" />
+</a>          <a class="js-social-share simulator-page__sharing-link linkedin" target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;title=Cuando+inviertes%2C+lo+que+ganas+depende+de+las+comisiones      &amp;url=https%3A%2F%2Ffintual.cl%2Fsimulador&amp;source=Fintual">
+            <img alt="Compartir en LinkedIn" src="/assets/social/linkedin-clean-41d1b449eff2b5996f984d822b8d2f7a34ad24327e1bef198e296da110711d82.svg" />
+</a>      </div>
+    </div>
+    </div>
+
+    <div class="simulator-page__graph-section">
+      <div class="simulator-page__graph-container">
+        <div class="allocation-graph simulator-page__graph">
+          <div class="allocation-sliders">
+            <div class="allocation-slider">
+              <div class="allocation-slider__info">
+                <div class="allocation-slider__label">¿Cuánto te cobran?</div>
+                <input type="text" pu-elastic-input class="simulator-page__slider-input allocation-slider__value" ng-model="vm.fee" required>%
+              </div>
+              <rzslider class="allocation-rzslider"
+                        rz-slider-model="vm.fee"
+                        rz-slider-options="{ precision: 2, floor: 1.19, ceil: 8, step: 0.01, showSelectionBar: true, showTicks: false, hidePointerLabels: true, hideLimitLabels: true }">
+              </rzslider>
+            </div>
+          </div>
+          <div class="allocation-graph__graph" ng-cloak>
+            <simulator-graph
+              prediction-graph-extension
+              portfolio="vm.mockPortfolio"
+              timeframe="vm.timeframeInMonths"
+              initial="vm.oneTimeDeposit"
+              target="vm.targetCents"
+              monthly="vm.monthlyDeposit"
+              resolution="vm.timeframeSliderType"
+              fee="vm.fee"
+              ng-if="vm.mockPortfolio">
+            </simulator-graph>
+          </div>
+          <div class="allocation-legends">
+            <div class="allocation-legends__today">Hoy</div>
+            <div class="allocation-legends__symbols">
+              <div class="allocation-legends__symbol">
+                <div class="line fintual"></div>
+                <div class="symbol-label">Fintual</div>
+              </div>
+              <div class="allocation-legends__symbol">
+                <div class="line others"></div>
+                <div class="symbol-label">Otros</div>
+              </div>
+            </div>
+            <div class="allocation-legends__future" ng-cloak>
+              <label for="allocationYears" class="fintual-select-container" ng-cloak>
+                <div id="allocation-years-label" class="fintual-select-container__display">{{ vm.years }} años</div>
+                <select id="allocationYears" ng-model="vm.years" ng-options="yearOption.value as yearOption.label for yearOption in vm.yearOptions"></select>
+              </label>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="simulator-page__footer container">
+      <div class="simulator-page__disclaimer">
+        Supusimos una rentabilidad promedio de un fondo accionario (7.9% al año).
+      </div>
+
+      <div class="simulator-page__cta">
+        <div>Fintual cobra un 1.19% y nada más.</div>
+        <a class="simulator-page__button btn btn--secondary" href="/#empezar">Empezar</a>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+
+    
+  <div class="footer__ghost"></div>
+<footer class="footer--grey text-center">
+  <div class="container">
+    <div class="row">
+      <div class="footer__col col-xs-6 text-right">
+        © 2018 - Fintual AGF S.A.
+      </div>
+      <div class="footer__col col-xs-6 text-left">
+        <a href="/cdn-cgi/l/email-protection#74150d01101534121d1a000115185a171b19"><span class="__cf_email__" data-cfemail="47263e32232607212e293332262b6924282a">[email&#160;protected]</span></a>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+
+  
+  <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

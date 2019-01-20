@@ -1,6 +1,6 @@
 ---
 author: Omar Larré
-author_thumbnail: 0*Fxb64VaERzEbMLti.
+author_thumbnail: "/uploads/omar_larre.jpeg"
 title: Sobre la reforma previsional
 date: 2018-10-06
 image: "/uploads/sobre-la-refo4955.png"

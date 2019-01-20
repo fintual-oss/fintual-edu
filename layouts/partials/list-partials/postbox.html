@@ -15,9 +15,9 @@
         <div class="card-footer bg-white">
             <div class="wrapfooter">
                 {{if isset .Params "author"}}
-                {{if isset .Params "face"}}
+                {{if isset .Params "author_thumbnail"}}
                     <span class="meta-footer-thumb">
-                    <img class="author-thumb" src="{{ .Params.face | urlize | relURL  }}" alt="{{ .Author }}">
+                    <img class="author-thumb" src="{{ .Params.author_thumbnail | urlize | relURL  }}" alt="{{ .Author }}">
                     </span>
                     <span class="author-meta">
                     <span class="post-name">{{ .Params.author }}</a></span><br/>

@@ -6,7 +6,8 @@ title: En qué invertir mi plata
 aliases:
 - "/en-que-invertir-mi-plata/"
 categories:
-  - inversión
+- inversión
+
 
 ---
 <style>

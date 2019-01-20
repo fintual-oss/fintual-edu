@@ -1,6 +1,6 @@
 ---
 author: Cristóbal Fredes
-author_thumbnail: 1*tFD0xb7V70kDhg_xtrGVQw.jpeg
+author_thumbnail: "/uploads/cristobal_fredes.jpeg"
 title: 'Fabrizio Copano: “Me gustaría que los bancos tuvieran el menor poder sobre
   mí posible”'
 date: 2017-04-17

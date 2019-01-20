@@ -8,7 +8,6 @@ categories:
 - ideas
 
 
-
 ---
 Al invertir hay algunos beneficios en cuanto a impuestos que es bueno que sepas.
 

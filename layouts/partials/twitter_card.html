@@ -1,8 +1,8 @@
 {{ if .IsPage }}
-    {{ with .Params.image }}
+    {{ with .Params.image | default .Site.Params.image }}
         <!-- Twitter summary card with large image must be at least 280x150px -->
         <meta name="twitter:card" content="summary_large_image"/>
-        <meta name="twitter:image" content="{{ . }}"/>
+        <meta name="twitter:image" content="{{ . | absURL }}"/>
     {{ else }}
         <meta name="twitter:card" content="summary"/>
     {{ end }}
