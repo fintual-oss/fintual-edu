@@ -5,39 +5,10 @@ image: "/uploads/don-cangrejo.gif"
 title: "¿Dónde pedir mis $290.000 gratis?"
 aliases:
 - "/el-estado-te-regala-dinero/"
-
-
+categories:
+  - inversión
+  - ideas
 ---
-<style>
-
-p { margin:4rem 0px; text-align:justify; }
-
-.footer-big__overlap { padding-bottom:0px; }
-
-.image-wrapper { text-align: center; }
-
-.image-wrapper img {
-width: 60%;
-text-align: center;
-margin: 40px 0px;
-}
-
-@media (max-width: 768px)  {
-.image-wrapper img { width: 100%; }
-
-.simulator-page__sharing-link {
-display: flex;
-align-items: center;
-justify-content: center;
-width: 40px;
-height: 40px;
-border-radius: 50%;
-color: #fff;
-margin: 0 5px;
-}
-
-}
-</style>
 
 #### El Estado te regala $290.000 en efectivo todos los años.
 
@@ -73,23 +44,3 @@ En Fintual puedes invertir esos $155.000 mensuales o $1.860.000 de una antes d
 
 <p style="text-align:center">
 <a class="simulator-page__button btn btn--secondary" href="https://fintual.cl/apv/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=consideration&utm_content=el+estado+te+regala+dinero-136  ">Empezar</a></p>
-
-#### **Comparte esta historia:**
-
-<div class="simulator-page__sharing">
-
-<a class="js-social-share simulator-page__sharing-link facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://edu.fintual.cl/el-estado-te-regala-dinero">
-
-    <img alt="Compartir en Facebook" src="/uploads/facebook.svg">
-
-</a>
-
-<a class="js-social-share simulator-page__sharing-link twitter" target="_blank" href="https://twitter.com/intent/tweet?text=¿Dónde pedir mis $290.000 gratis?&url=http://edu.fintual.cl/el-estado-te-regala-dinero">
-
-    <img alt="Compartir en Twitter" src="/uploads/twitter.svg">
-
-</a>
-
-</div>
-
-<meta name="twitter:card" content="summary_large_image"/> <meta name="twitter:image" content="https://edu.fintual.cl/el-estado-te-regala-dinero/"/> <meta name="twitter:title" content="El Estado te regala $290.000 en efectivo todos los años."/> <meta name="twitter:description" content="No, no es el bono marzo."/> <meta name="twitter:site" content="@fintual"/>

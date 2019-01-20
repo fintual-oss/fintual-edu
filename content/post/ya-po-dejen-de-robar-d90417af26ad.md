@@ -3,9 +3,9 @@ author: Pedro Pineda
 author_thumbnail: 1*P0sNvCNy0pvZnkfNkEKl_g.png
 title: Lobos de Wall Street en Chile
 date: 2016-10-26
-draft: 'true'
 image: "/uploads/ya-po-dejen-d4009"
-
+categories:
+  - inversión
 
 ---
 

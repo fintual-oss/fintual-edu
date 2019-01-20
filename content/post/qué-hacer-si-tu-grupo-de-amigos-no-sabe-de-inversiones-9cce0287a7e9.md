@@ -3,9 +3,7 @@ author: Agustin Feuerhake
 author_thumbnail: 0*t6MxUX_jX9L6zyFK.jpg
 title: "¿Qué hacer si tu grupo de amigos no sabe de inversiones?"
 date: 2018-04-02
-draft: 'true'
 image: "/uploads/qué-hacer-si-3722.png"
-
 
 ---
 

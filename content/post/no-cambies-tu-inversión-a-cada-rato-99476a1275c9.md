@@ -3,13 +3,13 @@ author: Andres Marinkovic
 author_thumbnail: 1*d6W-SSXaQvYO6PueTLbwNw.png
 title: No cambies tu inversión a cada rato
 date: 2016-10-09
-draft: 'true'
 image: "/uploads/no-cambies-tu6942.jpeg"
-
+categories:
+  - inversión
 
 ---
 
-### 
+###
 
 ¿Te has preguntado qué hace que los ciervos a veces corran *hacia* los autos en la carretera? Es simplemente su primera reacción: ven una situación inesperada, se asustan, tratan de salir corriendo sin saber hacia dónde y terminan atropellados. Lo peor de todo es que si se quedaran quietos, al lado del camino, no les pasaría nada.
 

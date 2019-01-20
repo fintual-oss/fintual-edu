@@ -3,7 +3,6 @@ author: Pedro Pineda
 author_thumbnail: 1*P0sNvCNy0pvZnkfNkEKl_g.png
 title: Rafael Gumucio nos explica cuál es el truco para invertir en la vida
 date: 2016-07-29
-draft: 'true'
 image: 'uploads/rafael_gumucio.jpeg'
 categories:
   - entrevistas

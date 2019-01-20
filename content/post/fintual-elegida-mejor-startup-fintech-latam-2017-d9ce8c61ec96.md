@@ -3,8 +3,8 @@ author: Pedro Pineda
 author_thumbnail: 1*P0sNvCNy0pvZnkfNkEKl_g.png
 title: FINTUAL elegida Mejor startup fintech Latam 2017
 date: 2017-10-21
-draft: 'true'
-
+categories:
+  - noticias
 
 ---
 

@@ -3,7 +3,8 @@ date: '2018-07-05T00:56:26+00:00'
 title: Hagamos esto fácil
 aliases:
 - "/invierte-palta/"
-
+categories:
+  - inversión
 
 ---
 ![](/uploads/Screen Shot 2018-07-04 at 6.12.17 PM.png)

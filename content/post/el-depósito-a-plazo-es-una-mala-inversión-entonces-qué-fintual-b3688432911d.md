@@ -5,11 +5,12 @@ title: El depósito a plazo es una mala inversión ¿Entonces qué? FINTUAL
 date: 2018-02-14
 draft: 'true'
 image: "/uploads/el-depósito-a5227.png"
-
+categories:
+  - ahorro
 
 ---
 
-### 
+###
 
 Hoy un banco te da un 0,23% al mes¹ cuando haces un depósito a plazo, lo que en un año se traduce en 2,76%.
 

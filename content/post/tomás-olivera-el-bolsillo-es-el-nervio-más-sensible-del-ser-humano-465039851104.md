@@ -4,7 +4,6 @@ author_thumbnail: 1*tFD0xb7V70kDhg_xtrGVQw.jpeg
 title: 'Tomás Olivera: “El bolsillo es el nervio más sensible del ser humano”'
 image: 'uploads/tomas_olivera.jpeg'
 date: 2017-09-22
-draft: 'true'
 categories:
   - entrevistas
 

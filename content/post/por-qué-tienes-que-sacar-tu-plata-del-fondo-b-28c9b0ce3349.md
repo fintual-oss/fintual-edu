@@ -3,9 +3,7 @@ author: Gastón Gabino
 author_thumbnail: 1*LOSP3TsTW_eFBFd49oGj6w.jpeg
 title: Por qué tienes que sacar tu plata del fondo B.
 date: 2016-06-12
-draft: 'true'
 image: "/uploads/por-qué-tiene2219.jpeg"
-
 
 ---
 

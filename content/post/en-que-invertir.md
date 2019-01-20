@@ -5,7 +5,8 @@ image: ''
 title: "¿En qué invertir mi plata?"
 aliases:
 - "/en-que-invertir/"
-
+categories:
+  - ahorro
 
 ---
 Imagínate que recibes una herencia. O que te aburriste de tener tu plata parada en el banco sin generar intereses.
