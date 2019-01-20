@@ -3,9 +3,12 @@ author: FranFeuer
 author_thumbnail: 0*5Ba8u2jyfN08L-yX.jpg
 title: 'Constanza Michelson: “La plata es cochina, eso le enseñan a uno desde chico”.'
 date: 2018-05-11
-image: '/uploads/constanza_michelson.png'
+image: "/uploads/constanza_michelson.png"
 categories:
-  - entrevistas
+- entrevistas
+aliases:
+- "/constanza-michelson-la-plata-es-cochina-eso-le-enseñan-a-uno-desde-chico-c35a7e295926/"
+
 
 ---
 

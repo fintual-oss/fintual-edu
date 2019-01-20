@@ -5,8 +5,11 @@ title: Andrés explica qué es. Robot-advisors.
 date: 2018-03-12
 image: "/uploads/andrés-explic3828.png"
 categories:
-  - ahorro
-  - inversión
+- ahorro
+- inversión
+aliases:
+- "/andrés-explica-qué-es-robot-advisors-fc64e6254337/"
+
 
 ---
 

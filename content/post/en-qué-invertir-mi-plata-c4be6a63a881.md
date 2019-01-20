@@ -5,7 +5,10 @@ title: En qué invertir mi plata
 date: 2018-11-10
 image: "/uploads/en-qué-invert6761.png"
 categories:
-  - inversión
+- inversión
+aliases:
+- "/en-qué-invertir-mi-plata-c4be6a63a881/"
+
 
 ---
 

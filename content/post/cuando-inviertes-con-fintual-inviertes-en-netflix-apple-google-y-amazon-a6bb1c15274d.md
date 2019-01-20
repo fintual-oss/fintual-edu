@@ -6,8 +6,11 @@ date: 2018-2-29
 draft: 'true'
 image: "/uploads/cuando-invier8500.jpeg"
 categories:
-  - ideas
-  - inversión
+- ideas
+- inversión
+aliases:
+- "/cuando-inviertes-con-fintual-inviertes-en-netflix-apple-google-y-amazon-a6bb1c15274d/"
+
 
 ---
 

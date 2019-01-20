@@ -4,9 +4,12 @@ author_thumbnail: 0*5Ba8u2jyfN08L-yX.jpg
 title: 'Juan Cristóbal Guarello: “Especular es mejor que el sexo para los grandes
   hombres de negocios”.'
 date: 2018-05-07
-image: 'uploads/juan_cristobal_guarello.png'
+image: uploads/juan_cristobal_guarello.png
 categories:
-  - entrevistas
+- entrevistas
+aliases:
+- "/juan-cristóbal-guarello-para-los-grandes-hombres-de-negocios-especular-es-mejor-que-el-sexo-2211a1328b48/"
+
 
 ---
 

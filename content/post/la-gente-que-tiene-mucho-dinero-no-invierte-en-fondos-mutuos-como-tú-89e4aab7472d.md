@@ -5,7 +5,11 @@ title: La gente que tiene mucho dinero no invierte en Fondos Mutuos como tú.
 date: 2018-02-14
 image: "/uploads/la-gente-que-4060.png"
 categories:
-  - inversión
+- inversión
+aliases:
+- "/la-gente-que-tiene-mucho-dinero-no-invierte-en-fondos-mutuos-como-tú-89e4aab7472d/"
+
+
 ---
 
 ###

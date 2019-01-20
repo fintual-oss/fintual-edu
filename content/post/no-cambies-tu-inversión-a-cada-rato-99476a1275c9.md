@@ -5,7 +5,10 @@ title: No cambies tu inversión a cada rato
 date: 2016-10-09
 image: "/uploads/no-cambies-tu6942.jpeg"
 categories:
-  - inversión
+- inversión
+aliases:
+- "/no-cambies-tu-inversión-a-cada-rato-99476a1275c9/"
+
 
 ---
 

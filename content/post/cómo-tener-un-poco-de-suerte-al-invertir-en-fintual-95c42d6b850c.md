@@ -7,6 +7,9 @@ image: "/uploads/cómo-tener-un4313.jpeg"
 categories:
 - ideas
 - inversión
+aliases:
+- "/cómo-tener-un-poco-de-suerte-al-invertir-en-fintual-95c42d6b850c/"
+
 
 ---
 

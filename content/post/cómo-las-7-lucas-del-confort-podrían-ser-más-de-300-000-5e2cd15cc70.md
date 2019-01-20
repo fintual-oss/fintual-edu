@@ -6,6 +6,9 @@ date: 2018-06-04
 image: "/uploads/cómo-las-7-lu7744.png"
 categories:
 - ideas
+aliases:
+- "/cómo-las-7-lucas-del-confort-podrían-ser-más-de-300-000-5e2cd15cc70/"
+
 
 ---
 

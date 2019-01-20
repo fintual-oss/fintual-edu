@@ -5,7 +5,11 @@ title: "¿Qué vai a comprar acciones voh?"
 date: 2016-08-15
 image: "/uploads/qué-vai-a-com8607.jpeg"
 categories:
-  - ideas
+- ideas
+aliases:
+- "/qué-vai-a-comprar-acciones-voh-d13d63e3e490/"
+
+
 ---
 
 ### Al buscar en qué invertir, ésta es la opción que te hace parecer más inteligente y con la que probablemente te guste presumir con tus amigos. Pero es también en la que más te expones a ser embaucado si no sabes.

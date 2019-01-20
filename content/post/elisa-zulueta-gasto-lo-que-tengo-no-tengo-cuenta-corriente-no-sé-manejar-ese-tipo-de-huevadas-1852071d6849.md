@@ -4,9 +4,12 @@ author_thumbnail: 1*P0sNvCNy0pvZnkfNkEKl_g.png
 title: 'Elisa Zulueta: “Gasto lo que tengo, no tengo cuenta corriente. No sé manejar
   ese tipo de huevadas”.'
 date: 2016-10-16
-image: 'uploads/elisa_zulueta.jpeg'
+image: uploads/elisa_zulueta.jpeg
 categories:
-  - entrevistas
+- entrevistas
+aliases:
+- "/elisa-zulueta-gasto-lo-que-tengo-no-tengo-cuenta-corriente-no-sé-manejar-ese-tipo-de-huevadas-1852071d6849/"
+
 
 ---
 

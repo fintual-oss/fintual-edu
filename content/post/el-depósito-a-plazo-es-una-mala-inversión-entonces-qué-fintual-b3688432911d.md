@@ -6,7 +6,10 @@ date: 2018-02-14
 draft: 'true'
 image: "/uploads/el-depósito-a5227.png"
 categories:
-  - ahorro
+- ahorro
+aliases:
+- "/el-depósito-a-plazo-es-una-mala-inversión-entonces-qué-fintual-b3688432911d/"
+
 
 ---
 

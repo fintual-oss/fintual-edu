@@ -4,9 +4,12 @@ author_thumbnail: 1*P0sNvCNy0pvZnkfNkEKl_g.png
 title: 'Axel Christensen: “los robot-advisors son una cuestión de timing, pero para
   allá va la cosa”.'
 date: 2016-11-02
-image: 'uploads/axel_christensen.jpeg'
+image: uploads/axel_christensen.jpeg
 categories:
-  - entrevistas
+- entrevistas
+aliases:
+- "/axel-christensen-los-robot-advisors-son-una-cuestión-de-timing-pero-para-allá-va-la-cosa-1de26f252290/"
+
 
 ---
 
