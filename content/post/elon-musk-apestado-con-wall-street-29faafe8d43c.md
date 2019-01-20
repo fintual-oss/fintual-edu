@@ -3,9 +3,9 @@ author: Omar Larré
 author_thumbnail: 0*Fxb64VaERzEbMLti.
 title: Elon Musk apestado con Wall Street
 date: 2018-07-08
-draft: 'true'
 image: "/uploads/elon-musk-ape2342"
-
+categories:
+  - inversión
 
 ---
 

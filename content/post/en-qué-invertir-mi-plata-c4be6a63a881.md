@@ -3,9 +3,9 @@ author: Francesca Finaldi
 author_thumbnail: 1*cpAQhZhbBZgMrNepn5ymgw.jpeg
 title: En qué invertir mi plata
 date: 2018-11-10
-draft: 'true'
 image: "/uploads/en-qué-invert6761.png"
-
+categories:
+  - inversión
 
 ---
 

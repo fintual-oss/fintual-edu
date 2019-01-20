@@ -3,10 +3,9 @@ author: Francesca Finaldi
 author_thumbnail: 1*cpAQhZhbBZgMrNepn5ymgw.jpeg
 title: Qué está pasando en Wall Street y qué hacer al respecto
 date: 2018-09-16
-draft: 'true'
 image: "/uploads/qué-está-pasa8817.jpeg"
-
-
+categories:
+  - inversión
 ---
 
 ### Los mercados han estado bastante movidos los últimos días y te queremos contar qué está pasando, para que no te asustes.

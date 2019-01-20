@@ -4,7 +4,6 @@ author_thumbnail: 1*tFD0xb7V70kDhg_xtrGVQw.jpeg
 title: 'Fabrizio Copano: “Me gustaría que los bancos tuvieran el menor poder sobre
   mí posible”'
 date: 2017-04-17
-draft: 'true'
 image: 'uploads/fabrizio_copano.jpeg'
 categories:
   - entrevistas

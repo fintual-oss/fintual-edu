@@ -3,6 +3,7 @@ date: '2018-07-05T04:47:05+00:00'
 description: ''
 image: '/uploads/Screen Shot 2018-07-04 at 10.27.26 PM.png'
 title: Simulador de inversiones
+draft: 'true'
 aliases:
 - "/simulador-de-inversiones/"
 

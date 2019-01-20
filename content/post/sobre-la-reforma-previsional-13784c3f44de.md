@@ -3,10 +3,9 @@ author: Omar Larré
 author_thumbnail: 0*Fxb64VaERzEbMLti.
 title: Sobre la reforma previsional
 date: 2018-10-06
-draft: 'true'
 image: "/uploads/sobre-la-refo4955.png"
-
-
+categories:
+  - ahorro
 ---
 
 ### Tras el anuncio del proyecto de reforma previsional del presidente Piñera varias personas nos han preguntado si Fintual va a participar o no como actor. La respuesta corta es sí.

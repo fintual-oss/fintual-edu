@@ -4,7 +4,6 @@ author_thumbnail: 1*P0sNvCNy0pvZnkfNkEKl_g.png
 title: 'Elisa Zulueta: “Gasto lo que tengo, no tengo cuenta corriente. No sé manejar
   ese tipo de huevadas”.'
 date: 2016-10-16
-draft: 'true'
 image: 'uploads/elisa_zulueta.jpeg'
 categories:
   - entrevistas
@@ -92,5 +91,3 @@ Por eso no tengo cuenta corriente ni auto ni deudas, porque no sé manejar ese t
 Yo siempre he trabajado, siempre voy a trabajar, sé que no voy a morirme de hambre jamás. Pero no puedo entender el mundo de la inversión.
 
 Lo que sí, es que soy ordenada y Gumucio un desastre.
-
-undefined

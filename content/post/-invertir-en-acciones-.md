@@ -1,12 +1,12 @@
 ---
 date: '2018-07-05T04:21:03+00:00'
-draft: true
 title: "¿Tiene sentido invertir en acciones?"
 categories:
 - inversión
 - ideas
 aliases:
 - "/-invertir-en-acciones-/"
+image: "/uploads/-invertir-en-8200.jpeg"
 
 
 ---
@@ -18,7 +18,7 @@ Nadie puede saber lo que va a pasar en el futuro. Nadie puede asegurar a ciencia
 
 No olvides que **siempre que alguien compra hay alguien que vende al otro lado.** Y que por lo tanto lo que tú crees que es bueno comprar, otro piensa que es mejor vender.
 
-![](https://cdn-images-1.medium.com/max/800/1\*Cijs5X7QzSf9HqUG5JkaQA.jpeg)
+![](/uploads/-invertir-en-8200.jpeg)
 
 Imagen de Paul Colgan
 

@@ -5,7 +5,8 @@ image: ''
 title: Fondo Mutuo Online
 aliases:
 - "/fondo-mutuo-online/"
-
+categories:
+  - inversión
 
 ---
 ¿Existe alguna Administradora General de Fondos en Chile que permita a personas invertir 100% online?

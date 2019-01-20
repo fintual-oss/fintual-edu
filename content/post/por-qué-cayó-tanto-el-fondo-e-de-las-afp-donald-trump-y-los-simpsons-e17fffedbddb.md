@@ -3,9 +3,7 @@ author: Gastón Gabino
 author_thumbnail: 1*LOSP3TsTW_eFBFd49oGj6w.jpeg
 title: "¿Por qué cayó tanto el fondo E de las AFP? Donald Trump y Los Simpsons"
 date: 2017-0-9
-draft: 'true'
 image: "/uploads/por-qué-cayó-6207"
-
 
 ---
 
