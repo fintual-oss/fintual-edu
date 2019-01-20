@@ -1,6 +1,6 @@
 ---
 author: Andres Marinkovic
-author_thumbnail: 1*d6W-SSXaQvYO6PueTLbwNw.png
+author_thumbnail: "/uploads/andres_marinkovic.jpg"
 title: No cambies tu inversión a cada rato
 date: 2016-10-09
 image: "/uploads/no-cambies-tu6942.jpeg"

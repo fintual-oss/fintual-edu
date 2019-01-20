@@ -1,10 +1,11 @@
 ---
 author: Pedro Pineda
-author_thumbnail: 1*P0sNvCNy0pvZnkfNkEKl_g.png
+author_thumbnail: "/uploads/pedro_pineda.png"
 title: "¿Cómo tuvimos reuniones en Europa?"
 date: 2017-05-06
 categories:
 - ideas
+- noticias
 image: "/uploads/cómo-tuvimos-5262.png"
 aliases:
 - "/cómo-tuvimos-reuniones-en-europa-1bc5e3408873/"

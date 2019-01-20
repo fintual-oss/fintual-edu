@@ -1,6 +1,6 @@
 ---
 author: Omar Larré
-author_thumbnail: 0*Fxb64VaERzEbMLti.
+author_thumbnail: "/uploads/omar_larre.jpeg"
 title: Turquía mal y Trump la remata
 date: 2018-07-10
 image: "/uploads/turquía-mal-y5467.jpg"

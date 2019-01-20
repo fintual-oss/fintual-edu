@@ -7,6 +7,7 @@ languageCode = "es-cl"
 summaryLength = 15
 removePathAccents = true
 [params]
+image = "/img/fintualedu_screen.png"
 author = "Equipo Fintual"
 description = "Aprendiendo a invertir bien"
 displayauthor = true
@@ -33,4 +34,4 @@ toLower = false
   weight = 30.0
   [[related.indices]]
   name = "categories"
-  weight = 70.0
+  weight = 100.0

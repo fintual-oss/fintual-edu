@@ -1,6 +1,6 @@
 ---
 author: Pedro Pineda
-author_thumbnail: 1*P0sNvCNy0pvZnkfNkEKl_g.png
+author_thumbnail: "/uploads/pedro_pineda.png"
 title: Buscando a Nemo (o nuestra historia de cómo buscamos diseñador)
 date: 2018-09-16
 image: "/uploads/buscando-a-ne1221.png"

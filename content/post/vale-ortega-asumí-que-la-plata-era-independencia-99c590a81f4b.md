@@ -3,13 +3,9 @@ author: Cristóbal Fredes
 author_thumbnail: 1*tFD0xb7V70kDhg_xtrGVQw.jpeg
 title: 'Vale Ortega: ”Asumí que la plata era independencia”'
 date: 2018-02-20
-image: uploads/vale_ortega.jpeg
-draft: 'true'
+image: 'uploads/vale_ortega.jpeg'
 categories:
-- entrevistas
-aliases:
-- "/vale-ortega-asumí-que-la-plata-era-independencia-99c590a81f4b/"
-
+  - entrevistas
 
 ---
 

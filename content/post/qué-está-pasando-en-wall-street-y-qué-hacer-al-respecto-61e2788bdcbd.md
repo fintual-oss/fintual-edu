@@ -1,6 +1,6 @@
 ---
 author: Francesca Finaldi
-author_thumbnail: 1*cpAQhZhbBZgMrNepn5ymgw.jpeg
+author_thumbnail: "/uploads/francesca_finaldi.jpeg"
 title: Qué está pasando en Wall Street y qué hacer al respecto
 date: 2018-09-16
 image: "/uploads/qué-está-pasa8817.jpeg"

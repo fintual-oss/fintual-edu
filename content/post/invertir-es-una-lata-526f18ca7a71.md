@@ -1,6 +1,6 @@
 ---
 author: Pedro Pineda
-author_thumbnail: 1*P0sNvCNy0pvZnkfNkEKl_g.png
+author_thumbnail: "/uploads/pedro_pineda.png"
 title: Invertir es una lata.
 date: 2018-02-14
 image: "/uploads/invertir-es-u6140.png"

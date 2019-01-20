@@ -1,6 +1,6 @@
 ---
 author: Pedro Pineda
-author_thumbnail: 1*P0sNvCNy0pvZnkfNkEKl_g.png
+author_thumbnail: "/uploads/pedro_pineda.png"
 title: "¿Qué vai a comprar acciones voh?"
 date: 2016-08-15
 image: "/uploads/qué-vai-a-com8607.jpeg"

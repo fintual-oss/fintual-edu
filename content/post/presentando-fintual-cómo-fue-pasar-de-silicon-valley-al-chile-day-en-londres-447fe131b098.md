@@ -1,6 +1,6 @@
 ---
 author: Agustin Feuerhake
-author_thumbnail: 0*t6MxUX_jX9L6zyFK.jpg
+author_thumbnail: "/uploads/agustin_feuerhake.jpg"
 title: 'Presentando Fintual: cómo fue pasar de Silicon Valley al Chile Day en Londres.'
 date: 2018-08-15
 image: "/uploads/presentando-f7808.jpeg"

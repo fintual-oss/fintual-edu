@@ -4,8 +4,9 @@ title: "¿Qué es la cuenta 2?"
 aliases:
 - "/cuenta-2/"
 categories:
-  - ahorro
-  - inversión
+- ahorro
+- inversión
+
 
 ---
 La cuenta 2 es una cuenta de ahorro voluntario, creada por las AFPs como complemento de la cuenta de capitalización individual que es obligatoria por ley.

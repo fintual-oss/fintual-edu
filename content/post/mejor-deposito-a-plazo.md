@@ -4,7 +4,8 @@ title: "¿Cuál es el mejor depósito a plazo?"
 aliases:
 - "/mejor-deposito-a-plazo/"
 categories:
-  - ahorro
+- ahorro
+
 
 ---
 Decir el mejor depósito a plazo es como decir el mejor equipo de segunda división, el mejor cuarto lugar en los juegos olímpicos, ...

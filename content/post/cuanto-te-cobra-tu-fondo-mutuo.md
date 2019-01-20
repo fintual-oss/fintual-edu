@@ -5,8 +5,9 @@ title: "¿Cuánto te cobra tu fondo mutuo?"
 aliases:
 - "/cuanto-te-cobra-tu-fondo-mutuo/"
 categories:
-  - ideas
-  - inversión
+- ideas
+- inversión
+
 
 ---
 Es muy difícil que lo sepas.

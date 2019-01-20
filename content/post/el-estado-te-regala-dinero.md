@@ -6,8 +6,10 @@ title: "¿Dónde pedir mis $290.000 gratis?"
 aliases:
 - "/el-estado-te-regala-dinero/"
 categories:
-  - inversión
-  - ideas
+- inversión
+- ideas
+
+
 ---
 
 #### El Estado te regala $290.000 en efectivo todos los años.

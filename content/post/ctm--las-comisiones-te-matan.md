@@ -5,7 +5,8 @@ aliases:
 - "/ctm--las-comisiones-te-matan/"
 image: "/uploads/ctm--las-comi6974.png"
 categories:
-  - inversión
+- inversión
+
 
 ---
 Súper poca gente sabe cuánto paga en comisiones cuando invierte.

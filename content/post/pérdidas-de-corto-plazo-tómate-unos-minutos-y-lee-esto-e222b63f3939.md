@@ -1,6 +1,6 @@
 ---
 author: Omar Larré
-author_thumbnail: 0*Fxb64VaERzEbMLti.
+author_thumbnail: "/uploads/omar_larre.jpeg"
 title: "¿Pérdidas de corto plazo? Tómate unos minutos y lee esto"
 date: 2018-03-23
 categories:

@@ -1,21 +1,16 @@
 <head lang="es">
 	<meta charset="utf-8">
-  <!-- Google Tag Manager -->
-  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-  })(window,document,'script','dataLayer','GTM-K8PH3WF');</script>
-  <!-- End Google Tag Manager -->
+
+  {{- partial "google_tag_manager_head.html" . -}}
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         {{ .Hugo.Generator }}
   <link rel="canonical" href="{{ .Permalink }}" />
-  <link rel="shortcut icon" href="{{ "/favicon.png" | urlize | relURL }}">
+  <link rel="shortcut icon" href="{{ "/img/favicon.ico" | urlize | relURL }}">
   <meta content="{{ delimit .Site.Params.Keywords ", " }}" name="keywords">
   <meta content="{{ .Params.author | default .Site.Params.author }}" name="author">
   <meta property="og:title" content="{{ $isHomePage := eq .Title .Site.Title }}{{ .Title }}{{ if eq $isHomePage false }} - {{ .Site.Title }}{{ end }}">
   <meta property="og:url" content="{{ .Permalink }}">
-  <meta property="og:image" content="{{.Params.thumbnail}}">
+  <meta property="og:image" content="{{ .Params.image | default .Site.Params.image | absURL }}">
   <meta property="og:description" content="{{ .Params.description | default .Site.Params.description }}">
   <meta property="og:type" content="website" />
 	<title>{{ .Page.Title }} | {{ .Site.Title }}</title>
@@ -26,4 +21,5 @@
 	<link href="https://fonts.googleapis.com/css?family=Righteous%7CMerriweather:300,300i,400,400i,700,700i" rel="stylesheet">
 	<link href="{{ "/css/medium.css" | urlize | relURL }}" rel="stylesheet">
 	<link href="{{ "/css/additional.css" | urlize | relURL }}" rel="stylesheet">
+  {{partial "twitter_card.html" . }}
 </head>

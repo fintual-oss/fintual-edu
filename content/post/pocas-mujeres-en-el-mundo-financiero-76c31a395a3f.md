@@ -1,6 +1,6 @@
 ---
 author: Paula Droguett
-author_thumbnail: 1*AufcVB25eJVAOqdCQc8r4g.jpeg
+author_thumbnail: "/uploads/paula_droguett.jpg"
 title: Pocas mujeres en el mundo financiero
 date: 2018-04-11
 image: "/uploads/pocas-mujeres5581.png"
