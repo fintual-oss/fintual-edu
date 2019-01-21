@@ -21,11 +21,11 @@ display: inline;
 
 }
 
-p { 
+p {
 
-margin:4rem 0px; 
+margin:4rem 0px;
 
-text-align:justify; 
+text-align:justify;
 
 }
 
@@ -39,11 +39,11 @@ text-align: center;
 
 .image-wrapper img {
 
-width: 100%; 
+width: 100%;
 
-text-align: 
+text-align:
 
-center; 
+center;
 
 margin: 60px 0px;
 
@@ -81,7 +81,7 @@ En Chile hay 20 Administradoras Generales de Fondos (AGF) autorizadas por ley pa
 
 ¿Por qué tan complicado?
 
-Como si **siguiéramos en la época de los dinosaurios** o internet se hubiese inventado ayer. 
+Como si **siguiéramos en la época de los dinosaurios** o internet se hubiese inventado ayer.
 
 <div class="image-wrapper">
 
@@ -149,22 +149,22 @@ También puedes leer el artículo de <a href="http://www.elmercurio.com/Inversi
 
         <img src="https://simplesharebuttons.com/images/somacro/facebook.png" alt="Facebook" />
 
-<a href="https://twitter.com/share?url=https://edu.fintual.cl/en-serio-vas-a-invertir-a-la-antigua/&amp;text=Habiendo%20tantas%20aplicaciones%20para%20pedir%20comida%20¿cómo%20no%20existía%20una%20que%20te%20ayudara%20a%20invertir%20bien%20tu%20plata?";hashtags=fintual&amp onclick="window.open(this.href, 'twitterwindow','left=20,top=20,width=600,height=300,toolbar=0,resizable=1'); return false;">
+<a href="https://twitter.com/share?url=https://edu.fintual.cl/en-serio-vas-a-invertir-a-la-antigua/&text=Habiendo%20tantas%20aplicaciones%20para%20pedir%20comida%20¿cómo%20no%20existía%20una%20que%20te%20ayudara%20a%20invertir%20bien%20tu%20plata?";hashtags=fintual&amp onclick="window.open(this.href, 'twitterwindow','left=20,top=20,width=600,height=300,toolbar=0,resizable=1'); return false;">
 
         <img src="https://simplesharebuttons.com/images/somacro/twitter.png" alt="Twitter" />
-
+    
     </a>
 
 <a href="whatsapp://send?text=Habiendo tantas aplicaciones para pedir comida ¿cómo no existía una que te ayudara a invertir bien tu plata? https://edu.fintual.cl/en-serio-vas-a-invertir-a-la-antigua/" onclick="window.open(this.href, 'whatsappwindow','left=20,top=20,width=600,height=300,toolbar=0,resizable=1'); return false;" >
 
-        <img src="https://lh6.googleusercontent.com/TXIj3MlHDBxzB6GOn4Lfw7sipcGGJ4HC8ZpcSsdAIHxs-wj982XvJzoFY26MGRyEOBivHx0Y5Q4mnuc60X_Y=w1366-h657" alt="Whatsapp">
+        <img src="https://lh6.googleusercontent.com/IMU1JbZzRzaz0rifhLIwE4EsxUQOA7F24E1x5aF9Y-wTNoMKyjRxd16wkC7AzUe6kM3eenZSDC5qnEKgSXRx=w1708-h920" alt="Whatsapp">
 
 </a>
 
-<a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://edu.fintual.cl/en-serio-vas-a-invertir-a-la-antigua" onclick="window.open(this.href, 'linkedinwindow','left=20,top=20,width=600,height=300,toolbar=0,resizable=1'); return false;">
+<a href="http://www.linkedin.com/shareArticle?mini=true&url=https://edu.fintual.cl/en-serio-vas-a-invertir-a-la-antigua" onclick="window.open(this.href, 'linkedinwindow','left=20,top=20,width=600,height=300,toolbar=0,resizable=1'); return false;">
 
         <img src="https://simplesharebuttons.com/images/somacro/linkedin.png" alt="LinkedIn" />
-
+    
     </a>
 
 </div>
