@@ -6,8 +6,7 @@ date: 2017-08-12
 image: "/uploads/visa-elige-a-5629.png"
 categories:
 - noticias
-aliases:
-- "/visa-elige-a-fintual-entre-las-fintechs-más-innovadoras-de-latinoamérica-2f4b2ff27c6c/"
+url: "/visa-elige-a-fintual-entre-las-fintechs-más-innovadoras-de-latinoamérica-2f4b2ff27c6c/"
 
 
 ---

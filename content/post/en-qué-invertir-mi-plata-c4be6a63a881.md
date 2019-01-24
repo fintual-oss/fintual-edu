@@ -6,8 +6,7 @@ date: 2018-11-10
 image: "/uploads/en-qué-invert6761.png"
 categories:
 - inversión
-aliases:
-- "/en-qué-invertir-mi-plata-c4be6a63a881/"
+url: "/en-qué-invertir-mi-plata-c4be6a63a881/"
 
 
 ---

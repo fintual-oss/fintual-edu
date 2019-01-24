@@ -8,8 +8,7 @@ image: "/uploads/"
 categories:
 - ideas
 - ahorro
-aliases:
-- "/cuánta-plata-hay-que-tener-en-la-cuenta-del-banco-890a613c919e/"
+url: "/cuánta-plata-hay-que-tener-en-la-cuenta-del-banco-890a613c919e/"
 
 
 ---

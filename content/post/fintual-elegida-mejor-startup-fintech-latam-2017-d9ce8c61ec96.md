@@ -5,9 +5,8 @@ title: FINTUAL elegida Mejor startup fintech Latam 2017
 date: 2017-10-21
 categories:
 - noticias
-aliases:
-- "/fintual-elegida-mejor-startup-fintech-latam-2017-d9ce8c61ec96/"
 image: "/uploads/fintual-elegi3228.jpeg"
+url: "/fintual-elegida-mejor-startup-fintech-latam-2017-d9ce8c61ec96/"
 
 
 ---

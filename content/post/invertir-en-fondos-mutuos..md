@@ -1,10 +1,9 @@
 ---
 date: '2018-07-05T04:32:13+00:00'
 title: "¿Cómo es la inversión en fondos mutuos?"
-aliases:
-- "/invertir-en-fondos-mutuos./"
 categories:
 - inversión
+url: "/invertir-en-fondos-mutuos./"
 
 
 ---

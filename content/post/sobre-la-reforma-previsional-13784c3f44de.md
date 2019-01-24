@@ -6,8 +6,7 @@ date: 2018-10-06
 image: "/uploads/sobre-la-refo4955.png"
 categories:
 - ahorro
-aliases:
-- "/sobre-la-reforma-previsional-13784c3f44de/"
+url: "/sobre-la-reforma-previsional-13784c3f44de/"
 
 
 ---

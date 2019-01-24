@@ -6,8 +6,7 @@ date: 2018-05-11
 image: "/uploads/constanza_michelson.png"
 categories:
 - entrevistas
-aliases:
-- "/constanza-michelson-la-plata-es-cochina-eso-le-enseñan-a-uno-desde-chico-c35a7e295926/"
+url: "/constanza-michelson-la-plata-es-cochina-eso-le-enseñan-a-uno-desde-chico-c35a7e295926/"
 
 
 ---

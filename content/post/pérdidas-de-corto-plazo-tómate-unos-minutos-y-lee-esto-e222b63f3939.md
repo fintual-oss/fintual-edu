@@ -6,8 +6,7 @@ date: 2018-03-23
 categories:
 - inversión
 image: "/uploads/pérdidas-de-c5802.png"
-aliases:
-- "/pérdidas-de-corto-plazo-tómate-unos-minutos-y-lee-esto-e222b63f3939/"
+url: "/pérdidas-de-corto-plazo-tómate-unos-minutos-y-lee-esto-e222b63f3939/"
 
 
 ---

@@ -5,8 +5,7 @@ description: No. Este no es un post sobre usar menos el celular y dedicar más t
   celular que sale cada año y uses esa plata para comprar tiempo.
 image: "/uploads/abuelitas.gif"
 title: Más tiempo y menos celulares
-aliases:
-- "/mas-tiempo-y-menos-celulares/"
+url: "/mas-tiempo-y-menos-celulares/"
 
 
 ---

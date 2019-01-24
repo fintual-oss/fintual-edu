@@ -5,8 +5,7 @@ title: "¿Seguro quieres comprar departamentos como inversión?"
 categories:
 - ideas
 - inversión
-aliases:
-- "/compra-de-departamentos/"
+url: "/compra-de-departamentos/"
 
 
 ---

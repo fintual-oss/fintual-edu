@@ -4,8 +4,8 @@ author_thumbnail: "/uploads/omar_larre.jpeg"
 title: 5 errores comunes que debes evitar al momento de ahorrar e invertir
 date: 2019-01-14
 image: "/uploads/5-errores-com7122"
-aliases:
- - "/5-errores-comunes-que-debes-evitar-al-momento-de-ahorrar-e-invertir-2567c90adc9d/"
+url: "/5-errores-comunes-que-debes-evitar-al-momento-de-ahorrar-e-invertir-2567c90adc9d/"
+
 
 ---
 

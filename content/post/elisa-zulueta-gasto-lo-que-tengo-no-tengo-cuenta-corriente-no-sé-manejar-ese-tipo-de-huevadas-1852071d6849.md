@@ -7,8 +7,7 @@ date: 2016-10-16
 image: uploads/elisa_zulueta.jpeg
 categories:
 - entrevistas
-aliases:
-- "/elisa-zulueta-gasto-lo-que-tengo-no-tengo-cuenta-corriente-no-sé-manejar-ese-tipo-de-huevadas-1852071d6849/"
+url: "/elisa-zulueta-gasto-lo-que-tengo-no-tengo-cuenta-corriente-no-sé-manejar-ese-tipo-de-huevadas-1852071d6849/"
 
 
 ---

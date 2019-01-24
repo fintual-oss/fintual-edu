@@ -7,8 +7,7 @@ date: 2018-06-09
 image: uploads/carlos_conca.jpeg
 categories:
 - entrevistas
-aliases:
-- "/carlos-conca-premio-nacional-de-ciencias-exactas-soy-muy-torpe-con-la-cuestión-del-dinero-e674794ed499/"
+url: "/carlos-conca-premio-nacional-de-ciencias-exactas-soy-muy-torpe-con-la-cuestión-del-dinero-e674794ed499/"
 
 
 ---

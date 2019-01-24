@@ -5,8 +5,7 @@ title: "¿En qué invertir el bono del trabajo?"
 categories:
 - inversión
 - ideas
-aliases:
-- "/-en-que-invertir-el-bono-del-trabajo-/"
+url: "/-en-que-invertir-el-bono-del-trabajo-/"
 
 
 ---

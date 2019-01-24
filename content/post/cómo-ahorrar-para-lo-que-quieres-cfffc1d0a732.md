@@ -6,8 +6,7 @@ date: 2018-07-28
 image: "/uploads/cómo-ahorrar-8768.jpg"
 categories:
 - ahorro
-aliases:
-- "/cómo-ahorrar-para-lo-que-quieres-cfffc1d0a732/"
+url: "/cómo-ahorrar-para-lo-que-quieres-cfffc1d0a732/"
 
 
 ---

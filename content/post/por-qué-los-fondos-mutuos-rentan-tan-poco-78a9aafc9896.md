@@ -4,8 +4,7 @@ author_thumbnail: "/uploads/pedro_pineda.png"
 title: Por qué los fondos mutuos rentan tan poco
 date: 2018-03-20
 image: "/uploads/por-qué-los-f8004.png"
-aliases:
-- "/por-qué-los-fondos-mutuos-rentan-tan-poco-78a9aafc9896/"
+url: "/por-qué-los-fondos-mutuos-rentan-tan-poco-78a9aafc9896/"
 
 
 ---

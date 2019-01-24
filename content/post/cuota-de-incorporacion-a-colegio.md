@@ -2,11 +2,10 @@
 date: '2018-07-05T02:46:31+00:00'
 image: ''
 title: "¿Cómo ahorrar para la cuota de incorporación del colegio?"
-aliases:
-- "/cuota-de-incorporacion-a-colegio/"
 categories:
 - ahorro
 - inversión
+url: "/cuota-de-incorporacion-a-colegio/"
 
 
 ---

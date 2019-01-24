@@ -5,8 +5,7 @@ title: Invertir es una lata.
 date: 2018-02-14
 image: "/uploads/invertir-es-u6140.png"
 draft: true
-aliases:
-- "/invertir-es-una-lata-526f18ca7a71/"
+url: "/invertir-es-una-lata-526f18ca7a71/"
 
 
 ---

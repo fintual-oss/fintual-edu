@@ -3,10 +3,9 @@ date: '2018-07-05T03:16:27+00:00'
 description: ''
 image: ''
 title: "¿En qué invertir mi plata?"
-aliases:
-- "/en-que-invertir/"
 categories:
 - ahorro
+url: "/en-que-invertir/"
 
 
 ---

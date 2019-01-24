@@ -4,8 +4,7 @@ author_thumbnail: "/uploads/paula_droguett.jpg"
 title: Pocas mujeres en el mundo financiero
 date: 2018-04-11
 image: "/uploads/pocas-mujeres5581.png"
-aliases:
-- "/pocas-mujeres-en-el-mundo-financiero-76c31a395a3f/"
+url: "/pocas-mujeres-en-el-mundo-financiero-76c31a395a3f/"
 
 
 ---

@@ -1,8 +1,7 @@
 ---
 date: '2018-07-05T04:41:49+00:00'
 title: Antes de que te compres la bicicleta más cara, lee esto.
-aliases:
-- "/la-bicicleta-mas-cara/"
+url: "/la-bicicleta-mas-cara/"
 
 
 ---

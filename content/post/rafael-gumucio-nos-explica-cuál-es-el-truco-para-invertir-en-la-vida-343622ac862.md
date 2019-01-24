@@ -6,8 +6,7 @@ date: 2016-07-29
 image: uploads/rafael_gumucio.jpeg
 categories:
 - entrevistas
-aliases:
-- "/rafael-gumucio-nos-explica-cuál-es-el-truco-para-invertir-en-la-vida-343622ac862/"
+url: "/rafael-gumucio-nos-explica-cuál-es-el-truco-para-invertir-en-la-vida-343622ac862/"
 
 
 ---

@@ -4,8 +4,7 @@ description: ''
 image: ''
 draft: 'true'
 title: Simulador de Fondos Mutuos
-aliases:
-- "/simulador-de-fondos-mutuos/"
+url: "/simulador-de-fondos-mutuos/"
 
 
 ---

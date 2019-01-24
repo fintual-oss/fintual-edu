@@ -7,8 +7,7 @@ image: "/uploads/andrés-explic3828.png"
 categories:
 - ahorro
 - inversión
-aliases:
-- "/andrés-explica-qué-es-robot-advisors-fc64e6254337/"
+url: "/andrés-explica-qué-es-robot-advisors-fc64e6254337/"
 
 
 ---

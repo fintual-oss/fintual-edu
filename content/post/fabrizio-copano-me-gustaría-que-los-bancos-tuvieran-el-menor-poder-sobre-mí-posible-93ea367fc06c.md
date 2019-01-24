@@ -7,8 +7,7 @@ date: 2017-04-17
 image: uploads/fabrizio_copano.jpeg
 categories:
 - entrevistas
-aliases:
-- "/fabrizio-copano-me-gustaría-que-los-bancos-tuvieran-el-menor-poder-sobre-mí-posible-93ea367fc06c/"
+url: "/fabrizio-copano-me-gustaría-que-los-bancos-tuvieran-el-menor-poder-sobre-mí-posible-93ea367fc06c/"
 
 
 ---

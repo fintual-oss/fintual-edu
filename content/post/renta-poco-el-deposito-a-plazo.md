@@ -3,10 +3,9 @@ date: '2018-07-02T19:48:26+00:00'
 description: ''
 image: "/uploads/Screen Shot 2018-07-04 at 8.08.10 AM.png"
 title: "¿Rentan poco los depósitos a plazo?"
-aliases:
-- "/renta-poco-el-deposito-a-plazo/"
 categories:
 - ideas
+url: "/renta-poco-el-deposito-a-plazo/"
 
 
 ---

@@ -6,8 +6,7 @@ date: 2018-02-14
 image: "/uploads/la-gente-que-4060.png"
 categories:
 - inversión
-aliases:
-- "/la-gente-que-tiene-mucho-dinero-no-invierte-en-fondos-mutuos-como-tú-89e4aab7472d/"
+url: "/la-gente-que-tiene-mucho-dinero-no-invierte-en-fondos-mutuos-como-tú-89e4aab7472d/"
 
 
 ---

@@ -4,8 +4,7 @@ description: ''
 draft: true
 image: ''
 title: Invierte Online
-aliases:
-- "/invierte-online/"
+url: "/invierte-online/"
 
 
 ---
