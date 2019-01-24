@@ -23,7 +23,7 @@ Invirtiendo diariamente durante 30 años esos $2.700 en un fondo muy arriesgado 
 
 <div class="image-wrapper">
 
-<img src="/uploads/cafe-millonario.png" alt="cafe-millonario">
+<img src="/uploads/cafe-1200x630.png" alt="cafe-millonario">
 
 </div>
 
