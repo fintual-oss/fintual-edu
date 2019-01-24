@@ -1,13 +1,12 @@
 ---
-date: '2018-07-05T04:36:52+00:00'
+date: 2018-07-05 04:36:52 +0000
 description: ''
-image: "/uploads/depositos-a-p4929.png"
+image: "/uploads/depositos-a-plazo-1200x630.png"
 title: "¿Depósitos a plazo?"
 categories:
 - inversión
 - ahorro
 url: "/depositos-a-plazo/"
-
 
 ---
 ![](/uploads/depositos-a-p4929.png)
