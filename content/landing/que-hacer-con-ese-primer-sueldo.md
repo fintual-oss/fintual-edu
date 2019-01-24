@@ -1,8 +1,10 @@
-+++
-date = "2018-12-11T13:49:52+00:00"
-title = "¿Qué hacer con ese primer sueldo?"
+---
+date: '2018-12-11T13:49:52+00:00'
+title: "¿Qué hacer con ese primer sueldo?"
+url: "/que-hacer-con-ese-primer-sueldo/"
 
-+++
+
+---
 Cuando entré a trabajar me explicaron lo que era "pagar el piso", que es invitar a toda la oficina a tomarse una cerveza o algo y **pagar con el primer sueldo**.
 
 ![huele a pagada de piso](/uploads/rsk1gl.jpg "Yoda Meme")

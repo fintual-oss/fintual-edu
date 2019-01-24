@@ -1,8 +1,10 @@
-+++
-date = "2018-07-03T01:35:56+00:00"
-title = "¿Qué es un robotadvisor y por qué te conviene?"
+---
+date: '2018-07-03T01:35:56+00:00'
+title: "¿Qué es un robotadvisor y por qué te conviene?"
+url: "/que-es-un-robotadvisor-y-por-que-te-conviene-/"
 
-+++
+
+---
 Un **robotadvisor** o "roboadvisor" es un asesor financiero, automatizado.
 
 ![](/uploads/finance-draw.png)

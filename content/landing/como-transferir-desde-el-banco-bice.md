@@ -1,12 +1,12 @@
-+++
+---
+date: '2018-08-27T23:32:32+00:00'
+description: ''
+image: ''
+title: Cómo transferir desde el Banco BICE
+url: "/como-transferir-desde-el-banco-bice/"
 
-date = "2018-08-27T23:32:32+00:00"
-description = ""
-image = ""
-title = "Cómo transferir desde el Banco BICE"
-aliases = ["/como-transferir-desde-el-banco-bice/"]
 
-+++
+---
 Si tienes cuenta en el Banco BICE
 
 <img src="/uploads/Screen Shot 2018-08-27 at 4.38.32 PM.png" style="width:50%;height: auto;"/>
