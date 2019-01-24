@@ -8,36 +8,6 @@ categories:
 url: "/el-deposito-a-plazo-es-una-mala-inversion/"
 
 ---
-<style>
-
-p { margin:4rem 0px; text-align:justify; }
-
-.footer-big__overlap { padding-bottom:0px; }
-
-.image-wrapper {
-
-text-align: center;
-
-}
-
-.image-wrapper img {
-
-width: 60%; text-align: center; margin: 40px 0px;
-
-}
-
-@media (max-width: 768px)  {
-
-.image-wrapper img {
-
-width: 100%;
-
-}
-
-}
-
-</style>
-
 ### Hoy un banco te da un 0,23% al mes¹ cuando haces un depósito a plazo, lo que en un año se traduce en 2,76%.
 
 ¿La inflación en Chile el año pasado?: 2,27%
