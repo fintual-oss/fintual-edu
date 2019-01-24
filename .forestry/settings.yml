@@ -5,16 +5,15 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: ''
+  path: content/landing
   label: Landings
-  create: documents
-  match: "**/*"
-  exclude: "**/*donut*"
-- type: directory
-  path: ''
-  label: Donuts
   create: all
-  match: "**/*donut*"
+  match: "**/*"
+- type: directory
+  path: content/post
+  label: Posts
+  create: all
+  match: "**/*"
 - type: directory
   path: content
   label: Pages
