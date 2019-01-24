@@ -15,11 +15,7 @@ En términos de costos, las comisiones bordean el 1% anual, menor a lo que cobra
 
 El problema es que hay mucha gente a la que no le gusta "darle" más plata a las AFPs.
 
-<div class="image-wrapper">
-
-<img src="/uploads/cuenta-2-1200x630.png" alt="cuenta2">
-
-</div>
+![](/uploads/cuenta-2-1200x630.png)
 
 Para esas personas algo como [Fintual](www.fintual.cl) puedes ser súper atractivo, porque es un servicio de inversión independiente para personas que no saben de inversiones pero que quieren invertir bien y fácil.
 
