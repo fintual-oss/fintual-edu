@@ -2,7 +2,7 @@
 date: 2018-07-08 16:37:29 +0000
 description: Entonces, ¿en qué invertir? FINTUAL
 image: "/uploads/deposito-a-plazo-malo-1200x630.png"
-title: El deposito a plazo es una mala inversion
+title: El depósito a plazo es una mala inversión
 categories:
 - ahorro
 url: "/el-deposito-a-plazo-es-una-mala-inversion/"
