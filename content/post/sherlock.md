@@ -4,8 +4,7 @@ description: La mayoría de los fondos mutuos cobran demasiado a sus clientes, t
   a ayudar a saber cuánto te están cobrando.
 image: https://edu.fintual.com/uploads/sherlock2.jpg
 title: Análisis gratis de tus fondos mutuos
-aliases:
-- "/sherlock/"
+url: "/sherlock/"
 
 
 ---

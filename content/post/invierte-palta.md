@@ -1,10 +1,9 @@
 ---
 date: '2018-07-05T00:56:26+00:00'
 title: Hagamos esto fácil
-aliases:
-- "/invierte-palta/"
 categories:
 - inversión
+url: "/invierte-palta/"
 
 
 ---

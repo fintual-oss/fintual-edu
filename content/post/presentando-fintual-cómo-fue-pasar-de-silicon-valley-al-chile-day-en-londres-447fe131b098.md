@@ -6,8 +6,7 @@ date: 2018-08-15
 image: "/uploads/presentando-f7808.jpeg"
 categories:
 - noticias
-aliases:
-- "/presentando-fintual-cómo-fue-pasar-de-silicon-valley-al-chile-day-en-londres-447fe131b098/"
+url: "/presentando-fintual-cómo-fue-pasar-de-silicon-valley-al-chile-day-en-londres-447fe131b098/"
 
 
 ---

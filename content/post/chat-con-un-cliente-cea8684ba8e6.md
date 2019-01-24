@@ -6,8 +6,7 @@ date: 2016-10-14
 image: "/uploads/chat-con-un-c8459.png"
 categories:
 - ideas
-aliases:
-- "/chat-con-un-cliente-cea8684ba8e6/"
+url: "/chat-con-un-cliente-cea8684ba8e6/"
 
 
 ---

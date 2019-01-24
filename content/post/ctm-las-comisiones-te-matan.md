@@ -6,8 +6,7 @@ image: "/uploads/simulador-1.png"
 title: 'CTM: las Comisiones Te Matan'
 categories:
 - inversión
-aliases:
-- "/ctm-las-comisiones-te-matan/"
+url: "/ctm-las-comisiones-te-matan/"
 
 
 ---

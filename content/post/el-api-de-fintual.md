@@ -6,10 +6,9 @@ description: Fintual es la primera Administradora General de Fondos en ofrecer u
   API para acceder a sus datos. Aquí una descripción de cómo usarla.
 image: "/uploads/image2.png"
 title: El API de Fintual
-aliases:
-- "/el-api-de-fintual/"
 categories:
 - ideas
+url: "/el-api-de-fintual/"
 
 
 ---

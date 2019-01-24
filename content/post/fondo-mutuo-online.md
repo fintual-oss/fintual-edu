@@ -3,10 +3,9 @@ date: '2018-06-25T19:33:31+00:00'
 description: ''
 image: ''
 title: Fondo Mutuo Online
-aliases:
-- "/fondo-mutuo-online/"
 categories:
 - inversión
+url: "/fondo-mutuo-online/"
 
 
 ---

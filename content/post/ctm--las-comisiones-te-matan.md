@@ -1,11 +1,10 @@
 ---
 date: '2018-07-05T04:40:03+00:00'
 title: 'CTM: las Comisiones Te Matan'
-aliases:
-- "/ctm--las-comisiones-te-matan/"
 image: "/uploads/ctm--las-comi6974.png"
 categories:
 - inversión
+url: "/ctm--las-comisiones-te-matan/"
 
 
 ---

@@ -7,8 +7,7 @@ date: 2018-05-07
 image: uploads/juan_cristobal_guarello.png
 categories:
 - entrevistas
-aliases:
-- "/juan-cristóbal-guarello-para-los-grandes-hombres-de-negocios-especular-es-mejor-que-el-sexo-2211a1328b48/"
+url: "/juan-cristóbal-guarello-para-los-grandes-hombres-de-negocios-especular-es-mejor-que-el-sexo-2211a1328b48/"
 
 
 ---

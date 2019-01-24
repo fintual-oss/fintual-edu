@@ -4,8 +4,7 @@ draft: false
 title: "¿Cómo invertir dinero en Chile?"
 categories:
 - inversión
-aliases:
-- "/como-invertir-dinero-en-chile/"
+url: "/como-invertir-dinero-en-chile/"
 
 
 ---

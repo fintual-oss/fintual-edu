@@ -4,8 +4,7 @@ author_thumbnail: "/uploads/pedro_pineda.png"
 title: "¿Por qué las AFPs podrían invertir mejor y no lo hacen?"
 date: 2017-05-07
 image: "/uploads/por-qué-las-a8063.jpeg"
-aliases:
-- "/por-qué-las-afps-podrían-invertir-mejor-y-no-lo-hacen-3f620e036402/"
+url: "/por-qué-las-afps-podrían-invertir-mejor-y-no-lo-hacen-3f620e036402/"
 
 
 ---

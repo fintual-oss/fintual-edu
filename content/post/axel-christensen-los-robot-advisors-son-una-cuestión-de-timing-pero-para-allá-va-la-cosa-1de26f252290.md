@@ -7,8 +7,7 @@ date: 2016-11-02
 image: uploads/axel_christensen.jpeg
 categories:
 - entrevistas
-aliases:
-- "/axel-christensen-los-robot-advisors-son-una-cuestión-de-timing-pero-para-allá-va-la-cosa-1de26f252290/"
+url: "/axel-christensen-los-robot-advisors-son-una-cuestión-de-timing-pero-para-allá-va-la-cosa-1de26f252290/"
 
 
 ---

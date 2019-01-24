@@ -6,8 +6,7 @@ date: 2016-08-15
 image: "/uploads/qué-vai-a-com8607.jpeg"
 categories:
 - ideas
-aliases:
-- "/qué-vai-a-comprar-acciones-voh-d13d63e3e490/"
+url: "/qué-vai-a-comprar-acciones-voh-d13d63e3e490/"
 
 
 ---

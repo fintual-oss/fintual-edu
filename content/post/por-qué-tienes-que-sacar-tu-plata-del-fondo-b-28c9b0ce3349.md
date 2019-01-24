@@ -4,8 +4,7 @@ author_thumbnail: 1*LOSP3TsTW_eFBFd49oGj6w.jpeg
 title: Por qué tienes que sacar tu plata del fondo B.
 date: 2016-06-12
 image: "/uploads/por-qué-tiene2219.jpeg"
-aliases:
-- "/por-qué-tienes-que-sacar-tu-plata-del-fondo-b-28c9b0ce3349/"
+url: "/por-qué-tienes-que-sacar-tu-plata-del-fondo-b-28c9b0ce3349/"
 
 
 ---

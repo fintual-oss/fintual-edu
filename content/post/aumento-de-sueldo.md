@@ -4,8 +4,7 @@ title: "¿Te subieron el sueldo? Llegó el momento de invertir."
 type: post
 categories:
 - ideas
-aliases:
-- "/aumento-de-sueldo/"
+url: "/aumento-de-sueldo/"
 
 
 ---

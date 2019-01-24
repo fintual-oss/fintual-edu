@@ -6,8 +6,7 @@ date: 2016-10-26
 image: "/uploads/ya-po-dejen-d4009"
 categories:
 - inversión
-aliases:
-- "/ya-po-dejen-de-robar-d90417af26ad/"
+url: "/ya-po-dejen-de-robar-d90417af26ad/"
 
 
 ---

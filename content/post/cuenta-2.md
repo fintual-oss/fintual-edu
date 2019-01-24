@@ -1,11 +1,10 @@
 ---
 date: '2018-07-05T04:51:57+00:00'
 title: "¿Qué es la cuenta 2?"
-aliases:
-- "/cuenta-2/"
 categories:
 - ahorro
 - inversión
+url: "/cuenta-2/"
 
 
 ---

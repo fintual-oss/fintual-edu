@@ -4,9 +4,8 @@ title: "¿Tiene sentido invertir en acciones?"
 categories:
 - inversión
 - ideas
-aliases:
-- "/-invertir-en-acciones-/"
 image: "/uploads/-invertir-en-8200.jpeg"
+url: "/-invertir-en-acciones-/"
 
 
 ---

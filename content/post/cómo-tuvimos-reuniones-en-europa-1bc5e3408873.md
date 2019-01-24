@@ -7,8 +7,7 @@ categories:
 - ideas
 - noticias
 image: "/uploads/cómo-tuvimos-5262.png"
-aliases:
-- "/cómo-tuvimos-reuniones-en-europa-1bc5e3408873/"
+url: "/cómo-tuvimos-reuniones-en-europa-1bc5e3408873/"
 
 
 ---

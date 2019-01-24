@@ -6,8 +6,7 @@ date: 2018-02-07
 image: "/uploads/el-porqué-fin6323.png"
 categories:
 - inversión
-aliases:
-- "/el-porqué-fintual-usa-etfs-77b7e7336f86/"
+url: "/el-porqué-fintual-usa-etfs-77b7e7336f86/"
 
 
 ---

@@ -6,8 +6,7 @@ image: uploads/tomas_olivera.jpeg
 date: 2017-09-22
 categories:
 - entrevistas
-aliases:
-- "/tomás-olivera-el-bolsillo-es-el-nervio-más-sensible-del-ser-humano-465039851104/"
+url: "/tomás-olivera-el-bolsillo-es-el-nervio-más-sensible-del-ser-humano-465039851104/"
 
 
 ---

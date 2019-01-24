@@ -6,8 +6,7 @@ date: 2018-04-08
 image: "/uploads/cómo-fuimos-l3107.png"
 categories:
 - ideas
-aliases:
-- "/cómo-fuimos-la-primera-startup-chilena-en-quedar-en-y-combinator-41363df2e2dc/"
+url: "/cómo-fuimos-la-primera-startup-chilena-en-quedar-en-y-combinator-41363df2e2dc/"
 
 
 ---

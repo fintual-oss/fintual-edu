@@ -6,8 +6,7 @@ date: 2018-09-16
 image: "/uploads/buscando-a-ne1221.png"
 categories:
 - ideas
-aliases:
-- "/buscando-a-nemo-o-nuestra-historia-de-cómo-buscamos-diseñador-a13dd6af2a2e/"
+url: "/buscando-a-nemo-o-nuestra-historia-de-cómo-buscamos-diseñador-a13dd6af2a2e/"
 
 
 ---

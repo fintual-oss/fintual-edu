@@ -6,8 +6,7 @@ date: 2018-03-17
 image: "/uploads/millennial-tu2322.png"
 categories:
 - ahorro
-aliases:
-- "/millennial-tus-50-000-mensuales-hoy-son-un-sueldo-de-1-000-000-en-el-futuro-5da205971df6/"
+url: "/millennial-tus-50-000-mensuales-hoy-son-un-sueldo-de-1-000-000-en-el-futuro-5da205971df6/"
 
 
 ---

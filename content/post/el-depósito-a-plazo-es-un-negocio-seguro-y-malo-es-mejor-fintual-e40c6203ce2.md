@@ -7,8 +7,7 @@ draft: 'true'
 image: "/uploads/el-depósito-a4163.png"
 categories:
 - ahorro
-aliases:
-- "/el-depósito-a-plazo-es-un-negocio-seguro-y-malo-es-mejor-fintual-e40c6203ce2/"
+url: "/el-depósito-a-plazo-es-un-negocio-seguro-y-malo-es-mejor-fintual-e40c6203ce2/"
 
 
 ---

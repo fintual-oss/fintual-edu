@@ -5,8 +5,7 @@ title: Comprar tiempo es mejor que comprar relojes
 categories:
 - ideas
 - inversión
-aliases:
-- "/comprar-tiempo-es-mejor-que-comprar-relojes/"
+url: "/comprar-tiempo-es-mejor-que-comprar-relojes/"
 
 
 ---

@@ -6,6 +6,8 @@ copyright = " 2019 | fintual.com "
 languageCode = "es-cl"
 summaryLength = 15
 removePathAccents = true
+[Permalinks]
+ posts = "/:filename/"
 [params]
 image = "/img/fintualedu_screen.png"
 author = "Equipo Fintual"

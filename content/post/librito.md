@@ -2,8 +2,7 @@
 date: ''
 image: ''
 title: Libro
-aliases:
-- "/librito/"
+url: "/librito/"
 
 
 ---

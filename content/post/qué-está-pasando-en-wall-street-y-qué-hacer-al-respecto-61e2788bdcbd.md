@@ -6,8 +6,7 @@ date: 2018-09-16
 image: "/uploads/qué-está-pasa8817.jpeg"
 categories:
 - inversión
-aliases:
-- "/qué-está-pasando-en-wall-street-y-qué-hacer-al-respecto-61e2788bdcbd/"
+url: "/qué-está-pasando-en-wall-street-y-qué-hacer-al-respecto-61e2788bdcbd/"
 
 
 ---

@@ -2,11 +2,10 @@
 date: '2018-07-17T19:23:11+00:00'
 image: https://edu.fintual.com/uploads/morgan-2.jpg
 title: "¿Cuánto te cobra tu fondo mutuo?"
-aliases:
-- "/cuanto-te-cobra-tu-fondo-mutuo/"
 categories:
 - ideas
 - inversión
+url: "/cuanto-te-cobra-tu-fondo-mutuo/"
 
 
 ---

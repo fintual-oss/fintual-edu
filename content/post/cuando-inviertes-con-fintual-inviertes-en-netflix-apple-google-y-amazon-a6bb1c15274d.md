@@ -8,8 +8,7 @@ image: "/uploads/cuando-invier8500.jpeg"
 categories:
 - ideas
 - inversión
-aliases:
-- "/cuando-inviertes-con-fintual-inviertes-en-netflix-apple-google-y-amazon-a6bb1c15274d/"
+url: "/cuando-inviertes-con-fintual-inviertes-en-netflix-apple-google-y-amazon-a6bb1c15274d/"
 
 
 ---

@@ -6,8 +6,7 @@ date: 2018-07-10
 image: "/uploads/turquía-mal-y5467.jpg"
 categories:
 - inversión
-aliases:
-- "/turquía-mal-y-trump-la-remata-111e34120df9/"
+url: "/turquía-mal-y-trump-la-remata-111e34120df9/"
 
 
 ---

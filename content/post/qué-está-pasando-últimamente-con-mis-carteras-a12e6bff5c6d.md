@@ -4,6 +4,7 @@ author_thumbnail: "/uploads/omar_larre.jpeg"
 title: "¿Qué está pasando últimamente con mis carteras?"
 date: 2018-11-24
 image: "/uploads/qué-está-pasa3841"
+url: "/qué-está-pasando-últimamente-con-mis-carteras-a12e6bff5c6d/"
 
 
 ---
