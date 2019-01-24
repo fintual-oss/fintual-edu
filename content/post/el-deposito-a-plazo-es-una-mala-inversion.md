@@ -1,12 +1,11 @@
 ---
-date: '2018-07-08T16:37:29+00:00'
+date: 2018-07-08 16:37:29 +0000
 description: Entonces, ¿en qué invertir? FINTUAL
-image: "/uploads/rankingagf.png"
+image: "/uploads/deposito-a-plazo-malo-1200x630.png"
 title: El deposito a plazo es una mala inversion
 categories:
 - ahorro
 url: "/el-deposito-a-plazo-es-una-mala-inversion/"
-
 
 ---
 <style>
@@ -65,7 +64,7 @@ Mira tabla de El Mercurio donde ya aparecemos compitiendo con el Santander, Banc
 
 <div class="image-wrapper">
 
-<img src="/uploads/rankingagf.png" alt="rankingagf.png">
+<img src="/uploads/deposito-a-plazo-malo-1200x630.png" alt="pilademonedas.png">
 
 </div>
 
