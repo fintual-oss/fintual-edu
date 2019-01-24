@@ -36,4 +36,4 @@ build:
   - HUGO_VERSION=0.38.1
   preview_output_directory: public
   output_directory: public
-version: 0.38.1
+version: '0.52'
