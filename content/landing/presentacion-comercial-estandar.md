@@ -1,11 +1,11 @@
-+++
+---
+date: '2018-07-17T20:22:12+00:00'
+image: ''
+title: Presentación Comercial Estándar
+url: "/presentacion-comercial-estandar/"
 
-date = "2018-07-17T20:22:12+00:00"
-image = ""
-title = "Presentación Comercial Estándar"
-aliases = ["/presentacion-comercial-estandar/"]
 
-+++
+---
 Hicimos esta presentación porque clientes con más experiencia nos han pedido más detalles de los fondos. 
 
 Si no sabes de inversiones o no te interesan, no tienes para qué mirar esto.

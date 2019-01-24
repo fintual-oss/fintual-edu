@@ -1,9 +1,9 @@
 ---
 date: '2018-07-08T16:37:29+00:00'
 description: Invertir tiene que ser fácil.
-image: "/uploads/inviertepapalk.png"
+image: ''
 title: Hagamos esto papa
-url: "/hagamos-esto-papa-lk/"
+url: "/hagamos-esto-papa-adw/"
 
 
 ---
@@ -37,7 +37,7 @@ width: 100%;
 
 </style>
 
-Habiendo tantas páginas para pedir comida ¿cómo no existía una que te ayudara a invertir bien tu plata?
+Habiendo tantas páginas para pedir comida, ¿cómo no existía una que te ayudara a invertir bien tu plata?
 
 En Chile no conocíamos algo que fuera simple, transparente y barato.
 
@@ -78,4 +78,4 @@ _Algunas personas dicen que algo es papa cuando es fácil._
 _Y nosotros queremos eso, que invertir sea papa._
 
 <p style="text-align:center">
-<a class="simulator-page__button btn btn--secondary" href="https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=awareness&utm_content=hagamos+esto+papa+lk-122#empezar">Empezar</a></p>
+<a class="simulator-page__button btn btn--secondary" href="https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=consideration&utm_content=hagamos+esto+papa+adw-168#empezar">Empezar</a></p>

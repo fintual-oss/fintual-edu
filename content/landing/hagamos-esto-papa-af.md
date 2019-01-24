@@ -1,12 +1,12 @@
-+++
+---
+date: '2018-07-08T16:37:29+00:00'
+description: Invertir tiene que ser fácil.
+image: "/uploads/inviertepapalk.png"
+title: Hagamos esto papa
+url: "/hagamos-esto-papa-af/"
 
-date = "2018-07-08T16:37:29+00:00"
-description = "Invertir tiene que ser fácil."
-image = "/uploads/inviertepapalk.png"
-title = "Hagamos esto papa"
-aliases = ["/hagamos-esto-papa-af/"]
 
-+++
+---
 <style>
 
 p { margin:4rem 0px; text-align:justify; }

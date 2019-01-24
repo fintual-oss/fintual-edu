@@ -1,11 +1,11 @@
-+++
+---
+date: '2018-07-12T01:25:05+00:00'
+image: ''
+title: Cómo programar una transferencia mensual en el Banco de Chile
+url: "/como-programar-una-transferencia-mensual-en-el-banco-de-chile/"
 
-date = "2018-07-12T01:25:05+00:00"
-image = ""
-title = "Cómo programar una transferencia mensual en el Banco de Chile"
-aliases = ["/como-programar-una-transferencia-mensual-en-el-banco-de-chile/"]
 
-+++
+---
 [FINTUAL](http://www.fintual.com) no saca cuenta de tu plata. Tú la tienes que transferir.
 
 <br>
