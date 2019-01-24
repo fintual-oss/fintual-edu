@@ -5,7 +5,7 @@ theme = "mediumish"
 copyright = " 2019 | fintual.com "
 languageCode = "es-cl"
 summaryLength = 15
-removePathAccents = true
+removePathAccents = false
 [Permalinks]
  posts = "/:filename/"
 [params]
