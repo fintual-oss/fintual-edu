@@ -1,18 +1,16 @@
 ---
 author: Pedro Pineda
 author_thumbnail: "/uploads/pedro_pineda.png"
-date: '2018-12-13T13:01:29+00:00'
+date: 2018-12-13 13:01:29 +0000
 description: Para que pienses en ello cuando estés tomándote un café.
-image: "/uploads/cafe-millonario.png"
+image: "/uploads/cafe-1200x630.png"
 title: Cómo un café menos al día podría darte más de $100.000.000
 categories:
 - ahorro
 - ideas
 url: "/como-un-cafe-menos-al-dia-podria-darte-mas-de-100mm/"
 
-
 ---
-
 Parece una broma pero es cierto.
 
 Si eres de las personas que compra un café todos los días, probablemente estés gastando unos $2.700 (eso es lo que vale un Latte grande en una cadena muy famosa).
