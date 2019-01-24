@@ -2,15 +2,13 @@
 author: Francesca Finaldi
 author_thumbnail: "/uploads/francesca_finaldi.jpeg"
 title: En qué invertir mi plata
-date: 2018-11-10
-image: "/uploads/en-qué-invert6761.png"
+date: 2018-11-10 00:00:00 +0000
+image: "/uploads/-invertir-en-8200.jpeg"
 categories:
 - inversión
 url: "/en-qué-invertir-mi-plata-c4be6a63a881/"
 
-
 ---
-
 ### Una guía para personas que no saben invertir
 
 *Menciono algunas instituciones financieras y empresas, pero aparte de [Fintual](http://www.fintual.com) no tengo ninguna relación ni intereses con ninguna.*
