@@ -20,4 +20,4 @@ Para plazos más largas, debieras definitivamente echar un vistazo a [Fintual](h
 
 Un servicio online para gente que no sabe de inversiones pero que quiere invertir bien y simple.
 
-![](/uploads/fintual_screen.png)
+![](/uploads/cual-es-el-mejor-deposito-1200x630.png)
