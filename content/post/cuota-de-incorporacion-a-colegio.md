@@ -1,12 +1,11 @@
 ---
-date: '2018-07-05T02:46:31+00:00'
-image: ''
+date: 2018-07-05 02:46:31 +0000
+image: "/uploads/incorporacion colegio.png"
 title: "¿Cómo ahorrar para la cuota de incorporación del colegio?"
 categories:
 - ahorro
 - inversión
 url: "/cuota-de-incorporacion-a-colegio/"
-
 
 ---
 Los colegios con mejores resultados en la PSU suelen tener mensualidades altas respecto al promedio y aún así una alta demanda por ingresar cada año.
@@ -21,4 +20,4 @@ Mira la simulación que hicimos:
 
 ![](/uploads/simulador.png)
 
-Si en tu caso los montos o plazos son distintos, puedes ir a [Fintual](https://fintual.cl?utm_campaign=cuota-colegio&utm_source=edu&utm_medium=landing) y simular tu caso particular.
+Si en tu caso los montos o plazos son distintos, puedes ir a [Fintual](https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_content=como-ahorrar-cuota-incorporacion-colegio-171) y simular tu caso particular.
