@@ -1,27 +1,26 @@
 +++
 author = "Pedro Pineda"
 author_thumbnail = "/uploads/pedro_pineda.png"
-categories = ["ahorro", "inversión"]
+categories = ["ahorro"]
 date = "2018-12-13T13:01:29+00:00"
-description = "Para que pienses en ello cuando estés tomándote un café."
-draft = true
-image = "/uploads/cuenta-2-1200x630.png"
-title = "¿Cuál es el mejor depósito a plazo?2"
-url = "/cuenta-2/"
+description = ""
+image = "/uploads/cual-es-el-mejor-deposito-1200x630.png"
+title = "¿Cuál es el mejor depósito a plazo?"
+url = "/mejor-deposito-a-plazo/"
 
 +++
-La cuenta 2 es una cuenta de ahorro voluntario, creada por las AFPs como complemento de la cuenta de capitalización individual que es obligatoria por ley.
+Decir el mejor depósito a plazo es como decir el mejor equipo de segunda división, el mejor cuarto lugar en los juegos olímpicos, ...
 
-Se invierte sobre los mismos fondos que la obligatoria, pero el dinero lo puedes sacar cuando quieras.
+Los depósitos a plazo te dan cerca a un 0,23% al mes¹, lo que en un año se traduce en 2,76%.
 
-En términos de costos, las comisiones bordean el 1% anual, menor a lo que cobran los fondos mutuos en promedio.
+¿La inflación en Chile el año pasado?: 2,27%
 
-El problema es que hay mucha gente a la que no le gusta "darle" más plata a las AFPs.
+O sea que si durante el año pasado fuiste renovando depósitos a plazo en tu banco, no es que hayas ganado realmente mucho. **Apenas lograste ganarle a la inflación** y el precio de las cosas subirá igual a como sube tu plata.
 
-![](/uploads/cuenta-2-1200x630.png)
+Un depósito a plazo puede ser bueno cuando necesitas invertir tu plata unos tres meses y ya, porque necesitas tener liquidez.
 
-Para esas personas algo como [Fintual](https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_content=-48) puedes ser súper atractivo, porque es un servicio de inversión independiente para personas que no saben de inversiones pero que quieren invertir bien y fácil.
+Para plazos más largas, debieras definitivamente echar un vistazo a [Fintual](https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_content=mejor-deposito-a-plazo-170).
 
-Además de ser similar en comisión, los fondos no tienen restricciones como sí lo tienen los fondos de pensiones de las AFPs.
+Un servicio online para gente que no sabe de inversiones pero que quiere invertir bien y simple.
 
-Esto da más grados de libertad a los fondos que administra Fintual y podrían implicar una rentabilidad mejor.
+![](/uploads/cual-es-el-mejor-deposito-1200x630.png)
