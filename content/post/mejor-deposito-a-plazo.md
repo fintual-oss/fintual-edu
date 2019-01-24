@@ -1,10 +1,9 @@
 ---
-date: '2018-07-05T04:06:55+00:00'
+date: 2018-07-05 04:06:55 +0000
 title: "¿Cuál es el mejor depósito a plazo?"
 categories:
 - ahorro
 url: "/mejor-deposito-a-plazo/"
-
 
 ---
 Decir el mejor depósito a plazo es como decir el mejor equipo de segunda división, el mejor cuarto lugar en los juegos olímpicos, ...
@@ -21,4 +20,4 @@ Para plazos más largas, debieras definitivamente echar un vistazo a [Fintual.](
 
 Un servicio online para gente que no sabe de inversiones pero que quiere invertir bien y simple.
 
-![](/uploads/Screen Shot 2018-07-04 at 10.31.40 PM.png)
+![](/uploads/fintual_screen.png)
