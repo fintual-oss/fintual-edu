@@ -16,7 +16,7 @@ O sea que si durante el año pasado fuiste renovando depósitos a plazo en tu ba
 
 Un depósito a plazo puede ser bueno cuando necesitas invertir tu plata unos tres meses y ya, porque necesitas tener liquidez.
 
-Para plazos más largas, debieras definitivamente echar un vistazo a [Fintual.](www.fintual.cl)
+Para plazos más largas, debieras definitivamente echar un vistazo a [Fintual](https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_content=mejor-deposito-a-plazo-170).
 
 Un servicio online para gente que no sabe de inversiones pero que quiere invertir bien y simple.
 
