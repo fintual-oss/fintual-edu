@@ -11,9 +11,9 @@ url = "/mejor-deposito-a-plazo/"
 +++
 Decir el mejor depósito a plazo es como decir el mejor equipo de segunda división, el mejor cuarto lugar en los juegos olímpicos, ...
 
-Los depósitos a plazo te dan cerca a un 0,23% al mes¹, lo que en un año se traduce en 2,76%.
+El mejor depósito a plazo te entrega un 0,32% al mes¹, lo que en un año se traduce en 3,84%.
 
-¿La inflación en Chile el año pasado?: 2,27%
+¿La inflación en Chile el 2018?: 2,43%
 
 O sea que si durante el año pasado fuiste renovando depósitos a plazo en tu banco, no es que hayas ganado realmente mucho. **Apenas lograste ganarle a la inflación** y el precio de las cosas subirá igual a como sube tu plata.
 
@@ -24,3 +24,5 @@ Para plazos más largas, debieras definitivamente echar un vistazo a [Fintual](h
 Un servicio online para gente que no sabe de inversiones pero que quiere invertir bien y simple.
 
 ![](/uploads/cual-es-el-mejor-deposito-1200x630.png)
+
+(1) [Rentabilidad](https://www.rankia.cl/blog/mejores-depositos-a-plazo/3257869-cuales-son-mejores-depositos-plazo-para-2019) a 30 días
