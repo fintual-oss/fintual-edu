@@ -2,15 +2,13 @@
 author: FranFeuer
 author_thumbnail: "/uploads/francisca_feuerhake.jpg"
 title: 'Álvaro Díaz: “La plata es lo más ordinario que hay”'
-date: 2017-04-23
-image: uploads/alvaro_diaz.jpeg
+date: 2017-04-23 00:00:00 +0000
+image: "/uploads/alvaro-diaz.png"
 categories:
 - entrevistas
 url: "/álvaro-díaz-la-plata-es-lo-más-ordinario-que-hay-951c82cf31c5/"
 
-
 ---
-
 ![](/uploads/alvaro_diaz.jpeg)
 
 ## El co-creador de 31 minutos nos cuenta que nunca se tituló porque no tenía plata, que prefiere un Toyota a un Mercedes y que no vale la pena perder el tiempo en inversiones.
