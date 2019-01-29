@@ -14,4 +14,4 @@ Mira la charla que dio Andrés en la reciente Starsconf sobre robotadvisors, el 
 
 ![](/uploads/andrés-explic3828.png)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tjkDMUgBjGY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="315" src="https://www.youtube.com/embed/tjkDMUgBjGY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
