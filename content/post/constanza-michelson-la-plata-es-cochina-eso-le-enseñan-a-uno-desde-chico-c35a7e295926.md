@@ -2,15 +2,13 @@
 author: FranFeuer
 author_thumbnail: "/uploads/francisca_feuerhake.jpg"
 title: 'Constanza Michelson: “La plata es cochina, eso le enseñan a uno desde chico”.'
-date: 2018-05-11
-image: "/uploads/constanza_michelson.png"
+date: 2018-05-11 00:00:00 +0000
+image: "/uploads/constanza-michelson.png"
 categories:
 - entrevistas
 url: "/constanza-michelson-la-plata-es-cochina-eso-le-enseñan-a-uno-desde-chico-c35a7e295926/"
 
-
 ---
-
 ![](/uploads/constanza_michelson.png)
 ## La psicoanalista cuenta que en el colegio se avergonzaba de su situación económica, que se gasta todo lo que gana y que Kidzania no es tan terrible como creen los progres.
 
