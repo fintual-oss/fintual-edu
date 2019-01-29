@@ -25,3 +25,9 @@ fields:
 - type: text
   name: description
   label: Description
+- type: list
+  name: aliases
+  label: aliases
+  config:
+    min: '0'
+    max: '5'
