@@ -3,15 +3,13 @@ author: Pedro Pineda
 author_thumbnail: "/uploads/pedro_pineda.png"
 title: 'Elisa Zulueta: “Gasto lo que tengo, no tengo cuenta corriente. No sé manejar
   ese tipo de huevadas”.'
-date: 2016-10-16
-image: uploads/elisa_zulueta.jpeg
+date: 2016-10-16 00:00:00 +0000
+image: "/uploads/elis-zulueta.png"
 categories:
 - entrevistas
 url: "/elisa-zulueta-gasto-lo-que-tengo-no-tengo-cuenta-corriente-no-sé-manejar-ese-tipo-de-huevadas-1852071d6849/"
 
-
 ---
-
 ![](/uploads/elisa_zulueta.jpeg)
 
 ## La actriz le contó a [FINTUAL](https://fintual.cl/) cómo ganó sus primeros pesos, porqué no se endeuda y cómo es conseguir plata para montar una obra de teatro en Chile.
