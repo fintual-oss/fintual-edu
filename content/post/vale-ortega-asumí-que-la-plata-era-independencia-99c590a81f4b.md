@@ -1,15 +1,13 @@
 ---
 author: Cristóbal Fredes
-author_thumbnail: 1*tFD0xb7V70kDhg_xtrGVQw.jpeg
+author_thumbnail: "/uploads/cristobal_fredes.jpeg"
 title: 'Vale Ortega: ”Asumí que la plata era independencia”'
-date: 2018-02-20
-image: uploads/vale_ortega.jpeg
+date: 2018-02-20 00:00:00 +0000
+image: "/uploads/vale-ortega.png"
 categories:
 - entrevistas
 
-
 ---
-
 ![](/uploads/vale_ortega.jpeg)
 
 ### La animadora nos cuenta que se considera consumista, que era modelo desde muy chica y que prefiere gastar en viajes
