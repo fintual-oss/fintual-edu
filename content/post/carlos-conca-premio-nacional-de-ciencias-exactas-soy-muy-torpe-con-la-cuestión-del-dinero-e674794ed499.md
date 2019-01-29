@@ -3,24 +3,22 @@ author: Pedro Pineda
 author_thumbnail: "/uploads/pedro_pineda.png"
 title: 'Carlos Conca, Premio Nacional de Ciencias Exactas: “Soy muy torpe con la cuestión
   del dinero”.'
-date: 2018-06-09
-image: uploads/carlos_conca.jpeg
+date: 2018-06-09 00:00:00 +0000
+image: "/uploads/carlos-conca.png"
 categories:
 - entrevistas
 url: "/carlos-conca-premio-nacional-de-ciencias-exactas-soy-muy-torpe-con-la-cuestión-del-dinero-e674794ed499/"
 
-
 ---
-
 ![](/uploads/carlos_conca.jpeg)
 
 ### El ingeniero matemático nos contó sobre su sueldo de $0 en los años setenta, su participación como accionista fundador de Azul Azul y la relación distante que tiene con el dinero.
 
-*Esta entrevista es parte de la serie “Con dinero y sin dinero” de [FINTUAL](https://fintual.cl) donde preguntamos a gente interesante sobre el rol que el dinero ha jugado en sus vidas. Carlos Conca es ingeniero matemático y académico de la Universidad de Chile, PhD en Matemática Aplicada de la Universidad Pierre y Marie Curie de París y Premio Nacional de Ciencias Exactas de Chile en 2003.*
+_Esta entrevista es parte de la serie “Con dinero y sin dinero” de_ [_FINTUAL_](https://fintual.cl) _donde preguntamos a gente interesante sobre el rol que el dinero ha jugado en sus vidas. Carlos Conca es ingeniero matemático y académico de la Universidad de Chile, PhD en Matemática Aplicada de la Universidad Pierre y Marie Curie de París y Premio Nacional de Ciencias Exactas de Chile en 2003._
 
 **¿Cuándo ganaste plata por primera vez?**
 
-Creo que la primera vez fue a los 12 años. Se me ocurrió una idea de juego y se lo fui a vender al vecino que tenía una tienda de juguetes y juegos para niños. Le gustó y me dijo: *“ya, yo te voy a comprar tu idea”* y me pagó.
+Creo que la primera vez fue a los 12 años. Se me ocurrió una idea de juego y se lo fui a vender al vecino que tenía una tienda de juguetes y juegos para niños. Le gustó y me dijo: _“ya, yo te voy a comprar tu idea”_ y me pagó.
 
 **¿Te acuerdas cuánto fue?**
 
@@ -104,7 +102,7 @@ Otra cosa que hice relativamente arriesgada, fue participar en la creación de A
 
 **¿En serio?, ¿cómo fue?, ¿cómo alguien llega y dice vamos a hacer Azul Azul?**
 
-Fue después de la creación de Blanco y Negro cuando un grupo de personas dijo: *“la Universidad de Chile -el equipo de fútbol- tiene una deuda de seis mil millones de pesos y como hinchas vamos a hacer algo para sacarla del hoyo en que está”.*
+Fue después de la creación de Blanco y Negro cuando un grupo de personas dijo: _“la Universidad de Chile -el equipo de fútbol- tiene una deuda de seis mil millones de pesos y como hinchas vamos a hacer algo para sacarla del hoyo en que está”._
 
 Ahí se formó un grupo liderado por Carlos Hurtado, que había sido ministro de Obras Públicas en el gobierno de Eduardo Frei, presidente de Entel y profesor aquí en el Departamento de Ingeniería Industrial de la Universidad de Chile. Carlos propuso formar una pequeña empresa con 25 personas que terminó teniendo un 20% o un 25% de Azul Azul.
 
