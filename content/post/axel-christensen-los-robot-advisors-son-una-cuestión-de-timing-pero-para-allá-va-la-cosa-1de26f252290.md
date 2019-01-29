@@ -3,15 +3,13 @@ author: Pedro Pineda
 author_thumbnail: "/uploads/pedro_pineda.png"
 title: 'Axel Christensen: “los robot-advisors son una cuestión de timing, pero para
   allá va la cosa”.'
-date: 2016-11-02
-image: uploads/axel_christensen.jpeg
+date: 2016-11-02 00:00:00 +0000
+image: "/uploads/axel-christensen.png"
 categories:
 - entrevistas
 url: "/axel-christensen-los-robot-advisors-son-una-cuestión-de-timing-pero-para-allá-va-la-cosa-1de26f252290/"
 
-
 ---
-
 ![](/uploads/axel_christensen.jpeg)
 
 ## El jefe de estrategias de inversión de BlackRock nos cuenta cómo ganaba $1000 haciendo clases particulares en el colegio, su visión del dinero y cómo fue su día en el trabajo cuando ganó Donald Trump.
