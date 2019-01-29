@@ -3,15 +3,13 @@ author: Cristóbal Fredes
 author_thumbnail: "/uploads/cristobal_fredes.jpeg"
 title: 'Fabrizio Copano: “Me gustaría que los bancos tuvieran el menor poder sobre
   mí posible”'
-date: 2017-04-17
-image: uploads/fabrizio_copano.jpeg
+date: 2017-04-17 00:00:00 +0000
+image: "/uploads/fabrizio-copano.png"
 categories:
 - entrevistas
 url: "/fabrizio-copano-me-gustaría-que-los-bancos-tuvieran-el-menor-poder-sobre-mí-posible-93ea367fc06c/"
 
-
 ---
-
 ![](/uploads/fabrizio_copano.jpeg)
 
 ### El comediante nos cuenta que nunca tuvo mesada, que trabaja desde los 15, que su rubro está lleno de altibajos y que siempre está pensando que la plata se va a acabar.
