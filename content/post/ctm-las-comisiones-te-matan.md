@@ -1,17 +1,14 @@
 ---
-date: '2018-07-08T16:37:29+00:00'
+date: 2018-07-08 16:37:29 +0000
 description: 'Si quieres ver cuánta plata estás dejando de ganar por las comisiones
   revisa el simulador que hicimos:'
-image: "/uploads/simulador-1.png"
+image: "/uploads/ctm-comisiones.png"
 title: 'CTM: las Comisiones Te Matan'
 categories:
 - inversión
 url: "/ctm-las-comisiones-te-matan/"
 
-
 ---
-
-
 Súper poca gente sabe cuánto paga en comisiones cuando invierte.
 
 Incluso una vez un contador -que se supone que sabe- nos dijo: _“pero si los fondos mutuos son gratis”._
