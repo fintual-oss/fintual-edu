@@ -1,13 +1,11 @@
 ---
-date: '2018-07-08T16:37:29+00:00'
+date: 2018-07-08 16:37:29 +0000
 description: Invertir tiene que ser fácil.
-image: "/uploads/inviertepapa.png"
+image: "/uploads/hagamos-esto-papa.png"
 title: Hagamos esto papa
 url: "/hagamos-esto-papa/"
 
-
 ---
-
 Habiendo tantas páginas para pedir comida, ¿cómo no existía una que te ayudara a invertir bien tu plata?
 
 En Chile no conocíamos algo que fuera simple, transparente y barato.
