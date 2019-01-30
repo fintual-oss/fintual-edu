@@ -2,15 +2,13 @@
 author: Omar Larré
 author_thumbnail: "/uploads/omar_larre.jpeg"
 title: Sobre la reforma previsional
-date: 2018-10-06
-image: "/uploads/sobre-la-refo4955.png"
+date: 2018-10-06 00:00:00 +0000
+image: "/uploads/reforma-previsional.png"
 categories:
 - ahorro
 url: "/sobre-la-reforma-previsional-13784c3f44de/"
 
-
 ---
-
 ### Tras el anuncio del proyecto de reforma previsional del presidente Piñera varias personas nos han preguntado si Fintual va a participar o no como actor. La respuesta corta es sí.
 
 Las pensiones en Chile son malas — “gran noticia” — y la reforma busca mejorarlas, entre otras cosas, aumentando la cotización obligatoria de 10% a un 14%.
