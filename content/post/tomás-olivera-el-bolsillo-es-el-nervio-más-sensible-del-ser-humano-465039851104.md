@@ -2,15 +2,13 @@
 author: Cristóbal Fredes
 author_thumbnail: "/uploads/cristobal_fredes.jpeg"
 title: 'Tomás Olivera: “El bolsillo es el nervio más sensible del ser humano”'
-image: uploads/tomas_olivera.jpeg
-date: 2017-09-22
+image: "/uploads/tomas_olivera.png"
+date: 2017-09-22 00:00:00 +0000
 categories:
 - entrevistas
 url: "/tomás-olivera-el-bolsillo-es-el-nervio-más-sensible-del-ser-humano-465039851104/"
 
-
 ---
-
 ![](/uploads/tomas_olivera.jpeg)
 
 ### **El cocinero recuerda su infancia en Valparaíso, su ascenso en el mundo de la gastronomía, dice que la plata es para gastarla y relata los altibajos de ser freelance.**
