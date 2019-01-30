@@ -1,12 +1,13 @@
 ---
-date: '2018-07-05T04:32:13+00:00'
+date: 2018-07-05 04:32:13 +0000
 title: "¿Cómo es la inversión en fondos mutuos?"
 categories:
 - inversión
 url: "/invertir-en-fondos-mutuos./"
 
-
 ---
+![](/uploads/como-es-1.png)
+
 Invertir bien no es sencillo.
 
 Y los fondos mutuos son soluciones más o menos malas pero muy usados por ser simples.
@@ -41,7 +42,7 @@ Y no sólo eso.
 
 Sacamos una licencia regulatoria y armamos nosotros mismos nuestros propios fondos mutuos con instrumentos financieros que un robotito va midiendo en riesgo.
 
-![](https://cdn-images-1.medium.com/max/800/1\*puUtIzRpupSpq9KyVLfj8g.png)
+![](https://cdn-images-1.medium.com/max/800/1*puUtIzRpupSpq9KyVLfj8g.png)
 
 Qué tiernos nos vemos en esta lista junto al BBVA, Santander, BancoEstado y Banchile.
 
