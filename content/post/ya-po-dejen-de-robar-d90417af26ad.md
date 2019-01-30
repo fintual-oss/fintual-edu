@@ -2,15 +2,13 @@
 author: Pedro Pineda
 author_thumbnail: "/uploads/pedro_pineda.png"
 title: Lobos de Wall Street en Chile
-date: 2016-10-26
-image: "/uploads/ya-po-dejen-d4009"
+date: 2016-10-26 00:00:00 +0000
+image: "/uploads/lobos-wall.png"
 categories:
 - inversión
 url: "/ya-po-dejen-de-robar-d90417af26ad/"
 
-
 ---
-
 ### En una noticia de El Mercurio Inversiones que publicaron el viernes se lee: “El ex presidente de la Bolsa de Valparaíso acumula tres querellas por estafa y apropiación indebida. Actualmente tiene una orden de detención en su contra”.
 
 El mes pasado, [en el Diario Financiero](https://www.df.cl/noticias/mercados/finanzas-personales/gerente-de-aurus-esconde-perdidas-por-us-25-millones-y-fiscalia-inicia/2016-10-06/205434.html) explotó el caso Aurus donde uno de sus gerentes y socio que perdió millones de dólares, está acusado de esconder las pérdidas y transferirse millones de sus clientes mientras se emborrachaba en el Monticello (para evadirse del problema en el que estaba metido).
