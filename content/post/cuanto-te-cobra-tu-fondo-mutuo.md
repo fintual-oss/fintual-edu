@@ -1,12 +1,11 @@
 ---
-date: '2018-07-17T19:23:11+00:00'
-image: https://edu.fintual.com/uploads/morgan-2.jpg
+date: 2018-07-17 19:23:11 +0000
+image: "/uploads/morgan-free.png"
 title: "¿Cuánto te cobra tu fondo mutuo?"
 categories:
 - ideas
 - inversión
 url: "/cuanto-te-cobra-tu-fondo-mutuo/"
-
 
 ---
 Es muy difícil que lo sepas.
@@ -17,17 +16,15 @@ Por eso inventamos a Morgan "Feeman", un servicio gratuito que te ayudará a sab
 
 <br>
 
-<img src="/uploads/morgan.jpg" style="width:50%;height: auto;"/>
+<img src="/uploads/morgan-free.jpg"/>
 
 <br>
 
 **Escríbele un email a** [**morgan@fintual.com**](mailto://morgan@fintual.com) diciéndole:
 
-1) el nombre del fondo en que invertiste
-
-2) cuánta plata metiste
-
-3) cuánto tiempo ha pasado
+1. el nombre del fondo en que invertiste
+2. cuánta plata metiste
+3. cuánto tiempo ha pasado
 
 **<br>**
 
