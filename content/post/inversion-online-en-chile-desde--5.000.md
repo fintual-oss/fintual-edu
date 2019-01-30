@@ -1,10 +1,10 @@
 ---
-date: '2018-06-25T15:05:11+00:00'
+date: 2018-06-25 15:05:11 +0000
 title: Inversión online en Chile desde $5.000
 categories:
 - ideas
 url: "/inversion-online-en-chile-desde--5.000/"
-
+draft: true
 
 ---
 Fintual AGF es una Administradora General de Fondos chilena, supervisada por la CMF (Comisión de Mercado Financiero) que funciona 100% online desde 2018.
