@@ -1,20 +1,19 @@
 ---
 author: Agustin Feuerhake
 author_thumbnail: "/uploads/agustin_feuerhake.jpg"
-date: '2018-11-30T13:01:31+00:00'
+date: 2018-11-30 13:01:31 +0000
 description: Fintual es la primera Administradora General de Fondos en ofrecer un
   API para acceder a sus datos. Aquí una descripción de cómo usarla.
-image: "/uploads/image2.png"
+image: "/uploads/api-fintual.png"
 title: El API de Fintual
 categories:
 - ideas
 url: "/el-api-de-fintual/"
 
-
 ---
 En Fintual somos más ingenieros de software que comerciales / financieros así que no podíamos pasar demasiado tiempo sin ofrecer un API.
 
-![](/uploads/image2.png)
+![](/uploads/api-fintual.png)
 
 Aunque no teníamos claro para qué podría llegar a usarse, liberamos una primera versión:
 
