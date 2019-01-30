@@ -14,11 +14,7 @@ Tal vez los mismos bancos lo hacen difícil porque les conviene.
 
 Por eso inventamos a Morgan "Feeman", un servicio gratuito que te ayudará a saber cuánto te están cobrando.
 
-<br>
-
-<img src="/uploads/morgan-free.jpg"/>
-
-<br>
+![](/uploads/morgan-free.png)
 
 **Escríbele un email a** [**morgan@fintual.com**](mailto://morgan@fintual.com) diciéndole:
 
