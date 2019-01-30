@@ -1,12 +1,12 @@
 ---
-date: '2018-07-05T03:27:00+00:00'
+date: 2018-07-05 03:27:00 +0000
 image: ''
 title: "¿Seguro quieres comprar departamentos como inversión?"
 categories:
 - ideas
 - inversión
 url: "/compra-de-departamentos/"
-
+draft: true
 
 ---
 ![](/uploads/Screen Shot 2018-07-04 at 10.31.40 PM.png)<br>
