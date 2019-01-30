@@ -2,13 +2,12 @@
 author: Gastón Gabino
 author_thumbnail: 1*LOSP3TsTW_eFBFd49oGj6w.jpeg
 title: Por qué tienes que sacar tu plata del fondo B.
-date: 2016-06-12
+date: 2016-06-12 00:00:00 +0000
 image: "/uploads/por-qué-tiene2219.jpeg"
 url: "/por-qué-tienes-que-sacar-tu-plata-del-fondo-b-28c9b0ce3349/"
-
+draft: true
 
 ---
-
 ### Por Gastón Gabino.
 
 El fondo B es indecente. Mucho riesgo y poca rentabilidad.
