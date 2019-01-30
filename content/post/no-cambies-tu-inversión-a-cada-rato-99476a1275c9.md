@@ -1,25 +1,23 @@
 ---
 author: Andres Marinkovic
-author_thumbnail: "/uploads/andres_marinkovic.jpg"
+author_thumbnail: ''
 title: No cambies tu inversión a cada rato
-date: 2016-10-09
-image: "/uploads/no-cambies-tu6942.jpeg"
+date: 2016-10-09 00:00:00 +0000
+image: "/uploads/no-cambies.png"
 categories:
 - inversión
 url: "/no-cambies-tu-inversión-a-cada-rato-99476a1275c9/"
 
-
 ---
-
-###
-
-¿Te has preguntado qué hace que los ciervos a veces corran *hacia* los autos en la carretera? Es simplemente su primera reacción: ven una situación inesperada, se asustan, tratan de salir corriendo sin saber hacia dónde y terminan atropellados. Lo peor de todo es que si se quedaran quietos, al lado del camino, no les pasaría nada.
+¿Te has preguntado qué hace que los ciervos a veces corran _hacia_ los autos en la carretera? Es simplemente su primera reacción: ven una situación inesperada, se asustan, tratan de salir corriendo sin saber hacia dónde y terminan atropellados. Lo peor de todo es que si se quedaran quietos, al lado del camino, no les pasaría nada.
 
 El mundo financiero también esta lleno de situaciones inesperadas: Trump ganó las elecciones, el Reino Unido eligió separarse de la Unión Europea, cayó el precio del cobre, subió el precio del petróleo, etc. Estos eventos ocurren con tanta frecuencia que es normal que nos preguntemos si deberíamos alarmarnos frente a ellos.
 
 Y la respuesta simple es:** NO.**
 
 ¿Por qué? **Porque muchas veces reaccionar rápido termina teniendo consecuencias fatales**. Actúas en forma impulsiva, sin pensarlo mucho, y al final haces algo que no te conviene, cuando en realidad casi siempre lo que más conviene es precisamente no hacer nada (igual que el ciervo).
+
+![](/uploads/no-cambies.png)
 
 Por mucho que el mercado reaccione a un evento en forma violenta, es muy probable que la estrategia de inversión que habías elegido inicialmente no haya cambiado. Sobre todo si se trata de una estrategia de largo plazo. Y si es así, entonces no deberías hacer nada.
 
@@ -47,9 +45,9 @@ Y lo mismo pasa con el mundo financiero. Y lo peor de todo, es que ese mundo est
 
 Los diarios venden más cuando hay una crisis.
 
-Las corredoras de bolsa ganan una comisión cada vez que vendes y compras, por lo que se esmeran en mostrarte nuevas *“oportunidades que no puedes dejar pasar”*.
+Las corredoras de bolsa ganan una comisión cada vez que vendes y compras, por lo que se esmeran en mostrarte nuevas _“oportunidades que no puedes dejar pasar”_.
 
-![Publicidad de un servicio de inversión chileno aparecida en diario La Tercera en enero 2017](/uploads/no-cambies-tu6942.jpeg)*Publicidad de un servicio de inversión chileno aparecida en diario La Tercera en enero 2017*
+![Publicidad de un servicio de inversión chileno aparecida en diario La Tercera en enero 2017](/uploads/no-cambies-tu6942.jpeg)_Publicidad de un servicio de inversión chileno aparecida en diario La Tercera en enero 2017_
 
 Y es por ella que los servicios que te recomiendan cambiarte de fondo de la AFP generan un clima de incertidumbre: necesitan que estés atento a su próxima recomendación para justificar su existencia (siendo que en realidad [no aportan ningún valor a sus usuarios](https://twitter.com/TendenciaAFP/status/805859921791250433)).
 
