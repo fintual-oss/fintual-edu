@@ -2,15 +2,13 @@
 author: Francesca Finaldi
 author_thumbnail: "/uploads/francesca_finaldi.jpeg"
 title: Qué está pasando en Wall Street y qué hacer al respecto
-date: 2018-09-16
-image: "/uploads/qué-está-pasa8817.jpeg"
+date: 2018-09-16 00:00:00 +0000
+image: "/uploads/wall-street.png"
 categories:
 - inversión
 url: "/qué-está-pasando-en-wall-street-y-qué-hacer-al-respecto-61e2788bdcbd/"
 
-
 ---
-
 ### Los mercados han estado bastante movidos los últimos días y te queremos contar qué está pasando, para que no te asustes.
 
 El jueves 11 de octubre, los mercados en todo el mundo pasaron por completo a un estado de ánimo “*risk-off*” (cuando los inversionistas aversos al riesgo dominan el mercado) que derivó en un *“sell-off” *(una venta masiva de activos que produjeron una caída). Es decir, la incertidumbre y el miedo a que los mercados bajen impulsó a que los inversionistas vendieran acciones, dando paso a una baja generalizada en los mercados.
