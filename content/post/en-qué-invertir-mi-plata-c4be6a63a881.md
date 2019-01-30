@@ -55,7 +55,7 @@ No, no es el bono marzo.
 
 Esto es para cualquier persona.
 
-![](/uploads/en-qué-invert6761.png)
+![](/uploads/deposito-a-plazo-malo-1200x630.png)
 
 [El Estado te regala hasta $290.000 al año,](http://www.svs.cl/educa/602/w3-article-1721.html) todos los años, si logras ahorrar el equivalente a $155.000 mensuales.
 
