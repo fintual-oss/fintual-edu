@@ -1,12 +1,11 @@
 ---
-date: '2018-06-29T13:09:47+00:00'
-image: ''
+date: 2018-06-29 13:09:47 +0000
+image: "/uploads/comprar-tiempo.png"
 title: Comprar tiempo es mejor que comprar relojes
 categories:
 - ideas
 - inversión
 url: "/comprar-tiempo-es-mejor-que-comprar-relojes/"
-
 
 ---
 **Según un chiste, la única diferencia entre un niño y un hombre es el precio de los juguetes que tiene.** Esto no tiene nada de malo si lo que quieres es jugar y no competir por quien compra el juguete más caro.
