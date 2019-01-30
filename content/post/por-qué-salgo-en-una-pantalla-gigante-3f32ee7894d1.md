@@ -2,15 +2,13 @@
 author: Pedro Pineda
 author_thumbnail: "/uploads/pedro_pineda.png"
 title: Nuestro CEO en la UNESCO
-date: 2017-03-28
-image: "/uploads/por-qué-salgo7856.jpeg"
+date: 2017-03-28 00:00:00 +0000
+image: "/uploads/ceo-unesco.png"
 categories:
 - noticias
 url: "/por-qué-salgo-en-una-pantalla-gigante-3f32ee7894d1/"
 
-
 ---
-
 ### Esta semana estoy en París al igual que en los últimos dos años para hablar de tecnología y de las nuevas startups en el mundo, invitado por la UNESCO y Netexplo.
 
 Soy miembro de un directorio o think tank acá (junto a profes de Stanford, Oxford, Shangai, India, etc) y esta vez el foco estuvo en inteligencia artificial y machine learning, temas que nos tocará desarrollar en [FINTUAL.](http://www.fintual.com)
