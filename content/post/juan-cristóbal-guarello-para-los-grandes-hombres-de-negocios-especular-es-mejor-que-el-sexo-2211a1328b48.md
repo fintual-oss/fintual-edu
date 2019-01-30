@@ -3,20 +3,18 @@ author: FranFeuer
 author_thumbnail: "/uploads/francisca_feuerhake.jpg"
 title: 'Juan Cristóbal Guarello: “Especular es mejor que el sexo para los grandes
   hombres de negocios”.'
-date: 2018-05-07
+date: 2018-05-07 00:00:00 +0000
 image: uploads/juan_cristobal_guarello.png
 categories:
 - entrevistas
 url: "/juan-cristóbal-guarello-para-los-grandes-hombres-de-negocios-especular-es-mejor-que-el-sexo-2211a1328b48/"
 
-
 ---
-
-![](/uploads/juan_cristobal_guarello.jpeg)
+![](/uploads/juan_cristobal_guarello.png)
 
 ### El periodista le contó a [Fintual](http://www.fintual.com) que no tiene talento para los negocios, que no gana un peso con su libro que acaba de publicar y cómo es que desde chico ha estado al tanto de la economía nacional.
 
-*Esta entrevista es parte de la serie “Con dinero y sin dinero” de [FINTUAL](https://fintual.cl) donde preguntamos a gente interesante sobre el rol que el dinero ha jugado en sus vidas. Juan Cristóbal Guarello es periodista deportivo y escritor, ha trabajado en diversos canales de televisión, radios y medios escritos como El Mercurio, Publimetro, y El Gráfico (entre otros) , donde fue director. En 2011 ganó el Premio Nacional de Periodismo Deportivo. Ha escrito dos libros: “Gente mala” (Ediciones B, 2014) y “Aldo Marín, carne de cañón” (Debate, 2018)*
+_Esta entrevista es parte de la serie “Con dinero y sin dinero” de_ [_FINTUAL_](https://fintual.cl) _donde preguntamos a gente interesante sobre el rol que el dinero ha jugado en sus vidas. Juan Cristóbal Guarello es periodista deportivo y escritor, ha trabajado en diversos canales de televisión, radios y medios escritos como El Mercurio, Publimetro, y El Gráfico (entre otros) , donde fue director. En 2011 ganó el Premio Nacional de Periodismo Deportivo. Ha escrito dos libros: “Gente mala” (Ediciones B, 2014) y “Aldo Marín, carne de cañón” (Debate, 2018)_
 
 **¿Cuál fue tu primera noción de plata cuando chico?**
 
