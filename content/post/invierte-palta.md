@@ -1,14 +1,11 @@
 ---
-date: '2018-07-05T00:56:26+00:00'
+date: 2018-07-05 00:56:26 +0000
 title: Hagamos esto fácil
 categories:
 - inversión
 url: "/invierte-palta/"
 
-
 ---
-![](/uploads/Screen Shot 2018-07-04 at 6.12.17 PM.png)
-
 Invertir tiene que ser fácil.
 
 Habiendo tantas apps y páginas en internet para pedir comida, arrendar autos o encontrar trabajo, ¿cómo no existía una que te ayudara a invertir bien y fácil tu plata?
@@ -53,7 +50,9 @@ Ah, lo último.
 
 Fintual es una institución financiera regulada. Cool pero regulada. La Comisión para el Mercado Financiero vigila que cumplamos con la ley y con todas las normativas, y los activos están custodiados en el DCV, Depósito Central de Valores.
 
-Oye ¿y la palta?
+## Oye ¿y la palta?
+
+![](/uploads/Screen Shot 2018-07-04 at 6.12.17 PM.png)
 
 En algunas universidades cuando un ramo es fácil, se dice que el ramo es palta.
 
