@@ -2,13 +2,11 @@
 author: Agustin Feuerhake
 author_thumbnail: "/uploads/agustin_feuerhake.jpg"
 title: "¿Por qué administrar ahorros sin ayuda es un error?"
-date: 2016-08-08
-image: "/uploads/por-qué-admin3141.jpeg"
+date: 2016-08-08 00:00:00 +0000
+image: "/uploads/por-que-adm.png"
 url: "/por-qué-administrar-ahorros-sin-ayuda-es-un-error-ef3f9f14f14/"
 
-
 ---
-
 ### Si entras a tu banco, caminas hacia el escritorio donde está sentada la señora elegante que trabaja en inversiones, te sientas en la silla y le preguntas dónde puedes poner tus 5 millones de pesos para que renten algo en los próximos 2 años, te va a pasar esto:
 
 La señora va a poner cara de ternura, va a tomar dos “brochures” de papel brillante en tonos azules, uno con un título parecido a “Fondo Golden A Secure Wall Street” y el otro más por el estilo de “Fondo Asian Best Emergente Balanceado”. Tú vas a intentar arrancarle los brochures de la mano y le vas a tironear un poquito, mientras te dice — “Mira. Tienes dos opciones de fondos, ¿ya?. Puedes elegir el Golden A, pero ahí yo no te aseguro nada porque no se si has visto cómo están las cosas en Wall Street, con decirte que hasta hace un tiempo había gente alojando en carpas te lo digo todo. En Asia en cambio se lo pasan trabajando como chinos y si tengo que apostar algo te digo que tus nietos van a tener los ojos rasgados. Espérate no más. Si con decirte que…” — finalmente vas a lograr arrebatarle un panfleto a la señora y mientras ignoras sus elucubraciones sobre tus futuros nietos chinos, lo que vas a leer ahí te va a parecer efectivamente escrito en chino mandarín. Mientras te esfuerzas por entender, la señora te va a mirar burlona — “veo que eres de los estudiosos! qué estudiaste, ¿ingeniería?”.
