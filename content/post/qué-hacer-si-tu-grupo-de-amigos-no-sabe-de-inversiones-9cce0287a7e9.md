@@ -2,13 +2,11 @@
 author: Agustin Feuerhake
 author_thumbnail: "/uploads/agustin_feuerhake.jpg"
 title: "¿Qué hacer si tu grupo de amigos no sabe de inversiones?"
-date: 2018-04-02
-image: "/uploads/qué-hacer-si-3722.png"
+date: 2018-04-02 00:00:00 +0000
+image: "/uploads/posts-fb (2).png"
 url: "/qué-hacer-si-tu-grupo-de-amigos-no-sabe-de-inversiones-9cce0287a7e9/"
 
-
 ---
-
 ### Todos tenemos un grupo de amigos en Whatsapp.
 
 En algún minuto alguien pregunta: “oye, ustedes dónde invierten si tienen plata?”
