@@ -3,7 +3,7 @@ author: Francesca Finaldi
 author_thumbnail: "/uploads/francesca_finaldi.jpeg"
 title: En qué invertir mi plata
 date: 2018-11-10 00:00:00 +0000
-image: "/uploads/-invertir-en-8200.jpeg"
+image: "/uploads/en-que-invertir.png"
 categories:
 - inversión
 url: "/en-qué-invertir-mi-plata-c4be6a63a881/"
@@ -11,7 +11,7 @@ url: "/en-qué-invertir-mi-plata-c4be6a63a881/"
 ---
 ### Una guía para personas que no saben invertir
 
-*Menciono algunas instituciones financieras y empresas, pero aparte de [Fintual](http://www.fintual.com) no tengo ninguna relación ni intereses con ninguna.*
+_Menciono algunas instituciones financieras y empresas, pero aparte de_ [_Fintual_](http://www.fintual.com) _no tengo ninguna relación ni intereses con ninguna._
 
 ### 1. Depósitos a plazo
 
@@ -26,20 +26,18 @@ Al buscar en qué invertir, esta es de las opciones en que más puedes perder si
 Peeero:
 
 * **Se necesita un intermediario**: las Corredoras de Bolsa. Cada transacción tiene un costo y los clientes con montos más pequeños (las personas comunes y corrientes) salen perjudicados. Cuando inviertes en acciones pagas, dependiendo de la corredora, un 0,5% de comisión al comprar y otro 0,5% al vender. Suba o baje la acción, ya tienes un 1% menos de tu dinero.
+* **Es muy difícil ganarle consistentemente al mercado** y predecir qué va a pasar en el futuro. Tan impredecible como una caída de 6% en una acción luego de que el [CEO de la compañía fume marihuana en un programa de radio](https://www.cnbc.com/2018/09/07/tesla-sinks-8percent-after-bizarre-musk-podcast-appearance-cao-exit.html). Todos los economistas y analistas dicen lo que creen, o incluso lo que les conviene decir, pero se equivocan muy seguido. Y cuando se equivoquen, aparecerán al día siguiente explicando porqué pasó lo contrario. _“China salió a comprar divisas inesperadamente”_ o cualquier otra explicación enredada que en retrospectiva se puede entender: después de la guerra somos todos generales. **Lo único que es 100% seguro son las comisiones que te van a cobrar.** En el largo plazo, en promedio, las acciones suben. En el corto plazo, nadie (o por lo menos tú no probablemente) tiene idea de lo que va a pasar.
+* **¿Qué acciones comprar?**: Nidea. Para no poner todos los huevos en la misma canasta siempre se recomienda armar un portafolio de varias acciones, pero el mercado chileno es bien pequeño y probablemente no estés en los círculos de información privilegiada (algunos reñidos con la ley), por lo que las recomendaciones que te lleguen serán de amigos que _“cachan”_ o de ejecutivos que tienen metas de ventas. **Los ejecutivos te venderán lo que les conviene a ellos, incluso por sobre tus intereses. **La ley no lo permite, la CMF dicta lo contrario en sus normativas, pero esto sigue siendo así y no creemos que vaya a cambiar. Si quieres hacerlo por tu cuenta, tienes que dedicar tu tiempo a leer seguido noticias financieras (y probablemente vas a llegar tarde igual). Para invertir en acciones y dormir tranquilo, la única estrategia que me atrevo a recomendar –y que históricamente ha dado resultado– es invertir de forma pasiva (siguiendo un índice o al promedio de un mercado).
 
-* **Es muy difícil ganarle consistentemente al mercado** y predecir qué va a pasar en el futuro. Tan impredecible como una caída de 6% en una acción luego de que el [CEO de la compañía fume marihuana en un programa de radio](https://www.cnbc.com/2018/09/07/tesla-sinks-8percent-after-bizarre-musk-podcast-appearance-cao-exit.html). Todos los economistas y analistas dicen lo que creen, o incluso lo que les conviene decir, pero se equivocan muy seguido. Y cuando se equivoquen, aparecerán al día siguiente explicando porqué pasó lo contrario. *“China salió a comprar divisas inesperadamente”* o cualquier otra explicación enredada que en retrospectiva se puede entender: después de la guerra somos todos generales. **Lo único que es 100% seguro son las comisiones que te van a cobrar.** En el largo plazo, en promedio, las acciones suben. En el corto plazo, nadie (o por lo menos tú no probablemente) tiene idea de lo que va a pasar.
-
-* **¿Qué acciones comprar?**: Nidea. Para no poner todos los huevos en la misma canasta siempre se recomienda armar un portafolio de varias acciones, pero el mercado chileno es bien pequeño y probablemente no estés en los círculos de información privilegiada (algunos reñidos con la ley), por lo que las recomendaciones que te lleguen serán de amigos que *“cachan”* o de ejecutivos que tienen metas de ventas. **Los ejecutivos te venderán lo que les conviene a ellos, incluso por sobre tus intereses. **La ley no lo permite, la CMF dicta lo contrario en sus normativas, pero esto sigue siendo así y no creemos que vaya a cambiar. Si quieres hacerlo por tu cuenta, tienes que dedicar tu tiempo a leer seguido noticias financieras (y probablemente vas a llegar tarde igual). Para invertir en acciones y dormir tranquilo, la única estrategia que me atrevo a recomendar –y que históricamente ha dado resultado– es invertir de forma pasiva (siguiendo un índice o al promedio de un mercado).
-
-![Imagen de Paul Colgan](/uploads/en-qué-invert5107.jpeg)*Imagen de Paul Colgan*
+_![](/uploads/en-que-invertir.png)Imagen de Paul Colgan_
 
 ### 3. Fondos mutuos
 
-Un fondo mutuo es plata de mucha gente reunida (algo así como una *vaca*) para invertir en acciones e índices de forma diversificada. La administradora hace la pega “por mí y por todos mis compañeros” y arma un portafolio diversificado de acciones, ETF y cuotas de otros fondos.
+Un fondo mutuo es plata de mucha gente reunida (algo así como una _vaca_) para invertir en acciones e índices de forma diversificada. La administradora hace la pega “por mí y por todos mis compañeros” y arma un portafolio diversificado de acciones, ETF y cuotas de otros fondos.
 
-Es **demasiado importante** fijarse en las comisiones. Hay administradoras de fondos mutuos que cobran un 6% de comisión al año (ni se arrugan) y eso es una locura. **Puede que tu fondo rente 5% en un año, pero como la comisión es 6%, *oh!,* tienes una pérdida del 1%.**
+Es **demasiado importante** fijarse en las comisiones. Hay administradoras de fondos mutuos que cobran un 6% de comisión al año (ni se arrugan) y eso es una locura. **Puede que tu fondo rente 5% en un año, pero como la comisión es 6%, _oh!,_ tienes una pérdida del 1%.**
 
-Hay otros fondos que tienen el descaro de llamarse “*Selección Acciones XXX” *y cobrarte una comisión de 4% anual,* *pero terminan siendo una selección de ETF (que son mucho más baratos y no justifican esa comisión tan cara).
+Hay otros fondos que tienen el descaro de llamarse “*Selección Acciones XXX” _y cobrarte una comisión de 4% anual,_ *pero terminan siendo una selección de ETF (que son mucho más baratos y no justifican esa comisión tan cara).
 
 Eso pasa y mucho. **Especialmente porque la gran mayoría de la gente no tiene ni idea de cuánto le están cobrando de comisión o no entiende que 6% es un número gigantesco: en EE.UU. las comisiones son de 0,1% a 2%.**
 
