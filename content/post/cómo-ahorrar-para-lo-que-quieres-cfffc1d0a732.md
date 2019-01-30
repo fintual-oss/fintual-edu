@@ -2,15 +2,13 @@
 author: Omar Larré
 author_thumbnail: "/uploads/omar_larre.jpeg"
 title: Cómo ahorrar para lo que quieres
-date: 2018-07-28
-image: "/uploads/cómo-ahorrar-8768.jpg"
+date: 2018-07-28 00:00:00 +0000
+image: "/uploads/como-ahorrar.png"
 categories:
 - ahorro
 url: "/cómo-ahorrar-para-lo-que-quieres-cfffc1d0a732/"
 
-
 ---
-
 ### Ayer vi el comercial de un niño en Tailandia que ahorra en su alcancía (con forma de nave espacial) y me recordó a mí cuando niño.
 
 ![Casi yo en los ‘90.](/uploads/cómo-ahorrar-6791.png)*Casi yo en los ‘90.*
