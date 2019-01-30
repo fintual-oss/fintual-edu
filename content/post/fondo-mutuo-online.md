@@ -1,12 +1,11 @@
 ---
-date: '2018-06-25T19:33:31+00:00'
+date: 2018-06-25 19:33:31 +0000
 description: ''
-image: ''
+image: "/uploads/ffmm-online.png"
 title: Fondo Mutuo Online
 categories:
 - inversión
 url: "/fondo-mutuo-online/"
-
 
 ---
 ¿Existe alguna Administradora General de Fondos en Chile que permita a personas invertir 100% online?
