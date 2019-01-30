@@ -1,11 +1,10 @@
 ---
-date: '2018-06-25T14:11:04+00:00'
-draft: false
+date: 2018-06-25 14:11:04 +0000
 title: "¿Cómo invertir dinero en Chile?"
 categories:
 - inversión
 url: "/como-invertir-dinero-en-chile/"
-
+draft: true
 
 ---
 Las alternativas para invertir en Chile son las siguientes:
