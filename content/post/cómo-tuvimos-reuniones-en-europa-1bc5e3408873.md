@@ -2,16 +2,15 @@
 author: Pedro Pineda
 author_thumbnail: "/uploads/pedro_pineda.png"
 title: "¿Cómo tuvimos reuniones en Europa?"
-date: 2017-05-06
+date: 2017-05-06 00:00:00 +0000
 categories:
 - ideas
 - noticias
 image: "/uploads/cómo-tuvimos-5262.png"
 url: "/cómo-tuvimos-reuniones-en-europa-1bc5e3408873/"
-
+draft: true
 
 ---
-
 ### Me acuerdo de una charla de Sebastián Valin (CEO de Comparaonline) en la que contaba que al salir de la universidad y antes de empezar su empresa en Chile, viajó a Inglaterra a aprender el negocio de los comparadores de seguros.
 
 Nunca estuve muy convencido de esta estrategia. Sentía que me quedaba grande o que no era tan necesaria y más era una excusa para viajar o actualizar el estado en FB.
