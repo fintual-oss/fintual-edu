@@ -20,8 +20,6 @@ A veces hay meses buenos, a veces hay otros malos. En general, está dentro de l
 
 Sí. Hay una estrategia que, no siendo mágica ni traída desde la NASA, te puede evitar una racha de mala suerte: hacer aportes recurrentes a tu inversión. Esta estrategia te expone lo menos posible a depender de cuán buena o mala suerte tendrás al momento de hacer una inversión, ya que lo que ganes al invertir en un único y solitario depósito depende mucho del día en que partiste haciéndolo ([este link que probablemente te parecerá en chino explica este fenómeno en detalle](http://archive.nytimes.com/www.nytimes.com/interactive/2011/01/02/business/20110102-metrics-graphic.html)).
 
-undefined
-
 Al depositar, por ejemplo, $50.000 al mes en vez de $600.000 una sola vez en un año, disminuyes depender de la suerte. En este caso, lo que haces es repartir la probabilidad de tener mala suerte en 12 casos, y no dejarlo a la suerte de un solo evento (el depósito inicial).
 
 ### Fintual te permite hacer inversiones recurrentes de forma fácil
