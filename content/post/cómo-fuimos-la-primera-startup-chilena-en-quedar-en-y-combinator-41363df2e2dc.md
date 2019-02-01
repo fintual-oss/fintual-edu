@@ -7,7 +7,6 @@ image: "/uploads/cómo-fuimos-l3107.png"
 categories:
 - ideas
 url: "/cómo-fuimos-la-primera-startup-chilena-en-quedar-en-y-combinator-41363df2e2dc/"
-draft: true
 
 ---
 ### Si quedábamos, nos llamarían a las 18:30.
