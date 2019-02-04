@@ -11,21 +11,21 @@ url: "/cómo-ahorrar-para-lo-que-quieres-cfffc1d0a732/"
 ---
 ### Ayer vi el comercial de un niño en Tailandia que ahorra en su alcancía (con forma de nave espacial) y me recordó a mí cuando niño.
 
-![Casi yo en los ‘90.](/uploads/cómo-ahorrar-6791.png)*Casi yo en los ‘90.*
+![Casi yo en los ‘90.](/uploads/cómo-ahorrar-6791.png)_Casi yo en los ‘90._
 
-Solía tener alcancías de greda en forma de *chanchito* y cada vez que tenía ganas de ahorrar metía mis monedas ahí.
+Solía tener alcancías de greda en forma de _chanchito_ y cada vez que tenía ganas de ahorrar metía mis monedas ahí.
 
-![Tuve varios chanchitos-alcancía de greda así. Made in Pomaire.](/uploads/cómo-ahorrar-8768.jpg)*Tuve varios chanchitos-alcancía de greda así. Made in Pomaire.*
+![Tuve varios chanchitos-alcancía de greda así. Made in Pomaire.](/uploads/cómo-ahorrar-8768.jpg)_Tuve varios chanchitos-alcancía de greda así. Made in Pomaire._
 
-Soñaba con hartas cosas: telescopios, consolas de videojuegos, incluso pensé en una moto (hasta el día de hoy no pasa nada con la moto). Y tuve más o menos algo de determinación y lograba casi siempre llenar el *chanchito* para después romperlo —con mucha pena por lo demás, porque me terminaba encariñando, especialmente los que venían pintados.
+Soñaba con hartas cosas: telescopios, consolas de videojuegos, incluso pensé en una moto (hasta el día de hoy no pasa nada con la moto). Y tuve más o menos algo de determinación y lograba casi siempre llenar el _chanchito_ para después romperlo —con mucha pena por lo demás, porque me terminaba encariñando, especialmente los que venían pintados.
 
-El niño de esta publicidad hace algo parecido. En vez de gastar su (poco) dinero en lo que hacían los demás niños, ahorra y sigue *soñando*.
+El niño de esta publicidad hace algo parecido. En vez de gastar su (poco) dinero en lo que hacían los demás niños, ahorra y sigue _soñando_.
 
 ### Pero
 
 Si quieres ve el aviso completo antes de seguir.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/a2lv_Xl1e4U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/a2lv_Xl1e4U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 El video lo muestra de una forma súper cruel, pero es lo que pasa día a día sin darnos cuenta: el dinero se deprecia.
 
@@ -39,13 +39,13 @@ Siguiendo con el ejemplo. Si pudiese haber invertido en algo que creciera como l
 
 Obviamente hay muchas formas de invertir. Algunas le ganan en el largo plazo a la inflación y otras no. Como sea, hay alternativas mejores que dejarlas tiradas bajo el colchón o dentro de una alcancía.
 
-Las hay **muy conservadoras**, como fondos mutuos de muy corto plazo —*money market* se llaman comúnmente que se usan sólo para tener la plata unos cuantos días— que tienen mínimo riesgo y por eso “se venden rápido” por los ejecutivos de inversión, sin embargo **tu dinero crece mucho menos que la inflación**.
+Las hay **muy conservadoras**, como fondos mutuos de muy corto plazo —_money market_ se llaman comúnmente que se usan sólo para tener la plata unos cuantos días— que tienen mínimo riesgo y por eso “se venden rápido” por los ejecutivos de inversión, sin embargo **tu dinero crece mucho menos que la inflación**.
 
 Están también los depósitos a plazo bancarios, que con los niveles de tasa de interés actuales crecen —con suerte— en torno a la inflación.
 
 Y también puedes invertir en el largo plazo con la idea de rentar más que la inflación: un ejemplo es invertir a través de alternativas de bajas comisiones sobre acciones de diversas empresas, que es a lo que [te damos acceso en Fintual](https://fintual.cl/).
 
-## *Al niño del aviso comercial le faltó Fintual*
+## _Al niño del aviso comercial le faltó Fintual_
 
 Tampoco había algo como Fintual hace 20 años cuando yo era el niño, pero hoy sí y es por eso que tengo prácticamente todos mis ahorros ahí.
 
