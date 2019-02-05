@@ -36,7 +36,7 @@ width: 100%;
 
 </style>
 
-Habiendo tantas páginas para pedir comida ¿cómo no existía una que te ayudara a invertir bien tu plata?
+Habiendo tantas páginas para pedir comida, ¿cómo no existía una que te ayudara a invertir bien tu plata?
 
 En Chile no conocíamos algo que fuera simple, transparente y barato.
 
@@ -68,7 +68,7 @@ No, no es broma.
 
 **¿Es seguro?** Fintual es una institución financiera regulada.
 
-Cool pero regulada.
+Cool, pero regulada.
 
 La Comisión para el Mercado Financiero vigila que cumplamos con la ley. Puedes ver nuestro registro en la CMF [aquí.](http://www.cmfchile.cl/institucional/mercados/entidad.php?auth=&send=&mercado=V&rut=76810627&grupo=&tipoentidad=RGAGF&vig=VI&row=AAAwy2ACTAAAB4AAAP&control=svs&pestania=1)
 
