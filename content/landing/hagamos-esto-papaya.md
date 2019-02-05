@@ -54,7 +54,7 @@ Lo único simple que encontramos fueron los depósitos a plazo, pero es tan poco
 
 <div class="image-wrapper">
 
-<img src="/uploads/inviertepapa.png" alt="inviertepapa">
+<img src="/uploads/InviertePapaya-2.png" alt="inviertepapaya">
 
 </div>
 
