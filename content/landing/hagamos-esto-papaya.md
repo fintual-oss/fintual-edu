@@ -1,7 +1,6 @@
 +++
 date = "2018-07-08T16:37:29+00:00"
 description = "Invertir tiene que ser fácil."
-draft = true
 image = "/uploads/InviertePapaya-2.png"
 title = "Hagamos esto papaya"
 url = "/hagamos-esto-papaya-rm/"
