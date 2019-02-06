@@ -22,3 +22,8 @@
 .buttonish a:visited {
   background-color: #38312f;
 }
+
+img + em {
+  display: block;
+  text-align: center;
+}
