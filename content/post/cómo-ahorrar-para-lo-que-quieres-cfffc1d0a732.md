@@ -23,7 +23,13 @@ El niño de esta publicidad hace algo parecido. En vez de gastar su (poco) diner
 
 ### Pero
 
-Si quieres ve el [aviso completo](https://www.youtube.com/watch?v=a2lv_Xl1e4U) antes de seguir.
+Si quieres ve el 
+
+<iframe width="420" height="315"
+src="https://www.youtube.com/watch?v=a2lv_Xl1e4U">
+</iframe>
+
+antes de seguir.
 
 El video lo muestra de una forma súper cruel, pero es lo que pasa día a día sin darnos cuenta: el dinero se deprecia.
 
