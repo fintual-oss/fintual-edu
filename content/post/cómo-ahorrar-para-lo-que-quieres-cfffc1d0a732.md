@@ -2,7 +2,7 @@
 author: Omar Larré
 author_thumbnail: "/uploads/omar_larre.jpeg"
 title: Cómo ahorrar para lo que quieres
-date: 2018-07-28 00:00:00 +0000
+date: 2019-02-08 23:00:00 +0000
 image: "/uploads/como-ahorrar.png"
 categories:
 - ahorro
