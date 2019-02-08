@@ -24,14 +24,14 @@ El niño de esta publicidad hace algo parecido. En vez de gastar su (poco) diner
 ### Pero
 
 Si quieres ve el video antes de seguir:
- 
+
 <div style="text-align: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a2lv_Xl1e4U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 El video lo muestra de una forma súper cruel, pero es lo que pasa día a día sin darnos cuenta: el dinero se deprecia.
 
-En Chile por ejemplo la inflación está bajo control hace tiempo y anda cerca del 3% al año, es decir, tu dinero pierde alrededor de 3% de su valor cada año al dejarlo guardado en una “alcancía”.
+En Chile, por ejemplo, la inflación está bajo control hace tiempo y anda cerca del 3% al año, es decir, tu dinero pierde alrededor de 3% de su valor cada año al dejarlo guardado en una “alcancía”.
 
 Creo que tengo por ahí una pequeña alcancía con monedas de $10 y $100 de cuando era niño, que debe tener con suerte $10.000. Como ya pasaron unos 20 años, sólo por la inflación esa plata en la alcancía ha perdido alrededor del 45% de su valor.
 
@@ -39,7 +39,7 @@ Creo que tengo por ahí una pequeña alcancía con monedas de $10 y $100 de cuan
 
 Siguiendo con el ejemplo. Si pudiese haber invertido en algo que creciera como la inflación, esos $10.000 pesos serían ahora $18.000. No es para hacerse millonarios, obvio, eran $10.000 pesos nada más, pero al menos mi plata no se habría depreciado.
 
-Obviamente hay muchas formas de invertir. Algunas le ganan en el largo plazo a la inflación y otras no. Como sea, hay alternativas mejores que dejarlas tiradas bajo el colchón o dentro de una alcancía.
+Obviamente, hay muchas formas de invertir. Algunas le ganan en el largo plazo a la inflación y otras no. Como sea, hay alternativas mejores que dejarlas tiradas bajo el colchón o dentro de una alcancía.
 
 Las hay **muy conservadoras**, como fondos mutuos de muy corto plazo —_money market_ se llaman comúnmente que se usan sólo para tener la plata unos cuantos días— que tienen mínimo riesgo y por eso “se venden rápido” por los ejecutivos de inversión, sin embargo **tu dinero crece mucho menos que la inflación**.
 
