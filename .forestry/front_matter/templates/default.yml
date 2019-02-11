@@ -40,3 +40,5 @@ fields:
     use_select: false
     source:
       type: simple
+pages:
+- content/post/sherlock.md
