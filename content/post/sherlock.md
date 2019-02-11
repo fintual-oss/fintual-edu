@@ -5,6 +5,8 @@ description: La mayoría de los fondos mutuos cobran demasiado a sus clientes, t
 image: "/uploads/sherlock-gratis.png"
 title: Análisis gratis de tus fondos mutuos
 url: "/sherlock/"
+categories:
+- inversión
 
 ---
 <div class="text-center"> <img src="/uploads/sherlock2.jpg" style="width:90%;height: auto;"/> </div>
