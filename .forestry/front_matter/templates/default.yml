@@ -31,3 +31,12 @@ fields:
   config:
     min: '0'
     max: '5'
+- type: list
+  name: categories
+  label: Categories
+  config:
+    min: '0'
+    max: '5'
+    use_select: false
+    source:
+      type: simple
