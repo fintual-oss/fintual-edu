@@ -8,11 +8,6 @@ fields:
   type: text
   hidden: false
   default: ''
-- name: date
-  label: Date
-  type: text
-  hidden: false
-  default: 
 - name: draft
   label: Draft
   type: boolean
@@ -40,6 +35,12 @@ fields:
     use_select: false
     source:
       type: simple
+- type: datetime
+  name: date
+  label: Date
+  config:
+    date_format: YYYY-MM-DD
+    required: true
 pages:
 - content/post/sherlock.md
 - content/post/1-año-de-fintual-y-sus-fondos.md
