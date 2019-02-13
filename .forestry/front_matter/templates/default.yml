@@ -21,12 +21,6 @@ fields:
   name: description
   label: Description
 - type: list
-  name: aliases
-  label: aliases
-  config:
-    min: '0'
-    max: '5'
-- type: list
   name: categories
   label: Categories
   config:
@@ -40,6 +34,11 @@ fields:
   label: Date
   config:
     date_format: YYYY-MM-DD
+    required: true
+- type: text
+  name: url
+  label: url
+  config:
     required: true
 pages:
 - content/post/sherlock.md
