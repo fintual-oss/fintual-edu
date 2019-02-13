@@ -4,16 +4,24 @@ categories = []
 date = ""
 description = ""
 draft = true
-image = "/"
+image = "/uploads/1.png"
 title = "1 año de Fintual y sus fondos"
 
 +++
 Estoy contento.
+
+
 Fintual rentó 10,04% el primer año en su fondo más arriesgado(1).
 
-En septiembre veníamos como avión (¡22%!) y después la cosa se vino abajo (Trump, los chinos). Aún así quedamos en positivo respecto a cuando partimos.En el moderado 6,98%.
+![](/uploads/1.png)_En septiembre veníamos como avión (¡22%!) y después la cosa se vino abajo (Trump, los chinos). Aún así quedamos en positivo respecto a cuando partimos._
+
+En el moderado 6,98%.
+
+
 Y en el conservador 2,26%, ahí no lo hicimos tan bien. 
+
 (Ajustando por inflación son: 7,29%, 4,31%, -0,30% respectivamente).
+
 Le pregunto a Omar por qué y su respuesta es "administrábamos muy poquito y no podíamos acceder a mejores series". Lo que traducido es: no administrábamos tanto dinero como para obtener mejores descuentos por volumen (en las comisiones de los activos que compramos para nuestros clientes).
 Por eso sabemos que nuestros fondos pueden y van a ser mejores.
 Dicho eso, nuestro foco está en el largo plazo (Fintual no es para meter la plata menos de seis meses). 
@@ -21,7 +29,7 @@ Es la razón por la cual nos gusta que nos comparen con el fondo A de las AFP.
 Fintual v/s AFPs
 El otro día Capital sacó en el diario a página completa un aviso con un 1º gigante diciendo que eran los primeros en rentabilidad entre las AFPs.
 "Buena, voy a mirar su rentabilidad en el A" 
--5,37%
+\-5,37%
 Me reí ¿En serio les da para sacar un anuncio en el diario con pérdidas?
 Oye ¿y las otras?
 Bueno, todas peores que ese -5,37%
@@ -53,11 +61,15 @@ Y hacerlo bien.
 Creo que Fintual probablemente es la mejor opción para ahorrar.
 O al menos con esas ganas nos levantamos todas las mañanas.
 Nos vemos el 2020, a ver cómo nos fue.
-___________________________________________________________________
+
+***
+
 Algunas dudas razonables
 ¿Qué pasa si quiebran?: Fintual tiene RUT separado de los fondos. Y la CMF puede traspasar la gestión a otra administradora para que los opere.
 ¿Qué pasa si los compran?: No estamos haciendo Fintual para que nos compre un banco. Puede pasar pero créannos que no sabríamos dónde más encontrar la felicidad y el desarrollo profesional que hoy estamos viviendo.
-¿Puedo perder toda mi plata?: Tendrían que desaparecer Apple, Google, Amazon y varias otras, el mismo día. 
-___________________________________________________________________
+¿Puedo perder toda mi plata?: Tendrían que desaparecer Apple, Google, Amazon y varias otras, el mismo día.
+
+***
+
 (1): La rentabilidad es fluctuante por lo que nada garantiza que las rentabilidades pasadas se mantengan en el futuro. Infórmese de las características esenciales de la inversión en este fondo, las que se encuentran contenidas en su reglamento interno y contrato general de fondos. Información disponible en el sitio web de la CMF.
 (2): Porcentaje anual efectivamente cobrado hasta la fecha indicada.
