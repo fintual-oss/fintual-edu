@@ -2,7 +2,7 @@
 aliases = []
 categories = ["noticias"]
 date = ""
-description = ""
+description = "Cómo le fue a Fintual en rentabilidad durante el 2018."
 image = "/uploads/1.png"
 title = "1 año de Fintual y sus fondos"
 
