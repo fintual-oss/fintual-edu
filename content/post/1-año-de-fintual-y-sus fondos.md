@@ -11,7 +11,7 @@ Estoy contento.
 
 Fintual rentó 10,04% el primer año en su fondo más arriesgado(1).
 
-![](/uploads/1.png)_En septiembre veníamos como avión (¡22%!) y después la cosa se vino abajo (Trump, los chinos). Aún así quedamos en positivo respecto a cuando partimos._
+![En septiembre veníamos como avión (¡22%!) y después la cosa se vino abajo (Trump, los chinos). Aún así quedamos en positivo respecto a cuando partimos](/uploads/1.png)*En septiembre veníamos como avión (¡22%!) y después la cosa se vino abajo (Trump, los chinos). Aún así quedamos en positivo respecto a cuando partimos.*
 
 En el moderado 6,98%.
 
@@ -41,7 +41,7 @@ Oye ¿y las otras?
 
 Bueno, todas peores que ese -5,37%
 
-![](/uploads/2.png)_Fuente: Capital_
+![Fuente: Capital](/uploads/2.png)*Fuente: Capital*
 
 Años malos puede haber, y a nosotros nos van a tocar también, pero igual encuentro raro, no sé, hacer publicidad jactándose de algo así. En fin.
 
@@ -61,7 +61,7 @@ Y no, no le ganamos a las 2794.
 
 Pero en lo que va de 2019 vamos así:
 
-![](/uploads/3.png)_Mientras más arriba más rentable, mientras más a la derecha, más volátil. Ya saben porqué se llama así nuestro fondo ;)_
+![Mientras más arriba más rentable, mientras más a la derecha, más volátil. Ya saben porqué se llama así nuestro fondo ;)](/uploads/3.png)*Mientras más arriba más rentable, mientras más a la derecha, más volátil. Ya saben porqué se llama así nuestro fondo ;)*
 
 #### ¿Cómo lo logramos?, ¿somos genios?
 
@@ -91,8 +91,8 @@ _Fuente: El Mercurio Inversiones_
 
 Y nos pusimos a competirles de igual a igual a las AFPs en eso también. Reconocemos que el 0,49% (2) no hace una gran diferencia con el 0,50%, aparte de la satisfacción de ganarles en una tabla, pero no es sólo eso. Por ley las AFPs tienen restricciones sobre lo que pueden invertir que Fintual (o cualquier administradora general) no tienen.
 
-![](/uploads/6.png)  
-_Provida y Planvital te cobran menos que Fintual si eres afiliado de ellos. Si no, te cobran 0,56% y 0,64% respectivamente. Fuente: queafp.cl_
+![Provida y Planvital te cobran menos que Fintual si eres afiliado de ellos. Si no, te cobran 0,56% y 0,64% respectivamente. Fuente: queafp.cl](/uploads/6.png)  
+*Provida y Planvital te cobran menos que Fintual si eres afiliado de ellos. Si no, te cobran 0,56% y 0,64% respectivamente. Fuente: queafp.cl*
 
 No los quiero marear con más números y tablas.
 
