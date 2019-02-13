@@ -43,6 +43,7 @@ Bueno, todas peores que ese -5,37%
 
 ![Fuente: Capital](/uploads/2.png)*Fuente: Capital*
 
+
 Años malos puede haber, y a nosotros nos van a tocar también, pero igual encuentro raro, no sé, hacer publicidad jactándose de algo así. En fin.
 
 Volviendo a la rentabilidad que es lo que nos importa, me dolió revisar el fondo E, que es con el que nos gusta comparar nuestro fondo conservador. Ahí nos volaron la raja, porque esta tabla está ajustada por la inflación y en ese caso el nuestro es -0,30%.
@@ -85,14 +86,13 @@ Por eso en diciembre lanzamos el APV de Fondos Mutuos más barato del mercado, d
 
 Éste es el ranking completo.
 
-![](/uploads/5.png)
+![Fuente: El Mercurio Inversiones](/uploads/5.png)*Fuente: El Mercurio Inversiones*
 
-_Fuente: El Mercurio Inversiones_
+
 
 Y nos pusimos a competirles de igual a igual a las AFPs en eso también. Reconocemos que el 0,49% (2) no hace una gran diferencia con el 0,50%, aparte de la satisfacción de ganarles en una tabla, pero no es sólo eso. Por ley las AFPs tienen restricciones sobre lo que pueden invertir que Fintual (o cualquier administradora general) no tienen.
 
-![Provida y Planvital te cobran menos que Fintual si eres afiliado de ellos. Si no, te cobran 0,56% y 0,64% respectivamente. Fuente: queafp.cl](/uploads/6.png)  
-*Provida y Planvital te cobran menos que Fintual si eres afiliado de ellos. Si no, te cobran 0,56% y 0,64% respectivamente. Fuente: queafp.cl*
+![Provida y Planvital te cobran menos que Fintual si eres afiliado de ellos. Si no, te cobran 0,56% y 0,64% respectivamente. Fuente: queafp.cl](/uploads/6.png)*Provida y Planvital te cobran menos que Fintual si eres afiliado de ellos. Si no, te cobran 0,56% y 0,64% respectivamente. Fuente: queafp.cl*
 
 No los quiero marear con más números y tablas.
 
