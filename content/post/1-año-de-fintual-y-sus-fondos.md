@@ -1,5 +1,5 @@
 +++
-aliases = []
+aliases = ["/1-año-de-fintual-y-sus-fondos"]
 categories = ["noticias"]
 date = ""
 description = "Cómo le fue a Fintual en rentabilidad durante el 2018."
