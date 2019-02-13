@@ -17,13 +17,11 @@ Fintual rentó 10,04% el primer año en su fondo más arriesgado(1).
 
 En el moderado 6,98%.
 
-
 Y en el conservador 2,26%, ahí no lo hicimos tan bien. 
 
 (Ajustando por inflación son: 7,29%, 4,31%, -0,30% respectivamente).
 
 Le pregunto a Omar por qué y su respuesta es "administrábamos muy poquito y no podíamos acceder a mejores series". Lo que traducido es: no administrábamos tanto dinero como para obtener mejores descuentos por volumen (en las comisiones de los activos que compramos para nuestros clientes).
-
 
 Por eso sabemos que nuestros fondos pueden y van a ser mejores.
 
@@ -91,7 +89,7 @@ Por eso en diciembre lanzamos el APV de Fondos Mutuos más barato del mercado, d
 
 ![](/uploads/4.png)
 
-Cachen cómo salimos pri
+Éste es el ranking completo.
 
 ![](/uploads/5.png)
 
@@ -105,7 +103,6 @@ Provida y Planvital te cobran menos que Fintual si eres afiliado de ellos. Si no
 
 No los quiero marear con más números y tablas.
 
-
 La idea es ser simple.
 
 Y hacerlo bien.
@@ -116,6 +113,8 @@ O al menos con esas ganas nos levantamos todas las mañanas.
 
 Nos vemos el 2020, a ver cómo nos fue.
 
+
+
 ***
 
 Algunas dudas razonables
@@ -124,6 +123,8 @@ Algunas dudas razonables
 ¿Puedo perder toda mi plata?: Tendrían que desaparecer Apple, Google, Amazon y varias otras, el mismo día.
 
 ***
+
+
 
 (1): La rentabilidad es fluctuante por lo que nada garantiza que las rentabilidades pasadas se mantengan en el futuro. Infórmese de las características esenciales de la inversión en este fondo, las que se encuentran contenidas en su reglamento interno y contrato general de fondos. Información disponible en el sitio web de la CMF.
 (2): Porcentaje anual efectivamente cobrado hasta la fecha indicada.
