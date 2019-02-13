@@ -1,6 +1,6 @@
 +++
 aliases = []
-categories = []
+categories = ["noticias"]
 date = ""
 description = ""
 image = "/uploads/1.png"
