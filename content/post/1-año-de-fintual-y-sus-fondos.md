@@ -5,6 +5,7 @@ date = "2019-02-13T03:00:00+00:00"
 description = "Cómo nos fue a Fintual en rentabilidad durante el 2018."
 image = "/uploads/1.png"
 title = "1 año de Fintual y sus fondos"
+url = "/1-año-de-fintual-y-sus-fondos/"
 
 +++
 Estoy contento.
