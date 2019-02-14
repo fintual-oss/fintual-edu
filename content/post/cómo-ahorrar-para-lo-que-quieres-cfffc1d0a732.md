@@ -6,7 +6,7 @@ date: 2019-02-08 23:00:00 +0000
 image: "/uploads/como-ahorrar.png"
 categories:
 - ahorro
-url: "/como-ahorrar-para-lo-que-quieres"
+url: "/como-ahorrar-para-lo-que-quieres/"
 
 ---
 ### Ayer vi el comercial de un niño en Tailandia que ahorra en su alcancía (con forma de nave espacial) y me recordó a mí cuando niño.
