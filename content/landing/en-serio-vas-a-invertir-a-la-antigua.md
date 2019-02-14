@@ -1,10 +1,9 @@
 ---
-date: '2018-07-08T16:37:29+00:00'
+date: 2018-07-08 16:37:29 +0000
 description: Ya no estamos en la época de los dinosaurios.
 image: "/uploads/trex-thumbnail.png"
 title: Una forma simple de invertir bien
 url: "/en-serio-vas-a-invertir-a-la-antigua/"
-
 
 ---
 <style>
@@ -159,7 +158,7 @@ También puedes leer el artículo de <a href="http://www.elmercurio.com/Inversi
 
 <a href="whatsapp://send?text=Habiendo tantas aplicaciones para pedir comida ¿cómo no existía una que te ayudara a invertir bien tu plata? https://edu.fintual.cl/en-serio-vas-a-invertir-a-la-antigua/" onclick="window.open(this.href, 'whatsappwindow','left=20,top=20,width=600,height=300,toolbar=0,resizable=1'); return false;" >
 
-        <img src="https://lh6.googleusercontent.com/IMU1JbZzRzaz0rifhLIwE4EsxUQOA7F24E1x5aF9Y-wTNoMKyjRxd16wkC7AzUe6kM3eenZSDC5qnEKgSXRx=w1708-h920" alt="Whatsapp">
+        <img src="https://edu.fintual.cl//uploads/whatsapp.png" alt="Whatsapp">
 
 </a>
 
