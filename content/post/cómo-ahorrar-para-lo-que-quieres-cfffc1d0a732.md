@@ -45,7 +45,7 @@ Las hay **muy conservadoras**, como fondos mutuos de muy corto plazo —_money m
 
 Están también los depósitos a plazo bancarios, que con los niveles de tasa de interés actuales crecen —con suerte— en torno a la inflación.
 
-Y también puedes invertir en el largo plazo con la idea de rentar más que la inflación: un ejemplo es invertir a través de alternativas de bajas comis[iones](www.google.com) sobre acciones de diversas empresas, que es a lo que [te damos acceso en Fintual](https://fintual.cl/?utm_source=IG&utm_medium=referral&utm_campaign=awareness&utm_content=como+ahorrar+para+lo+que+quieres+home-196).
+Y también puedes invertir en el largo plazo con la idea de rentar más que la inflación: un ejemplo es invertir a través de alternativas de bajas comisiones sobre acciones de diversas empresas, que es a lo que [te damos acceso en Fintual](https://fintual.cl/?utm_source=IG&utm_medium=referral&utm_campaign=awareness&utm_content=como+ahorrar+para+lo+que+quieres+home-196).
 
 ## _Al niño del aviso comercial le faltó Fintual_
 
