@@ -28,9 +28,15 @@ background: #3dade2;
 
 border-radius: 8px;
 
+color: white; 
+
 font-weight: 900;
 
 width: 300px;
+
+padding: 8px;
+
+margin: 16px auto;
 
 }
 
