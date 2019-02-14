@@ -1,5 +1,7 @@
 +++
 aliases = ["/1-año-de-fintual-y-sus-fondos"]
+author = "Pedro Pineda"
+author_thumbnail = "/uploads/pedro.png"
 categories = ["noticias"]
 date = "2019-02-13T03:00:00+00:00"
 description = "Cómo le fue a Fintual en rentabilidad durante el 2018."
