@@ -45,7 +45,7 @@ Las hay **muy conservadoras**, como fondos mutuos de muy corto plazo —_money m
 
 Están también los depósitos a plazo bancarios, que con los niveles de tasa de interés actuales crecen —con suerte— en torno a la inflación.
 
-Y también puedes invertir en el largo plazo con la idea de rentar más que la inflación: un ejemplo es invertir a través de alternativas de bajas comisiones sobre acciones de diversas empresas, que es a lo que [te damos acceso en Fintual](https://fintual.cl/).
+Y también puedes invertir en el largo plazo con la idea de rentar más que la inflación: un ejemplo es invertir a través de alternativas de bajas comisiones sobre acciones de diversas empresas, que es a lo que [te damos acceso en Fintual](https://fintual.cl/?utm_source=IG&utm_medium=referral&utm_campaign=awareness&utm_content=como+ahorrar+para+lo+que+quieres+home-196).
 
 ## _Al niño del aviso comercial le faltó Fintual_
 
@@ -53,4 +53,4 @@ Tampoco había algo como Fintual hace 20 años cuando yo era el niño, pero hoy 
 
 En Fintual podrás definir un objetivo de inversión distinto para cada uno de tus planes de ahorro y te propondremos carteras distintas según el plazo de inversión y el riesgo que quieras tomar. Dale una prueba con el monto que quieras y te darás cuenta de lo fácil de usar que lo hicimos, para cualquier persona, incluso un niño.
 
-Si tienes dudas de como funciona Fintual, [revisa la sección preguntas frecuentes](https://fintual.cl/preguntas-frecuentes). Y si aún tienes preguntas escríbeme a omar@fintual.com
+Si tienes dudas de como funciona Fintual, [revisa la sección preguntas frecuentes](https://fintual.cl/simple/?utm_source=IG&utm_medium=referral&utm_campaign=awareness&utm_content=como+ahorrar+para+lo+que+quieres+simple-197). Y si aún tienes preguntas escríbeme a omar@fintual.com
