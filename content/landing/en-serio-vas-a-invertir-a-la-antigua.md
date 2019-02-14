@@ -22,6 +22,18 @@ display: inline;
 
 }
 
+.simulator-page__button {
+
+background: #3dade2;
+
+border-radius: 8px;
+
+font-weight: 900;
+
+width: 300px;
+
+}
+
 p {
 
 margin:4rem 0px;
@@ -122,7 +134,7 @@ Si tienes alguna pregunta, solo abre el chat (la pelotita azul que estará abajo
 
 <p style="text-align:center">
 
-<a class="simulator-page__button btn btn--secondary"href="https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=conversion&utm_content=dinosaurios-162#empezar">Empezar</a>
+<a class="simulator-page__button btn btn--secondary" href="https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=conversion&utm_content=dinosaurios-162#empezar">Empezar</a>
 
 </p>
 
@@ -172,6 +184,6 @@ También puedes leer el artículo de <a href="http://www.elmercurio.com/Inversi
 
 <p style="text-align:center">
 
-<a class="dinosaurio simulator-page__button btn btn--secondary"href="https://chromedino.com" target="_blank">O vuelve a la época de los dinosaurios 🦖</a>
+<a class="simulator-page__button btn btn--secondary" href="https://chromedino.com" target="_blank">O vuelve a la época de los dinosaurios 🦖</a>
 
 </p>
