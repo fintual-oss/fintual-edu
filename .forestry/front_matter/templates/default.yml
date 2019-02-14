@@ -40,6 +40,12 @@ fields:
   label: url
   config:
     required: true
+- type: text
+  name: author
+  label: Author
+- type: file
+  name: author_thumbnail
+  label: Author Thumbnail
 pages:
 - content/post/sherlock.md
 - content/post/1-ano-de-fintual-y-sus-fondos.md
