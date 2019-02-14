@@ -38,7 +38,7 @@ El otro día Capital sacó en el diario a página completa un aviso con un 1º g
 
 Me reí ¿En serio les da para sacar un anuncio en el diario con pérdidas?
 
-Oye ¿Y las otras?
+Oye ¿y las otras?
 
 Bueno, todas peores que ese -5,37%
 
