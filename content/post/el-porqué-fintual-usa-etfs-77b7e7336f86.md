@@ -5,7 +5,7 @@ title: Porqué Fintual invierte en ETFs
 date: 2018-02-07 00:00:00 +0000
 image: "/uploads/por-que-etf.png"
 categories:
-- inversión
+- educación financiera
 url: "/el-porqué-fintual-usa-etfs-77b7e7336f86/"
 
 ---
