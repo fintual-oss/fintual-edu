@@ -4,7 +4,6 @@ description: ''
 image: "/uploads/rentan-poco.png"
 title: "¿Rentan poco los depósitos a plazo?"
 categories:
-- educación financiera
 - columnas
 url: "/renta-poco-el-deposito-a-plazo/"
 
