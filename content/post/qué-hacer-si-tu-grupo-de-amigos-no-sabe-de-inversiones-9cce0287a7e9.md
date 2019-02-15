@@ -5,6 +5,7 @@ title: "¿Qué hacer si tu grupo de amigos no sabe de inversiones?"
 date: 2018-04-02 00:00:00 +0000
 image: "/uploads/posts-fb (2).png"
 url: "/qué-hacer-si-tu-grupo-de-amigos-no-sabe-de-inversiones-9cce0287a7e9/"
+draft: true
 
 ---
 ### Todos tenemos un grupo de amigos en Whatsapp.
