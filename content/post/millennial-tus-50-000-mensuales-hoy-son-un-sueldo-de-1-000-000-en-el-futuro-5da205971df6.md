@@ -5,7 +5,7 @@ title: 'Millennial: tus $50.000 mensuales hoy son un sueldo de $1.000.000 en el 
 date: 2018-03-17 00:00:00 +0000
 image: "/uploads/millenials.png"
 categories:
-- ahorro
+- educación financiera
 url: "/millennial-tus-50-000-mensuales-hoy-son-un-sueldo-de-1-000-000-en-el-futuro-5da205971df6/"
 
 ---
