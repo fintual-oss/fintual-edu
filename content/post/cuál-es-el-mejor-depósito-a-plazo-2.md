@@ -1,7 +1,7 @@
 +++
 author = "Pedro Pineda"
 author_thumbnail = "/uploads/pedro_pineda.png"
-categories = ["ahorro"]
+categories = ["educación financiera"]
 date = "2018-12-13T13:01:29+00:00"
 description = ""
 image = "/uploads/cual-es-el-mejor-deposito-1200x630.png"
