@@ -2,8 +2,7 @@
 date: 2018-07-05 04:21:03 +0000
 title: "¿Tiene sentido invertir en acciones?"
 categories:
-- inversión
-- ideas
+- columnas
 image: "/uploads/tiene-sentido.png"
 url: "/-invertir-en-acciones-/"
 
