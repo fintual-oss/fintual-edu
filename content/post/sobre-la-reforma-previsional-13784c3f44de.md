@@ -5,7 +5,7 @@ title: Sobre la reforma previsional
 date: 2018-10-06 00:00:00 +0000
 image: "/uploads/reforma-previsional.png"
 categories:
-- ahorro
+- columnas
 url: "/sobre-la-reforma-previsional-13784c3f44de/"
 
 ---
