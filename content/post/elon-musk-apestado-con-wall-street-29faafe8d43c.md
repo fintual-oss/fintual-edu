@@ -5,7 +5,7 @@ title: Elon Musk apestado con Wall Street
 date: 2018-07-08 00:00:00 +0000
 image: "/uploads/elon-musk.png"
 categories:
-- inversión
+- noticias
 url: "/elon-musk-apestado-con-wall-street-29faafe8d43c/"
 
 ---
