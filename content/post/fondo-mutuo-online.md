@@ -4,7 +4,7 @@ description: ''
 image: "/uploads/ffmm-online.png"
 title: Fondo Mutuo Online
 categories:
-- inversión
+- educación financiera
 url: "/fondo-mutuo-online/"
 
 ---
