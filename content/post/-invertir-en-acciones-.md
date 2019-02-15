@@ -5,6 +5,7 @@ categories:
 - columnas
 image: "/uploads/tiene-sentido.png"
 url: "/-invertir-en-acciones-/"
+draft: true
 
 ---
 Al buscar en qué invertir, ésta es la opción que te hace parecer más inteligente y con la que probablemente te guste presumir con tus amigos. Pero es también en la que más te expones a ser embaucado si no sabes.
