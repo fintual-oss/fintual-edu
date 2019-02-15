@@ -5,7 +5,7 @@ title: Cómo ahorrar para lo que quieres
 date: 2019-02-08 23:00:00 +0000
 image: "/uploads/como-ahorrar.png"
 categories:
-- ahorro
+- educación financiera
 url: "/como-ahorrar-para-lo-que-quieres/"
 
 ---
