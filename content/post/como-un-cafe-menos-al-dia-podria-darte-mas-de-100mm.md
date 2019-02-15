@@ -6,8 +6,7 @@ description: Para que pienses en ello cuando estés tomándote un café.
 image: "/uploads/cafe-1200x630.png"
 title: Cómo un café menos al día podría darte más de $100.000.000
 categories:
-- ahorro
-- ideas
+- educación financiera
 url: "/como-un-cafe-menos-al-dia-podria-darte-mas-de-100mm/"
 
 ---
