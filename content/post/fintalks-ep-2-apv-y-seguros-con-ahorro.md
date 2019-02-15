@@ -1,7 +1,7 @@
 +++
 author = "Pedro Pineda"
 author_thumbnail = "/uploads/pedro.png"
-categories = []
+categories = ["podcasts"]
 date = "2018-11-19T03:00:00+00:00"
 description = "Como en Fintual se viene el APV, en el segundo capítulo de Fintalks quisimos hablar de sus distintos beneficios y regímenes tributarios."
 image = "/uploads/fntlk.png"
