@@ -2,7 +2,7 @@
 date: 2018-07-05 00:56:26 +0000
 title: Hagamos esto fácil
 categories:
-- inversión
+- educación financiera
 url: "/invierte-palta/"
 
 ---
