@@ -4,8 +4,7 @@ description: ''
 image: "/uploads/depositos-a-plazo-1200x630.png"
 title: "¿Depósitos a plazo?"
 categories:
-- inversión
-- ahorro
+- educación financiera
 url: "/depositos-a-plazo/"
 
 ---
