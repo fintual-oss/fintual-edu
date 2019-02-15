@@ -5,6 +5,7 @@ title: Por qué los fondos mutuos rentan tan poco
 date: 2018-03-20 00:00:00 +0000
 image: "/uploads/que-hacer.png"
 url: "/por-qué-los-fondos-mutuos-rentan-tan-poco-78a9aafc9896/"
+draft: true
 
 ---
 ¿Te ha pasado que has invertido en fondos mutuos y no ganas mucho?
