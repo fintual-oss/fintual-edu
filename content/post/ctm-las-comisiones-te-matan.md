@@ -5,7 +5,7 @@ description: 'Si quieres ver cuánta plata estás dejando de ganar por las comis
 image: "/uploads/ctm-comisiones.png"
 title: 'CTM: las Comisiones Te Matan'
 categories:
-- inversión
+- educación financiera
 url: "/ctm-las-comisiones-te-matan/"
 
 ---
