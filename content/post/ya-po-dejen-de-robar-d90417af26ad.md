@@ -5,7 +5,7 @@ title: Lobos de Wall Street en Chile
 date: 2016-10-26 00:00:00 +0000
 image: "/uploads/lobos-wall.png"
 categories:
-- inversión
+- columnas
 url: "/ya-po-dejen-de-robar-d90417af26ad/"
 
 ---
