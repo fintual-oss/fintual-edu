@@ -3,8 +3,7 @@ date: 2018-07-17 19:23:11 +0000
 image: "/uploads/morgan-free.png"
 title: "¿Cuánto te cobra tu fondo mutuo?"
 categories:
-- ideas
-- inversión
+- educación financiera
 url: "/cuanto-te-cobra-tu-fondo-mutuo/"
 
 ---
