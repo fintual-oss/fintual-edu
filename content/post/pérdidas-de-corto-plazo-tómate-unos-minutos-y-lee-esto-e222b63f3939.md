@@ -2,15 +2,14 @@
 author: Omar Larré
 author_thumbnail: "/uploads/omar_larre.jpeg"
 title: "¿Pérdidas de corto plazo? Tómate unos minutos y lee esto"
-date: 2018-03-23
+date: 2018-03-23 00:00:00 +0000
 categories:
-- inversión
+- educación financiera
+- columnas
 image: "/uploads/pérdidas-de-c5802.png"
 url: "/pérdidas-de-corto-plazo-tómate-unos-minutos-y-lee-esto-e222b63f3939/"
 
-
 ---
-
 ### Es más común de lo que se piensa, pero las bajas del mercado son la parte más normal de una cartera de inversiones de buen retorno. A menudo, los inversionistas, tanto profesionales como personas común y corrientes, tienden a sobrerreaccionar con pánico en respuesta a bajas de mercado, incluso sabiendo que están invirtiendo de forma apropiada y en un plan de largo plazo. Sin embargo, reaccionar a las bajas de mercado terminan siendo, en la mayor parte de los casos, una mala estrategia de inversiones.
 
 Cada vez que digo que en el corto plazo es muy probable que existan pérdidas en Fintual, me miran con cara de espanto. Y no se trata de que sea pesimista ni sádico, es sólo una perspectiva basada en haber estudiado y experimentado el mercado financiero por años.
