@@ -2,10 +2,9 @@
 date: 2018-07-05 02:46:31 +0000
 image: "/uploads/incorporacion colegio.png"
 title: "¿Cómo ahorrar para la cuota de incorporación del colegio?"
-categories:
-- ahorro
-- inversión
+categories: []
 url: "/cuota-de-incorporacion-a-colegio/"
+draft: true
 
 ---
 Los colegios con mejores resultados en la PSU suelen tener mensualidades altas respecto al promedio y aún así una alta demanda por ingresar cada año.
