@@ -5,7 +5,7 @@ title: No cambies tu inversión a cada rato
 date: 2016-10-09 00:00:00 +0000
 image: "/uploads/no-cambies.png"
 categories:
-- inversión
+- educación financiera
 url: "/no-cambies-tu-inversión-a-cada-rato-99476a1275c9/"
 
 ---
