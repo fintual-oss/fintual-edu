@@ -11,7 +11,7 @@ categories:
 ---
 ### La forma en que interactuamos con nuestro entorno —nuestras inclinaciones naturales a buscar información en todos los rincones...
 
-###### darle tanta importancia a los rumores, tratar de encontrar patrones, huir por refugio seguro—fueron fundamentales para sobrevivir durante gran parte de nuestra historia evolutiva como especie humana. Sin embargo, a la hora de invertir, nuestras “reacciones instintivas” han demostrado ser las mayores fuentes de errores.
+darle tanta importancia a los rumores, tratar de encontrar patrones, huir por refugio seguro—fueron fundamentales para sobrevivir durante gran parte de nuestra historia evolutiva como especie humana. Sin embargo, a la hora de invertir, nuestras “reacciones instintivas” han demostrado ser las mayores fuentes de errores.
 
 ![*](/uploads/5-errores-com7122)_Homo ergaster cazando en la sabana africana hace unos 1.7 millones de años atrás. Impresión artística de Mauricio Anton._
 
