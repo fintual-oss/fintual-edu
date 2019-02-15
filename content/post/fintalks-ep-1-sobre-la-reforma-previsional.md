@@ -4,7 +4,7 @@ author_thumbnail = "/uploads/pedro.png"
 categories = ["podcasts"]
 date = "2018-11-12T03:00:00+00:00"
 description = "No sabíamos muy bien de qué hablar en nuestro piloto, así que hablamos de lo que todos están discutiendo: el 4% adicional de la Reforma Previsional."
-image = "/fntlk.png"
+image = "/uploads/fntlk.png"
 title = "Fintalks. Ep 1: Sobre la reforma previsional"
 url = "/fintalks-1"
 
