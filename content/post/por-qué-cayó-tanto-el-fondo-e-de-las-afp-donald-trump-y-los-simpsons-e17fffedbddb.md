@@ -5,7 +5,8 @@ title: "¿Por qué cayó tanto el fondo E de las AFP? Donald Trump y Los Simpson
 date: 2017-0-9
 image: "/uploads/por-que-cayo.png"
 url: "/por-qué-cayó-tanto-el-fondo-e-de-las-afp-donald-trump-y-los-simpsons-e17fffedbddb/"
-draft: true
+categories:
+- noticias
 
 ---
 ### El 19 de marzo de 2000 se emitió el capítulo 17 de la temporada 11 de Los Simpsons: “Bart to the Future”, donde en el futuro Donald Trump es presidente de USA.
