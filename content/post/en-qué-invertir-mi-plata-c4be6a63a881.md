@@ -5,7 +5,7 @@ title: En qué invertir mi plata
 date: 2018-11-10 00:00:00 +0000
 image: "/uploads/en-que-invertir.png"
 categories:
-- inversión
+- educación financiera
 url: "/en-qué-invertir-mi-plata-c4be6a63a881/"
 
 ---
