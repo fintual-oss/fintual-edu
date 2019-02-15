@@ -4,9 +4,7 @@ author_thumbnail: "/uploads/pedro_pineda.png"
 title: Andrés explica qué son los "robot-advisors"
 date: 2018-03-12 00:00:00 +0000
 image: "/uploads/dres-starsconf.png"
-categories:
-- ahorro
-- inversión
+categories: []
 url: "/andrés-explica-qué-es-robot-advisors-fc64e6254337/"
 
 ---
