@@ -7,7 +7,7 @@ description: Fintual es la primera Administradora General de Fondos en ofrecer u
 image: "/uploads/api-fintual.png"
 title: El API de Fintual
 categories:
-- ideas
+- noticias
 url: "/el-api-de-fintual/"
 
 ---
