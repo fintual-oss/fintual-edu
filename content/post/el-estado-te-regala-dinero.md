@@ -4,8 +4,7 @@ description: No, no es el bono marzo.
 image: "/uploads/donde-pedir.png"
 title: "¿Dónde pedir mis $290.000 gratis?"
 categories:
-- inversión
-- ideas
+- educación financiera
 url: "/el-estado-te-regala-dinero/"
 
 ---
