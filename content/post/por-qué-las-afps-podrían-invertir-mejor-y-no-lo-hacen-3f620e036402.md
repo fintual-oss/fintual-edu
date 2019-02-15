@@ -5,7 +5,9 @@ title: "¿Por qué las AFPs podrían invertir mejor y no lo hacen?"
 date: 2017-05-07 00:00:00 +0000
 image: "/uploads/por-que-afp.png"
 url: "/por-qué-las-afps-podrían-invertir-mejor-y-no-lo-hacen-3f620e036402/"
-draft: true
+categories:
+- columnas
+description: ''
 
 ---
 ### Me siento como director de cine gringo haciendo el remake de una película coreana excelente pero críptica. La de Alejandro Bernales, investigador en Finanzas y Economía Aplicada de la Universidad de Chile quien escribió un muy buen texto sobre por qué las AFPs invierten mal nuestros fondos.
