@@ -5,7 +5,7 @@ title: Buscando a Nemo (o nuestra historia de cómo buscamos diseñador)
 date: 2018-09-16 00:00:00 +0000
 image: "/uploads/buscando-a-nemo.png"
 categories:
-- columnas
+- noticias
 url: "/buscando-a-nemo-o-nuestra-historia-de-cómo-buscamos-diseñador-a13dd6af2a2e/"
 
 ---
