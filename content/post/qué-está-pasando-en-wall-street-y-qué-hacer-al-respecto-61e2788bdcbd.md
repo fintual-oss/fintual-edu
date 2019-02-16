@@ -6,7 +6,6 @@ date: 2018-09-16 00:00:00 +0000
 image: "/uploads/wall-street.png"
 categories:
 - noticias
-- columnas
 url: "/qué-está-pasando-en-wall-street-y-qué-hacer-al-respecto-61e2788bdcbd/"
 
 ---
