@@ -9,7 +9,7 @@ title = "Fintalks. Ep 2: APV y Seguros con ahorro"
 url = "/fintalks-2"
 
 +++
-Ésta es la transcripción del segundo episodio de nuestro podcast Fintalks.  
+Esta es la transcripción del segundo episodio de nuestro podcast Fintalks.  
 Lo puedes escuchar en [Spotify,](https://open.spotify.com/episode/5LpFKo5R7WHWcwW9P8P1rt "Fintalks Ep 2") iTunes y [Youtube.](https://www.youtube.com/watch?v=iKCf_zmVpNs "Fintalks Ep 2")
 
 Como en Fintual se viene el APV, en el segundo capítulo de Fintalks quisimos hablar de sus distintos beneficios y regímenes tributarios, además del tema de los Seguros con Ahorro.
