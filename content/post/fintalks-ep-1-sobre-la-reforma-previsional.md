@@ -9,7 +9,7 @@ title = "Fintalks. Ep 1: Sobre la reforma previsional"
 url = "/fintalks-1"
 
 +++
-Ésta es la transcripción del primer episodio de nuestro podcast Fintalks.  
+Esta es la transcripción del primer episodio de nuestro podcast Fintalks.  
 Lo puedes escuchar en [Spotify](https://open.spotify.com/episode/60r9FfMvE7WzCxU6zWd828 "Ep 1 Fintalks"), [iTunes](https://itunes.apple.com/cl/podcast/fintalks/id1444666203?l=en#) y [YouTube](https://www.youtube.com/watch?v=BZTlbAsGLOE "Fintalks en Youtube").
 
 **00:03 | Música**
