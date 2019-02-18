@@ -13,6 +13,7 @@ Omar, cofundador de Fintual y profesor de Finanzas y Fintech en la Universidad d
 
 <div style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/H9DMQKxONeI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
+
 Y en verdad, queda todo bien claro.
 
 ![](/uploads/comentario.png)
