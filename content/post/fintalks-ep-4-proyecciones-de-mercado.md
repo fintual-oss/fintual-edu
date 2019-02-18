@@ -4,7 +4,6 @@ author_thumbnail = "/uploads/pedro.png"
 categories = ["podcasts"]
 date = "2019-02-18T03:00:00+00:00"
 description = "¿Cómo se hacen las predicciones de mercado? ¿En cuánto va a estar el dólar la próxima semana? Nosotros creemos que no se puede ver el futuro."
-draft = true
 image = "/uploads/fntlk.png"
 title = "Fintalks. Ep 4: Proyecciones de mercado"
 url = "fintalks-4"
