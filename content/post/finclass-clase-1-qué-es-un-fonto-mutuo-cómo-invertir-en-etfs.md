@@ -11,8 +11,6 @@ url = "/finclass-1"
 +++
 Omar, cofundador de Fintual y profesor de Finanzas y Fintech en la Universidad de Chile, explica en [este video](https://www.youtube.com/watch?v=H9DMQKxONeI "Finclass. Clase 1.") cómo funciona un fondo mutuo, por qué invertir a través de uno en vez de comprar acciones o bonos y cómo puedes comprar un ETF.
 
-![](/uploads/finclass-1-1.png)
-
 Y en verdad, queda todo bien claro.
 
 ![](/uploads/comentario.png)
