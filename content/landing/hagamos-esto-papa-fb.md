@@ -128,3 +128,37 @@ _Y nosotros queremos eso, que invertir sea papa._
 <a class="simulator-page__button btn btn--secondary" href="https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=conversion&utm_content=dinosaurios-162#empezar">Descubre tu perfil de inversionista</a>
 
 </p>
+
+<p style="text-align:center"> 
+
+<b> Comparte esta página </b> 👇 
+
+</p>
+
+<meta name="twitter:card" content="summary_large_image">
+
+<meta name="twitter:title" content="Una forma simple de invertir bien">
+
+<meta name="twitter:description" content="Ya no estamos en la época de los dinosaurios.">
+
+<meta name="twitter:image" content="https://edu.fintual.cl/uploads/trex-thumbnail.png">
+
+<div id="share-buttons" align="center">
+
+<a href="http://www.facebook.com/sharer.php?u=https://edu.fintual.cl/en-serio-vas-a-invertir-a-la-antigua/" onclick="window.open(this.href, 'facebookwindow','left=20,top=20,width=600,height=300,toolbar=0,resizable=1'); return false;">
+
+        <img src="" alt="Facebook" />
+
+<a href="https://twitter.com/share?url=https://edu.fintual.cl/en-serio-vas-a-invertir-a-la-antigua/&text=Habiendo%20tantas%20aplicaciones%20para%20pedir%20comida%20¿cómo%20no%20existía%20una%20que%20te%20ayudara%20a%20invertir%20bien%20tu%20plata?";hashtags=fintual&amp onclick="window.open(this.href, 'twitterwindow','left=20,top=20,width=600,height=300,toolbar=0,resizable=1'); return false;">
+
+        <img src="" alt="Twitter" />
+    
+    </a>
+
+<a href="http://www.linkedin.com/shareArticle?mini=true&url=https://edu.fintual.cl/en-serio-vas-a-invertir-a-la-antigua" onclick="window.open(this.href, 'linkedinwindow','left=20,top=20,width=600,height=300,toolbar=0,resizable=1'); return false;">
+
+        <img src="" alt="LinkedIn" />
+    
+    </a>
+
+</div>
