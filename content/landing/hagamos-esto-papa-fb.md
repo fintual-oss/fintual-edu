@@ -39,7 +39,7 @@ padding: 8px;
 
 margin: 16px auto;
 
-white-space: normal;
+text-align: center;
 
 }
 
