@@ -151,7 +151,7 @@ _Y nosotros queremos eso, que invertir sea papa._
 
 <a href="http://www.linkedin.com/shareArticle?mini=true&url=https://edu.fintual.cl/en-serio-vas-a-invertir-a-la-antigua" onclick="window.open(this.href, 'linkedinwindow','left=20,top=20,width=600,height=300,toolbar=0,resizable=1'); return false;">
 
-        <img src="" alt="LinkedIn" />
+        <img src="https://simplesharebuttons.com/images/somacro/linkedin.png" alt="LinkedIn" />
     
     </a>
 
