@@ -125,7 +125,7 @@ _Y nosotros queremos eso, que invertir sea papa._
 
 <p style="text-align:center">
 
-<a class="simulator-page__button btn btn--secondary" href="https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=conversion&utm_content=dinosaurios-162#empezar">Descubre tu perfil de inversionista</a>
+<a class="simulator-page__button btn btn--secondary" href="https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=cpc&utm_campaign=awareness&utm_content=landing+hagamos+esto+facil-203#empezar">Descubre tu perfil de inversionista</a>
 
 </p>
 
