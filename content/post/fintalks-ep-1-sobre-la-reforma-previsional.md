@@ -12,17 +12,17 @@ url = "/fintalks-1"
 Esta es la transcripción del primer episodio de nuestro podcast Fintalks.  
 Lo puedes escuchar en [Spotify](https://open.spotify.com/episode/60r9FfMvE7WzCxU6zWd828 "Ep 1 Fintalks"), [iTunes](https://itunes.apple.com/cl/podcast/fintalks/id1444666203?l=en#) y [YouTube](https://www.youtube.com/watch?v=BZTlbAsGLOE "Fintalks en Youtube").
 
-**00:03 | Música**
+**00:03**| Música
 
-\**00:04 |**La AFP no es un sistema previsional, la AFP es solamente un sistema y un medio de ahorro, es un medio financiero. Es un producto financiero, pero no es un sistema previsional que cuide la jubilación de todas las personas.
+**00:04**| La AFP no es un sistema previsional, la AFP es solamente un sistema y un medio de ahorro, es un medio financiero. Es un producto financiero, pero no es un sistema previsional que cuide la jubilación de todas las personas.
 
 **00:19**| Hola hola, muy buenos días y bienvenidos a nuestro primer podcast, podcast que todavía no tiene nombre, así que si tienen alguna sugerencia (risas) es muy bienvenida. Hoy vamos a hablar de un tema que nos han preguntado mucho, es la reforma previsional (ruido), estoy acá con los cuatro founder de Fintual, les voy a pedir que por favor antes de hablar digan quiénes son para que la gente reconozca sus voces, y empecemos a hablar del 4 por ciento qué es esto, qué es esta reforma previsional.
 
 **00:46**| Aquí voy a hablar yo, Omar Larré, les cuento más o menos un resumen. Las pensiones son malas, más o menos todos cachamos eso y ahora está esté 10 por ciento que nosotros poníamos de nuestro sueldo ahora se va a convertir en un 14 por ciento. O sea, es un 4 por ciento de nuestro sueldo que va ir al ahorro obligatorio. Eso es a grandes rasgos el gran cambio. Hay otros cambios más como mejorar un poco el pilar solidario de todos, hay varios problemas que no se arreglan y como lagunas grandes previsionales, y como se financia el pilar solidario, etcétera. Varias cosas, pero eso apunta a ahorrar más, necesitamos ahorrar porque en realidad países similares a Chile ahorran alrededor de un 20 por ciento y eso es más o menos lo que se necesita. Y este es un paso, un pasito para ese lado.
 
-\**01:39 |**Esta weá impacta de alguna forma como a los sueldos, o sea, esa parte como no cacho yo.
+**1:39|** Esta weá impacta de alguna forma como a los sueldos, o sea, esa parte como no cacho yo.
 
-\**01:45 |**Es que se supone que lo paga el empleador no lo paga la persona.
+\*01:45 |**Es que se supone que lo paga el empleador no lo paga la persona.
 
 \**01:52 |**Ya en la práctica (superposición de voces)
 
