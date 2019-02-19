@@ -129,12 +129,6 @@ _Y nosotros queremos eso, que invertir sea papa._
 
 </p>
 
-<p style="text-align:center"> 
-
-<b> Comparte esta página </b> 👇 
-
-</p>
-
 <meta name="twitter:card" content="summary_large_image">
 
 <meta name="twitter:title" content="Una forma simple de invertir bien">
