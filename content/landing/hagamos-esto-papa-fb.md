@@ -1,6 +1,6 @@
 ---
 date: 2018-07-08 16:37:29 +0000
-description: Habiendo tantas páginas para pedir comida ¿cómo no existía una que te
+description: Habiendo tantas páginas para pedir comida, ¿cómo no existía una que te
   ayudara a invertir bien tu plata?
 image: "/uploads/posts-fb-2.png"
 title: Hagamos esto fácil
@@ -37,7 +37,7 @@ width: 300px;
 
 padding: 8px;
 
-margin: 16px auto;
+margin: 16px ;
 
 }
 
@@ -83,7 +83,7 @@ width: 100%;
 
 </style>
 
-Habiendo tantas páginas para pedir comida **¿cómo no existía una que te ayudara a invertir bien tu plata?**
+Habiendo tantas páginas para pedir comida, **¿cómo no existía una que te ayudara a invertir bien tu plata?**
 
 En Chile no conocíamos algo que fuera **simple, transparente y barato**.
 
@@ -128,33 +128,3 @@ _Y nosotros queremos eso, que invertir sea papa._
 <a class="simulator-page__button btn btn--secondary" href="https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=cpc&utm_campaign=awareness&utm_content=landing+hagamos+esto+facil-203#empezar">Descubre tu perfil de inversionista</a>
 
 </p>
-
-<meta name="twitter:card" content="summary_large_image">
-
-<meta name="twitter:title" content="Hagamos esto fácil">
-
-<meta name="twitter:description" content="Habiendo tantas páginas para pedir comida ¿cómo no existía una que te ayudara a invertir bien tu plata?">
-
-<meta name="twitter:image" content="https://edu.fintual.cl/uploads/posts-fb.png">
-
-<div id="share-buttons" align="center">
-
-<a href="http://www.facebook.com/sharer.php?u=https://edu.fintual.cl/hagamos-esto-facil/" onclick="window.open(this.href, 'facebookwindow','left=20,top=20,width=600,height=300,toolbar=0,resizable=1'); return false;">
-
-        <img src="https://simplesharebuttons.com/images/somacro/facebook.png" alt="Facebook" />
-
-</a>
-
-<a href="https://twitter.com/share?url=https://edu.fintual.cl/hagamos-esto-facil/&text=Habiendo%20tantas%20aplicaciones%20para%20pedir%20comida%20¿cómo%20no%20existía%20una%20que%20te%20ayudara%20a%20invertir%20bien%20tu%20plata?";hashtags=fintual&amp onclick="window.open(this.href, 'twitterwindow','left=20,top=20,width=600,height=300,toolbar=0,resizable=1'); return false;">
-
-        <img src="https://simplesharebuttons.com/images/somacro/twitter.png" alt="Twitter" />
-
-</a>
-
-<a href="http://www.linkedin.com/shareArticle?mini=true&url=https://edu.fintual.cl/hagamos-esto-facil/" onclick="window.open(this.href, 'linkedinwindow','left=20,top=20,width=600,height=300,toolbar=0,resizable=1'); return false;">
-
-        <img src="https://simplesharebuttons.com/images/somacro/linkedin.png" alt="LinkedIn" />
-
-</a>
-
-</div>
