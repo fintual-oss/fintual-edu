@@ -143,16 +143,18 @@ _Y nosotros queremos eso, que invertir sea papa._
 
         <img src="" alt="Facebook" />
 
+</a>
+
 <a href="https://twitter.com/share?url=https://edu.fintual.cl/en-serio-vas-a-invertir-a-la-antigua/&text=Habiendo%20tantas%20aplicaciones%20para%20pedir%20comida%20¿cómo%20no%20existía%20una%20que%20te%20ayudara%20a%20invertir%20bien%20tu%20plata?";hashtags=fintual&amp onclick="window.open(this.href, 'twitterwindow','left=20,top=20,width=600,height=300,toolbar=0,resizable=1'); return false;">
 
-        <img src="" alt="Twitter" />
-    
-    </a>
+        <img src="https://simplesharebuttons.com/images/somacro/twitter.png" alt="Twitter" />
+
+</a>
 
 <a href="http://www.linkedin.com/shareArticle?mini=true&url=https://edu.fintual.cl/en-serio-vas-a-invertir-a-la-antigua" onclick="window.open(this.href, 'linkedinwindow','left=20,top=20,width=600,height=300,toolbar=0,resizable=1'); return false;">
 
         <img src="https://simplesharebuttons.com/images/somacro/linkedin.png" alt="LinkedIn" />
-    
-    </a>
+
+</a>
 
 </div>
