@@ -41,6 +41,12 @@ margin: 16px auto;
 
 }
 
+.image-wrapper {
+
+text-align: center;
+
+}
+
 p {
 
 margin:4rem 0px;
@@ -52,12 +58,6 @@ text-align: justify;
 .footer-big__overlap { 
 
 padding-bottom: 0px; 
-
-}
-
-.image-wrapper {
-
-text-align: center;
 
 }
 
