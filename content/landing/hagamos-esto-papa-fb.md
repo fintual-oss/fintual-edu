@@ -51,7 +51,7 @@ p {
 
 margin:4rem 0px;
 
-text-align: justify;
+text-align: left;
 
 }
 
@@ -119,9 +119,9 @@ Cool pero regulada.
 
 La Comisión para el Mercado Financiero vigila que cumplamos con la ley. Puedes ver nuestro registro en la CMF <a href="http://www.cmfchile.cl/institucional/mercados/entidad.php?auth=&send=&mercado=V&rut=76810627&grupo=&tipoentidad=RGAGF&vig=VI&row=AAAwy2ACTAAAB4AAAP&control=svs&pestania=1" target="_blank">aquí</a>
 
-_Algunas personas dicen que algo es papa cuando es fácil._
+Algunas personas dicen que algo es papa cuando es fácil.
 
-_Y nosotros queremos eso, que invertir sea papa._
+Y nosotros queremos eso, que invertir sea papa.
 
 <p style="text-align:center">
 
