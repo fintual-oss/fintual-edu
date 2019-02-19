@@ -55,9 +55,19 @@ padding-bottom: 0px;
 
 }
 
+.image-wrapper {
+
+text-align: center;
+
+}
+
 .image-wrapper img {
 
-width: 60%; text-align: center; margin: 40px 0px;
+width: 60%; 
+
+text-align: center; 
+
+margin: 40px 0px;
 
 }
 
