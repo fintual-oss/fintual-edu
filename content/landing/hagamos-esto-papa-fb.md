@@ -39,7 +39,7 @@ background: #3dade2;
 
 border-radius: 8px;
 
-color: white;
+color: #3dade2;
 
 font-weight: 900;
 
@@ -48,6 +48,20 @@ width: 300px;
 padding: 8px;
 
 margin: 16px auto;
+
+}
+
+\#share-buttons img {
+
+width: 35px;
+
+padding: 5px;
+
+border: 0;
+
+box-shadow: 0;
+
+display: inline;
 
 }
 
