@@ -55,17 +55,17 @@ text-align: justify;
 
 }
 
-.footer-big__overlap { 
+.footer-big__overlap {
 
-padding-bottom: 0px; 
+padding-bottom: 0px;
 
 }
 
 .image-wrapper img {
 
-width: 60%; 
+width: 60%;
 
-text-align: center; 
+text-align: center;
 
 margin: 40px 0px;
 
@@ -83,11 +83,11 @@ width: 100%;
 
 </style>
 
-Habiendo tantas páginas para pedir comida ¿cómo no existía una que te ayudara a invertir bien tu plata?
+Habiendo tantas páginas para pedir comida **¿cómo no existía una que te ayudara a invertir bien tu plata?**
 
-En Chile no conocíamos algo que fuera simple, transparente y barato.
+En Chile no conocíamos algo que fuera **simple, transparente y barato**.
 
-Lo único que encontramos fueron los depósitos a plazo, pero es **tan poco** lo que se gana que no tenía sentido.
+Lo único que encontramos fueron los depósitos a plazo, pero es **tan poco** **lo que se gana** que no tenía sentido.
 
 **Por eso invertir tiene que ser fácil.**
 
@@ -117,7 +117,7 @@ No, no es broma.
 
 Cool pero regulada.
 
-La Comisión para el Mercado Financiero vigila que cumplamos con la ley. Puedes ver nuestro registro en la CMF [aquí.](http://www.cmfchile.cl/institucional/mercados/entidad.php?auth=&send=&mercado=V&rut=76810627&grupo=&tipoentidad=RGAGF&vig=VI&row=AAAwy2ACTAAAB4AAAP&control=svs&pestania=1)
+La Comisión para el Mercado Financiero vigila que cumplamos con la ley. Puedes ver nuestro registro en la CMF <a href="http://www.cmfchile.cl/institucional/mercados/entidad.php?auth=&send=&mercado=V&rut=76810627&grupo=&tipoentidad=RGAGF&vig=VI&row=AAAwy2ACTAAAB4AAAP&control=svs&pestania=1" target="_blank">aquí</a>
 
 _Algunas personas dicen que algo es papa cuando es fácil._
 
