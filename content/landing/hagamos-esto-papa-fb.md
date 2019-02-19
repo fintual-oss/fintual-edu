@@ -1,10 +1,10 @@
 ---
-date: '2018-07-08T16:37:29+00:00'
-description: Invertir tiene que ser fácil.
-image: "/uploads/inviertepapalk.png"
-title: Hagamos esto papa
-url: "/hagamos-esto-papa-fb/"
-
+date: 2018-07-08 16:37:29 +0000
+description: Habiendo tantas páginas para pedir comida ¿cómo no existía una que te
+  ayudara a invertir bien tu plata?
+image: "/uploads/posts-fb-2.png"
+title: Hagamos esto fácil
+url: "/hagamos-esto-facil/"
 
 ---
 <style>
@@ -41,11 +41,11 @@ Habiendo tantas páginas para pedir comida ¿cómo no existía una que te ayudar
 
 En Chile no conocíamos algo que fuera simple, transparente y barato.
 
-Lo único simple que encontramos fueron los depósitos a plazo, pero es tan poco lo que se gana que no tenía sentido.
+Lo único que encontramos fueron los depósitos a plazo, pero es **tan poco** lo que se gana que no tenía sentido.
 
 **Por eso invertir tiene que ser fácil.**
 
-**¿Qué significa fácil?**
+## **¿Qué significa fácil?**
 
 1\. Responder unas preguntas para medir tu tolerancia al riesgo
 
@@ -63,9 +63,9 @@ Lo único simple que encontramos fueron los depósitos a plazo, pero es tan poco
 
 No, no es broma.
 
-**¿Quieres poner poca plata?** Puedes hacerlo, no hay montos mínimos.
+**¿Quieres partir poniendo poca plata?** Puedes hacerlo, no hay montos mínimos.
 
-**¿Quieres sacar tu plata antes?** Obvio. No hay costos por sacar tu plata.
+**¿Quieres sacar tu plata antes?** Obvio. Y no hay costos adicionales por hacerlo.
 
 **¿Es seguro?** Fintual es una institución financiera regulada.
 
