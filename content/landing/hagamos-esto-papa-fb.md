@@ -29,7 +29,7 @@ background: #3dade2;
 
 border-radius: 8px;
 
-color: white;
+color: #3dade2;
 
 font-weight: 900;
 
@@ -41,13 +41,7 @@ margin: 16px auto;
 
 }
 
-p {
-
-margin:4rem 0px;
-
-text-align:justify;
-
-}
+p { margin:4rem 0px; text-align:justify; }
 
 .footer-big__overlap { padding-bottom:0px; }
 
@@ -59,13 +53,7 @@ text-align: center;
 
 .image-wrapper img {
 
-width: 100%;
-
-text-align:
-
-center;
-
-margin: 60px 0px;
+width: 60%; text-align: center; margin: 40px 0px;
 
 }
 
