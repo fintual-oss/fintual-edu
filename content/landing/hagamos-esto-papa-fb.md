@@ -39,8 +39,6 @@ padding: 8px;
 
 margin: 16px auto;
 
-text-align: center;
-
 }
 
 .image-wrapper {
