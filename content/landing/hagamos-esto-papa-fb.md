@@ -9,48 +9,6 @@ url: "/hagamos-esto-facil/"
 ---
 <style>
 
-p { margin:4rem 0px; text-align:justify; }
-
-.footer-big__overlap { padding-bottom:0px; }
-
-.image-wrapper {
-
-text-align: center;
-
-}
-
-.image-wrapper img {
-
-width: 60%; text-align: center; margin: 40px 0px;
-
-}
-
-@media (max-width: 768px)  {
-
-.image-wrapper img {
-
-width: 100%;
-
-}
-
-.simulator-page__button {
-
-background: #3dade2;
-
-border-radius: 8px;
-
-color: #3dade2;
-
-font-weight: 900;
-
-width: 300px;
-
-padding: 8px;
-
-margin: 16px auto;
-
-}
-
 \#share-buttons img {
 
 width: 35px;
@@ -62,6 +20,60 @@ border: 0;
 box-shadow: 0;
 
 display: inline;
+
+}
+
+.simulator-page__button {
+
+background: #3dade2;
+
+border-radius: 8px;
+
+color: white;
+
+font-weight: 900;
+
+width: 300px;
+
+padding: 8px;
+
+margin: 16px auto;
+
+}
+
+p {
+
+margin:4rem 0px;
+
+text-align:justify;
+
+}
+
+.footer-big__overlap { padding-bottom:0px; }
+
+.image-wrapper {
+
+text-align: center;
+
+}
+
+.image-wrapper img {
+
+width: 100%;
+
+text-align:
+
+center;
+
+margin: 60px 0px;
+
+}
+
+@media (max-width: 768px)  {
+
+.image-wrapper img {
+
+width: 100%;
 
 }
 
