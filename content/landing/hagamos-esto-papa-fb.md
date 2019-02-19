@@ -33,6 +33,24 @@ width: 100%;
 
 }
 
+.simulator-page__button {
+
+background: #3dade2;
+
+border-radius: 8px;
+
+color: white;
+
+font-weight: 900;
+
+width: 300px;
+
+padding: 8px;
+
+margin: 16px auto;
+
+}
+
 }
 
 </style>
@@ -78,4 +96,7 @@ _Algunas personas dicen que algo es papa cuando es fácil._
 _Y nosotros queremos eso, que invertir sea papa._
 
 <p style="text-align:center">
-<a class="simulator-page__button btn btn--secondary" href="https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=awareness&utm_content=hagamos+esto+papa+fb-131#empezar">Empezar</a></p>
+
+<a class="simulator-page__button btn btn--secondary" href="https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=conversion&utm_content=dinosaurios-162#empezar">Descubre tu perfil de inversionista</a>
+
+</p>
