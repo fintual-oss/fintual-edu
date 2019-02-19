@@ -37,7 +37,9 @@ width: 300px;
 
 padding: 8px;
 
-margin: 16px ;
+margin: 16px auto;
+
+white-space: normal;
 
 }
 
