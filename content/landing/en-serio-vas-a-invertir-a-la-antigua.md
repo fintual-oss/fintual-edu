@@ -1,6 +1,6 @@
 ---
 date: 2018-07-08 16:37:29 +0000
-description: Ya no estamos en la época de los dinosaurios.
+description: La manera de invertir en Chile evolucionó.
 image: "/uploads/trex-thumbnail.png"
 title: Una forma simple de invertir bien
 url: "/en-serio-vas-a-invertir-a-la-antigua/"
@@ -173,12 +173,6 @@ También puedes leer el artículo de <a href="http://www.elmercurio.com/Inversi
         <img src="https://simplesharebuttons.com/images/somacro/twitter.png" alt="Twitter" />
     
     </a>
-
-<a href="whatsapp://send?text=Habiendo tantas aplicaciones para pedir comida ¿cómo no existía una que te ayudara a invertir bien tu plata? https://edu.fintual.cl/en-serio-vas-a-invertir-a-la-antigua/" onclick="window.open(this.href, 'whatsappwindow','left=20,top=20,width=600,height=300,toolbar=0,resizable=1'); return false;" >
-
-        <img src="https://edu.fintual.cl//uploads/whatsapp.png" alt="Whatsapp">
-
-</a>
 
 <a href="http://www.linkedin.com/shareArticle?mini=true&url=https://edu.fintual.cl/en-serio-vas-a-invertir-a-la-antigua" onclick="window.open(this.href, 'linkedinwindow','left=20,top=20,width=600,height=300,toolbar=0,resizable=1'); return false;">
 
