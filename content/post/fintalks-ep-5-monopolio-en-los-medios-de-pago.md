@@ -11,7 +11,7 @@ url = "fintalks-5"
 +++
 Esta es la transcripción del quinto episodio de nuestro podcast Fintalks. Lo puedes escuchar en [Spotify](https://open.spotify.com/episode/1YupGWHM8N6otEuwmhYDHW?si=53NGwJV7SyKG7ge-L6HN8Q), [iTunes](https://itunes.apple.com/cl/podcast/fintalks/id1444666203?l=en) y [YouTube](https://www.youtube.com/watch?v=eJJmeqhfTv0).
 
-**00:03 |** Esto es bien increíble porque una cosa es que es algo nuevo, los bancos se asocien para hacer una red, permitir que la gente pague con tarjeta. Pero de ahí a permitirles que las tasas que les cobran al comercio lo negocien en una sola mano es bien especial. 
+**00:03 |** Esto es bien increíble porque una cosa es que es algo nuevo, los bancos se asocien para hacer una red, permitir que la gente pague con tarjeta. Pero de ahí a permitirles que las tasas que les cobran al comercio lo negocien en una sola mano es bien especial.
 
 **00:24 |** Hola a todos bienvenidos a un nuevo capítulo de Fintalks, el podcast de Fintual, estamos muy felices porque ya les habíamos adelantado que teníamos entrevistados de lujo y hoy es el turno de Javier Etcheverry, estamos muy contento de tenerlos acá, estamos con Agustín y Andrés, co-fundadores de Fintual, y vamos a conversar un montón sobre los medios de pago, este monopolio de Transbank del que se habla, Multicaja y que es lo que ha estado pasando últimamente en términos de regulación y los cambios que se vienen en los medios de pago en Chile.
 
@@ -89,7 +89,7 @@ Esta es la transcripción del quinto episodio de nuestro podcast Fintalks. Lo pu
 
 **18:17 |** Se demoró un poco la Swift en dar esa...
 
-**18:19 |**Todo ha sido muy lento, yo no puedo creer como algo tan obvio, Chile es el único país del mundo en que existe este sistema, entonces aquí en Chile todos hablan de la competencia, la innovación, obviamente no puede haber innovación si no hay competencia, ¿dónde ha funcionado?
+\**18:19 |**Todo ha sido muy lento, yo no puedo creer como algo tan obvio, Chile es el único país del mundo en que existe este sistema, entonces aquí en Chile todos hablan de la competencia, la innovación, obviamente no puede haber innovación si no hay competencia, ¿dónde ha funcionado?
 
 **18:37 |** Y es raro porque es una no competencia que está avalada por la Superintendencia de Bancos e instituciones financieras, por el Tribuna de libre competencia, o sea, las instituciones que son independientes y reguladoras permiten que pase algo así. Es por lo menos curioso.
 
