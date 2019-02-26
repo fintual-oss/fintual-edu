@@ -1,10 +1,9 @@
 +++
 date = "2018-07-08T16:37:29+00:00"
 description = "Habiendo tantas páginas para pedir comida, ¿cómo no existía una que te ayudara a invertir bien tu plata?"
-draft = true
 image = "/uploads/posts-fb-2.png"
 title = "Hagamos esto fácil"
-url = "/hagamos-esto-facil/"
+url = "/hagamos-esto-facil-la25/"
 
 +++
 <style>
