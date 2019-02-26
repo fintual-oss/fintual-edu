@@ -33,7 +33,7 @@ text-align: center;
 
 }
 
-p 
+p
 
 {
 
@@ -75,15 +75,11 @@ Habiendo tantas páginas para pedir comida, **¿cómo no existía una que te ayu
 
 En Chile no conocíamos algo que fuera **simple, transparente y barato**.
 
-Lo único que encontramos fueron los depósitos a plazo, pero es **tan poco** **lo que se gana** que no tenía sentido.
+## **100% online**
 
-**Por eso invertir tiene que ser fácil.**
+1\. Responde unas preguntas para medir tu tolerancia al riesgo
 
-## **¿Qué significa fácil?**
-
-1\. Responder unas preguntas para medir tu tolerancia al riesgo
-
-2\. Decidir cuánta plata y durante cuánto tiempo quieres invertir
+2\. Decide cuánta plata y durante cuánto tiempo quieres invertir
 
 3\. Listo.
 
@@ -93,23 +89,17 @@ Lo único que encontramos fueron los depósitos a plazo, pero es **tan poco** **
 
 </div>
 
-¿Es broma?
-
-No, no es broma.
-
 **¿Quieres partir poniendo poca plata?** Puedes hacerlo, no hay montos mínimos.
 
 **¿Quieres sacar tu plata antes?** Obvio. Y no hay costos adicionales por hacerlo.
 
-**¿Es seguro?** Fintual es una institución financiera regulada.
+## **¿Es seguro?** 
 
-Cool pero regulada.
+Fintual es una institución financiera regulada. Cool pero regulada.
 
-La Comisión para el Mercado Financiero vigila que cumplamos con la ley. Puedes ver nuestro registro en la CMF <a href="http://www.cmfchile.cl/institucional/mercados/entidad.php?auth=&send=&mercado=V&rut=76810627&grupo=&tipoentidad=RGAGF&vig=VI&row=AAAwy2ACTAAAB4AAAP&control=svs&pestania=1" target="_blank">aquí</a>
+La **Comisión para el Mercado Financiero** vigila que cumplamos con la ley. Puedes ver nuestro registro en la CMF <a href="http://www.cmfchile.cl/institucional/mercados/entidad.php?auth=&send=&mercado=V&rut=76810627&grupo=&tipoentidad=RGAGF&vig=VI&row=AAAwy2ACTAAAB4AAAP&control=svs&pestania=1" target="_blank">aquí</a>
 
-Algunas personas dicen que algo es papa cuando es fácil.
-
-Y nosotros queremos eso, que invertir sea papa.
+Algunas personas dicen que algo es papa cuando es fácil. Y nosotros queremos eso, que invertir sea papa.
 
 <p style="text-align:center">
 
