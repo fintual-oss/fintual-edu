@@ -73,8 +73,6 @@ width: 100%;
 
 Habiendo tantas páginas para pedir comida, **¿cómo no existía una que te ayudara a invertir bien tu plata?**
 
-En Chile no conocíamos algo que fuera **simple, transparente y barato**.
-
 ## **100% online**
 
 1\. Responde unas preguntas para medir tu tolerancia al riesgo
@@ -89,15 +87,15 @@ En Chile no conocíamos algo que fuera **simple, transparente y barato**.
 
 </div>
 
-**¿Quieres partir poniendo poca plata?** Puedes hacerlo, no hay montos mínimos.
+**¿Quieres partir poniendo poca plata?** Puedes. No hay montos mínimos.
 
-**¿Quieres sacar tu plata antes?** Obvio. Y no hay costos adicionales por hacerlo.
+**¿Quieres sacar tu plata?** Cuando quieras. Sin costos adicionales.
 
 ## **¿Es seguro?** 
 
-Fintual es una institución financiera regulada. Cool pero regulada.
+Somos una institución financiera regulada. Cool pero regulada.
 
-La **Comisión para el Mercado Financiero** vigila que cumplamos con la ley. Puedes ver nuestro registro en la CMF <a href="http://www.cmfchile.cl/institucional/mercados/entidad.php?auth=&send=&mercado=V&rut=76810627&grupo=&tipoentidad=RGAGF&vig=VI&row=AAAwy2ACTAAAB4AAAP&control=svs&pestania=1" target="_blank">aquí</a>
+La **Comisión para el Mercado Financiero** vigila que cumplamos con la ley. Mira nuestro registro <a href="http://www.cmfchile.cl/institucional/mercados/entidad.php?auth=&send=&mercado=V&rut=76810627&grupo=&tipoentidad=RGAGF&vig=VI&row=AAAwy2ACTAAAB4AAAP&control=svs&pestania=1" target="_blank">aquí</a>
 
 Algunas personas dicen que algo es papa cuando es fácil. Nosotros queremos eso, que invertir sea papa.
 
