@@ -117,6 +117,6 @@ La **Comisión para el Mercado Financiero** vigila que cumplamos con la ley. Pue
 
 <p style="text-align:center">
 
-<a class="simulator-page__button btn btn--secondary" href="https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=cpc&utm_campaign=awareness&utm_content=landing+hagamos+esto+facil-203#empezar">Descubre gratis tu perfil de inversionista</a>
+<a class="simulator-page__button btn btn--secondary" href="https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=cpc&utm_campaign=awareness&utm_content=landing+hagamos+esto+facil-203#empezar">Proyecta gratis tu inversión</a>
 
 </p>
