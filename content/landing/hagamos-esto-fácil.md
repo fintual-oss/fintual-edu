@@ -2,7 +2,7 @@
 date = "2018-07-08T16:37:29+00:00"
 description = "Las ambiciones y proyectos de Fintual, Cryptomarket y Crypto Legacy."
 image = "/uploads/posts-fb-3.png"
-title = "Las tres fintech chilenas que prometen revolucionar el mercado"
+title = "La competencia de los fondos mutuos tradicionales"
 url = "/las-tres-fintech-chilenas/"
 
 +++
@@ -32,7 +32,7 @@ text-align: center;
 
 }
 
-p 
+p
 
 {
 
@@ -70,10 +70,8 @@ width: 100%;
 
 </style>
 
-## La competencia de los fondos mutuos tradicionales
-
-_La Tercera.   
-19/02/2019_
+_19 de febrero del 2019  
+Fuente: La Tercera._
 
 Dos primeros lugares de su generación en ingeniería de la Universidad de Chile, Omar Larré y Andrés Marinkovic; además del ingeniero civil industrial, astrónomo y geofísico de la Universidad de Chile, Pedro Pineda, y el ingeniero civil industrial PUC experto en tecnologías de la información, Agustín Feuerhake, se unieron para crear la administradora general de fondos Fintual, que busca democratizar las inversiones bursátiles con menores comisiones y donde compiten con los fondos mutuos tradicionales.
 
@@ -89,13 +87,17 @@ Los socios aspiran a cosas grandes. Ya abrieron oficina en México y esperan hac
 
 <div class="image-wrapper">
 
-<img src="/uploads/COMBINATOR.png" alt="COMBINATOR">
+<img src="/uploads/COMBINATOR.jpeg" alt="COMBINATOR">
 
 </div>
 
-_(Fuente: La Tercera. Lee la noticia completa_ [_aquí_](https://www.latercera.com/pulso/noticia/las-tres-fintech-chilenas-prometen-revolucionar-al-mercado/ "La Tercera")_)_
+_(Noticia completa_ [_aquí_](https://www.latercera.com/pulso/noticia/las-tres-fintech-chilenas-prometen-revolucionar-al-mercado/ "La Tercera")_)_
+
+<p align="center">
 
 ## Habiendo tantas páginas para pedir comida, **¿cómo no existía una que te ayudara a invertir bien tu plata?**
+
+</p>
 
 En Chile no conocíamos algo que fuera **simple, transparente y barato**.
 
@@ -107,19 +109,15 @@ En Chile no conocíamos algo que fuera **simple, transparente y barato**.
 
 3\. Listo.
 
-**¿Quieres partir poniendo poca plata?** 
+**¿Quieres partir poniendo poca plata?** Puedes hacerlo, no hay montos mínimos.
 
-Puedes hacerlo, no hay montos mínimos.
+**¿Quieres sacar tu plata antes?** Obvio, y no hay costos adicionales por hacerlo.
 
-**¿Quieres sacar tu plata antes?** 
-
-Obvio, y no hay costos adicionales por hacerlo.
-
-## ¿Es seguro? 
+## ¿Es seguro?
 
 Fintual es una institución financiera regulada. Cool pero regulada.
 
-La Comisión para el Mercado Financiero vigila que cumplamos con la ley. Puedes ver nuestro registro en la CMF <a href="http://www.cmfchile.cl/institucional/mercados/entidad.php?auth=&send=&mercado=V&rut=76810627&grupo=&tipoentidad=RGAGF&vig=VI&row=AAAwy2ACTAAAB4AAAP&control=svs&pestania=1" target="_blank">aquí</a>
+La **Comisión para el Mercado Financiero** vigila que cumplamos con la ley. Puedes ver nuestro registro en la CMF <a href="http://www.cmfchile.cl/institucional/mercados/entidad.php?auth=&send=&mercado=V&rut=76810627&grupo=&tipoentidad=RGAGF&vig=VI&row=AAAwy2ACTAAAB4AAAP&control=svs&pestania=1" target="_blank">aquí</a>
 
 <p style="text-align:center">
 
