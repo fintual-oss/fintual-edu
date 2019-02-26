@@ -99,10 +99,10 @@ Fintual es una institución financiera regulada. Cool pero regulada.
 
 La **Comisión para el Mercado Financiero** vigila que cumplamos con la ley. Puedes ver nuestro registro en la CMF <a href="http://www.cmfchile.cl/institucional/mercados/entidad.php?auth=&send=&mercado=V&rut=76810627&grupo=&tipoentidad=RGAGF&vig=VI&row=AAAwy2ACTAAAB4AAAP&control=svs&pestania=1" target="_blank">aquí</a>
 
-Algunas personas dicen que algo es papa cuando es fácil. Y nosotros queremos eso, que invertir sea papa.
+Algunas personas dicen que algo es papa cuando es fácil. Nosotros queremos eso, que invertir sea papa.
 
 <p style="text-align:center">
 
-<a class="simulator-page__button btn btn--secondary" href="https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=cpc&utm_campaign=awareness&utm_content=landing+hagamos+esto+facil-203#empezar">Descubre tu perfil de inversionista</a>
+<a class="simulator-page__button btn btn--secondary" href="https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=cpc&utm_campaign=awareness&utm_content=landing+hagamos+esto+facil-203#empezar">Proyecta gratis tu inversión</a>
 
 </p>
