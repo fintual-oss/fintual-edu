@@ -93,11 +93,7 @@ Los socios aspiran a cosas grandes. Ya abrieron oficina en México y esperan hac
 
 _(Noticia completa_ [_aquí_](https://www.latercera.com/pulso/noticia/las-tres-fintech-chilenas-prometen-revolucionar-al-mercado/ "La Tercera")_)_
 
-<p align="center">
-
 ## Habiendo tantas páginas para pedir comida, **¿cómo no existía una que te ayudara a invertir bien tu plata?**
-
-</p>
 
 En Chile no conocíamos algo que fuera **simple, transparente y barato**.
 
