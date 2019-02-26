@@ -117,6 +117,6 @@ La **Comisión para el Mercado Financiero** vigila que cumplamos con la ley. Pue
 
 <p style="text-align:center">
 
-<a class="simulator-page__button btn btn--secondary" href="https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=cpc&utm_campaign=consideration&utm_content=pulso+la+tercera+las+tres+fintech+chilenas+empezar-208#empezar">Proyecta gratis tu inversión</a>
+<a class="simulator-page__button btn btn--secondary" href="https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=cpc&utm_campaign=consideration&utm_content=pulso+la+tercera+las+tres+fintech+chilenas+empezar-209#empezar">Proyecta gratis tu inversión</a>
 
 </p>
