@@ -1,6 +1,6 @@
 +++
 date = "2018-07-08T16:37:29+00:00"
-description = "Las ambiciones y proyectos de Fintual, Cryptomarket y Crypto Legacy."
+description = "Las ambiciones y proyectos de Fintual."
 image = "/uploads/posts-fb-3.png"
 title = "La competencia de los fondos mutuos tradicionales"
 url = "/las-tres-fintech-chilenas/"
