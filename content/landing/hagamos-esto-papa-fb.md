@@ -9,20 +9,6 @@ url: "/hagamos-esto-facil/"
 ---
 <style>
 
-\#share-buttons img {
-
-width: 35px;
-
-padding: 5px;
-
-border: 0;
-
-box-shadow: 0;
-
-display: inline;
-
-}
-
 .simulator-page__button {
 
 background: #3dade2;
@@ -47,7 +33,9 @@ text-align: center;
 
 }
 
-p {
+p 
+
+{
 
 margin:4rem 0px;
 
