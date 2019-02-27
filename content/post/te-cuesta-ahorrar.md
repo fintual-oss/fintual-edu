@@ -17,7 +17,7 @@ Antes que todo, pregúntate ¿cuánto eres realmente capaz de ahorrar?
 
 Saca la calculadora y suma todos los gastos que son indispensables, como el arriendo o crédito hipotecario, los gastos comunes, las cuentas de agua, gas y luz, la alimentación, transporte, etc.
 
-##### Ahora la parte difícil, ¿cuáles son los gastos que no te dejan ahorrar?
+Ahora la parte difícil, ¿cuáles son los gastos que no te dejan ahorrar?
 
 Te voy a dar un par de ejemplos:
 
