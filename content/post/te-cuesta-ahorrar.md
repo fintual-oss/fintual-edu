@@ -9,7 +9,6 @@ title = "¿Te cuesta ahorrar?"
 url = "te-cuesta-ahorrar"
 
 +++
-
 Cuando se tiene un sueldo medianamente bajo parece casi imposible ahorrar. Y aunque puede ser difícil, no es imposible. Es cosa de organizarse y ser constante.
 
 Tampoco se trata de no gozar las lucas que con tanto esfuerzo te ganas mes a mes, pero sí de crear un hábito de ahorro que sin duda te beneficiará a futuro.
@@ -18,7 +17,7 @@ Antes que todo, pregúntate ¿cuánto eres realmente capaz de ahorrar?
 
 Saca la calculadora y suma todos los gastos que son indispensables, como el arriendo o crédito hipotecario, los gastos comunes, las cuentas de agua, gas y luz, la alimentación, transporte, etc.
 
-Ahora la parte difícil, ¿cuáles son los gastos que no te dejan ahorrar?
+##### Ahora la parte difícil, ¿cuáles son los gastos que no te dejan ahorrar?
 
 Te voy a dar un par de ejemplos:
 
