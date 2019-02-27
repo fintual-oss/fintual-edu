@@ -37,7 +37,7 @@ Las salidas demasiado frecuentes a restaurantes, cine o conciertos también jueg
 
 En fin, sea cual sea la meta por la que estás ahorrando, no basta con guardar la plata bajo el colchón, sin duda quieres que tus ahorros crezcan y para esto la única manera es invirtiendo. Una buena opción es [Fintual]().
 
-¿Y tú, qué le agregarías a la lista?
+**¿Y tú, qué le agregarías a la lista?**
 
 1\. Chao con el tv cable
 
