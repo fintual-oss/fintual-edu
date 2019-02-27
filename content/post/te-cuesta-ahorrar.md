@@ -23,7 +23,7 @@ Te voy a dar un par de ejemplos:
 
 Pagar por canales de tv cable que ni siquiera ves, salir para todos lados en auto, tener un plan celular caro y no usar ni la mitad de los minutos, comprar de manera impulsiva algo que no necesitas, pedir demasiada comida a domicilio y la lista podría seguir.
 
-¿Qué pasaría si, en lugar de pagar por tener tv cable, teléfono fijo e internet, sólo pagas por éste último? Estarías ahorrando alrededor de 20 lucas mensuales ($240.000 al año). Al final de cuentas, con internet y un computador puedes ver casi cualquier canal y tener una cuenta de Netflix para ver pelis y series.
+¿Qué pasaría si, en lugar de pagar por tener tv cable, teléfono fijo e internet, solo pagas por este último? Estarías ahorrando alrededor de 20 lucas mensuales ($240.000 al año). Al final de cuentas, con internet y un computador puedes ver casi cualquier canal y tener una cuenta de Netflix para ver pelis y series.
 
 ¿Y si en vez de salir en auto, pagar por bencina y más encima estacionamiento, caminas, sacas la bici o usas el transporte público? Obviamente a veces es necesario, pero en la mayoría de los casos es por pura comodidad o simplemente flojera. Haz la prueba un mes y calcula cuánto es lo que te ahorras.
 
