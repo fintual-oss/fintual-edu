@@ -35,7 +35,7 @@ Si eres de los que no aguantan la tentación cuando hacen las compras, piensa en
 
 Las salidas demasiado frecuentes a restaurantes, cine o conciertos también juegan en contra el ahorro. No se trata de quedarse en casa, pero hay varias alternativas que pueden ser más económicas, por ejemplo, los eventos gratuitos que ofrecen las municipalidades o centros culturales o por qué no un picnic en el parque.
 
-En fin, sea cual sea la meta por la que estás ahorrando, no basta con guardar la plata bajo el colchón, sin duda quieres que tus ahorros crezcan y para esto la única manera es invirtiendo. Una buena opción es [Fintual]().
+En fin, sea cual sea la meta por la que estás ahorrando, no basta con guardar la plata bajo el colchón, sin duda quieres que tus ahorros crezcan y para esto la única manera es invirtiendo. Una buena opción es [Fintual](https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=consideration&utm_content=te+cuesta+ahorrar-217#empezar).
 
 **¿Y tú, qué le agregarías a la lista?**
 
