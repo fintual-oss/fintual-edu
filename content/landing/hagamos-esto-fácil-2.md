@@ -1,10 +1,9 @@
 +++
 date = "2018-07-08T16:37:29+00:00"
 description = "Habiendo tantas páginas para pedir comida, ¿cómo no existía una que te ayudara a invertir bien tu plata?"
-draft = true
 image = "/uploads/posts-fb-2.png"
 title = "Hagamos esto fácil"
-url = "/hagamos-esto-facil/"
+url = "/hagamos-esto-facil-la1c/"
 
 +++
 <style>
@@ -101,6 +100,6 @@ Algunas personas dicen que algo es papa cuando es fácil. Nosotros queremos eso,
 
 <p style="text-align:center">
 
-<a class="simulator-page__button btn btn--secondary" href="https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=cpc&utm_campaign=awareness&utm_content=landing+hagamos+esto+facil-203#empezar">Proyecta gratis tu inversión</a>
+<a class="simulator-page__button btn btn--secondary" href="https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=consideration&utm_content=aud-la1m-empezar-220#empezar">Proyecta gratis tu inversión</a>
 
 </p>
