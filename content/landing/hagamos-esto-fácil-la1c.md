@@ -100,6 +100,6 @@ Algunas personas dicen que algo es papa cuando es fácil. Nosotros queremos eso,
 
 <p style="text-align:center">
 
-<a class="simulator-page__button btn btn--secondary" href="https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=consideration&utm_content=aud-la1m-empezar-220#empezar">Proyecta gratis tu inversión</a>
+<a class="simulator-page__button btn btn--secondary" href="https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=cpc&utm_campaign=consideration&utm_content=aud-la1m-empezar-220#empezar">Proyecta gratis tu inversión</a>
 
 </p>
