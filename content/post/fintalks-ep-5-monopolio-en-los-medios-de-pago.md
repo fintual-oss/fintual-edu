@@ -89,7 +89,7 @@ Esta es la transcripción del quinto episodio de nuestro podcast Fintalks. Lo pu
 
 **18:17 |** Se demoró un poco la Swift en dar esa...
 
-\**18:19 |**Todo ha sido muy lento, yo no puedo creer como algo tan obvio, Chile es el único país del mundo en que existe este sistema, entonces aquí en Chile todos hablan de la competencia, la innovación, obviamente no puede haber innovación si no hay competencia, ¿dónde ha funcionado?
+**18:19 |** Todo ha sido muy lento, yo no puedo creer como algo tan obvio, Chile es el único país del mundo en que existe este sistema, entonces aquí en Chile todos hablan de la competencia, la innovación, obviamente no puede haber innovación si no hay competencia, ¿dónde ha funcionado?
 
 **18:37 |** Y es raro porque es una no competencia que está avalada por la Superintendencia de Bancos e instituciones financieras, por el Tribuna de libre competencia, o sea, las instituciones que son independientes y reguladoras permiten que pase algo así. Es por lo menos curioso.
 
@@ -153,7 +153,7 @@ Esta es la transcripción del quinto episodio de nuestro podcast Fintalks. Lo pu
 
 **34:54 |** ¿Por qué dices tú eso? ¿Tú sabes por qué hay transacciones en línea en Chile?
 
-**35:00** | No tengo la menor idea
+**35:00 |** No tengo la menor idea
 
 **35:03 |** Yo te voy a dar un dato más que teoría, Gustavo Arriagada que era superintendente de bancos le dio la orden a los bancos que tenían que interconectarse y que tenía que ser gratuito, y les dio un plazo para que sus sistemas interactúen **(maravilloso)**
 
@@ -163,7 +163,7 @@ Esta es la transcripción del quinto episodio de nuestro podcast Fintalks. Lo pu
 
 **36:00 |** Eso fue con Bachelet uno (cacha no hace tanto tiempo), o sea, entonces hay autoridades que, si se la han jugado y por Dios que se nota la diferencia, imagínate lo maravilloso que es para nosotros que estamos acostumbrados, lo encontrábamos obvio, que es casi como respirar que uno pueda hacer transacciones en línea
 
-36:24 | Se pasó y es gracias a una orden **(bueno por algo es un regulador, o sea, él tiene la autoridad para decirles a los bancos)**
+**36:24 |** Se pasó y es gracias a una orden **(bueno por algo es un regulador, o sea, él tiene la autoridad para decirles a los bancos)**
 
 **36:33 |** Eso, y tu creí que la gente que está haciendo declaraciones por internet es porque se juntaron todos los chilenos que querían declaraciones por internet (risas) no, yo era director y los obligue, y me acusaron los abogados, los contadores, estaban todos furiosos, estaban todos furiosos la cantidad de líos pero la autoridad los obligó, y mira, o sea, ahora todo el mundo está feliz con el sistema de declaración por internet y porque le hagan sus declaraciones y todas esas cosas todos están feliz, pero al principio fue una orden de la autoridad que yo di, o sea, las autoridades tienen que actuar.
 
