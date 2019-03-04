@@ -28,7 +28,7 @@ Como en Fintual se viene el APV, en el segundo capítulo de Fintalks quisimos ha
 
 **01:20 |** Básicamente el APV es una bonificación que te hace el Estado, el Estado quiere que ahorri más y te regala plata, así yo lo entiendo.
 
-**01:28|**  Sipo como conceptualmente al final lo que hablamos el capítulo pasado tiene harto sentido, o sea, harta relación porque hay que ahorrar más que lo que te obligan las AFP en la ley previsional.
+**01:28 |**  Sipo como conceptualmente al final lo que hablamos el capítulo pasado tiene harto sentido, o sea, harta relación porque hay que ahorrar más que lo que te obligan las AFP en la ley previsional.
 
 **01:39 |** Claro, y el APV está pensado para la jubilación no para otro tipo de ahorro, porque si es que uno saca la plata antes del plazo en que uno se jubilaría uno pierde el beneficio.
 
@@ -80,7 +80,7 @@ Como en Fintual se viene el APV, en el segundo capítulo de Fintalks quisimos ha
 
 **05:00 |** Claro, pero lo que decía Agustín antes sobre las series, porque nuestros tres fondos, Risky Norris, Moderate Pitt, Conservative Clooney, tienen ahora solo una serie, serie única. ¿Después van a tener una serie APV?
 
-**05:14 |(exactamente)**esa es la idea **(¿y cuánto va a cobrar?)**
+**05:14 |(exactamente)** esa es la idea **(¿y cuánto va a cobrar?)**
 
 **05:16 |** Va a cobrar redobles de tambores (ruido) no sabemos...pero menos
 
@@ -100,7 +100,7 @@ Como en Fintual se viene el APV, en el segundo capítulo de Fintalks quisimos ha
 
 **06:08 |** Oye, ahora hablamos solamente del régimen A, pero también hay un régimen B en el APV, que está destinado más para sueldos más altos, es súper útil, o sea, para que tenga una idea, para alguien que gana harta plata, digamos tres millones hacía arriba es la gran forma de ahorrar porque te permite rebajar de tu base imponible lo que estás ahorrando, entonces alguien que más o menos la regla es que para alguien que gana bajo un millón y medio, que se quede en el régimen A.
 
-**06:43 |**  O sea, igual podríamos explicar un poco mejor eso, uno dependiendo de cuánta plata gane al año va pagando un porcentaje de impuesto sobre esa plata (claro)
+**06:43 |** O sea, igual podríamos explicar un poco mejor eso, uno dependiendo de cuánta plata gane al año va pagando un porcentaje de impuesto sobre esa plata (claro)
 
 **06:52 |** Sobre la última plata que gano, igual esa parte es bien clave **(claro)**
 
@@ -144,7 +144,7 @@ Como en Fintual se viene el APV, en el segundo capítulo de Fintalks quisimos ha
 
 **10:28 |** Oye, a mí me ha tocado que me han tratado de vender esos seguros con ahorro y nada, al tiro huelo algo raro no sé.
 
-**10:38 |**  O sea, yo caí en el seguro con ahorro **(¿en serio?)**sí yo caí en la trampa del seguro con ahorro, porque hace mucho tiempo cuando digamos 4 años atrás, cuando trabajaba como empleado en una institución bancaria llegaba esta ejecutiva a venderme este producto **(¿era muy estupenda que caíste tan redondo?)** un poco (risas) y llega y me empieza a contar y yo no muy sorprendido porque simplemente es un seguro más un ahorro, entonces porque me tengo que sorprender porque me vendan un pack, es como que te vendan un pack de telefonía con internet. No es tan sorprendente, pero déjame un segundo, es que en algún momento empiezan a pasar cosas sorprendentes, que por ejemplo te empiezan a vender que el producto no paga impuestos **(¿eso te dicen?)**sí poh te dicen que no paga ningún tipo de impuesto y porque entra la póliza del seguro y que además si te mueres en el caso que mueras tampoco pagas impuesto a la herencia, entonces yo ahí mágicamente pasa de ser un producto común y corriente a algo muy mágico que te permite ahorrarte todos los impuestos que había que cobrar, lo cual resulta ser que no es tan cierto porque el año pasado el 2017, el servicio de impuestos internos llama a consulta a todas estas compañías de seguro y les dice por qué están vendiéndolo como si fuera sin impuesto porque esto corresponde pagar impuesto, tanto impuesto a la herencia si es que te mueres en la parte del ahorro como el impuesto a las ganancias....
+**10:38 |** O sea, yo caí en el seguro con ahorro **(¿en serio?)**sí yo caí en la trampa del seguro con ahorro, porque hace mucho tiempo cuando digamos 4 años atrás, cuando trabajaba como empleado en una institución bancaria llegaba esta ejecutiva a venderme este producto **(¿era muy estupenda que caíste tan redondo?)** un poco (risas) y llega y me empieza a contar y yo no muy sorprendido porque simplemente es un seguro más un ahorro, entonces porque me tengo que sorprender porque me vendan un pack, es como que te vendan un pack de telefonía con internet. No es tan sorprendente, pero déjame un segundo, es que en algún momento empiezan a pasar cosas sorprendentes, que por ejemplo te empiezan a vender que el producto no paga impuestos **(¿eso te dicen?)**sí poh te dicen que no paga ningún tipo de impuesto y porque entra la póliza del seguro y que además si te mueres en el caso que mueras tampoco pagas impuesto a la herencia, entonces yo ahí mágicamente pasa de ser un producto común y corriente a algo muy mágico que te permite ahorrarte todos los impuestos que había que cobrar, lo cual resulta ser que no es tan cierto porque el año pasado el 2017, el servicio de impuestos internos llama a consulta a todas estas compañías de seguro y les dice por qué están vendiéndolo como si fuera sin impuesto porque esto corresponde pagar impuesto, tanto impuesto a la herencia si es que te mueres en la parte del ahorro como el impuesto a las ganancias....
 
 **12:21 |** O sea, esto era como un producto nuevo y los ejecutivos salieron a vender, así como oye esta custion no paga impuesto y empezaron a crear realidad y después...
 
