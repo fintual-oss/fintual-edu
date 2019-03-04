@@ -6,7 +6,7 @@ date = "2018-12-03T03:00:00+00:00"
 description = "¿Cómo se hacen las predicciones de mercado? ¿En cuánto va a estar el dólar la próxima semana? Nosotros creemos que no se puede ver el futuro."
 image = "/uploads/fntlk.png"
 title = "Fintalks. Ep 4: Proyecciones de mercado"
-url = "fintalks-4"
+url = "/fintalks-4"
 
 +++
 Esta es la transcripción del cuarto episodio de nuestro podcast Fintalks.  
