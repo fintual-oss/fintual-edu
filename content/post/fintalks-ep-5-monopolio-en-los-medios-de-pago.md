@@ -6,7 +6,7 @@ date = "2018-12-18T03:00:00+00:00"
 description = "Invitamos a Javier Etcheberry a hablar sobre los medios de pago, Multicaja y el supuesto monopolio de Transbank."
 image = "https://edu.fintual.cl/uploads/fntlk.png"
 title = "Fintalks. Ep 5: ¿Monopolio en los medios de pago?"
-url = "fintalks-5"
+url = "/fintalks-5"
 
 +++
 Esta es la transcripción del quinto episodio de nuestro podcast Fintalks. Lo puedes escuchar en [Spotify](https://open.spotify.com/episode/1YupGWHM8N6otEuwmhYDHW?si=53NGwJV7SyKG7ge-L6HN8Q), [iTunes](https://itunes.apple.com/cl/podcast/fintalks/id1444666203?l=en) y [YouTube](https://www.youtube.com/watch?v=eJJmeqhfTv0).
