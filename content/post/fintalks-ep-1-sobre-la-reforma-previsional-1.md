@@ -26,7 +26,7 @@ Mucha gente nos pregunta qué hacer con su inversión después de una semana de 
 
 **01:58 |(Claro)** o sea que asumiste la pérdida...
 
-**02:02 |La filosofía acá es que es súper pelúo en general cachar cuál es el momento correcto para hacer cualquier cosa, ya sea vender o comprar, y la razón es que nadie te dice, es que en verdad nadie sabe cómo qué le va a pasar al mercado dentro de los próximos...**(meses o semanas o 5 minutos)
+**02:02 |** La filosofía acá es que es súper pelúo en general cachar cuál es el momento correcto para hacer cualquier cosa, ya sea vender o comprar, y la razón es que nadie te dice, es que en verdad nadie sabe cómo qué le va a pasar al mercado dentro de los próximos...**(meses o semanas o 5 minutos)
 
 **02:21 |** Pero es típico que uno como que espera que el asesor financiero le diga poh, o sea, la gente como que espera eso, de arrepente preguntan oye tu crei que van a seguir bajando las acciones.
 
@@ -44,7 +44,7 @@ Mucha gente nos pregunta qué hacer con su inversión después de una semana de 
 
 **04:17 |** Lo otro que hay que entender es que también el mercado, o sea, como que no tiene mucho sentido hablar del mercado, porque al mercado ahora le va bien en general en promedio y eso es algo que uno como que no cacha mucho cuando parte, pero es que el mercado, o sea, uno siempre que este invertido está en el fondo en promedio ganando el promedio del mercado, de lo que renta en un año, que es no sé Omar si me podi decir más o menos el IPSA, por ejemplo cuánto renta en promedio en un año.
 
-**04:45 |Depende digamos de cuando tu tomai las ventanas de**... (pero por ejemplo de los últimos 10 años cuál ha sido el promedio del IPSA) Nominal en los últimos 10 años debe haber estado alrededor del.…7 por ciento.
+**04:45 |** Depende digamos de cuando tu tomai las ventanas de... (pero por ejemplo de los últimos 10 años cuál ha sido el promedio del IPSA) Nominal en los últimos 10 años debe haber estado alrededor del.…7 por ciento.
 
 **04:58 |** Claro, si entonces si es que uno partió invirtiendo hace 10 años y se quedó todo ese tiempo rento en promedio, o sea, es como si todos los años hubiera rentado 7 por ciento de cada uno de esos 10 años. Si es que uno empieza a comprar y vender, puede justo agarrar periodos malos y justo agarrar periodos buenos, pero es muy difícil predecir eso, se vuelve demasiado caótico.
 
@@ -74,7 +74,7 @@ Mucha gente nos pregunta qué hacer con su inversión después de una semana de 
 
 **09:11 |** Aquí no es digamos que no vemos que estamos enfrentando algo terrible, una crisis ni nada, son ajustes que ocurren normalmente en el mercado...
 
-**09:21 |** o sea, es lógico ver dos meses de retornos negativos en acciones en un año que otra cosa.
+**09:21 |** O sea, es lógico ver dos meses de retornos negativos en acciones en un año que otra cosa.
 
 **09:33 |** O sea, yo lo que hago, lo que hago yo personalmente con mis inversiones cuando son de largo plazo, estamos hablando de más de 10 años, es que no las miro todos los días ni todos los meses.
 
