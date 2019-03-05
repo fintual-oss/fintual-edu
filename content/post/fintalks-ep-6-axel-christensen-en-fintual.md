@@ -9,13 +9,13 @@ title = "Fintalks. Ep 6: Axel Christensen en Fintual"
 url = "/fintalks-6"
 
 +++
-Esta es la transcripción del quinto episodio de nuestro podcast Fintalks. Lo puedes escuchar en [Spotify](https://open.spotify.com/episode/3RzozV4RNl5pnbqdGSaEIH?si=zp1L-1LiSj-qZQDm8acFgw), [iTunes](https://itunes.apple.com/cl/podcast/fintalks-ep-6-axel-christensen-en-fintual/id1444666203?i=1000426649233&mt=2) y [YouTube](https://www.youtube.com/watch?v=OQwFSowNaBk).
+Esta es la transcripción del sexto episodio de nuestro podcast Fintalks. Lo puedes escuchar en [Spotify](https://open.spotify.com/episode/3RzozV4RNl5pnbqdGSaEIH?si=zp1L-1LiSj-qZQDm8acFgw), [iTunes](https://itunes.apple.com/cl/podcast/fintalks-ep-6-axel-christensen-en-fintual/id1444666203?i=1000426649233&mt=2) y [YouTube](https://www.youtube.com/watch?v=OQwFSowNaBk).
 
 **00:06 |** Es harto trabajo el seguir indices. Y básicamente la inversión pasiva es un tipo de inversión que te da exposición a distintas clases de activos, renta fija, renta variable, puede ser local, puede ser internacional, pero muy ceñido a un índice diversificado y representativo, más que tratar de apuntarle a que acción o que bono en particular la va a romper, porque eso es muy difícil de hacer y sobre todo de manera persistente en el tiempo.
 
 **00:32 |** Hola hola, bienvenidos a un nuevo episodio de Fintalks, el podcast de Fintual, estamos muy felices porque nuevamente estamos con un invitado espectacular, ya estuvimos la semana pasada con Javier Etcheverry de Multicaja y ahora está con nosotros Axel Christiansen de Black Rock. Hola Axel ¿cómo estás?
 
-**00:49 |** Qué tal Francesca, ¿cómo estás? 
+**00:49 |** Qué tal Francesca, ¿cómo estás?
 
 **00:50 |** Bien, súper bien y estamos también con Agustín, Omar y Pedro, y vamos a estar (risas)
 
@@ -35,11 +35,11 @@ Esta es la transcripción del quinto episodio de nuestro podcast Fintalks. Lo pu
 
 **03:15 |** Perfecto, pero además Axel no sé si la gente cachara o sea una cosa es que trabaje en Black Rock esto es súper bacán, pero tu conversai con cualquier persona del mundo financiero y le deci no es que conversamos con Axel, ah, o sea es un nivel así de reputación...
 
-**03:35 |** Puede ser (Lo hay logrado con buena onda), tengo hartos años en esto así que eso ayuda, y yo también tengo muy buena relación con los periodistas en general, porque me nace hablar de temas, siento un poco, el mundo financiero es bien complicado y a veces es como bien árido entenderlo, y como que me nace de alguna manera tratar de acercarlo, hacerlo más concreto, hacerlo un poquito más amigable porque la verdad no nos damos cuenta, pero pasamos una parte no menor del tiempo tomando decisiones financieras o derrepente deberíamos pensar darles un poco más de cabeza, como que me da risa a veces lo que nos toma para decidir que teléfono nos vamos a comprar y a veces tenemos que tomar decisiones financieras mucho más relevantes y les damos dos segundos porque lo encontramos más complejo, porque además los que estamos en la industria somos buenos para usar términos bien difíciles de entender, entonces, encontramos una cierta vocación en tratar de como acercar esos mundos y hacerlos mucho más cotidianos. 
+**03:35 |** Puede ser (Lo hay logrado con buena onda), tengo hartos años en esto así que eso ayuda, y yo también tengo muy buena relación con los periodistas en general, porque me nace hablar de temas, siento un poco, el mundo financiero es bien complicado y a veces es como bien árido entenderlo, y como que me nace de alguna manera tratar de acercarlo, hacerlo más concreto, hacerlo un poquito más amigable porque la verdad no nos damos cuenta, pero pasamos una parte no menor del tiempo tomando decisiones financieras o derrepente deberíamos pensar darles un poco más de cabeza, como que me da risa a veces lo que nos toma para decidir que teléfono nos vamos a comprar y a veces tenemos que tomar decisiones financieras mucho más relevantes y les damos dos segundos porque lo encontramos más complejo, porque además los que estamos en la industria somos buenos para usar términos bien difíciles de entender, entonces, encontramos una cierta vocación en tratar de como acercar esos mundos y hacerlos mucho más cotidianos.
 
 **04:44 |** Oye y por ejemplo un mundo como que para mí al menos ha estado relativamente nuevo los últimos dos años es toda esta idea de inversión pasiva en el fondo uno cuando piensa en inversión inmediatamente piensa en que tiene que achuntarle a algo.
 
-**05:00 |** Esta la película, esta hollywood con el lobo de Wallstreet (desde afuera uno piensa eso)   
+**05:00 |** Esta la película, esta hollywood con el lobo de Wallstreet (desde afuera uno piensa eso)
 
 **05:06 |** Claro, y lo que hemos descubierto en este tiempo es que la inversión pasiva parece ganarle a la estrategia más activa, ya una noticia del diario financiero que decía que el 91 por ciento de los que invierten activamente, compra, vende, este es el momento para comprar, este es el momento para salir, perdían frente a una inversión pasiva de sigue el índice, sigue el mercado, que es un poquito lo que nosotros queremos hacer también que tenemos como filosofía.
 
@@ -53,7 +53,7 @@ Esta es la transcripción del quinto episodio de nuestro podcast Fintalks. Lo pu
 
 **09:12 |** A ver, buena pregunta, no hay preguntas malas, hay preguntas más difíciles de contestar y otras más fáciles, pero efectivamente (a nosotros siempre nos preguntan eso y siempre decimos no tenemos idea, entonces ahora vamos a decir lo que Axel diga), no soy yo el que lo piensa o lo elabora, yo formo parte de un conjunto relativamente grande, nosotros en Black Rock acabamos de terminar una especie de conferencia en que se juntaron todos las personas relacionadas con inversionistas, hablemos de 100 personas más o menos para que tengan una idea, y tratamos un poco de responder a esa pregunta, y digamos para no latearlos mucho déjame resumirlo como en tres conceptos que sacamos a limpio después de una discusión, que es bien interesante porque es muy difícil llegar a un consenso, siempre van a haber diferencias...
 
-**10:00 |** Y cuánto hay de profecía autocumplida en una cosa así, o sea, si Black Rock como que dice esto va para acá (¿Qué es lo que vamos a hacer?) 
+**10:00 |** Y cuánto hay de profecía autocumplida en una cosa así, o sea, si Black Rock como que dice esto va para acá (¿Qué es lo que vamos a hacer?)
 
 **10:05 |** No necesariamente, somos grandes pero el mercado es mucho más grande que nosotros, hay fuerzas muy importantes de la naturaleza (risas) que más allá de lo que uno piense o no, pueden dirigirte a otro lado, y además nosotros, la verdad que somos administradores y muchas veces actuamos a nombre de lo que nuestros clientes nos dicen, entonces si nuestros clientes en fondos de pensiones o un fondo que es soberano toma la decisión de subirse en algo o bajarse en algo nosotros acatamos nomas, entonces no es que nosotros tengamos una sola visión y todas las lucas para allá, sino que son miles de distintas capas de flujos dependiendo de las directrices o el mandato que tu cliente te da.
 
@@ -81,7 +81,7 @@ Esta es la transcripción del quinto episodio de nuestro podcast Fintalks. Lo pu
 
 **24:27 |** Otra pregunta interesante es que Black Rock tenia empujo harto estar los ETF en la bolsa, pero no prendió mucho la idea
 
-**24:37 |** A nosotros nos encantan los ETF 
+**24:37 |** A nosotros nos encantan los ETF
 
 **24:39 |** Eh si y no, lo que no ha prendido quizás tanto es la inversión directa de la gente, pero los números así lo dicen, la cantidad de usos de ETF que hacen administradores de fondos, por ejemplo, Family Office o cosas así, ha sido muy fuerte.
 
