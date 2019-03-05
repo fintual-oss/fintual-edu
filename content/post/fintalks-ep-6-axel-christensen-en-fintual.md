@@ -10,6 +10,8 @@ title = "Fintalks. Ep 6: Axel Christensen en Fintual"
 url = "/fintalks-6"
 
 +++
+Esta es la transcripción del quinto episodio de nuestro podcast Fintalks. Lo puedes escuchar en [Spotify](https://open.spotify.com/episode/3RzozV4RNl5pnbqdGSaEIH?si=zp1L-1LiSj-qZQDm8acFgw), [iTunes](https://itunes.apple.com/cl/podcast/fintalks-ep-6-axel-christensen-en-fintual/id1444666203?i=1000426649233&mt=2) y [YouTube](https://www.youtube.com/watch?v=OQwFSowNaBk).
+
 **00:06 |** Es harto trabajo el seguir indices. Y básicamente la inversión pasiva es un tipo de inversión que te da exposición a distintas clases de activos, renta fija, renta variable, puede ser local, puede ser internacional, pero muy ceñido a un índice diversificado y representativo, más que tratar de apuntarle a que acción o que bono en particular la va a romper, porque eso es muy difícil de hacer y sobre todo de manera persistente en el tiempo. 
 
 **00:32 |** Hola hola, bienvenidos a un nuevo episodio de Fintalks, el podcast de Fintual, estamos muy felices porque nuevamente estamos con un invitado espectacular, ya estuvimos la semana pasada con Javier Etcheverry de Multicaja y ahora está con nosotros Axel Christiansen de Black Rock. Hola Axel ¿cómo estás?
