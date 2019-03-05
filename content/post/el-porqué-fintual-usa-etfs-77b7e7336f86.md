@@ -1,7 +1,7 @@
 ---
 author: Omar Larré
 author_thumbnail: "/uploads/omar_larre.jpeg"
-title: Porqué Fintual invierte en ETFs
+title: "¿Qué son los ETFs?"
 date: 2018-02-07 00:00:00 +0000
 image: "/uploads/por-que-etf.png"
 categories:
