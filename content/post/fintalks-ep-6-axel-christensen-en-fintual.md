@@ -1,7 +1,7 @@
 +++
 author = "Pedro Pineda"
 author_thumbnail = "/uploads/pedro.png"
-categories = ["podcast"]
+categories = ["podcasts"]
 date = "2018-12-28T03:00:00+00:00"
 description = "Invitamos al Director de Estrategia de Inversiones para América Latina de BlackRock a conversar sobre la situación actual de los mercados y la inversión activa vs pasiva."
 image = "https://edu.fintual.cl/uploads/fntlk.png"
