@@ -144,26 +144,49 @@ Esta es la transcripción del quinto episodio de nuestro podcast Fintalks. Lo pu
 **39:22 |** ¿Los de Game of Thrones los leíste? que al principio los mencionaste, te leíste juego de tronos.
 
 **39:27 |** No, fíjate que no (Cialdini, Robert Cialdini ¿no lo conoces?)
+
 **39:32 |** ¿Quién es ese? no lo cacho (puta weon.../risas)
+
 **39:32 |** Es la misma onda de Vigel Economics y predictivamente irracionales
+
 **39:40 |** Y eso está muy relacionado con las inversiones porque al final los mercados funcionan en función a la expectativa de lo que va a pasar en el futuro, la gente se asusta y vende y cae, la gente cree, me acuerdo el año pasado, cuando salió en primera vuelta Guillier, o sea, si en la primera vuelta Guillier, la bolsa, el IPSA cayo un montón y después cuando salió Piñera subió un montón, y me acuerdo también que hubo una nota en el mercurio del presidente de la bolsa en ese tiempo Camus, que dijo si sale Piñera la bolsa se va a disparar y si no sale se va a caer, y todo el mundo lo critico, como manipulando el mercado, pero eso es verdad, eso pasa, la gente se asusta y dice chuta si sale un presidente de izquierda no le va ir tan bien, voy a vender, y cae, la gente no actúa racionalmente en las inversiones.
+
 **40:25 |** Eso, (hay varios ejemplos) hay un montón de otras cosas a las que los seres humanos pensamos que muchas veces no sé, porque nos va bien en una cierta cosa, tenemos capacidad de seguir yéndonos bien (y aparte nos duele más perder un monto que la felicidad que nos produce ganar ese mismo monto) es que todo ese tipo de cosas son súper relevantes, porque si tú en el fondo los conoces y los manejas bien, entre paréntesis los seres humanos salvo una minúscula porcentaje de personas tenemos muchas dificultades de pensar y sobre todo de actuar en función de lo que son las verdaderas distribuciones probalisticas, generalmente pensamos que tenemos más suerte de la que realmente tenemos (manejamos mejor que el promedio, el 90 por ciento de la gente cree que maneja mejor que el promedio) si uno es capaz de corregir por eso, y por eso en el fondo, volviendo un poco a lo del activo vs pasivo, en el fondo la inversión pasiva es un acto muy humilde de decir mira yo en realidad no le voy a ganar al mercado, yo me voy a tratar de ir al promedio del mercado, y ya con eso voy a estar mejor que en el 50 por ciento y lo voy a tratar de hacer de la manera más eficiente posible y ojala lo más barato posible, y aunque, esto es como casi chuta como pasa, si uno es capaz de hacerlo eso consistentemente, derrepente no te vas a dar ni cuenta que no solo te vas a ganar el 50 por ciento, porque ese 50 por ciento siempre va cambiando, un año tú le ganas al mercado, pero otro año no, entonces en el tiempo irte pegadito a esa referencia de mercado muchas veces te pone en los topten digamos en cuanto desempeño, porque todo el resto subió y bajo y tú te mantuviste constante en el promedio, entonces, eso tiene que ver con respecto a la manera en que tomamos las decisiones, en cómo nos sentimos súper bacanudos porque tuvimos buena suerte.
+
 **42:16 |** Oye y agarrándome con la pregunta que hizo Pedro de cómo estaba el próximo año, de como se venía, entonces, para un inversionista que toma la decisión de ir a inversión pasiva y está pensando en un largo plazo, no tiene que preocuparse tanto de entender todos esos detalles (no tanto).
+
 **42:28 |** Pero yo creo que también, o sea, somos seres humanos, tenemos funciones, y uno de mis primeros jefes me dijo el mundo de inversiones de alguna manera como que tienes que ceñirte a dos como máximas, tienes que comer bien, eso significa que tienes que tener un buen retorno, pero tienes que dormir bien, porque si en el afán de comer bien, estai despierto a las 4 de la mañana viendo oye como se mueve el mercado, tiene que, si eso le gusta fantástico, pero si es una persona que en realidad quiere tener un buen equilibrio, tiene que también incorporar cuanta tolerancia de estómago tengo, no puedo estar de arriba para abajo y tener el estómago dado vuelta digamos porque no tengo esa tolerancia, entonces ahí esta y cada uno sabe cuál es esa combinación, hay gente que le gusta esa adrenalina y a lo mejor está dispuesto más a tomar riesgos y se siente más cómodo digamos con la montaña rusa.
+
 **43:22 |** Claro, pero, aunque uno tenga esa tolerancia y esa adrenalina, imagínate todo el tiempo que dedicai a eso, o sea, uno es inversionista, pero también es persona que trabaja, que tiene una familia, te dedicai demasiado (eso lo hablamos en otro podcast de lo terrible que es ser un trader que traidea más allá de su tolerancia básicamente, se mete en algo así como bien peluo)
+
 **43:41 |** Entonces, eso es reimportante como conocerse a uno mismo y en base a eso, como saben ustedes que fondo como se llama Norris (claro, Risky Norris) Risky Norris cual es más apropiado, es muy a veces personal, a veces tiene que ver con la edad, pero a veces tiene que ver con el patrimonio que uno tiene de antes (o para que lo queri)
+
 **44:05 |** Paso un poco que la gente se empezó a correr un poco la voz de oye parece que Risky Norris la está llevando, en el momento que le estaba yendo muy bien y se empezaron a cambiar, pero nosotros le decíamos no es la idea, no es como que tu teni que seguir y cambiarte al lugar que le está yendo mejor, sino más bien quédate donde...
+
 **44:24 |** Donde te corresponde según tu plazo y según tu objetivo (exactamente)
+
 **44:29 |** Es como manejar mirando el espejo por el retrovisor (exactamente) no tiene sentido.
+
 **44:33 |** Pero es muy difícil quitar esos sesgos, o sea, tenemos que pensar que pasamos de no sé qué se yo, de 10 mil años atrás estábamos en la sabana africana huyendo de los leones, colgando de los árboles y derrepente te hacen pensar distribución de probabilidades, ponerte o no en el caso, olvidarte de tus sesgos, de tus sesgos computacionales que vienen de correr en la sabana derrepente porque llegaste a eso, y tener la frialdad de mente de conservar tus inversiones o tener esta forma estricta de pensar es difícil.
+
 **45:10 |** Si, pero le tengo fe a la tecnología, así como la tecnología nos ha ayudado un poquito, quizás no la digital, pero por ejemplo los refrigeradores y cosas así ha poder tener una alimentación más estable. Antes, viejo encontrábamos comida y nos comíamos todo porque sabíamos cuando íbamos a comer de nuevo, entonces, afortunadamente la agricultura que es una tecnología bien potente, es antigua nomas, pero es muy potente y después la refrigeración nos ayudó a estabilizar nuestros hábitos de alimentos y yo creo que con la inversión puede pasar algo parecido.
+
 **45:42 |** Tu deci que Fintual es como un refrigerador de inversiones (risas)
+
 **45:47 |** Es un nuevo eslogan, saquen cuando quieran. Yo igual veo el refri a cada rato cuando estoy viendo tele.
+
 **45:58 |** Oye una última duda en Black Rock compraron uno de estos robo-advisor, que es lo, tu cachai que es lo que estaban pensando en por qué tenían, por qué querían
+
 **46:07 |** Yo creo que un par de cosas, y hemos comprado varios Fintech no solamente un robo-advisor, sino que también uno que por ejemplo le ayuda a la gente a tomar una decisión súper difícil que es ahorrar en vez de gastar, pero por ejemplo el que dices tú venia precisamente de gente que hacia asesoría de inversiones para gente que era tecnológicamente un poco más educada si tú quieres, que manejaba digamos patrimonio de gente que venia del sector tecnológico, de hecho, y un poco la idea yo diría es doble, primero trajimos un montón de gente muy talentosa que estaba en ese equipo y lo segundo un poco entender bien el mercado, a veces cuando uno es grande y esta como muy amarrado a la manera en que se hacen hoy las cosas, le es difícil visualizar como se vienen las cosas después, entonces traer un equipo que no necesariamente tiene pasado financiero sino más bien tecnológico ayuda a entender mejor los procesos (complementar)
+
 **47:08 |** Bueno, volvimos porque tuvimos un problema, a Agustín se le lleno el disco, así que agradecer a Axel por haber venido para acá.
+
 **47:16 |** Axel te pasaste (si, muchas gracias)
+
 **47:18 |** No, yo realmente me siento en casa con ustedes (risas)
+
 **47:21 |** Tantos minutos que nos distes, te pasaste muchas gracias
+
 **47:28 |** Y muchas gracias a nuestros auditores que nos escuchan siempre (y gracias a todos por la paciencia en el tema técnico, si mi disco estaba a punto de llenarse)
+
 **47:37 |** Bueno que estén muy bien chao (chao, gracias)
