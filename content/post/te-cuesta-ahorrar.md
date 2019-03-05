@@ -6,7 +6,7 @@ date = "2019-02-27T03:00:00+00:00"
 description = "No se trata de no gozar las lucas que con tanto esfuerzo te ganas mes a mes, pero sí de crear un hábito de ahorro que sin duda te beneficiará a futuro."
 image = "https://edu.fintual.cl/uploads/Ahorro.png"
 title = "¿Te cuesta ahorrar?"
-url = "te-cuesta-ahorrar"
+url = "/te-cuesta-ahorrar"
 
 +++
 Cuando se tiene un sueldo medianamente bajo parece casi imposible ahorrar. Y aunque puede ser difícil, no es imposible. Es cosa de organizarse y ser constante.
