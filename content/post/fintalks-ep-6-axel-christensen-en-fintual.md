@@ -10,10 +10,10 @@ title = "Fintalks. Ep 6: Axel Christensen en Fintual"
 url = "/fintalks-6"
 
 +++
+**00:06 |** Es harto trabajo el seguir indices. Y básicamente la inversión pasiva es un tipo de inversión que te da exposición a distintas clases de activos, renta fija, renta variable, puede ser local, puede ser internacional, pero muy ceñido a un índice diversificado y representativo, más que tratar de apuntarle a que acción o que bono en particular la va a romper, porque eso es muy difícil de hacer y sobre todo de manera persistente en el tiempo. 
 
-**00:06 |** Es harto trabajo el seguir indices. Y básicamente la inversión pasiva es un tipo de inversión que te da exposición a distintas clases de activos, renta fija, renta variable, puede ser local, puede ser internacional, pero muy ceñido a un índice diversificado y representativo, más que tratar de apuntarle a que acción o que bono en particular la va a romper, porque eso es muy difícil de hacer y sobre todo de manera persistente en el tiempo. **00:32 |** Hola hola, bienvenidos a un nuevo episodio de Fintalks, el podcast de Fintual, estamos muy felices porque nuevamente estamos con un invitado espectacular, ya estuvimos la semana pasada con Javier Etcheverry de Multicaja y ahora está con nosotros Axel Christiansen de Black Rock. Hola Axel ¿cómo estás?
-**00:49 |** Que tal Francesca, ¿cómo estás?
-**00:50 |** Bien, súper bien y estamos también con Agustín, Omar y Pedro, y vamos a estar (risas)
+**00:32 |** Hola hola, bienvenidos a un nuevo episodio de Fintalks, el podcast de Fintual, estamos muy felices porque nuevamente estamos con un invitado espectacular, ya estuvimos la semana pasada con Javier Etcheverry de Multicaja y ahora está con nosotros Axel Christiansen de Black Rock. Hola Axel ¿cómo estás?
+**00:49 |** Qué tal Francesca, ¿cómo estás? **00:50 |** Bien, súper bien y estamos también con Agustín, Omar y Pedro, y vamos a estar (risas)
 **00:56 |** Bacán que esté Axel acá como que agarro vuelo el Fintalks (risas)
 **01:00 |** Si, nuestro podcast esta de aquí al estrellato
 **01:03 |** O sea, el problema es que nos va a costar encontrar a alguien a quien invitar después (Richard Thaler) claro
