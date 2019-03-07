@@ -7,6 +7,8 @@ title: 'CTM: las Comisiones Te Matan'
 categories:
 - educación financiera
 url: "/ctm-las-comisiones-te-matan/"
+aliases:
+- "/ctm-las-comisiones-te-matan-9aa0c2ffbda0"
 
 ---
 Súper poca gente sabe cuánto paga en comisiones cuando invierte.
