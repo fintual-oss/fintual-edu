@@ -8,6 +8,8 @@ title: Cómo un café menos al día podría darte más de $100.000.000
 categories:
 - educación financiera
 url: "/como-un-cafe-menos-al-dia-podria-darte-mas-de-100mm/"
+aliases:
+- "/cómo-un-café-starbucks-menos-al-día-podría-darte-más-de-100-000-000-57bc70876372"
 
 ---
 Parece una broma pero es cierto.
