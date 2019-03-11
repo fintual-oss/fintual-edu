@@ -5,7 +5,6 @@ author_thumbnail = "/uploads/pedro.png"
 categories = ["podcasts"]
 date = "2019-01-11T03:00:00+00:00"
 description = "Cómo fue la experiencia de quedar en la mayor aceleradora de startups en el mundo, qué aprendió Fintual en su paso por YC y por qué todas las startups deberían postular."
-draft = true
 image = "https://edu.fintual.cl/uploads/fntlk.png"
 title = "Fintalks. Ep 7: Fintual en Y Combinator"
 url = "/fintalks-7"
@@ -231,31 +230,59 @@ Esta es la transcripción del séptimo episodio de nuestro podcast Fintalks. Lo 
 **18:43 |** Yo dije, pero weón que me estai diciendo, me extraño mucho eso, como esta percepción de afuera, es bien rara es como una cosa de Branding que yo no sé manejar muy bien y que no quiero manejarla tampoco como que no sirve de nada al final.
 
 **18:54 |** Sí, esta idealización de alguna gente, o sea, como cuando alguien logra algo como que pasa a categoría. **19:02 |** Claro, porque aparte también hubo harto de suerte encontré, o sea, somos buenos, el equipo es bueno, el producto es bueno, bacán, pero también hay un factor suerte (obvio hay mucho de suerte)
+
 **19:09 |** O sea, si o si hay que postular, si hay un factor suerte si o si (seguro)
+
 **19:14 |** Sobre todo si uno, yo creo que hay como mini criterios así, como si tu teni un cofundador, uno que sea más técnico, tecnológico y otro más de negocios, más metido en el mundo del negocio, puta de todas maneras es como un plus muy grande para Y Combinator, incluso si la idea no es tan perfecta ellos te ayudan a modelarla.
+
 **19:33 |** Y cómo es la mentoría que te hacen allá, te enseñan cosas, te ayudan, te dan ideas, te dicen
+
 **19:38 |** Mira, la verdad es que no es tan intensa, te dejan trabajar, que es cosa muy buena, o sea, una aceleradora que te hace demasiadas clases y como que volver al colegio puede ser perjudicial para un negocio.
+
 **19:52 |** Te desenfoca al final de lo que estai haciendo que es hacer el negocio.
+
 **19:54 |** Partamos porque te pasa la plata, que ahora son 150 mil dólares, y te dicen mira gástala como querai (o sea, no te dicen cómo gastarla) no te dicen rinde cuentas, nada, ya te seleccionamos eres seco, haz lo que querai con la plata.
+
 **20:06 |** Y mucha confianza en qué tú eres el que cacha lo que estai haciendo y al mismo tiempo, mucha disposición a ayudar, o sea, gallos que tienen horas disponibles para ti, entonces eres tú el que tira un poco como de Y Combinator y consigue cosas, no es como que Y Combinator te empuje o te enchufe conocimientos.
+
 **20:22 |** Una de las cosas que me gustó que dijo el cofundador de Airbnb es que si partiera una nueva Startup postularía a Y Combinator, no sé si creerle, pero el argumento que dio me pareció sensato que es veía a Y Combinator como una herramienta y hay gente que ha postulado más de una, ha quedado más de una vez y la segunda vez que queda usa esta herramienta de otra manera, entonces, dije ah claro mientras más seco soy quizás puedo usar mucho mejor algo como Y Combinator, entonces, en ese sentido, es bien valioso, el 80 por ciento de las cosas que enseñan son cosas que cualquier emprendedor chileno que lleve dos años sufriendo ya sabe, algunas como contratar, como despedir, como enfocarse en ventas, son muchas cosas muy standard, pero es verdad que hay un 20 por ciento de cosas que nunca habían pensado, o sea, una reunión en la que nos dijeron como hacemos para que Fintual valga 100 billions. Y nosotros qué onda estos (risas) y entonces, te hacen pensar después de eso la valoración de Fintual quedó mucho más arriba.
+
 **21:20 |** Ahora en mi mente Fintual vale 100 billions
+
 **21:25 |** Pero te hacen cosas contributivas y ejercicios que te van incentivando y te van transformando en un gallo muy enfocado en la ejecución y en hacer bien las cosas y crecer, que es como el enfoque que ellos tienen.
+
 **21:35 |** También usan una técnica un poco como de competencia entre el grupo intergrupal, o sea, de los mismos como compañeros tuyos que te hacen empujar la cuestión y priorizar más que nada, empujar muy fuerte, sobre todo durante el tiempo que estas con ellos, pero YC no se termina con los tres meses, o sea, eso es importante, hay foros, hay posibilidades de citar reuniones vía Skype o ir para allá y juntarse con los gallos de YC
+
 **21:59 |** Y que son súper reales, yo le pregunto a gente de otra Startup que han pasado por YC y les pregunto y les pido ayuda y responden.
+
 **22:07 |** Después ellos también participan de las rondas siguientes, o sea, siguen manteniendo su porcentaje y meten más plata, también...
+
 **22:14 |** Y ustedes como ex alumnos de YC
+
 **22:18 |** Teni ciertos como privilegios como por ejemplo poder contactar a cualquier otro miembro de YC, y obviamente hay una cosa como de apoyo comunitario
+
 **22:26 |** Y, además, podemos ir el día antes del día del inversionista y escuchar todos los speech, porque hay ensayos en el museo de ciencia de Montville que cierran o Palo Alto no me acuerdo, y podemos escuchar todos los speech el día antes que todos los inversionistas y podemos invertir si queremos. Si tuviéramos plata igual (claro / risas). Y eso es bueno, a nosotros nos pasó harto que nos invirtieron, así el día del speech al inversionista ya teníamos plata levantada.
+
 **22:50 |** ¿Qué sería de Fintual ahora si no hubiese ido a Y Combinator?
+
 **22:54 |** Puta, sería injusto weón, esa es la verdad (risas) estaríamos como una Startup chilena tratando de levantar capital, tratando de convencer a no sé qué caballero.
+
 **23:05 |** Sería imposible, como que ahora llegamos y cerramos discard (no se comprende) que antes no hubiésemos cerrado, o sea, en relación con los inversionistas, cuánto vale tu empresa tanto.
+
 **23:14 |** O sea, hay que entender que cuando uno levanta plata, los inversionistas son demasiado como que se siguen, como ovejas, como un rebaño, entonces el hecho que ya haya un inversionista gringo que te puso plata y que además es Y Combinator y que además otros, eso hizo que otros inversionistas gringos te metan plata, hace que en Chile sea demasiado más fácil y tenía una especie de sello de que ok podi invertirla y por último si me equivoco ya me equivoco con todo este grupo y no soy el único que se equivocó.
+
 **23:36 |** Vamos a hacer un capítulo de capital de riesgo, cierto, como para hablar, para ayudar a otras Startup, a cómo levantar quizás o dar datos, o la poquita experiencia que tenemos.
+
 **23:46 |** Me acuerdo que uno de los asistentes al Meetup que hicimos la semana, esta semana, decía que él también había estado en Silicon Valley y le parecía tan distinto el ambiente allá que acá, que allá te obligan y te incitan a soñar muy en grande, aunque no llegues al máximo que te estás proponiendo, pero que acá en Chile es completamente lo opuesto. Es como ojalá esta Startup sobreviva, ojalá no se muera en el camino, y eso creo que es un poco lo que me queda de todo lo que han conversado de su experiencia allá.
+
 **24:14 |** El otro día hablaba con David Basulto de ArchDaily, que encuentro que es un gran emprendedor y hablábamos de eso, de por qué los chilenos son con tanto límite en comparación con los argentinos que están acá al lado. Y me gustó una analogía que hizo, dijo mira nosotros tenemos la cordillera acá, tenemos una pared, un muro y el argentino tiene una pampa sin límites, entonces como que, es una analogía que encuentro bonita, pero me hace sentido, los argentinos no tienen límite, no respetan ninguna regla, ninguna ley digamos, lo cual creo que puede ser muy bueno para el momento de emprender que hay que ir avanzando, rompiendo cosas, versus los chilenos que estamos ahí como protegidos, con miedo a salir de a dónde estamos, como más asustadizos, con sueños pencas, yo creo que ese es el final. En Silicon Valley no son más inteligentes que nosotros, el equipo que tenemos en Fintual está por sobre el promedio de Silicon Valley, el problema es que somos muy cagones, así muy apocados, con sueños muy pequeños, como ya voy a hacer este negocio para el sector ABC1 oriente de Santiago y no piensan en la TAM al tiro, no piensan en México, no piensan en grande. Ok, parte local, pero piensa más en grande, si al final si es buena la idea alguien la va a hacer, por qué no podi ser tú, al final no hay un súper hombre que vaya a hacer algo mejor, necesariamente mucho más capaz que tú.
+
 **25:28 |** Entonces la invitación queda más que abierta a ver si alguien quiere postular a YC y no sabe cómo, no se atreve, Pedro@fintual.com, él va a estar feliz respondiendo esos mails.
+
 **25:38 |** No no (risas) o sea, escríbanme (¿Qué hiciste Francesca?) y yo les puedo pasar links, que encuentro muy buenos que sirvan, ahora si quedan para la entrevista para San Francisco, hagamos vídeoconferencia y programen una entrevista, y este año lo hice tres, o sea, lo hice con muchas Startup, brasileros, israelitas, así que, de Estados Unidos, de Inglaterra, y también chilenos, y simulamos por vídeoconferencia la entrevista, eso es seguro si o si, yo tengo muchas ganas que hayan más Startup chilenas en YC porque creo que es muy bacán la experiencia y que al final nos va a servir a todos que hayan más Startup con este tipo de experiencia y con este, con estas capacidades, le hace muy bien a Chile.
+
 **26:15 |** Sí, así que, mi recomendación para la gente que quiera postular es leerse los ensayos de Paul Graham para entender un poco como piensa Y Combinator y también adaptar un poco, o el equipo tal vez le falta un socio, o no sé, o le sobra uno para tener más probabilidades de éxito.
+
 **26:33 |** Bueno, muchísimas gracias a todos nuestros auditores, por favor bombardeen con mails a Pedro va a ser una venganza personal (risas) por todo el bullying que me hace acá en la oficina. Muchas gracias por escuchar y nos vemos en un próximo episodio de Fintalks (gracias / chao chao ) chao chao.
+
 () Hablante que interrumpe a voz principal
