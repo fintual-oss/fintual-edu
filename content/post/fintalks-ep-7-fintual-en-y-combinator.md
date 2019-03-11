@@ -92,18 +92,32 @@ Esta es la transcripción del séptimo episodio de nuestro podcast Fintalks. Lo 
 
 **07:34 |** Igual es una parte súper pelua para uno que es chileno en la parte en inglés, o sea, es súper fácil parecer tonto en otro idioma (si es verdad) entonces y es difícil parecer inteligente
 
-**07:45 |** Además, parte de como cachan si eri tonto o no es si respondí rápido o no, que en general es una medida medio arbitraria, pero lo ocupan porque te hacen tantas entrevistas que lo tienen que hacer, entonces, cuando es en inglés uno como que se demora un poquito más en responder y ya queda un poquito más como tonto. **08:02 |** Y después de esa entrevista, ¿Qué pasó?
-**08:03 |** A las dos semanas me llegó un mail a mí, me llegan a mi porque como hice la postulación me llegaba un mail decía Pedro por favor agenda una reunión para acá, aquí están las condiciones para los pasajes, y como que no entendí, de hecho, me puse un poco nervioso ahora de nuevo (risas) digo que escribí el peor mail de mi vida, el más tonto, dije perdón no entendí tenemos que ir a San Francisco a la entrevista (risas)  
-**08:26 |** Probablemente un mail automático de Y Combinator, lo más divertido de todo.
+**07:45 |** Además, parte de como cachan si eri tonto o no es si respondí rápido o no, que en general es una medida medio arbitraria, pero lo ocupan porque te hacen tantas entrevistas que lo tienen que hacer, entonces, cuando es en inglés uno como que se demora un poquito más en responder y ya queda un poquito más como tonto. 
+
+**08:02 |** Y después de esa entrevista, ¿Qué pasó?
+
+**08:03 |** A las dos semanas me llegó un mail a mí, me llegan a mí porque como hice la postulación me llegaba un mail decía Pedro por favor agenda una reunión para acá, aquí están las condiciones para los pasajes, y como que no entendí, de hecho, me puse un poco nervioso ahora de nuevo (risas) digo que escribí el peor mail de mi vida, el más tonto, dije perdón no entendí tenemos que ir a San Francisco a la entrevista (risas)   
+
+**8:26 |** Probablemente un mail automático de Y Combinator, lo más divertido de todo.
+
 **08:34 |** Ah sorry perdón por no ser muy claro, sí (risas)
+
 **08:36 |** Y ahí salieron corriendo en círculos
+
 **08:36 |** No, ahí llamé a todo el mundo, era el viernes a las 11 de la noche me acuerdo y claro uno de ustedes estaba en un concierto no sé, me llame a todo el mundo y les conté y compre los pasajes.
-**08:46 |** Si, yo me acuerdo que estaba con muy bajo matripuntos y entonces mi única forma (espérate expliquemos los matripuntos |** Risas) no es necesario, todo el mundo sabe lo que son, estaba con malos malos matripuntos y entonces conversando con la Antonia le dije tenemos un viaje (risas), la voy a invitar a San Francisco, así que la colé de una.
+
+**08:46 |** Sí, yo me acuerdo que estaba con muy bajo matripuntos y entonces mi única forma (espérate expliquemos los matripuntos |** Risas) no es necesario, todo el mundo sabe lo que son. Estaba con malos malos matripuntos y entonces conversando con la Antonia le dije tenemos un viaje (risas), la voy a invitar a San Francisco, así que la colé de una. 
+
 **09:07 |** Y nada fuimos, o sea, yo estaba emocionadísimo no lo podíamos creer y nos fuimos a San Francisco en diciembre del 2017 y eso.
+
 **09:17 |** Sipoh y fue un viaje un poco bueno (hay un post bien divertido que queríamos ponerlo como link acá)
+
 **09:25 |** El Tesla 
+
 **09:25 |** Claro, arrendamos un Tesla
+
 **09:27 |** Hicimos todo lo que no había que hacer en un viaje de entrevistas
+
 **09:30 |** Básicamente hicieron todo mal
 **09:32 |** Fue un paseo
 **09:33 |** Yo creo que pensamos que no íbamos a quedar entonces fue aprovechemos este pasaje gratis y ...
