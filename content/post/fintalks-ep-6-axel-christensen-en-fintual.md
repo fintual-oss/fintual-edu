@@ -1,4 +1,5 @@
 +++
+aliases = []
 author = "Pedro Pineda"
 author_thumbnail = "/uploads/pedro.png"
 categories = ["podcasts"]
@@ -9,7 +10,7 @@ title = "Fintalks. Ep 6: Axel Christensen en Fintual"
 url = "/fintalks-6"
 
 +++
-Esta es la transcripción del sexto episodio de nuestro podcast Fintalks. Lo puedes escuchar en [Spotify](https://open.spotify.com/episode/3RzozV4RNl5pnbqdGSaEIH?si=zp1L-1LiSj-qZQDm8acFgw), [iTunes](https://itunes.apple.com/cl/podcast/fintalks-ep-6-axel-christensen-en-fintual/id1444666203?i=1000426649233&mt=2) y [YouTube](https://www.youtube.com/watch?v=OQwFSowNaBk).
+Esta es la transcripción del séptimo episodio de nuestro podcast Fintalks. Lo puedes escuchar en [Spotify](https://open.spotify.com/episode/7gB9XIxKaI7tok7NppW5cB?si=Po0-5XPXThaDf8Cc4rjzcg), [iTunes](https://itunes.apple.com/cl/podcast/fintalks-ep-7-fintual-en-y-combinator/id1444666203?i=1000427484373&mt=2) y [YouTube](https://www.youtube.com/watch?v=EDF_3LfN7Rg&t=35s).
 
 **00:06 |** Es harto trabajo el seguir indices. Y básicamente la inversión pasiva es un tipo de inversión que te da exposición a distintas clases de activos, renta fija, renta variable, puede ser local, puede ser internacional, pero muy ceñido a un índice diversificado y representativo, más que tratar de apuntarle a que acción o que bono en particular la va a romper, porque eso es muy difícil de hacer y sobre todo de manera persistente en el tiempo.
 
