@@ -159,29 +159,53 @@ Esta es la transcripción del séptimo episodio de nuestro podcast Fintalks. Lo 
 **12:40 |** Claro, pusimos destroit arroba Fintual punto com, escribanos por favor y preparábamos una entrevista.
 
 **12:44 |** Hicimos hartas antes como cinco entrevistas de práctica
+
 **12:47 |** Claro ese yo creo es un buen consejo, de hecho, es mi intención de este podcast en particular es que la gente cache de que se trata Y Combinator y se atreva a postular.
+
 **12:55 |** ¿Por qué un emprendedor debería postular a Y Combinator?
+
 **12:58 |** Oh por qué no, porque en verdad es súper buena la experiencia y además hay una reputación muy buena de Y Combinator, o sea, si querai seleccionada es como una prueba de que estai haciendo las cosas relativamente bien y la experiencia es la raja, no sé, o sea, de todas maneras vale la pena
+
 **13:11 |** Vai aprender mucho a emprender y después te va a servir mucho para que otros inversionistas te respeten mucho más y levantar plata va ser mucho más fácil.
+
 **13:18 |** Estableci contactos con los otros fundadores
+
 **13:20 |** Ya el proceso de postulación, de aplicación, te ordena, te hace decir desde cuando conoces a tu socio, chuta, no había pensado esto, lo conozco hace seis meses o hace 10 años, qué cosas has hackeado que no tengan que ver necesariamente con tu empresa, o qué cosa excepcional, distinta a tu empresa has logrado y te hace preguntas que nunca te habiai hecho y que nunca habiai pensado que podía ser importante para evaluar cuando estai emprendiendo, entonces ya desde el proceso de postulación es bacán, la entrevista por Skype también es chora, y ya ir a San Francisco es increíble, de hecho, este año fueron dos chilenas, una se llama Willow Word Álvaro y la otra no tengo permiso para decirlo, no sé si puedo decirlo de hecho, pero es de otra Startup chilena y que quedaron, y estaban súper emocionados y les dije, o sea, en general creo que cualquiera Startup que quede en la entrevista de San Francisco, me escribe un mail a Pedro@fintual.com y lo ayudamos, o sea, lo ayuda a preparar la entrevista, o sea, con estas dos Startup preparamos las entrevistas de la simulación que es lo que decía Andrés, que es quizás lo más importante del momento de postular.
+
 **14:12 |** Pero, habrá muchas Startup que no se atreven, que dicen…
+
 **14:15 |** Yo creo que hay mucha gente que se inventa excusas y dice ponte tú no es que demasiado pronto o es demasiado tarde, o somos muy chicos o somos muy viejos, nada de eso importa mucho
+
 **14:26 |** O sea, cuando ya estamos en el nivel de allá tampoco es una cuestión así absurda, o sea, es completamente las Startup de Chile están perfectamente en el nivel de las Startup de allá.
+
 **14:35 |** Y han pensado en alguna Startup que podría ir para allá, qué ustedes digan, oye es demasiado bacán.
+
 **14:38 |** Cacha que, yo cacho muy pocas Startup me di cuenta y entonces hace poquito hice un post de oye cuales son las mejores Startup para trabajar y quiero hacer un post, ojalá me salga cada un mes, porque cacho muy pocas Startups en Chile, y es culpa mía y no sabría decirte cual es, yo creo que cualquiera con un APPT y un buen equipo puede hacerlo, porque ni siquiera hay haber lanzado, había muchas Startup que quedaron y que ni siquiera tenían nada. No había nada construido.
+
 **15:02 |** Parte del proceso es que en algún minuto de los tres meses lanzai, así está pensado, nosotros como ya habíamos lanzado es más rápido, pero...
+
 **15:09 |** Nosotros estamos como en el 20 por ciento más avanzado, eso no significa nada, porque habían otros que ni siquiera tenían el APPT casi y terminaron levantando 60 millones de dólares después...
+
 **15:21 |** Yo igual tengo la intuición de que estos gallos están eligiendo compañías internacionales que van un poco más adelante, o sea, que Y Combinator puede elegir lo que quiera.
+
 **15:31 |** A las gringas las permiten más nuevitas (claro)
+
 **15:33 |** Los niños de Stanford entran con ideas nomás
+
 **15:38 |** Porque eso es lo otro, nosotros estamos en el 20 por ciento más viejo entre 32 y 35, 36, estamos como en el 20 por ciento más viejo de
+
 **15:46 |** Y de distintos lugares del mundo, habían más latinos, había harto latino o...
+
 **15:50 |** Había mexicanos (había dos mexicanos), colombianos (un colombiano y un puertorriqueño)
+
 **15:55 |** Y la mayoría eran gringos, habían chinos, habían japonenses
+
 **15:59 |** La mayoría eran gringos, pero habían hartos chinos, había un ruso, que era, de hecho, Putin lo había echado (de su país) de Rusia.
+
 **16:07 |** Y que hacía como gasolina para satélite
+
 **16:16 |** Yo creo que era una de las Starup más fome la nuestra, porque habían cosas bien como estas o brígida o gallos no sé, tengo 21 años y tengo mi master en Stanford en programación, lo saque a los 19 ya ni me acuerdo, habían cosas ridículas, era gente muy potente, de hecho, éramos tan pencas me acuerdo que cuando hicimos la presentación final, esa típica Slide que teni que poner del equipo nos dijeron no no, no la pongan (risas)
+
 **16:44 |** Han logrado algo bacán, puta no sé, no no importa, no sirve de nada. O casi que había cofundado Facebook o mejor no dijerai nada del equipo. Entonces fue chistoso (la mejor Universidad de Chile) Claro.
 **16:58 |** Y cómo fue llegar de allá, donde eran todos muy secos y un ambiente demasiado (exigente) exigente y volver a Chile.
 **17:05 |** Aliviante podría decir yo, o sea, yo en particular por lo menos hablo por mí, me sentí un idiota en Estados Unidos a pesar de que tengo buen inglés y todo (el mejor inglés con Andrés) puta la cago que es difícil como convivir con gallos que están en un nivel de exigencia igual alto. Tal vez no son tan brillantes, pero se exigen caleta y más encima uno ahí tratando de hablar el idioma, más todavía.
