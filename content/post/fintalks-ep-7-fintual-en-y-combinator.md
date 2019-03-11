@@ -119,25 +119,45 @@ Esta es la transcripción del séptimo episodio de nuestro podcast Fintalks. Lo 
 **09:27 |** Hicimos todo lo que no había que hacer en un viaje de entrevistas
 
 **09:30 |** Básicamente hicieron todo mal
+
 **09:32 |** Fue un paseo
+
 **09:33 |** Yo creo que pensamos que no íbamos a quedar entonces fue aprovechemos este pasaje gratis y ...
+
 **09:36 |** Y nos disfrazamos de viejo pascuero un día, fuimos a la plaza, lo pasamos increíble, uno de los mejores viajes de mi vida y Omar lo resumió como estos tres días parecieron un mes, así como en verdad hicimos muchas cosas, fue muy intenso
+
 **09:49 |** Es que, además, yo también estaba con mi hija la Emilia y tenía como un año y medio, y era como el primer viaje que hicimos desde que nació entonces era como un alivio, sin ella básicamente, pobre Emilia. Va a escuchar este podcast en 10 años más (risas)
+
 **10:03 |** Y qué cambió de la primera vez que no quedaron a la segunda vez que sí quedaron
+
 **10:07 |** Claro, porque no lo dijimos, cuando viajamos esta primera vez no quedamos, fuimos a la entrevista diez minutos, quedamos ahí en la pitilla y nos hicieron pasar de nuevo a una segunda reunión, segunda entrevista, y esa entrevista nos destrozaron (nos patearon en el suelo) es que lo hicimos mal
+
 **10:21 |** Estábamos nerviosos (ellos estaban cansados) si, nos preguntaban cosas y como que nos demorábamos en responder o respondíamos cosas que no tenían mucho sentido.
+
 **10:27 |** Entonces, nos fue mal y dijimos, yo quedé muy picado, porque yo sabía que no iba a quedar, pero estuvimos tan cerca de quedar que quedé y dijimos, y en verdad no podíamos quedar eso es lo otro, que si hubiésemos quedado hubiéramos quebrado a lo mejor, porque no teníamos la licencia todavía de la SMF, para hacer los fondos mutuos, no teníamos un montón de cosas entonces hubiera sido muy mala.
+
 **10:46 |** O sea, básicamente no estábamos teniendo nuevos clientes mucho, o sea, teníamos un producto que no lo queríamos vender porque no era muy bueno y estar allá tres meses tratando de crecer a los ritmos que quieren crecer las Startup gringas, o sea, no sé 10 por ciento semanal una cosa así, no lo habríamos hecho y habría sido muy decepcionante y al final hubiésemos terminado el proceso casi igual como empezamos
+
 **11:03 |** Y nosotros, parece chiva, pero como ya quedamos lo podemos decir así, pero esta postulación fue un proceso para aprender cómo era postular y postular de nuevo seis meses después para el siguiente batch.
+
 **11:13 |** Pero eso no quita que estábamos más decepcionados que la cresta (bajoniadisimos) fue como crecer un poco, porque era un pendejo andando en Tesla que se merecen perder...
+
 **11:25 |** A parte te avisan al tiro, o sea, no es como que vai hacía Chile y a la otra semana les contamos, no, ahí mismo, el mismo día en la tarde (todavía estamos en el Tesla de hecho, estábamos en un taco volviendo / nos equivocamos en la salida)
+
 **11:35 |** Nos equivocamos en la salida, Agustín se fue manejando el Tesla, ni pescaba Wize, doble a la derecha y Agustín derecho, y después dijimos ya vamos a postular en seis meses más porque ese era el plan y a los 4 meses nos llega un mail diciendo el 40 por ciento de las Startup son, que quedan en Y Combinator han postulado más de una vez, de hecho, cuando estuvimos allá conocimos a un brasilero que había postulado tres veces, los mexicanos también tres veces, entonces parecía muy natural que uno pudiera postular de nuevo y postulamos de nuevo y pasamos por todo el proceso, ya no con Gustav sino con Aaron que era
+
 **12:10 |** En vez de 20 minutos nos entrevistó como 8, y nos dijo ok thank you, bye
+
 **12:15 |** Nos hizo una pregunta así, nosotros respondimos ok bye, y no sabíamos si habíamos respondido bien o la habíamos... (sí, claro)
+
 **12:21 |** O sea, como oh la cagamos ahora en la de Skype (risas)
+
 **12:26 |** Y nos invitaron de nuevo y fuimos de nuevo y ahí la preparamos, aterrizamos en San Francisco y hablamos en inglés
+
 **12:33 |** Yo me acuerdo que en algún minuto tuitearon como alguien que nos pueda destrozar con preguntas durante 20 minutos por Skype, onda llámenos
+
 **12:40 |** Claro, pusimos destroit arroba Fintual punto com, escribanos por favor y preparábamos una entrevista.
+
 **12:44 |** Hicimos hartas antes como cinco entrevistas de práctica
 **12:47 |** Claro ese yo creo es un buen consejo, de hecho, es mi intención de este podcast en particular es que la gente cache de que se trata Y Combinator y se atreva a postular.
 **12:55 |** ¿Por qué un emprendedor debería postular a Y Combinator?
