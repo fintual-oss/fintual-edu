@@ -207,19 +207,30 @@ Esta es la transcripción del séptimo episodio de nuestro podcast Fintalks. Lo 
 **16:16 |** Yo creo que era una de las Starup más fome la nuestra, porque habían cosas bien como estas o brígida o gallos no sé, tengo 21 años y tengo mi master en Stanford en programación, lo saque a los 19 ya ni me acuerdo, habían cosas ridículas, era gente muy potente, de hecho, éramos tan pencas me acuerdo que cuando hicimos la presentación final, esa típica Slide que teni que poner del equipo nos dijeron no no, no la pongan (risas)
 
 **16:44 |** Han logrado algo bacán, puta no sé, no no importa, no sirve de nada. O casi que había cofundado Facebook o mejor no dijerai nada del equipo. Entonces fue chistoso (la mejor Universidad de Chile) Claro.
+
 **16:58 |** Y cómo fue llegar de allá, donde eran todos muy secos y un ambiente demasiado (exigente) exigente y volver a Chile.
+
 **17:05 |** Aliviante podría decir yo, o sea, yo en particular por lo menos hablo por mí, me sentí un idiota en Estados Unidos a pesar de que tengo buen inglés y todo (el mejor inglés con Andrés) puta la cago que es difícil como convivir con gallos que están en un nivel de exigencia igual alto. Tal vez no son tan brillantes, pero se exigen caleta y más encima uno ahí tratando de hablar el idioma, más todavía.
+
 **17:29 |** Si yo creo era bien agotador Silicon Valley, yo creo que no viviría ahí, como que lo encuentro demasiado competitivo a lo mejor, quizás estoy hablando de mediocre, está naciendo el Puertomontino en mi a lo mejor (risas)
-**17:43 |** No, pero hay un balance y de arrepente uno tiene que también saber vivir, o sea, hay 100 años para disfrutar nomás.
+
+**17:43 |** No, pero hay un balance y de repente uno tiene que también saber vivir, o sea, hay 100 años para disfrutar nomás.
+
 **17:49 |** Si, yo creo que tres meses estuvo bien, crecimos como nunca esos tres meses (qué heavy) pero...
+
 **17:54 |** Y cuando llegaron a Chile pensaron oye salimos en Y Combinator, onda somos secos, ahora las cosas en Chile van a cambiar con respecto a Fintual.
+
 **18:00 |** Bueno, eso pasó, o sea, cambiamos un montón, pero nosotros seguimos siendo iguales, lo que pasa es que te dan un sello y la gente te empieza como a pescar un poco más, hay más financiamiento.
-**18:11 |** Claro, es bien loco, como que para mí fui feliz, así uno de los días más felices de mi vida y al día siguiente se me olvidó digamos, como que parece que le afecta más a la gente que está afuera, o sea, el otro día fui a México por Fintual México y me junte con alguien que conocía y me dijo, oye no has cambiado nada me dijo. ¿Cómo no hay cambiado nada? No estás igual, pensé que ibas a llegar insoportable después de Y Combinator (risas)
+
+**18:11 |** Claro, es bien loco, como que para mí fui feliz, así uno de los días más felices de mi vida y al día siguiente se me olvidó digamos, como que parece que le afecta más a la gente que está afuera, o sea, el otro día fui a México por Fintual México y me junté con alguien que conocía y me dijo, oye no has cambiado nada me dijo. ¿Cómo no hay cambiado nada? No estás igual, pensé que ibas a llegar insoportable después de Y Combinator (risas) 
+
 **18:34 |** Es parecido estudiar en Harvard, la gente dice oh estudio en Harvard.
+
 **18:38 |** Pero aparte estos fueron tres meses, por último Harvard son dos años, cachai, yo dije...(es más tiempo para creerse el cuento)
+
 **18:43 |** Yo dije, pero weón que me estai diciendo, me extraño mucho eso, como esta percepción de afuera, es bien rara es como una cosa de Branding que yo no sé manejar muy bien y que no quiero manejarla tampoco como que no sirve de nada al final.
-**18:54 |** Si, esta idealización de alguna gente, o sea, como cuando alguien logra algo como que pasa a categoría.
-**19:02 |** Claro, porque aparte también hubo harto de suerte encontré, o sea, somos buenos, el equipo es bueno, el producto es bueno, bacán, pero también hay un factor suerte (obvio hay mucho de suerte)
+
+**18:54 |** Sí, esta idealización de alguna gente, o sea, como cuando alguien logra algo como que pasa a categoría. **19:02 |** Claro, porque aparte también hubo harto de suerte encontré, o sea, somos buenos, el equipo es bueno, el producto es bueno, bacán, pero también hay un factor suerte (obvio hay mucho de suerte)
 **19:09 |** O sea, si o si hay que postular, si hay un factor suerte si o si (seguro)
 **19:14 |** Sobre todo si uno, yo creo que hay como mini criterios así, como si tu teni un cofundador, uno que sea más técnico, tecnológico y otro más de negocios, más metido en el mundo del negocio, puta de todas maneras es como un plus muy grande para Y Combinator, incluso si la idea no es tan perfecta ellos te ayudan a modelarla.
 **19:33 |** Y cómo es la mentoría que te hacen allá, te enseñan cosas, te ayudan, te dan ideas, te dicen
