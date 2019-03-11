@@ -54,27 +54,45 @@ Esta es la transcripción del séptimo episodio de nuestro podcast Fintalks. Lo 
 **05:15 |** Apocamiento sureño
 
 **05:17 |** Apocamiento, de calma, si yo soy de Puerto Montt entonces más apocado todavía, y un día  ya me hice una carta, me anote un apunte qué sé yo, una carta, entre y ya dije postular a Y Combinator, y un viernes estaba entre irme a la casa a descansar o trabajar un poco más, y dije ya voy a hacerlo, hice la postulación, así a mano y después llamé a los cabros para que me dijeran, o sea, hiciéramos un video, había que hacer un video y editar también la postulación, y la mandamos, sin ninguna fe de hecho, fuera de plazo creo que también como atrasados como una semana (además fuera de plazo) una semana atrasados.
+
 **05:50 |** A mí me resultaba como un ejercicio divertido de hacer, con cero fe de que fuera a resultar (cero fe)
+
 **05:56 |** ¿Ninguno de los cuatro pensaba que iba a quedar, que iban a quedar?
+
 **05:57 |** Al principio no, nada, cero opción, el video es pésimo.
+
 **06:01 |** Sobre todo yo, que en verdad es como eran mis dioses entonces
 **06:05 |** No, era imposible
+
 **06:07 |** Yo ya había postulado hace tiempo con un Startup y nada, o sea, nunca nos respondieron (ah yo no sabía eso)
-**06:12 |** Ah buena
+
+**06:12 |** Ah, buena
+
 **06:12 |** O sea, en que en verdad eran Startup que yo como que en verdad yo como que me metí al final y como que no cachaba mucho, me dijeron oye mira metete acá y llena esto, y yo ya no cachaba lo que era Y Combinator y nunca nos llamaron de vuelta, nada, o sea, para mí era.
+
 **06:25 |** Bueno, eso pasa mucho, hay muchas Startup que postulan en silencio por vergüenza a no quedar, entonces, me he ido enterando en el tiempo, yo ya por lo menos cacho diez personas que han postulado a Y Combinator, y nada a las dos semanas, creo que nos llegó un mail diciendo tengamos una entrevista por Skype de 10 minutos con Gustav me acuerdo, y como que nos pusimos nerviosos y dijimos buena, leyeron la postulación digamos (risas) y no esta tan mala y ahí tuvimos la entrevista por Skype me acuerdo y nos sentimos cómodos, de hecho, era de diez minutos y duro como 20, 21, lo cual es muy raro, no sé
+
 **06:53 |** Yo creo que tenía que ver con que Gustav es medio como una buena persona, como que seguía conversando.
+
 **06:58 |** Gustav es un patner de Y Combinator (no era tan cortante como otros patner) y dimos esa entrevista, nos sentimos bien creo
+
 **07:04 |** Si, yo me sentí muy cómodo en esa entrevista, dije lo hicimos.
+
 **07:06 |** ¿Y de qué hablaban en esa entrevista?
+
 **07:08 |** Te hacen preguntas del negocio básicamente, bueno qué están haciendo y por qué creen que a ser muy grande (Por qué son el mejor equipo para hacerlo, cosas de ese estilo te preguntan)
+
 **07:16 |** Y es un poquito para olerte, para ver si les cai bien o no, ellos valoran harto, ponderan harto el que caigai bien, entonces quieren saber si somos unos tontos o pesados.
-**07:27 |** De hecho dicen widon pidget, que significa no elegimos a weones pesados. 
+
+**07:27 |** De hecho dicen "we don't pick jerks", que significa no elegimos a weones pesados. 
+
 **07:32 |** Y se equivocaron porque estaba yo, pero...(risas)
+
 **07:34 |** Eligieron a Pedro primero (risas)
+
 **07:34 |** Igual es una parte súper pelua para uno que es chileno en la parte en inglés, o sea, es súper fácil parecer tonto en otro idioma (si es verdad) entonces y es difícil parecer inteligente
-**07:45 |** Además parte de como cachan si eri tonto o no es si respondí rápido o no, que en general es una medida medio arbitraria, pero lo ocupan porque te hacen tantas entrevistas que lo tienen que hacer, entonces, cuando es en inglés uno como que se demora un poquito más en responder y ya queda un poquito más como tonto.
-**08:02 |** Y después de esa entrevista, ¿Qué pasó?
+
+**07:45 |** Además, parte de como cachan si eri tonto o no es si respondí rápido o no, que en general es una medida medio arbitraria, pero lo ocupan porque te hacen tantas entrevistas que lo tienen que hacer, entonces, cuando es en inglés uno como que se demora un poquito más en responder y ya queda un poquito más como tonto. **08:02 |** Y después de esa entrevista, ¿Qué pasó?
 **08:03 |** A las dos semanas me llegó un mail a mí, me llegan a mi porque como hice la postulación me llegaba un mail decía Pedro por favor agenda una reunión para acá, aquí están las condiciones para los pasajes, y como que no entendí, de hecho, me puse un poco nervioso ahora de nuevo (risas) digo que escribí el peor mail de mi vida, el más tonto, dije perdón no entendí tenemos que ir a San Francisco a la entrevista (risas)  
 **08:26 |** Probablemente un mail automático de Y Combinator, lo más divertido de todo.
 **08:34 |** Ah sorry perdón por no ser muy claro, sí (risas)
