@@ -49,6 +49,7 @@ fields:
   name: aliases
   label: Aliases
 pages:
+- content/post/como-ahorrar-para-lo-que-quieres.md
 - content/post/fintalks-ep-7-fintual-en-y-combinator.md
 - content/post/ctm-las-comisiones-te-matan.md
 - content/post/como-un-cafe-menos-al-dia-podria-darte-mas-de-100mm.md

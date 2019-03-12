@@ -7,6 +7,8 @@ image: "/uploads/como-ahorrar.png"
 categories:
 - educación financiera
 url: "/como-ahorrar-para-lo-que-quieres/"
+aliases:
+- "/cómo-ahorrar-para-lo-que-quieres-cfffc1d0a732"
 
 ---
 ### Ayer vi el comercial de un niño en Tailandia que ahorra en su alcancía (con forma de nave espacial) y me recordó a mí cuando niño.
