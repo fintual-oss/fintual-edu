@@ -21,7 +21,7 @@ Si no, recibiríamos un mail a las 19:00.
 
 18:35: Los cuatro pensando en voz alta: “Pero si respondimos todo súper bien”, “no preguntaron nada muy peludo, no nos pillaron en nada”, “si no les gustábamos desde un principio, *pa`* qué nos invitan”, “¿por qué no nos hicieron cagar por lo menos?”.
 
-![Ricardo nos había ayudado a preparar la entrevista de ese día.](/uploads/cómo-fuimos-l5588.png)*Ricardo nos había ayudado a preparar la entrevista de ese día.*
+![Ricardo nos había ayudado a preparar la entrevista de ese día.](/uploads/yc-whatsapp-23.png)*Ricardo nos había ayudado a preparar la entrevista de ese día.*
 
 18:40: Ya había convencido a todos de que no habíamos quedado.
 
@@ -94,7 +94,7 @@ Debe ser entretenidísimo trabajar en Y Combinator si lo tuyo es hacer sufrir a 
 
 Tres días después nos llega un mail.
 
-![](/uploads/cómo-fuimos-l5496.png)
+![](/uploads/yc-promising-24.png)
 
 ¡¿Qué?!
 
@@ -108,7 +108,7 @@ Estoy en Chile.
 
 Así que le escribí a Gustaf el mail más *hueón* que he escrito en mi vida.
 
-![](/uploads/cómo-fuimos-l5783.png)
+![](/uploads/yc-gustaf-21.png)
 
 Volví a leer el mail de invitación que habíamos recibido, me metí de nuevo a los links y claro, nos estaban pagando el pasaje a los 4 *cofounders* y un poco de plata para el hotel para ir a una entrevista… de diez minutos!
 
@@ -176,7 +176,9 @@ En eso la coordinadora dice en voz muy alta:
 
 Nuestro turno.
 
-undefined
+<iframe id="ytplayer" type="text/html" width="640" height="360"
+  src="https://www.youtube.com/embed/jsR8zCXDjkU"
+  frameborder="0"></iframe>
 
 Entramos.
 
@@ -275,7 +277,7 @@ Pasa harto con los mails hirientes de una ex, por ejemplo.
 
 Incluso ahora, este mail de rechazo de Y Combinator me cuesta leerlo.
 
-![](/uploads/cómo-fuimos-l3226.png)
+![](/uploads/yc-sorry-perry-34.png)
 
 Fuimos a un mirador.
 
@@ -387,9 +389,9 @@ Simulamos entre nosotros.
 
 Nos atacamos 3 contra 1.
 
-![](/uploads/cómo-fuimos-l7656.png)
+![todos contra Agustín.](/uploads/yc-todos-contra-ag.png)*Todos contra Omar.*
 
-![Izq: todos contra Agustín. Der: todos contra Omar.](/uploads/cómo-fuimos-l5023.png)*Izq: todos contra Agustín. Der: todos contra Omar.*
+![todos contra Omar.](/uploads/yc-todos-contra-om.png)*Todos contra Agustín.*
 
 Yo practicaba sonreír frente a un espejo porque me cuesta cuando estoy tenso.
 
@@ -403,7 +405,7 @@ Esta vez nos fuimos en tren, riéndonos de lo imbéciles (y felices) que fuimos 
 
 * Sí. Y yo creo que haber gastado tanta energía antes hizo que llegáramos apagados.
 
-![T de tren, no de Tesla.](/uploads/cómo-fuimos-l4846.png)*T de tren, no de Tesla.*
+![T de tren, no de Tesla.](/uploads/yc-t-de-tren.png)*T de tren, no de Tesla.*
 
 Por eso fuimos a la entrevista con un poquito de hambre. Compramos uva chilena de exportación sin cachar (una uva que jamás de los jamáses he comido en Chile, deliciosa, parecía manzana de lo crujiente que era), gomitas y M&M.
 
@@ -488,7 +490,7 @@ Nos sentamos en una terraza de Mountain View a comer, tomar cerveza, jugar y esp
 
 Nos costaba concentrarnos pero fue una gran idea haber llevado el juego para no pensar tanto y hacer que pasara el tiempo.
 
-![](/uploads/cómo-fuimos-l4810.png)
+![](/uploads/yc-fotosintesis.png)
 
 A las 18:20 ya se hacía casi imposible jugar.
 
@@ -531,7 +533,7 @@ Agustín piensa que podría ser un número equivocado (había comprado el chip e
 Responde y entonces empieza a sonreír.
 
 - ¿Es Y Combinator?
-- Agustín* culiao *responde ¿es Y Combinator?
+- Agustín *culiao* responde ¿es Y Combinator?
 
 Agustín mueve la cabeza asintiendo y empezamos a saltar.
 
@@ -545,7 +547,7 @@ San Francisco es una ciudad llena de locos. La gente alrededor ni nos miró. Y s
 
 Agustín corta y se arrodilla cagado de la risa.
 
-![](/uploads/cómo-fuimos-l1523.png)
+![](/uploads/yc-success-29.png)
 
 Andrés lo abraza.
 
@@ -561,6 +563,4 @@ Y sigo sin poder creerlo.
 
 Somos la primera startup chilena en quedar en Y Combinator.
 
-![](/uploads/cómo-fuimos-l3107.png)
-
-undefined
+![](/uploads/yc-oficial.png)
