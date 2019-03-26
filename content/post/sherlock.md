@@ -7,8 +7,7 @@ title: Análisis gratis de tus fondos mutuos
 url: "/sherlock/"
 categories:
 - educación financiera
-author: ''
-author_thumbnail: ''
+
 
 ---
 <div class="text-center"> <img src="/uploads/sherlock2.jpg" style="width:90%;height: auto;"/> </div>
