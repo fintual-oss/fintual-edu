@@ -3,7 +3,7 @@ author: Pedro Pineda
 author_thumbnail: "/uploads/pedro_pineda.png"
 title: Cómo fuimos la primera startup chilena en quedar en Y Combinator
 date: 2018-04-08 00:00:00 +0000
-image: "/uploads/cómo-fuimos-l3107.png"
+image: "/uploads/yc-oficial.png"
 categories:
 - noticias
 url: "/cómo-fuimos-la-primera-startup-chilena-en-quedar-en-y-combinator-41363df2e2dc/"
