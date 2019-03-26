@@ -5,7 +5,7 @@ description: En la oficina, a veces estamos tan metidos en las operaciones del d
 image: "/uploads/vaca1.png"
 title: Cuando inviertes con Fintual, inviertes en Netflix, Apple, Google y Amazon
 url: "/en-que-inviertes-cuando-inviertes-con-fintual/"
-
+aliases: ["/cuando-inviertes-con-fintual-inviertes-en-netflix-apple-google-y-amazon-a6bb1c15274d/"]
 
 ---
 <style>
