@@ -5,6 +5,6 @@ image: https://edu.fintual.com/uploads/donuts.jpg
 layout: donuts
 title: Donas para la gente del Ministerio de Economía
 url: "/donas-para-la-gente-del-ministerio-de-economia/"
-
+draft: true
 
 ---

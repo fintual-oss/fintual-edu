@@ -8,6 +8,6 @@ link: ''
 minimum: desde $0
 title: Queremos mandarle Donuts a Grupo Taisa
 url: "/queremos-mandarle-donuts-a-grupo-taisa/"
-
+draft: true
 
 ---

@@ -5,6 +5,6 @@ image: https://edu.fintual.com/uploads/donuts.jpg
 layout: donuts
 title: Donas para todo Everis
 url: "/donas-para-todo-everis/"
-
+draft: true
 
 ---

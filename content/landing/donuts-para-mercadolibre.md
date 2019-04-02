@@ -7,6 +7,6 @@ layout: donuts_fintech
 minimum: desde $0
 title: Donuts para MercadoLibre
 url: "/donuts-para-mercadolibre/"
-
+draft: true
 
 ---

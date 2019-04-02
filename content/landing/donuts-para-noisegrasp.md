@@ -6,6 +6,6 @@ image: https://edu.fintual.com/uploads/donuts.jpg
 layout: donuts
 title: donuts para NoiseGrasp
 url: "/donuts-para-noisegrasp/"
-
+draft: true
 
 ---

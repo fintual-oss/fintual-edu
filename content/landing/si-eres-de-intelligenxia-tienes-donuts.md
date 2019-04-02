@@ -6,6 +6,6 @@ image: https://edu.fintual.com/uploads/donuts.jpg
 layout: donuts
 title: si eres de Intelligenxia tienes donuts
 url: "/si-eres-de-intelligenxia-tienes-donuts/"
-
+draft: true
 
 ---

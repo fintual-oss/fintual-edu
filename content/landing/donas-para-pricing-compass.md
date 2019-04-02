@@ -5,6 +5,6 @@ image: https://edu.fintual.com/uploads/donuts.jpg
 layout: donuts
 title: donas para Pricing Compass
 url: "/donas-para-pricing-compass/"
-
+draft: true
 
 ---

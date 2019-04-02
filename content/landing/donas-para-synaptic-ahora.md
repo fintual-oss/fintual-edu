@@ -5,6 +5,6 @@ image: https://edu.fintual.com/uploads/donuts.jpg
 layout: donuts
 title: donas para Synaptic ahora
 url: "/donas-para-synaptic-ahora/"
-
+draft: true
 
 ---

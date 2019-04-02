@@ -9,5 +9,5 @@ minimum: 0
 title: "McFlurrys para Cornershop\U0001F369"
 url: "/mcflurrys-para-cornershop/"
 
-
+draft: true
 ---

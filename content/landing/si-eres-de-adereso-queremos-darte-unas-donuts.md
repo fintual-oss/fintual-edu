@@ -7,6 +7,6 @@ layout: donuts_fintech
 minimum: desde $250.000
 title: Si eres de Adereso queremos darte unas donuts
 url: "/si-eres-de-adereso-queremos-darte-unas-donuts/"
-
+draft: true
 
 ---

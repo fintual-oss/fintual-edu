@@ -7,6 +7,6 @@ layout: donuts_fintech
 minimum: desde $250.000
 title: Si eres de YX Wireless te queremos regalar donuts
 url: "/si-eres-de-yx-wireless-te-queremos-regalar-donuts/"
-
+draft: true
 
 ---

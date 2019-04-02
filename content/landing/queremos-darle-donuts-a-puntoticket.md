@@ -5,6 +5,6 @@ image: https://edu.fintual.com/uploads/donuts.jpg
 layout: donuts
 title: queremos darle donuts a puntoticket
 url: "/queremos-darle-donuts-a-puntoticket/"
-
+draft: true
 
 ---

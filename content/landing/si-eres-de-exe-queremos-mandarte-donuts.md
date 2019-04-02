@@ -5,6 +5,6 @@ image: https://edu.fintual.com/uploads/donuts.jpg
 layout: donuts
 title: Si eres de EXE queremos mandarte donuts
 url: "/si-eres-de-exe-queremos-mandarte-donuts/"
-
+draft: true
 
 ---

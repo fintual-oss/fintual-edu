@@ -7,6 +7,6 @@ layout: donuts_fintech
 minimum: desde $250.000
 title: donuts para los que trabajan en Cima
 url: "/donuts-para-los-que-trabajan-en-cima/"
-
+draft: true
 
 ---

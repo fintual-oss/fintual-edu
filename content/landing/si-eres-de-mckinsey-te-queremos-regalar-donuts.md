@@ -7,7 +7,7 @@ layout: donuts_fintech
 minimum: desde $0
 title: "Si trabajas en McKinsey, te queremos regalar donuts\U0001F369"
 url: "/si-eres-de-mckinsey-te-queremos-regalar-donuts/"
-
+draft: true
 
 ---
 Si eres de McKinsey te queremos invitar a probar Fintual (una manera simple de invertir bien).

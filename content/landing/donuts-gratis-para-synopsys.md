@@ -6,6 +6,6 @@ image: https://edu.fintual.com/uploads/donuts.jpg
 layout: donuts
 title: Donuts gratis para Synopsys
 url: "/donuts-gratis-para-synopsys/"
-
+draft: true
 
 ---

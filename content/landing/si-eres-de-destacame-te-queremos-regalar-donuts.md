@@ -6,6 +6,6 @@ image: https://edu.fintual.com/uploads/donuts.jpg
 layout: donuts
 title: Si eres de destacame.cl, te queremos regalar donuts
 url: "/si-eres-de-destacame-te-queremos-regalar-donuts/"
-
+draft: true
 
 ---

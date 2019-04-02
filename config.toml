@@ -1,4 +1,4 @@
-baseURL = "https://edu.fintual.com"
+baseURL = "https://edu.fintual.cl"
 title = "EDU Fintual"
 preserveTaxonomyNames = true
 theme = "mediumish"
@@ -6,6 +6,7 @@ copyright = " 2019 | fintual.com "
 languageCode = "es-cl"
 summaryLength = 15
 removePathAccents = false
+
 [Permalinks]
  posts = "/:filename/"
 [params]

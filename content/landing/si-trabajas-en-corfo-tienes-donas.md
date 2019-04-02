@@ -5,6 +5,6 @@ image: "/uploads/donuts.jpg"
 layout: donuts
 title: si trabajas en CORFO tienes donas
 url: "/si-trabajas-en-corfo-tienes-donas/"
-
+draft: true
 
 ---

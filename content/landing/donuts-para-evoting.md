@@ -5,6 +5,6 @@ image: https://edu.fintual.com/uploads/donuts.jpg
 layout: donuts
 title: Donuts para Evoting
 url: "/donuts-para-evoting/"
-
+draft: true
 
 ---

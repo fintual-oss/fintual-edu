@@ -8,5 +8,5 @@ minimum: desde $0
 title: Queremos mandarle Donuts a Grupo Alto
 url: "/queremos-mandarle-donuts-a-grupo-alto/"
 
-
+draft: true
 ---

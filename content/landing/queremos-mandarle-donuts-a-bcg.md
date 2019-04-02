@@ -8,7 +8,7 @@ minimum: desde $0
 title: "Queremos mandarle donuts a BCG\U0001F369"
 url: "/queremos-mandarle-donuts-a-bcg/"
 
-
+draft: true
 ---
 Si eres de McKinsey te queremos invitar a probar Fintual (una manera simple de invertir bien).
 
