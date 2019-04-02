@@ -6,6 +6,6 @@ image: https://edu.fintual.com/uploads/donuts.jpg
 layout: donuts
 title: si eres de GoPlaceIt aca tienes donuts
 url: "/si-eres-de-goplaceit-aca-tienes-donuts/"
-
+draft: true
 
 ---

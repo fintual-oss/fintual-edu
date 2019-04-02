@@ -5,6 +5,6 @@ image: https://edu.fintual.com/uploads/donuts.jpg
 layout: donuts
 title: Tenemos donuts para 4talent
 url: "/tenemos-donuts-para-4talent/"
-
+draft: true
 
 ---

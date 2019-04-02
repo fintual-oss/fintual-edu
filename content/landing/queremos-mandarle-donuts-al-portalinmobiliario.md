@@ -7,6 +7,6 @@ layout: donuts_fintech
 minimum: desde $250.000
 title: Si trabajas en Portal Inmobiliario, queremos mandarte unos donuts hoy
 url: "/queremos-mandarle-donuts-al-portalinmobiliario/"
-
+draft: true
 
 ---

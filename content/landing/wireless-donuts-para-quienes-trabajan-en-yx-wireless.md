@@ -7,6 +7,6 @@ layout: donuts_fintech
 minimum: desde $250.000
 title: wireless donuts para quienes trabajan en YX Wireless
 url: "/wireless-donuts-para-quienes-trabajan-en-yx-wireless/"
-
+draft: true
 
 ---

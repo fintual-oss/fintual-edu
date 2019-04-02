@@ -9,5 +9,5 @@ minimum: desde $0
 title: Queremos mandarle Donuts a Transbank
 url: "/queremos-mandarle-donuts-a-transbank/"
 
-
+draft: true
 ---

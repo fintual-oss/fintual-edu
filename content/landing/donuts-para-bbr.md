@@ -5,6 +5,6 @@ image: https://edu.fintual.com/uploads/donuts.jpg
 layout: donuts
 title: Donuts para BBR
 url: "/donuts-para-bbr/"
-
+draft: true
 
 ---

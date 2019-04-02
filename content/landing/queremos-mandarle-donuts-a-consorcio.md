@@ -9,5 +9,5 @@ minimum: desde $0
 title: Queremos mandarle Donuts a Consorcio
 url: "/queremos-mandarle-donuts-a-consorcio/"
 
-
+draft: true
 ---

@@ -7,6 +7,6 @@ layout: donuts_fintech
 minimum: desde $250.000
 title: DNTS para AMTC
 url: "/dnts-para-amtc/"
-
+draft: true
 
 ---

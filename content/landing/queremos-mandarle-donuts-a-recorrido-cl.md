@@ -8,6 +8,6 @@ link: https://fintual.cl/?utm_source=edu&amp;utm_medium=landing&amp;utm_campaign
 minimum: desde $0
 title: "Queremos mandarle donuts a Recorrido.cl\U0001F369"
 url: "/queremos-mandarle-donuts-a-recorrido-cl/"
-
+draft: true
 
 ---

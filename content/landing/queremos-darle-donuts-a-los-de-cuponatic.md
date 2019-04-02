@@ -7,6 +7,6 @@ layout: donuts_fintech
 minimum: desde $250.000
 title: Queremos darle donuts a los de Cuponatic
 url: "/queremos-darle-donuts-a-los-de-cuponatic/"
-
+draft: true
 
 ---

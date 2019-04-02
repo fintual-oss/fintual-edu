@@ -7,6 +7,6 @@ layout: donuts_fintech
 minimum: desde $0
 title: Queremos mandarle donuts a AVLA
 url: "/queremos-mandarle-donuts-a-avla/"
-
+draft: true
 
 ---
