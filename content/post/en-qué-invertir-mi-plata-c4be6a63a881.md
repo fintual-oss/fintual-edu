@@ -1,6 +1,6 @@
 ---
-author: Francesca Finaldi
-author_thumbnail: "/uploads/francesca_finaldi.jpeg"
+author: Pedro Pineda
+author_thumbnail: "/uploads/pedro.png"
 title: En qué invertir mi plata
 date: 2018-11-10 00:00:00 +0000
 image: "/uploads/en-que-invertir.png"
