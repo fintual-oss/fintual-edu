@@ -1,7 +1,7 @@
 +++
 aliases = []
 author = "Agustín Feuerhake"
-author_thumbnail = "/uploads/agustin feuerhake.jpeg"
+author_thumbnail = "https://edu.fintual.cl/uploads/agustinfeuerhake-1.jpeg"
 categories = ["educación financiera"]
 date = "2019-04-05T03:00:00+00:00"
 description = "Un ejemplo que explica por qué si tienes tiempo es mejor algo más riesgoso."
