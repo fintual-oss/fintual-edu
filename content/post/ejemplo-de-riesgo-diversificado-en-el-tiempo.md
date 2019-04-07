@@ -12,7 +12,7 @@ url = "/riesgo-diversificado-en-el-tiempo/"
 +++
 **Veamos un ejemplo para entender el 'riesgo' al invertir:**
 
-Digamos que vas a invertir en una productora que hace 1 película al mes.Es una buena productora pero no siempre le achuntan: de 10 proyectos, en 6 les va bien y en 4 les va mal. Supongamos  que cuando les va bien duplican lo invertido, cuando les va mal lo pierden todo. **Es una productora que toma riesgos!**
+Digamos que vas a invertir en una productora que hace 1 película al mes. Es una buena productora pero no siempre le achuntan: de 10 proyectos, en 6 les va bien y en 4 les va mal. Supongamos  que cuando les va bien duplican lo invertido, cuando les va mal lo pierden todo. **Es una productora que toma riesgos!**
 
 En este ejemplo si inviertes por 1 mes, puede que te vaya mal y lo pierdas todo, ¿verdad?
 
