@@ -2,7 +2,7 @@
 aliases = []
 author = "Agustín Feuerhake"
 author_thumbnail = "/uploads/agustincuadrado.jpg"
-categories = ["educación financiera"]
+categories = []
 date = "2019-04-05T03:00:00+00:00"
 description = "Un ejemplo que explica por qué si tienes tiempo es mejor algo más riesgoso."
 draft = true
