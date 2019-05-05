@@ -2,8 +2,8 @@
 author: Omar Larré
 author_thumbnail: "/uploads/omar_larre.jpeg"
 title: Cómo ahorrar para lo que quieras
-date: 2019-02-08 23:00:00 +0000
-image: "/uploads/como-ahorrar.png"
+date: 2019-02-08T23:00:00.000+00:00
+image: "/uploads/cerdoblanco.jpg"
 categories:
 - educación financiera
 url: "/como-ahorrar-para-lo-que-quieres/"
