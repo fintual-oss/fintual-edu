@@ -9,7 +9,7 @@ categories:
 url: "/en-qué-invertir-mi-plata-c4be6a63a881/"
 
 ---
-### Una guía para personas que no saben invertir
+### Una guía para personas que no saben invertir.
 
 _Menciono algunas instituciones financieras y empresas, pero aparte de_ [_Fintual_](http://www.fintual.com) _no tengo ninguna relación ni intereses con ninguna._
 
