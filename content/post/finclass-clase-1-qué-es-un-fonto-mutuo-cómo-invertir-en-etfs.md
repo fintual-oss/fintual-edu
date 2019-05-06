@@ -8,7 +8,7 @@ description = "Cómo funciona un fondo mutuo y por qué invertir a través de un
 hide = false
 image = "/uploads/finclass-1-1.png"
 title = "FINCLASS. Video: ¿Qué es un fondo mutuo?, ¿cómo invertir en ETFs?"
-url = "/finclass-1"
+url = "/finclass-0"
 
 +++
 Omar, cofundador de Fintual y profesor de Finanzas y Fintech en la Universidad de Chile, explica en este video cómo funciona un fondo mutuo, por qué invertir a través de uno en vez de comprar acciones o bonos y cómo puedes comprar un ETF.
