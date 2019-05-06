@@ -1,11 +1,12 @@
 +++
+aliases = []
 author = "Pedro Pineda"
 author_thumbnail = "/uploads/pedro.png"
 categories = ["educación financiera"]
 date = "2019-02-16T03:00:00+00:00"
 description = "Cómo funciona un fondo mutuo y por qué invertir a través de uno en vez de comprar acciones o bonos"
 image = "/uploads/finclass-1-1.png"
-title = "Finclass. Cap 1: ¿Qué es un fondo mutuo?, ¿cómo invertir en ETFs?"
+title = "Finclass. Video: ¿Qué es un fondo mutuo?, ¿cómo invertir en ETFs?"
 url = "/finclass-1"
 
 +++
