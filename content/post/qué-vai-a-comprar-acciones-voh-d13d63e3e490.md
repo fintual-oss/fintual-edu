@@ -1,7 +1,7 @@
 ---
 author: Pedro Pineda
 author_thumbnail: "/uploads/pedro_pineda.png"
-title: "¿Qué vai a comprar acciones voh?"
+title: "¿En serio quieres comprar acciones?"
 date: 2016-08-15T00:00:00.000+00:00
 image: "/uploads/black-and-white-chart-cost-241544.jpg"
 categories:
