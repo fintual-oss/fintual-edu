@@ -1,8 +1,8 @@
 ---
 author: Omar Larré
 author_thumbnail: "/uploads/omar_larre.jpeg"
-title: "¿Qué son los ETFs?"
-date: 2018-02-07 00:00:00 +0000
+title: "¿Qué es un ETF?"
+date: 2018-02-07T00:00:00.000+00:00
 image: "/uploads/por-que-etf.png"
 categories:
 - educación financiera
