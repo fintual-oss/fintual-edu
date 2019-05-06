@@ -1,7 +1,7 @@
 ---
-date: 2018-07-08 16:37:29 +0000
+date: 2018-07-08T16:37:29.000+00:00
 description: No, no es el bono marzo.
-image: "/uploads/donde-pedir.png"
+image: "/uploads/bank-banking-black-and-white-259209.jpg"
 title: "¿Dónde pedir mis $290.000 gratis?"
 categories:
 - educación financiera
