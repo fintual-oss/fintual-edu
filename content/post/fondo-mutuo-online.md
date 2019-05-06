@@ -1,10 +1,9 @@
 ---
-date: 2018-06-25 19:33:31 +0000
+date: 2018-06-25T19:33:31.000+00:00
 description: ''
 image: "/uploads/ffmm-online.png"
 title: Fondo Mutuo Online
-categories:
-- educación financiera
+categories: []
 url: "/fondo-mutuo-online/"
 
 ---
