@@ -53,8 +53,8 @@ fields:
   label: Hide
   description: para esconder el post en edu (el link sigue funcionando)
 pages:
-- content/post/finclass-clase-1-qué-es-un-fonto-mutuo-cómo-invertir-en-etfs.md
 - content/post/finclass-finanzas-aplicadas-y-fintech-clase-1.md
+- content/post/finclass-clase-1-qué-es-un-fonto-mutuo-cómo-invertir-en-etfs.md
 - content/post/sherlock.md
 - content/post/cómo-tener-un-poco-de-suerte-al-invertir-en-fintual-95c42d6b850c.md
 - content/post/por-qué-los-fondos-mutuos-rentan-tan-poco-78a9aafc9896.md
