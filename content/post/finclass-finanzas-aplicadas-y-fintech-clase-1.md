@@ -17,4 +17,6 @@ Grabamos sus clases y las publicamos acá para que cualquier persona pueda apren
 
 Gratis.
 
-<div style="text-align:center"><iframe width="560" height="315" src="[https://vimeo.com/329337544](https://vimeo.com/329337544 "https://vimeo.com/329337544")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<iframe src="[https://player.vimeo.com/video/329337544](https://player.vimeo.com/video/329337544 "https://player.vimeo.com/video/329337544")" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+<p><a href="[https://vimeo.com/329337544](https://vimeo.com/329337544 "https://vimeo.com/329337544")">Finanzas aplicadas y fintech - Clase 1</a> from <a href="[https://vimeo.com/fintual](https://vimeo.com/fintual "https://vimeo.com/fintual")">Fintual</a> on <a href="[https://vimeo.com](https://vimeo.com "https://vimeo.com")">Vimeo</a>.</p>
