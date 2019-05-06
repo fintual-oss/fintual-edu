@@ -1,8 +1,8 @@
 ---
-date: 2018-07-02 19:48:26 +0000
+date: 2018-07-02T19:48:26.000+00:00
 description: 'La respuesta rápida es más o menos esta: los depósitos a plazo rentan
   lo que le corresponde rentar por su nivel de riesgo, y depende del banco.'
-image: "/uploads/rentan-poco.png"
+image: "/uploads/jill-heyer-247995-unsplash.jpg"
 title: "¿Rentan poco los depósitos a plazo?"
 categories:
 - educación financiera
