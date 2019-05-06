@@ -6,7 +6,7 @@ categories = ["clases"]
 date = "2019-03-11T03:00:00+00:00"
 description = "Concepto básicos financieros, definiciones básicas."
 hide = false
-image = "/omaru1.png"
+image = "/uploads/omaru1.png"
 title = "FINCLASS. Finanzas aplicadas y fintech. Clase 1."
 url = "/finclass-1"
 
