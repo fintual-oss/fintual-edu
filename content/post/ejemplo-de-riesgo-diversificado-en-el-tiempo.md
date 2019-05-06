@@ -5,6 +5,7 @@ author_thumbnail = "/uploads/agustincuadrado.jpg"
 categories = []
 date = "2019-04-05T03:00:00+00:00"
 description = "Un ejemplo que explica por qué si tienes tiempo es mejor algo más riesgoso."
+hide = true
 image = "uploads/diversity.jpg"
 title = "Ejemplo de riesgo diversificado en el tiempo"
 url = "/riesgo-diversificado-en-el-tiempo/"
