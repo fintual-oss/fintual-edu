@@ -1,11 +1,11 @@
 ---
-date: 2018-07-05 04:36:52 +0000
+date: 2018-07-05T04:36:52.000+00:00
 description: ''
 image: "/uploads/depositos-a-plazo-1200x630.png"
 title: "¿Depósitos a plazo?"
-categories:
-- educación financiera
+categories: []
 url: "/depositos-a-plazo/"
+draft: true
 
 ---
 ![](/uploads/depositos-a-p4929.png)
