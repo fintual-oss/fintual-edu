@@ -17,4 +17,4 @@ Grabamos sus clases y las publicamos acá para que cualquier persona pueda apren
 
 Gratis.
 
-[https://vimeo.com/329337544](https://vimeo.com/329337544 "https://vimeo.com/329337544")
+<div style="text-align:center"><iframe width="560" height="315" src="[https://vimeo.com/329337544](https://vimeo.com/329337544 "https://vimeo.com/329337544")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
