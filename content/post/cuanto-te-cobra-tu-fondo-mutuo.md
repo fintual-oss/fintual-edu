@@ -4,6 +4,7 @@ image: "/uploads/morgan-free.png"
 title: "¿Cuánto te cobra tu fondo mutuo?"
 categories: []
 url: "/cuanto-te-cobra-tu-fondo-mutuo/"
+draft: true
 
 ---
 Es muy difícil que lo sepas.
