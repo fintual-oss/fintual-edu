@@ -7,8 +7,8 @@ title: Análisis gratis de tus fondos mutuos
 url: "/sherlock/"
 categories:
 - educación financiera
-author: ''
-author_thumbnail: ''
+author: Pedro Pineda
+author_thumbnail: "/uploads/pedro.png"
 aliases: []
 
 ---
