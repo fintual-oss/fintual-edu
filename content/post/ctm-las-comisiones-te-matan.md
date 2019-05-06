@@ -9,7 +9,7 @@ categories:
 url: "/ctm-las-comisiones-te-matan/"
 aliases:
 - "/ctm-las-comisiones-te-matan-9aa0c2ffbda0"
-author: ''
+author: Pedro Pineda
 author_thumbnail: ''
 
 ---
