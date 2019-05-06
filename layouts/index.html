@@ -11,10 +11,11 @@
             <div class="section-title">
             </div>
             <div class="row listrecent">
-                {{ $post_paginator := .Paginate (where .Data.Pages "Type" "post") 6 }}
-                {{ range $post_paginator.Pages }}
+              {{ $post_paginator := .Paginate (where (where .Data.Pages.ByDate.Reverse "Type" "post") ".Params.hide" "!=" true) 6}}
+              {{ range $post_paginator.Pages }}
                     {{- partial "list-partials/postbox.html" . -}}
-                {{end}}
+              {{ end }}
+
             </div>
         </section>
         {{- partial "list-partials/pagination.html" $post_paginator -}}
