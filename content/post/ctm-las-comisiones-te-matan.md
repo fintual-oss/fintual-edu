@@ -3,7 +3,7 @@ date: 2018-07-08T16:37:29.000+00:00
 description: 'Si quieres ver cuánta plata estás dejando de ganar por las comisiones
   revisa el simulador que hicimos:'
 image: "/uploads/quino-al-302041-unsplash.jpg"
-title: 'CTM: las Comisiones Te Matan'
+title: '"Compra", "vende". Las comisiones cada vez que lo haces.'
 categories:
 - educación financiera
 url: "/ctm-las-comisiones-te-matan/"
