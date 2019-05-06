@@ -2,10 +2,10 @@
 author: Pedro Pineda
 author_thumbnail: "/uploads/pedro_pineda.png"
 title: Lobos de Wall Street en Chile
-date: 2016-10-26 00:00:00 +0000
+date: 2016-10-26T00:00:00.000+00:00
 image: "/uploads/lobos-wall.png"
 categories:
-- columnas
+- noticias
 url: "/ya-po-dejen-de-robar-d90417af26ad/"
 
 ---
