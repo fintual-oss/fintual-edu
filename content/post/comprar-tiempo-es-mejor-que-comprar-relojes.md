@@ -1,6 +1,6 @@
 ---
-date: 2018-06-29 13:09:47 +0000
-image: "/uploads/comprar-tiempo.png"
+date: 2018-06-29T13:09:47.000+00:00
+image: "/uploads/Screen Shot 2019-05-06 at 1.16.32 PM.png"
 title: Comprar tiempo es mejor que comprar relojes
 categories:
 - educación financiera
