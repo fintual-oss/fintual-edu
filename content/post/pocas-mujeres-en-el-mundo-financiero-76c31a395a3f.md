@@ -2,11 +2,13 @@
 author: Paula Droguett
 author_thumbnail: "/uploads/paula_droguett.jpeg"
 title: Pocas mujeres en el mundo financiero
-date: 2018-04-11 00:00:00 +0000
+date: 2018-04-11T00:00:00.000+00:00
 image: "/uploads/pocas-mujeres.png"
 url: "/pocas-mujeres-en-el-mundo-financiero-76c31a395a3f/"
 categories:
-- columnas
+- noticias
+description: ''
+aliases: []
 
 ---
 Como miembro de la industria financiera chilena y especialmente como entidad regulada por la Comisión para el Mercado financiero, [Fintual](http://www.fintual.com) participa en una serie de instancias oficiales del rubro.
