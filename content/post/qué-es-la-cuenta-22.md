@@ -4,7 +4,7 @@ author_thumbnail = "/uploads/pedro_pineda.png"
 categories = ["educación financiera"]
 date = "2018-12-13T13:01:29+00:00"
 description = "Para que pienses en ello cuando estés tomándote un café."
-image = "/uploads/cuenta-2-1200x630.png"
+image = "/uploads/cuentados.jpg"
 title = "¿Qué es la cuenta 2?"
 url = "/cuenta-2/"
 
@@ -17,7 +17,7 @@ En términos de costos, las comisiones bordean el 1% anual, menor a lo que cobra
 
 El problema es que hay mucha gente a la que no le gusta "darle" más plata a las AFPs.
 
-![](/uploads/cuenta-2-1200x630.png)
+![](/uploads/cuentados.jpg "Foto de Karim MANJRA en Unsplash")
 
 Para esas personas algo como [Fintual](https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_content=-48) puedes ser súper atractivo, porque es un servicio de inversión independiente para personas que no saben de inversiones pero que quieren invertir bien y fácil.
 
