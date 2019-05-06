@@ -1,9 +1,9 @@
 ---
-date: 2018-07-05 00:56:26 +0000
+date: 2018-07-05T00:56:26.000+00:00
 title: Hagamos esto fácil
-categories:
-- educación financiera
+categories: []
 url: "/invierte-palta/"
+draft: true
 
 ---
 Invertir tiene que ser fácil.
