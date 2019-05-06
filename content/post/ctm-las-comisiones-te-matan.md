@@ -1,14 +1,16 @@
 ---
-date: 2018-07-08 16:37:29 +0000
+date: 2018-07-08T16:37:29.000+00:00
 description: 'Si quieres ver cuánta plata estás dejando de ganar por las comisiones
   revisa el simulador que hicimos:'
-image: "/uploads/ctm-comisiones.png"
+image: "/uploads/comisiones.jpg"
 title: 'CTM: las Comisiones Te Matan'
 categories:
 - educación financiera
 url: "/ctm-las-comisiones-te-matan/"
 aliases:
 - "/ctm-las-comisiones-te-matan-9aa0c2ffbda0"
+author: ''
+author_thumbnail: ''
 
 ---
 Súper poca gente sabe cuánto paga en comisiones cuando invierte.
