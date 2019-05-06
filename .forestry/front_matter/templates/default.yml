@@ -48,6 +48,10 @@ fields:
 - type: list
   name: aliases
   label: Aliases
+- name: hide
+  type: boolean
+  label: Hide
+  description: para esconder el post en edu (el link sigue funcionando)
 pages:
 - content/post/sherlock.md
 - content/post/finclass-clase-1-qué-es-un-fonto-mutuo-cómo-invertir-en-etfs.md
