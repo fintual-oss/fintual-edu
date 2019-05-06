@@ -16,6 +16,8 @@ aliases:
 
 ![](/uploads/suerte-1.jpg)
 
+_\[Foto de Jack Hawley\]._
+
 A veces hay meses buenos, a veces hay otros malos. En general, está dentro de lo normal enfrentarse entre 2 a 5 meses de rentabilidad negativa dentro de un año en los portafolios de [Fintual](https://fintual.cl/). La gracia es que, en el largo plazo, las inversiones en carteras diversificadas tienden a subir, pero no como una línea recta: hay períodos en que vas a perder.
 
 ¿Habrá algo para al menos evitar — aunque sea un poco — la mala suerte?
