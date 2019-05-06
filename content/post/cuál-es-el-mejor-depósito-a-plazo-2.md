@@ -4,7 +4,7 @@ author_thumbnail = "/uploads/pedro_pineda.png"
 categories = ["educación financiera"]
 date = "2018-12-13T13:01:29+00:00"
 description = ""
-image = "/uploads/mesa.jpg"
+image = "/uploads/brunel-johnson-368289-unsplash.jpg"
 title = "¿Cuál es el mejor depósito a plazo para invertir?"
 url = "/mejor-deposito-a-plazo/"
 
