@@ -1,11 +1,11 @@
 ---
 author: Omar Larré
 author_thumbnail: "/uploads/omar_larre.jpeg"
-title: "¿Pérdidas de corto plazo? Tómate unos minutos y lee esto"
+title: 'Pérdidas de corto plazo. '
 date: 2018-03-23T00:00:00.000+00:00
 categories:
 - educación financiera
-image: "/uploads/pérdidas-de-c5802.png"
+image: "/uploads/don-ross-iii-187427-unsplash.jpg"
 url: "/pérdidas-de-corto-plazo-tómate-unos-minutos-y-lee-esto-e222b63f3939/"
 
 ---
