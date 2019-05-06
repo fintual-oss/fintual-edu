@@ -49,6 +49,7 @@ fields:
   name: aliases
   label: Aliases
 pages:
+- content/post/te-cuesta-ahorrar.md
 - content/post/ctm-las-comisiones-te-matan.md
 - content/post/cómo-tener-un-poco-de-suerte-al-invertir-en-fintual-95c42d6b850c.md
 - content/post/finclass-clase-1-qué-es-un-fonto-mutuo-cómo-invertir-en-etfs.md
@@ -64,7 +65,6 @@ pages:
 - content/post/fintalks-ep-1-sobre-la-reforma-previsional.md
 - content/post/fintalks-ep-2-apv-y-seguros-con-ahorro.md
 - content/post/fintalks-ep-1-sobre-la-reforma-previsional-1.md
-- content/post/te-cuesta-ahorrar.md
 - content/post/por-qué-cayó-tanto-el-fondo-e-de-las-afp-donald-trump-y-los-simpsons-e17fffedbddb.md
 - content/post/por-qué-las-afps-podrían-invertir-mejor-y-no-lo-hacen-3f620e036402.md
 - content/post/pocas-mujeres-en-el-mundo-financiero-76c31a395a3f.md

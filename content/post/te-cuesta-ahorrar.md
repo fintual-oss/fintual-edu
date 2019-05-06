@@ -1,10 +1,11 @@
 +++
+aliases = []
 author = "Ignacia Palma"
 author_thumbnail = "/uploads/ignacia.jpg"
 categories = ["educación financiera"]
 date = "2019-02-27T03:00:00+00:00"
 description = "No se trata de no gozar las lucas que con tanto esfuerzo te ganas mes a mes, pero sí de crear un hábito de ahorro que sin duda te beneficiará a futuro."
-image = "https://edu.fintual.cl/uploads/Ahorro.png"
+image = "https://edu.fintual.cl/uploads/cuestaahorrar.jpg"
 title = "¿Te cuesta ahorrar?"
 url = "/te-cuesta-ahorrar"
 
