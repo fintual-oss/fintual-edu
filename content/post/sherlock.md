@@ -1,13 +1,15 @@
 ---
-date: 2018-07-24 22:40:18 +0000
+date: 2018-07-24T22:40:18.000+00:00
 description: La mayoría de los fondos mutuos cobran demasiado a sus clientes, te vamos
   a ayudar a saber cuánto te están cobrando.
-image: "/uploads/sherlock-gratis.png"
+image: "/uploads/beatriz-perez-moya-111685-unsplash.jpg"
 title: Análisis gratis de tus fondos mutuos
 url: "/sherlock/"
 categories:
 - educación financiera
-
+author: ''
+author_thumbnail: ''
+aliases: []
 
 ---
 <div class="text-center"> <img src="/uploads/sherlock2.jpg" style="width:90%;height: auto;"/> </div>
