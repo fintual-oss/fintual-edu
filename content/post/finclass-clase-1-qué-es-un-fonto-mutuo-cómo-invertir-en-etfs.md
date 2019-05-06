@@ -5,8 +5,9 @@ author_thumbnail = "/uploads/pedro.png"
 categories = ["clases"]
 date = "2019-02-16T03:00:00+00:00"
 description = "Cómo funciona un fondo mutuo y por qué invertir a través de uno en vez de comprar acciones o bonos"
+hide = false
 image = "/uploads/finclass-1-1.png"
-title = "Finclass. Video: ¿Qué es un fondo mutuo?, ¿cómo invertir en ETFs?"
+title = "FINCLASS. Video: ¿Qué es un fondo mutuo?, ¿cómo invertir en ETFs?"
 url = "/finclass-1"
 
 +++
