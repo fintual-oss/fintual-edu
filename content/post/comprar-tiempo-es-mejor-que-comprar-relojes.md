@@ -1,6 +1,6 @@
 ---
 date: 2018-06-29T13:09:47.000+00:00
-image: "/uploads/Screen Shot 2019-05-06 at 1.16.32 PM.png"
+image: "/uploads/rachit-tank-623599-unsplash.jpg"
 title: Comprar tiempo es mejor que comprar relojes
 categories:
 - educación financiera
