@@ -3,7 +3,7 @@ author: Pedro Pineda
 author_thumbnail: "/uploads/pedro_pineda.png"
 title: "¿Qué vai a comprar acciones voh?"
 date: 2016-08-15T00:00:00.000+00:00
-image: "/uploads/acciones-voh.png"
+image: "/uploads/black-and-white-chart-cost-241544.jpg"
 categories:
 - educación financiera
 url: "/qué-vai-a-comprar-acciones-voh-d13d63e3e490/"
