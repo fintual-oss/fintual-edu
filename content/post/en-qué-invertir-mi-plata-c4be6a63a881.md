@@ -2,8 +2,8 @@
 author: Pedro Pineda
 author_thumbnail: "/uploads/pedro_pineda.png"
 title: En qué invertir mi plata
-date: 2018-11-10 00:00:00 +0000
-image: "/uploads/en-que-invertir.png"
+date: 2018-11-10T00:00:00.000+00:00
+image: "/uploads/libro.jpg"
 categories:
 - educación financiera
 url: "/en-qué-invertir-mi-plata-c4be6a63a881/"
