@@ -3,7 +3,7 @@ author: Omar Larré
 author_thumbnail: "/uploads/omar_larre.jpeg"
 title: "¿Qué es un ETF?"
 date: 2018-02-07T00:00:00.000+00:00
-image: "/uploads/por-que-etf.png"
+image: "/uploads/matt-nelson-222308-unsplash.jpg"
 categories:
 - educación financiera
 url: "/el-porqué-fintual-usa-etfs-77b7e7336f86/"
