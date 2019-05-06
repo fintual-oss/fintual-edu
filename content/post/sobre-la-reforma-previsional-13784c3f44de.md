@@ -2,10 +2,10 @@
 author: Omar Larré
 author_thumbnail: "/uploads/omar_larre.jpeg"
 title: Sobre la reforma previsional
-date: 2018-10-06 00:00:00 +0000
+date: 2018-10-06T00:00:00.000+00:00
 image: "/uploads/reforma-previsional.png"
 categories:
-- columnas
+- noticias
 url: "/sobre-la-reforma-previsional-13784c3f44de/"
 
 ---
