@@ -1,9 +1,9 @@
 ---
 author: Andres Marinkovic
-author_thumbnail: '/uploads/andres_marinkovic.jpg'
+author_thumbnail: "/uploads/andres_marinkovic.jpg"
 title: No cambies tu inversión a cada rato
-date: 2016-10-09 00:00:00 +0000
-image: "/uploads/no-cambies.png"
+date: 2016-10-09T00:00:00.000+00:00
+image: "/uploads/jeremy-perkins-312453-unsplash.jpg"
 categories:
 - educación financiera
 url: "/no-cambies-tu-inversión-a-cada-rato-99476a1275c9/"
