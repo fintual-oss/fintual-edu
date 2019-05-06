@@ -14,7 +14,7 @@ aliases:
 ---
 ### Cuando inviertes en Fintual, tu rentabilidad va a subir o bajar todos los días. Lamentablemente ni nosotros (ni nadie) tiene cómo saber qué va a pasar. Si bien diseñamos cada una de las carteras de inversión de nuestros usuarios para que en el largo plazo las inversiones suban, puede ser que hayas entrado en un mal momento. Acá te contamos una estrategia para evitar esta mala suerte.
 
-![](/uploads/cómo-tener-un4313.jpeg)
+![](/uploads/suerte-1.jpg)
 
 A veces hay meses buenos, a veces hay otros malos. En general, está dentro de lo normal enfrentarse entre 2 a 5 meses de rentabilidad negativa dentro de un año en los portafolios de [Fintual](https://fintual.cl/). La gracia es que, en el largo plazo, las inversiones en carteras diversificadas tienden a subir, pero no como una línea recta: hay períodos en que vas a perder.
 
