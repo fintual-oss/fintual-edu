@@ -2,8 +2,8 @@
 author: Omar Larré
 author_thumbnail: "/uploads/omar_larre.jpeg"
 title: Cómo tener un poco de suerte al invertir en Fintual
-date: 2018-09-02 00:00:00 +0000
-image: "/uploads/tener-suerte.png"
+date: 2018-09-02T00:00:00.000+00:00
+image: "/uploads/suerte.jpg"
 categories:
 - educación financiera
 url: "/cómo-tener-un-poco-de-suerte-al-invertir-en-fintual-95c42d6b850c/"
