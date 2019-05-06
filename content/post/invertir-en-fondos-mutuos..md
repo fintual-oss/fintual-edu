@@ -1,9 +1,9 @@
 ---
-date: 2018-07-05 04:32:13 +0000
+date: 2018-07-05T04:32:13.000+00:00
 title: "¿Cómo es la inversión en fondos mutuos?"
-categories:
-- educación financiera
+categories: []
 url: "/invertir-en-fondos-mutuos./"
+draft: true
 
 ---
 ![](/uploads/como-es-1.png)
