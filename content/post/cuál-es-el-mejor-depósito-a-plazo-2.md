@@ -5,11 +5,11 @@ categories = ["educación financiera"]
 date = "2018-12-13T13:01:29+00:00"
 description = ""
 image = "/uploads/cual-es-el-mejor-deposito-1200x630.png"
-title = "¿Cuál es el mejor depósito a plazo?"
+title = "¿Cuál es el mejor depósito a plazo para invertir?"
 url = "/mejor-deposito-a-plazo/"
 
 +++
-Decir el mejor depósito a plazo es como decir el mejor equipo de segunda división, el mejor cuarto lugar en los juegos olímpicos, ...
+Decir el mejor depósito a plazo para invertir es como decir el mejor equipo de segunda división, el mejor cuarto lugar en los juegos olímpicos, ...
 
 El mejor depósito a plazo te entrega un 0,32% al mes¹, lo que en un año se traduce en 3,84%.
 
