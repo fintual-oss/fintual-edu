@@ -53,6 +53,7 @@ fields:
   label: Hide
   description: para esconder el post en edu (el link sigue funcionando)
 pages:
+- content/post/ejemplo-de-riesgo-diversificado-en-el-tiempo.md
 - content/post/finclass-finanzas-aplicadas-y-fintech-clase-2.md
 - content/post/finclass-finanzas-aplicadas-y-fintech-clase-1.md
 - content/post/finclass-clase-1-qué-es-un-fonto-mutuo-cómo-invertir-en-etfs.md
@@ -62,7 +63,6 @@ pages:
 - content/post/por-qué-las-afps-podrían-invertir-mejor-y-no-lo-hacen-3f620e036402.md
 - content/post/te-cuesta-ahorrar.md
 - content/post/ctm-las-comisiones-te-matan.md
-- content/post/ejemplo-de-riesgo-diversificado-en-el-tiempo.md
 - content/post/fintalks-ep-6-axel-christensen-en-fintual.md
 - content/post/como-ahorrar-para-lo-que-quieres.md
 - content/post/fintalks-ep-7-fintual-en-y-combinator.md
