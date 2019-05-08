@@ -11,6 +11,6 @@ title = "FINCLASS. Bancos centrales, tasas de interés y el concepto del dinero.
 url = "/finclass-3"
 
 +++
-Bancos centrales, tasas de interés y el concepto del dinero.
+Ésta fue la tercera clase que dio Omar en su ramo de Finanzas Aplicadas y Fintech en la Universidad de Chile.
 
 <iframe src="https://player.vimeo.com/video/334829791" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe> <p><a href="https://vimeo.com/334829791"></p>
