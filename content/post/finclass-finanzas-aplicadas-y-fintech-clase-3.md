@@ -7,7 +7,7 @@ date = "2019-03-25T03:00:00+00:00"
 description = "Bancos centrales, tasas de interés y el concepto del dinero"
 hide = false
 image = "/uploads/Screen Shot 2019-05-08 at 12.20.35 PM.png"
-title = "FINCLASS. Finanzas aplicadas y fintech. Clase 3."
+title = "FINCLASS. Bancos centrales, tasas de interés y el concepto del dinero. Clase 3."
 url = "/finclass-3"
 
 +++
