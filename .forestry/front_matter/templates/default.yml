@@ -53,9 +53,9 @@ fields:
   label: Hide
   description: para esconder el post en edu (el link sigue funcionando)
 pages:
+- content/post/finclass-finanzas-aplicadas-y-fintech-clase-3.md
 - content/post/finclass-finanzas-aplicadas-y-fintech-clase-2.md
 - content/post/finclass-finanzas-aplicadas-y-fintech-clase-1.md
-- content/post/finclass-finanzas-aplicadas-y-fintech-clase-3.md
 - content/post/ejemplo-de-riesgo-diversificado-en-el-tiempo.md
 - content/post/finclass-clase-1-qué-es-un-fonto-mutuo-cómo-invertir-en-etfs.md
 - content/post/sherlock.md
