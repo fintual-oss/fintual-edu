@@ -7,7 +7,7 @@ date = "2019-03-11T03:00:00+00:00"
 description = "Concepto básicos financieros, definiciones básicas."
 hide = false
 image = "/uploads/omaru1.png"
-title = "FINCLASS. Conceptos financieros básicos, definiciones básicas. Clase 1."
+title = "FINCLASS. Conceptos financieros básicos. Clase 1."
 url = "/finclass-1"
 
 +++
