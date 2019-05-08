@@ -7,7 +7,7 @@ date = "2019-03-18T03:00:00+00:00"
 description = "Conceptos financieros básicos, casos."
 hide = false
 image = "/uploads/omaru2.png"
-title = "FINCLASS. Finanzas aplicadas y fintech. Clase 2."
+title = "FINCLASS. Concepto financieros básicos, casos. Clase 2."
 url = "/finclass-2"
 
 +++
