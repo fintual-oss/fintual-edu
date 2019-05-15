@@ -13,8 +13,10 @@ url = "/finclass-3"
 +++
 Ésta fue la tercera clase que dio Omar en su ramo de Finanzas Aplicadas y Fintech en la Universidad de Chile.
 
-<iframe src="https://player.vimeo.com/video/334829791" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe> <p><a href="https://vimeo.com/334829791"></p>
+<div style="text-align:center">
+<iframe src="https://player.vimeo.com/video/334829791" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe> <p><a href="https://vimeo.com/334829791"></p></div>
   
 O en Youtube:  
   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BCUnOYaG7VM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="text-align:center">  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BCUnOYaG7VM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
