@@ -15,7 +15,7 @@ La segunda clase que dio Omar en el Departamento de Ingeniería Industrial de la
 
 <iframe src="https://player.vimeo.com/video/332360701" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-<p><a href="https://vimeo.com/332360701">Finanzas aplicadas y fintech - Clase 2</a> de <a href="https://vimeo.com/fintual">Fintual</a> en <a href="https://vimeo.com">Vimeo</a>.</p>
+
 
 O en Youtube:
 
