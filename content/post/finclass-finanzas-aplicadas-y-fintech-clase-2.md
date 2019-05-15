@@ -13,7 +13,9 @@ url = "/finclass-2"
 +++
 La segunda clase que dio Omar en el Departamento de Ingeniería Industrial de la Universidad de Chile trató conceptos financieros básicos y algunos casos.
 
+<div style="text-align:center">
 <iframe src="https://player.vimeo.com/video/332360701" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+  </div>
 
 
 
