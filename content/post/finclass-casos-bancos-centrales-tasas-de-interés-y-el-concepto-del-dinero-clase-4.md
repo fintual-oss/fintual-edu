@@ -5,9 +5,8 @@ author_thumbnail = "/uploads/pedro.png"
 categories = ["clases"]
 date = "2019-04-01T03:00:00+00:00"
 description = ""
-draft = true
 hide = false
-image = ""
+image = "/uploads/Screen Shot 2019-05-15 at 7.08.50 PM.png"
 title = "FINCLASS. Casos: Bancos centrales, tasas de interés y el concepto del dinero. Clase 4."
 url = "/finclass-4"
 
