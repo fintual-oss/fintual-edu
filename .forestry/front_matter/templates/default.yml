@@ -53,6 +53,7 @@ fields:
   label: Hide
   description: para esconder el post en edu (el link sigue funcionando)
 pages:
+- content/post/explicación.md
 - content/post/finclass-casos-bancos-centrales-tasas-de-interés-y-el-concepto-del-dinero-clase-4.md
 - content/post/finclass-finanzas-aplicadas-y-fintech-clase-3.md
 - content/post/finclass-finanzas-aplicadas-y-fintech-clase-1.md
