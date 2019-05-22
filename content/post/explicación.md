@@ -28,16 +28,13 @@ Llamamos, pero nos dijeron que no sabían cómo resolverlo.
 
 ![Después mandamos un mail a nuestro ejecutivo](/uploads/explicacion2.png)_Después mandamos un mail a nuestro ejecutivo_
 
-
-![](https://lh5.googleusercontent.com/yzuWhIpDbQvD9gaVrDpKuyefLX7mwGbzWWDOR6sxe9rOjkL1sK6PalMZ9Fsj03NgjTxZ3urx8GoOf1TJYdrkGgED0t_Ew-vwskDgk3E3pjlVW02N-6GXGip6eUs8Xc-4HzbsWKuT =624x269)No es la primera vez que pasa y entre los bancos se echan la culpa (al parecer fue el Banco de Chile quien hizo las reversas).
+No es la primera vez que pasa y entre los bancos se echan la culpa (al parecer fue el Banco de Chile quien hizo las reversas).
 
 Lo pasamos pésimo, rabiamos, gritamos “¿Cuándo hacemos un bendito banco?” y no nos queda otra que detener los procesos automáticos y ponernos a trabajar como en el siglo pasado.
 
 Informamos a la CMF (Comisión para el Mercado Financiero) que nos regula y estuvimos desde el lunes 20 (trabajamos el sandwich) haciendo esto a mano pensando que el miércoles 22 en la mañana estaría todo OK.
 
-![](https://lh6.googleusercontent.com/l7XOO1nkm0TkIsV0pPvsKm3B9aA77qo6cj56QHouS1B15wz1ogHnDD6quY5lWa6zTNeQWZQ7-hV326yepY7HEUP0jplLfDuK3FaU9pcWa-4kLTqdap4Kfa3BPt-IrNQ_fqNh45L0 =485x281)
-
-Pusimos un avisito para quienes entraran.
+![Pusimos un avisito para quienes entraran](/uploads/explicacion3.png)_Pusimos un avisito para quienes entraran_
 
 Pero fallamos en el cálculo.
 
