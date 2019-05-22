@@ -4,9 +4,9 @@ author = "Pedro Pineda"
 author_thumbnail = "/uploads/pedro.png"
 categories = ["noticias"]
 date = "2019-05-22T04:00:00+00:00"
-description = ""
+description = "No tienes para qué leer o entender todo esto, pero algunos clientes nos han pedido una explicación detallada (tratándose de inversiones es lo mínimo) y preferimos ser transparentes."
 draft = true
-hide = false
+hide = true
 image = "/uploads/why.jpg"
 title = "Explicación"
 url = "explicación"
@@ -40,7 +40,7 @@ Pero fallamos en el cálculo.
 
 En parte, porque necesitábamos la aprobación de la CMF para hacerlo, y en parte porque el banco todavía no responde:
 
-![](https://lh6.googleusercontent.com/IDtIbKJ8DY9mwjCivR2KQoTruJoGWPtZPTNXpciYnHmhZYFvjqIcI0HDdipcvH7aWsWifxQAaBUUslN1l0EJzIvaDx715NEkWOZMsNyGO52ECI29XqSzfUyvRhgsj-ulPX5bX4WP =624x260)
+![](/uploads/explicacion4.png)
 
 Y recién está solucionado hoy miércoles 22 en la tarde.
 
