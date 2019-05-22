@@ -5,11 +5,10 @@ author_thumbnail = "/uploads/pedro.png"
 categories = ["noticias"]
 date = "2019-05-22T04:00:00+00:00"
 description = "No tienes para qué leer o entender todo esto, pero algunos clientes nos han pedido una explicación detallada (tratándose de inversiones es lo mínimo) y preferimos ser transparentes."
-draft = true
 hide = true
 image = "/uploads/why.jpg"
 title = "Explicación"
-url = "explicación"
+url = "/explicacion"
 
 +++
 Está todo solucionado y no afectó el estado de tus inversiones, pero queríamos contarte qué pasó este lunes 20 y martes 21 de mayo con la actualización de la información.
