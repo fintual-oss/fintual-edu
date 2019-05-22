@@ -39,9 +39,7 @@ Pero fallamos en el cálculo.
 
 En parte, porque necesitábamos la aprobación de la CMF para hacerlo, y en parte porque el banco todavía no responde:
 
-![](/uploads/explicacion4.png)
-
-Y recién está solucionado hoy miércoles 22 en la tarde.
+![](/uploads/explicacion4.png)Y recién está solucionado hoy miércoles 22 en la tarde.
 
 **¿Qué estamos haciendo para que no vuelva a pasar?**
 
