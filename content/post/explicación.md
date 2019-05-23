@@ -50,3 +50,7 @@ Ni hablar de que tengan APIs.
 Te pedimos disculpas.
 
 No tienes para qué leer o entender todo esto, pero algunos clientes nos han pedido una explicación detallada (tratándose de inversiones es lo mínimo) y preferimos ser transparentes.
+
+Y algunos ya nos confirmaron que efectivamente les pasó eso:
+
+![](/uploads/Screen Shot 2019-05-23 at 11.05.51 AM.png)
