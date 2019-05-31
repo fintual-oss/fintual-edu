@@ -2,7 +2,7 @@
 aliases = []
 author = "Andrés Marinkovic"
 author_thumbnail = "/uploads/andres_marinkovic.jpg"
-categories = []
+categories = ["noticias"]
 date = "2019-05-31T05:00:00+00:00"
 description = ""
 hide = false
