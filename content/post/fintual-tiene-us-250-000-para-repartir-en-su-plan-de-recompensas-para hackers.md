@@ -7,7 +7,7 @@ date = "2019-05-31T05:00:00+00:00"
 description = ""
 hide = false
 image = "/uploads/imgix-404314-unsplash.jpg"
-title = "Fintual tiene US$250,000 para repartir en su plan de recompensas para hackers"
+title = "Fintual tiene US$250,000 para que hackers encuentren vulnerabilidades en sus sistemas."
 url = "/bug-bounty-program"
 
 +++
