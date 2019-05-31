@@ -15,7 +15,7 @@ url = "/bug-bounty-program"
 
 La seguridad es una prioridad para nosotros y creemos que una buena manera de mejorarla es premiando a hackers que encuentren la manera de afectarnos en un ambiente controlado.
 
-El detalle de nuestro programa de bug bounty está en [https://fintual.cl/security-policy.txt](https://fintual.cl/security-policy.txt "https://fintual.cl/security-policy.txt") y éste es el detalle.
+El detalle de nuestro programa de bug bounty está en [https://fintual.cl/security-policy.txt](https://fintual.cl/security-policy.txt "https://fintual.cl/security-policy.txt") y es éste:
 
     We welcome software security researchers that want to help us hunt down vulnerabilities.
     Should you find one, send it over. 
