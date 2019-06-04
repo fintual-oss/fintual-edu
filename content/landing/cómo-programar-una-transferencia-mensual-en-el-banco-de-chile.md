@@ -2,7 +2,7 @@
 date: 
 description: ''
 image: ''
-title: Cómo programar una transferencia mensual en el Banco de Chile
+title: Cómo programar una transferencia mensual, ejemplo Banco de Chile
 url: "/cómo-programar-una-transferencia-mensual-en-el-banco-de-chile/"
 
 ---
