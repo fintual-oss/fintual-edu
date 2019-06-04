@@ -2,11 +2,11 @@
 date: 2019-1-7
 description: ''
 image: ''
-title: Cómo programar una transferencia mensual en el Banco Santander
+title: Cómo programar una transferencia mensual, ejemplo Banco Santander
 url: "/cómo-programar-una-transferencia-mensual-en-el-banco-santander/"
 
 ---
-<p>Una cosa que puedes hacer cuando inviertes en <a href="[https://fintual.cl](https://fintual.cl "https://fintual.cl")">FINTUAL</a> es programar transferencias mensuales en la cuenta de tu banco Santander. También lo puedes hacer en el <a href="[https://edu.fintual.cl/c%C3%B3mo-programar-una-transferencia-mensual-en-el-banco-de-chile/](https://edu.fintual.cl/c%C3%B3mo-programar-una-transferencia-mensual-en-el-banco-de-chile/ "https://edu.fintual.cl/c%C3%B3mo-programar-una-transferencia-mensual-en-el-banco-de-chile/")">Banco Chile</a>, en el <a href="[https://edu.fintual.cl/c%C3%B3mo-programar-una-transferencia-mensual-en-el-banco-bci/](https://edu.fintual.cl/c%C3%B3mo-programar-una-transferencia-mensual-en-el-banco-bci/ "https://edu.fintual.cl/c%C3%B3mo-programar-una-transferencia-mensual-en-el-banco-bci/")">BCI</a> y en cualquiera en realidad.</p> 
+<p>Algo que puedes hacer cuando inviertes en <a href="https://fintual.cl">FINTUAL</a> es programar transferencias mensuales en la cuenta de tu Banco Santander. También lo puedes hacer en el <a href="https://edu.fintual.cl/c%C3%B3mo-programar-una-transferencia-mensual-en-el-banco-bci/">BCI</a>, en el <a href="https://edu.fintual.cl/c%C3%B3mo-programar-una-transferencia-mensual-en-el-banco-de-chile/">Banco de Chile</a> y en cualquiera en realidad.
 
 <p>Da lo mismo lo que hayas invertido antes, puedes sumarle un monto fijo cada mes a tu objetivo de inversión.</p>
 
