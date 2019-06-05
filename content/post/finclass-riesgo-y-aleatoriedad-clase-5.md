@@ -14,3 +14,8 @@ url = "/finclass-5"
 ![](/uploads/Screen Shot 2019-06-05 at 3.47.06 PM.png)
 
 Quinta clase de Finanzas Aplicadas y Fintech, de Omar Larré cofundador de Fintual en el Departamento de Ingeniería Industrial de la Universidad de Chile.
+
+Ver en Youtube:
+
+<div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Wk-_xgbCKNg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
