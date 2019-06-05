@@ -11,8 +11,6 @@ title = "FINCLASS. Riesgo y Aleatoriedad. Clase 5."
 url = "/finclass-5"
 
 +++
-![](/uploads/Screen Shot 2019-06-05 at 3.47.06 PM.png)
-
 Quinta clase de Finanzas Aplicadas y Fintech, de Omar Larré cofundador de Fintual en el Departamento de Ingeniería Industrial de la Universidad de Chile.
 
 Ver en Youtube:
