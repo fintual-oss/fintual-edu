@@ -54,9 +54,9 @@ fields:
   description: para esconder el post en edu (el link sigue funcionando)
 pages:
 - content/post/explicación.md
-- content/post/finclass-casos-bancos-centrales-tasas-de-interés-y-el-concepto-del-dinero-clase-4.md
 - content/post/finclass-riesgo-y-aleatoriedad-clase-5.md
 - content/post/finclass-finanzas-aplicadas-y-fintech-clase-3.md
+- content/post/finclass-casos-bancos-centrales-tasas-de-interés-y-el-concepto-del-dinero-clase-4.md
 - content/post/fintual-tiene-us-250-000-para-repartir-en-su-plan-de-recompensas-para
   hackers.md
 - content/post/1-ano-de-fintual-y-sus-fondos.md
