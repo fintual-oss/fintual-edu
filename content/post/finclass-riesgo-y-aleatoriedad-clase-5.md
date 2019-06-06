@@ -7,7 +7,7 @@ date = "2019-04-08T04:00:00+00:00"
 description = ""
 hide = false
 image = "/uploads/Screen Shot 2019-06-05 at 3.47.06 PM.png"
-title = "FINCLASS. Riesgo y Aleatoriedad. Clase 5."
+title = "Clase 5. Riesgo y Aleatoriedad. "
 url = "/finclass-5"
 
 +++
