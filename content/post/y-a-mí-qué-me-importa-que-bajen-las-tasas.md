@@ -8,7 +8,7 @@ description = "Los créditos bancarios deberían ser más baratos. La tasa de in
 hide = false
 image = "/uploads/tasas.png"
 title = "¿Y a mí qué me importa que bajen las tasas?"
-url = "/las-tasas-bajan-en-Chile"
+url = "/las-tasas-bajan-en-chile"
 
 +++
 ![](/uploads/tasas.png)
