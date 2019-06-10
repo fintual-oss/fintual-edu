@@ -3,7 +3,7 @@ author: Omar Larré
 author_thumbnail: "/uploads/omar_larre.jpeg"
 title: 5 errores comunes al momento de ahorrar e invertir
 date: 2019-01-14T00:00:00.000+00:00
-image: "/uploads/Screen Shot 2019-05-06 at 3.33.03 PM.png"
+image: "/uploads/perro.png"
 url: "/5-errores-comunes-que-debes-evitar-al-momento-de-ahorrar-e-invertir-2567c90adc9d/"
 categories:
 - educación financiera
