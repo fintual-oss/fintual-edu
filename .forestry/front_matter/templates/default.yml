@@ -12,8 +12,10 @@ fields:
   type: boolean
   hidden: false
   default: true
-- type: text
-  name: image
+- name: image
+  type: file
+  config:
+    maxSize: 250
   label: image
   description: image used on links
 - type: text
