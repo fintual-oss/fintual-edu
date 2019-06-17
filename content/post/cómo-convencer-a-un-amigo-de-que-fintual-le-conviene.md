@@ -11,13 +11,13 @@ title = "¿Cómo convencer a un amigo de que Fintual le conviene?"
 url = "/como-convencer-a-un-amigo-de-que-fintual-le-conviene/"
 
 +++
-Tus amigos son todos animales distintos. Te damos recomendaciones por especie:
+Tus amigos son todos animales distintos. Acá te doy recomendaciones por especie:
 
-**Tu amigo nunca ha invertido**
+**Del tipo que nunca ha invertido**
 
-Tu amigo probablemente te preguntará si en Fintual puede perderlo todo: la respuesta es sí pero no le digas. Broma. En estricto rigor la respuesta debiera ser “sí”, pero solo se podría dar ese caso si es que quiebran unas 1500 empresas en USA al mismo tiempo. O sea, casi no.
+Tu amigo o amiga probablemente te preguntará si en Fintual puede perderlo todo: la respuesta es sí pero no le digas. Broma. En estricto rigor la respuesta debiera ser “sí”, pero solo se podría dar ese caso si es que quiebran unas 1500 empresas en USA al mismo tiempo. O sea, la respuesta es no. Plop!
 
-Probablemente tu amigo no sepa lo que es la CMF, explícale que es la agencia de gobierno que supervisa a los bancos y a los que administran inversiones (antes eran dos separadas y se llamaban SVS y SBIF). Le gustará saber que somos regulados por la CMF porque eso asegura un cierto estándar de cuidado que cualquier persona agradece cuando se trata de sus chauchas que tanto le costó ganarse.
+Seguramente tu amigo no sabe lo que es la CMF, explícale que es la agencia de gobierno que supervisa a los bancos y a los que administran inversiones (antes eran dos separadas y se llamaban SVS y SBIF). Le gustará saber que somos regulados por la CMF porque eso asegura cierto estándar de cuidado que todos agradecen cuando se trata de sus pesitos que tanto le costó ganarse.
 
 El muchacho o muchacha entonces te preguntará si puede perder parte de su querida plata: de poder puede, pero explícale bien: la estrategia de Fintual es conocida como “estrategia pasiva”; invertir y quedarse dormido. Noo. Es invertir en muchas empresas al mismo tiempo, entonces en el largo plazo, si la humanidad mejora en eficiencia y la tecnología avanza, una inversión diversificada en todo el mercado va a subir sí o sí. En plazos más cortos pueden haber caídas y crisis, pero en fin… si se te da explicarlo así en el aire, tú dale. A nosotros nos resulta mostrar este gráfico porque al final por mucha crisis que haya, igual históricamente todo sigue p’arriba.
 
