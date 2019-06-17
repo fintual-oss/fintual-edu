@@ -5,7 +5,6 @@ author_thumbnail = "/uploads/agustincuadrado.jpg"
 categories = []
 date = "2019-06-15T04:00:00+00:00"
 description = "Tus amigos son todos animales distintos. Aquí te damos recomendaciones según la especie de cada uno."
-draft = true
 hide = true
 image = "/uploads/andrea-tummons-450846-unsplash.jpg"
 title = "¿Cómo convencer a un amigo de que Fintual le conviene?"
