@@ -7,15 +7,17 @@ title = "Fondo Mutuo Online"
 url = "/invertir-en-fondos-mutuos"
 
 +++
-Un **fondo mutuo** es una alternativa de inversión en la que varias personas físicas y/o jurídicas –que se llaman partícipes o aportantes– juntan su dinero para **formar un patrimonio conjunto para invertir.** 
+Un **fondo mutuo** es una alternativa de inversión en la que varias personas físicas y/o jurídicas –que se llaman partícipes o aportantes– juntan su dinero para **formar un patrimonio conjunto para invertir.**
 
-Este dinero puede ser invertido en acciones de empresas (renta variable), instrumentos de deuda o en una combinación de ambos. 
+Este dinero puede ser invertido en acciones de empresas (renta variable), instrumentos de deuda o en una combinación de ambos.
 
 Estos Fondos son administrados por **Administradoras Generales de Fondos,** las cuales son reguladas por la **Comisión para el Mercado Financiero (CMF).**
 
 Existen distintas ventajas asociadas a la inversión en fondos mutuos, como la **diversificación, liquidez rápida, accesibilidad (existen fondos mutuos sin monto mínimo de inversión), gran variedad de oferta y algunos beneficios tributarios, además de la rentabilidad, que suele ser mayor a la de un depósito a plazo.** Por otro lado, no es necesario saber de finanzas para invertir en fondos mutuos, ya que la administradora es la entidad que invierte el dinero.
 
-Sin embargo, la inversión en fondos mutuos tiene comisiones asociadas que no toda la gente conoce. Una buena herramienta es el comparador [Qué Fondo Mutuo](www.quefondomutuo.cl). 
+Sin embargo, la inversión en fondos mutuos tiene comisiones asociadas que no toda la gente conoce. Una buena herramienta es el comparador [Qué Fondo Mutuo](www.quefondomutuo.cl).
+
+![](/uploads/quefondomutuo.png)
 
 #### ¿Existe alguna Administradora General de Fondos en Chile que permita a personas invertir 100% online?
 
