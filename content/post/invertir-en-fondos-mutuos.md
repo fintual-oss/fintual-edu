@@ -17,6 +17,8 @@ Existen distintas ventajas asociadas a la inversión en fondos mutuos, como la *
 
 Sin embargo, la inversión en fondos mutuos tiene comisiones asociadas que no toda la gente conoce. Una buena herramienta es el comparador [Qué Fondo Mutuo](www.quefondomutuo.cl).
 
+[]
+
 ![](/uploads/quefondomutuo.png)
 
 #### ¿Existe alguna Administradora General de Fondos en Chile que permita a personas invertir 100% online?
