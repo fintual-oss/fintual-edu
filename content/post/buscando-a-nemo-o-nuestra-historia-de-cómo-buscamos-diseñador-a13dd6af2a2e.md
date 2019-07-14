@@ -6,7 +6,6 @@ date: 2018-09-16T00:00:00.000+00:00
 image: "/uploads/buscando-a-nemo.png"
 categories: []
 url: "/buscando-a-nemo-o-nuestra-historia-de-cómo-buscamos-diseñador-a13dd6af2a2e/"
-draft: true
 
 ---
 ### Ésta es la historia de cómo buscamos a alguien para mejorar el diseño de Fintual. Llegaron tan buenos candidatos que quise compartirlos al final de este post y contar qué fue lo que hicimos.
