@@ -59,4 +59,6 @@ La gracia es que solo cobra 1,19% al año (hay fondos similares que pueden cobra
 
 Rescatar el dinero tampoco tiene costo.
 
-Fintual es fácil de usar y te muestra cómo le ha ido a tu inversión de manera simple y transparente. Prueba haciendo una [simulación](https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=consideration&utm_content=invertir+en+fondos+mutuos-251#empezar).
+Fintual es fácil de usar y te muestra cómo le ha ido a tu inversión de manera simple y transparente. 
+
+<p style="text-align:center"> <a class="simulator-page__button btn btn--secondary" href="[https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=consideration&utm_content=invertir+en+fondos+mutuos-251#empezar](https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=consideration&utm_content=invertir+en+fondos+mutuos-251#empezar "https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=consideration&utm_content=invertir+en+fondos+mutuos-251#empezar")">Empezar</a></p>
