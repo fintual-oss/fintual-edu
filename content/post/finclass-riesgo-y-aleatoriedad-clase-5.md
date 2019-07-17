@@ -15,4 +15,6 @@ Quinta clase de Finanzas Aplicadas y Fintech, de Omar Larré cofundador de Fintu
 
 Ver en Youtube:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wk-_xgbCKNg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="text-align:center">  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wk-_xgbCKNg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+</div>
