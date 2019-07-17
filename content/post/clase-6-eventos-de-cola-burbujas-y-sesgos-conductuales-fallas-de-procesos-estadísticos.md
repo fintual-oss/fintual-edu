@@ -5,9 +5,8 @@ author_thumbnail = "/uploads/pedro.png"
 categories = ["clases"]
 date = "2019-04-08T04:00:00+00:00"
 description = "Riesgos, errores de modelo, sesgos conductuales: casos"
-draft = true
 hide = false
-image = ""
+image = "/uploads/Clase7.png"
 title = "Clase 7. Riesgos, errores de modelo, sesgos conductuales: casos"
 url = "/finclass-7"
 
