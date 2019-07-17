@@ -3,7 +3,7 @@ categories = []
 date = "2018-06-25T19:33:31.000+00:00"
 description = "Invertir tiene que ser fácil"
 image = "/uploads/ffmm-online.png"
-title = "Fondo Mutuo Online"
+title = "Invertir en fondos mutuos"
 url = "/invertir-en-fondos-mutuos"
 
 +++
