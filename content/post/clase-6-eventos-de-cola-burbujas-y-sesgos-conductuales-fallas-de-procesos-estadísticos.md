@@ -7,7 +7,7 @@ date = "2019-04-08T04:00:00+00:00"
 description = "Riesgos, errores de modelo, sesgos conductuales: casos"
 draft = true
 hide = false
-image = "/uploads/Screen Shot 2019-06-05 at 3.47.06 PM.png"
+image = ""
 title = "Clase 7. Riesgos, errores de modelo, sesgos conductuales: casos"
 url = "/finclass-7"
 
