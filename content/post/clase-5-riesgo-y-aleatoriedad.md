@@ -16,5 +16,5 @@ Sexta clase de Finanzas Aplicadas y Fintech, de Omar Larré cofundador de Fintua
 Ver en YouTube:
 
 <div style="text-align:center">  
-<iframe width="560" height="315" src="<iframe width="560" height="315" src="[https://www.youtube.com/embed/29xGxS5-wZ8](https://www.youtube.com/embed/29xGxS5-wZ8 "https://www.youtube.com/embed/29xGxS5-wZ8")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/29xGxS5-wZ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
