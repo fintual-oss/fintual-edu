@@ -8,14 +8,14 @@ description = ""
 draft = true
 hide = false
 image = "/uploads/Screen Shot 2019-06-05 at 3.47.06 PM.png"
-title = "Clase 5. Riesgo y Aleatoriedad. "
+title = "Clase 6. Riesgo y Aleatoriedad. "
 url = "/finclass-5"
 
 +++
-Quinta clase de Finanzas Aplicadas y Fintech, de Omar Larré cofundador de Fintual en el Departamento de Ingeniería Industrial de la Universidad de Chile.
+Sexta clase de Finanzas Aplicadas y Fintech, de Omar Larré cofundador de Fintual en el Departamento de Ingeniería Industrial de la Universidad de Chile.
 
-Ver en Youtube:
+Ver en YouTube:
 
 <div style="text-align:center">  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wk-_xgbCKNg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="560" height="315" src="<iframe width="560" height="315" src="[https://www.youtube.com/embed/29xGxS5-wZ8](https://www.youtube.com/embed/29xGxS5-wZ8 "https://www.youtube.com/embed/29xGxS5-wZ8")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 </div>
