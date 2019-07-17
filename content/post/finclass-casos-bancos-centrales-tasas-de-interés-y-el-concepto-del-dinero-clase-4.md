@@ -13,7 +13,7 @@ url = "/finclass-4"
 +++
 Casos que dio Omar en la cuarta clase del ramo de Finanzas Aplicadas y Fintech en la Universidad de Chile.
 
-<div style="text-align:center"> <iframe src="[https://player.vimeo.com/video/347830987](https://player.vimeo.com/video/347830987 "https://player.vimeo.com/video/347830987")" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe> <p><a href="[https://player.vimeo.com/video/347830987](https://player.vimeo.com/video/347830987 "https://player.vimeo.com/video/347830987")"></p></div>
+<div style="text-align:center"> <iframe src="https://player.vimeo.com/video/347830987" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe> <p><a href="https://player.vimeo.com/video/347830987"></p></div>
 
 O en YouTube:
 
