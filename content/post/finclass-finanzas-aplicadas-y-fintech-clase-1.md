@@ -20,7 +20,7 @@ Gratis.
 <div style="text-align:center">
 <iframe src="https://player.vimeo.com/video/329337544" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div>
 
-O en Youtube:
+O en YouTube:
 
 <div style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6zT5cvq60x0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

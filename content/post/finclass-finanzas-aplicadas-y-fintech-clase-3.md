@@ -15,8 +15,8 @@ url = "/finclass-3"
 
 <div style="text-align:center">
 <iframe src="https://player.vimeo.com/video/334829791" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe> <p><a href="https://vimeo.com/334829791"></p></div>
-  
-O en Youtube:  
-  
+
+O en YouTube:
+
 <div style="text-align:center">  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BCUnOYaG7VM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
