@@ -4,11 +4,11 @@ author = "Pedro Pineda"
 author_thumbnail = "/uploads/pedro.png"
 categories = ["clases"]
 date = "2019-04-08T04:00:00+00:00"
-description = "Riesgos, errores de modelo, sesgos conductuales: casos"
+description = "Cobertura y componentes principales"
 draft = true
 hide = false
-image = "/uploads/Clase7.png"
-title = "Clase 8. Riesgos, errores de modelo, sesgos conductuales: casos"
+image = "/uploads/Clase8.png"
+title = "Clase 8. Cobertura y componentes principales"
 url = "/finclass-8"
 
 +++
