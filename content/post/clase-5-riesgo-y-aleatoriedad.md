@@ -11,7 +11,7 @@ title = "Clase 6. Eventos de cola, burbujas y sesgos conductuales. Fallas de pro
 url = "/finclass-6"
 
 +++
-Sexta clase de Finanzas Aplicadas y Fintech, de Omar Larré cofundador de Fintual en el Departamento de Ingeniería Industrial de la Universidad de Chile.
+Así fue la sexta clase de Omar en el ramo "Finanzas Aplicadas y Fintech" en la Universidad de Chile.
 
 Ver en YouTube:
 
