@@ -15,4 +15,6 @@ Casos que dio Omar sobre riesgos, errores de modelo y sesgos conductuales. Sépt
 
 Ver en YouTube:
 
+<div style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f2g_XUTLuAM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
