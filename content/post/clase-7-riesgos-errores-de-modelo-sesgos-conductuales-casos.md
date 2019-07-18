@@ -5,7 +5,6 @@ author_thumbnail = "/uploads/pedro.png"
 categories = ["clases"]
 date = "2019-04-08T04:00:00+00:00"
 description = "Cobertura y componentes principales"
-draft = true
 hide = false
 image = "/uploads/Clase8.png"
 title = "Clase 8. Cobertura y componentes principales"
