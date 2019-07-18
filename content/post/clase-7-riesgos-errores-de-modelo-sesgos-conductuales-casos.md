@@ -8,12 +8,12 @@ description = "Riesgos, errores de modelo, sesgos conductuales: casos"
 draft = true
 hide = false
 image = "/uploads/Clase7.png"
-title = "Clase 7. Riesgos, errores de modelo, sesgos conductuales: casos"
-url = "/finclass-7"
+title = "Clase 8. Riesgos, errores de modelo, sesgos conductuales: casos"
+url = "/finclass-8"
 
 +++
-Séptima clase de Finanzas Aplicadas y Fintech, de Omar Larré cofundador de Fintual en el Departamento de Ingeniería Industrial de la Universidad de Chile.
+La octava clase de Finanzas Aplicadas y Fintech fue dictada por Victor Carmi y se trató de cobertura y sus componentes principales.
 
 Ver en YouTube:
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/f2g_XUTLuAM](https://www.youtube.com/embed/f2g_XUTLuAM "https://www.youtube.com/embed/f2g_XUTLuAM")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="[https://www.youtube.com/embed/9RcMJKQpVNA](https://www.youtube.com/embed/9RcMJKQpVNA "https://www.youtube.com/embed/9RcMJKQpVNA")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
