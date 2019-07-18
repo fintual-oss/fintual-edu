@@ -5,9 +5,8 @@ author_thumbnail = "/uploads/pedro.png"
 categories = ["clases"]
 date = "2019-04-08T04:00:00+00:00"
 description = "Mercados y teoría de portafolios"
-draft = true
 hide = false
-image = ""
+image = "/uploads/Clase9.png"
 title = "Clase 9. Mercados y teoría de portafolios"
 url = "/finclass-9"
 
