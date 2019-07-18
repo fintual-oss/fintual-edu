@@ -55,6 +55,7 @@ fields:
   label: Hide
   description: para esconder el post en edu (el link sigue funcionando)
 pages:
+- content/post/clase-7-riesgos-errores-de-modelo-sesgos-conductuales-casos.md
 - content/post/clase-6-eventos-de-cola-burbujas-y-sesgos-conductuales-fallas-de-procesos-estadísticos.md
 - content/post/finclass-finanzas-aplicadas-y-fintech-clase-3.md
 - content/post/clase-5-riesgo-y-aleatoriedad.md
