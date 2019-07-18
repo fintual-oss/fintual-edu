@@ -11,7 +11,7 @@ title = "Clase 7. Riesgos, errores de modelo, sesgos conductuales: casos"
 url = "/finclass-7"
 
 +++
-Séptima clase de Finanzas Aplicadas y Fintech, de Omar Larré cofundador de Fintual en el Departamento de Ingeniería Industrial de la Universidad de Chile.
+Casos que dio Omar sobre riesgos, errores de modelo y sesgos conductuales. Séptima clase de Finanzas Aplicadas y Fintech en la Universidad de Chile.
 
 Ver en YouTube:
 
