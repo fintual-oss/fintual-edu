@@ -11,7 +11,7 @@ title = "Clase 8. Cobertura y componentes principales"
 url = "/finclass-8"
 
 +++
-La octava clase de Finanzas Aplicadas y Fintech fue dictada por Victor Carmi y se trató de cobertura y sus componentes principales.
+La octava clase de Finanzas Aplicadas y Fintech fue dictada por Victor Carmi y se trató de cobertura y sus principales componentes.
 
 Ver en YouTube:
 
