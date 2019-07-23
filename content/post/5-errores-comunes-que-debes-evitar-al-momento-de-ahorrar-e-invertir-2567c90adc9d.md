@@ -26,7 +26,7 @@ Al invertir las cosas no serán muy diferentes y básicamente hay dos caminos qu
 * Buscar los beneficios rápidos (pero poco probables), apostando por tener suerte inmediata, con la consecuente adrenalina/estrés que conlleva ganar o perder —similar a ir al casino—, o
 * Una actitud **tranquila pero disciplinada** al moment de invertir, planificando en el largo plazo, sin perder el foco ante cada noticia, sin caer, por ejemplo, en el pánico en el caso de sufrir [una pérdida de corto plazo.](https://blog.fintual.cl/p%C3%A9rdidas-de-corto-plazo-t%C3%B3mate-unos-minutos-y-lee-esto-e222b63f3939)
 
-![Algunos prefieren apostar a corto plazo que generar un plan de inversión de largo plazo.](/uploads/5-errores-com4231.jpg)
+![Algunos prefieren apostar a corto plazo que generar un plan de inversión de largo plazo.](/uploads/5-errores-com4231.jpg)_Algunos prefieren apostar a corto plazo que generar un plan de inversión de largo plazo._
 
 Si lo tuyo es lo segundo, vale la pena seguir leyendo el resto de los errores que se comenten comúnmente.
 
