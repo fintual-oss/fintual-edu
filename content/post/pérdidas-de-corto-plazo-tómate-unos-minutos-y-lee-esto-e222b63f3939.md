@@ -21,9 +21,7 @@ A continuación voy a tratar de mostrar que es casi imposible alcanzar un nivel 
 
 La prensa y las redes sociales en general suelen estar llenos de “gurús” de las inversiones, anticipando cuándo va a ser la próxima crisis financiera mundial. Sin embargo, la historia muestra que un evento tan particular como una crisis financiera global es muy difícil de predecir, casi imposible.
 
-![Cuando los europeos llegaron a Australia no podían creer la existencia de cisnes negros: hasta entonces, habían vivido sumergidos en un mundo donde era imposible que existieran. Ahora que viste la foto, te parece obvio que existen.](/uploads/pérdidas-de-c8529.jpeg)
-
-_Cuando los europeos llegaron a Australia no podían creer la existencia de cisnes negros: hasta entonces, habían vivido sumergidos en un mundo donde era imposible que existieran. Ahora que viste la foto, te parece obvio que existen._
+![Cuando los europeos llegaron a Australia no podían creer la existencia de cisnes negros: hasta entonces, habían vivido sumergidos en un mundo donde era imposible que existieran. Ahora que viste la foto, te parece obvio que existen.](/uploads/pérdidas-de-c8529.jpeg)_Cuando los europeos llegaron a Australia no podían creer la existencia de cisnes negros: hasta entonces, habían vivido sumergidos en un mundo donde era imposible que existieran. Ahora que viste la foto, te parece obvio que existen._
 
 Explicado por Nassim Nicholas Taleb en sus libros “_Fooled by Randomness_” y “_The Black Swan_”, las grandes crisis financieras son parte de eventos altamente aleatorios e impredecibles, los cuales una vez sucedidos, se suelen tratar de explicar y racionalizar, pensando que se podría haber anticipado si sucediesen nuevamente, y de este modo generando la falsa ilusión que se podrá hacer con la siguiente crisis que aparezca en el futuro. Sin embargo, la historia ha demostrado que eventos tan altamente aleatorios e improbables como una crisis financiera global están lejos de ser predecibles.
 
@@ -45,15 +43,11 @@ Imaginemos que estás invirtiendo en este ETF. Tus inversiones deberían crecer 
 
 La segunda “gran caída” es la crisis financiera del 2008 (conocida también como crisis “_subprime_”). Imagínate que, en medio de la crisis, se te ocurre salir el 4 de noviembre del 2008, cuando todos los titulares de las noticias hablaban de la crisis, y volviste a entrar 5 años después.
 
-![Así te sientes probablemente al salir durante la crisis, y poder volver a entrar cuando todo está mucho más tranquilo.](/uploads/pérdidas-de-c6643.png)
-
-_Así te sientes probablemente al salir durante la crisis, y poder volver a entrar cuando todo está mucho más tranquilo._
+![Así te sientes probablemente al salir durante la crisis, y poder volver a entrar cuando todo está mucho más tranquilo.](/uploads/pérdidas-de-c6643.png)_Así te sientes probablemente al salir durante la crisis, y poder volver a entrar cuando todo está mucho más tranquilo._
 
 Al parecer, sientes que lo hiciste bien, que te salvaste de la caída total. Saliste justo antes que todo llegara más abajo, y volviste a entrar 5 años después, cuando ya no quedaba indicios de la crisis, el 4 de noviembre del 2013, ya todo muy tranquilo y las bolsas en todos lados subiendo. Que alivio. Pero no. Si revisas con cuidado, lo que realmente le pasó a tus inversiones fue algo como esto:
 
-![La línea roja muestra realmente lo que pasó con tu inversión si te retiraste en medio de una caída.](/uploads/pérdidas-de-c6329.png)
-
-_La línea roja muestra realmente lo que pasó con tu inversión si te retiraste en medio de una caída._
+![La línea roja muestra realmente lo que pasó con tu inversión si te retiraste en medio de una caída.](/uploads/pérdidas-de-c6329.png)_La línea roja muestra realmente lo que pasó con tu inversión si te retiraste en medio de una caída._
 
 Como moraleja, lo que hay que tratar de hacer bien es elegir el instrumento y grado de riesgo adecuado para el horizonte de inversión y plan de inversión determinado. Seguramente para invertir por 6 meses no tiene ningún sentido hacerlo usando acciones, pero si vas a invertir desde un par de años en adelante, vale la pena considerarlos.
 
@@ -69,9 +63,7 @@ _Lo que necesitas volver a rentar (columna derecha) para volver al mismo nivel, 
 
 Volvamos nuevamente al ejemplo del SPY. Si miras como ha rentado su precio considerando ventanas de 10 años de duración verás algo como el siguiente gráfico:
 
-![Retorno de 10 años según la fecha de término del periodo, no considera reinversión de dividendos (si no, serían retornos aún mejores). Retornos expresados en dólares de Estados Unidos.](/uploads/pérdidas-de-c5802.png)
-
-_Retorno de 10 años según la fecha de término del periodo, no considera reinversión de dividendos (si no, serían retornos aún mejores). Retornos expresados en dólares de Estados Unidos._
+![Retorno de 10 años según la fecha de término del periodo, no considera reinversión de dividendos (si no, serían retornos aún mejores). Retornos expresados en dólares de Estados Unidos.](/uploads/pérdidas-de-c5802.png)_Retorno de 10 años según la fecha de término del periodo, no considera reinversión de dividendos (si no, serían retornos aún mejores). Retornos expresados en dólares de Estados Unidos._
 
 Si miran con atención, los años entre el 2012 al 2018 tienen periodos completos de buenos desempeños pese a haber incluido la crisis *subprime *del 2008. Considera además que en periodos más largos los retornos son aún más estables.
 
