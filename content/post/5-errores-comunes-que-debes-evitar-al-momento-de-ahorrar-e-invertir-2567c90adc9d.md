@@ -40,9 +40,7 @@ La idea es simple: **no dejes todos los huevos en un mismo canasto**. En términ
 
 Un buen plan de inversión generalmente contempla ahorros de forma periódica, generalmente una vez al mes. Esto se hace muy fácil cuando el mercado está en alza: tus inversiones van bien, así que seguramente tendrás más ganas de invertir mes a mes. Sin embargo, cuando el mercado está a la baja, el miedo puede ser mayor que las ganas de seguir un plan, lo cual es un gran error porque resulta ser contraproducente: si el mercado está más “barato”, con mayor razón no deberías detener tu plan.
 
-![Warren Buffett con una camisa de lagartijas.](/uploads/5-errores-com7045.png)
-
-_Warren Buffett con una camisa de lagartijas._
+![Warren Buffett con una camisa de lagartijas.](/uploads/5-errores-com7045.png)_Warren Buffett con una camisa de lagartijas._
 
 Warren Buffet es uno de los grandes inversionistas de la historia, y de esta forma explica qué hacer cuando el mercado está a la baja:
 
@@ -63,15 +61,11 @@ En resumen: invertir de forma periódica tiene muchísimo sentido financiero.
 
 Emociones: probablemente la primera razón de malas decisiones financieras. El mercado no se comporta de forma racional, sino que es un sistema complejo dominado muchas veces por ráfagas temporales de miedo o de euforia.
 
-![Pánico en la bolsa de New York, año 1987. Jim Wilson/The New York Times.](/uploads/5-errores-com7398)
-
-_Pánico en la bolsa de New York, año 1987. Jim Wilson/The New York Times._
+![Pánico en la bolsa de New York, año 1987. Jim Wilson/The New York Times.](/uploads/5-errores-com7398)_Pánico en la bolsa de New York, año 1987. Jim Wilson/The New York Times._
 
 Las acciones —por ejemplo— pueden tener grandes desviaciones en periodos cortos de tiempo, sin embargo, en el largo plazo los retornos son más estables y más altos que instrumentos conservadores (como por ejemplo, depósitos a plazo). Entender esto permitirá incluso aprovechar las decisiones irracionales de otros inversionistas.
 
-![Finalmente invertir en el largo plazo es un proceso que exige auto-control y tranquilidad.](/uploads/5-errores-com5688)
-
-_Finalmente invertir en el largo plazo es un proceso que exige auto-control y tranquilidad._
+![Finalmente invertir en el largo plazo es un proceso que exige auto-control y tranquilidad.](/uploads/5-errores-com5688)_Finalmente invertir en el largo plazo es un proceso que exige auto-control y tranquilidad._
 
 ## Error 5: No considerar los costos a la hora de invertir
 
