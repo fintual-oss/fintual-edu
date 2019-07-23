@@ -55,9 +55,7 @@ Como moraleja, lo que hay que tratar de hacer bien es elegir el instrumento y gr
 
 Si miras la tabla de a continuación, que muestra qué porcentaje necesitas rentar para poder compensar una caída, te darás cuenta que necesitarás mucho más retorno en tus inversiones para alcanzar el mismo nivel de inversión que tenías antes de una gran caída:
 
-![Lo que necesitas volver a rentar (columna derecha) para volver al mismo nivel, después de enfrentar una pérdida (columna izquierda).](/uploads/pérdidas-de-c3216.png)
-
-_Lo que necesitas volver a rentar (columna derecha) para volver al mismo nivel, después de enfrentar una pérdida (columna izquierda)._
+![Lo que necesitas volver a rentar (columna derecha) para volver al mismo nivel, después de enfrentar una pérdida (columna izquierda).](/uploads/pérdidas-de-c3216.png)_Lo que necesitas volver a rentar (columna derecha) para volver al mismo nivel, después de enfrentar una pérdida (columna izquierda)._
 
 ## 4. Buenos periodos de rentabilidad generalmente contienen años completos de rendimientos negativos o crisis
 
