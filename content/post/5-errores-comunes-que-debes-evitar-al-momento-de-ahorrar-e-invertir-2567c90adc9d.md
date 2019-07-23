@@ -26,13 +26,15 @@ Al invertir las cosas no serán muy diferentes y básicamente hay dos caminos qu
 * Buscar los beneficios rápidos (pero poco probables), apostando por tener suerte inmediata, con la consecuente adrenalina/estrés que conlleva ganar o perder —similar a ir al casino—, o
 * Una actitud **tranquila pero disciplinada** al moment de invertir, planificando en el largo plazo, sin perder el foco ante cada noticia, sin caer, por ejemplo, en el pánico en el caso de sufrir [una pérdida de corto plazo.](https://blog.fintual.cl/p%C3%A9rdidas-de-corto-plazo-t%C3%B3mate-unos-minutos-y-lee-esto-e222b63f3939)
 
-![Algunos prefieren apostar a corto plazo que generar un plan de inversión de largo plazo.](/uploads/5-errores-com4231.jpg)_Algunos prefieren apostar a corto plazo que generar un plan de inversión de largo plazo._
+![Algunos prefieren apostar a corto plazo que generar un plan de inversión de largo plazo.](/uploads/5-errores-com4231.jpg)
+
+_Algunos prefieren apostar a corto plazo que generar un plan de inversión de largo plazo._
 
 Si lo tuyo es lo segundo, vale la pena seguir leyendo el resto de los errores que se comenten comúnmente.
 
 ## Error 2: No diversificar
 
-La idea es simple: **no dejes todos los huevos en un mismo canasto. **En término de inversiones, no te expongas a determinados sectores o empresas particulares. Este principio aplica a todo tipo de inversiones: inversiones inmobiliarias, inversiones alternativas, etc.
+La idea es simple: **no dejes todos los huevos en un mismo canasto**. En término de inversiones, no te expongas a determinados sectores o empresas particulares. Este principio aplica a todo tipo de inversiones: inversiones inmobiliarias, inversiones alternativas, etc.
 
 ¿Tienes tus ahorros invertidos en sólo una empresa? Tienes entonces un alto riesgo de diversificación: sería mucho mejor tener tus ahorros invertidos en 5, 100 o incluso 1000 empresas. Y, ojalá, independientes entre sí.
 
@@ -40,7 +42,9 @@ La idea es simple: **no dejes todos los huevos en un mismo canasto. **En términ
 
 Un buen plan de inversión generalmente contempla ahorros de forma periódica, generalmente una vez al mes. Esto se hace muy fácil cuando el mercado está en alza: tus inversiones van bien, así que seguramente tendrás más ganas de invertir mes a mes. Sin embargo, cuando el mercado está a la baja, el miedo puede ser mayor que las ganas de seguir un plan, lo cual es un gran error porque resulta ser contraproducente: si el mercado está más “barato”, con mayor razón no deberías detener tu plan.
 
-![Warren Buffett con una camisa de lagartijas.](/uploads/5-errores-com7045.png)_Warren Buffett con una camisa de lagartijas._
+![Warren Buffett con una camisa de lagartijas.](/uploads/5-errores-com7045.png)
+
+_Warren Buffett con una camisa de lagartijas._
 
 Warren Buffet es uno de los grandes inversionistas de la historia, y de esta forma explica qué hacer cuando el mercado está a la baja:
 
@@ -61,11 +65,15 @@ En resumen: invertir de forma periódica tiene muchísimo sentido financiero.
 
 Emociones: probablemente la primera razón de malas decisiones financieras. El mercado no se comporta de forma racional, sino que es un sistema complejo dominado muchas veces por ráfagas temporales de miedo o de euforia.
 
-![Pánico en la bolsa de New York, año 1987. Jim Wilson/The New York Times.](/uploads/5-errores-com7398)_Pánico en la bolsa de New York, año 1987. Jim Wilson/The New York Times._
+![Pánico en la bolsa de New York, año 1987. Jim Wilson/The New York Times.](/uploads/5-errores-com7398)
+
+_Pánico en la bolsa de New York, año 1987. Jim Wilson/The New York Times._
 
 Las acciones —por ejemplo— pueden tener grandes desviaciones en periodos cortos de tiempo, sin embargo, en el largo plazo los retornos son más estables y más altos que instrumentos conservadores (como por ejemplo, depósitos a plazo). Entender esto permitirá incluso aprovechar las decisiones irracionales de otros inversionistas.
 
-![Finalmente invertir en el largo plazo es un proceso que exige auto-control y tranquilidad.](/uploads/5-errores-com5688)_Finalmente invertir en el largo plazo es un proceso que exige auto-control y tranquilidad._
+![Finalmente invertir en el largo plazo es un proceso que exige auto-control y tranquilidad.](/uploads/5-errores-com5688)
+
+_Finalmente invertir en el largo plazo es un proceso que exige auto-control y tranquilidad._
 
 ## Error 5: No considerar los costos a la hora de invertir
 
@@ -75,7 +83,7 @@ Ningún producto financiero es gratis, todos tienen comisiones, remuneraciones o
 
 Imagina, por ejemplo, que inviertes $5.000.000 durante 6 años en un fondo mutuo de acciones, y que estas rentan 7,9% al año. Imaginemos que este fondo cobra 5% al año (como lo hacen varios fondos mutuos de instituciones bancarias conocidas). El resultado es que durante los 6 años ganarías un total de $888.185 neto (descontando las comisiones). Sin embargo, si hubieses pagado 1.19% en comisiones (en vez de 5%) habrías ganado $2.350.074 neto.
 
-![Lo que ganas cuando inviertes $5.000.000 depende de lo que te cobran. Puedes jugar con esta simulación en ](https://cdn-images-1.medium.com/max/2000/1*nFNUDcwPf0xkz68KmODv9w.png)_Lo que ganas cuando inviertes $5.000.000 depende de lo que te cobran. Puedes jugar con esta simulación en_ [_fintual.cl/simulador_](https://fintual.cl/simulador/?utm_source=medium.com&utm_medium=referral&utm_campaign=consideration&utm_content=5+errores+simula-164)
+![Lo que ganas cuando inviertes $5.000.000 depende de lo que te cobran. Puedes jugar con esta simulación en ](https://cdn-images-1.medium.com/max/2000/1*nFNUDcwPf0xkz68KmODv9w.png)_Lo que ganas cuando inviertes $5.000.000 depende de lo que te cobran._ 
 
 A veces puede ser oscuro saber cuánto te cobran. Por eso, prefiere instituciones transparentes de inversión.
 
