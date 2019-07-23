@@ -28,8 +28,6 @@ Al invertir las cosas no serán muy diferentes y básicamente hay dos caminos qu
 
 ![Algunos prefieren apostar a corto plazo que generar un plan de inversión de largo plazo.](/uploads/5-errores-com4231.jpg)
 
-_Algunos prefieren apostar a corto plazo que generar un plan de inversión de largo plazo._
-
 Si lo tuyo es lo segundo, vale la pena seguir leyendo el resto de los errores que se comenten comúnmente.
 
 ## Error 2: No diversificar
@@ -83,7 +81,7 @@ Ningún producto financiero es gratis, todos tienen comisiones, remuneraciones o
 
 Imagina, por ejemplo, que inviertes $5.000.000 durante 6 años en un fondo mutuo de acciones, y que estas rentan 7,9% al año. Imaginemos que este fondo cobra 5% al año (como lo hacen varios fondos mutuos de instituciones bancarias conocidas). El resultado es que durante los 6 años ganarías un total de $888.185 neto (descontando las comisiones). Sin embargo, si hubieses pagado 1.19% en comisiones (en vez de 5%) habrías ganado $2.350.074 neto.
 
-![Lo que ganas cuando inviertes $5.000.000 depende de lo que te cobran. Puedes jugar con esta simulación en ](https://cdn-images-1.medium.com/max/2000/1*nFNUDcwPf0xkz68KmODv9w.png)_Lo que ganas cuando inviertes $5.000.000 depende de lo que te cobran._ 
+![Lo que ganas cuando inviertes $5.000.000 depende de lo que te cobran. Puedes jugar con esta simulación en ](https://cdn-images-1.medium.com/max/2000/1*nFNUDcwPf0xkz68KmODv9w.png)_Lo que ganas cuando inviertes $5.000.000 depende de lo que te cobran._
 
 A veces puede ser oscuro saber cuánto te cobran. Por eso, prefiere instituciones transparentes de inversión.
 
