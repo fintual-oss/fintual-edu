@@ -44,8 +44,12 @@ Ahora, vamos un ejemplo usando un ETF (fondo transado en bolsa, por sus siglas e
 
 Imaginemos que estás invirtiendo en este ETF. Tus inversiones deberían crecer como este gráfico:
 
-![Precio del SPY desde enero de 1993. No incluye reinversión de dividendos.](/uploads/pérdidas-de-c8163.png)_Precio del SPY desde enero de 1993. No incluye reinversión de dividendos._
-
+<div style="text-align:center">
+<figure>
+  <img src="/uploads/pérdidas-de-c8163.png">
+  <figcaption>Precio del SPY desde enero de 1993. No incluye reinversión de dividendos.</figcaption>
+</figure>
+</div>
 
 La segunda “gran caída” es la crisis financiera del 2008 (conocida también como crisis “_subprime_”). Imagínate que, en medio de la crisis, se te ocurre salir el 4 de noviembre del 2008, cuando todos los titulares de las noticias hablaban de la crisis, y volviste a entrar 5 años después.
 
