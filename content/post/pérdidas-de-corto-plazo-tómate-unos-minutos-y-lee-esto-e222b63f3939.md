@@ -21,9 +21,14 @@ A continuación voy a tratar de mostrar que es casi imposible alcanzar un nivel 
 
 La prensa y las redes sociales en general suelen estar llenos de “gurús” de las inversiones, anticipando cuándo va a ser la próxima crisis financiera mundial. Sin embargo, la historia muestra que un evento tan particular como una crisis financiera global es muy difícil de predecir, casi imposible.
 
-![Cuando los europeos llegaron a Australia no podían creer la existencia de cisnes negros: hasta entonces, habían vivido sumergidos en un mundo donde era imposible que existieran. Ahora que viste la foto, te parece obvio que existen.](/uploads/pérdidas-de-c8529.jpeg)_Cuando los europeos llegaron a Australia no podían creer la existencia de cisnes negros: hasta entonces, habían vivido sumergidos en un mundo donde era imposible que existieran. Ahora que viste la foto, te parece obvio que existen._
+<div style="text-align:center">
+<figure>
+  <img src="/uploads/pérdidas-de-c8529.jpeg">
+  <figcaption>Cuando los europeos llegaron a Australia no podían creer la existencia de cisnes negros: hasta entonces, habían vivido sumergidos en un mundo donde era imposible que existieran. Ahora que viste la foto, te parece obvio que existen.</figcaption>
+</figure>
+</div>
 
-Explicado por Nassim Nicholas Taleb en sus libros “_Fooled by Randomness_” y “_The Black Swan_”, las grandes crisis financieras son parte de eventos altamente aleatorios e impredecibles, los cuales una vez sucedidos, se suelen tratar de explicar y racionalizar, pensando que se podría haber anticipado si sucediesen nuevamente, y de este modo generando la falsa ilusión que se podrá hacer con la siguiente crisis que aparezca en el futuro. Sin embargo, la historia ha demostrado que eventos tan altamente aleatorios e improbables como una crisis financiera global están lejos de ser predecibles.
+Explicado por Nassim Nicholas Taleb en sus libros “Fooled by Randomness” y “The Black Swan”, las grandes crisis financieras son parte de eventos altamente aleatorios e impredecibles, los cuales una vez sucedidos, se suelen tratar de explicar y racionalizar, pensando que se podría haber anticipado si sucediesen nuevamente, y de este modo generando la falsa ilusión que se podrá hacer con la siguiente crisis que aparezca en el futuro. Sin embargo, la historia ha demostrado que eventos tan altamente aleatorios e improbables como una crisis financiera global están lejos de ser predecibles.
 
 Ahora, olvidando todo este punto y asumiendo que alguien pudiese adivinar una crisis, el problema aún más difícil es saber cómo actuar bien en medio de una, que es el tema del punto siguiente.
 
@@ -33,7 +38,7 @@ Ahora, olvidando todo este punto y asumiendo que alguien pudiese adivinar una cr
 
 La historia ha mostrado que casi siempre pierdes en este juego. Incluso, hay un juego en internet para que lo veas por ti mismo [acá](http://engaging-data.com/market-timing-game/) y [acá](https://qz.com/487013/this-game-will-show-you-just-how-foolish-it-is-to-sell-stocks-right-now/).
 
-Es algo bien estudiado por expertos. Numerosos estudios han demostrado la inutilidad de tratar de ganarle de esa forma al mercado. Una de los más famosos “_Likely Gains From Market Timing_”, realizado por el premio Nobel William F. Sharpe, concluye que necesitas estar en lo correcto 74% de las veces para ganarle a un portafolio de referencia que no hace nada más que seguir el mercado (un índice financiero, por ejemplo). Y en otro estudio, realizado por Morningstar, estiman que los portafolios que se mueven activamente, saliendo y entrando del mercado entre el 2004 y el 2014, retornaron 1,5% menos que un portafolio pasivo, que no hizo nada más que seguir al mercado en ese intervalo de tiempo.
+Es algo bien estudiado por expertos. Numerosos estudios han demostrado la inutilidad de tratar de ganarle de esa forma al mercado. Una de los más famosos “Likely Gains From Market Timing”, realizado por el premio Nobel William F. Sharpe, concluye que necesitas estar en lo correcto 74% de las veces para ganarle a un portafolio de referencia que no hace nada más que seguir el mercado (un índice financiero, por ejemplo). Y en otro estudio, realizado por Morningstar, estiman que los portafolios que se mueven activamente, saliendo y entrando del mercado entre el 2004 y el 2014, retornaron 1,5% menos que un portafolio pasivo, que no hizo nada más que seguir al mercado en ese intervalo de tiempo.
 
 Ahora, vamos un ejemplo usando un ETF (fondo transado en bolsa, por sus siglas en inglés) que replica al índice de acciones en Estados Unidos S&P 500: el SPY, un ETF que transa en bolsa desde enero de 1993. Elegimos este ETF por la cantidad de años que tiene de historia y por lo simple que es. Los precios están en dólares, no hay reinversión de dividendos de las acciones, ni tampoco se puede invertir en algo de muy bajo riesgo cuando saliste de una inversión, todo por simplicidad, el resultado es básicamente el mismo.
 
