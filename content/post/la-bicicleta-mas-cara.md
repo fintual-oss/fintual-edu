@@ -1,6 +1,6 @@
 ---
-date: 2018-07-05 04:41:49 +0000
-title: Antes de que te compres la bicicleta más cara, lee esto.
+date: 2018-07-05T04:41:49.000+00:00
+title: Antes de que te compres la bicicleta más cara, lee esto
 url: "/la-bicicleta-mas-cara/"
 
 ---
