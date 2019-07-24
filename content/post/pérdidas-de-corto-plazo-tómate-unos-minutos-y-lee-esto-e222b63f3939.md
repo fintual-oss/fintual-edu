@@ -54,19 +54,14 @@ Como moraleja, lo que hay que tratar de hacer bien es elegir el instrumento y gr
 
 ## 3. Alcanzar los retornos necesarios para recuperarse de una caída del mercado es más difícil de lo que crees
 
+Si miras la tabla de a continuación, que muestra qué porcentaje necesitas rentar para poder compensar una caída, te darás cuenta que necesitarás mucho más retorno en tus inversiones para alcanzar el mismo nivel de inversión que tenías antes de una gran caída:
+
 <div style="text-align:center">
 <figure>
-  <img src="/uploads/pérdidas-de-c3216.png" style="width:100%">
+  <img src="/uploads/pérdidas-de-c3216.png">
   <figcaption>Lo que necesitas volver a rentar (columna derecha) para volver al mismo nivel, después de enfrentar una pérdida (columna izquierda).</figcaption>
 </figure>
 </div>
-
-Si miras la tabla de a continuación, que muestra qué porcentaje necesitas rentar para poder compensar una caída, te darás cuenta que necesitarás mucho más retorno en tus inversiones para alcanzar el mismo nivel de inversión que tenías antes de una gran caída:
-
-
-
-![Lo que necesitas volver a rentar (columna derecha) para volver al mismo nivel, después de enfrentar una pérdida (columna izquierda).](/uploads/pérdidas-de-c3216.png)_Lo que necesitas volver a rentar (columna derecha) para volver al mismo nivel, después de enfrentar una pérdida (columna izquierda)._
-
 
 ## 4. Buenos periodos de rentabilidad generalmente contienen años completos de rendimientos negativos o crisis
 
@@ -74,7 +69,7 @@ Volvamos nuevamente al ejemplo del SPY. Si miras como ha rentado su precio consi
 
 ![Retorno de 10 años según la fecha de término del periodo, no considera reinversión de dividendos (si no, serían retornos aún mejores). Retornos expresados en dólares de Estados Unidos.](/uploads/pérdidas-de-c5802.png)_Retorno de 10 años según la fecha de término del periodo, no considera reinversión de dividendos (si no, serían retornos aún mejores). Retornos expresados en dólares de Estados Unidos._
 
-Si miran con atención, los años entre el 2012 al 2018 tienen periodos completos de buenos desempeños pese a haber incluido la crisis *subprime *del 2008. Considera además que en periodos más largos los retornos son aún más estables.
+Si miran con atención, los años entre el 2012 al 2018 tienen periodos completos de buenos desempeños pese a haber incluido la crisis subprime del 2008. Considera además que en periodos más largos los retornos son aún más estables.
 
 ## ¿Y qué pasa en Fintual?
 
