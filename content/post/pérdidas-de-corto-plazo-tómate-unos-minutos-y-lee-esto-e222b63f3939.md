@@ -59,6 +59,8 @@ Si miras la tabla de a continuación, que muestra qué porcentaje necesitas rent
 <div style=“text-align:center”>
 <img src="/uploads/pérdidas-de-c3216.png">
 </div>
+
+
 ![Lo que necesitas volver a rentar (columna derecha) para volver al mismo nivel, después de enfrentar una pérdida (columna izquierda).](/uploads/pérdidas-de-c3216.png)_Lo que necesitas volver a rentar (columna derecha) para volver al mismo nivel, después de enfrentar una pérdida (columna izquierda)._
 
 
