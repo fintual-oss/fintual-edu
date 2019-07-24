@@ -2,7 +2,7 @@
 author: FranFeuer
 author_thumbnail: "/uploads/francisca_feuerhake.jpg"
 title: 'Constanza Michelson: “La plata es cochina, eso le enseñan a uno desde chico”.'
-date: 2018-05-11 00:00:00 +0000
+date: 2018-05-11T00:00:00.000+00:00
 image: "/uploads/constanza-michelson.png"
 categories:
 - entrevistas
@@ -10,9 +10,10 @@ url: "/constanza-michelson-la-plata-es-cochina-eso-le-enseñan-a-uno-desde-chico
 
 ---
 ![](/uploads/constanza_michelson.png)
-## La psicoanalista cuenta que en el colegio se avergonzaba de su situación económica, que se gasta todo lo que gana y que Kidzania no es tan terrible como creen los progres.
 
-*Esta entrevista es parte de la serie “Con dinero y sin dinero” de [FINTUAL](https://fintual.cl) donde preguntamos a gente interesante sobre el rol que el dinero ha jugado en sus vidas. Constanza Michelson es psicóloga de la Universidad Diego Portales con magister en psicoanálisis. Escribe columnas en diversos medios como The Clinic, Tendencias de La Tercera y Huffington Post España. Ha publicado dos libros: “50 sombras de Freud: laberintos del amor y el sexo” (Catalonia, 2015) y “Neuróticos” (Planeta, 2017)*
+## La psicoanalista cuenta que en el colegio se avergonzaba de su situación económica, que se gasta todo lo que gana y que Kidzania no es tan terrible como creen los progres
+
+_Esta entrevista es parte de la serie “Con dinero y sin dinero” de_ [_FINTUAL_](https://fintual.cl) _donde preguntamos a gente interesante sobre el rol que el dinero ha jugado en sus vidas. Constanza Michelson es psicóloga de la Universidad Diego Portales con magister en psicoanálisis. Escribe columnas en diversos medios como The Clinic, Tendencias de La Tercera y Huffington Post España. Ha publicado dos libros: “50 sombras de Freud: laberintos del amor y el sexo” (Catalonia, 2015) y “Neuróticos” (Planeta, 2017)_
 
 **¿Cuándo te diste cuenta de que existía la plata?**
 
@@ -66,7 +67,7 @@ Sí, obvio, después tengo culpa. Siempre tengo culpa, y pongo la tarjeta de cr�
 
 **También hay un sentimiento de omnipotencia cuando pasamos la tarjeta y pagamos…**
 
-Sí, es como salir a cazar, un acto fálico: yo *puedo*, yo *tengo*, independientemente de cómo. Es la sensación de poder la que nos gusta tanto creo. Al momento de pagar también hay un momento de alivio: “ya, tengo el objeto”, pero empieza la ansiedad de nuevo. Ese es el acto compulsivo que sirve para sostener la pulsión. La pulsión siempre va a estar, pero cambia el escenario, el montaje: puede ser el casino, la comida. El problema es que consumir es estéticamente feo, pero es rico.
+Sí, es como salir a cazar, un acto fálico: yo _puedo_, yo _tengo_, independientemente de cómo. Es la sensación de poder la que nos gusta tanto creo. Al momento de pagar también hay un momento de alivio: “ya, tengo el objeto”, pero empieza la ansiedad de nuevo. Ese es el acto compulsivo que sirve para sostener la pulsión. La pulsión siempre va a estar, pero cambia el escenario, el montaje: puede ser el casino, la comida. El problema es que consumir es estéticamente feo, pero es rico.
 
 **Veo que le has dado una vuelta a tu relación con la plata.**
 
@@ -78,4 +79,4 @@ Mira, mis hijas juntan plata en un chanchito. Y es muy típico en los niños, qu
 
 **Y a manejar la angustia que produce gastarse su plata**
 
-Exactamente. Las invito a que rompan en chanchito y se compren algo. Me acuerdo que cuando apareció Kidzania, fue un escándalo. Algunos alegaban que les meterían el capitalismo y las marcas a los niños en la cabeza. Pero la verdad es que eso es ridículo, porque los niños viven viendo marcas y *todo* se les queda en la cabeza de maneras que no podemos calcular del todo (por suerte). Lo que me llama la atención es este discurso de “los niños todavía no entran al capitalismo.” Perdón, pero ¡ya están en el capitalismo! Otra cosa es enseñarles que cada acto, ya sea de consumo, de su forma de gastar, compartir, son también actos políticos y éticos. Tener una relación al dinero creo que también se educa de algún modo.
+Exactamente. Las invito a que rompan en chanchito y se compren algo. Me acuerdo que cuando apareció Kidzania, fue un escándalo. Algunos alegaban que les meterían el capitalismo y las marcas a los niños en la cabeza. Pero la verdad es que eso es ridículo, porque los niños viven viendo marcas y _todo_ se les queda en la cabeza de maneras que no podemos calcular del todo (por suerte). Lo que me llama la atención es este discurso de “los niños todavía no entran al capitalismo.” Perdón, pero ¡ya están en el capitalismo! Otra cosa es enseñarles que cada acto, ya sea de consumo, de su forma de gastar, compartir, son también actos políticos y éticos. Tener una relación al dinero creo que también se educa de algún modo.
