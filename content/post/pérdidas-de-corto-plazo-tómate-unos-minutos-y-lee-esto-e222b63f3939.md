@@ -53,11 +53,21 @@ Imaginemos que estás invirtiendo en este ETF. Tus inversiones deberían crecer 
 
 La segunda “gran caída” es la crisis financiera del 2008 (conocida también como crisis “_subprime_”). Imagínate que, en medio de la crisis, se te ocurre salir el 4 de noviembre del 2008, cuando todos los titulares de las noticias hablaban de la crisis, y volviste a entrar 5 años después.
 
-![Así te sientes probablemente al salir durante la crisis, y poder volver a entrar cuando todo está mucho más tranquilo.](/uploads/pérdidas-de-c6643.png)_Así te sientes probablemente al salir durante la crisis, y poder volver a entrar cuando todo está mucho más tranquilo._
+<div style="text-align:center">
+<figure>
+  <img src="/uploads/pérdidas-de-c6643.png">
+  <figcaption>Así te sientes probablemente al salir durante la crisis, y poder volver a entrar cuando todo está mucho más tranquilo.</figcaption>
+</figure>
+</div>
 
 Al parecer, sientes que lo hiciste bien, que te salvaste de la caída total. Saliste justo antes que todo llegara más abajo, y volviste a entrar 5 años después, cuando ya no quedaba indicios de la crisis, el 4 de noviembre del 2013, ya todo muy tranquilo y las bolsas en todos lados subiendo. Que alivio. Pero no. Si revisas con cuidado, lo que realmente le pasó a tus inversiones fue algo como esto:
 
-![La línea roja muestra realmente lo que pasó con tu inversión si te retiraste en medio de una caída.](/uploads/pérdidas-de-c6329.png)_La línea roja muestra realmente lo que pasó con tu inversión si te retiraste en medio de una caída._
+<div style="text-align:center">
+<figure>
+  <img src="/uploads/pérdidas-de-c6329.png">
+  <figcaption>La línea roja muestra realmente lo que pasó con tu inversión si te retiraste en medio de una caída.</figcaption>
+</figure>
+</div>
 
 Como moraleja, lo que hay que tratar de hacer bien es elegir el instrumento y grado de riesgo adecuado para el horizonte de inversión y plan de inversión determinado. Seguramente para invertir por 6 meses no tiene ningún sentido hacerlo usando acciones, pero si vas a invertir desde un par de años en adelante, vale la pena considerarlos.
 
@@ -76,7 +86,12 @@ Si miras la tabla de a continuación, que muestra qué porcentaje necesitas rent
 
 Volvamos nuevamente al ejemplo del SPY. Si miras como ha rentado su precio considerando ventanas de 10 años de duración verás algo como el siguiente gráfico:
 
-![Retorno de 10 años según la fecha de término del periodo, no considera reinversión de dividendos (si no, serían retornos aún mejores). Retornos expresados en dólares de Estados Unidos.](/uploads/pérdidas-de-c5802.png)_Retorno de 10 años según la fecha de término del periodo, no considera reinversión de dividendos (si no, serían retornos aún mejores). Retornos expresados en dólares de Estados Unidos._
+<div style="text-align:center">
+<figure>
+  <img src="/uploads/pérdidas-de-c5802.png">
+  <figcaption>Retorno de 10 años según la fecha de término del periodo, no considera reinversión de dividendos (si no, serían retornos aún mejores). Retornos expresados en dólares de Estados Unidos.</figcaption>
+</figure>
+</div>
 
 Si miran con atención, los años entre el 2012 al 2018 tienen periodos completos de buenos desempeños pese a haber incluido la crisis subprime del 2008. Considera además que en periodos más largos los retornos son aún más estables.
 
