@@ -7,7 +7,7 @@ date = "2019-03-18T03:00:00+00:00"
 description = "Conceptos financieros básicos, casos."
 hide = false
 image = "/uploads/omaru2.png"
-title = "Clase 2. Conceptos financieros, casos. "
+title = "Clase 2. Conceptos financieros, casos"
 url = "/finclass-2"
 
 +++
