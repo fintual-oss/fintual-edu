@@ -30,7 +30,12 @@ Al invertir las cosas no serán muy diferentes y básicamente hay dos caminos qu
 * Buscar los beneficios rápidos (pero poco probables), apostando por tener suerte inmediata, con la consecuente adrenalina/estrés que conlleva ganar o perder —similar a ir al casino—, o
 * Una actitud **tranquila pero disciplinada** al moment de invertir, planificando en el largo plazo, sin perder el foco ante cada noticia, sin caer, por ejemplo, en el pánico en el caso de sufrir [una pérdida de corto plazo.](https://blog.fintual.cl/p%C3%A9rdidas-de-corto-plazo-t%C3%B3mate-unos-minutos-y-lee-esto-e222b63f3939)
 
-![Algunos prefieren apostar a corto plazo que generar un plan de inversión de largo plazo.](/uploads/5-errores-com4231.jpg)_Algunos prefieren apostar a corto plazo que generar un plan de inversión de largo plazo._
+<div style="text-align:center">
+<figure>
+<img src="/uploads/5-errores-com4231.jpg">
+<figcaption><i>Algunos prefieren apostar a corto plazo que generar un plan de inversión de largo plazo.</i></figcaption>
+</figure>
+</div>
 
 Si lo tuyo es lo segundo, vale la pena seguir leyendo el resto de los errores que se comenten comúnmente.
 
@@ -44,7 +49,12 @@ La idea es simple: **no dejes todos los huevos en un mismo canasto**. En términ
 
 Un buen plan de inversión generalmente contempla ahorros de forma periódica, generalmente una vez al mes. Esto se hace muy fácil cuando el mercado está en alza: tus inversiones van bien, así que seguramente tendrás más ganas de invertir mes a mes. Sin embargo, cuando el mercado está a la baja, el miedo puede ser mayor que las ganas de seguir un plan, lo cual es un gran error porque resulta ser contraproducente: si el mercado está más “barato”, con mayor razón no deberías detener tu plan.
 
-![Warren Buffett con una camisa de lagartijas.](/uploads/5-errores-com7045.png)_Warren Buffett con una camisa de lagartijas._
+<div style="text-align:center">
+<figure>
+<img src="/uploads/5-errores-com7045.png">
+<figcaption><i>Warren Buffett con una camisa de lagartijas.</i></figcaption>
+</figure>
+</div>
 
 Warren Buffet es uno de los grandes inversionistas de la historia, y de esta forma explica qué hacer cuando el mercado está a la baja:
 
