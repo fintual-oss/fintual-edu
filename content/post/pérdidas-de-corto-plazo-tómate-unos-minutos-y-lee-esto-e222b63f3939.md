@@ -24,7 +24,7 @@ La prensa y las redes sociales en general suelen estar llenos de “gurús” de
 <div style="text-align:center">
 <figure>
   <img src="/uploads/pérdidas-de-c8529.jpeg">
-  <figcaption>Cuando los europeos llegaron a Australia no podían creer la existencia de cisnes negros: hasta entonces, habían vivido sumergidos en un mundo donde era imposible que existieran. Ahora que viste la foto, te parece obvio que existen.</figcaption>
+  <figcaption><i>Cuando los europeos llegaron a Australia no podían creer la existencia de cisnes negros: hasta entonces, habían vivido sumergidos en un mundo donde era imposible que existieran. Ahora que viste la foto, te parece obvio que existen.</i></figcaption>
 </figure>
 </div>
 
