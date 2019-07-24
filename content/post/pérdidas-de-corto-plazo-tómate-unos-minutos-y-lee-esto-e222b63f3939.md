@@ -28,7 +28,7 @@ La prensa y las redes sociales en general suelen estar llenos de “gurús” de
 </figure>
 </div>
 
-Explicado por Nassim Nicholas Taleb en sus libros “Fooled by Randomness” y “The Black Swan”, las grandes crisis financieras son parte de eventos altamente aleatorios e impredecibles, los cuales una vez sucedidos, se suelen tratar de explicar y racionalizar, pensando que se podría haber anticipado si sucediesen nuevamente, y de este modo generando la falsa ilusión que se podrá hacer con la siguiente crisis que aparezca en el futuro. Sin embargo, la historia ha demostrado que eventos tan altamente aleatorios e improbables como una crisis financiera global están lejos de ser predecibles.
+Explicado por Nassim Nicholas Taleb en sus libros <i>“Fooled by Randomness”</i> y <i>“The Black Swan”</i>, las grandes crisis financieras son parte de eventos altamente aleatorios e impredecibles, los cuales una vez sucedidos, se suelen tratar de explicar y racionalizar, pensando que se podría haber anticipado si sucediesen nuevamente, y de este modo generando la falsa ilusión que se podrá hacer con la siguiente crisis que aparezca en el futuro. Sin embargo, la historia ha demostrado que eventos tan altamente aleatorios e improbables como una crisis financiera global están lejos de ser predecibles.
 
 Ahora, olvidando todo este punto y asumiendo que alguien pudiese adivinar una crisis, el problema aún más difícil es saber cómo actuar bien en medio de una, que es el tema del punto siguiente.
 
@@ -47,16 +47,16 @@ Imaginemos que estás invirtiendo en este ETF. Tus inversiones deberían crecer 
 <div style="text-align:center">
 <figure>
   <img src="/uploads/pérdidas-de-c8163.png">
-  <figcaption>Precio del SPY desde enero de 1993. No incluye reinversión de dividendos.</figcaption>
+  <figcaption><i>Precio del SPY desde enero de 1993. No incluye reinversión de dividendos.</i></figcaption>
 </figure>
 </div>
 
-La segunda “gran caída” es la crisis financiera del 2008 (conocida también como crisis “_subprime_”). Imagínate que, en medio de la crisis, se te ocurre salir el 4 de noviembre del 2008, cuando todos los titulares de las noticias hablaban de la crisis, y volviste a entrar 5 años después.
+La segunda “gran caída” es la crisis financiera del 2008 (conocida también como crisis <i>“subprime”</i>). Imagínate que, en medio de la crisis, se te ocurre salir el 4 de noviembre del 2008, cuando todos los titulares de las noticias hablaban de la crisis, y volviste a entrar 5 años después.
 
 <div style="text-align:center">
 <figure>
   <img src="/uploads/pérdidas-de-c6643.png">
-  <figcaption>Así te sientes probablemente al salir durante la crisis, y poder volver a entrar cuando todo está mucho más tranquilo.</figcaption>
+  <figcaption><i>Así te sientes probablemente al salir durante la crisis, y poder volver a entrar cuando todo está mucho más tranquilo.</i></figcaption>
 </figure>
 </div>
 
@@ -65,7 +65,7 @@ Al parecer, sientes que lo hiciste bien, que te salvaste de la caída total. Sal
 <div style="text-align:center">
 <figure>
   <img src="/uploads/pérdidas-de-c6329.png">
-  <figcaption>La línea roja muestra realmente lo que pasó con tu inversión si te retiraste en medio de una caída.</figcaption>
+  <figcaption><i>La línea roja muestra realmente lo que pasó con tu inversión si te retiraste en medio de una caída.</i></figcaption>
 </figure>
 </div>
 
@@ -78,7 +78,7 @@ Si miras la tabla de a continuación, que muestra qué porcentaje necesitas rent
 <div style="text-align:center">
 <figure>
   <img src="/uploads/pérdidas-de-c3216.png">
-  <figcaption>Lo que necesitas volver a rentar (columna derecha) para volver al mismo nivel, después de enfrentar una pérdida (columna izquierda).</figcaption>
+  <figcaption><i>Lo que necesitas volver a rentar (columna derecha) para volver al mismo nivel, después de enfrentar una pérdida (columna izquierda).</i></figcaption>
 </figure>
 </div>
 
@@ -89,7 +89,7 @@ Volvamos nuevamente al ejemplo del SPY. Si miras como ha rentado su precio consi
 <div style="text-align:center">
 <figure>
   <img src="/uploads/pérdidas-de-c5802.png">
-  <figcaption>Retorno de 10 años según la fecha de término del periodo, no considera reinversión de dividendos (si no, serían retornos aún mejores). Retornos expresados en dólares de Estados Unidos.</figcaption>
+  <figcaption><i>Retorno de 10 años según la fecha de término del periodo, no considera reinversión de dividendos (si no, serían retornos aún mejores). Retornos expresados en dólares de Estados Unidos.</i></figcaption>
 </figure>
 </div>
 
@@ -97,7 +97,7 @@ Si miran con atención, los años entre el 2012 al 2018 tienen periodos completo
 
 ## ¿Y qué pasa en Fintual?
 
-Estar invirtiendo apropiadamente en Fintual significa estar tomando niveles de riesgo acorde al horizonte de inversión y a cuán cómodo te sientes con ese nivel de riesgo, y haciendo esto para cada uno de tus diferentes planes de inversiones. Las recomendaciones de Fintual limitan la cantidad de porcentaje de activos riesgosos en función del plazo de inversión — a menor plazo, menos activos riesgosos son recomendados para cada plan — , y sólo después de considerar estas limitaciones, Fintual te entrega 5 opciones de carteras, cada una con niveles de riesgo distinto para que puedas elegir. Y puedes tomar distintos planes de inversión, cada uno con distintos niveles de riesgo, ya que sabemos que no es lo mismo invertir para tu jubilación, que para un pie de una casa, o que para comprar un auto.
+Estar invirtiendo apropiadamente en Fintual significa estar tomando niveles de riesgo acorde al horizonte de inversión y a cuán cómodo te sientes con ese nivel de riesgo, y haciendo esto para cada uno de tus diferentes planes de inversiones. Las recomendaciones de Fintual limitan la cantidad de porcentaje de activos riesgosos en función del plazo de inversión —a menor plazo, menos activos riesgosos son recomendados para cada plan— , y sólo después de considerar estas limitaciones, Fintual te entrega 5 opciones de carteras, cada una con niveles de riesgo distinto para que puedas elegir. Y puedes tomar distintos planes de inversión, cada uno con distintos niveles de riesgo, ya que sabemos que no es lo mismo invertir para tu jubilación, que para un pie de una casa, o que para comprar un auto.
 
 Tomar más riesgo del que te sientes cómodo para un plan de inversión determinado significa que estás arriesgando más porcentaje de tu inversión en caso de una caída de precios del mercado, lo que podría causar que no alcances tus metas en los malos escenarios, y que de seguro causará que estés constantemente preocupado de cómo va tu inversión, mirando a cada rato en Fintual.com tu estado de cuenta. En este caso, seguro que te vas a sentir más mal que bien: en general, como personas nos tendemos a sentir mucho peor con una pérdida que lo bien que nos sentimos por una ganancia del mismo monto. Es por eso que te recomendamos utilizar el simulador de inversiones de Fintual.com, donde podrás ver un caso estimado en un escenario pesimista (definido por medio del 2,5% de los peores casos históricos), y ver si es que esto no te hace sentir incómodo.
 
