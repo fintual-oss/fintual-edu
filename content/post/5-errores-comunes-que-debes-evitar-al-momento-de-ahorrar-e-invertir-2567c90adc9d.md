@@ -75,11 +75,21 @@ En resumen: invertir de forma periódica tiene muchísimo sentido financiero.
 
 Emociones: probablemente la primera razón de malas decisiones financieras. El mercado no se comporta de forma racional, sino que es un sistema complejo dominado muchas veces por ráfagas temporales de miedo o de euforia.
 
-![Pánico en la bolsa de New York, año 1987. Jim Wilson/The New York Times.](/uploads/5-errores-com7398)_Pánico en la bolsa de New York, año 1987. Jim Wilson/The New York Times._
+<div style="text-align:center">
+<figure>
+<img src="/uploads/5-errores-com7398">
+<figcaption><i>Pánico en la bolsa de New York, año 1987. Jim Wilson/The New York Times.</i></figcaption>
+</figure>
+</div>
 
 Las acciones —por ejemplo— pueden tener grandes desviaciones en periodos cortos de tiempo, sin embargo, en el largo plazo los retornos son más estables y más altos que instrumentos conservadores (como por ejemplo, depósitos a plazo). Entender esto permitirá incluso aprovechar las decisiones irracionales de otros inversionistas.
 
-![Finalmente invertir en el largo plazo es un proceso que exige auto-control y tranquilidad.](/uploads/5-errores-com5688)_Finalmente invertir en el largo plazo es un proceso que exige auto-control y tranquilidad._
+<div style="text-align:center">
+<figure>
+<img src="/uploads/5-errores-com5688">
+<figcaption><i>Finalmente invertir en el largo plazo es un proceso que exige auto-control y tranquilidad.</i></figcaption>
+</figure>
+</div>
 
 ## Error 5: No considerar los costos a la hora de invertir
 
