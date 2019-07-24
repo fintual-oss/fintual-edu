@@ -2,8 +2,8 @@
 author: Pedro Pineda
 author_thumbnail: "/uploads/pedro_pineda.png"
 title: 'Elisa Zulueta: “Gasto lo que tengo, no tengo cuenta corriente. No sé manejar
-  ese tipo de huevadas”.'
-date: 2016-10-16 00:00:00 +0000
+  ese tipo de huevadas”'
+date: 2016-10-16T00:00:00.000+00:00
 image: "/uploads/elis-zulueta.png"
 categories:
 - entrevistas
