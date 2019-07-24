@@ -54,6 +54,10 @@ Como moraleja, lo que hay que tratar de hacer bien es elegir el instrumento y gr
 
 ## 3. Alcanzar los retornos necesarios para recuperarse de una caída del mercado es más difícil de lo que crees
 
+<div style="text-align:center"><la imagen/>
+<img src="/uploads/pérdidas-de-c3216.png">
+</div>
+
 Si miras la tabla de a continuación, que muestra qué porcentaje necesitas rentar para poder compensar una caída, te darás cuenta que necesitarás mucho más retorno en tus inversiones para alcanzar el mismo nivel de inversión que tenías antes de una gran caída:
 
 
