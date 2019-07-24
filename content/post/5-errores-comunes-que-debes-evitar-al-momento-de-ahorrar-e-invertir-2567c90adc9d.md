@@ -58,7 +58,7 @@ Un buen plan de inversión generalmente contempla ahorros de forma periódica, g
 
 Warren Buffet es uno de los grandes inversionistas de la historia, y de esta forma explica qué hacer cuando el mercado está a la baja:
 
-_“Durante períodos dominados por el miedo, nunca debes olvidar dos cosas: primero, el miedo generalizado es tu amigo como inversionista, porque sirve para comprar gangas. Segundo, el miedo personal es tu enemigo”._
+> _“Durante períodos dominados por el miedo, nunca debes olvidar dos cosas: primero, el miedo generalizado es tu amigo como inversionista, porque sirve para comprar gangas. Segundo, el miedo personal es tu enemigo”._
 — Warren Buffet
 
 ¿Cómo esta idea se potencia cuando inviertes de forma periódica, como por ejemplo, ahorrando e invirtiendo $50.000 de forma mensual?
