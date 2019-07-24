@@ -7,7 +7,7 @@ date = "2019-04-01T03:00:00+00:00"
 description = "Clase #4 de Finanzas Aplicadas y Fintech en la Universidad de Chile."
 hide = false
 image = "/uploads/Screen Shot 2019-05-15 at 7.08.50 PM.png"
-title = "Clase 4. Casos: Bancos centrales, tasas de interés y el concepto del dinero. "
+title = "Clase 4. Casos: Bancos centrales, tasas de interés y el concepto del dinero"
 url = "/finclass-4"
 
 +++
