@@ -7,7 +7,7 @@ date = "2019-05-31T05:00:00+00:00"
 description = ""
 hide = false
 image = "/uploads/imgix-404314-unsplash.jpg"
-title = "Fintual destina US$250,000 para premiar a hackers."
+title = "Fintual destina US$250,000 para premiar a hackers"
 url = "/bug-bounty-program"
 
 +++

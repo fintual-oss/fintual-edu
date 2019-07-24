@@ -55,6 +55,8 @@ fields:
   label: Hide
   description: para esconder el post en edu (el link sigue funcionando)
 pages:
+- content/post/fintual-tiene-us-250-000-para-repartir-en-su-plan-de-recompensas-para
+  hackers.md
 - content/post/cómo-tener-un-poco-de-suerte-al-invertir-en-fintual-95c42d6b850c.md
 - content/post/clase-6-eventos-de-cola-burbujas-y-sesgos-conductuales-fallas-de-procesos-estadísticos.md
 - content/post/clase-9-mercados-y-teoría-de-portafolios.md
@@ -67,8 +69,6 @@ pages:
 - content/post/y-a-mí-qué-me-importa-que-bajen-las-tasas.md
 - content/post/finclass-clase-1-qué-es-un-fonto-mutuo-cómo-invertir-en-etfs.md
 - content/post/finclass-riesgo-y-aleatoriedad-clase-5.md
-- content/post/fintual-tiene-us-250-000-para-repartir-en-su-plan-de-recompensas-para
-  hackers.md
 - content/post/explicación.md
 - content/post/finclass-finanzas-aplicadas-y-fintech-clase-1.md
 - content/post/ejemplo-de-riesgo-diversificado-en-el-tiempo.md
