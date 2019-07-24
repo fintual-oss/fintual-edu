@@ -39,7 +39,9 @@ Ahora, vamos un ejemplo usando un ETF (fondo transado en bolsa, por sus siglas e
 
 Imaginemos que estás invirtiendo en este ETF. Tus inversiones deberían crecer como este gráfico:
 
+<div style=“text-align:center”>
 ![Precio del SPY desde enero de 1993. No incluye reinversión de dividendos.](/uploads/pérdidas-de-c8163.png)_Precio del SPY desde enero de 1993. No incluye reinversión de dividendos._
+</div>
 
 La segunda “gran caída” es la crisis financiera del 2008 (conocida también como crisis “_subprime_”). Imagínate que, en medio de la crisis, se te ocurre salir el 4 de noviembre del 2008, cuando todos los titulares de las noticias hablaban de la crisis, y volviste a entrar 5 años después.
 
@@ -55,7 +57,9 @@ Como moraleja, lo que hay que tratar de hacer bien es elegir el instrumento y gr
 
 Si miras la tabla de a continuación, que muestra qué porcentaje necesitas rentar para poder compensar una caída, te darás cuenta que necesitarás mucho más retorno en tus inversiones para alcanzar el mismo nivel de inversión que tenías antes de una gran caída:
 
+<div style=“text-align:center”>
 ![Lo que necesitas volver a rentar (columna derecha) para volver al mismo nivel, después de enfrentar una pérdida (columna izquierda).](/uploads/pérdidas-de-c3216.png)_Lo que necesitas volver a rentar (columna derecha) para volver al mismo nivel, después de enfrentar una pérdida (columna izquierda)._
+</div>
 
 ## 4. Buenos periodos de rentabilidad generalmente contienen años completos de rendimientos negativos o crisis
 
