@@ -7,7 +7,7 @@ date = "2019-04-22T04:00:00+00:00"
 description = "Eventos de cola, burbujas y sesgos conductuales. Fallas de procesos estadísticos."
 hide = false
 image = "/uploads/Clase6.png"
-title = "Clase 6. Eventos de cola, burbujas y sesgos conductuales. Fallas de procesos estadísticos."
+title = "Clase 6. Eventos de cola, burbujas y sesgos conductuales, fallas de procesos estadísticos"
 url = "/finclass-6"
 
 +++
