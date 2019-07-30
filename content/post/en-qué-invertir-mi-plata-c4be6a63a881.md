@@ -39,7 +39,7 @@ Un fondo mutuo es plata de mucha gente reunida (algo así como una _vaca_) para 
 
 Es **demasiado importante** fijarse en las comisiones. Hay administradoras de fondos mutuos que cobran un 6% de comisión al año (ni se arrugan) y eso es una locura. **Puede que tu fondo rente 5% en un año, pero como la comisión es 6%, _oh!,_ tienes una pérdida del 1%.**
 
-Hay otros fondos que tienen el descaro de llamarse “*Selección Acciones XXX” _y cobrarte una comisión de 4% anual,_ *pero terminan siendo una selección de ETF (que son mucho más baratos y no justifican esa comisión tan cara).
+Hay otros fondos que tienen el descaro de llamarse “Selección Acciones XXX” _y cobrarte una comisión de 4% anual,_ pero terminan siendo una selección de ETF (que son mucho más baratos y no justifican esa comisión tan cara).
 
 Eso pasa y mucho. **Especialmente porque la gran mayoría de la gente no tiene ni idea de cuánto le están cobrando de comisión o no entiende que 6% es un número gigantesco: en EE.UU. las comisiones son de 0,1% a 2%.**
 
