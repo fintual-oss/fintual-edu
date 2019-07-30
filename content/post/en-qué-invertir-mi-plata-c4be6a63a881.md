@@ -27,6 +27,8 @@ Peeero:
 
 * **Se necesita un intermediario**: las Corredoras de Bolsa. Cada transacción tiene un costo y los clientes con montos más pequeños (las personas comunes y corrientes) salen perjudicados. Cuando inviertes en acciones pagas, dependiendo de la corredora, un 0,5% de comisión al comprar y otro 0,5% al vender. Suba o baje la acción, ya tienes un 1% menos de tu dinero.
 * **Es muy difícil ganarle consistentemente al mercado** y predecir qué va a pasar en el futuro. Tan impredecible como una caída de 6% en una acción luego de que el [CEO de la compañía fume marihuana en un programa de radio](https://www.cnbc.com/2018/09/07/tesla-sinks-8percent-after-bizarre-musk-podcast-appearance-cao-exit.html). Todos los economistas y analistas dicen lo que creen, o incluso lo que les conviene decir, pero se equivocan muy seguido. Y cuando se equivoquen, aparecerán al día siguiente explicando porqué pasó lo contrario. _“China salió a comprar divisas inesperadamente”_ o cualquier otra explicación enredada que en retrospectiva se puede entender: después de la guerra somos todos generales. **Lo único que es 100% seguro son las comisiones que te van a cobrar.** En el largo plazo, en promedio, las acciones suben. En el corto plazo, nadie (o por lo menos tú no probablemente) tiene idea de lo que va a pasar.
+
+
 * **¿Qué acciones comprar?**: Nidea. Para no poner todos los huevos en la misma canasta siempre se recomienda armar un portafolio de varias acciones, pero el mercado chileno es bien pequeño y probablemente no estés en los círculos de información privilegiada (algunos reñidos con la ley), por lo que las recomendaciones que te lleguen serán de amigos que _“cachan”_ o de ejecutivos que tienen metas de ventas. **Los ejecutivos te venderán lo que les conviene a ellos, incluso por sobre tus intereses. **La ley no lo permite, la CMF dicta lo contrario en sus normativas, pero esto sigue siendo así y no creemos que vaya a cambiar. Si quieres hacerlo por tu cuenta, tienes que dedicar tu tiempo a leer seguido noticias financieras (y probablemente vas a llegar tarde igual). Para invertir en acciones y dormir tranquilo, la única estrategia que me atrevo a recomendar –y que históricamente ha dado resultado– es invertir de forma pasiva (siguiendo un índice o al promedio de un mercado).
 
 _![](/uploads/en-que-invertir.png)Imagen de Paul Colgan_
@@ -41,7 +43,7 @@ Hay otros fondos que tienen el descaro de llamarse “*Selección Acciones XXX�
 
 Eso pasa y mucho. **Especialmente porque la gran mayoría de la gente no tiene ni idea de cuánto le están cobrando de comisión o no entiende que 6% es un número gigantesco: en EE.UU. las comisiones son de 0,1% a 2%.**
 
-Acá puedes saber [**cuánto te cobra tu fondo mutuo](https://edu.fintual.com/cuanto-te-cobra-tu-fondo-mutuo/)**.
+Acá puedes saber [**cuánto te cobra tu fondo mutuo**](https://www.quefondomutuo.cl/).
 
 ### 4. APV
 
@@ -97,7 +99,7 @@ Un ETF puede ser visto como un portafolio de varias acciones de algún mercado, 
 
 Imagínate que existiera un ETF que se llamara ETF Chile, en el cual hay una acción de cada empresa en la Bolsa de Santiago. Si un día le fuera mal en promedio a la Bolsa de Santiago, lo mismo le pasaría al ETF Chile porque al tener acciones de todas las empresas posibles estaría replicando el comportamiento del mercado.
 
-De hecho, existe algo más o menos así que se llama ETF It now IPSA (por Índice de Precios Selectivo de Acciones), que incluye las 35 acciones del **S&P/CLX IPSA **(o las que tienen mayor presencia en el mercado chileno). Este ETF lo puedes comprar en el Banco Itaú, quienes lo administran y lo llaman ItNowIpsa.
+De hecho, existe algo más o menos así que se llama ETF It now IPSA (por Índice de Precios Selectivo de Acciones), que incluye las 35 acciones del **S&P/CLX IPSA** (o las que tienen mayor presencia en el mercado chileno). Este ETF lo puedes comprar en el Banco Itaú, quienes lo administran y lo llaman ItNowIpsa.
 
 Los ETFs no son muy comunes en Chile porque una de las características que tienen es que sean de alta liquidez (que sea muy fácil transformarlos en plata, es decir venderlos o comprarlos rápidamente), algo difícil en un mercado chico como el chileno donde hay pocos participantes que venden y compran.
 
