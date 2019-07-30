@@ -55,6 +55,7 @@ fields:
   label: Hide
   description: para esconder el post en edu (el link sigue funcionando)
 pages:
+- content/post/file.md
 - content/post/1.md
 - content/post/fintual-tiene-us-250-000-para-repartir-en-su-plan-de-recompensas-para
   hackers.md
