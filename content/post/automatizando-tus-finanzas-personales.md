@@ -66,7 +66,7 @@ _Nota: la planilla está hecha en base a tu sueldo bruto porque en Chile casi to
 
 Hay **ciertos descuentos que hace tu empleador de tu sueldo bruto antes de pagarte el líquido**, como tu AFP, isapre, impuestos y el seguro de cesantía.
 
-En general de esta fase ni nos enteramos, pero lo inteligente es chequear si te las pagaron. Para ayudar, creamos una nueva función en Fintual para que puedas seguirle la pista a tu AFP junto con el resto de tus objetivos (hoy en día sólo está habilitado para Modelo y Habitat).
+En general de esta fase ni nos enteramos, pero lo inteligente es chequear si te las pagaron. Para ayudar, **creamos una nueva función en Fintual para que puedas ver tu saldo actualizado en la AFP** junto con el resto de tus objetivos (hoy en día sólo está habilitado para Modelo y Habitat).
 
 **![](/uploads/agregar-afp.jpg)**
 
@@ -74,7 +74,7 @@ Tu empleador también te puede **descontar por planilla tu APV-B** **cuyo benefi
 
 Hechos los descuentos, **te debería llegar el sueldo líquido a tu cuenta corriente.**
 
-3. **Transferencias automáticas**
+### 3. Transferencias automáticas
 
 Que lata las transferencias, con sus digipasses, claves y mensajes de confirmación. Por eso lo mejor es automatizarlas. Así **tu sueldo va a fluir sin esfuerzo a tus distintos gastos, ahorros e inversiones.**
 
