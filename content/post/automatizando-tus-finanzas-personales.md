@@ -14,7 +14,7 @@ url = "automatizando-finanzas-personales"
 +++
 Hoy les voy a escribir a título personal. Me llamo Gonzalo y trabajo en Fintual.
 
-Últimamente mi pasatiempo maníatico ha sido crear un **sistema para optimizar mis finanzas sin dedicarles más que un par de horas al mes**.
+Últimamente mi pasatiempo ha sido crear un **sistema para optimizar mis finanzas sin dedicarles más que un par de horas al mes**.
 
 He estado pensando en esto porque **me carga andar sacando cuentas** pero sé que es súper importante sacarle el jugo a tu plata.
 
