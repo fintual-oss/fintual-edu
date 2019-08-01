@@ -5,7 +5,6 @@ author_thumbnail = "/uploads/Gonzalo Equipo.jpg"
 categories = []
 date = "2019-08-01T04:00:00+00:00"
 description = "Esta es una guía personal sobre cómo ordeno mis finanzas sin dedicarle más que un par de horas al mes."
-draft = true
 hide = false
 image = "/uploads/austin-distel-nGc5RT2HmF0-unsplash.jpg"
 title = "Cómo ordeno mis finanzas dedicándole sólo dos horas al mes"
