@@ -62,19 +62,19 @@ La primera vez que hagas esto puede ser medio latero, porque vas a tener que ent
 
 _Nota: la planilla está hecha en base a tu sueldo bruto porque en Chile casi todos estamos obligados a ahorrar para nuestra jubilación en la AFP, pagar isapre y otras cosas que pertenecen a categorías distintas._
 
-**2.** **Descuentos y pagos de tu sueldo**
+### 2. Descuentos y pagos de tu sueldo
 
-**H**ay ciertos descuentos que hace tu empleador de tu sueldo bruto antes de pagarte el líquido**, como tu AFP, isapre, impuestos y el seguro de cesantía.
+Hay **ciertos descuentos que hace tu empleador de tu sueldo bruto antes de pagarte el líquido**, como tu AFP, isapre, impuestos y el seguro de cesantía.
 
 En general de esta fase ni nos enteramos, pero lo inteligente es chequear si te las pagaron. Para ayudar, creamos una nueva función en Fintual para que puedas seguirle la pista a tu AFP junto con el resto de tus objetivos (hoy en día sólo está habilitado para Modelo y Habitat).
 
-**Screenshot botón agregar AFP en Mis Objetivos**
+**![](/uploads/agregar-afp.jpg)**
 
 Tu empleador también te puede **descontar por planilla tu APV-B** **cuyo beneficio es bajar tus impuestos.** Normalmente empieza a ser conveniente para personas que ganan $3MM o más.
 
 Hechos los descuentos, **te debería llegar el sueldo líquido a tu cuenta corriente.**
 
-**3.** **Transferencias automáticas**
+3. **Transferencias automáticas**
 
 Que lata las transferencias, con sus digipasses, claves y mensajes de confirmación. Por eso lo mejor es automatizarlas. Así **tu sueldo va a fluir sin esfuerzo a tus distintos gastos, ahorros e inversiones.**
 
