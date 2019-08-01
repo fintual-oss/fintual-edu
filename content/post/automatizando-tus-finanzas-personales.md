@@ -12,7 +12,15 @@ title = "Automatizando tus finanzas personales"
 url = "automatizando-finanzas-personales"
 
 +++
-Vamos **paso a paso**.
+Hoy les voy a escribir a título personal. Me llamo Gonzalo y trabajo en Fintual.
+
+Últimamente mi pasatiempo maníatico ha sido crear un **sistema para optimizar mis finanzas sin dedicarles más que un par de horas al mes**.
+
+He estado pensando en esto porque **me carga andar sacando cuentas** pero sé que es súper importante sacarle el jugo a tu plata.
+
+Y como me gusta lo simple, decidí automatizar las cosas para no tener que hacerlas yo.
+
+Aquí **te cuento cómo lo estoy haciendo** para que tú también tengas tus finanzas ordenadas sin enterrarte en presupuestos. Aprovecha mi TOC y vamos paso a paso.
 
 ### 1. Divide tu torta
 
