@@ -116,19 +116,18 @@ Esta es **mi configuración para las transferencias automáticas**:
 
 ***
 
-Encuentro bacán usar **Fintual para mi sistema porque es muy fácil ir viendo cómo están todas tus inversiones ordenadas, actualizadas y con su correspondiente nivel de riesgo.**
+Encuentro bacán usar **Fintual para mi sistema porque es muy fácil ir viendo cómo están todas tus inversiones ordenadas, actualizadas, creadas con un plazo y nivel de riesgo adecuado.**
 
 ![todas-las-inversiones-ordenadas-en-perfil-fintual](/uploads/mis-objetivos.jpg "mis-objetivos-fintual")
 
-Cuando haces una transferencia automática a Fintual te va a llegar un mail preguntándote a qué objetivo la quieres asignar. Muy fácil.
+Cuando haces una transferencia automática a Fintual te va a llegar un mail preguntándote a qué objetivo la quieres asignar. También puedes configurar que la asignación se haga automáticamente, diciéndole de antemano a Fintual qué tiene que hacer. Muy fácil.
 
-**Screenshot Mail ¿a qué objetivo quieres asignar?**
-
+![](/uploads/asignar-depositos.jpg)  
 **4. Ingresos extra**
 
-Tal como hay gastos inesperados, a veces toca recibir plata extra. Como soy joven, tengo un regla de invertir el 80% y gastar el 20%. Esto es porque la plata que invierta hoy tiene la posibilidad de crecer mucho a través del tiempo (oh, interés compuesto), cosa que no quiero desaprovechar.
+Tal como hay gastos inesperados, a veces toca recibir plata extra. Como soy joven, **tengo un regla de invertir el 80% y gastar el 20%**. Esto es porque la plata que invierta hoy tiene la posibilidad de crecer mucho a través del tiempo (oh, interés compuesto), cosa que no quiero desaprovechar.
 
-También me gusta meter un poco de plata en Bitcoin, pero sólo lo recomiendo si estás dispuesto a perderla. Pero si resulta... En todo caso, si eres una persona razonable nunca deberías tener en criptomonedas más del 1-2% del total de tu patrimonio. Yo tengo más porque hasta los ordenados tenemos nuestras locuras.
+**También me gusta meter un poco de plata en Bitcoin**, pero sólo lo recomiendo si estás dispuesto a perderla. Si eres conservador nunca deberías tener en criptomonedas más del 1-2% del total de tu patrimonio. Yo tengo más porque hasta los ordenados tenemos nuestras locuras.
 
 Ese es mi sistema y está lejos de ser perfecto. Pero es un buen punto de partida. ¿Tienes preguntas? ¿Qué te ha funcionado a ti? **Cuéntame, leo todos los mails.**
 
