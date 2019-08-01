@@ -7,12 +7,12 @@ date = "2019-08-01T04:00:00+00:00"
 description = "Esta es una guía personal sobre cómo ordeno mis finanzas sin dedicarle más que un par de horas al mes."
 draft = true
 hide = false
-image = ""
+image = "/uploads/austin-distel-nGc5RT2HmF0-unsplash.jpg"
 title = "Cómo ordeno mis finanzas dedicándole sólo dos horas al mes"
 url = "sistema-ordena-finanzas-dos-horas-al-mes"
 
 +++
-_Ésta es una guía personal sobre cómo ordeno mis finanzas sin dedicarle más que un par de horas al mes._
+_Esta es una guía personal sobre cómo ordeno mis finanzas sin dedicarle más que un par de horas al mes._
 
 **Sacar cuentas me pone mal genio.**
 
