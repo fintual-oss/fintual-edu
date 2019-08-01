@@ -14,34 +14,66 @@ url = "automatizando-finanzas-personales"
 +++
 Vamos **paso a paso**.
 
-1. **Divide tu torta**
+### **1. Divide tu torta**
 
 Esta etapa se trata de separar tus **ingresos mensuales** en 4 categorías distintas, cada una representando un porcentaje del total:
 
-| --- | --- | --- |
-| Gastos fijosTodo lo que tengas que pagar para vivir.Siempre se nos van a pasar cosas, por lo que a los gastos conocidos le agregamos un 15%. | arriendo/crédito, cuentas domésticas, isapre, transporte, supermercado, internet, impuestos, etc. | 50-60% |
-| AhorroTodos los ahorros que vayas a usar dentro de 5 años. | vacaciones, matrimonio, fondo de emergencia, etc. | 5-10% |
-| InversionesPlata que juntes y vayas usar en 5+ años. | AFP, APV, renta variable, propiedades, etc. | 15-25% |
-| Gastos chao culpaTus finanzas están ordenadas, te puedes dar algunos lujos.Pero ojo, tienes que elegir lo que más te gusta porque no puedes pasarte del porcentaje asignado. | carrete, conciertos, moda, deporte, esos audífonos nuevos que querías, restaurantes, en fin todo lo que antes gastabas igual pero te sentías culpable. | 15-30% |
+## 50-60%
 
-  
-La primera vez que hagas esto puede ser medio latero, porque vas a tener que entrar en el detalle de los distintos gastos. Pero **una vez que lo tengas listo, actualizarlo no cuesta nada.** Para hacerte la pega más fácil creamos esta planilla.  
-  
+#### **Gastos fijos**
+
+Todo lo que tengas que pagar para vivir. Siempre se nos van a pasar cosas, por lo que a los gastos conocidos le agregamos un 15%.
+
+> _Ej. arriendo/crédito, cuentas domésticas, isapre, transporte, supermercado, internet, impuestos, etc._
+
+***
+
+## 5-10%
+
+#### **Ahorro**
+
+Todos los ahorros que vayas a usar dentro de 5 años.
+
+> _Ej. vacaciones, matrimonio, fondo de emergencia, etc._
+
+***
+
+## 15-25%
+
+#### **Inversiones**
+
+Plata que juntes y vayas usar en 5+ años.
+
+> _Ej. AFP, APV, renta variable, propiedades, etc._
+
+***
+
+## 15-30%
+
+#### **Gastos chao culpa**
+
+Tus finanzas están ordenadas, te puedes dar algunos lujos. Pero ojo, tienes que elegir lo que más te gusta porque no puedes pasarte del porcentaje asignado.
+
+> _Ej. carrete, conciertos, moda, deporte, esos audífonos nuevos que querías, restaurantes, en fin todo lo que antes gastabas igual pero te sentías culpable._
+
+***
+
+La primera vez que hagas esto puede ser medio latero, porque vas a tener que entrar en el detalle de los distintos gastos. Pero **una vez que lo tengas listo, actualizarlo no cuesta nada.** Para hacerte la pega más fácil creamos esta planilla.
+
 _Nota: la planilla está hecha en base a tu sueldo bruto porque en Chile casi todos estamos obligados a ahorrar para nuestra jubilación en la AFP, pagar isapre y otras cosas que pertenecen a categorías distintas._
 
-  
-**2**. **Descuentos y pagos de tu sueldo  
-  
-**H**ay ciertos descuentos que hace tu empleador de tu sueldo bruto antes de pagarte el líquido**, como tu AFP, isapre, impuestos y el seguro de cesantía.  
-  
-En general de esta fase ni nos enteramos, pero lo inteligente es chequear si te las pagaron. Para ayudar, creamos una nueva función en Fintual para que puedas seguirle la pista a tu AFP junto con el resto de tus objetivos (hoy en día sólo está habilitado para Modelo y Habitat).  
-  
+**2.** **Descuentos y pagos de tu sueldo**
+
+**H**ay ciertos descuentos que hace tu empleador de tu sueldo bruto antes de pagarte el líquido**, como tu AFP, isapre, impuestos y el seguro de cesantía.
+
+En general de esta fase ni nos enteramos, pero lo inteligente es chequear si te las pagaron. Para ayudar, creamos una nueva función en Fintual para que puedas seguirle la pista a tu AFP junto con el resto de tus objetivos (hoy en día sólo está habilitado para Modelo y Habitat).
+
 **Screenshot botón agregar AFP en Mis Objetivos**
 
-Tu empleador también te puede **descontar por planilla tu APV-B** **cuyo beneficio es bajar tus impuestos.** Normalmente empieza a ser conveniente para personas que ganan $3MM o más.  
-  
-Hechos los descuentos, **te debería llegar el sueldo líquido a tu cuenta corriente.**  
-  
+Tu empleador también te puede **descontar por planilla tu APV-B** **cuyo beneficio es bajar tus impuestos.** Normalmente empieza a ser conveniente para personas que ganan $3MM o más.
+
+Hechos los descuentos, **te debería llegar el sueldo líquido a tu cuenta corriente.**
+
 **3.** **Transferencias automáticas**
 
 Que lata las transferencias, con sus digipasses, claves y mensajes de confirmación. Por eso lo mejor es automatizarlas. Así **tu sueldo va a fluir sin esfuerzo a tus distintos gastos, ahorros e inversiones.**
@@ -68,8 +100,8 @@ Cuando haces una transferencia automática a Fintual te va a llegar un mail preg
 
 **4. Ingresos extra**
 
-Tal como hay gastos inesperados, a veces toca recibir plata extra. Como soy joven, tengo un regla de invertir el 80% y gastar el 20%. Esto es porque la plata que invierta hoy tiene la posibilidad de crecer mucho a través del tiempo (oh, interés compuesto), cosa que no quiero desaprovechar.  
-  
+Tal como hay gastos inesperados, a veces toca recibir plata extra. Como soy joven, tengo un regla de invertir el 80% y gastar el 20%. Esto es porque la plata que invierta hoy tiene la posibilidad de crecer mucho a través del tiempo (oh, interés compuesto), cosa que no quiero desaprovechar.
+
 También me gusta meter un poco de plata en Bitcoin, pero sólo lo recomiendo si estás dispuesto a perderla. Pero si resulta... En todo caso, si eres una persona razonable nunca deberías tener en criptomonedas más del 1-2% del total de tu patrimonio. Yo tengo más porque hasta los ordenados tenemos nuestras locuras.
 
 Ese es mi sistema y está lejos de ser perfecto. Pero es un buen punto de partida. ¿Tienes preguntas? ¿Qué te ha funcionado a ti? **Cuéntame, leo todos los mails.**
