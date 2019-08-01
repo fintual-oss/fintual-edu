@@ -14,46 +14,46 @@ url = "automatizando-finanzas-personales"
 +++
 Vamos **paso a paso**.
 
-### **1. Divide tu torta**
+### 1. Divide tu torta
 
 Esta etapa se trata de separar tus **ingresos mensuales** en 4 categorías distintas, cada una representando un porcentaje del total:
 
-## 50-60%
-
-#### **Gastos fijos**
-
-Todo lo que tengas que pagar para vivir. Siempre se nos van a pasar cosas, por lo que a los gastos conocidos le agregamos un 15%.
-
+> ## 50-60%
+>
+> #### **Gastos fijos**
+>
+> Todo lo que tengas que pagar para vivir. Siempre se nos van a pasar cosas, por lo que a los gastos conocidos le agregamos un 15%.
+>
 > _Ej. arriendo/crédito, cuentas domésticas, isapre, transporte, supermercado, internet, impuestos, etc._
 
 ***
 
-## 5-10%
-
-#### **Ahorro**
-
-Todos los ahorros que vayas a usar dentro de 5 años.
-
+> ## 5-10%
+>
+> #### **Ahorro**
+>
+> Todos los ahorros que vayas a usar dentro de 5 años.
+>
 > _Ej. vacaciones, matrimonio, fondo de emergencia, etc._
 
 ***
 
-## 15-25%
-
-#### **Inversiones**
-
-Plata que juntes y vayas usar en 5+ años.
-
+> ## 15-25%
+>
+> #### **Inversiones**
+>
+> Plata que juntes y vayas usar en 5+ años.
+>
 > _Ej. AFP, APV, renta variable, propiedades, etc._
 
 ***
 
-## 15-30%
-
-#### **Gastos chao culpa**
-
-Tus finanzas están ordenadas, te puedes dar algunos lujos. Pero ojo, tienes que elegir lo que más te gusta porque no puedes pasarte del porcentaje asignado.
-
+> ## 15-30%
+>
+> #### **Gastos chao culpa**
+>
+> Tus finanzas están ordenadas, te puedes dar algunos lujos. Pero ojo, tienes que elegir lo que más te gusta porque no puedes pasarte del porcentaje asignado.
+>
 > _Ej. carrete, conciertos, moda, deporte, esos audífonos nuevos que querías, restaurantes, en fin todo lo que antes gastabas igual pero te sentías culpable._
 
 ***
