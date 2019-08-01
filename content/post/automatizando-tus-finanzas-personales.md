@@ -82,7 +82,39 @@ Que lata las transferencias, con sus digipasses, claves y mensajes de confirmaci
 
 ![como-programar-transferencias-automaticas-banco](/uploads/transferencias-programadas.png "programar-transferencias")
 
-Esta es mi configuración para las transferencias automáticas**:**
+Esta es **mi configuración para las transferencias automáticas**:
+
+> #### **Gastos fijos**
+>
+> El monto total de la planilla (que ya tiene un 15% extra) **sale de mi cuenta personal y va una cuenta que comparto con mi señora** (que es distinta de la que ella usa para sus cosas).
+>
+> _Tener cuentas separadas para nos permite da sanidad mental al evitar tener que andar revisando qué gastos pertenecen a qué. El objetivo es evitar pasar tiempo en latas. Así ando más simpático_ :)
+
+***
+
+> #### **Ahorro**
+>
+> Tengo programada **dos transferencias automáticas a Fintual, una para mi fondo de emergencia y otra para mis vacaciones**. Un fondo de emergencia no debería exceder de 1.5x tu sueldo mensual. Pero no tienes porqué limitarte a sólo dos objetivos: **puedes crear objetivos para todas las cosas puntuales** **que quieras,** como la matrícula de colegio de tu hijo/a.
+>
+> _En inversiones a plazos más cortos, es mejor elegir niveles de riesgo más bajos. Cuando eliges el plazo de tu objetivo en Fintual, el simulador te ayuda a tomar una buena decisión._
+
+***
+
+> #### **Inversiones**
+>
+> Tengo un APV-A en Fintual para mi jubilación con transferencia automática.
+>
+> _Aquí puedes asumir más riesgos. Para mi jubilación tengo full Risky Norris porque el plazo va a ser muy largo. Tengan APV-A porque tiene un beneficio buenísimo, el Estado te regala un 15% de lo que ahorras cada año, con un tope de 6 UTM. No sea pavo ;)_
+
+***
+
+> #### **Gastos libres de culpa**
+>
+> Esto lo dejo en mi cuenta corriente personal.
+>
+> _Hoy en día solamente llevo un registro de estos gastos. Antes usaba Fintonic para todo, pero con mi nuevo sistema no lo necesito y anoto estos gastos en iNotes para no pasarme._
+
+***
 
 | --- | --- |
 | Gastos fijosEl monto total de la planilla (que ya tiene un 15% extra) sale de mi cuenta personal y va una cuenta que comparto con mi señora (que es distinta de la que ella usa para sus cosas). | Tener cuentas separadas para nos permite da sanidad mental al evitar tener que andar revisando qué gastos pertenecen a qué. El objetivo es evitar pasar tiempo en latas. Así ando más simpático :) |
