@@ -8,7 +8,7 @@ description = ""
 draft = true
 hide = false
 image = ""
-title = "Cómo ordenar tus finanzas"
+title = ""
 url = "automatizando-finanzas-personales"
 
 +++
