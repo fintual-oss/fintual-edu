@@ -4,7 +4,7 @@ author = "Gonzalo Enei"
 author_thumbnail = "/uploads/Gonzalo Equipo.jpg"
 categories = []
 date = "2019-08-01T04:00:00+00:00"
-description = "Mi sueño es poder pasarle mis finanzas personales a un ser super inteligente para no preocuparme. Como eso todavía no existe, desarrollé 4 hacks para automatizar el proceso y no tener que hacerlo yo."
+description = "Esta es una guía personal sobre cómo ordeno mis finanzas sin dedicarle más que un par de horas al mes."
 draft = true
 hide = false
 image = ""
@@ -12,7 +12,7 @@ title = "Cómo ordeno mis finanzas dedicándole sólo dos horas al mes"
 url = "sistema-ordena-finanzas-dos-horas-al-mes"
 
 +++
-_Hola! Esta es una guía personal sobre cómo ordeno mis finanzas sin dedicarle más que un par de horas al mes._
+_Ésta es una guía personal sobre cómo ordeno mis finanzas sin dedicarle más que un par de horas al mes._
 
 **Sacar cuentas me pone mal genio.**
 
