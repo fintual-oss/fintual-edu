@@ -68,7 +68,7 @@ Hay **ciertos descuentos que hace tu empleador de tu sueldo bruto antes de pagar
 
 En general de esta fase ni nos enteramos, pero lo inteligente es chequear si te las pagaron. Para ayudar, **creamos una nueva función en Fintual para que puedas ver tu saldo actualizado en la AFP** junto con el resto de tus objetivos (hoy en día sólo está habilitado para Modelo y Habitat).
 
-**![](/uploads/agregar-afp.jpg)**
+**![tutorial-para-agregar-tu-afp-a-fintual](/uploads/agregar-afp.jpg "agrega-tu-afp-a-fintual")**
 
 Tu empleador también te puede **descontar por planilla tu APV-B** **cuyo beneficio es bajar tus impuestos.** Normalmente empieza a ser conveniente para personas que ganan $3MM o más.
 
@@ -78,9 +78,9 @@ Hechos los descuentos, **te debería llegar el sueldo líquido a tu cuenta corri
 
 Que lata las transferencias, con sus digipasses, claves y mensajes de confirmación. Por eso lo mejor es automatizarlas. Así **tu sueldo va a fluir sin esfuerzo a tus distintos gastos, ahorros e inversiones.**
 
-La mayoría de los bancos te permiten programar transferencias de forma online. Configurarlas para que se hagan 2 o 3 días después de la fecha normal de pago de tu sueldo (si tu empleador es muy cumplidor, puede ser para 1 día después incluso).
+**La mayoría de los bancos te permiten programar transferencias de forma online.** Configurarlas para que se hagan 2 o 3 días después de la fecha normal de pago de tu sueldo (si tu empleador es muy cumplidor, puede ser para 1 día después incluso).
 
-**Screenshot configurar transferencias automáticas**
+![como-programar-transferencias-automaticas-banco](/uploads/transferencias-programadas.png "programar-transferencias")
 
 Esta es mi configuración para las transferencias automáticas**:**
 
