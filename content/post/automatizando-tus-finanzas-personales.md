@@ -12,13 +12,13 @@ title = "Cómo ordenar tus finanzas"
 url = "automatizando-finanzas-personales"
 
 +++
-_Esta es una guía sobre mi sistema de orden y optimización_
+_Hola! Esta es una guía personal sobre cómo ordeno mis finanzas sin dedicarle más que un par de horas al mes._
 
-Últimamente mi pasatiempo ha sido crear un **sistema para optimizar mis finanzas sin dedicarles más que un par de horas al mes**.
+Andar sacando cuentas es una lata.
 
-He estado pensando en esto porque **me carga andar sacando cuentas** pero sé que es súper importante sacarle el jugo a tu plata.
+Al mismo tiempo, es súper importante cuidar tu plata y preocuparse de que esté ordenada y creciendo en el tiempo.
 
-Y como me gusta lo simple, decidí automatizar las cosas para no tener que hacerlas yo.
+Mi sueño es poder pasarle el problema a un ser super inteligente para que me lo resuelve. Pero como eso todavía no existe, he desarrollado una serie de _hacks_ para automatizar el proceso y no tener que hacerlo yo.
 
 Aquí **te cuento cómo lo estoy haciendo** para que tú también tengas tus finanzas ordenadas sin enterrarte en presupuestos. Aprovecha mi TOC y vamos paso a paso.
 
