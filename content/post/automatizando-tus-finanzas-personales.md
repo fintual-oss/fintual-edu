@@ -142,11 +142,11 @@ Tal como hay gastos inesperados, a veces toca recibir plata extra. Como soy jove
 
 ### Lo último
 
-Ese es mi sistema y está lejos de ser perfecto, pero creo que es un buen punto de partida. Prueba y ve qué te parece, espero que te sirva tanto como me ha servido a mi.  
+Ese es mi sistema y está lejos de ser perfecto, pero creo que es un buen punto de partida. Prueba y ve qué te parece, espero que te sirva tanto como a mi.  
   
 **_Si te gustó, tienes preguntas o te gustaría agregar algo, nos puedes escribir por_** [**_Twitter_**](www.twitter.com/fintual) **_o por el chat de esta página._**
 
-Saludos!
+Saludos,
 
 Gonzalo
 
