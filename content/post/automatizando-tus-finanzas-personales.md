@@ -14,13 +14,13 @@ url = "automatizando-finanzas-personales"
 +++
 _Hola! Esta es una guía personal sobre cómo ordeno mis finanzas sin dedicarle más que un par de horas al mes._
 
-Andar sacando cuentas es una lata.
+**Sacar cuentas me pone mal genio.**
 
-Al mismo tiempo, es súper importante cuidar tu plata y preocuparse de que esté ordenada y creciendo en el tiempo.
+Al mismo tiempo, sé que es súper importante cuidar tu plata y preocuparse de que esté ordenada y creciendo en el tiempo.
 
 Mi sueño es poder pasarle el problema a un ser super inteligente para que me lo resuelve. Pero como eso todavía no existe, he desarrollado una serie de _hacks_ para automatizar el proceso y no tener que hacerlo yo.
 
-Aquí **te cuento cómo lo estoy haciendo** para que tú también tengas tus finanzas ordenadas sin enterrarte en presupuestos. Aprovecha mi TOC y vamos paso a paso.
+Vamos **paso a paso**.
 
 ### 1. Divide tu torta
 
