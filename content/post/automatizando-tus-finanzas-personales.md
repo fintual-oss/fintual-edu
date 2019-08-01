@@ -22,7 +22,7 @@ Esta etapa se trata de separar tus **ingresos mensuales** en 4 categorías disti
 >
 > #### **Gastos fijos**
 >
-> Todo lo que tengas que pagar para vivir. Siempre se nos van a pasar cosas, por lo que a los gastos conocidos le agregamos un 15%.
+> Todo lo que **tengas que pagar para vivir.** Siempre se nos van a pasar cosas, por lo que a los gastos conocidos le agregamos un 15%.
 >
 > _Ej. arriendo/crédito, cuentas domésticas, isapre, transporte, supermercado, internet, impuestos, etc._
 
@@ -32,7 +32,7 @@ Esta etapa se trata de separar tus **ingresos mensuales** en 4 categorías disti
 >
 > #### **Ahorro**
 >
-> Todos los ahorros que vayas a usar dentro de 5 años.
+> Todos los ahorros que vayas a usar **dentro de 5 años**.
 >
 > _Ej. vacaciones, matrimonio, fondo de emergencia, etc._
 
@@ -42,7 +42,7 @@ Esta etapa se trata de separar tus **ingresos mensuales** en 4 categorías disti
 >
 > #### **Inversiones**
 >
-> Plata que juntes y vayas usar en 5+ años.
+> Plata que juntes y vayas usar en **5+ años**.
 >
 > _Ej. AFP, APV, renta variable, propiedades, etc._
 
@@ -52,7 +52,7 @@ Esta etapa se trata de separar tus **ingresos mensuales** en 4 categorías disti
 >
 > #### **Gastos chao culpa**
 >
-> Tus finanzas están ordenadas, te puedes dar algunos lujos. Pero ojo, tienes que elegir lo que más te gusta porque no puedes pasarte del porcentaje asignado.
+> Tus finanzas están ordenadas, **te puedes dar algunos lujos**. Pero ojo, tienes que elegir lo que más te gusta porque no puedes pasarte del porcentaje asignado.
 >
 > _Ej. carrete, conciertos, moda, deporte, esos audífonos nuevos que querías, restaurantes, en fin todo lo que antes gastabas igual pero te sentías culpable._
 
