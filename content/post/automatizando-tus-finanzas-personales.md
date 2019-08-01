@@ -108,7 +108,7 @@ Esta es **mi configuración para las transferencias automáticas**:
 
 ***
 
-> #### **Gastos libres de culpa**
+> #### **Gastos chao culpa**
 >
 > Esto lo dejo en mi cuenta corriente personal.
 >
@@ -116,19 +116,13 @@ Esta es **mi configuración para las transferencias automáticas**:
 
 ***
 
-| --- | --- |
-| Gastos fijosEl monto total de la planilla (que ya tiene un 15% extra) sale de mi cuenta personal y va una cuenta que comparto con mi señora (que es distinta de la que ella usa para sus cosas). | Tener cuentas separadas para nos permite da sanidad mental al evitar tener que andar revisando qué gastos pertenecen a qué. El objetivo es evitar pasar tiempo en latas. Así ando más simpático :) |
-| AhorroTengo programada dos transferencias automáticas a Fintual, una para mi fondo de emergencia y otra para mis vacaciones.Un fondo de emergencia no debería exceder de 1.5x tu sueldo mensual. | En inversiones a plazos más cortos, es mejor elegir niveles de riesgo más bajos. Cuando eliges el plazo de tu objetivo en Fintual, el simulador te ayuda a tomar una buena decisión. |
-| InversionesTengo un APV-A en Fintual para mi jubilación con transferencia automática. | Aquí puedes asumir más riesgos. Para mi jubilación tengo full riesgo porque el plazo es muy largo. Tengan APV-A porque tiene un beneficio buenísimo, el Estado te regala un 15% de lo que ahorras cada año, con un tope de 6 UTM. No sea pavo ;) |
-| Gastos libres de culpaEsto lo dejo en mi cuenta corriente personal. | Hoy en día solamente llevo un registro de estos gastos. Antes usaba Fintonic para todo, pero con mi nuevo sistema no lo necesito y anoto estos gastos en iNotes para no pasarme. |
+Encuentro bacán usar **Fintual para mi sistema porque es muy fácil ir viendo cómo están todas tus inversiones ordenadas, actualizadas y con su correspondiente nivel de riesgo.**
 
-Encuentro bacán usar Fintual para mi sistema porque es muy fácil ir viendo cómo están todas tus inversiones ordenadas, actualizadas y con su correspondiente nivel de riesgo.
-
-**Screenshot Mis Objetivos**
-
-**Screenshot Mail ¿a qué objetivo quieres asignar?**
+![todas-las-inversiones-ordenadas-en-perfil-fintual](/uploads/mis-objetivos.jpg "mis-objetivos-fintual")
 
 Cuando haces una transferencia automática a Fintual te va a llegar un mail preguntándote a qué objetivo la quieres asignar. Muy fácil.
+
+**Screenshot Mail ¿a qué objetivo quieres asignar?**
 
 **4. Ingresos extra**
 
