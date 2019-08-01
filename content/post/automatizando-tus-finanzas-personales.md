@@ -18,7 +18,7 @@ _Hola! Esta es una guía personal sobre cómo ordeno mis finanzas sin dedicarle 
 
 Al mismo tiempo, sé que es súper importante cuidar tu plata y preocuparse de que esté ordenada y creciendo en el tiempo.
 
-> Mi sueño es poder pasarle el problema a un ser super inteligente para que me lo resuelve. Pero como eso todavía no existe, he desarrollado una serie de _hacks_ para automatizar el proceso y no tener que hacerlo yo.
+Mi sueño es poder pasarle el problema a un ser super inteligente para que me lo resuelve. Pero como eso todavía no existe, he desarrollado una serie de _hacks_ para automatizar el proceso y no tener que hacerlo yo.
 
 Vamos **paso a paso**.
 
