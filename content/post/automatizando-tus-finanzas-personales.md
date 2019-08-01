@@ -1,7 +1,7 @@
 +++
 aliases = []
 author = "Gonzalo Enei"
-author_thumbnail = "/uploads/Gonzalo Equipo.jpg"
+author_thumbnail = "/uploads/gonzalo-enei.jpg"
 categories = []
 date = "2019-08-01T04:00:00+00:00"
 description = "Esta es una guía personal sobre cómo ordeno mis finanzas sin dedicarle más que un par de horas al mes."
