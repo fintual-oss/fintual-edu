@@ -1,15 +1,15 @@
 +++
 aliases = []
-author = ""
-author_thumbnail = ""
+author = "Gonzalo Enei"
+author_thumbnail = "/uploads/Gonzalo Equipo.jpg"
 categories = []
 date = "2019-08-01T04:00:00+00:00"
-description = ""
+description = "Mi sueño es poder pasarle mis finanzas personales a un ser super inteligente para no preocuparme. Como eso todavía no existe, desarrollé 4 hacks para automatizar el proceso y no tener que hacerlo yo."
 draft = true
 hide = false
 image = ""
-title = ""
-url = "automatizando-finanzas-personales"
+title = "Cómo ordeno mis finanzas dedicándole sólo dos horas al mes"
+url = "sistema-ordena-finanzas-dos-horas-al-mes"
 
 +++
 _Hola! Esta es una guía personal sobre cómo ordeno mis finanzas sin dedicarle más que un par de horas al mes._
@@ -142,7 +142,7 @@ Tal como hay gastos inesperados, a veces toca recibir plata extra. Como soy jove
 
 ### Lo último
 
-Ese es mi sistema y está lejos de ser perfecto, pero creo que es un buen punto de partida. Prueba y ve qué te parece, espero que te sirva tanto como a mi.  
+Yo ya hice todo lo anterior mi sistema y está lejos de ser perfecto, pero creo que es un buen punto de partida. Prueba y ve qué te parece, espero que te sirva tanto como a mi.  
   
 **_Si te gustó, tienes preguntas o te gustaría agregar algo, nos puedes escribir por_** [**_Twitter_**](www.twitter.com/fintual) **_o por el chat de esta página._**
 
