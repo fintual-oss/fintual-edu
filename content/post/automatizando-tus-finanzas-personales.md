@@ -8,11 +8,11 @@ description = ""
 draft = true
 hide = false
 image = ""
-title = "Automatizando tus finanzas personales"
+title = "Cómo ordenar tus finanzas"
 url = "automatizando-finanzas-personales"
 
 +++
-Hoy les voy a escribir a título personal. Me llamo Gonzalo y trabajo en Fintual.
+_Esta es una guía sobre mi sistema de orden y optimización_
 
 Últimamente mi pasatiempo ha sido crear un **sistema para optimizar mis finanzas sin dedicarles más que un par de horas al mes**.
 
@@ -138,7 +138,15 @@ Tal como hay gastos inesperados, a veces toca recibir plata extra. Como soy jove
 
 **También me gusta meter un poco de plata en Bitcoin**, pero sólo lo recomiendo si estás dispuesto a perderla. Si eres conservador nunca deberías tener en criptomonedas más del 1-2% del total de tu patrimonio. Yo tengo más porque hasta los ordenados tenemos nuestras locuras.
 
-Ese es mi sistema y está lejos de ser perfecto. Pero es un buen punto de partida. ¿Tienes preguntas? ¿Qué te ha funcionado a ti? **Cuéntame, leo todos los mails.**
+***
+
+### Lo último
+
+Ese es mi sistema y está lejos de ser perfecto, pero creo que es un buen punto de partida. Prueba y ve qué te parece, espero que te sirva tanto como me ha servido a mi.  
+  
+**_Si te gustó, tienes preguntas o te gustaría agregar algo, nos puedes escribir por_** [**_Twitter_**](www.twitter.com/fintual) **_o por el chat de esta página._**
+
+Saludos!
 
 Gonzalo
 
