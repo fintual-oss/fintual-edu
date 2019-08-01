@@ -116,14 +116,15 @@ Esta es **mi configuración para las transferencias automáticas**:
 
 ***
 
-Encuentro bacán usar **Fintual para mi sistema porque es muy fácil ir viendo cómo están todas tus inversiones ordenadas, actualizadas, creadas con un plazo y nivel de riesgo adecuado.**
+Encuentro bacán usar Fintual para mi sistema porque es muy fácil ir viendo cómo están todas tus inversiones ordenadas, actualizadas, creadas con un plazo y nivel de riesgo adecuado.
 
 ![todas-las-inversiones-ordenadas-en-perfil-fintual](/uploads/mis-objetivos.jpg "mis-objetivos-fintual")
 
 Cuando haces una transferencia automática a Fintual te va a llegar un mail preguntándote a qué objetivo la quieres asignar. También puedes configurar que la asignación se haga automáticamente, diciéndole de antemano a Fintual qué tiene que hacer. Muy fácil.
 
-![](/uploads/asignar-depositos.jpg)  
-**4. Ingresos extra**
+![](/uploads/asignar-depositos.jpg)
+
+#### **4. Ingresos extra**
 
 Tal como hay gastos inesperados, a veces toca recibir plata extra. Como soy joven, **tengo un regla de invertir el 80% y gastar el 20%**. Esto es porque la plata que invierta hoy tiene la posibilidad de crecer mucho a través del tiempo (oh, interés compuesto), cosa que no quiero desaprovechar.
 
