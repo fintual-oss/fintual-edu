@@ -154,7 +154,7 @@ Las cosas típicas a fijarse en esas revisiones mensuales son:
 * que no te hayas pasado en tus gastos chao culpa
 * y definir qué vas a invertir/gastar tus ingresos extras
 
-Este es mi sistema y está lejos de ser perfecto, pero es un buen punto de partida. Prueba y ve qué te parece, espero que te sirva tanto como a mi.
+Este es mi sistema y, aunque está lejos de ser perfecto, es un buen punto de partida. Prueba y ve qué te parece. Espero que te sirva tanto como a mí.
 
 **_Si te gustó, tienes preguntas o te gustaría agregar algo, nos puedes escribir por_** [**_Twitter_**](www.twitter.com/fintual) **_o por el chat de esta página._**
 
