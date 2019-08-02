@@ -2,7 +2,7 @@
 aliases = []
 author = "Gonzalo Enei"
 author_thumbnail = "/uploads/gonzalo-enei.jpg"
-categories = ["educacion-financiera"]
+categories = []
 date = "2019-08-01T04:00:00+00:00"
 description = "Esta es una guía personal sobre cómo ordeno mis finanzas sin dedicarle más que un par de horas al mes."
 hide = false
@@ -143,9 +143,9 @@ Tal como hay gastos inesperados, a veces toca recibir plata extra. Como soy jove
 
 ### Lo último
 
-Armar este sistema automático va a ser un poco de pega. Vas a tener que llenar la planilla, programar varias transferencias e incluso puede que tengas que abrir otra cuenta en el banco. No dejes que eso te desanime.
+Armar este sistema automático va a ser un poco de pega. Vas a tener que llenar la planilla, ver tus liquidaciones de sueldo, programar varias transferencias e incluso puede que tengas que abrir otra cuenta en el banco. No dejes que eso te desanime.
 
-**Una vez que tengas todo el _set-up listo_, con un par de horas al mes deberías poder mantenerlo y sentirte tranquilo con tus finanzas.** 
+**Una vez que tengas todo el _set-up listo_, con un par de horas al mes deberías poder mantenerlo y sentirte tranquilo con tus finanzas.**
 
 Las **cosas típicas a fijarse en las revisiones** mensuales son:
 
