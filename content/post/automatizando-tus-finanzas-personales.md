@@ -79,7 +79,7 @@ Actualmente está habilitado para Modelo y Habitat, pronto estarán las demás.
 
 ![agrega-tu-afp-en-mis-objetivos](/uploads/agregar-afp.jpg "agrega-tu-afp-fintual")
 
-Tu empleador también te puede **descontar por planilla tu APV-B,** **cuyo beneficio es bajar tus impuestos.** Normalmente empieza a ser conveniente para personas que ganan $3MM o más.
+Tu empleador también te puede **descontar por planilla tu APV. Normalmente esto se hace con APV-B** **cuyo beneficio es bajar tus impuestos.** Normalmente empieza a ser conveniente para personas que ganan $3MM o más.
 
 Hechos los descuentos, **te debería llegar el sueldo líquido a tu cuenta corriente.**
 
