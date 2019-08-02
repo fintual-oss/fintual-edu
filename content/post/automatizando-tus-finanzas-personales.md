@@ -73,17 +73,19 @@ _Nota: la planilla está hecha en base a tu sueldo bruto porque en Chile los tra
 
 Hay **ciertos descuentos que hace tu empleador de tu sueldo bruto antes de pagarte el líquido**, como tu AFP, isapre, impuestos y el seguro de cesantía.
 
-En general de esta fase ni nos enteramos, pero lo inteligente es chequear si te las pagaron. Para ayudar, **creamos una nueva función en Fintual para que puedas ver tu saldo actualizado en la AFP** junto con el resto de tus objetivos (hoy en día sólo está habilitado para Modelo y Habitat).
+En general de esta fase ni nos enteramos, pero lo inteligente es chequear si te las pagaron. Para ayudar, **creamos una nueva función en Fintual para que puedas ver tu saldo actualizado en la AFP** junto con el resto de tus objetivos.
+
+Actualmente está habilitado para Modelo y Habitat, pronto estarán las demás.
 
 **![tutorial-para-agregar-tu-afp-a-fintual](/uploads/agregar-afp.jpg "agrega-tu-afp-a-fintual")**
 
-Tu empleador también te puede **descontar por planilla tu APV-B** **cuyo beneficio es bajar tus impuestos.** Normalmente empieza a ser conveniente para personas que ganan $3MM o más.
+Tu empleador también te puede **descontar por planilla tu APV-B,** **cuyo beneficio es bajar tus impuestos.** Normalmente empieza a ser conveniente para personas que ganan $3MM o más.
 
 Hechos los descuentos, **te debería llegar el sueldo líquido a tu cuenta corriente.**
 
 ### 3. Transferencias automáticas
 
-Que lata las transferencias, con sus digipasses, claves y mensajes de confirmación. Por eso lo mejor es automatizarlas. Así **tu sueldo va a fluir sin esfuerzo a tus distintos gastos, ahorros e inversiones.**
+Qué lata las transferencias, con sus digipasses, claves y mensajes de confirmación. Lo mejor es automatizarlas: **tu sueldo va a fluir sin esfuerzo a tus distintos gastos, ahorros e inversiones.**
 
 **La mayoría de los bancos te permiten programar transferencias de forma online.** Configurarlas para que se hagan 2 o 3 días después de la fecha normal de pago de tu sueldo (si tu empleador es muy cumplidor, puede ser para 1 día después incluso).
 
@@ -101,7 +103,7 @@ Esta es **mi configuración para las transferencias automáticas**:
 
 > #### **Ahorro**
 >
-> Tengo programada **dos transferencias automáticas a Fintual, una para mi fondo de emergencia y otra para mis vacaciones**. Un fondo de emergencia no debería exceder de 1.5x tu sueldo mensual. Pero no tienes porqué limitarte a sólo dos objetivos: **puedes crear objetivos para todas las cosas puntuales** **que quieras,** como la matrícula de colegio de tu hijo/a.
+> Tengo programada **dos transferencias automáticas a Fintual, una para mi fondo de emergencia y otra para mis vacaciones**. Un fondo de emergencia no debería exceder de 1,5x tu sueldo mensual. Pero no tienes por qué limitarte a sólo dos objetivos: **puedes crear objetivos para todas las cosas puntuales** **que quieras,** como la matrícula de colegio de tu hijo/a.
 >
 > _En inversiones a plazos más cortos, es mejor elegir niveles de riesgo más bajos. Cuando eliges el plazo de tu objetivo en Fintual, el simulador te ayuda a tomar una buena decisión._
 
@@ -111,7 +113,7 @@ Esta es **mi configuración para las transferencias automáticas**:
 >
 > Tengo un APV-A en Fintual para mi jubilación con transferencia automática.
 >
-> _Aquí puedes asumir más riesgos. Para mi jubilación tengo full Risky Norris porque el plazo va a ser muy largo. Tengan APV-A porque tiene un beneficio buenísimo, el Estado te regala un 15% de lo que ahorras cada año, con un tope de 6 UTM. No sea pavo ;)_
+> _Aquí puedes asumir más riesgos. Para mi jubilación tengo full Risky Norris porque el plazo es muy largo. El beneficio tributario del APV-A es buenísimo: el Estado te regala un 15% de lo que ahorras cada año, con un tope de 6 UTM. No sea pavo ;)_
 
 ***
 
@@ -123,11 +125,11 @@ Esta es **mi configuración para las transferencias automáticas**:
 
 ***
 
-Encuentro bacán usar Fintual para mi sistema porque es muy fácil ir viendo cómo están todas tus inversiones ordenadas, actualizadas, creadas con un plazo y nivel de riesgo adecuado.
+Encuentro bacán usar Fintual para mi sistema porque es muy fácil ir viendo cómo están todas mis inversiones ordenadas, actualizadas, creadas con un plazo y nivel de riesgo adecuado.
 
 ![todas-las-inversiones-ordenadas-en-perfil-fintual](/uploads/mis-objetivos.jpg "mis-objetivos-fintual")
 
-Cuando haces una transferencia automática a Fintual te va a llegar un mail preguntándote a qué objetivo la quieres asignar. También puedes configurar que la asignación se haga automáticamente, diciéndole de antemano a Fintual qué tiene que hacer. Muy fácil.
+Cuando haces una transferencia automática a Fintual te va a llegar un mail preguntándote a qué objetivo la quieres asignar. También puedes configurar que la asignación se haga automáticamente, diciéndole de antemano a Fintual qué tiene que hacer. Muy fácil:
 
 ![](/uploads/asignar-depositos.jpg)
 
@@ -135,7 +137,7 @@ Cuando haces una transferencia automática a Fintual te va a llegar un mail preg
 
 Tal como hay gastos inesperados, a veces toca recibir plata extra. Como soy joven, **tengo un regla de invertir el 80% y gastar el 20%**. Esto es porque la plata que invierta hoy tiene la posibilidad de crecer mucho a través del tiempo (oh, interés compuesto), cosa que no quiero desaprovechar.
 
-**También me gusta meter un poco de plata en Bitcoin**, pero sólo lo recomiendo si estás dispuesto a perderla. Si eres conservador nunca deberías tener en criptomonedas más del 1-2% del total de tu patrimonio. Yo tengo más porque hasta los ordenados tenemos nuestras locuras.
+**También me gusta meter un poco de plata en Bitcoin**, pero sólo lo recomiendo si estás dispuesto a perderla. Si eres conservador nunca deberías tener en criptomonedas más del 1-2% del total de tu patrimonio. Yo tengo más porque hasta los ordenados tenemos nuestras locuras. Lo hago a través de [Buda.com](www.buda.com).
 
 ***
 
