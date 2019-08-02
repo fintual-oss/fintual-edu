@@ -78,9 +78,9 @@ En general de esta fase ni nos enteramos, pero lo inteligente es chequear si te 
 Actualmente está habilitado para Modelo y Habitat, pronto estarán las demás.
 
 <div style="text-align:center">
-[](/uploads/agregar-afp.jpg)
+![](/uploads/agregar-afp.jpg)
 </div>
-  
+
 Tu empleador también te puede **descontar por planilla tu APV-B,** **cuyo beneficio es bajar tus impuestos.** Normalmente empieza a ser conveniente para personas que ganan $3MM o más.
 
 Hechos los descuentos, **te debería llegar el sueldo líquido a tu cuenta corriente.**
