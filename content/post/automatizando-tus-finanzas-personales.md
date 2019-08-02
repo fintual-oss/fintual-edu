@@ -61,7 +61,7 @@ Esta etapa se trata de separar tus **ingresos mensuales** en 4 categorías disti
 >
 > Tus finanzas están ordenadas, **te puedes dar algunos lujos**. Pero ojo, tienes que elegir lo que más te gusta porque no puedes pasarte del porcentaje asignado.
 >
-> _Ej. carrete, conciertos, moda, deporte, esos audífonos nuevos que querías, restaurantes, en fin todo lo que antes gastabas igual, pero te sentías culpable._
+> _Ej. carrete, conciertos, moda, deporte, esos audífonos nuevos que querías, restaurantes, en fin todo lo que antes gastabas igual pero te sentías culpable._
 
 ***
 
