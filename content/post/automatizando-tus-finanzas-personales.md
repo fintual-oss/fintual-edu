@@ -65,9 +65,9 @@ Esta etapa se trata de separar tus **ingresos mensuales** en 4 categorías disti
 
 ***
 
-La primera vez que hagas esto puede ser medio latero, porque vas a tener que entrar en el detalle de los distintos gastos. Pero **una vez que lo tengas listo, actualizarlo no cuesta nada.** Para hacerte la pega más fácil creamos esta planilla.
+La primera vez que hagas esto puede ser medio latero, porque vas a tener que entrar en el detalle de los distintos gastos. Pero **una vez que lo tengas listo, actualizarlo no cuesta nada.** [Para hacerte la pega más fácil creamos esta planilla.](https://docs.google.com/spreadsheets/d/1b4AbRUfHNW_ZVALxJH49gFLgYri4p9o5z19EIbJtYyI/copy) *_Tienes que seguir las instrucciones y bajar una copia del documento a tu Drive._
 
-_Nota: la planilla está hecha en base a tu sueldo bruto porque en Chile los trabajadores dependientes están obligados a ahorrar para la jubilación en una AFP, pagar un plan de salud y otras cosas que pertenecen a categorías distintas._
+_**La planilla está hecha en base a tu sueldo bruto porque en Chile los trabajadores dependientes están obligados a ahorrar para la jubilación en una AFP, pagar un plan de salud y otras cosas que pertenecen a categorías distintas._
 
 ### 2. Descuentos y pagos de tu sueldo
 
