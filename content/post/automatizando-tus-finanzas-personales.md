@@ -77,8 +77,7 @@ En general de esta fase ni nos enteramos, pero lo inteligente es chequear si te 
 
 Actualmente está habilitado para Modelo y Habitat, pronto estarán las demás.
 
-<div style="text-align:center">
-**![tutorial-para-agregar-tu-afp-a-fintual](/uploads/agregar-afp.jpg "agrega-tu-afp-a-fintual")**</div>
+[tutorial-para-agregar-tu-afp-a-fintual](/uploads/agregar-afp.jpg "agrega-tu-afp-a-fintual")
 
 Tu empleador también te puede **descontar por planilla tu APV-B,** **cuyo beneficio es bajar tus impuestos.** Normalmente empieza a ser conveniente para personas que ganan $3MM o más.
 
