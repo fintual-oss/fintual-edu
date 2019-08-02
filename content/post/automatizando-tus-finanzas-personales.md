@@ -131,13 +131,13 @@ Encuentro bacán usar Fintual para mi sistema porque es muy fácil ir viendo có
 
 Cuando haces una transferencia automática a Fintual te va a llegar un mail preguntándote a qué objetivo la quieres asignar. También puedes configurar que la asignación se haga automáticamente, diciéndole de antemano a Fintual qué tiene que hacer. Muy fácil.
 
-![](/uploads/asignar-depositos.jpg)
+![como-asignar-o-configurar-tus-depositos-en-fintual](/uploads/asignar-depositos.jpg "asigna-tus-depositos-fintual")
 
 ### 4. Ingresos extra
 
 Tal como hay gastos inesperados, a veces toca recibir plata extra. Como soy joven, **tengo un regla de invertir el 80% y gastar el 20%**. Esto es porque la plata que invierta hoy tiene la posibilidad de crecer mucho a través del tiempo (oh, interés compuesto), cosa que no quiero desaprovechar.
 
-**También me gusta meter un poco de plata en Bitcoin**, pero sólo lo recomiendo si estás dispuesto a perderla. Si eres conservador nunca deberías tener en criptomonedas más del 1-2% del total de tu patrimonio. Yo tengo más porque hasta los ordenados tenemos nuestras locuras. Lo hago a través de [Buda.com](www.buda.com).
+**También me gusta meter un poco de plata en Bitcoin**, pero sólo lo recomiendo si estás dispuesto a perderla. Si eres conservador nunca deberías tener en criptomonedas más del 1-2% del total de tu patrimonio. Yo tengo más porque hasta los ordenados tenemos nuestras locuras. Lo hago a través de [Buda.com](https://www.buda.com).
 
 ***
 
