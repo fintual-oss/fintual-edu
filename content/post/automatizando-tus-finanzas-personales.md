@@ -131,7 +131,7 @@ Cuando haces una transferencia automática a Fintual te va a llegar un mail preg
 
 ![](/uploads/asignar-depositos.jpg)
 
-#### **4. Ingresos extra**
+### 4. Ingresos extra
 
 Tal como hay gastos inesperados, a veces toca recibir plata extra. Como soy joven, **tengo un regla de invertir el 80% y gastar el 20%**. Esto es porque la plata que invierta hoy tiene la posibilidad de crecer mucho a través del tiempo (oh, interés compuesto), cosa que no quiero desaprovechar.
 
@@ -150,10 +150,10 @@ Las cosas típicas a fijarse en esas revisiones mensuales son:
 * modificaciones importantes en tus gastos fijos (la cosa chica no interesa mucho, para eso está el 15% extra)
 * el uso de tus ahorros (especialmente los inesperados)
 * que no te hayas pasado en tus gastos chao culpa
-* y definir qué vas a invertir/gastar tus ingresos extras 
+* y definir qué vas a invertir/gastar tus ingresos extras
 
-Este es mi sistema y está lejos de ser perfecto, pero es un buen punto de partida. Prueba y ve qué te parece, espero que te sirva tanto como a mi.  
-  
+Este es mi sistema y está lejos de ser perfecto, pero es un buen punto de partida. Prueba y ve qué te parece, espero que te sirva tanto como a mi.
+
 **_Si te gustó, tienes preguntas o te gustaría agregar algo, nos puedes escribir por_** [**_Twitter_**](www.twitter.com/fintual) **_o por el chat de esta página._**
 
 Saludos,
