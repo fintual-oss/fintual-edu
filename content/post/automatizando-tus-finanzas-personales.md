@@ -8,7 +8,7 @@ description = "Esta es una guía personal sobre cómo ordeno mis finanzas sin de
 hide = false
 image = "/uploads/austin-distel-nGc5RT2HmF0-unsplash.jpg"
 title = "Cómo ordeno mis finanzas dedicándole sólo dos horas al mes"
-url = "cómo-ordeno-mis-finanzas-dedicándole-sólo-dos-horas-al-mes"
+url = "como-ordeno-mis-finanzas-dedicandole-solo-dos-horas-al-mes"
 
 +++
 _Esta es una guía personal sobre cómo ordeno mis finanzas sin dedicarle más que un par de horas al mes._
