@@ -15,9 +15,9 @@ _Esta es una guía personal sobre cómo ordeno mis finanzas sin dedicarle más q
 
 **Sacar cuentas me pone mal genio.**
 
-Al mismo tiempo, sé que es súper importante cuidar tu plata y preocuparse de que esté ordenada y creciendo en el tiempo.
+Al mismo tiempo, sé que es súper importante cuidar mi plata y preocuparme de que esté ordenada y creciendo en el tiempo.
 
-Mi sueño es poder pasarle el problema a un ser super inteligente para que me lo resuelve. Pero como eso todavía no existe, he desarrollado una serie de _hacks_ para automatizar el proceso y no tener que hacerlo yo.
+Mi sueño es poder pasarle el problema a un ser súper inteligente para que me lo resuelva. Pero como eso todavía no existe, he desarrollado una serie de _hacks_ para automatizar el proceso y no tener que hacerlo yo.
 
 Vamos **paso a paso**.
 
@@ -61,13 +61,13 @@ Esta etapa se trata de separar tus **ingresos mensuales** en 4 categorías disti
 >
 > Tus finanzas están ordenadas, **te puedes dar algunos lujos**. Pero ojo, tienes que elegir lo que más te gusta porque no puedes pasarte del porcentaje asignado.
 >
-> _Ej. carrete, conciertos, moda, deporte, esos audífonos nuevos que querías, restaurantes, en fin todo lo que antes gastabas igual pero te sentías culpable._
+> _Ej. carrete, conciertos, moda, deporte, esos audífonos nuevos que querías, restaurantes, en fin todo lo que antes gastabas igual, pero te sentías culpable._
 
 ***
 
 La primera vez que hagas esto puede ser medio latero, porque vas a tener que entrar en el detalle de los distintos gastos. Pero **una vez que lo tengas listo, actualizarlo no cuesta nada.** Para hacerte la pega más fácil creamos esta planilla.
 
-_Nota: la planilla está hecha en base a tu sueldo bruto porque en Chile casi todos estamos obligados a ahorrar para nuestra jubilación en la AFP, pagar isapre y otras cosas que pertenecen a categorías distintas._
+_Nota: la planilla está hecha en base a tu sueldo bruto porque en Chile los trabajadores dependientes están obligados a ahorrar para la jubilación en una AFP, pagar un plan de salud y otras cosas que pertenecen a categorías distintas._
 
 ### 2. Descuentos y pagos de tu sueldo
 
