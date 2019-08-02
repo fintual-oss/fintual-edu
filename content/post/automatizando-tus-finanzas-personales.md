@@ -2,7 +2,7 @@
 aliases = []
 author = "Gonzalo Enei"
 author_thumbnail = "/uploads/gonzalo-enei.jpg"
-categories = []
+categories = ["educacion-financiera"]
 date = "2019-08-01T04:00:00+00:00"
 description = "Esta es una guía personal sobre cómo ordeno mis finanzas sin dedicarle más que un par de horas al mes."
 hide = false
@@ -17,7 +17,7 @@ _Esta es una guía personal sobre cómo ordeno mis finanzas sin dedicarle más q
 
 Al mismo tiempo, sé que es súper importante cuidar mi plata y preocuparme de que esté ordenada y creciendo en el tiempo.
 
-Mi sueño es poder pasarle el problema a un ser súper inteligente para que me lo resuelva. Pero como eso todavía no existe, he desarrollado una serie de _hacks_ para automatizar el proceso y no tener que hacerlo yo.
+Mi sueño es poder pasarle el problema a un ser súper inteligente para que me lo resuelva. Pero como eso todavía no existe, **he desarrollado una serie de _hacks_ para automatizar el proceso y no tener que hacerlo yo.**
 
 Vamos **paso a paso**.
 
@@ -95,7 +95,7 @@ Esta es **mi configuración para las transferencias automáticas**:
 >
 > El monto total de la planilla (que ya tiene un 15% extra) **sale de mi cuenta personal y va una cuenta que comparto con mi señora** (que es distinta de la que ella usa para sus cosas).
 >
-> _Tener cuentas separadas para nos permite da sanidad mental al evitar tener que andar revisando qué gastos pertenecen a qué. El objetivo es evitar pasar tiempo en latas. Así ando más simpático_ :)
+> _Tener cuentas separadas nos da sanidad mental al evitar tener que andar revisando qué gastos pertenecen a qué. El objetivo es evitar pasar tiempo en latas. Así ando más simpático_ :)
 
 ***
 
@@ -127,7 +127,7 @@ Encuentro bacán usar Fintual para mi sistema porque es muy fácil ir viendo có
 
 ![todas-las-inversiones-ordenadas-en-perfil-fintual](/uploads/mis-objetivos.jpg "mis-objetivos-fintual")
 
-Cuando haces una transferencia automática a Fintual te va a llegar un mail preguntándote a qué objetivo la quieres asignar. También puedes configurar que la asignación se haga automáticamente, diciéndole de antemano a Fintual qué tiene que hacer. Muy fácil:
+Cuando haces una transferencia automática a Fintual te va a llegar un mail preguntándote a qué objetivo la quieres asignar. También puedes configurar que la asignación se haga automáticamente, diciéndole de antemano a Fintual qué tiene que hacer. Muy fácil.
 
 ![](/uploads/asignar-depositos.jpg)
 
