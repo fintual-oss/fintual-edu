@@ -51,7 +51,7 @@ Esta etapa se trata de separar tus **ingresos mensuales** en 4 categorías disti
 >
 > Plata que juntes y vayas usar en **5+ años**.
 >
-> _Ej. AFP, APV, renta variable, propiedades, etc._
+> _Ej. AFP, APV, renta variable, propiedades, etc. Meto las propiedades acá porque quizás juntar para pagar un pie en el corto plazo, pero la deuda la terminarás de pagar en el largo._
 
 ***
 
