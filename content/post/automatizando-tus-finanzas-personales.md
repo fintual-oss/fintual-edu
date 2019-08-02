@@ -105,7 +105,7 @@ Esta es **mi configuración para las transferencias automáticas**:
 >
 > Tengo programada **dos transferencias automáticas a Fintual, una para mi fondo de emergencia y otra para mis vacaciones**. Un fondo de emergencia no debería exceder de 1,5x tu sueldo mensual. Pero no tienes por qué limitarte a sólo dos objetivos: **puedes crear objetivos para todas las cosas puntuales** **que quieras,** como la matrícula de colegio de tu hijo/a.
 >
-> _En inversiones a plazos más cortos, es mejor elegir niveles de riesgo más bajos. Cuando eliges el plazo de tu objetivo en Fintual, el simulador te ayuda a tomar una buena decisión._
+> _En inversiones a plazos más cortos, es mejor elegir niveles de riesgo más bajos. Cuando eliges el plazo de tu objetivo en Fintual, el simulador te ayuda a tomar una buena decisión. Para mi colchón de emergencia, me gusta usar el fondo más conservador de Fintual (Streep). Lo encuentro mejor que un DAP_ porque no tiene restricciones de tiempo para sacar la plata, que es clave para urgencias.
 
 ***
 
