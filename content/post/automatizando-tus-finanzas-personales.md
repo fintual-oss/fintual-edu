@@ -143,13 +143,13 @@ Tal como hay gastos inesperados, a veces toca recibir plata extra. Como soy jove
 
 Armar este sistema automático va a ser un poco de pega. Vas a tener que llenar la planilla, programar varias transferencias e incluso puede que tengas que abrir otra cuenta en el banco. No dejes que eso te desanime.
 
-**Una vez que tengas todo el _set-up listo_, con un par de horas al mes deberías poder mantener el orden.**
+**Una vez que tengas todo el _set-up listo_, con un par de horas al mes deberías poder mantenerlo y sentirte tranquilo con tus finanzas.** 
 
-Las cosas típicas a fijarse en esas revisiones mensuales son:
+Las **cosas típicas a fijarse en las revisiones** mensuales son:
 
 * modificaciones importantes en tus gastos fijos (la cosa chica no interesa mucho, para eso está el 15% extra)
 * el uso de tus ahorros (especialmente los inesperados)
-* que no te hayas pasado en tus gastos chao culpa
+* que no te estés pasando en tus gastos chao culpa
 * y definir qué vas a invertir/gastar tus ingresos extras
 
 Este es mi sistema y, aunque está lejos de ser perfecto, es un buen punto de partida. Prueba y ve qué te parece. Espero que te sirva tanto como a mí.
