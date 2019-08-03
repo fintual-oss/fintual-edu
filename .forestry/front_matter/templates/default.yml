@@ -55,6 +55,7 @@ fields:
   label: Hide
   description: para esconder el post en edu (el link sigue funcionando)
 pages:
+- content/post/cómo-convencer-a-un-amigo-de-que-fintual-le-conviene.md
 - content/post/automatizando-tus-finanzas-personales.md
 - content/post/clase-9-mercados-y-teoría-de-portafolios.md
 - content/post/clase-8-cobertura-y-componentes-principales.md
@@ -76,7 +77,6 @@ pages:
 - content/post/cómo-tener-un-poco-de-suerte-al-invertir-en-fintual-95c42d6b850c.md
 - content/post/clase-6-eventos-de-cola-burbujas-y-sesgos-conductuales-fallas-de-procesos-estadísticos.md
 - content/post/clase-7-riesgos-errores-de-modelo-sesgos-conductuales-casos.md
-- content/post/cómo-convencer-a-un-amigo-de-que-fintual-le-conviene.md
 - content/post/y-a-mí-qué-me-importa-que-bajen-las-tasas.md
 - content/post/explicación.md
 - content/post/finclass-finanzas-aplicadas-y-fintech-clase-1.md
