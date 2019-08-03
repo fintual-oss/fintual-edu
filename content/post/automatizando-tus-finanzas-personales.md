@@ -95,7 +95,7 @@ Esta es **mi configuración para las transferencias automáticas**:
 
 > #### **Gastos fijos**
 >
-> El monto total de la planilla (que ya tiene un 15% extra) **sale de mi cuenta personal y va una cuenta que comparto con mi señora** (que es distinta de la que ella usa para sus cosas).
+> El monto total de la planilla (que ya tiene un 15% extra) **sale de mi cuenta personal y va una cuenta que comparto con mi señora** (que es distinta de su cuenta personal).
 >
 > _Tener cuentas separadas nos da sanidad mental al evitar tener que andar revisando qué gastos pertenecen a qué. El objetivo es evitar pasar tiempo en latas. Así ando más simpático_ :)
 
