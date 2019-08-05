@@ -13,7 +13,11 @@ url = "/finclass-6"
 +++
 Así fue la sexta clase de Omar en el ramo "Finanzas Aplicadas y Fintech" en la Universidad de Chile.
 
-Ver en YouTube:
+<div style="text-align:center">
+<iframe src="https://player.vimeo.com/video/352076630" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
+
+O ver en YouTube:
 
 <div style="text-align:center">  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/29xGxS5-wZ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
