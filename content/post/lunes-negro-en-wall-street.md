@@ -31,3 +31,7 @@ Sin embargo, las tensiones asociadas a la guerra comercial entre China y Estados
 El presidente de Estados Unidos [anunció por su cuenta en Twitter](https://twitter.com/realDonaldTrump/status/1156979443900067841) el pasado 1 de agosto tarifas adicionales a productos chinos importados a EE.UU.
 
 Eso desató que en pocos minutos los mercados a nivel global pasaran a modo “pánico”, y comenzaran a vender activos riesgosos, como las acciones, y a comprar activos de poco riesgo.
+
+![“…nunca sabes lo que te va a tocar”. Fuente: Twitter.
+](/uploads/DonaldTrumpTwitter.png)_“…nunca sabes lo que te va a tocar”. Fuente: Twitter._
+
