@@ -23,3 +23,12 @@ La desaceleración global es la menos sorpresiva de las tres. Esto hace que sea 
 * En Chile, en un contexto de baja inflación y menor crecimiento, el Banco Central también está tomando el lado “expansivo”, recortando fuertemente las tasas de interés en junio pasado (recorte de 0,50%), y abriendo espacio para mayores bajas de tasas en este año.
 
 Sin embargo, las tensiones asociadas a la guerra comercial entre China y Estados Unidos han escalado cada vez más, en pasos cada vez más extraños y sorpresivos, especialmente cuando una contraparte de esta pelea piensa que [su Twitter](https://twitter.com/realDonaldTrump) es el medio oficial de comunicación de sanciones, tarifas a importaciones, o lo que sea.
+
+![“El Twitter de Trump es como una caja de bombones…”. Fuente: “Forrest Gump (1994)”](/uploads/forrestgump.jpg)_“El Twitter de Trump es como una caja de bombones…”. Fuente: “Forrest Gump (1994)”_
+
+
+#### **¿Y qué fue lo último que pasó en la guerra comercial?**
+
+El presidente de Estados Unidos [anunció por su cuenta en Twitter](https://twitter.com/realDonaldTrump/status/1156979443900067841) el pasado 1 de agosto tarifas adicionales a productos chinos importados a EE.UU. 
+
+Eso desató que en pocos minutos los mercados a nivel global pasaran a modo “pánico”, y comenzaran a vender activos riesgosos, como las acciones, y a comprar activos de poco riesgo.
