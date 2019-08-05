@@ -55,6 +55,7 @@ fields:
   label: Hide
   description: para esconder el post en edu (el link sigue funcionando)
 pages:
+- content/post/lunes-negro-en-wall-street.md
 - content/post/clase-5-riesgo-y-aleatoriedad.md
 - content/post/cómo-convencer-a-un-amigo-de-que-fintual-le-conviene.md
 - content/post/automatizando-tus-finanzas-personales.md
