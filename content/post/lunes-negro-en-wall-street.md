@@ -38,15 +38,12 @@ China, sin ganas de quedarse mirando con los brazos cruzados, este lunes 5 de ag
 
 Finalmente, este lunes 5 de agosto terminó siendo un día desastroso para las acciones, en Estados Unidos por ejemplo fue peor día de rentabilidad de acciones de este 2019.
 
-![Peor día de índices accionarios en EE.UU. del 2019. Fuente: Bloomberg
-](/uploads/stockmeltdown.jpeg)_Peor día de índices accionarios en EE.UU. del 2019. Fuente: Bloomberg_
+![Peor día de índices accionarios en EE.UU. del 2019. Fuente: Bloomberg](/uploads/stockmeltdown.jpeg)_Peor día de índices accionarios en EE.UU. del 2019. Fuente: Bloomberg_
 
-####   
-**Ya, pero ¿esto está pasando en todo el mundo? ¿En Chile también?**
+#### **Ya, pero ¿esto está pasando en todo el mundo? ¿En Chile también?**
 
 Sí, estas caídas están pasando en mercado de Asia, Europa y América Latina, que se han visto arrastrados, [como lo puedes ver también en la prensa](https://www.emol.com/noticias/Economia/2019/08/05/957021/Guerra-comercial-Wall-Street-tuvo-su-peor-dia-del-ano-y-bolsas-del-mundo-siguen-en-picada.html). En Chile, por ejemplo, el IPSA cayó un 2,15% el lunes 5 de agosto, acompañando la caída global.
 
-#### **  
-Lo bueno**
+#### Lo bueno
 
 Los activos de bajo riesgo, como los bonos, han subido de precio —o de forma equivalente, las tasas de interés han bajado—, ayudando a que la rentabilidad de fondos conservadores sea buena. Además, como consecuencia de tasas de interés baja, las tasas de créditos hipotecarios ha bajado a mínimos en Chile, lo cual podría ser útil si estás cotizando comprar una casa o renegociando tu actual crédito hipotecario.
