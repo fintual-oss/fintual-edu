@@ -32,11 +32,14 @@ El presidente de Estados Unidos [anunció por su cuenta en Twitter](https://twit
 
 Eso desató que en pocos minutos los mercados a nivel global pasaran a modo “pánico”, y comenzaran a vender activos riesgosos, como las acciones, y a comprar activos de poco riesgo.
 
-![“…nunca sabes lo que te va a tocar”. Fuente: Twitter.](/uploads/DonaldTrumpTwitter.png)_“…nunca sabes lo que te va a tocar”. Fuente: Twitter._
+![“…nunca sabes lo que te va a tocar”. Fuente: Twitter](/uploads/DonaldTrumpTwitter.png)_“…nunca sabes lo que te va a tocar”. Fuente: Twitter_
 
 China, sin ganas de quedarse mirando con los brazos cruzados, este lunes 5 de agosto ha pedido a las empresas controladas por el estado suspender las importaciones de productos agrícolas desde EE.UU. De paso, la moneda China (Renminbi) se depreció al nivel más alto desde 2008.
 
 Finalmente, este lunes 5 de agosto terminó siendo un día desastroso para las acciones, en Estados Unidos por ejemplo fue peor día de rentabilidad de acciones de este 2019.
+
+![Peor día de índices accionarios en EE.UU. del 2019. Fuente: Bloomberg
+](/uploads/stockmeltdown.jpeg)_Peor día de índices accionarios en EE.UU. del 2019. Fuente: Bloomberg_
 
 ####   
 **Ya, pero ¿esto está pasando en todo el mundo? ¿En Chile también?**
