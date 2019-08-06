@@ -32,9 +32,7 @@ El presidente de Estados Unidos [anunció por su cuenta en Twitter](https://twit
 
 Eso desató que en pocos minutos los mercados a nivel global pasaran a modo “pánico”, y comenzaran a vender activos riesgosos, como las acciones, y a comprar activos de poco riesgo.
 
-<div style="text-align:center">
-![“…nunca sabes lo que te va a tocar”. Fuente: Twitter](/uploads/DonaldTrumpTwitter.png)_“…nunca sabes lo que te va a tocar”. Fuente: Twitter_
-</div>
+<div style="text-align:center">![“…nunca sabes lo que te va a tocar”. Fuente: Twitter](/uploads/DonaldTrumpTwitter.png)_“…nunca sabes lo que te va a tocar”. Fuente: Twitter_</div>
   
 China, sin ganas de quedarse mirando con los brazos cruzados, este lunes 5 de agosto ha pedido a las empresas controladas por el estado suspender las importaciones de productos agrícolas desde EE.UU. De paso, la moneda China (Renminbi) se depreció al nivel más alto desde 2008.
 
