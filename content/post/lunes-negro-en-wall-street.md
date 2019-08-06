@@ -42,7 +42,7 @@ Finalmente, este lunes 5 de agosto terminó siendo un día desastroso para las a
 
 #### **Ya, pero ¿esto está pasando en todo el mundo? ¿En Chile también?**
 
-Sí, estas caídas están pasando en mercado de Asia, Europa y América Latina, que se han visto arrastrados, [como lo puedes ver también en la prensa](https://www.emol.com/noticias/Economia/2019/08/05/957021/Guerra-comercial-Wall-Street-tuvo-su-peor-dia-del-ano-y-bolsas-del-mundo-siguen-en-picada.html). En Chile, por ejemplo, el IPSA cayó un 2,15% el lunes 5 de agosto, acompañando la caída global.
+Sí, estas caídas están pasando en mercado de Asia, Europa y América Latina, que se han visto arrastrados, [como lo puedes ver también en la prensa](https://www.df.cl/noticias/mercados/bolsa-monedas/dia-negro-en-los-mercados-globales-wall-street-cae-3-y-vapores-y-cap/2019-08-05/102630.html). En Chile, por ejemplo, el IPSA cayó un 2,15% el lunes 5 de agosto, acompañando la caída global.
 
 #### Lo bueno
 
