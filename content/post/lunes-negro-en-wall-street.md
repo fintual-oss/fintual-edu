@@ -36,7 +36,7 @@ Eso desató que en pocos minutos los mercados a nivel global pasaran a modo “p
 
 China, sin ganas de quedarse mirando con los brazos cruzados, este lunes 5 de agosto ha pedido a las empresas controladas por el estado suspender las importaciones de productos agrícolas desde EE.UU. De paso, la moneda China (Renminbi) se depreció al nivel más alto desde 2008.
 
-Finalmente, este lunes 5 de agosto terminó siendo un día desastroso para las acciones, en Estados Unidos por ejemplo fue peor día de rentabilidad de acciones de este 2019.
+Finalmente, este lunes 5 de agosto terminó siendo un día desastroso para las acciones y Estados Unidos tuvo su peor día en rentabilidad de acciones en lo que va del año.
 
 ![Peor día de índices accionarios en EE.UU. del 2019. Fuente: Bloomberg](/uploads/stockmeltdown.jpeg)_Peor día de índices accionarios en EE.UU. del 2019. Fuente: Bloomberg_
 
