@@ -166,6 +166,6 @@ _Full disclosure: gran parte de esto es una aplicación a Chile de los consejos 
 
 > ##### Si llegaste hasta el final es porque tienes ganas de hacerlo mejor con tus finanzas.
 >
-> ##### Para invertir, te recomiendo Fintual porque es fácil, tiene comisiones bajas, y puedes crear todos los objetivos que quieras para ordenarte. Lo uso desde antes de trabajar aquí 🙂
+> ##### Para invertir, te recomiendo [Fintual]() porque es fácil, tiene comisiones bajas, y puedes crear todos los objetivos que quieras para ordenarte. Lo uso desde antes de trabajar aquí 🙂
 >
-> Prueba sin costo el simulador [aquí](https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=edu+ordenar+finanzas+2horas-258), te va gustar ⚡️
+> ##### Prueba sin costo el simulador [aquí](https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=edu+ordenar+finanzas+2horas-258), te va gustar ⚡️
