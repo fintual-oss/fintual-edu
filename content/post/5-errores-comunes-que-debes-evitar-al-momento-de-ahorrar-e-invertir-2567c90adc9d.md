@@ -11,7 +11,6 @@ categories:
 ---
 **La forma en que interactuamos con nuestro entorno —nuestras inclinaciones naturales a buscar información en todos los rincones darle tanta importancia a los rumores, tratar de encontrar patrones, huir por refugio seguro—fueron fundamentales para sobrevivir durante gran parte de nuestra historia evolutiva como especie humana. Sin embargo, a la hora de invertir, nuestras “reacciones instintivas” han demostrado ser las mayores fuentes de errores.**
 
-
 <div style="text-align:center">
 <figure>
 <img src="/uploads/5-errores-com7122">
@@ -59,7 +58,7 @@ Un buen plan de inversión generalmente contempla ahorros de forma periódica, g
 Warren Buffet es uno de los grandes inversionistas de la historia, y de esta forma explica qué hacer cuando el mercado está a la baja:
 
 > _“Durante períodos dominados por el miedo, nunca debes olvidar dos cosas: primero, el miedo generalizado es tu amigo como inversionista, porque sirve para comprar gangas. Segundo, el miedo personal es tu enemigo”._
-— Warren Buffet
+> — Warren Buffet
 
 ¿Cómo esta idea se potencia cuando inviertes de forma periódica, como por ejemplo, ahorrando e invirtiendo $50.000 de forma mensual?
 
@@ -123,4 +122,6 @@ Después, toma en cuenta los siguientes consejos:
 3. **Aprovecha los beneficios tributarios que existen**, especialmente si estás ahorrando para la vejez, en donde existen beneficios demasiados útiles [tales como el APV](https://fintual.cl/apv).
 4. **Sigue el plan en piloto automático.** Monitorear tus inversiones es importante, pero no te vuelvas adicto a revisarlas día a día. No actúes de forma emocional ante cualquier movimiento o evento. Si tus ingresos aumentan, trata de aumentar tus ahorros.
 
-### En [Fintual](https://fintual.cl/?utm_source=medium.com&utm_medium=referral&utm_campaign=consideration&utm_content=5+errores-165) te ayudamos con todo el proceso de ahorro e inversión, de forma [simple, transparente y sin rodeos.](https://fintual.cl/simple/?utm_source=medium.com&utm_medium=referral&utm_campaign=consideration&utm_content=5+errores+simple-166)
+> ### En [Fintual](https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=edu+5+errores+comunes+al+invertir-260) te ayudamos con todo el proceso de ahorro e inversión, de forma simple, transparente y sin rodeos.
+>
+> ### [Prueba sin costo nuestro simulador](https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=edu+5+errores+comunes+al+invertir-260) y toma control de tus finanzas 💪
