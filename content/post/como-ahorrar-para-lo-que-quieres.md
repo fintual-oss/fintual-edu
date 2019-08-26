@@ -10,6 +10,7 @@ url: "/como-ahorrar-para-lo-que-quieres/"
 aliases:
 - "/cómo-ahorrar-para-lo-que-quieres-cfffc1d0a732"
 description: ''
+hide: false
 
 ---
 ### Ayer vi el comercial de un niño en Tailandia que ahorra en su alcancía (con forma de nave espacial) y me recordó a mí cuando niño.
@@ -44,16 +45,14 @@ Siguiendo con el ejemplo. Si pudiese haber invertido en algo que creciera como l
 
 Obviamente, hay muchas formas de invertir. Algunas le ganan en el largo plazo a la inflación y otras no. Como sea, hay alternativas mejores que dejarlas tiradas bajo el colchón o dentro de una alcancía.
 
-Las hay **muy conservadoras**, como fondos mutuos de muy corto plazo —_money market_ se llaman comúnmente que se usan sólo para tener la plata unos cuantos días— que tienen mínimo riesgo y por eso “se venden rápido” por los ejecutivos de inversión, sin embargo **tu dinero crece mucho menos que la inflación**.
-
-Están también los depósitos a plazo bancarios, que con los niveles de tasa de interés actuales crecen —con suerte— en torno a la inflación.
-
-Y también puedes invertir en el largo plazo con la idea de rentar más que la inflación: un ejemplo es invertir a través de alternativas de bajas comisiones sobre acciones de diversas empresas, que es a lo que [te damos acceso en Fintual](https://fintual.cl/?utm_source=IG&utm_medium=referral&utm_campaign=awareness&utm_content=como+ahorrar+para+lo+que+quieres+home-196).
+En Fintual te ayudamos a invertir con la idea de rentar más que la inflación, dándote acceso a fondos que tienen acciones de diversas empresas a bajas comisiones.
 
 ## _Al niño del aviso comercial le faltó Fintual_
 
 Tampoco había algo como Fintual hace 20 años cuando yo era el niño, pero hoy sí y es por eso que tengo prácticamente todos mis ahorros ahí.
 
-En Fintual podrás definir un objetivo de inversión distinto para cada uno de tus planes de ahorro y te propondremos carteras distintas según el plazo de inversión y el riesgo que quieras tomar. Dale una prueba con el monto que quieras y te darás cuenta de lo fácil de usar que lo hicimos, para cualquier persona, incluso un niño.
+> #### En [Fintual](https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=edu+como+ahorrar+para+lo+que+quieres-261) podrás definir un objetivo de inversión distinto para cada uno de tus planes de ahorro y te propondremos carteras diferentes según el plazo de inversión y riesgo que quieras tomar. 
+>
+> #### [Prueba nuestro simulador ](https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=edu+como+ahorrar+para+lo+que+quieres-261)con el monto que quieras y te darás cuenta que es fácil de usar para cualquier persona, incluso un niño.
 
-Si tienes dudas de como funciona Fintual, [revisa la sección preguntas frecuentes](https://fintual.cl/simple/?utm_source=IG&utm_medium=referral&utm_campaign=awareness&utm_content=como+ahorrar+para+lo+que+quieres+simple-197). Y si aún tienes preguntas escríbeme a omar@fintual.com
+Si tienes dudas de cómo funciona Fintual, [revisa la sección preguntas frecuentes](https://fintual.cl/simple/?utm_source=IG&utm_medium=referral&utm_campaign=awareness&utm_content=como+ahorrar+para+lo+que+quieres+simple-197). Y si aún tienes preguntas escríbeme a omar@fintual.com
