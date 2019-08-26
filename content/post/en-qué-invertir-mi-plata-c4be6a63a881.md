@@ -115,6 +115,6 @@ Eso es lo que hacen en Chile las empresas Cumplo, Becual y Dobleimpacto (no sé 
 >
 > #### [Prueba sin costo nuestro simulador online](https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=edu+en+que+invertir+mi+plata-264) para recibir una recomendación de inversión personalizada, según tus objetivos, plazo y riesgo.
 
-Infórmese de las características esenciales de la inversión en estos fondos mutuos, los que se encuentran contenidos en sus reglamentos internos y contratos de suscripción de cuotas.
+_Infórmese de las características esenciales de la inversión en estos fondos mutuos, los que se encuentran contenidos en sus reglamentos internos y contratos de suscripción de cuotas._
 
-Las rentabilidades o ganancias obtenidas en el pasado por estos fondos, no garantizan que ellas se repitan en el futuro. Los valores de las cuotas de los fondos mutuos son variables. Las rentabilidades nominales del fondo Risky Norris calculadas en pesos al 31/07/2019 han sido: 1 mes: 4,51% - 3 meses: 4,18% - 6 meses: 16,34% - 1 año: 13,43%.
+_Las rentabilidades o ganancias obtenidas en el pasado por estos fondos, no garantizan que ellas se repitan en el futuro. Los valores de las cuotas de los fondos mutuos son variables. Las rentabilidades nominales del fondo Risky Norris calculadas en pesos al 31/07/2019 han sido: 1 mes: 4,51% - 3 meses: 4,18% - 6 meses: 16,34% - 1 año: 13,43%._
