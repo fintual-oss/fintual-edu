@@ -55,6 +55,7 @@ fields:
   label: Hide
   description: para esconder el post en edu (el link sigue funcionando)
 pages:
+- content/post/como-ahorrar-para-lo-que-quieres.md
 - content/post/automatizando-tus-finanzas-personales.md
 - content/post/lunes-negro-en-wall-street.md
 - content/post/clase-5-riesgo-y-aleatoriedad.md
@@ -71,7 +72,6 @@ pages:
 - content/post/fintalks-ep-2-apv-y-seguros-con-ahorro.md
 - content/post/como-un-cafe-menos-al-dia-podria-darte-mas-de-100mm.md
 - content/post/por-qué-cayó-tanto-el-fondo-e-de-las-afp-donald-trump-y-los-simpsons-e17fffedbddb.md
-- content/post/como-ahorrar-para-lo-que-quieres.md
 - content/post/file.md
 - content/post/fintual-tiene-us-250-000-para-repartir-en-su-plan-de-recompensas-para
   hackers.md
