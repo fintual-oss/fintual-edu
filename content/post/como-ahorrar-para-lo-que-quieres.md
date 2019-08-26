@@ -49,10 +49,10 @@ En Fintual te ayudamos a invertir con la idea de rentar más que la inflación, 
 
 ## _Al niño del aviso comercial le faltó Fintual_
 
-Tampoco había algo como Fintual hace 20 años cuando yo era el niño, pero hoy sí y es por eso que tengo prácticamente todos mis ahorros ahí.
+Tampoco existía algo así hace 20 años cuando yo era el niño, pero hoy sí y es por eso que tengo prácticamente todos mis ahorros ahí.
 
 > #### En [Fintual](https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=edu+como+ahorrar+para+lo+que+quieres-261) podrás definir un objetivo de inversión distinto para cada uno de tus planes de ahorro y te propondremos carteras diferentes según el plazo de inversión y riesgo que quieras tomar. 
 >
 > #### [Prueba nuestro simulador ](https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=edu+como+ahorrar+para+lo+que+quieres-261)con el monto que quieras y te darás cuenta que es fácil de usar para cualquier persona, incluso un niño.
 
-Si tienes dudas de cómo funciona Fintual, [revisa la sección preguntas frecuentes](https://fintual.cl/simple/?utm_source=IG&utm_medium=referral&utm_campaign=awareness&utm_content=como+ahorrar+para+lo+que+quieres+simple-197). Y si aún tienes preguntas escríbeme a omar@fintual.com
+Si tienes más dudas de cómo funciona, [revisa la sección preguntas frecuentes](https://fintual.cl/simple/?utm_source=IG&utm_medium=referral&utm_campaign=awareness&utm_content=como+ahorrar+para+lo+que+quieres+simple-197). Y si aún tienes preguntas escríbeme a omar@fintual.com
