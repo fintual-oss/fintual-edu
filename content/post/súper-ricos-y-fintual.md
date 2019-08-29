@@ -13,13 +13,12 @@ url = "super-ricos-y-fintual"
 +++
 Hoy salió en un diario la [noticia](https://www.latercera.com/pulso-trader/noticia/paragon-los-ex-banchile-irrumpen-negocio-multifamily/800915/amp/) de unos asesores en inversiones para personas súper ricas en Chile.
 
-![](/uploads/supericos3.png)
+![](/uploads/supericos.png)
 
 Aprendí que en la banca chilena las remuneraciones de los ejecutivos han ido disminuyendo, por lo que ejecutivos senior se están moviendo a firmas independientes como ésta, donde dan una atención personalizada a personas millonarias.
 
 Y, manejar tanto dinero, les permite acceder a instrumentos mejores y más baratos.
 
-  
 ![](/uploads/supericos2.png)
 
 Súper bueno.
