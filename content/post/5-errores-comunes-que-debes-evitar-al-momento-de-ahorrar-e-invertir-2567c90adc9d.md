@@ -18,7 +18,7 @@ categories:
 </figure>
 </div>
 
-Alguno de los principales errores que se cometen cuando se invierte —en especial cuando se hace en el largo plazo— son:
+Algunos de los principales errores que se cometen cuando se invierte —en especial cuando se hace en el largo plazo— son:
 
 ## Error 1: Tener poca paciencia
 
