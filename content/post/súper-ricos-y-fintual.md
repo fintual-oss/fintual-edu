@@ -19,7 +19,7 @@ Aprendí que en la banca chilena las remuneraciones de los ejecutivos han ido di
 
 Y, manejar tanto dinero, les permite acceder a instrumentos mejores y más baratos.
 
-![](/uploads/supericos2-1.png)
+<div style="text-align:center"> <figure> <img src="/uploads/supericos2-1.png"> <figcaption><i>La Tercera</i></figcaption> </figure> </div>
 
 Súper bueno.
 
