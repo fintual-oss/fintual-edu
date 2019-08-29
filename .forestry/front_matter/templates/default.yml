@@ -55,6 +55,7 @@ fields:
   label: Hide
   description: para esconder el post en edu (el link sigue funcionando)
 pages:
+- content/post/súper-ricos-y-fintual.md
 - content/post/como-ahorrar-para-lo-que-quieres.md
 - content/post/automatizando-tus-finanzas-personales.md
 - content/post/lunes-negro-en-wall-street.md
