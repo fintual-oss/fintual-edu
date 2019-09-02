@@ -12,10 +12,11 @@ title = "¿Te cagaste de frío este invierno?"
 url = "te-cagaste-de-frío-este-invierno"
 
 +++
-En mi edificio hubo dos tipos de personas este invierno:  
+##### En mi edificio hubo dos tipos de personas este invierno:  
+  
 1\. Las que querían cortar la calefacción porque salía muy cara.
 
-2\. Las que estaban chatas de l@s que querían cortar la calefacción.
+##### 2. Las que estaban chatas de l@s que querían cortar la calefacción.
 
 Lo bueno es que, como es algo que se repite todos los años, te puedes anticipar.
 
