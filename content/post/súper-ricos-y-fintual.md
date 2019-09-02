@@ -2,7 +2,7 @@
 aliases = []
 author = "Pedro Pineda"
 author_thumbnail = "/uploads/pedro.png"
-categories = []
+categories = ["noticias"]
 date = "2019-08-29T04:00:00+00:00"
 description = "Fintual permite que cualquier persona acceda a instrumentos a los que tienen acceso los súper ricos en Chile."
 hide = false
