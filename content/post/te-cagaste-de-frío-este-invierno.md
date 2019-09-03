@@ -20,8 +20,7 @@ url = "te-cagaste-de-frío-este-invierno"
 
 <div style=“text-align:center”>
 <figure>
-<img src=“/uploads/excuseme.gif”>
-<figcaption><i>Mi cara en la reunión del edificio.</i></figcaption>
+<iframe src="https://giphy.com/embed/DvyLQztQwmyAM" width="472" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p></p>
 </figure>
 </div>
 
@@ -37,4 +36,3 @@ Ejemplo: pagaste $240.000 este invierno. Dividido en 12 meses, deberías ahorrar
 
 Otra opción es abrigarte mucho y tratar de no volver a cagarte de frío 🥶
 
-<iframe src="[https://giphy.com/embed/FOL5mK0tXUmXe](https://giphy.com/embed/FOL5mK0tXUmXe "https://giphy.com/embed/FOL5mK0tXUmXe")" width="480" height="271" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="[https://giphy.com/gifs/puppy-burrito-dog-FOL5mK0tXUmXe](https://giphy.com/gifs/puppy-burrito-dog-FOL5mK0tXUmXe "https://giphy.com/gifs/puppy-burrito-dog-FOL5mK0tXUmXe")">via GIPHY</a></p>
