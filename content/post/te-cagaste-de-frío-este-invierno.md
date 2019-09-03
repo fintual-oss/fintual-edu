@@ -18,12 +18,10 @@ url = "te-cagaste-de-frío-este-invierno"
 
 ##### 2. Las que estaban chatas de l@s que querían cortar la calefacción.
 
-![](/uploads/excuseme.gif)
-
 <div style=“text-align:center”>
 <figure>
-<img src=“/uploads/5-errores-com7045.png”>
-<figcaption><i>Warren Buffett con una camisa de lagartijas.</i></figcaption>
+<img src=“/uploads/excuseme.gif”>
+<figcaption><i>Mi cara en la reunión del edificio.</i></figcaption>
 </figure>
 </div>
 
