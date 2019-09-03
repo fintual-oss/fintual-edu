@@ -29,6 +29,7 @@ Suma lo que te costó la calefacción este invierno y divídelo en 12 meses. Si 
 <div style=“text-align:center”>
 <figure>
 <img src=“/uploads/thinkaboutit.jpg”>
+<figcaption><i></i></figcaption>
 </figure>
 </div>
 
