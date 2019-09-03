@@ -27,7 +27,10 @@ Suma lo que gastate en calentar tu casa este invierno y divídelo en 12 meses. S
 
 <div style="text-align:center"> <figure> <img src="/uploads/thinkaboutit.png"> <figcaption><i></i></figcaption> </figure> </div>
 
-  
 Ejemplo: pagaste $240.000 este invierno. Dividido en 12 meses, deberías ahorrar $20.000 mensual. Harto menos que gastar 200 lucas _de una_.
+
+> ##### Fintual es una buena forma de organizar tus finanzas personales.
+>
+> ##### Es fácil de usar, tiene comisiones bajas y puedes crear todos los objetivos que quieras para ordenarte. Empieza [aquí](https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=no+te+cagues+de+frio-269#empezar).
 
 Otra opción es abrigarte mucho y tratar de no volver a cagarte de frío 🥶
