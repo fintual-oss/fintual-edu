@@ -23,7 +23,7 @@ De hecho, en países donde el frío es extremo, se recomienda juntar mes a mes p
 
 ¿Cómo? Fácil.
 
-Suma lo que te costó la calefacción este invierno y divídelo en 12 meses. Si empiezas a juntar en septiembre vas a llegar con un buen colchón para disfrutar el próximo invierno sin frío.
+Suma lo que te costó la calefacción este invierno y divídelo en 12 meses. Si empiezas a juntar en septiembre, vas a llegar con un buen colchón para disfrutar el próximo invierno sin frío.
 
 <div style="text-align:center"> <figure> <img src="/uploads/thinkaboutit.png"> <figcaption><i></i></figcaption> </figure> </div>
 
