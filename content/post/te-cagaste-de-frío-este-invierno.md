@@ -7,7 +7,7 @@ date = "2019-09-02T04:00:00+00:00"
 description = ""
 draft = true
 hide = false
-image = ""
+image = "/uploads/c.png"
 title = "¿Te cagaste de frío este invierno?"
 url = "te-cagaste-de-frío-este-invierno"
 
