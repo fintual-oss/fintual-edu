@@ -11,7 +11,7 @@ title = "¿Te cagaste de frío este invierno?"
 url = "te-cagaste-de-frío-este-invierno"
 
 +++
-##### En mi edificio hubo dos tipos de personas este invierno:
+En mi edificio hubo dos tipos de personas este invierno:
 
 ##### 1. Las que querían cortar la calefacción porque salía muy cara.
 
@@ -26,7 +26,6 @@ De hecho, en países donde el frío es extremo, se recomienda juntar mes a mes p
 Suma lo que te costó la calefacción este invierno y divídelo en 12 meses. Si empiezas a juntar en septiembre vas a llegar con un buen colchón para disfrutar el próximo invierno sin frío.
 
 <div style="text-align:center"> <figure> <img src="/uploads/thinkaboutit.png"> <figcaption><i></i></figcaption> </figure> </div>
-
 
 Ejemplo: pagaste $240.000 este invierno. Dividido en 12 meses, deberías ahorrar $20.000 mensual. Harto menos que gastar 200 lucas _de una_.
 
