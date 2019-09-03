@@ -18,10 +18,13 @@ url = "te-cagaste-de-frío-este-invierno"
 
 ##### 2. Las que estaban chatas de l@s que querían cortar la calefacción.
 
-<div style=“text-align:center”>  
-<figure>  
-<iframe src="https://giphy.com/embed/DvyLQztQwmyAM" width="472" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mrw-bathroom-nekkid-DvyLQztQwmyAM"></a></p>  
-</figure>  
+![](/uploads/excuseme.gif)
+
+<div style=“text-align:center”>
+<figure>
+<img src=“/uploads/5-errores-com7045.png”>
+<figcaption><i>Warren Buffett con una camisa de lagartijas.</i></figcaption>
+</figure>
 </div>
 
 Lo bueno es que, como es algo que se repite todos los años, te puedes anticipar.
@@ -35,6 +38,5 @@ Suma lo que te costó la calefacción este invierno y divídelo en 12 meses. Si 
 Ejemplo: pagaste $240.000 este invierno. Dividido en 12 meses, deberías ahorrar $20.000 mensual. Harto menos que gastar 200 lucas _de una_.
 
 Otra opción es abrigarte mucho y tratar de no volver a cagarte de frío 🥶
-
 
 <iframe src="[https://giphy.com/embed/FOL5mK0tXUmXe](https://giphy.com/embed/FOL5mK0tXUmXe "https://giphy.com/embed/FOL5mK0tXUmXe")" width="480" height="271" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="[https://giphy.com/gifs/puppy-burrito-dog-FOL5mK0tXUmXe](https://giphy.com/gifs/puppy-burrito-dog-FOL5mK0tXUmXe "https://giphy.com/gifs/puppy-burrito-dog-FOL5mK0tXUmXe")">via GIPHY</a></p>
