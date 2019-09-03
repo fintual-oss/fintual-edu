@@ -5,7 +5,6 @@ author_thumbnail = "/uploads/jf.png"
 categories = ["educación financiera"]
 date = "2019-09-02T04:00:00+00:00"
 description = ""
-draft = true
 hide = false
 image = "/uploads/c.png"
 title = "¿Te cagaste de frío este invierno?"
