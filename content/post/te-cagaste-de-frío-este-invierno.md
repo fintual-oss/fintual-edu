@@ -2,7 +2,7 @@
 aliases = []
 author = "Juan Francisco Weitz"
 author_thumbnail = "/uploads/jf.png"
-categories = ["educación financiera"]
+categories = []
 date = "2019-09-02T04:00:00+00:00"
 description = "No seas como mis vecinos y adelántate al próximo invierno."
 hide = false
