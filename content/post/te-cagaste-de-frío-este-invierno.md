@@ -8,7 +8,7 @@ description = "No seas como mis vecinos y anticípate al próximo invierno."
 hide = false
 image = "/uploads/c.png"
 title = "¿Te cagaste de frío este invierno?"
-url = "te-cagaste-de-frío-este-invierno"
+url = "te-cagaste-de-frio-este-invierno"
 
 +++
 En mi edificio hubo dos tipos de personas este invierno:
