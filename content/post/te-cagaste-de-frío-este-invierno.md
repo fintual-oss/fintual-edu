@@ -27,7 +27,7 @@ Suma lo que te costó la calefacción este invierno y divídelo en 12 meses. Si 
 
 
 <div style="text-align:center"> <figure> <img src="/uploads/thinkaboutit.png"> <figcaption><i></i></figcaption> </figure> </div>  
-  
+
 
 Ejemplo: pagaste $240.000 este invierno. Dividido en 12 meses, deberías ahorrar $20.000 mensual. Harto menos que gastar 200 lucas _de una_.
 
