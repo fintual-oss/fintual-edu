@@ -26,6 +26,7 @@ Ahora, los bancos en Chile podrán pedir prestado dinero más barato, lo que deb
   Tanto créditos de consumo, créditos a empresas y créditos hipotecarios. Así como los bancos piden prestado más barato entre sí mismos o incluso al Central, las personas podrán pedir más barato a los bancos. Entre menor sea el plazo del crédito, más debería bajar la tasa de interés con respecto a como estaban “hace una semana”. Es por esto que créditos de mucho plazo, como los hipotecarios a 30 años, podrían bajar, pero poco.
 
   > _La recomendación es que refinancies tu crédito: anda donde tu ejecutivo y pídele rebajar las tasas que tienes actualmente._
+
 * **La tasa de interés de los depósitos a plazo debería bajar**.
 
   Por ejemplo, si un depósito a plazo estaba a 0,20% mensual hace una semana, probablemente ahora va a estar a 0,16% (suponiendo las mismas características de plazo y banco). En el fondo, parte de la idea del Central es que hay que buscar mejores alternativas para los que tienen dinero invertido.
