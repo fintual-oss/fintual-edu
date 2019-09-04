@@ -33,4 +33,5 @@ Ahora, los bancos en Chile podrán pedir prestado dinero más barato, lo que deb
   > _Si_ _tenías un depósito, ahora podrías tomar algo más de riesgo. Si ya estabas tomando riesgo, podrías pensar en gastar algo en proyectos de empresas reales y ayudar a reactivar la economía_.
 
   Y así sucesivamente, en un ciclo virtuoso del capital. Al menos eso es la teoría.
+
 * Las carteras compuestas por bonos, que en general son las carteras más conservadoras, deberían tener una ganancia puntual rápida esta semana (“ganancia de capital”) por bajas de interés. Sin embargo, esta ganancia es puntual y moderada, ya que gran parte de lo comunicado por el Banco Central está internalizado en los precios.
