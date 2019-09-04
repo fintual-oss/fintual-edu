@@ -5,7 +5,6 @@ author_thumbnail = "/uploads/omar_larre.jpg"
 categories = []
 date = "2019-09-04T04:00:00+00:00"
 description = "¿Y a mí qué me importa que vuelvan a bajar las tasas?"
-draft = true
 hide = false
 image = "/uploads/taza.jpeg"
 title = "El Banco Central de Chile volvió a bajar las tasas"
