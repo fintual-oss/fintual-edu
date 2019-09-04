@@ -13,9 +13,9 @@ url = "el-bc-volvio-a-bajar-las-tasas"
 +++
 El martes 3 de septiembre el Banco Central de Chile decidió bajar nuevamente el **“precio de pedir prestado el dinero”**, es decir, la tasa de interés, repitiendo [la baja de junio pasado](https://edu.fintual.cl/las-tasas-bajan-en-chile/).
 
-##### **¿Qué es lo que hizo exactamente?** 
+##### ¿Qué es lo que hizo exactamente?
 
-El Banco Central **bajó en 0,50% la “tasa de política monetaria”** (TPM), desde un 2,5% a un 2%. Según el Banco Central, esta baja de tasa —esperada por gran parte de los analistas y por el mercado, a diferencia de la de junio— se hace necesaria ya que la economía en Chile **“**muestra baja inflación, se espera menor actividad económica, hay una lenta actividad del consumo, el mercado laboral está poco dinámico y hay expectativas deterioradas sobre el crecimiento global e interno**”**.
+El Banco Central **bajó en 0,50% la “tasa de política monetaria”** (TPM), desde un 2,5% a un 2%. Según el Banco Central, esta baja de tasa —esperada por gran parte de los analistas y por el mercado, a diferencia de la de junio— se hace necesaria ya que la economía en Chile **“muestra baja inflación, se espera menor actividad económica, hay una lenta actividad del consumo, el mercado laboral está poco dinámico y hay expectativas deterioradas sobre el crecimiento global e interno**”.
 
 ##### ¿Qué cambia?
 
@@ -23,10 +23,10 @@ Ahora, los bancos en Chile podrán pedir prestado dinero más barato, lo que deb
 
 * **Los créditos bancarios deberían ser aún más baratos**.
 
-  Tanto créditos de consumo, créditos a empresas y créditos hipotecarios. Así como los bancos piden prestado más barato entre sí mismos o incluso al Central, las personas podrán pedir más barato a los bancos. Entre menor sea el plazo del crédito, más debería bajar la tasa de interés con respecto a como estaban “hace una semana”. Es por esto que créditos de mucho plazo, como los hipotecarios a 30 años, podrían bajar, pero poco. 
+  Tanto créditos de consumo, créditos a empresas y créditos hipotecarios. Así como los bancos piden prestado más barato entre sí mismos o incluso al Central, las personas podrán pedir más barato a los bancos. Entre menor sea el plazo del crédito, más debería bajar la tasa de interés con respecto a como estaban “hace una semana”. Es por esto que créditos de mucho plazo, como los hipotecarios a 30 años, podrían bajar, pero poco.
 
   > _La recomendación es que refinancies tu crédito: anda donde tu ejecutivo y pídele rebajar las tasas que tienes actualmente._
-* **La tasa de interés de los depósitos a plazo debería bajar**. 
+* **La tasa de interés de los depósitos a plazo debería bajar**.
 
   Por ejemplo, si un depósito a plazo estaba a 0,20% mensual hace una semana, probablemente ahora va a estar a 0,16% (suponiendo las mismas características de plazo y banco). En el fondo, parte de la idea del Central es que hay que buscar mejores alternativas para los que tienen dinero invertido.
 
