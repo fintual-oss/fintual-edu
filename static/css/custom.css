@@ -45,3 +45,12 @@ img + em {
   margin-left: 5px;
   line-height: 32px;
 }
+
+.navbar-light .navbar-nav .nav-link.nav-link--return {
+  font-weight: bold;
+  color: #0e4466;
+}
+
+.navbar-light .navbar-nav .nav-link.nav-link--return:hover {
+  opacity: .75;
+}
