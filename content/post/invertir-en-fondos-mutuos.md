@@ -45,7 +45,7 @@ Estos Fondos son administrados por **Administradoras Generales de Fondos,** las 
 
 Existen distintas ventajas asociadas a la inversión en fondos mutuos, como la **diversificación, liquidez rápida, accesibilidad (existen fondos mutuos sin monto mínimo de inversión), gran variedad de oferta y algunos beneficios tributarios, además de la rentabilidad, que suele ser mayor a la de un depósito a plazo.** Por otro lado, no es necesario saber de finanzas para invertir en fondos mutuos, ya que la administradora es la entidad que invierte el dinero.
 
-Sin embargo, la inversión en fondos mutuos tiene comisiones asociadas que no toda la gente conoce. Una buena herramienta es el comparador [Qué Fondo Mutuo](www.quefondomutuo.cl).
+Sin embargo, la inversión en fondos mutuos tiene comisiones asociadas que no toda la gente conoce. Una buena herramienta es el comparador [Qué Fondo Mutuo](https://www.quefondomutuo.cl).
 
 ![](/uploads/quefondomutuo.png)
 
@@ -59,6 +59,6 @@ La gracia es que solo cobra 1,19% al año (hay fondos similares que pueden cobra
 
 Rescatar el dinero tampoco tiene costo.
 
-Fintual es fácil de usar y te muestra cómo le ha ido a tu inversión de manera simple y transparente. 
+Fintual es fácil de usar y te muestra cómo le ha ido a tu inversión de manera simple y transparente.
 
 <p style="text-align:center"> <a class="simulator-page__button btn btn--secondary" href="[https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=consideration&utm_content=invertir+en+fondos+mutuos-251#empezar](https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=consideration&utm_content=invertir+en+fondos+mutuos-251#empezar "https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=consideration&utm_content=invertir+en+fondos+mutuos-251#empezar")">Empezar</a></p>
