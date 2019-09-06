@@ -7,36 +7,6 @@ title = "Invertir en fondos mutuos"
 url = "/invertir-en-fondos-mutuos"
 
 +++
-<style>
-
-p { margin:4rem 0px; text-align:justify; }
-
-.footer-big__overlap { padding-bottom:0px; }
-
-.image-wrapper {
-
-text-align: center;
-
-}
-
-.image-wrapper img {
-
-width: 60%; text-align: center; margin: 40px 0px;
-
-}
-
-@media (max-width: 768px)  {
-
-.image-wrapper img {
-
-width: 100%;
-
-}
-
-}
-
-</style>
-
 Un **fondo mutuo** es una alternativa de inversión en la que varias personas físicas y/o jurídicas –que se llaman partícipes o aportantes– juntan su dinero para **formar un patrimonio conjunto para invertir.**
 
 Este dinero puede ser invertido en acciones de empresas (renta variable), instrumentos de deuda o en una combinación de ambos.
@@ -61,4 +31,4 @@ Rescatar el dinero tampoco tiene costo.
 
 Fintual es fácil de usar y te muestra cómo le ha ido a tu inversión de manera simple y transparente.
 
-<p style="text-align:center"> <a class="simulator-page__button btn btn--secondary" href="https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=consideration&utm_content=invertir+en+fondos+mutuos-251#empezar">Empezar</a></p>
+[Empezar](https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=consideration&utm_content=invertir+en+fondos+mutuos-251#empezar)
