@@ -28,3 +28,29 @@ img + em {
   text-align: center;
   font-size: .8rem;
 }
+
+.navbar-brand.navbar-brand--fintual {
+  display: flex;
+  align-items: center;
+}
+
+.navbar-brand.navbar-brand--fintual img {
+  margin-right: 0;
+}
+
+.navbar-brand--fintual .navbar-brand__edu {
+  color: #aaa;
+  font-size: 30px;
+  font-weight: 300;
+  margin-left: 5px;
+  line-height: 32px;
+}
+
+.navbar-light .navbar-nav .nav-link.nav-link--return {
+  font-weight: bold;
+  color: #0e4466;
+}
+
+.navbar-light .navbar-nav .nav-link.nav-link--return:hover {
+  opacity: .75;
+}
