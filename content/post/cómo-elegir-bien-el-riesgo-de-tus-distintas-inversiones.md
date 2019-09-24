@@ -6,14 +6,12 @@ date = "2019-09-24T20:29:04+00:00"
 description = "Creamos una (mini) guía sobre cómo elegir bien el riesgo de tus diferentes inversiones."
 draft = true
 hide = false
-image = "/uploads/1-1.png"
+image = "/uploads/portada elegir riesgo edu.png"
 title = "Cómo elegir bien el riesgo de tus distintas inversiones"
 url = "como-elegir-riesgo-inversion"
 
 +++
-Tengo miedo de perder plata.
-
-![](https://lh3.googleusercontent.com/ZCjNNIB52-zl44GEiISOOL-OBP3coek_Jb8ANIWYs4DDI7pslS4zZBH_H0H71oJkQvKR2_r5xicuzoGVWAUyBmHKOCSSkP_L-oFdjvhyiIhipF-S7hNZg3AOZAKzNrbVzpOpdxLa =624x416)
+_"Tengo miedo de perder plata."_
 
 Ésta debe ser una de las cosas que más escuchamos en Fintual.
 
@@ -33,7 +31,7 @@ Si haces esto bien, vas a poder invertir en alternativas riesgosas asumiendo poc
 
 Divide tu plata en partes y pregúntate ¿Qué parte de esta plata voy a necesitar el año que viene y qué parte puede esperar 10 años?
 
-![](https://lh6.googleusercontent.com/YVOXxf6DVLLyda2WUO-w62BYkHPOTjxOvhEqXQ4EHr4RI0zmIcWNsZEicneUJbl5GNWTJfHzunf1D6Z4ru7MneTgEbBdhuXYxXuIrefLqPRF0sYMK_wLyHu4ozzzE5fVztmuMEy1 =624x415)
+![](/uploads/photo-1432888498266-38ffec3eaf0a.png)
 
 Obvio que nunca se sabe, pero tírate una adivinada decente. Este paso es el más difícil. Si logras dividir tus ahorros en estas “bolsas de plata” con **plazos** distintos, ya tendrás casi toda la pega hecha.
 
@@ -61,15 +59,17 @@ Si vas a necesitar tu plata en tres años o menos, es bueno elegir opciones más
 
 Abajo hay un gráfico que mide la rentabilidad del IPSA (el índice que replica el mercado chileno abierto a bolsa) entre 1994 y el 2018. Fíjate que en las inversiones de sobre 10 años, los retornos siempre han sido positivos.
 
-![](https://lh6.googleusercontent.com/9QSR5bwUA6sJgTIoFvUH5FVmHssUQzU0FWd_qGe9OvPBBkgFLyXs4AgEWN2usO8g8i0SnoxvJSdKFMmAMzSMi0jeX2PlyvtVu890S2XN8K6PLfpxvY2ih-KZCXbX2KbeeAjQXPmq =624x388)
+![](/uploads/ipsa evolucion.png)
 
 _Muchas gracias a Ricardo Díaz por este gráfico._
 
 En otras palabras, tu riesgo se mitiga por el paso del tiempo. Entonces tus inversiones riesgosas, ya no lo son tanto.
 
+Una función muy útil de Fintual es que puedes tener varios objetivos al mismo tiempo, manteniendo las platas separadas en “bolsas” con el nivel de riesgo adecuada a cada una. Y es bacán porque no hay límites a la cantidad de objetivos que puedes tener:
+
 Una función muy útil de Fintual es que puedes tener varios objetivos al mismo tiempo, manteniendo las platas separadas en “bolsas” con el nivel de riesgo adecuada a cada una. Otra cosa bacán es que no hay límites a la cantidad de objetivos que puedes tener:
 
-![](https://lh5.googleusercontent.com/u1adUyq9DGOvSEZP4i7Yix19F01a1sijr07MtDhaCWI3JQjfvVrXYaI0IrcfMqYCmLtPZb7aXN23jYuXYJ2I7Qe5AHJj-FaVZH4zy4pu-DyNIHX08qYWz-30oDdovRtxc15Y4WvU =548x836)
+![](/uploads/mis-objetivos-1.jpg)
 
 ### **3. No pongas tus huevos en una sola canasta**
 
@@ -77,7 +77,7 @@ Para que el punto anterior sea verdad es _muy importante que tu inversión esté
 
 **Apostar a que las acciones de una empresa puntual van a subir es una muy mala idea.** De hecho, los inversionistas profesionales se equivocan todo el rato. Y eso que se dedican a estudiar estos temas y probablemente manejan más información que tú. Según el [Diario Financiero](https://www.df.cl/noticias/mercados/mercados-en-accion/en-chile-91-de-los-fondos-activos-pierden-ante-el-mercado-en-cinco-anos/2018-10-26/193752.html), en Chile el 91% de los fondos activos pierden ante el mercado en cinco años.
 
-![](https://lh4.googleusercontent.com/1myHyjWiUm-j8PjmtV1hpuzRBQ7QcX9XtV1p1wjTU5hQDtRgfkK4fiLaQyJU2yrWG57Yb1NSi7c0Oraj-zp8qXWPl5wCatm0aBWqL-wN5BXQpETmDKg0XUSq7UTleG8K8KXKjJfh =624x391)
+![](/uploads/Funny eggs funny eggs_d05bbb_5813754-1.jpg)
 
 Es por eso que **en Fintual invertimos en ETFs, que son fondos que replican índices**. Es decir, que compran acciones de cientos de empresas, apostando al rendimiento de un mercado en su conjunto.
 
