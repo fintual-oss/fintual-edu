@@ -1,12 +1,12 @@
 +++
 aliases = []
 author = "Agustín Feuerhake"
-categories = []
+categories = ["educación financiera"]
 date = "2019-09-24T20:29:04+00:00"
 description = "Creamos una (mini) guía sobre cómo elegir bien el riesgo de tus diferentes inversiones."
 draft = true
 hide = false
-image = "/uploads/Diseño sin título (1).png"
+image = "/uploads/Diseño sin título (2).png"
 title = "Cómo elegir bien el riesgo de tus distintas inversiones"
 url = "como-elegir-riesgo-inversion"
 
