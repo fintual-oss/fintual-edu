@@ -1,5 +1,5 @@
 ---
-author: FranFeuer
+author: Francisca Feuerhake
 author_thumbnail: "/uploads/francisca_feuerhake.jpg"
 title: 'Juan Cristóbal Guarello: “Especular es mejor que el sexo para los grandes
   hombres de negocios”'

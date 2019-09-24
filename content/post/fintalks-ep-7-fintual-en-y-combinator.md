@@ -5,14 +5,14 @@ author_thumbnail = "/uploads/pedro.png"
 categories = ["podcasts"]
 date = "2019-01-11T03:00:00+00:00"
 description = "Cómo fue la experiencia de quedar en la mayor aceleradora de startups en el mundo, qué aprendió Fintual en su paso por YC y por qué todas las startups deberían postular."
-image = "https://edu.fintual.cl/uploads/fntlk.png"
+image = "/uploads/fntlk.png"
 title = "Fintalks. Ep 7: Fintual en Y Combinator"
 url = "/fintalks-7"
 
 +++
 Esta es la transcripción del séptimo episodio de nuestro podcast Fintalks. Lo puedes escuchar en [Spotify](https://open.spotify.com/episode/7gB9XIxKaI7tok7NppW5cB?si=lWfipRyYSKm4ZSl2VysP9g), [iTunes](https://itunes.apple.com/cl/podcast/fintalks-ep-7-fintual-en-y-combinator/id1444666203?i=1000427484373&mt=2) y [YouTube](https://www.youtube.com/watch?v=EDF_3LfN7Rg&t).
 
-**00:04 |** Nosotros ya lo cachábamos y nos pasaba un poco lo que pasa en todas las Startups chilenas, como que dijimos no que vamos a postular a Y Combinator, no vamos a quedar nunca. Apocamiento sureño, de calma, yo soy de Puerto Montt así que más apocado todavía (risas) y un día, ya me hice una carta, me anote un apunte qué sé yo, entre y ya dije postular a Y Combinator, y un viernes estaba entre irme a la casa a descansar o trabajar un poco más, y dije ya voy a hacerlo, hice la postulación, así a mano y después llamé a los cabros para que me dijeran, o sea, hiciéramos un video, había que hacer un video y editar también la postulación, y la mandamos, sin ninguna fe de hecho, fuera de plazo creo que también como atrasados como una semana (además fuera de plazo) una semana atrasados. 
+**00:04 |** Nosotros ya lo cachábamos y nos pasaba un poco lo que pasa en todas las Startups chilenas, como que dijimos no que vamos a postular a Y Combinator, no vamos a quedar nunca. Apocamiento sureño, de calma, yo soy de Puerto Montt así que más apocado todavía (risas) y un día, ya me hice una carta, me anote un apunte qué sé yo, entre y ya dije postular a Y Combinator, y un viernes estaba entre irme a la casa a descansar o trabajar un poco más, y dije ya voy a hacerlo, hice la postulación, así a mano y después llamé a los cabros para que me dijeran, o sea, hiciéramos un video, había que hacer un video y editar también la postulación, y la mandamos, sin ninguna fe de hecho, fuera de plazo creo que también como atrasados como una semana (además fuera de plazo) una semana atrasados.
 
 **00:46 |** Hola hola, ya estamos en un nuevo episodio de Fintalks, el podcast de Fintual, estamos con Pedro, Agustín y Andrés, y en este capítulo vamos a hablar de Y Combinator, que es YC, porque un emprendedor debería postular a esta incubadora y como fue la experiencia de los founders de Fintual en San Francisco cuando fueron a Silicon Valley y cuando estuvieron no sé cuánto tiempo en Estados Unidos después de postular a Y Combinator (tres meses)
 
@@ -91,11 +91,11 @@ Esta es la transcripción del séptimo episodio de nuestro podcast Fintalks. Lo 
 
 **07:34 |** Igual es una parte súper pelua para uno que es chileno en la parte en inglés, o sea, es súper fácil parecer tonto en otro idioma (si es verdad) entonces y es difícil parecer inteligente
 
-**07:45 |** Además, parte de como cachan si eri tonto o no es si respondí rápido o no, que en general es una medida medio arbitraria, pero lo ocupan porque te hacen tantas entrevistas que lo tienen que hacer, entonces, cuando es en inglés uno como que se demora un poquito más en responder y ya queda un poquito más como tonto. 
+**07:45 |** Además, parte de como cachan si eri tonto o no es si respondí rápido o no, que en general es una medida medio arbitraria, pero lo ocupan porque te hacen tantas entrevistas que lo tienen que hacer, entonces, cuando es en inglés uno como que se demora un poquito más en responder y ya queda un poquito más como tonto.
 
 **08:02 |** Y después de esa entrevista, ¿Qué pasó?
 
-**08:03 |** A las dos semanas me llegó un mail a mí, me llegan a mí porque como hice la postulación me llegaba un mail decía Pedro por favor agenda una reunión para acá, aquí están las condiciones para los pasajes, y como que no entendí, de hecho, me puse un poco nervioso ahora de nuevo (risas) digo que escribí el peor mail de mi vida, el más tonto, dije perdón no entendí tenemos que ir a San Francisco a la entrevista (risas)   
+**08:03 |** A las dos semanas me llegó un mail a mí, me llegan a mí porque como hice la postulación me llegaba un mail decía Pedro por favor agenda una reunión para acá, aquí están las condiciones para los pasajes, y como que no entendí, de hecho, me puse un poco nervioso ahora de nuevo (risas) digo que escribí el peor mail de mi vida, el más tonto, dije perdón no entendí tenemos que ir a San Francisco a la entrevista (risas)  
 
 **8:26 |** Probablemente un mail automático de Y Combinator, lo más divertido de todo.
 
@@ -105,7 +105,7 @@ Esta es la transcripción del séptimo episodio de nuestro podcast Fintalks. Lo 
 
 **08:36 |** No, ahí llamé a todo el mundo, era el viernes a las 11 de la noche me acuerdo y claro uno de ustedes estaba en un concierto no sé, me llame a todo el mundo y les conté y compre los pasajes.
 
-**08:46 |** Sí, yo me acuerdo que estaba con muy bajo matripuntos y entonces mi única forma (espérate expliquemos los matripuntos |** Risas) no es necesario, todo el mundo sabe lo que son. Estaba con malos malos matripuntos y entonces conversando con la Antonia le dije tenemos un viaje (risas), la voy a invitar a San Francisco, así que la colé de una. 
+**08:46 |** Sí, yo me acuerdo que estaba con muy bajo matripuntos y entonces mi única forma (espérate expliquemos los matripuntos |** Risas) no es necesario, todo el mundo sabe lo que son. Estaba con malos malos matripuntos y entonces conversando con la Antonia le dije tenemos un viaje (risas), la voy a invitar a San Francisco, así que la colé de una.
 
 **09:07 |** Y nada fuimos, o sea, yo estaba emocionadísimo no lo podíamos creer y nos fuimos a San Francisco en diciembre del 2017 y eso.
 
@@ -221,7 +221,7 @@ Esta es la transcripción del séptimo episodio de nuestro podcast Fintalks. Lo 
 
 **18:00 |** Bueno, eso pasó, o sea, cambiamos un montón, pero nosotros seguimos siendo iguales, lo que pasa es que te dan un sello y la gente te empieza como a pescar un poco más, hay más financiamiento.
 
-**18:11 |** Claro, es bien loco, como que para mí fui feliz, así uno de los días más felices de mi vida y al día siguiente se me olvidó digamos, como que parece que le afecta más a la gente que está afuera, o sea, el otro día fui a México por Fintual México y me junté con alguien que conocía y me dijo, oye no has cambiado nada me dijo. ¿Cómo no hay cambiado nada? No estás igual, pensé que ibas a llegar insoportable después de Y Combinator (risas) 
+**18:11 |** Claro, es bien loco, como que para mí fui feliz, así uno de los días más felices de mi vida y al día siguiente se me olvidó digamos, como que parece que le afecta más a la gente que está afuera, o sea, el otro día fui a México por Fintual México y me junté con alguien que conocía y me dijo, oye no has cambiado nada me dijo. ¿Cómo no hay cambiado nada? No estás igual, pensé que ibas a llegar insoportable después de Y Combinator (risas)
 
 **18:34 |** Es parecido estudiar en Harvard, la gente dice oh estudio en Harvard.
 

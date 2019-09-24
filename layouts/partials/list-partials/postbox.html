@@ -14,14 +14,20 @@
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
-                {{if isset .Params "author"}}
-                {{if isset .Params "author_thumbnail"}}
+                {{ $scratch := newScratch }}
+                {{ if .Site.Params.writers }}
+                  {{ $scratch.Set "writer" (index .Site.Params.writers (lower .Params.author) | default dict) }}
+                {{ else }}
+                  {{ $scratch.Set "writer" .Site.Params.social | default dict }}
+                {{ end }}
+                {{ $writer := $scratch.Get "writer" }}
+
+                {{if $writer}}
                     <span class="meta-footer-thumb">
-                    <img class="author-thumb" src="{{ .Params.author_thumbnail | urlize | relURL  }}" alt="{{ .Author }}">
+                    <img class="author-thumb" src="{{ $writer.thumbnail | urlize | relURL  }}" alt="{{ $writer.name }}">
                     </span>
                     <span class="author-meta">
-                    <span class="post-name">{{ .Params.author }}</a></span><br/>
-                {{end}}
+                    <span class="post-name">{{ $writer.name }}</a></span><br/>
                 {{end}}
                 <span class="post-date">{{ dateFormat "2 Jan, 2006" .PublishDate }} - lectura de {{ .ReadingTime }} min </span>
                 </span>

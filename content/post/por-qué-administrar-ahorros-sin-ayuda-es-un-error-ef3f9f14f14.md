@@ -1,5 +1,5 @@
 ---
-author: Agustin Feuerhake
+author: Agustín Feuerhake
 author_thumbnail: "/uploads/agustin_feuerhake.jpg"
 title: "¿Por qué administrar ahorros sin ayuda es un error?"
 date: 2016-08-08 00:00:00 +0000
