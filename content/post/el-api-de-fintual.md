@@ -1,5 +1,5 @@
 ---
-author: Agustin Feuerhake
+author: Agustín Feuerhake
 author_thumbnail: "/uploads/agustin_feuerhake.jpg"
 date: 2018-11-30 13:01:31 +0000
 description: Fintual es la primera Administradora General de Fondos en ofrecer un

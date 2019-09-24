@@ -1,6 +1,5 @@
 ---
-author: Pedro Pineda
-author_thumbnail: "/uploads/pedro_pineda.png"
+author: Omar Larré
 title: 'Axel Christensen: “los robot-advisors son una cuestión de timing, pero para
   allá va la cosa”'
 date: 2016-11-02T00:00:00.000+00:00

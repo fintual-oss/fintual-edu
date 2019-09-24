@@ -19,14 +19,15 @@
                       <!-- Post Title -->
                       <h1 class="posttitle">{{ .Title }}</h1>
                         <!-- Author Box -->
-                        {{if isset .Params "author"}}
-                        {{if isset .Params "author_thumbnail"}}
+                        {{ $scratch := newScratch }}
+                      	{{ $scratch.Set "writer" (index .Site.Params.writers (lower .Params.author) ) }}
+                      	{{ $writer := $scratch.Get "writer" }}
                         <div class="post-top-meta">
                             <div>
-                                <img class="author-thumb" src="{{ .Params.author_thumbnail | urlize | relURL}}" alt="{{ .Params.author }}">
+                                <img class="author-thumb" src="{{ $writer.thumbnail | urlize | relURL}}" alt="{{ $writer.thumbnail }}">
                             </div>
                             <div >
-                                <a target="_blank" class="link-dark">{{ .Params.author }}</a><br>
+                                <a target="_blank" class="link-dark">{{ $writer.name }}</a><br>
                                 <span class="author-description">
                                     <i class="far fa-star"></i>
                                     {{ dateFormat "2 Jan, 2006" .PublishDate }}
@@ -35,8 +36,6 @@
                                 </span>
                             </div>
                         </div>
-                        {{end}}
-                        {{end}}
                     </div>
 
                     <!-- Post Content -->

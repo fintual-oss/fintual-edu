@@ -1,5 +1,5 @@
 ---
-author: FranFeuer
+author: Francisca Feuerhake
 author_thumbnail: "/uploads/francisca_feuerhake.jpg"
 title: 'Álvaro Díaz: “La plata es lo más ordinario que hay”'
 date: 2017-04-23 00:00:00 +0000

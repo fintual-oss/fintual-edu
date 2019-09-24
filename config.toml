@@ -17,6 +17,40 @@ displayauthor = true
 keywords = ["inversion", "fondos mutuos", "ahorro"]
 logo = "img/logo.png"
 sharingicons = false
+  [params.writers]
+    [params.writers."Pedro Pineda"]
+    name = "Pedro Pineda"
+    thumbnail = "/uploads/pedro_pineda.png"
+    [params.writers."Agustín Feuerhake"]
+    name = "Agustín Feuerhake"
+    thumbnail = "/uploads/agustin_feuerhake.jpg"
+    [params.writers."Andrés Marinkovic"]
+    name = "Andrés Marinkovic"
+    thumbnail = "/uploads/andres_marinkovic.jpg"
+    [params.writers."Omar Larré"]
+    name = "Omar Larré"
+    thumbnail = "/uploads/omar_larre.jpeg"
+    [params.writers."Gonzalo Enei"]
+    name = "Gonzalo Enei"
+    thumbnail = "/uploads/gonzalo-enei.jpg"
+    [params.writers."Francesca Finaldi"]
+    name = "Francesca Finaldi"
+    thumbnail = "/uploads/francesca_finaldi.jpeg"
+    [params.writers."Francisca Feuerhake"]
+    name = "Francisca Feuerhake"
+    thumbnail = "/uploads/francisca_feuerhake.jpg"
+    [params.writers."Juan Francisco Weitz"]
+    name = "Juan Francisco Weitz"
+    thumbnail = "/uploads/jf.png"
+    [params.writers."Ignacia Palma"]
+    name = "Ignacia Palma"
+    thumbnail = "/uploads/ignacia.jpg"
+    [params.writers."Cristóbal Fredes"]
+    name = "Cristóbal Fredes"
+    thumbnail = "/uploads/cristobal_fredes.jpeg"
+    [params.writers."Paula Droguett"]
+    name= "Paula Droguett"
+    thumbnail= "/uploads/paula_droguett.jpeg"
 [params.highlight]
 languages = ["go", "dockerfile"]
 style = "github"
