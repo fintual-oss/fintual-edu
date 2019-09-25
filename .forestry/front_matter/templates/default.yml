@@ -74,6 +74,7 @@ fields:
   hidden: false
   default: true
 pages:
+- content/post/4-formas-simples-de-bajar-tus-impuestos-usando-fintual.md
 - content/post/cómo-elegir-bien-el-riesgo-de-tus-distintas-inversiones.md
 - content/post/fintalks-ep-7-fintual-en-y-combinator.md
 - content/post/fintalks-ep-6-axel-christensen-en-fintual.md
