@@ -122,4 +122,4 @@ Así que tranquilo y créenos, así va a quedar más rica la punta de ganso, bah
 >
 > #### [Fintual](https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=edu+elegir+bien+riesgo+inversion-279) te ayuda invertir de forma simple y diversificada. Nuestros fondos mutuos están compuestos por ETFs y cobramos un 1,19% anual o menos, impactando positivamente en tu rentabilidad.
 >
-> #### **Nuestro simulador tiene estas variables incorporadas y te ayudará a tomar buenas decisiones según tus distintos objetivos.** [**Pruébalo aquí sin costo.**](https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=edu+elegir+bien+riesgo+inversion-279)
+> #### Nuestro simulador tiene estas variables incorporadas y te ayudará a tomar buenas decisiones según tus distintos objetivos. [Pruébalo aquí sin costo.](https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=edu+elegir+bien+riesgo+inversion-279)
