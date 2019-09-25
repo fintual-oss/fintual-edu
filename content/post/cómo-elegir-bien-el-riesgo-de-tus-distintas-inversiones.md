@@ -62,8 +62,6 @@ Si vas a necesitar tu plata en tres años o menos, es bueno elegir opciones más
 
 Abajo hay un gráfico que mide la rentabilidad del IPSA (el índice que replica el mercado chileno abierto a bolsa) entre 1994 y el 2018. Fíjate que en las inversiones de sobre 10 años, los retornos siempre han sido positivos.
 
-![](/uploads/ipsa evolucion.png)
-
 <div style="text-align:center">
 <figure>
 <img src="/uploads/ipsa evolucion.png">
@@ -78,7 +76,6 @@ Una función muy útil de Fintual es que puedes tener varios objetivos al mismo 
 
 Una función muy útil de Fintual es que puedes tener varios objetivos al mismo tiempo, manteniendo las platas separadas en “bolsas” con el nivel de riesgo adecuada a cada una. Otra cosa bacán es que no hay límites a la cantidad de objetivos que puedes tener:
 
-![](/uploads/mis-objetivos-1.jpg)
 <div style="text-align:center">
 <figure>
 <img src="/uploads/mis-objetivos-1.jpg">
@@ -91,7 +88,6 @@ Para que el punto anterior sea verdad es _muy importante que tu inversión esté
 
 **Apostar a que las acciones de una empresa puntual van a subir es una muy mala idea.** De hecho, los inversionistas profesionales se equivocan todo el rato. Y eso que se dedican a estudiar estos temas y probablemente manejan más información que tú. Según el [Diario Financiero](https://www.df.cl/noticias/mercados/mercados-en-accion/en-chile-91-de-los-fondos-activos-pierden-ante-el-mercado-en-cinco-anos/2018-10-26/193752.html), en Chile el 91% de los fondos activos pierden ante el mercado en cinco años.
 
-![](/uploads/Funny eggs funny eggs_d05bbb_5813754-1.jpg)
 <div style="text-align:center">
 <figure>
 <img src="/uploads/Funny eggs funny eggs_d05bbb_5813754-1.jpg">
