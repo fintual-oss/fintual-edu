@@ -30,12 +30,9 @@ Si haces esto bien, vas a poder invertir en alternativas riesgosas asumiendo poc
 
 Divide tu plata en partes y pregúntate ¿Qué parte de esta plata voy a necesitar el año que viene y qué parte puede esperar 10 años?
 
-![](/uploads/photo-1432888498266-38ffec3eaf0a.png)
-
 <div style="text-align:center">
 <figure>
 <img src="/uploads/photo-1432888498266-38ffec3eaf0a.png">
-<figcaption><i>Homo ergaster cazando en la sabana africana hace unos 1.7 millones de años atrás. Impresión artística de Mauricio Anton.</i></figcaption>
 </figure>
 </div>
 
@@ -67,6 +64,12 @@ Abajo hay un gráfico que mide la rentabilidad del IPSA (el índice que replica 
 
 ![](/uploads/ipsa evolucion.png)
 
+<div style="text-align:center">
+<figure>
+<img src="/uploads/ipsa evolucion.png">
+</figure>
+</div>
+
 _Muchas gracias a Ricardo Díaz por este gráfico._
 
 En otras palabras, tu riesgo se mitiga por el paso del tiempo. Entonces tus inversiones riesgosas, ya no lo son tanto.
@@ -76,6 +79,11 @@ Una función muy útil de Fintual es que puedes tener varios objetivos al mismo 
 Una función muy útil de Fintual es que puedes tener varios objetivos al mismo tiempo, manteniendo las platas separadas en “bolsas” con el nivel de riesgo adecuada a cada una. Otra cosa bacán es que no hay límites a la cantidad de objetivos que puedes tener:
 
 ![](/uploads/mis-objetivos-1.jpg)
+<div style="text-align:center">
+<figure>
+<img src="/uploads/mis-objetivos-1.jpg">
+</figure>
+</div>
 
 ### **3. No pongas tus huevos en una sola canasta**
 
@@ -84,6 +92,11 @@ Para que el punto anterior sea verdad es _muy importante que tu inversión esté
 **Apostar a que las acciones de una empresa puntual van a subir es una muy mala idea.** De hecho, los inversionistas profesionales se equivocan todo el rato. Y eso que se dedican a estudiar estos temas y probablemente manejan más información que tú. Según el [Diario Financiero](https://www.df.cl/noticias/mercados/mercados-en-accion/en-chile-91-de-los-fondos-activos-pierden-ante-el-mercado-en-cinco-anos/2018-10-26/193752.html), en Chile el 91% de los fondos activos pierden ante el mercado en cinco años.
 
 ![](/uploads/Funny eggs funny eggs_d05bbb_5813754-1.jpg)
+<div style="text-align:center">
+<figure>
+<img src="/uploads/Funny eggs funny eggs_d05bbb_5813754-1.jpg">
+</figure>
+</div>
 
 Es por eso que **en Fintual invertimos en ETFs, que son fondos que replican índices**. Es decir, que compran acciones de cientos de empresas, apostando al rendimiento de un mercado en su conjunto.
 
