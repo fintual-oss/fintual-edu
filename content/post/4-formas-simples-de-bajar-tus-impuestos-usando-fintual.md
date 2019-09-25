@@ -8,7 +8,7 @@ draft = true
 hide = false
 image = ""
 title = "4 formas simples de bajar tus impuestos usando Fintual"
-url = "4-formas-bajar-tus-impuestos"
+url = "4-formas-de-bajar-tus-impuestos"
 
 +++
 ¿Quieres bajar los impuestos que pagas? Hay **beneficios tributarios** que todos los usuarios de Fintual podrían aprovechar.
@@ -25,13 +25,13 @@ Si **rescatas** y tus ganancias en fondos mutuos son menores a 30 UTM al año �
 
 **Por ejemplo**: Si inviertes $14.600.000 y ganas $1.430.000, puedes retirar ese monto inicial + la rentabilidad (un total de $16.030.000) libre de impuesto a la renta.
 
-### **2. Cambios entre FFMM** 
+### **2. Cambios entre FFMM**
 
 Puedes **cambiarte entre fondos mutuos** internamente o traspasándolos desde otra administradora sin pagar impuesto por la ganancia, independiente del monto. Este beneficio se conoce como 108 LIR.
 
 Para cambiarte a Fintual, puedes pedir un traspaso de fondo desde la institución donde actualmente tienes tus fondos, o escribirnos a través del chat o mail.
 
-### **3. Reliquidación de sueldo** 
+### **3. Reliquidación de sueldo**
 
 Si eres un **trabajador dependiente** y tienes un sueldo que varía todos los meses (por ejemplo, por comisiones o bonos) puede que te hayan aplicado una tasa de impuestos más alta que la que te corresponde —por los meses que más ganaste— considerando la totalidad de tus ingresos durante el año.
 
@@ -43,17 +43,17 @@ Por ejemplo: tu sueldo mensual es de $1.000.000, pero en julio y diciembre ganas
 
 * Pagas una tasa de impuestos máxima de un 4% para los meses donde ganaste $1.000.000, lo que se traduce en $13.759.
 * Pagas una tasa máxima de 35% para los meses donde ganaste $6.000.000 (tu sueldo + bono), lo que se traduce en $966.765.
-* En total, pagas $2.071.120 en impuestos al año.
+* **En total, pagas $2.071.120 en impuestos al año.**
 
 #### Si reliquidas 😃
 
 * Sumas el total que ganaste en el año, $22.000.000.
 * Según ese monto, pagas una tasa máxima anual de 8%.
-* En total, pagas $779.225 en impuestos al año.Así, la diferencia en impuestos sólo por reliquidar es de $1.291.895.
+* **En total, pagas $779.225 en impuestos al año.** Así, la diferencia en impuestos sólo por reliquidar es de $1.291.895.
 * Al invertir en fondos mutuos (aunque sea $1 en Fintual) el SII aplicará automáticamente esta reliquidación anual, posiblemente ahorrándote muchos impuestos.  
   \*Las cifras anteriores son aproximadas y calculadas a mayo 2019.
 
-### **4. APV** 
+### **4. APV**
 
 Los planes de **Ahorro Previsional Voluntario** (APV) tienen un beneficio especial 😮
 
