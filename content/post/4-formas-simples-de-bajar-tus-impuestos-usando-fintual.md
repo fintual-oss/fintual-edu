@@ -3,10 +3,10 @@ aliases = []
 author = "Gonzalo Enei"
 categories = []
 date = "2019-09-25T16:22:00+00:00"
-description = ""
+description = "¿Quieres bajar los impuestos que pagas? Hay beneficios tributarios que todos los usuarios de Fintual podrían aprovechar."
 draft = true
 hide = false
-image = ""
+image = "/uploads/Post Edu Impuestos.png"
 title = "4 formas simples de bajar tus impuestos usando Fintual"
 url = "4-formas-de-bajar-tus-impuestos"
 
