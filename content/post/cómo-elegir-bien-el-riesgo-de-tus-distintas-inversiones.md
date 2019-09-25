@@ -32,6 +32,13 @@ Divide tu plata en partes y pregúntate ¿Qué parte de esta plata voy a necesit
 
 ![](/uploads/photo-1432888498266-38ffec3eaf0a.png)
 
+<div style="text-align:center">
+<figure>
+<img src="/uploads/photo-1432888498266-38ffec3eaf0a.png">
+<figcaption><i>Homo ergaster cazando en la sabana africana hace unos 1.7 millones de años atrás. Impresión artística de Mauricio Anton.</i></figcaption>
+</figure>
+</div>
+
 Obvio que nunca se sabe, pero tírate una adivinada decente. Este paso es el más difícil. Si logras dividir tus ahorros en estas “bolsas de plata” con **plazos** distintos, ya tendrás casi toda la pega hecha.
 
 ### **2. Invertir cada una de esas “bolsas” de plata por separado**
