@@ -24,7 +24,7 @@ La variable clave aquí es el **tiempo**. Mientras más tiempo puedas dejar que 
 
 Si haces esto bien, vas a poder invertir en alternativas riesgosas asumiendo poco riesgo. ¿Suena raro? No te preocupes, al final de este artículo te va a quedar claro que no lo es.
 
-> _Algo importante: cuando usas Fintual, nuestro simulador hace la pega y te recomienda una inversión adecuada en base al tiempo y riesgo que elegiste. Este post es para que entiendas mejor la lógica que hay detrás y el nivel de riesgo que le puedes pedir al simulador según te sientas cómodo._
+> _Algo importante: cuando usas Fintual, nuestro_ [_simulador_](https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=edu+elegir+bien+riesgo+inversion-279) _hace la pega y te recomienda una inversión adecuada en base al tiempo y riesgo que elegiste. Este post es para que entiendas mejor la lógica que hay detrás y el nivel de riesgo que le puedes pedir al simulador según te sientas cómodo._
 
 ### **1. Definir cuándo vas a necesitar usar tus inversiones.**
 
