@@ -118,7 +118,7 @@ Si definiste bien cuándo vas a necesitar tu plata y -de acuerdo a eso- su nivel
 
 Así que tranquilo y créenos, así va a quedar más rica la punta de ganso, bah!... van a andar mejor tus inversiones.
 
-> #### En todo caso, no hay pa’ que aprenderse estas reglas de memoria.
+> #### No hay pa’ que aprenderse estas reglas de memoria.
 >
 > #### [Fintual](https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=edu+elegir+bien+riesgo+inversion-279) te ayuda invertir de forma simple y diversificada. Nuestros fondos mutuos están compuestos por ETFs y cobramos un 1,19% anual o menos, impactando positivamente en tu rentabilidad.
 >
