@@ -45,8 +45,14 @@ fields:
     max: '5'
     use_select: true
     source:
-      type: pages
+      type: simple
       section: posts
+    options:
+    - " clases"
+    - educación financiera
+    - entrevistas
+    - noticias
+    - podcasts
 - type: datetime
   name: date
   label: Date
