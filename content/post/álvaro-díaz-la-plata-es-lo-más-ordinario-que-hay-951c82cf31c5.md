@@ -2,7 +2,7 @@
 author: Francisca Feuerhake
 author_thumbnail: "/uploads/francisca_feuerhake.jpg"
 title: 'Álvaro Díaz: “La plata es lo más ordinario que hay”'
-date: 2017-04-23 00:00:00 +0000
+date: 2017-04-23T00:00:00.000+00:00
 image: "/uploads/alvaro-diaz.png"
 categories:
 - entrevistas
@@ -13,11 +13,11 @@ url: "/álvaro-díaz-la-plata-es-lo-más-ordinario-que-hay-951c82cf31c5/"
 
 ## El co-creador de 31 minutos nos cuenta que nunca se tituló porque no tenía plata, que prefiere un Toyota a un Mercedes y que no vale la pena perder el tiempo en inversiones.
 
-*Esta entrevista es parte de la serie “Con dinero y sin dinero” de [FINTUAL](https://fintual.cl) donde preguntamos a gente interesante sobre el rol que el dinero ha jugado en sus vidas. Álvaro Díaz es periodista, director y productor de TV, trabajó en PlanZ, creó 31 minutos junto a Pedro Peirano y ganó dos veces el Altazor*
+_Esta entrevista es parte de la serie “Con dinero y sin dinero” de_ [_FINTUAL_](https://fintual.cl) _donde preguntamos a gente interesante sobre el rol que el dinero ha jugado en sus vidas. Álvaro Díaz es periodista, director y productor de TV, trabajó en PlanZ, creó 31 minutos junto a Pedro Peirano y ganó dos veces el Altazor_
 
 **Cuando chico ¿cuál fue tu primera noción de plata?**
 
-Yo era muy malo *pa’* la plata, no sabía vender. Si había una rifa o algo así para el viaje de estudio, no era capaz de hacer niún peso*.* No podía ofrecerle a un tío “oye vendo rifa”, porque te preguntaba “¿y qué rifan?”, y yo “no, puras weás pencas”, jaja.
+Yo era muy malo _pa’_ la plata, no sabía vender. Si había una rifa o algo así para el viaje de estudio, no era capaz de hacer niún peso*.* No podía ofrecerle a un tío “oye vendo rifa”, porque te preguntaba “¿y qué rifan?”, y yo “no, puras weás pencas”, jaja.
 
 Y nunca hubo plata en mi casa. Nadie en mi casa tiene el don de la plata, como que la plata siempre fue algo difícil de conseguir. Mi papá tenía un almacén que se llamaba la Scala que todavía existe al frente del estadio israelita y mi mamá es la persona más austera del mundo, creo que prefiere no tener plata a tenerla.
 
@@ -33,7 +33,7 @@ Mi primer sueldo me lo pagó un tío que era director de la revista del Colegio 
 
 **¿Traducir?**
 
-A normal, a entendible. Me pasó una weá* *que no se entendía nada, nada, nada. El Fasat Alfa era un satélite chileno y no entendía nada, y pensé “qué mierda hago”. Y mi tío me dijo: “hay un compadre de la Fach que lo explica clarísimo”. Así que lo llamé y le empecé a preguntar: “oye mira, estoy leyendo del Fasat Alfa… qué es esta* *weá* *de aquí*?*”, “no mira, es como un ventilador que…”, “ya la raja” y después “y eso qué es?”, “mira, ¿viste el Pato Donald? es como el auto del Pato Donald ”. Puras explicaciones así, en fácil. Lo traduje de esa manera y lo encontraron la raja*.*
+A normal, a entendible. Me pasó una weá* _que no se entendía nada, nada, nada. El Fasat Alfa era un satélite chileno y no entendía nada, y pensé “qué mierda hago”. Y mi tío me dijo: “hay un compadre de la Fach que lo explica clarísimo”. Así que lo llamé y le empecé a preguntar: “oye mira, estoy leyendo del Fasat Alfa… qué es esta_ _weá_ _de aquí_?_”, “no mira, es como un ventilador que…”, “ya la raja” y después “y eso qué es?”, “mira, ¿viste el Pato Donald? es como el auto del Pato Donald ”. Puras explicaciones así, en fácil. Lo traduje de esa manera y lo encontraron la raja_.*
 
 Estúpidamente dejé esa revista porque encontraba que era incompatible cuando entré a trabajar en el Canal 2, no sé por qué pero fue una tontera. Yo hoy podría ser el director de esa revista… volvería feliz ¡y pagaban la raja!
 
@@ -57,7 +57,7 @@ Cuando hicieron la serie los 80’s, te das cuenta que lo que pensabas que te pa
 
 **No había un ideal de tener más plata.**
 
-O sea te acomplejaba en el sentido de que tu hijo hoy tenga todo lo que quiera y le* *pasai* *plata pa’ todo. Mis hijos no tienen ningún rollo con la plata y de pedirla tampoco.
+O sea te acomplejaba en el sentido de que tu hijo hoy tenga todo lo que quiera y le* _pasai_ *plata pa’ todo. Mis hijos no tienen ningún rollo con la plata y de pedirla tampoco.
 
 **¿Y tú les das plata cuando te piden?**
 
@@ -99,12 +99,14 @@ Claro, lo que sea, pero que se termina traduciendo en plata. O sea lo que compar
 
 Y no hace nada muy interesante con ella. Hay weones que tienen plata y hacen unas cosas como excéntricas, pero tú ves que Piñera no se construye una casa con forma de ojo de oro. No hace esas weás*, *cachai. Yo tampoco lo haría. Como que trato de ser práctico.
 
-El otro día le pregunté a alguien: “Si tuvierai* *plata ¿qué auto tendríai*?*”, “no sé, un Mercedes G”, “ya y cuánto vale?”, “ciento y tantos palos”, “¿en serio te* *gastaríai cien palos?”. Yo entre ése y un Toyota me compro un Toyota, no tengo ninguna duda, aunque tuviera toda la plata del mundo, porque creo que el Toyota es mejor auto no más. Y si lo pierdo, no voy a perder un Mercedes. Porque pierdo las cosas. Ese es otro tema: me regalan cosas caras y me preocupo tanto de no perderlas que las pierdo, como para sacarme esa presión de no perderlas.
+El otro día le pregunté a alguien: “Si tuvierai* _plata ¿qué auto tendríai_?_”, “no sé, un Mercedes G”, “ya y cuánto vale?”, “ciento y tantos palos”, “¿en serio te_ *gastaríai cien palos?”. Yo entre ése y un Toyota me compro un Toyota, no tengo ninguna duda, aunque tuviera toda la plata del mundo, porque creo que el Toyota es mejor auto no más. Y si lo pierdo, no voy a perder un Mercedes. Porque pierdo las cosas. Ese es otro tema: me regalan cosas caras y me preocupo tanto de no perderlas que las pierdo, como para sacarme esa presión de no perderlas.
 
-Yo creo que el peor castigo para la gente es ese discurso de que te estás *perdiendo oportunidades* todo el rato. El típico “oye, ustedes deberían haber convertido su empresa en otra weá* *”. Hey, no* tengo *que hacer nada*. *Si te gusta bien, si no también, me da lo mismo, pero yo no tengo tiempo ni ganas de pensar en plata…
+Yo creo que el peor castigo para la gente es ese discurso de que te estás _perdiendo oportunidades_ todo el rato. El típico “oye, ustedes deberían haber convertido su empresa en otra weá* _”. Hey, no_ tengo _que hacer nada_. *Si te gusta bien, si no también, me da lo mismo, pero yo no tengo tiempo ni ganas de pensar en plata…
 
 **Y si llegara una especie de “ángel contador” y se encargara de todo ¿Le destinarías dos horas para ver tus inversiones y después nunca más?**
 
 No, ni cagando, no me interesa.
 
-*Ve porqué FINTUAL es [mejor que un depósito a plazo.](https://blog.fintual.cl/el-dep%C3%B3sito-a-plazo-es-un-negocio-seguro-y-malo-es-mejor-fintual-e40c6203ce2)*
+_Ve porqué FINTUAL es_ [_mejor que un depósito a plazo._](https://blog.fintual.cl/el-dep%C3%B3sito-a-plazo-es-un-negocio-seguro-y-malo-es-mejor-fintual-e40c6203ce2)
+
+{{< newsletter_signup >}}
