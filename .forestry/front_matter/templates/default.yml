@@ -43,9 +43,10 @@ fields:
   config:
     min: '0'
     max: '5'
-    use_select: false
+    use_select: true
     source:
-      type: simple
+      type: pages
+      section: posts
 - type: datetime
   name: date
   label: Date
