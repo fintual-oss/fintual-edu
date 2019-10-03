@@ -1,6 +1,6 @@
 +++
 aliases = []
-author = "Francesca Finaldi"
+author = "Matías Hurtado"
 categories = ["educación financiera"]
 date = "2019-10-03T15:25:47+00:00"
 description = ""
