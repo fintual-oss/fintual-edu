@@ -4,7 +4,6 @@ author = "Matías Hurtado"
 categories = ["educación financiera"]
 date = "2019-10-03T15:25:47+00:00"
 description = "Calculé cuánto gasto en andar en auto en un año para saber si me conviene venderlo y moverme en Uber."
-draft = true
 hide = false
 image = "/uploads/auto.jpg"
 title = "¿Auto o Uber?"
@@ -23,7 +22,7 @@ En un segundo se me vino a la mente el recuerdo del arreglo de hace un par de me
 
 Intentando ser optimista, manejé un par de días con fe de que la vida me iba a hacer un favor y se arreglaría, pero no. Tuve que llevarlo al taller. Cuando llegué, el jefe me dice: “Hace dos meses me trajeron uno igual, era el embrague y el de este auto es con volante flotante, así que hay que cambiarle todo. Te va a salir como 2 palos”.
 
-_2 palos_… No caché nada más de lo que me dijo, lo único que quedó dando vueltas en mi cabeza fueron los 2 palos. Es mucha plata considerando el valor del auto: si vendo el auto hoy, lo puedo vender a $6.500.000. O sea, casi ⅓ del valor del auto en arreglos. Demasiado.
+_2 palos…_ No caché nada más de lo que me dijo, lo único que quedó dando vueltas en mi cabeza fueron los 2 palos. Es mucha plata considerando el valor del auto: si vendo el auto hoy, lo puedo vender a $6.500.000. O sea, casi ⅓ del valor del auto en arreglos. Demasiado.
 
 _¿Y si tengo un “accidente” con un árbol?_
 
