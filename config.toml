@@ -51,8 +51,8 @@ sharingicons = false
     [params.writers."Paula Droguett"]
     name= "Paula Droguett"
     thumbnail= "/uploads/paula_droguett.jpeg"
-    [params.writers."Matias Hurtado"]
-    name= "Matias Hurtado"
+    [params.writers."Matías Hurtado"]
+    name= "Matías Hurtado"
     thumbnail= "/uploads/matias_hurtado.jpg"
 
 [params.highlight]
