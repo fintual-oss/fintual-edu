@@ -5,7 +5,7 @@ categories = ["educación financiera", "educación financiera"]
 date = "2019-09-30T19:49:57+00:00"
 description = "Como norma general, no deberías tener más del 10% de tu sueldo en tu cuenta. La plata destinada a gastos de corto plazo (6 meses o menos) debería estar en inversiones muy conservadoras."
 hide = false
-image = ""
+image = "/uploads/ahorro.jpg"
 title = "¿Cuánta plata debería tener en mi cuenta corriente?"
 url = "cuanta-plata-deberias-tener-en-tu-cuenta"
 
@@ -30,11 +30,11 @@ Lo puedes encontrar cuando eliges una inversión de corto plazo al crearte un **
 
 **Es una muy buena opción para dejar tu plata _por mientras_ si estás ahorrando para algo de 6 meses o menos, y así evitar que pierda todo su valor por la inflación.** Cuando llegue el momento de usarla, pides el retiro y se pagará en tres días hábiles.
 
-​[**Quiero un colchón**](https://app.intercom.io/#)​
+> ​[**Quiero un colchón**](https://app.intercom.io/#)​
 
 Ahora, si lo que quieres es invertir con más riesgo y en el largo plazo, tenemos nuestros portafolios de siempre:
 
-​[**Quiero un poco más de riesgo**](https://app.intercom.io/#)​
+> ​[**Quiero un poco más de riesgo**](https://app.intercom.io/#)​
 
 _Infórmese de las características esenciales de la inversión en estos fondos mutuos, los que se encuentran contenidos en sus reglamentos internos y contratos de suscripción de cuotas._
 
