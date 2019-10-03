@@ -51,6 +51,10 @@ sharingicons = false
     [params.writers."Paula Droguett"]
     name= "Paula Droguett"
     thumbnail= "/uploads/paula_droguett.jpeg"
+    [params.writers."Matias Hurtado"]
+    name= "Matias Hurtado"
+    thumbnail= "/uploads/matias_hurtado.jpg"
+
 [params.highlight]
 languages = ["go", "dockerfile"]
 style = "github"
