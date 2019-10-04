@@ -42,17 +42,11 @@ Como mi polola me dice cuando hay que evaluar algún negocio o calcular algo: �
 
 Este fue el resultado:
 
-![](/uploads/AutovsUber.png)
+![](/uploads/AutovsUber-1.png)
 
-_CUATRO PALOS CIENTO NOVENTA LUCAS. Más plata que la ..._
-
-Matías Hurtado, octubre 2019.
-
-<div style="text-align:center">
-<figure>
-<img src="/uploads/wow.gif">
-</figure>
-</div>
+> _CUATRO PALOS CIENTO NOVENTA LUCAS. Más plata que la ..._
+>
+>                                                  Matías Hurtado, octubre 2019.
 
 Esa fue mi reacción. Es mucha plata. Con eso me podría ir de vacaciones a un resort en Punta Cana por más de 1 mes.
 
