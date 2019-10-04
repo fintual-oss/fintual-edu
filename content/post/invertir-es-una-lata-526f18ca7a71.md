@@ -33,3 +33,5 @@ Estábamos un poquito aburridos de que los bancos y las administradoras de fondo
 Así que lo hicimos más simple y mucho más agradable: [fintual.com](http://www.fintual.com)
 
 (Y le vamos a escribir un mail a Netflix para ver si nos hacen un descuento para nuestros clientes).
+
+ {{< newsletter_signup >}}

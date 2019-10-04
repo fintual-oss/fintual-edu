@@ -32,3 +32,5 @@ Yo en cambio trato de dejar $50.000 para emergencias y me evito gastos por sobre
 A otros les gusta tener y contar que tienen mucha plata en la cuenta (?), lo que definitivamente es desperdiciar la oportunidad de ganar algo de interés en alguna parte.
 
 Asumiendo que estás en una posición en la que puedes decidir cuánto dinero dejar en la cuenta del banco** ¿cuál es el monto ideal y por qué?**
+
+ {{< newsletter_signup >}}

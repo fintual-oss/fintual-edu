@@ -286,3 +286,5 @@ Esta es la transcripción del séptimo episodio de nuestro podcast Fintalks. Lo 
 **26:33 |** Bueno, muchísimas gracias a todos nuestros auditores, por favor bombardeen con mails a Pedro va a ser una venganza personal (risas) por todo el bullying que me hace acá en la oficina. Muchas gracias por escuchar y nos vemos en un próximo episodio de Fintalks (gracias / chao chao ) chao chao.
 
 () Hablante que interrumpe a voz principal
+
+ {{< newsletter_signup >}}

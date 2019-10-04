@@ -26,3 +26,4 @@ Por eso inventamos a Morgan "Feeman", un servicio gratuito que te ayudará a sab
 **Recibirás una respuesta simple: cuánto ganaste y cuánto pagaste en comisiones**
 
 PD: También puedes reenviar el mismo email que te manda el banco (esa cartola de fondos que nadie entiende).
+ {{< newsletter_signup >}}

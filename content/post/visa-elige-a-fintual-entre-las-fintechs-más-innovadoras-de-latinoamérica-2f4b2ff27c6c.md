@@ -40,3 +40,4 @@ Después de unas horas de concurso, perdimos, o no quedamos entre los dos mejore
 Así que nada. No hay *pa’ *qué entrar a criticar el rol de este tipo de concursos, que al final igual tratan de ser un aporte y porque además suena a *pica’o*. Lo intentamos y no nos resultó no más.
 
 Nos gusta saber que **VISA piensa que somos una de las 10 fintech más bacanes de Chile.** Ahora toca volver al trabajo y seguir construyendo un producto para que nuestros clientes piensen lo mismo.
+ {{< newsletter_signup >}}

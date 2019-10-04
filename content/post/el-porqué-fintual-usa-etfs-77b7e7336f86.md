@@ -44,3 +44,4 @@ Los ETFs son utilizados por todo tipo de inversionistas: pequeños, medianos, gr
 Los ETFs tienen la ventaja de contener décadas de desarrollos tecnológicos en torno a compra, venta, valorización y manejo de activos.
 
 ### Si tienes dudas, consulta [nuestra sección de preguntas frecuentes.](https://fintual.cl/preguntas-frecuentes)
+ {{< newsletter_signup >}}

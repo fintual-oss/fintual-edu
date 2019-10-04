@@ -55,3 +55,4 @@ La comisión se come **toda la rentabilidad.**
 
 <p style="text-align:center">
 <a class="simulator-page__button btn btn--secondary" href="https://fintual.cl/simulador/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=awareness&utm_content=ctm-las-comisiones-te-matan-116  ">Aquí</a></p>
+ {{< newsletter_signup >}}

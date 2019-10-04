@@ -36,7 +36,7 @@ Bueno, resulta que el mecánico lo salió a probar para asegurarse de que el pro
 
 > _Ufff, me salvé_.
 
-Pero seguí pensando durante el resto del día en cuánta plata estaba gastando en el auto. En mi cabeza sumaba: _2 palos, más las 400 lucas, la patente, la bencina, el seguro, el permiso de circulación, el Tag…_ 
+Pero seguí pensando durante el resto del día en cuánta plata estaba gastando en el auto. En mi cabeza sumaba: _2 palos, más las 400 lucas, la patente, la bencina, el seguro, el permiso de circulación, el Tag…_
 
 > _Chupalla._
 
@@ -69,4 +69,4 @@ En mi caso, estas opciones no me sirven mucho. Tampoco estoy considerando el val
 
 Y tú, ¿en qué situación estás?. Te invito a realizar el cálculo usando [esta planilla](https://drive.google.com/file/d/1_gE2QwXOdxUFL8c1MfRLwn0gup6KyOji/view?usp=sharing) y ver qué te conviene.
 
-{{< newsletter_signup >}}
+ {{< newsletter_signup >}}

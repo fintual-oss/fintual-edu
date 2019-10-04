@@ -564,3 +564,5 @@ Y sigo sin poder creerlo.
 Somos la primera startup chilena en quedar en Y Combinator.
 
 ![](/uploads/yc-oficial.png)
+
+ {{< newsletter_signup >}}

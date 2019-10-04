@@ -49,3 +49,5 @@ En fin, sea cual sea la meta por la que estás ahorrando, no basta con guardar l
 4\. Me preparo mi almuerzo
 
 5\. No más compras inútiles
+
+ {{< newsletter_signup >}}

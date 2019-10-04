@@ -80,3 +80,5 @@ Mira, mis hijas juntan plata en un chanchito. Y es muy típico en los niños, qu
 **Y a manejar la angustia que produce gastarse su plata**
 
 Exactamente. Las invito a que rompan en chanchito y se compren algo. Me acuerdo que cuando apareció Kidzania, fue un escándalo. Algunos alegaban que les meterían el capitalismo y las marcas a los niños en la cabeza. Pero la verdad es que eso es ridículo, porque los niños viven viendo marcas y _todo_ se les queda en la cabeza de maneras que no podemos calcular del todo (por suerte). Lo que me llama la atención es este discurso de “los niños todavía no entran al capitalismo.” Perdón, pero ¡ya están en el capitalismo! Otra cosa es enseñarles que cada acto, ya sea de consumo, de su forma de gastar, compartir, son también actos políticos y éticos. Tener una relación al dinero creo que también se educa de algún modo.
+
+ {{< newsletter_signup >}}

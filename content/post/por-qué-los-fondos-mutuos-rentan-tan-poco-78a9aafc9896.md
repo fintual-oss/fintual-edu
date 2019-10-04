@@ -41,3 +41,4 @@ No necesitas saber de finanzas porque nos encargamos de todo dependiendo de lo q
 Y como no recibimos comisiones de terceros y lo que cobramos es fijo e independiente, te hacemos invertir en cosas que realmente te convienen.
 
 :)
+ {{< newsletter_signup >}}

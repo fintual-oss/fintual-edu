@@ -27,3 +27,4 @@ Escríbenos a libro@fintual.com y te pondremos en la lista de espera para que se
 <br>
 
 ![](/uploads/Screen Shot 2018-07-13 at 5.59.50 PM.png)
+ {{< newsletter_signup >}}

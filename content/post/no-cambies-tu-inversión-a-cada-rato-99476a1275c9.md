@@ -66,3 +66,4 @@ Para el caso de la jubilación, por ejemplo, a medida que pase el tiempo deberí
 Mi recomendación es que evalúes tu inversión en términos del plazo y del riesgo que quieres (mientras más riesgo, mayor es lo que podrías potencialmente ganar), y que no te dejes llevar por fluctuaciones de corto plazo.
 
 En [FINTUAL](https://fintual.cl) queremos hacer un servicio donde no tengas que preocuparte de la decisión de inversión, si no que nosotros tomemos la decisión que más te acomode en función de cuándo quieres la plata y cuánto estás dispuesto a arriesgar. Queremos que inviertas con nosotros y no te preocupes hasta que se acabe el plazo y necesites la plata. Nosotros tomaremos las decisiones complicadas entre medio, identificando por ti esos pocos momentos donde sí te conviene cambiarte, para que tu te relajes y te puedas dedicar a lo que más te gusta.
+ {{< newsletter_signup >}}

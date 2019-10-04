@@ -57,3 +57,4 @@ Fintual es una institución financiera regulada. Cool pero regulada. La Comisió
 En algunas universidades cuando un ramo es fácil, se dice que el ramo es palta.
 
 Y nosotros queremos eso, que invertir sea palta.
+ {{< newsletter_signup >}}

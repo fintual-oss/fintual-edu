@@ -34,3 +34,4 @@ Tomamos en consideración los costos de cada fondo, los plazos y niveles de ries
 Como lo que estamos ofreciendo es un producto 100% en internet, sin sucursales, donde te atiendes casi solo, no nos va a costar más atender a una persona más. Podemos crear un plan a la medida de cada cliente sin importar cuánta plata tenga. Somos absolutamente transparentes con lo que es y cuánto cobra exactamente cada uno de los productos financieros en que pondrás tu plata: en una industria donde la transparencia es un bien escaso, vamos a remar contra la corriente y vamos a demostrarte que sí puedes entender cuánto estás pagando y cuánto estás ganando realmente. No es tan complicado.
 
 Si te tincó todo esto, no esperes más, entra a [fintual.com](http://www.fintual.com) y créate una cuenta.
+ {{< newsletter_signup >}}

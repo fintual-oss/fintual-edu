@@ -114,3 +114,4 @@ Propuesta para Fintual: [https://jb-fintual-demo.netlify.com/](https://jb-fintua
 Ahora tengo que escribirle a Juan para que sepa.
 
 Y espero que dentro de poco, Fintual sea más lindo.
+ {{< newsletter_signup >}}

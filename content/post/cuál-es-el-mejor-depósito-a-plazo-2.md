@@ -26,3 +26,4 @@ Un servicio online para gente que no sabe de inversiones pero que quiere inverti
 ![](/uploads/cual-es-el-mejor-deposito-1200x630.png)
 
 (1) [Rentabilidad](https://www.rankia.cl/blog/mejores-depositos-a-plazo/3257869-cuales-son-mejores-depositos-plazo-para-2019) a 30 días
+ {{< newsletter_signup >}}

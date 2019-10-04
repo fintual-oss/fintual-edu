@@ -36,3 +36,4 @@ Pienso que este resultado se debe a que vieron mucho potencial en el negocio, a 
 Fue *heavy *ganar pero más *heavy *fue cómo se nos abrieron los ojos conociendo el mercado mexicano y el colombiano. Habíamos estado antes en esos países (en la playa, de vacaciones) pero nunca nos habíamos sentado a hablar de negocios con emprendedores, clientes, mentores, abogados y protagonistas de la industria financiera.
 
 Eso y el hecho de haber hecho varios buenos amigos, nos pegó muy fuerte y nos dejó muy contentos. Tanto o más que el premio.
+ {{< newsletter_signup >}}

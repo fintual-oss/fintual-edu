@@ -78,3 +78,5 @@ Yo creo que sí. Quizá sea un poco temprano como lo que le pasó a Bazuca en su
 Nosotros en BlackRock nos compramos un robot-advisor *[N del E: Future Advisor en US$150 millones de dólares]* que administraba la plata de trabajadores de Microsoft. Y eso acá en Chile no pasa.
 
 Es una cuestión de *timing,* pero para allá va la cosa.
+
+ {{< newsletter_signup >}}

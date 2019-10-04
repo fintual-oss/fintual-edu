@@ -125,3 +125,4 @@ Así que tranquilo y créenos, así va a quedar más rica la punta de ganso, bah
 > #### Usa nuestro simulador y ve qué es lo que recomendado para ti. [Pruébalo aquí sin costo.](https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=edu+elegir+bien+riesgo+inversion-279)
 
 _Infórmese de las características esenciales de la inversión en estos fondos mutuos, los que se encuentran contenidos en sus reglamentos internos y contratos de suscripción de cuotas._
+ {{< newsletter_signup >}}

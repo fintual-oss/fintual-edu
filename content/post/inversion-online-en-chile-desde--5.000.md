@@ -18,3 +18,4 @@ Podrás retirar tu dinero cuando quieras y recibirás una transferencia luego de
 Haz click para empezar y simular cómo podría rentar tu dinero en el tiempo:
 
 <a class="simulator-page__button btn btn--secondary" href="https://fintual.com/?utm_source=edu&utm_medium=landing&utm_campaign=inversion-online#empezar">Empezar</a>
+ {{< newsletter_signup >}}

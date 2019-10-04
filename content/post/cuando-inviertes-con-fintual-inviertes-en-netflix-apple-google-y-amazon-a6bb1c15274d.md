@@ -28,3 +28,5 @@ Omar, co-fundador que se encarga de las inversiones, me mira con cara de “¿en
 Creamos Fintual para que nuestros clientes no tuvieran que preocuparse de decidir en qué invertir, pero creo que yo debería meterme un poquito más, jaja.
 
 ![Foto de Alex Kotliarskyi](/uploads/cuando-invier8500.jpeg)*Foto de Alex Kotliarskyi*
+
+ {{< newsletter_signup >}}

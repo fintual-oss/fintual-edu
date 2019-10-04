@@ -21,3 +21,5 @@ El punto, es que le estás prestando plata al banco y el banco puede hacer lo qu
 La otra alternativa es prestarle plata a un banco que tenga niveles financieros más malos, o que necesite que le presten dinero rápidamente, y ahí probablemente las tasas de interés de los depósitos puedan ser algo mejores, pero no demasiado diferentes, ya que el sistema bancario en Chile en general es estable.
 
 Aún, y pese a lo bajo que pueda parecer la tasa de los depósitos, estos resultan convenientes para invertir tu dinero en periodos de tiempo cortos, digamos, desde unas semanas a unos pocos meses, ya que sabes exactamente lo que vas a ganar y cuando vas a tener disponible esa plata. Sin embargo, pensando en plazos mayores —digamos sobre 6 meses o sobre un año— hay formas de invertir tu dinero que resultan más convenientes, como invertir mediante una cartera diversificada en base a bonos y acciones de varios países. Y eso, al menos lo puedes hacer de manera fácil a través de [Fintual.com](https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=awareness&utm_content=depositos+a+plazo-108).
+
+ {{< newsletter_signup >}}

@@ -195,3 +195,4 @@ Como en Fintual se viene el APV, en el segundo capítulo de Fintalks quisimos ha
 **16:32 |** Bueno muchísimas gracias a todos nuestros auditores, los esperamos la próxima semana en nuestro podcast Fintalks, muchas gracias **(chao chao chao)**
 
 **() Hablante que pisa a voz principal)**
+ {{< newsletter_signup >}}

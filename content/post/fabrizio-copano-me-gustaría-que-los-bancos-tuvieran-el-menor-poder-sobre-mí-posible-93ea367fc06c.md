@@ -139,3 +139,4 @@ Uno carísimo, pero que valió la pena totalmente, fue irme de vacaciones a Jap�
 **¿Eres de gastar mucho, comprar muchas cosas?**
 
 Compro libros, que afuera no son caros, vinilos, pero tampoco compro mucho. No es que salga de la tienda con veinte vinilos. Salgo con dos. Y soy malo para carretear, y tomo más que nada cerveza. Aunque los gringos, muy inteligentes, tienen todo creado como para que gastís plata. En los bares tienen esto de *open your tab*, donde dejas tu tarjeta en la barra, tomas y al final vas a buscarla y es como “cucha, la cuenta”.
+ {{< newsletter_signup >}}

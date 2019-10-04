@@ -117,3 +117,4 @@ _¿Puedo perder toda mi plata?:_ Tendrían que desaparecer Apple, Google, Amazon
 
 (1): La rentabilidad es fluctuante por lo que nada garantiza que las rentabilidades pasadas se mantengan en el futuro. Infórmese de las características esenciales de la inversión en este fondo, las que se encuentran contenidas en su reglamento interno y contrato general de fondos. Información disponible en el sitio web de la CMF.
 (2): Porcentaje anual efectivamente cobrado hasta la fecha indicada.
+ {{< newsletter_signup >}}

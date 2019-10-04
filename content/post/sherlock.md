@@ -27,3 +27,4 @@ aliases: []
 </div>
 
 <br><br>
+ {{< newsletter_signup >}}

@@ -56,3 +56,4 @@ Tampoco existía algo así hace 20 años cuando yo era el niño, pero hoy sí y 
 > #### [Prueba nuestro simulador ](https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=edu+como+ahorrar+para+lo+que+quieres-261)con el monto que quieras y te darás cuenta que es fácil de usar para cualquier persona, incluso un niño.
 
 Si tienes más dudas de cómo funciona, [revisa la sección preguntas frecuentes](https://fintual.cl/simple/?utm_source=IG&utm_medium=referral&utm_campaign=awareness&utm_content=como+ahorrar+para+lo+que+quieres+simple-197). Y si aún tienes preguntas escríbeme a omar@fintual.com
+ {{< newsletter_signup >}}

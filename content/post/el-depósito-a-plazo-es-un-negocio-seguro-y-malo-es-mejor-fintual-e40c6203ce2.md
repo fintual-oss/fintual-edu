@@ -37,3 +37,5 @@ Si quieres ser de nuestros primeros y más queridos usuarios, regístrate en [FI
 (¹) Fuente: publicado en la Asociación de Bancos, 7 nov 2016, son los tasas pizarra, es decir las que en sucursal, sin ser cuentacorrentista ni negociar nada, no te van a rechazar nunca. *Tip: *la tasa Internet a personas naturales es la mejor tasa de depósito.
 
 (²) Fuente: Ministerio de Hacienda, últimos 12 meses incluye sept 2016.
+
+ {{< newsletter_signup >}}

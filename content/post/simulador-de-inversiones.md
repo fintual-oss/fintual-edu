@@ -13,3 +13,5 @@ url: "/simulador-de-inversiones/"
 Hicimos [este simulador](https://fintual.cl/simulador/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=consideration&utm_content=simula+inver-151) para que puedes revisar.
 
 Te servirá para darte cuenta cuánto ![](/uploads/Screen Shot 2018-07-04 at 10.27.26 PM.png)afecta la comisión que te cobran a la rentabilidad que puedes obtener cuando inviertes.
+
+ {{< newsletter_signup >}}

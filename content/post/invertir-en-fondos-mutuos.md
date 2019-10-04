@@ -32,3 +32,4 @@ Rescatar el dinero tampoco tiene costo.
 Fintual es fácil de usar y te muestra cómo le ha ido a tu inversión de manera simple y transparente.
 
 [Empezar](https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=consideration&utm_content=invertir+en+fondos+mutuos-251#empezar)
+ {{< newsletter_signup >}}

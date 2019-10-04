@@ -42,3 +42,4 @@ Cualquier duda escríbenos a tengodudas@fintual.com
 
 (¹) Fuente: [Banco Central ](https://si3.bcentral.cl/Boletin/secure/boletin.aspx?idCanasta=PBMQW1191)  
 (²)Fuente: [SPIVA Statistics & Reports](https://us.spindices.com/spiva/#/reports)
+ {{< newsletter_signup >}}

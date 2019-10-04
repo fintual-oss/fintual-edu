@@ -54,3 +54,5 @@ Los ETF son instrumentos muy prácticos porque siguen índices de mercado, entre
 Fintual es una Administradora General de Fondos, regulada por la CMF, que te ofrece acceder a tres Fondos diversificados que invierten en ETFs y cobra solo 1.19% al año.
 
 Para simular una inversión haz [click acá](https://fintual.com/?utm_source=edu&utm_medium=landing&utm_campaign=como-invertir#empezar)
+
+ {{< newsletter_signup >}}

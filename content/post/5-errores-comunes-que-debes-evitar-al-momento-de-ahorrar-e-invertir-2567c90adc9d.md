@@ -125,3 +125,4 @@ Después, toma en cuenta los siguientes consejos:
 > ### En [Fintual](https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=edu+5+errores+comunes+al+invertir-260) te ayudamos con todo el proceso de ahorro e inversión, de forma simple, transparente y sin rodeos.
 >
 > ### [Prueba sin costo nuestro simulador](https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=edu+5+errores+comunes+al+invertir-260) y toma control de tus finanzas 💪
+ {{< newsletter_signup >}}
