@@ -35,7 +35,7 @@ sharingicons = false
     thumbnail = "/uploads/gonzalo-enei.jpg"
     [params.writers."Francesca Finaldi"]
     name = "Francesca Finaldi"
-    thumbnail = "/uploads/francesca_finaldi.jpeg"
+    thumbnail = "/uploads/francesca_finaldi.jpg"
     [params.writers."Francisca Feuerhake"]
     name = "Francisca Feuerhake"
     thumbnail = "/uploads/francisca_feuerhake.jpg"
