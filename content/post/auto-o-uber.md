@@ -50,7 +50,11 @@ Este fue el resultado:
 >
 >                                                  Matías Hurtado, octubre 2019.
 
-![](/uploads/wow.gif)
+<div style="text-align:center">
+<figure>
+<img src="/uploads/wow.gif">
+</figure>
+</div>
 
 Esa fue mi reacción. Es mucha plata. Con eso me podría ir de vacaciones a un resort en Punta Cana por más de 1 mes.
 
