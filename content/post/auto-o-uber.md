@@ -14,9 +14,9 @@ Un análisis para saber si me conviene vender mi auto y moverme en Uber.
 
 Todo partió cuando estaba manejando a mi casa y me di cuenta que mi auto estaba asqueroso. No lo había lavado hace casi un mes, así que paré en una bencinera. Me acerqué a uno de esos puestos autoservicio en los que compras un par de fichas, las metes en la máquina y en 5 minutos tienes el auto impecable. Quedó como nuevo. Fue un gasto que tenía presupuestado, así que no me molestó gastar plata en eso. Me gusta tener el auto limpio y lo lavo como 2 veces al mes.
 
-Pero hay gastos que no tengo presupuestados, que son harto más caros que lavar el auto y que dependen de un factor de uso: el estado del auto, cómo trataba el auto el dueño anterior, por dónde ando, cómo manejo, calidad del fabricante, etc. Y aquí hay un poquito de buena o mala suerte de por medio_._ Esos gastos sí que me molesta pagarlos.
+Pero hay gastos que no tengo presupuestados, que son harto más caros que lavar el auto y que dependen de un factor de uso: el estado del auto, cómo trataba el auto el dueño anterior, por dónde ando, cómo manejo, calidad del fabricante, etc. **Y aquí hay un poquito de buena o mala suerte de por medio.** Esos gastos sí que me molesta pagarlos.
 
-Y como dice la famosa Ley de Murphy: _Lo que puede salir mal, va a salir mal._
+##### Y como dice la famosa Ley de Murphy: _Lo que puede salir mal, va a salir mal._
 
 5 minutos después de haber limpiado mi auto, estaba manejando y el auto empieza a perder potencia al acelerar, como si se trabaran los neumáticos.
 
@@ -26,15 +26,15 @@ Intentando ser optimista, manejé un par de días con fe de que la vida me iba a
 
 _2 palos…_ No caché nada más de lo que me dijo, lo único que quedó dando vueltas en mi cabeza fueron los 2 palos. Es mucha plata considerando el valor del auto: si vendo el auto hoy, lo puedo vender a $6.500.000. O sea, casi ⅓ del valor del auto en arreglos. Demasiado.
 
-_¿Y si tengo un “accidente” con un árbol?_
+> _¿Y si tengo un “accidente” con un árbol?_
 
 (Broma).
 
-_Pero igual puede pasar, ¿o no?_
+> _Pero igual puede pasar, ¿o no?_
 
 Bueno, resulta que el mecánico lo salió a probar para asegurarse de que el problema fuera efectivamente el embrague. Y esta vez la vida me ayudó: era la bobina, y cambiarla costaba aproximadamente $200.000. Es plata, pero frente a los 2 palos estaba feliz.
 
-_Ufff, me salvé_.
+> _Ufff, me salvé_.
 
 Pero seguí pensando durante el resto del día en cuánta plata estaba gastando en el auto. En mi cabeza sumaba: _2 palos, más las 400 lucas, la patente, la bencina, el seguro, el permiso de circulación, el Tag… Chupalla._
 
