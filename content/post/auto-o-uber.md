@@ -50,6 +50,8 @@ Este fue el resultado:
 >
 >                                                  Matías Hurtado, octubre 2019.
 
+![](/uploads/wow.gif)
+
 Esa fue mi reacción. Es mucha plata. Con eso me podría ir de vacaciones a un resort en Punta Cana por más de 1 mes.
 
 Hice el cálculo por día: $11.480 aproximadamente para un año no bisiesto.
@@ -69,4 +71,4 @@ En mi caso, estas opciones no me sirven mucho. Tampoco estoy considerando el val
 
 Y tú, ¿en qué situación estás?. Te invito a realizar el cálculo usando [esta planilla](https://drive.google.com/file/d/1_gE2QwXOdxUFL8c1MfRLwn0gup6KyOji/view?usp=sharing) y ver qué te conviene.
 
- {{< newsletter_signup >}}
+{{< newsletter_signup >}}
