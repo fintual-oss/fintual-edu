@@ -36,7 +36,9 @@ Bueno, resulta que el mecánico lo salió a probar para asegurarse de que el pro
 
 > _Ufff, me salvé_.
 
-Pero seguí pensando durante el resto del día en cuánta plata estaba gastando en el auto. En mi cabeza sumaba: _2 palos, más las 400 lucas, la patente, la bencina, el seguro, el permiso de circulación, el Tag… Chupalla._
+Pero seguí pensando durante el resto del día en cuánta plata estaba gastando en el auto. En mi cabeza sumaba: _2 palos, más las 400 lucas, la patente, la bencina, el seguro, el permiso de circulación, el Tag…_ 
+
+> _Chupalla._
 
 Como mi polola me dice cuando hay que evaluar algún negocio o calcular algo: “Ya po, tú eres ingeniero”, decidí hacer honor a mi título. Esa noche abrí Excel y empecé a planillar los gastos: quería calcular cuánto estaba gastando al año.
 
