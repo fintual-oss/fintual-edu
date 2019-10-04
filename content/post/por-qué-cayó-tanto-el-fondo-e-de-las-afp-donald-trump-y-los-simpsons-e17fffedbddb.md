@@ -49,3 +49,4 @@ Ya, ¿y por qué subieron las tasas en el mundo después de la sorpresa de Trump
 Creemos que la forma correcta de invertir es **dejar de jugar al compra y vende.** De creer que le podemos ganar al mercado consistentemente o a las AFPs.
 
 Y es como recomendamos invertir a nuestros clientes en [FINTUAL](https://fintual.cl): en carteras de inversión pasivas ajustadas a sus plazos y tolerancias al riesgo, con instrumentos de comisiones bajas, siguiendo de manera eficiente al mercado y minimizando el número de veces que es necesario vender/comprar activos. Siempre simulando escenarios positivos y negativos que podrían enfrentar durante el horizonte de inversión y monitoreando con robots el estado de sus inversiones.
+ {{< newsletter_signup >}}

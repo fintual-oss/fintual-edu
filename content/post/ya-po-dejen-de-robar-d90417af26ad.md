@@ -55,3 +55,4 @@ Es algo que copiamos de EEUU y de varias otras partes del mundo, donde lo vienen
 Es un servicio por el que te vamos a cobrar. Pero te vamos a cobrar por decirte la verdad: “Esto te conviene. Esto no”.
 
 Esto es [FINTUAL](https://fintual.cl/) hoy.
+ {{< newsletter_signup >}}

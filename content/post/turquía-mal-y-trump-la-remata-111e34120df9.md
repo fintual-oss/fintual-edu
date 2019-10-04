@@ -32,3 +32,4 @@ Como sea, los comerciantes en Venezuela ya están preparando un alza de 60% de l
 Qué lata por Turquía y Venezuela, cuna de las mejores telenovelas. Ojalá éstas terminen rápido y bien.
 
 Eso es todo por hoy.
+ {{< newsletter_signup >}}

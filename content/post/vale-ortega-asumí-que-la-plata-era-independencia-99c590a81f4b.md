@@ -101,3 +101,4 @@ No, porque no sé hacerlo. Mi relación con el banco es con el cajero, básicame
 **¿Qué consejo le dirías a alguien joven relativo a la plata?**
 
 Trabaja joven. Porque joven es cuando hay que cagarla, después ya no tienes muchas excusas.
+ {{< newsletter_signup >}}

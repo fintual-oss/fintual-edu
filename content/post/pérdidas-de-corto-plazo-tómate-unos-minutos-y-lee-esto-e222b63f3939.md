@@ -104,3 +104,4 @@ Tomar más riesgo del que te sientes cómodo para un plan de inversión determin
 Por otro lado, tomar demasiado poco riesgo significa que estás dejando potenciales ganancias sobre la mesa, especialmente en horizontes de largo plazo.
 
 Una vez que eliges tu plan de inversiones de forma adecuada, trata de respetar bien el horizontes de inversiones. Por ejemplo, si tu plazo de inversiones es de 5 años, y te enfrentas pérdidas de 3 o 4 meses, la mejor decisión en este caso puede ser la más difícil: **no hacer nada, y continuar con tu plan de inversión**, tranquilamente, sin disminuir o aumentar el nivel de riesgo a cada rato, tratando de evitar (o ganar) algo en la pasada.
+ {{< newsletter_signup >}}

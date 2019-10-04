@@ -85,3 +85,4 @@ Algo así como “estamos vendiendo activos del balance en piloto automático y 
 **Lo malo:** Si los encargados de las políticas internas económicas y las políticas monetarias de los países desarrollados no toman medidas a tiempo, esto sí puede provocar un daño mayor.
 
 **Lo bueno:** Un ajuste de los precios de esta magnitud iba a pasar en algún momento, y el hecho de que suceda antes entrega mayores herramientas a los encargados de las políticas económicas y monetarias para arreglar un problema que podría ser mucho más grande más adelante, generando realmente una crisis global económica. Por otro lado, aumenta el valor y sustentabilidad a las empresas que sortean esta turbulencia: después de esta gran corrección, los precios fundamentales de las acciones están en niveles más que razonables, lo que podría ayudar a un buen 2019.
+ {{< newsletter_signup >}}

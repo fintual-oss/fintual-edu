@@ -63,3 +63,4 @@ https://fintual.cl/api/goals?user_token=ESTONOESUNTOKENVALIDO&user_email=tuemail
 Eso por el momento! saludos y suerte.
 
 Ah, te dejo esto que hizo Oscar Estay usando el API pública. [https://oaestay.github.io/fintual-charts/](https://oaestay.github.io/fintual-charts/ "https://oaestay.github.io/fintual-charts/")
+ {{< newsletter_signup >}}

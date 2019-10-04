@@ -13,3 +13,4 @@ url = 1
 
 +++
 ![](/uploads/portafolio-personalizado.jpg)
+ {{< newsletter_signup >}}

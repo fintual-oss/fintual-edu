@@ -41,3 +41,4 @@ En **Fintual** te damos la herramienta para simular cuánto podría significar u
 Además puede programar transferencias de $2.700 diarios, $54.000 mensuales o el monto que quieras.
 
 <p style="text-align:center"> <a class="simulator-page__button btn btn--secondary" href="https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=awareness&utm_content=un-cafe-menos-113#empezar">Empezar</a></p>
+ {{< newsletter_signup >}}

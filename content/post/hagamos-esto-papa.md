@@ -51,3 +51,4 @@ _Y nosotros queremos eso, que invertir sea papa._
     <a href="https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=awareness&utm_content=hagamos+esto+papa-112#empezar">Empezar</a>
   </div>
 </p>
+ {{< newsletter_signup >}}

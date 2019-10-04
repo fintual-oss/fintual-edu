@@ -109,4 +109,4 @@ No, ni cagando, no me interesa.
 
 _Ve porqué FINTUAL es_ [_mejor que un depósito a plazo._](https://blog.fintual.cl/el-dep%C3%B3sito-a-plazo-es-un-negocio-seguro-y-malo-es-mejor-fintual-e40c6203ce2)
 
-{{< newsletter_signup >}}
+ {{< newsletter_signup >}}

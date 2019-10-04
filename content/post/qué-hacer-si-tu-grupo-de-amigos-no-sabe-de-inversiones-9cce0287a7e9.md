@@ -27,3 +27,4 @@ El número de Whatsapp del ingeniero es el +56943424864. Si estás en tu teléfo
 Y ya está funcionando para otras personas, mira:
 
 ![](/uploads/qué-hacer-si-3722.png)
+ {{< newsletter_signup >}}

@@ -191,3 +191,5 @@ Esta es la transcripción del sexto episodio de nuestro podcast Fintalks. Lo pue
 **47:28 |** Y muchas gracias a nuestros auditores que nos escuchan siempre (y gracias a todos por la paciencia en el tema técnico, si mi disco estaba a punto de llenarse)
 
 **47:37 |** Bueno que estén muy bien chao (chao, gracias)
+
+ {{< newsletter_signup >}}

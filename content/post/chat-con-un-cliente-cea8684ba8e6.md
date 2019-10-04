@@ -252,3 +252,4 @@ El cliente se llamaba… no, mentira.
 Si te quedan dudas, puedes revisar [fintual.cl/preguntas-frecuentes](https://fintual.cl/preguntas-frecuentes)
 
 ![Imagen del inicio de la conversación](/uploads/chat-con-un-c8459.png)*Imagen del inicio de la conversación*
+ {{< newsletter_signup >}}

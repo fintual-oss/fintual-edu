@@ -29,3 +29,4 @@ Y cuando necesites ese tiempo para ti, vas y usas todo el tiempo que te comprast
 No se trata de dejar de comprar la bicicleta que quieres, sino de que consideres que el tiempo también es algo que puedes comprar.
 
 Piensa en esto la próxima vez que estés en una tienda. Quizá no sea malo elegir algo más barato y con la diferencia comprar un poco de tiempo.
+ {{< newsletter_signup >}}

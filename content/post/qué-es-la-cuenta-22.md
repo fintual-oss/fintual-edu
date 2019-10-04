@@ -24,3 +24,4 @@ Para esas personas algo como [Fintual](https://fintual.cl/?utm_source=edu.fintua
 Además de ser similar en comisión, los fondos no tienen restricciones como sí lo tienen los fondos de pensiones de las AFPs.
 
 Esto da más grados de libertad a los fondos que administra Fintual y podrían implicar una rentabilidad mejor.
+ {{< newsletter_signup >}}

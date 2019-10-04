@@ -38,3 +38,4 @@ Ahora, los bancos en Chile podrán pedir prestado dinero más barato, lo que deb
 * **Ganancia de capital puntual**
 
   Las carteras compuestas por bonos, que en general son las carteras más conservadoras, deberían tener una ganancia puntual rápida esta semana por bajas de interés. Sin embargo, esta ganancia es puntual y moderada, ya que gran parte de lo comunicado por el Banco Central está internalizado en los precios.
+ {{< newsletter_signup >}}

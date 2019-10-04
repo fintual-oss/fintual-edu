@@ -34,3 +34,4 @@ A propósito, al presidente de China Xi Jinping le sigue molestando que lo encue
 ![Winnie the Pooh al menos tiene mejor humor.](/uploads/elon-musk-ape2342)_Winnie the Pooh al menos tiene mejor humor._
 
 Eso es todo.
+ {{< newsletter_signup >}}

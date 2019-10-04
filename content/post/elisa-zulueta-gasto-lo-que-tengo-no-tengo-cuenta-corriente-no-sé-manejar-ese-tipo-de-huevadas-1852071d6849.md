@@ -91,3 +91,4 @@ Por eso no tengo cuenta corriente ni auto ni deudas, porque no sé manejar ese t
 Yo siempre he trabajado, siempre voy a trabajar, sé que no voy a morirme de hambre jamás. Pero no puedo entender el mundo de la inversión.
 
 Lo que sí, es que soy ordenada y Gumucio un desastre.
+ {{< newsletter_signup >}}

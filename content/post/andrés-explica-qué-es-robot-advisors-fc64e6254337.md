@@ -13,3 +13,4 @@ Mira la charla que dio Andrés en la reciente Starsconf sobre robotadvisors, el 
 ![](/uploads/andrés-explic3828.png)
 
 <iframe src="https://player.vimeo.com/video/314101620" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+ {{< newsletter_signup >}}

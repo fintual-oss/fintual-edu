@@ -38,3 +38,4 @@ No se trata de no usar celular. Se trata de que la próxima vez que vayas a comp
 Y si, además, sueltas un poquito el celular, no estaría mal tampoco...
 
 <p style="text-align:center"> <a class="simulator-page__button btn btn--secondary" href="[https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=awareness&utm_content=celulares-144#empezar](https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=awareness&utm_content=celulares-144#empezar "https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=awareness&utm_content=celulares-144#empezar")">Empezar</a></p>
+ {{< newsletter_signup >}}

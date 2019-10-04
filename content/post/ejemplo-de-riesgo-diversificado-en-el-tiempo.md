@@ -33,3 +33,4 @@ Por eso es que
 
 1. Cuando se invierte en algo riesgoso hay que darle tiempo.
 2. Si sabes que tienes tiempo, conviene tomar una inversión más riesgosa.
+ {{< newsletter_signup >}}

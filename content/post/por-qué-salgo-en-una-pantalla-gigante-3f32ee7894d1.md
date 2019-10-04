@@ -34,3 +34,4 @@ De nuevo, el nuestro tampoco es el mejor sitio (aún), pero tenemos nuevos relea
 En una de las conversaciones sobre inteligencia artificial alguien dijo algo que me hizo ruido: “mi hija millennial ni siquiera online quiere interactuar con una persona”. Wow, no sé si lleguemos a tanto porque la gente creo que necesita a un humano al otro cuando se trata de mucha plata, pero sí que tenemos que automatizar todo lo que se pueda con tal de bajar los costos que inciden directamente en la rentabilidad de nuestros clientes.
 
 Estaré dos meses más en Europa en reuniones y trabajando remoto para aprender de los robotadvisors por acá.
+ {{< newsletter_signup >}}

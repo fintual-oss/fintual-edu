@@ -20,3 +20,4 @@ Mira la simulación que hicimos:
 ![](/uploads/simulador.png)
 
 Si en tu caso los montos o plazos son distintos, puedes ir a [Fintual](https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_content=como-ahorrar-cuota-incorporacion-colegio-171) y simular tu caso particular.
+ {{< newsletter_signup >}}

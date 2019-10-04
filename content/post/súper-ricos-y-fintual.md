@@ -35,3 +35,4 @@ Eso lo pueden ver aquí: [gráficos](https://oaestay.github.io/fintual-charts/)
 Pero, lo que es más cool, es que Fintual permite que cualquier persona acceda a instrumentos a los que tienen acceso los súper ricos en Chile.
 
 Sacamos la licencia regulatoria y desarrollamos la tecnología para hacerlo simple y sin importar cuánta plata tengas.
+ {{< newsletter_signup >}}

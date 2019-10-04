@@ -135,3 +135,4 @@ Mucha gente nos pregunta qué hacer con su inversión después de una semana de 
 **14:54 |** Ya, que sea sorpresa entonces, vamos a seguir hablando de finanzas y de finanzas personales, pero también de emprendimiento, así que se vienen cosas bien entretenidas, muchas gracias a nuestros auditores por escucharnos y chao chao **(chao chao chao)**
 
 **() Hablantes que pisan voz principal que interviene**
+ {{< newsletter_signup >}}

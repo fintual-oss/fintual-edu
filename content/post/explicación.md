@@ -54,3 +54,4 @@ No tienes para qué leer o entender todo esto, pero algunos clientes nos han ped
 Y algunos ya nos confirmaron que efectivamente les pasó eso:
 
 ![](/uploads/Screen Shot 2019-05-23 at 11.05.51 AM.png)
+ {{< newsletter_signup >}}

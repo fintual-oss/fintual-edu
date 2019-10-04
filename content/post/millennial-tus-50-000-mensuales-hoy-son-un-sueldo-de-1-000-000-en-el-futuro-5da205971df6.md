@@ -30,3 +30,4 @@ Puedes hacer el cálculo.
 Y pensando que lo más probable es que a esa edad te va a costar encontrar trabajo fácilmente, no parece mala idea ahorrar otro poquito aparte de la plata para los pasajes y las *full moon parties *en Tailandia.
 
 _(En_ [_FINTUAL_](https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_content=millenial-172) _puedes invertir $50.000 mensuales o el monto que quieras. Escríbenos a tailandia2@fintual.com)._
+ {{< newsletter_signup >}}

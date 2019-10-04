@@ -246,3 +246,5 @@ Esta es la transcripción del quinto episodio de nuestro podcast Fintalks. Lo pu
 **55:22 |** Bueno, muchas gracias por invitarme
 
 **() Hablante que pisa intervención de voz principal**
+
+ {{< newsletter_signup >}}

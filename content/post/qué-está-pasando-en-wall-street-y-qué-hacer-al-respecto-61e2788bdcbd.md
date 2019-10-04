@@ -36,3 +36,4 @@ Lejos de ser un evento aislado, un día como ayer puede ocurrir más comúnmente
 Más allá de los bruscos movimientos y caídas de precios a nivel global, lo que está sucediendo es una sana corrección o revalorización de activos globales que se deben ajustar a las condiciones actuales de tasas de interés más elevadas. Este ajuste pudo haber sido gradual — digamos, a lo largo de meses — o de forma abrupta. Lo que ocurrió fue más bien lo segundo.
 
 Si bien estos ajustes pueden continuar unos días más, bajo nuestra filosofía de inversiones la mejor estrategia es tener una cartera adecuada a tu perfil de riesgo en el plazo adecuado, y [no tener la necesidad de vender por cada vez que ocurren eventos de esta naturaleza](https://blog.fintual.cl/p%C3%A9rdidas-de-corto-plazo-t%C3%B3mate-unos-minutos-y-lee-esto-e222b63f3939).
+ {{< newsletter_signup >}}

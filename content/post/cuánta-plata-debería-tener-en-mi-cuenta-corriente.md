@@ -38,4 +38,4 @@ Ahora, si lo que quieres es invertir con más riesgo y en el largo plazo, tenemo
 
 _Infórmese de las características esenciales de la inversión en estos fondos mutuos, los que se encuentran contenidos en sus reglamentos internos y contratos de suscripción de cuotas._
 
-{{< newsletter_signup >}}
+ {{< newsletter_signup >}}

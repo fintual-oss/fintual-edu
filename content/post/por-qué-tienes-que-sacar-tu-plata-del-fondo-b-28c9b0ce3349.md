@@ -35,3 +35,4 @@ Yo creo que los encargados de rentabilidad de las AFPs dejaron botado al fondo B
 Para quienes estén en el B les recomiendo poner** parte del dinero en el fondo A y otra parte en el fondo C**, pues la relación riesgo/retorno será mejor que poner todo en el fondo B directamente.
 
 ### Si tienes plata para invertir y no sabes qué hacer con ella, te recomiendo que veas [FINTUAL](https://fintual.cl/).
+ {{< newsletter_signup >}}
