@@ -66,13 +66,8 @@ Nada comparado con los $11.480 al día que estoy gastando con el auto.
 
 Ya me estaba imaginando echado en la playa de Punta Cana tomando una piña colada y estaba a punto de publicar mi auto en Chileautos para venderlo.
 
-Pero la ley de Murphy atacó de nuevo:
+Lo estoy pensando...
 
-* No vivo al lado de una micro ni metro: el paradero más cercano está a 30 minutos caminando. 30 minutos caminando + micro + metro… Demasiado tiempo
-* Varias veces a la semana voy desde Las Condes a Chicureo a ver a mi polola. Un Uber así no sale menos de $11.480. De hecho, ese viaje sale aproximadamente $18.226. Con tres viajes ida y vuelta a la semana, ya me paso del presupuesto.
-
-En mi caso, estas opciones no me sirven mucho. Tampoco estoy considerando el valor que le doy a la comodidad de tener un auto (que no cuantifiqué, es un poco difícil) y es que yo valoro salir de mi casa, subirme al auto y partir instantáneamente, sin tener que estar esperando a nadie que llegue, que se demore o se pierda y además arriesgarme a que maneje mal o sea pesado. Quizás al común de la gente le gustaría tener chofer, pero a mí me gusta manejar.
-
-Y tú, ¿en qué situación estás?. Te invito a realizar el cálculo usando [esta planilla](https://drive.google.com/file/d/1_gE2QwXOdxUFL8c1MfRLwn0gup6KyOji/view?usp=sharing) y ver qué te conviene.
+Y tú, ¿en qué situación estás?. Te dejo [esta planilla](https://drive.google.com/file/d/1_gE2QwXOdxUFL8c1MfRLwn0gup6KyOji/view?usp=sharing) por si quieres hacer el cálculo y ver qué te conviene.
 
 {{< newsletter_signup >}}
