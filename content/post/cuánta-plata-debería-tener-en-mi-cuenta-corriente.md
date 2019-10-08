@@ -1,7 +1,7 @@
 +++
 aliases = []
 author = "Francesca Finaldi"
-categories = ["educación financiera", "educación financiera"]
+categories = ["educación financiera"]
 date = "2019-09-30T19:49:57+00:00"
 description = "Como norma general, no deberías tener más del 10% de tu sueldo en tu cuenta. La plata destinada a gastos de corto plazo (6 meses o menos) debería estar en inversiones muy conservadoras."
 hide = false
