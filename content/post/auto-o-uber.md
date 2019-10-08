@@ -64,10 +64,10 @@ O sea, si todos los días del año me subiera a un Uber que me salga menos de $1
 
 Nada comparado con los $11.710 al día que estoy gastando con el auto.
 
-Ya me estaba imaginando echado en la playa de Punta Cana tomando una piña colada y estaba a punto de publicar mi auto en Chileautos para venderlo.
+Ya me imagino echado en la playa de Punta Cana tomando una piña colada habiendo vendido mi auto.
 
-Así que lo estoy pensando...
+Así que lo estoy pensando…
 
-Y tú, ¿en qué situación estás?. Te dejo [esta planilla](https://docs.google.com/spreadsheets/d/1_gE2QwXOdxUFL8c1MfRLwn0gup6KyOji/copy) por si quieres hacer el cálculo y ver qué te conviene.
+Y a ti, ¿qué te conviene? Te dejo [esta planilla](https://docs.google.com/spreadsheets/d/1_gE2QwXOdxUFL8c1MfRLwn0gup6KyOji/copy) por si quieres hacer el cálculo 
 
 {{< newsletter_signup >}}
