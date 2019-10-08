@@ -4,7 +4,6 @@ author = "Matías Hurtado"
 categories = ["educación financiera"]
 date = "2019-10-08T15:25:47+00:00"
 description = "Calculé cuánto gasto en andar en auto en un año para saber si me conviene venderlo y moverme en Uber."
-draft = true
 hide = false
 image = "/uploads/auto.jpg"
 title = "¿Auto o Uber?"
@@ -59,11 +58,11 @@ Este fue el resultado:
 
 Esa fue mi reacción. Es mucha plata. Con eso me podría ir de vacaciones a un resort en Punta Cana por más de 1 mes.
 
-Hice el cálculo por día: $11.480 aproximadamente para un año no bisiesto.
+Hice el cálculo por día: $11.710 aproximadamente para un año no bisiesto.
 
-O sea, si todos los días del año me subiera a un Uber que me salga menos de $11.480, estoy ahorrando plata. Y un Uber de ese monto es caro. Y, más aún, si usara todos los días el transporte público ida y vuelta, me saldría $1.600 pesos (además contribuiría a mejor la situación medioambiental).
+O sea, si todos los días del año me subiera a un Uber que me salga menos de $11.710, estoy ahorrando plata. Y un Uber de ese monto es caro. Y, más aún, si usara todos los días el transporte público ida y vuelta, me saldría $1.600 pesos (además contribuiría a mejor la situación medioambiental).
 
-Nada comparado con los $11.480 al día que estoy gastando con el auto.
+Nada comparado con los $11.710 al día que estoy gastando con el auto.
 
 Ya me estaba imaginando echado en la playa de Punta Cana tomando una piña colada y estaba a punto de publicar mi auto en Chileautos para venderlo.
 
