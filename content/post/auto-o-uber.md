@@ -68,6 +68,6 @@ Ya me estaba imaginando echado en la playa de Punta Cana tomando una piña colad
 
 Así que lo estoy pensando...
 
-Y tú, ¿en qué situación estás?. Te dejo [esta planilla](https://drive.google.com/file/d/1_gE2QwXOdxUFL8c1MfRLwn0gup6KyOji/view?usp=sharing) por si quieres hacer el cálculo y ver qué te conviene.
+Y tú, ¿en qué situación estás?. Te dejo [esta planilla](https://docs.google.com/spreadsheets/d/1_gE2QwXOdxUFL8c1MfRLwn0gup6KyOji/copy) por si quieres hacer el cálculo y ver qué te conviene.
 
 {{< newsletter_signup >}}
