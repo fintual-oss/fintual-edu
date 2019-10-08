@@ -10,7 +10,7 @@ title = "¿Auto o Uber?"
 url = "auto-o-uber"
 
 +++
-Un análisis para saber si me conviene vender mi auto y moverme en Uber. _Incluye una planilla al final que te servirá para calcular lo mejor para tu caso._
+Hice un análisis para saber si me conviene vender mi auto y moverme en Uber. _Incluye una planilla al final que te servirá para calcular lo mejor para tu caso._
 
 Todo partió cuando estaba manejando a mi casa y me di cuenta que mi auto estaba asqueroso. No lo había lavado hace casi un mes, así que paré en una bencinera. Me acerqué a uno de esos puestos autoservicio en los que compras un par de fichas, las metes en la máquina y en 5 minutos tienes el auto impecable. Quedó como nuevo. Fue un gasto que tenía presupuestado, así que no me molestó gastar plata en eso. Me gusta tener el auto limpio y lo lavo como 2 veces al mes.
 
