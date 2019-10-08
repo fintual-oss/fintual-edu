@@ -82,6 +82,7 @@ fields:
   hidden: false
   default: true
 pages:
+- content/post/cómo-elegir-bien-el-riesgo-de-tus-distintas-inversiones.md
 - content/post/cuánta-plata-debería-tener-en-mi-cuenta-corriente.md
 - content/post/auto-o-uber.md
 - content/post/finclass-finanzas-aplicadas-y-fintech-clase-1.md
@@ -124,6 +125,5 @@ pages:
 - content/post/te-cuesta-ahorrar.md
 - content/post/4-formas-simples-de-bajar-tus-impuestos-usando-fintual.md
 - content/post/lunes-negro-en-wall-street.md
-- content/post/cómo-elegir-bien-el-riesgo-de-tus-distintas-inversiones.md
 - content/post/fintual-tiene-us-250-000-para-repartir-en-su-plan-de-recompensas-para
   hackers.md
