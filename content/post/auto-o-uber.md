@@ -44,7 +44,7 @@ Como mi polola me dice cuando hay que evaluar algún negocio o calcular algo: �
 
 Este fue el resultado:
 
-![](/uploads/AutovsUber-1.png)
+![](/uploads/AutovsUber.png)
 
 > _CUATRO PALOS CIENTO NOVENTA LUCAS. Más plata que la ..._
 >
