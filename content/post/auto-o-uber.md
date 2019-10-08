@@ -4,6 +4,7 @@ author = "Matías Hurtado"
 categories = ["educación financiera"]
 date = "2019-10-08T15:25:47+00:00"
 description = "Calculé cuánto gasto en andar en auto en un año para saber si me conviene venderlo y moverme en Uber."
+draft = true
 hide = false
 image = "/uploads/auto.jpg"
 title = "¿Auto o Uber?"
