@@ -2,7 +2,7 @@
 aliases = []
 author = "Matías Hurtado"
 categories = ["educación financiera"]
-date = "2019-10-03T15:25:47+00:00"
+date = "2019-10-08T15:25:47+00:00"
 description = "Calculé cuánto gasto en andar en auto en un año para saber si me conviene venderlo y moverme en Uber."
 hide = false
 image = "/uploads/auto.jpg"
