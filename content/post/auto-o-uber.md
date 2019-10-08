@@ -66,7 +66,7 @@ Nada comparado con los $11.480 al día que estoy gastando con el auto.
 
 Ya me estaba imaginando echado en la playa de Punta Cana tomando una piña colada y estaba a punto de publicar mi auto en Chileautos para venderlo.
 
-Lo estoy pensando...
+Así que lo estoy pensando...
 
 Y tú, ¿en qué situación estás?. Te dejo [esta planilla](https://drive.google.com/file/d/1_gE2QwXOdxUFL8c1MfRLwn0gup6KyOji/view?usp=sharing) por si quieres hacer el cálculo y ver qué te conviene.
 
