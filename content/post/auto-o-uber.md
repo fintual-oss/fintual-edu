@@ -72,4 +72,8 @@ Así que lo estoy pensando…
 
 Y a ti, ¿qué te conviene? Te dejo [esta planilla](https://docs.google.com/spreadsheets/d/1_gE2QwXOdxUFL8c1MfRLwn0gup6KyOji/copy) por si quieres hacer el cálculo
 
-{{< newsletter_signup >}}
+> #### Si llegaste hasta el final es porque tienes ganas de hacerlo mejor con tus finanzas.
+>
+> #### Para invertir, te recomiendo [Fintual]() porque es fácil, tiene comisiones bajas y es transparente con lo que te cobra 🙂
+>
+> #### [Prueba gratis el simulador](https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=edu+auto+o+uber-291), te va a gustar ⚡️
