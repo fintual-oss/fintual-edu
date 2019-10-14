@@ -82,8 +82,8 @@ fields:
   hidden: false
   default: true
 pages:
-- content/post/automatizando-tus-finanzas-personales.md
 - content/post/auto-o-uber.md
+- content/post/automatizando-tus-finanzas-personales.md
 - content/post/cuánta-plata-debería-tener-en-mi-cuenta-corriente.md
 - content/post/cómo-elegir-bien-el-riesgo-de-tus-distintas-inversiones.md
 - content/post/finclass-finanzas-aplicadas-y-fintech-clase-1.md

@@ -68,6 +68,6 @@ Ya me imagino echado en la playa de Punta Cana tomando una piña colada habiendo
 
 Así que lo estoy pensando…
 
-Y a ti, ¿qué te conviene? Te dejo [esta planilla](https://docs.google.com/spreadsheets/d/1_gE2QwXOdxUFL8c1MfRLwn0gup6KyOji/copy) por si quieres hacer el cálculo 
+Y a ti, ¿qué te conviene? Te dejo [esta planilla](https://docs.google.com/spreadsheets/d/1_gE2QwXOdxUFL8c1MfRLwn0gup6KyOji/copy) por si quieres hacer el cálculo
 
 {{< newsletter_signup >}}
