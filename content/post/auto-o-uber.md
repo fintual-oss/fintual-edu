@@ -78,4 +78,4 @@ Y a ti, ¿qué te conviene? Te dejo [esta planilla](https://docs.google.com/spre
 >
 > #### [Prueba gratis el simulador](https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=edu+auto+o+uber-291), te va a gustar ⚡️
 
-d
+_Infórmese de las características esenciales de la inversión en estos fondos mutuos, los que se encuentran contenidos en sus reglamentos internos y contratos de suscripción de cuotas._
