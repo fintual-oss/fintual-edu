@@ -125,4 +125,7 @@ Después, toma en cuenta los siguientes consejos:
 > ### En [Fintual](https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=edu+5+errores+comunes+al+invertir-260) te ayudamos con todo el proceso de ahorro e inversión, de forma simple, transparente y sin rodeos.
 >
 > ### [Prueba sin costo nuestro simulador](https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=edu+5+errores+comunes+al+invertir-260) y toma control de tus finanzas 💪
- {{< newsletter_signup >}}
+
+_Infórmese de las características esenciales de la inversión en estos fondos mutuos, los que se encuentran contenidos en sus reglamentos internos y contratos de suscripción de cuotas._
+
+{{< newsletter_signup >}}
