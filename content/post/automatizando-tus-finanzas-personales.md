@@ -164,11 +164,11 @@ Gonzalo
 
 _Full disclosure: gran parte de esto es una aplicación a Chile de los consejos de Ramit Sethi, un gringo capo que habla de finanzas personales._
 
-> ##### Si llegaste hasta el final es porque tienes ganas de hacerlo mejor con tus finanzas.
+> ### Si llegaste hasta el final es porque tienes ganas de hacerlo mejor con tus finanzas.
 >
-> ##### Para invertir, te recomiendo [Fintual](https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=edu+ordenar+finanzas+2horas-258) porque es fácil, tiene comisiones bajas, y puedes crear todos los objetivos que quieras para ordenarte. Lo uso desde antes de trabajar aquí 🙂
+> ### Para invertir, te recomiendo [Fintual](https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=edu+ordenar+finanzas+2horas-258) porque es fácil, tiene comisiones bajas, y puedes crear todos los objetivos que quieras para ordenarte. Lo uso desde antes de trabajar aquí 🙂
 >
-> ##### [Prueba sin costo el simulador](https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=edu+ordenar+finanzas+2horas-258), te va a gustar ⚡️
+> ### [Prueba sin costo el simulador](https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=edu+ordenar+finanzas+2horas-258), te va a gustar ⚡️
 
 _Infórmese de las características esenciales de la inversión en estos fondos mutuos, los que se encuentran contenidos en sus reglamentos internos y contratos de suscripción de cuotas._
 
