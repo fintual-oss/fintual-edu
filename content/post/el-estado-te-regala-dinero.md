@@ -1,14 +1,13 @@
 ---
-date: 2018-07-08T16:37:29.000+00:00
+date: 2019-10-14T16:37:29.000+00:00
 description: No, no es el bono marzo.
 image: "/uploads/bank-banking-black-and-white-259209.jpg"
-title: "$290.000 gratis"
+title: "$295.000 gratis"
 categories:
 - educación financiera
 url: "/el-estado-te-regala-dinero/"
-
 ---
-#### El Estado te regala $290.000 en efectivo todos los años.
+#### El Estado te regala $295.000 todos los años.
 
 Sí.
 
@@ -22,24 +21,24 @@ Es para cualquier persona.
 
 <div class="image-wrapper">
 
-<img src="/uploads/donde-pedir.gif" alt="chanchito">
+<img src="/uploads/not-bad-joey-meme.jpg" alt="Joey says not bad">
 
 </div>
+<br>
+El Estado te regala hasta 6 UTM (que son $295.374 a noviembre de 2019) **cada vez que logres ahorrar $1.969.160 durante el año.**
 
-El Estado te regala hasta 6 UTM o $290.118 al año (a diciembre de 2018), todos los años, **si tú logras ahorrar $1.934.120 cada año ($161.176 mensual).**
+Si ahorras menos, igual te regala el 15% de lo que ahorres.
 
-Si ahorras menos, el bono es proporcionalmente menos.
-
-La condición es que ese ahorro lo saques cuando te jubiles.
+La idea es que ese ahorro lo uses para cuando te jubiles.
 
 Puedes sacarlo antes (es tu plata), pero en ese caso perderás el beneficio tributario y deberás devolver la parte que el Estado te dio.
 
 ### ¿Cómo hacerlo?
 
-En Fintual puedes invertir esos $155.000 mensuales o $1.860.000 de una antes del 31 de diciembre y recibir el beneficio.
-
 **Es súper fácil, simple y automatizado.**
 
+Sigue los pasos de inscripción en Fintual, contesta las preguntas y cuando te pregunte para qué quieres ahorrar, contesta "Jubilación con APV". Ahí la idea es invertir lo que puedas antes del 31 de diciembre para aprovechar el beneficio del 15% del 2019.
+
+
 <p style="text-align:center">
-<a class="simulator-page__button btn btn--secondary" href="https://fintual.cl/apv/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=consideration&utm_content=el+estado+te+regala+dinero-136  ">Empezar</a></p>
- {{< newsletter_signup >}}
+<a class="simulator-page__button btn btn--secondary" href="https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=consideration&utm_content=el+estado+te+regala+dinero-136  ">Empezar</a></p>
