@@ -82,6 +82,7 @@ fields:
   hidden: false
   default: true
 pages:
+- content/post/te-cagaste-de-frío-este-invierno.md
 - content/post/auto-o-uber.md
 - content/post/automatizando-tus-finanzas-personales.md
 - content/post/cuánta-plata-debería-tener-en-mi-cuenta-corriente.md
@@ -120,7 +121,6 @@ pages:
 - content/post/finclass-riesgo-y-aleatoriedad-clase-5.md
 - content/post/y-a-mí-qué-me-importa-que-bajen-las-tasas.md
 - content/post/como-ahorrar-para-lo-que-quieres.md
-- content/post/te-cagaste-de-frío-este-invierno.md
 - content/post/clase-9-mercados-y-teoría-de-portafolios.md
 - content/post/te-cuesta-ahorrar.md
 - content/post/4-formas-simples-de-bajar-tus-impuestos-usando-fintual.md
