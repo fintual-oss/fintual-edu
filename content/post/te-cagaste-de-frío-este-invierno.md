@@ -33,8 +33,8 @@ Ejemplo: pagaste $240.000 este invierno. Dividido en 12 meses, deberías ahorrar
 >
 > ##### Es fácil de usar, tiene comisiones bajas y puedes crear todos los objetivos que quieras para ordenarte. Empieza [aquí](https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=no+te+cagues+de+frio-269#empezar).
 
-Otra opción es abrigarte mucho y tratar de no volver a cagarte de frío 🥶  
+Otra opción es abrigarte mucho y tratar de no volver a cagarte de frío 🥶
 
-{{< newsletter_signup >}}  
-  
-I_nfórmese de las características esenciales de la inversión en estos fondos mutuos, los que se encuentran contenidos en sus reglamentos internos y contratos de suscripción de cuotas._
+_Infórmese de las características esenciales de la inversión en estos fondos mutuos, los que se encuentran contenidos en sus reglamentos internos y contratos de suscripción de cuotas._
+
+{{< newsletter_signup >}}
