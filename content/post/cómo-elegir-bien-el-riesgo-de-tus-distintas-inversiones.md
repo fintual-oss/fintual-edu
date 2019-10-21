@@ -72,8 +72,6 @@ _Muchas gracias a Ricardo Díaz por este gráfico._
 
 En otras palabras, tu riesgo se mitiga por el paso del tiempo. Entonces tus inversiones riesgosas, ya no lo son tanto.
 
-Una función muy útil de Fintual es que puedes tener varios objetivos al mismo tiempo, manteniendo las platas separadas en “bolsas” con el nivel de riesgo adecuada a cada una. Y es bacán porque no hay límites a la cantidad de objetivos que puedes tener:
-
 Una función muy útil de Fintual es que puedes tener varios objetivos al mismo tiempo, manteniendo las platas separadas en “bolsas” con el nivel de riesgo adecuada a cada una. Otra cosa bacán es que no hay límites a la cantidad de objetivos que puedes tener:
 
 <div style="text-align:center">
@@ -125,4 +123,4 @@ Así que tranquilo y créenos, así va a quedar más rica la punta de ganso, bah
 > #### Usa nuestro simulador y ve qué es lo que recomendado para ti. [Pruébalo aquí sin costo.](https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=edu+elegir+bien+riesgo+inversion-279)
 
 _Infórmese de las características esenciales de la inversión en estos fondos mutuos, los que se encuentran contenidos en sus reglamentos internos y contratos de suscripción de cuotas._
- {{< newsletter_signup >}}
+{{< newsletter_signup >}}
