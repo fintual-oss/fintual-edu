@@ -32,9 +32,9 @@ Para cambiarte a Fintual, puedes pedir un traspaso de fondo desde la institució
 
 ### **3. Reliquidación de sueldo**
 
-Si eres un **trabajador dependiente** y tienes un sueldo que varía todos los meses (por ejemplo, por comisiones o bonos) puede que se te haya aplicado una tasa de impuestos más alta que la que te corresponde —por los meses que más ganaste— considerando la totalidad de tus ingresos durante el año.
+Si eres un **trabajador dependiente con un sólo empleador** y tienes un sueldo que varía todos los meses (por ejemplo, por comisiones o bonos) puede que se te haya aplicado una tasa de impuestos más alta que la que te corresponde —por los meses que más ganaste— considerando la totalidad de tus ingresos durante el año.
 
-Con la reliquidación de sueldo puedes obtener la devolución de los impuestos pagados en exceso tan sólo invirtiendo un peso en fondos mutuos.
+Con la reliquidación de sueldo puedes obtener la devolución de los impuestos pagados en exceso tan sólo invirtiendo $1 en nuestra serie APV.
 
 Por ejemplo: tu sueldo mensual es de $1.000.000, pero en julio y diciembre ganaste un bono de $5.000.000.
 
