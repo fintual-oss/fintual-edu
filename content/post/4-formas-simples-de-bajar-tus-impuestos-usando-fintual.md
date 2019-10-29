@@ -1,13 +1,13 @@
 +++
 aliases = []
 author = "Gonzalo Enei"
-categories = []
+categories = ["educación financiera"]
 date = "2019-09-25T16:22:00+00:00"
-description = "¿Quieres bajar los impuestos que pagas? Hay beneficios tributarios que todos los usuarios de Fintual podrían aprovechar."
+description = "Hay beneficios tributarios que todos los usuarios de Fintual podrían aprovechar."
 hide = false
 image = "/uploads/Post Edu Impuestos.png"
 title = "4 beneficios tributarios que puedes aprovechar si usas Fintual"
-url = "4-formas-de-bajar-tus-impuestos"
+url = "4-beneficios-tributarios-si-usas-fintual"
 
 +++
 Hay **beneficios tributarios** que todos los usuarios de Fintual podrían aprovechar.
