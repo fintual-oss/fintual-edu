@@ -32,7 +32,7 @@ Para cambiarte a Fintual, puedes pedir un traspaso de fondo desde la institució
 
 ### **3. Reliquidación de sueldo**
 
-Si eres un **trabajador dependiente** y tienes un sueldo que varía todos los meses (por ejemplo, por comisiones o bonos) puede que te hayan aplicado una tasa de impuestos más alta que la que te corresponde —por los meses que más ganaste— considerando la totalidad de tus ingresos durante el año.
+Si eres un **trabajador dependiente** y tienes un sueldo que varía todos los meses (por ejemplo, por comisiones o bonos) puede que se te haya aplicado una tasa de impuestos más alta que la que te corresponde —por los meses que más ganaste— considerando la totalidad de tus ingresos durante el año.
 
 Con la reliquidación de sueldo puedes obtener la devolución de los impuestos pagados en exceso tan sólo invirtiendo un peso en fondos mutuos.
 
@@ -64,7 +64,7 @@ Más info en [www.fintual.com/apv](https://fintual.cl/apv/?utm_source=edu&utm_me
 
 Usar algunos de estos beneficios ahora depende de ti, ya tú sae' 😏
 
-> #### Fintual es una forma simple de invertir. Optimiza tus finanzas y ve crecer tu dinero en el tiempo.
+> #### Fintual es una forma simple de invertir. Potencia tus finanzas y ve crecer tu dinero en el tiempo.
 >
 > #### [Prueba sin costo nuestro simulador](https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=edu+beneficios+tributarios+fintual-281) y ve cuál es la mejor opción para ti. No hay montos mínimos.
 
