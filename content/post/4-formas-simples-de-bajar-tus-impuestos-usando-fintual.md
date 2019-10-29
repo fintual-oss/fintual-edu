@@ -6,11 +6,11 @@ date = "2019-09-25T16:22:00+00:00"
 description = "¿Quieres bajar los impuestos que pagas? Hay beneficios tributarios que todos los usuarios de Fintual podrían aprovechar."
 hide = false
 image = "/uploads/Post Edu Impuestos.png"
-title = "4 formas simples de bajar tus impuestos usando Fintual"
+title = "4 beneficios tributarios que puedes aprovechar si usas Fintual"
 url = "4-formas-de-bajar-tus-impuestos"
 
 +++
-¿Quieres bajar los impuestos que pagas? Hay **beneficios tributarios** que todos los usuarios de Fintual podrían aprovechar.
+Hay **beneficios tributarios** que todos los usuarios de Fintual podrían aprovechar.
 
 <div style="text-align:center">
 <figure>
@@ -70,4 +70,4 @@ Usar algunos de estos beneficios ahora depende de ti, ya tú sae' 😏
 
 _Infórmese de las características esenciales de la inversión en estos fondos mutuos, los que se encuentran contenidos en sus reglamentos internos y contratos de suscripción de cuotas._
 
- {{< newsletter_signup >}}
+{{< newsletter_signup >}}
