@@ -6,7 +6,7 @@ date = "2019-10-30T14:35:39+00:00"
 description = "Supuestos simulaciones"
 hide = true
 image = ""
-title = "Supuestos simulaciones"
+title = "Supuestos de proyecciones"
 url = "simulaciones-mail-apv-octubre-2019"
 
 +++
