@@ -4,7 +4,6 @@ author = "Gonzalo Enei"
 categories = []
 date = "2019-10-30T14:35:39+00:00"
 description = "Supuestos simulaciones"
-draft = true
 hide = true
 image = ""
 title = "Supuestos simulaciones"
