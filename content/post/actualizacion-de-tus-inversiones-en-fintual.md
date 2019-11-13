@@ -4,9 +4,8 @@ author = "Omar Larré"
 categories = ["noticias"]
 date = 2019-11-13T14:16:46Z
 description = "La contingencia en Chile ha causado movimientos bruscos en los portafolios de Fintual. Queremos explicarte qué está pasando con tus inversiones y aconsejarte qué ."
-draft = true
 hide = false
-image = "/uploads/stop.jpg"
+image = "/uploads/Diseño sin título.png"
 title = "Actualización de tus inversiones en Fintual"
 url = "actualizacion-de-tus-inversiones-en-Fintual"
 
