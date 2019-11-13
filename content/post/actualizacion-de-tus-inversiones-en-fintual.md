@@ -17,7 +17,7 @@ Vamos a hablar de cada una de ellas, además de explicar cómo se relacionan ent
 
 Algo que nos parece importante recalcar es que **no deberías cambiar tu plan de inversión por estos movimientos**. Las carteras están bien posicionadas, con activos que han ganado valor y, si lo han perdido, tienen buen potencial de recuperarlo.
 
-La primera variable que revisaremos es **el tipo de cambio dólar contra peso (USD/CLP), que ha afectado de forma positiva los portafolios de riesgo moderado y arriesgado__, especialmente a nuestro fondo Risky Norris__.**
+La primera variable que revisaremos es **el tipo de cambio dólar contra peso (USD/CLP), que ha afectado de forma positiva los portafolios de riesgo moderado y arriesgado, especialmente a nuestro fondo Risky Norris.**
 
 1. **Tipo de cambio USD/CLP ⬆️ 🙂**
 
@@ -31,7 +31,7 @@ El mismo día, el Banco Central de Chile [publicó un comunicado](https://www.bc
 
 **Una gran consecuencia del alza del dólar es sobre las expectativas de inflación.** En general, con una devaluación de 10%, uno debiese esperar que varios productos –en especial los importados– suban de precio, traduciéndose en un 1% a 1,5% de inflación adicional dentro de los próximos meses (si es que los niveles actuales se mantienen).
 
-2. **Renta fija local ⬇️ 😢**
+1. **Renta fija local ⬇️ 😢**
 
 Hablemos ahora de los portafolios de bajo riesgo que se han visto afectados, en especial de la renta fija local, compuesta por instrumentos como bonos o depósitos a plazo. En nuestros portafolios, **los más afectados negativamente son los conformados por el fondo Conservative Clooney.**
 
@@ -53,7 +53,7 @@ Pese a los históricamente bruscos movimientos de precios a la baja en este tipo
 
 ![Tasas de bonos de gobierno de Chile en UF a 10 años desde julio de este año. Se destaca el periodo desde mediados de octubre.](/uploads/BCU.png)_Tasas de bonos de gobierno de Chile en UF a 10 años desde julio de este año. Se destaca el periodo desde mediados de octubre._
 
-3. **Acciones internacionales USA ⬆️**🙂
+1. **Acciones internacionales USA ⬆️**🙂
 
 En el mismo intervalo de tiempo, es decir, desde mediados de octubre, las acciones internacionales han tenido buen desempeño. Destacamos los ETF que replican al índice de acciones de USA, como el IVV, que han tenido alzas de precios de alrededor de 4% en este periodo.
 
