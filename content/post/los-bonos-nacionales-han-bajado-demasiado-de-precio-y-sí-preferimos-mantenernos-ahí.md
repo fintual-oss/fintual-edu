@@ -35,7 +35,7 @@ Ahora, ¿por qué las tasas de interés subieron, haciendo bajar los precios de 
 
 Pese a los históricamente bruscos movimientos de precios a la baja en este tipo de activos, **en adelante esperamos que renten mejor**, ya que 1) los mayores ajustes a la baja del precio de bonos al parecer ya ocurrieron a un punto casi sin sentido y 2) gran parte de los activos en estas carteras son bonos en UF, es decir, estarían protegidos ante alzas de inflación.
 
-​![](/uploads/BCU.png)​
+​![Tasas de bonos de gobierno de Chile en UF a 10 años desde julio de este año. Se destaca el periodo desde mediados de octubre.](/uploads/BCU.png)_Tasas de bonos de gobierno de Chile en UF a 10 años desde julio de este año. Se destaca el periodo desde mediados de octubre._
 
 Quitando los bonos emitidos por el gobierno, **los bonos más seguros en términos de riesgo de crédito** (también conocidos como “riesgo de no pago”) **son los bonos bancarios de clasificación AAA**, que es la mejor clasificación de riesgo de crédito que existe. Es decir, son los bonos de empresas más seguras.
 
