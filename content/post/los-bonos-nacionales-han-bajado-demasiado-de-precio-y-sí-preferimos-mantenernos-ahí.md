@@ -55,9 +55,9 @@ Démosle un tiempo para que se recomponga.
 
 <img src="/uploads/clooney.gif">
 
-</figure> 
-
 <em> Clooney complicao </em>
+
+</figure> 
 
 </div>
 
