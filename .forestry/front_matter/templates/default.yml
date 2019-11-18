@@ -82,12 +82,12 @@ fields:
   hidden: false
   default: true
 pages:
-- content/post/actualización-de-tus-inversiones-en-fintual.md
 - content/post/supuestos-simulaciones.md
+- content/post/automatizando-tus-finanzas-personales.md
+- content/post/actualización-de-tus-inversiones-en-fintual.md
+- content/post/te-cagaste-de-frío-este-invierno.md
 - content/post/4-formas-simples-de-bajar-tus-impuestos-usando-fintual.md
 - content/post/cómo-elegir-bien-el-riesgo-de-tus-distintas-inversiones.md
-- content/post/automatizando-tus-finanzas-personales.md
-- content/post/te-cagaste-de-frío-este-invierno.md
 - content/post/auto-o-uber.md
 - content/post/cuánta-plata-debería-tener-en-mi-cuenta-corriente.md
 - content/post/finclass-finanzas-aplicadas-y-fintech-clase-1.md
