@@ -49,8 +49,16 @@ En la cartera de nuestro fondo Conservative Clooney tenemos bastante de estos ti
 
 Démosle un tiempo para que se recomponga.
 
-<div style="text-align:center"> <figure> <img src="/uploads/clooney.gif"> </figure> </div>
+<div style="text-align:center"> 
+
+<figure> 
+
+<img src="/uploads/clooney.gif">
+
+</figure> 
 
 <em> Clooney complicao </em>
+
+</div>
 
 ​
