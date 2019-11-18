@@ -15,7 +15,7 @@ Tenemos un nuevo update, ahora en relación al fondo Conservative Clooney.
 **¿No tienes mucho tiempo para leer? Un pequeño resumen:**  
 Nuestro fondo Conservative Clooney es el que peor lo ha pasado este último tiempo, pero en su cartera hay bonos de buena clasificación (o seguros en términos de riesgo de crédito), de plazos de 2 a 5 años, y **en UF**, así que estimamos que, **pese a que ha andado mal, tiene activos de mucho valor y sí, preferimos mantenernos ahí.**
 
-**De hecho, esta baja debería revertirse (es decir, subir) hoy lunes 18 de noviembre 📈**
+**De hecho, esta baja debería revertirse (es decir, subir) este lunes 18 de noviembre 📈**
 
 **Ahora, si tienes tiempo para leer toda la explicación:**  
 Los bonos nacionales han bajado de precio con los movimientos del mercado en las últimas semanas y uno de los mayores perjudicados en este momento es nuestro querido fondo **Conservative Clooney.**
