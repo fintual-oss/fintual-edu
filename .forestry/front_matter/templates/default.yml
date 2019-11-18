@@ -82,6 +82,7 @@ fields:
   hidden: false
   default: true
 pages:
+- content/landing/cuál-es-la-diferencia-entre-afp-y-apv.md
 - content/post/supuestos-simulaciones.md
 - content/post/automatizando-tus-finanzas-personales.md
 - content/post/actualización-de-tus-inversiones-en-fintual.md
