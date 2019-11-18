@@ -21,8 +21,8 @@ Nuestro fondo Conservative Clooney es el que peor lo ha pasado este último tiem
 \**Ahora, si tienes tiempo para leer toda la explicación:  
 \**Los bonos nacionales han bajado de precio con los movimientos del mercado en las últimas semanas y uno de los mayores perjudicados en este momento es nuestro querido fondo **Conservative Clooney.**
 
-Clooney es nuestro **fondo conservador recomendado para plazos mayores a un año** y está basado principalmente en bonos de gobierno y bonos de empresas de buena clasificación. Estos bonos han sido extremadamente castigados en su precio, a un punto un tanto irracional, así que estimamos que **actualmente** **dentro del fondo hay bonos realmente valiosos.**  
-  
+Clooney es nuestro **fondo conservador recomendado para plazos mayores a un año** y está basado principalmente en bonos de gobierno y bonos de empresas de buena clasificación. Estos bonos han sido extremadamente castigados en su precio, a un punto un tanto irracional, así que estimamos que **actualmente** **dentro del fondo hay bonos realmente valiosos.**
+
 Las tasas de interés de mercado han subido desde mediados de octubre pasado, lo que hace que caiga el precio de los instrumentos de renta fija (como los bonos de gobierno y empresas). Así es como funciona: **cuando las tasas de interés de los bonos suben, los precios bajan**.
 
 Ahora, ¿por qué las tasas de interés subieron, haciendo bajar los precios de bonos? Algunas de las razones son:
@@ -44,7 +44,6 @@ Un ejemplo: si el plazo de uno de estos bonos es dos años y la inflación dentr
 
 Nada mal comparado a un depósito a plazo, ¿o no? **El problema es que para llegar a estos niveles de tasas de interés tan convenientes se tuvo que perder mucho valor en el camino.**
 
-  
 ![Las tasas de interés de bonos bancarios AAA (el mejor nivel de crédito) llegaron a un promedio sobre UF+3%.](/uploads/tasadeinteres.png)_Las tasas de interés de bonos bancarios AAA (el mejor nivel de crédito) llegaron a un promedio sobre UF+3%._
 
 En la cartera de nuestro fondo Conservative Clooney tenemos bastante de estos tipos de bonos, de buena clasificación, de plazos de 2 a 5 años, y **en UF**, así que estimamos que **pese a que Conservative Clooney ha andado mal, dentro tiene mucho valor.**
@@ -52,5 +51,3 @@ En la cartera de nuestro fondo Conservative Clooney tenemos bastante de estos ti
 Démosle un tiempo para que se recomponga.
 
 ​![](https://miro.medium.com/max/664/0*RTmbX5Xlk1Sa2sxd.gif)​
-
-Esperamos que esto sirva para que tengas más tranquilidad con respecto a tus inversiones. Saludos.
