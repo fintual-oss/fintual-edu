@@ -44,9 +44,8 @@ Un ejemplo: si el plazo de uno de estos bonos es dos años y la inflación dentr
 
 Nada mal comparado a un depósito a plazo, ¿o no? **El problema es que para llegar a estos niveles de tasas de interés tan convenientes se tuvo que perder mucho valor en el camino.**
 
-​![](https://miro.medium.com/max/1512/1*FaJ38DzXH6yTYtCrMYUVtA.png)​
-
-_Las tasas de interés de bonos bancarios AAA (el mejor nivel de crédito) llegaron a un promedio sobre UF+3%._
+  
+![Las tasas de interés de bonos bancarios AAA (el mejor nivel de crédito) llegaron a un promedio sobre UF+3%.](/uploads/tasadeinteres.png)_Las tasas de interés de bonos bancarios AAA (el mejor nivel de crédito) llegaron a un promedio sobre UF+3%._
 
 En la cartera de nuestro fondo Conservative Clooney tenemos bastante de estos tipos de bonos, de buena clasificación, de plazos de 2 a 5 años, y **en UF**, así que estimamos que **pese a que Conservative Clooney ha andado mal, dentro tiene mucho valor.**
 
