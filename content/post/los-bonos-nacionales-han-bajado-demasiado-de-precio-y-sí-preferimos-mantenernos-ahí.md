@@ -16,14 +16,13 @@ Tenemos un nuevo update, ahora en relación al fondo Conservative Clooney.
 **¿No tienes mucho tiempo para leer? Un pequeño resumen:**  
 Nuestro fondo Conservative Clooney es el que peor lo ha pasado este último tiempo, pero en su cartera hay bonos de buena clasificación (o seguros en términos de riesgo de crédito), de plazos de 2 a 5 años, y **en UF**, así que estimamos que, **pese a que ha andado mal, tiene activos de mucho valor y sí, preferimos mantenernos ahí.**
 
-  
 **De hecho, esta baja debería revertirse (es decir, subir) hoy lunes 18 de noviembre 📈**
 
-**Ahora, si tienes tiempo para leer toda la explicación:  
-**Los bonos nacionales han bajado de precio con los movimientos del mercado en las últimas semanas y uno de los mayores perjudicados en este momento es nuestro querido fondo **Conservative Clooney.**
+\**Ahora, si tienes tiempo para leer toda la explicación:  
+\**Los bonos nacionales han bajado de precio con los movimientos del mercado en las últimas semanas y uno de los mayores perjudicados en este momento es nuestro querido fondo **Conservative Clooney.**
 
-Clooney es nuestro **fondo conservador recomendado para plazos mayores a un año** y está basado principalmente en bonos de gobierno y bonos de empresas de buena clasificación. Estos bonos han sido extremadamente castigados en su precio, a un punto un tanto irracional, así que estimamos que **actualmente** **dentro del fondo hay bonos realmente valiosos.  
-**  
+Clooney es nuestro **fondo conservador recomendado para plazos mayores a un año** y está basado principalmente en bonos de gobierno y bonos de empresas de buena clasificación. Estos bonos han sido extremadamente castigados en su precio, a un punto un tanto irracional, así que estimamos que **actualmente** **dentro del fondo hay bonos realmente valiosos.**  
+  
 Las tasas de interés de mercado han subido desde mediados de octubre pasado, lo que hace que caiga el precio de los instrumentos de renta fija (como los bonos de gobierno y empresas). Así es como funciona: **cuando las tasas de interés de los bonos suben, los precios bajan**.
 
 Ahora, ¿por qué las tasas de interés subieron, haciendo bajar los precios de bonos? Algunas de las razones son:
@@ -55,5 +54,4 @@ Démosle un tiempo para que se recomponga.
 
 ​![](https://miro.medium.com/max/664/0*RTmbX5Xlk1Sa2sxd.gif)​
 
-  
 Esperamos que esto sirva para que tengas más tranquilidad con respecto a tus inversiones. Saludos.
