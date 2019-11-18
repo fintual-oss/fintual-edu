@@ -7,7 +7,7 @@ description = "Explica la diferencia entre APV y AFP"
 hide = false
 image = ""
 title = "Cuál es la diferencia entre AFP y APV"
-url = "diferencia-entre-apv-y-afp"
+url = "/diferencia-entre-apv-y-afp/"
 
 +++
 Son cosas muy distintas:
