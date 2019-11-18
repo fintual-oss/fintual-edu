@@ -4,7 +4,6 @@ author = "Omar Larré"
 categories = []
 date = 2019-11-18T14:45:56Z
 description = ""
-draft = true
 hide = false
 image = "/uploads/clooney.jpg"
 title = "Los bonos nacionales han bajado demasiado de precio y sí, preferimos mantenernos ahí"
@@ -50,4 +49,6 @@ En la cartera de nuestro fondo Conservative Clooney tenemos bastante de estos ti
 
 Démosle un tiempo para que se recomponga.
 
-​![](https://miro.medium.com/max/664/0*RTmbX5Xlk1Sa2sxd.gif)​
+<div style="text-align:center"> <figure> <img src="/uploads/clooney.gif"> </figure> </div>
+
+​
