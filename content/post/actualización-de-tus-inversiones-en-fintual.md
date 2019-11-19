@@ -5,7 +5,7 @@ categories = []
 date = 2019-11-13T15:21:09Z
 description = "La contingencia en Chile ha causado movimientos bruscos en los portafolios de Fintual. Queremos explicarte qué está pasando y por qué no deberías cambiar tu plan de inversión."
 hide = false
-image = "/uploads/stop.jpg"
+image = "/uploads/stop.png"
 title = "Actualización de tus inversiones en Fintual"
 url = "tus-inversiones-en-fintual"
 
