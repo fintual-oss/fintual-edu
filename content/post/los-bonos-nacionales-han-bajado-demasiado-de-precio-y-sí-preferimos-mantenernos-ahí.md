@@ -1,7 +1,7 @@
 +++
 aliases = []
 author = "Omar Larré"
-categories = ["educación financiera"]
+categories = ["noticias"]
 date = 2019-11-18T14:45:56Z
 description = "Pese a que ha andado mal, Clooney tiene activos de mucho valor y ya está empezando a recuperarse."
 hide = false
