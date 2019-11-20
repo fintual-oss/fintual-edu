@@ -82,9 +82,9 @@ fields:
   hidden: false
   default: true
 pages:
+- content/landing/cuál-es-la-diferencia-entre-afp-y-apv.md
 - content/post/los-bonos-nacionales-han-bajado-demasiado-de-precio-y-sí-preferimos-mantenernos-ahí.md
 - content/post/actualización-de-tus-inversiones-en-fintual.md
-- content/landing/cuál-es-la-diferencia-entre-afp-y-apv.md
 - content/post/supuestos-simulaciones.md
 - content/post/automatizando-tus-finanzas-personales.md
 - content/post/te-cagaste-de-frío-este-invierno.md
