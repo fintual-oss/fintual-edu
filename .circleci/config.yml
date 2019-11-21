@@ -3,9 +3,9 @@ jobs:
   build:
     docker:
       - image: cibuilds/hugo:latest
-    working_directory: ~/fintual-edu
+    working_directory: ~/hugo
     environment:
-      HUGO_BUILD_DIR: ~/fintual-edu/public
+      HUGO_BUILD_DIR: ~/hugo/public
     steps:
 
       # install git
