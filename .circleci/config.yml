@@ -3,9 +3,9 @@ jobs:
   build:
     docker:
       - image: cibuilds/hugo:latest
-    working_directory: ~/hugo
+    working_directory: ~/fintual-edu
     environment:
-      HUGO_BUILD_DIR: ~/hugo/public
+      HUGO_BUILD_DIR: ~/fintual-edu/public
     steps:
 
       # install git
@@ -39,7 +39,7 @@ jobs:
           command: |
             if [ "${CIRCLE_BRANCH}" = "master-mx" ]; then
               aws s3 sync $HUGO_BUILD_DIR \
-              s3://your-bucket-name/your-subfolder --delete
+              s3://edu.fintual.mx/ --delete
             else
               echo "Not master branch, dry run only"
             fi
