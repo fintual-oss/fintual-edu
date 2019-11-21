@@ -20,7 +20,7 @@ jobs:
             apt-get install software-properties-common
             apt-add-repository universe
             apt-get update
-            apt-get install python python-dev py-pip build-base
+            apt-get install python python-dev python-pip build-base
             pip install awscli
 
       # build with Hugo
