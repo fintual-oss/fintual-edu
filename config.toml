@@ -1,9 +1,9 @@
-baseURL = "https://edu.fintual.cl"
+baseURL = "https://edu.fintual.mx"
 title = "EDU Fintual"
 preserveTaxonomyNames = true
 theme = "mediumish"
-copyright = " 2019 | fintual.com "
-languageCode = "es-cl"
+copyright = " 2019 | fintual.mx "
+languageCode = "es-mx"
 summaryLength = 15
 removePathAccents = false
 
@@ -36,21 +36,9 @@ sharingicons = false
     [params.writers."Francesca Finaldi"]
     name = "Francesca Finaldi"
     thumbnail = "/uploads/francesca_finaldi.jpg"
-    [params.writers."Francisca Feuerhake"]
-    name = "Francisca Feuerhake"
-    thumbnail = "/uploads/francisca_feuerhake.jpg"
     [params.writers."Juan Francisco Weitz"]
     name = "Juan Francisco Weitz"
     thumbnail = "/uploads/jf.png"
-    [params.writers."Ignacia Palma"]
-    name = "Ignacia Palma"
-    thumbnail = "/uploads/ignacia.jpg"
-    [params.writers."Cristóbal Fredes"]
-    name = "Cristóbal Fredes"
-    thumbnail = "/uploads/cristobal_fredes.jpeg"
-    [params.writers."Paula Droguett"]
-    name= "Paula Droguett"
-    thumbnail= "/uploads/paula_droguett.jpeg"
     [params.writers."Matías Hurtado"]
     name= "Matías Hurtado"
     thumbnail= "/uploads/matias_hurtado.jpg"
