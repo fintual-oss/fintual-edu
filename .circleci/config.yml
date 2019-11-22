@@ -3,9 +3,9 @@ jobs:
   build:
     docker:
       - image: cibuilds/hugo:latest
-    working_directory: ~/hugo
+    working_directory: ~/fintual-edu
     environment:
-      HUGO_BUILD_DIR: ~/hugo/
+      HUGO_BUILD_DIR: ~/fintual-edu/public
     steps:
 
       # checkout the repository
