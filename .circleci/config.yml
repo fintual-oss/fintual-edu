@@ -1,5 +1,14 @@
-version: 2
+version: 2.1
+orbs:
+  aws-cli: circleci/aws-cli@x.y
 jobs:
+  aws-cli-config:
+    executor: aws-cli/default
+    steps:
+      - checkout
+      - aws-cli/setup:
+          profile-name: config
+      - run: echo "Run your code here"
   build:
     docker:
       - image: cibuilds/hugo:latest
