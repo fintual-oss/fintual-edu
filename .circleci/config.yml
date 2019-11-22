@@ -1,20 +1,5 @@
-version: 2.1
-orbs:
-  aws-cli: circleci/aws-cli@0.1.18
+version: 2
 jobs:
-  aws-cli-config:
-    executor: aws-cli/default
-    steps:
-      - checkout
-      - aws-cli/setup:
-          profile-name: config
-          name: Configure AWS Access Key ID
-          command: |
-            source ${BASH_ENV}
-            aws configure set aws_access_key_id \
-            $AWS_PROD_ACCESS_KEY_ID \
-            --profile $PROFILE_NAME
-            echo "Print the value for $AWS_PROD_ACCESS_KEY_ID $AWS_PROD_SECRET_ACCESS_KEY"
   build:
     docker:
       - image: cibuilds/hugo:latest
@@ -38,7 +23,12 @@ jobs:
 
       # build with Hugo
       - run: HUGO_ENV=production hugo -v -d $HUGO_BUILD_DIR
- 
+      - run:
+          name: AWS configure
+          command: |
+            pipenv run  aws configure set aws_access_key_id $AWS_ACCESS_KEY_ID
+            pipenv run  aws configure set aws_secret_access_key $AWS_SECRET_ACCESS_KEY
+            cp .circleci/aws_config ~/.aws/config
 #      - run:
 #          name: test our generated HTML files
 #          command: |
