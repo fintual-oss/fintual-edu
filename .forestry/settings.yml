@@ -11,7 +11,7 @@ sections:
   match: "**/*"
 - type: directory
   path: content/post
-  label: Posts
+  label: Postsa
   create: all
   match: "**/*"
 - type: directory
