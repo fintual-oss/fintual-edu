@@ -23,12 +23,7 @@ jobs:
 
       # build with Hugo
       - run: HUGO_ENV=production hugo -v -d $HUGO_BUILD_DIR
-      - run:
-          name: AWS configure
-          command: |
-            pipenv run  aws configure set aws_access_key_id $AWS_ACCESS_KEY_ID
-            pipenv run  aws configure set aws_secret_access_key $AWS_SECRET_ACCESS_KEY
-            cp .circleci/aws_config ~/.aws/config
+ 
 #      - run:
 #          name: test our generated HTML files
 #          command: |
@@ -40,9 +35,9 @@ jobs:
       - deploy:
           name: deploy to AWS
           command: |
-            if [ "${CIRCLE_BRANCH}" = "config-mx" ]; then
+            if [ "${CIRCLE_BRANCH}" = "master-mx" ]; then
               aws s3 sync $HUGO_BUILD_DIR \
               s3://edu.fintual.mx/ --delete
             else
-              echo "Not master branch, dry run only"
+              echo "Not master mx branch, dry run only"
             fi
