@@ -1,7 +1,7 @@
 <style type="text/css">
-  @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,700,700italic);
+  @import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
 </style>
-<style type="text/css">
+<!-- <style type="text/css">
   /* LOADER */
   		.ml-form-embedSubmitLoad {
   		  display: inline-block;
@@ -328,62 +328,186 @@
           .ml-form-formContent.horozintalForm .ml-button-horizontal { width: 100%!important; }
 
         }
+</style> -->
+<style type="text/css">
+.cta-cards-container {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.cta-card {
+  overflow:visible;
+  font-family: Poppins;
+  font-size: 16px;
+  line-height: 19.2px;
+
+  padding-left: 16px;
+  padding-right: 20px;
+  background: #FFFFFF;
+  box-shadow: 0 2px 1px -1px rgba(0,0,0,0.20), 0 1px 1px 0 rgba(0,0,0,0.14), 0 1px 3px 0 rgba(0,0,0,0.12);
+  border-radius: 12px;
+  margin:33px 0;
+  text-align: left;
+}
+@media (min-width: 1200px) {
+  .cta-card {
+    width:296px;
+    height: 283px;
+  }
+}
+
+@media (max-width: 1200px) {
+  .cta-card {
+    width:100%;
+    height: 240px;
+  }
+}
+
+.cta-card h4 {
+  margin:23px 0 10px 0;
+  font-family: Poppins;
+}
+.cta-card p {
+margin: 0;
+padding:0;
+}
+
+.cta-card--newsletter {
+  width: 338px;
+  height: 283px;
+  padding-left: 16px;
+  padding-right: 28px;
+  background: #FFFFFF;
+  box-shadow: 0 2px 1px -1px rgba(0,0,0,0.20), 0 1px 1px 0 rgba(0,0,0,0.14), 0 1px 3px 0 rgba(0,0,0,0.12);
+  border-radius: 12px;
+}
+.cta-card--empezar {
+  color:white;
+  background-image: linear-gradient(270deg, #3985EE 0%, #005AD6 100%);
+  display: flex;
+  flex-direction: column;
+}
+
+.cta-input {
+  width: 100%;
+  height: 56px;
+  background: #F3F4F8;
+  border-radius: 12px;
+  border:0;
+  margin:10px 0 16px 0;
+}
+
+.cta-button {
+  color:white;
+  border:0;
+  width: 100%;
+  height: 36px;
+  background-image: linear-gradient(270deg, #3985EE 0%, #005AD6 100%);
+  box-shadow: 0 2px 1px -1px rgba(0,0,0,0.20), 0 1px 1px 0 rgba(0,0,0,0.14), 0 1px 3px 0 rgba(0,0,0,0.12);
+  border-radius: 18px;
+  margin-bottom: 30px;
+}
+
+
+.cta-button--empezar {
+  border:1px solid white;
+  box-shadow: none;
+}
+
+.inside-empezar {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  flex: 1;
+}
+
 </style>
-<div id="mlb2-1527170" class="ml-form-embedContainer ml-subscribe-form ml-subscribe-form-1527170">
-  <div class="ml-form-align-center ">
-    <div class="ml-form-embedWrapper embedForm">
-      <div class="ml-form-embedBody ml-form-embedBodyDefault row-form">
-        <div class="ml-form-embedContent" style=" ">
-          <h4>¿Te gustó leernos?</h4>
-          <p>Aprende de finanzas e inversiones, con ideas de negocio, tips para ahorrar y mucho más.<br>Nunca más de 1 a la semana y si te arrepientes, te puedes salir con un solo clic<strong>.</strong></p>
-        </div>
-        <form class="ml-block-form" action="https://app.mailerlite.com/webforms/submit/h9b1k0" data-code="h9b1k0" method="post" target="_blank">
-          <div class="ml-form-formContent">
-            <div class="ml-form-fieldRow ml-last-item">
-              <div class="ml-field-group ml-field-email ml-validate-email ml-validate-required">
-                <input type="email" class="form-control" data-inputmask="" name="fields[email]" value="" placeholder="Tu email">
+
+<div class="cta-cards-container">
+
+  <div class="cta-card cta-card--newletter">
+
+
+  <div id="mlb2-1527170" class="ml-form-embedContainer ml-subscribe-form ml-subscribe-form-1527170">
+    <div class="ml-form-align-center ">
+      <div class="ml-form-embedWrapper embedForm">
+        <div class="ml-form-embedBody ml-form-embedBodyDefault row-form">
+          <div class="ml-form-embedContent" style=" ">
+            <h4>¿Te gustó leernos?</h4>
+            <p>Aprende de finanzas e inversiones, con ideas de negocio, tips para ahorrar y mucho más.</p>
+          </div>
+          <form class="ml-block-form" action="https://app.mailerlite.com/webforms/submit/h9b1k0" data-code="h9b1k0" method="post" target="_blank">
+            <div class="ml-form-formContent">
+              <div class="ml-form-fieldRow ml-last-item">
+                <div class="ml-field-group ml-field-email ml-validate-email ml-validate-required">
+                  <input type="email" class="form-control cta-input" data-inputmask="" name="fields[email]" value="" placeholder="Tu email">
+                </div>
               </div>
             </div>
-          </div>
-          <style type="text/css">
-            .ml-form-recaptcha {
-              margin-bottom: 20px;
-              float: left;
-            }
-
-            .ml-form-recaptcha.ml-error iframe {
-              border: solid 1px #ff0000;
-            }
-
-            @media screen and (max-width: 768px) {
+            <style type="text/css">
               .ml-form-recaptcha {
-                transform: scale(0.77);
-                -webkit-transform: scale(0.77);
-                transform-origin: 0 0;
-                -webkit-transform-origin: 0 0;
+                margin-bottom: 20px;
+                float: left;
               }
-            }
-          </style>
-          <input type="hidden" name="ml-submit" value="1">
-          <div class="ml-form-embedSubmit">
-            <button type="submit" class="primary">Inscribir</button>
-            <button disabled="disabled" style="display: none;" type="button" class="loading">
-
-                  <div class="ml-form-embedSubmitLoad"><div></div><div></div><div></div><div></div></div>
-
-                </button>
+  
+              .ml-form-recaptcha.ml-error iframe {
+                border: solid 1px #ff0000;
+              }
+  
+              @media screen and (max-width: 768px) {
+                .ml-form-recaptcha {
+                  transform: scale(0.77);
+                  -webkit-transform: scale(0.77);
+                  transform-origin: 0 0;
+                  -webkit-transform-origin: 0 0;
+                }
+              }
+            </style>
+            <input type="hidden" name="ml-submit" value="1">
+            <div class="ml-form-embedSubmit">
+              <button type="submit" class="primary cta-button">Subscribir</button>
+              <button disabled="disabled" style="display: none;" type="button" class="loading">
+  
+                    <div class="ml-form-embedSubmitLoad"><div></div><div></div><div></div><div></div></div>
+  
+                  </button>
+            </div>
+          </form>
+        </div>
+        <div class="ml-form-successBody row-success" style="display: none">
+          <div class="ml-form-successContent">
+            <h4>Listoco :X</h4>
+            <p>Hasta leernos pronto.</p>
           </div>
-        </form>
-      </div>
-      <div class="ml-form-successBody row-success" style="display: none">
-        <div class="ml-form-successContent">
-          <h4>Listoco :X</h4>
-          <p>Hasta leernos pronto.</p>
         </div>
       </div>
     </div>
   </div>
+
 </div>
+
+<div class="cta-card cta-card--empezar">
+
+  <h4>Prueba Fintual</h4>
+
+  <div class="inside-empezar">
+<p>  Más inteligente que dejar el dinero en el banco.</p>
+  <button class="cta-button cta-button--empezar">Empezar</button> 
+</div>
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+
+
 <script>
   function ml_webform_success_1527170() {
       var $ = ml_jQuery || jQuery;
