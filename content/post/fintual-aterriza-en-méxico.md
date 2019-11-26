@@ -1,7 +1,7 @@
 +++
 aliases = []
 author = "Agustín Feuerhake"
-categories = []
+categories = ["educación financiera"]
 date = 2019-11-26T04:23:30Z
 description = ""
 hide = false
