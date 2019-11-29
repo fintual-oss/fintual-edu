@@ -5,7 +5,7 @@ categories = ["noticias"]
 date = 2019-11-29T21:28:26Z
 description = "El Banco Central contempla intervenir el mercado con un monto de hasta 20 mil millones de dólares"
 hide = false
-image = "/uploads/dollarbc.jpg"
+image = "/uploads/Blog.png"
 title = "El Banco Central de Chile decide intervenir el nivel de tipo de cambio"
 url = "banco-central-interviene-tipo-de-cambio"
 
