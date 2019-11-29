@@ -1,7 +1,7 @@
 +++
 aliases = []
 author = "Omar Larré"
-categories = []
+categories = ["noticias"]
 date = 2019-11-29T21:28:26Z
 description = "El Banco Central contempla intervenir el mercado con un monto de hasta 20 mil millones de dólares"
 hide = false
