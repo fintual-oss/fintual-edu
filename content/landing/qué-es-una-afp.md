@@ -11,3 +11,4 @@ title = "Qué es una AFP"
 url = "/que-es-una-afp"
 
 +++
+Una AFP o Administradora de Fondos de Pensiones es una empresa que tiene el permiso especial de administrar la plata que estás obligado a aportar mes a mes para tu jubilación (te la descuentan del sueldo).
