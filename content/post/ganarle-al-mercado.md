@@ -50,4 +50,6 @@ Cómo se logra la disciplina para aguantarse de comprar o vender depende de cada
 >
 > #### [Prueba sin costo nuestro simulador online](https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=edu+ganarle+al+mercado-304) y ve cómo le iría a tu inversión⚡️
 
+<p></p>
+
 _Columna publicada en_ [_El Mercurio Inversiones_](http://www.elmercurio.com/Inversiones/Noticias/Columnas/2019/12/02/Ganarle-al-mercado.aspx) _el 02/12/2019._
