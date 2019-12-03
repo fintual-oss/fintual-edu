@@ -20,7 +20,7 @@ Estas preguntas me recuerdan a las que me hace un amigo cercano cada cierto tiem
 
 Como trabajo en finanzas, me pregunta si va a subir o bajar algún activo, ya sea el dólar, el bitcoin o los fondos de Fintual. Y como no soy una bola de cristal, mi respuesta siempre es la misma: “No sé”. Y a pesar de que mi respuesta nunca cambia, siempre me vuelve a preguntar, probablemente porque necesita algún grado de certeza en un mundo que es inherentemente incierto.
 
-<div style="width:100%;height:0;padding-bottom:66%;position:relative;"><iframe src="https://giphy.com/embed/XPpeJv8nAsHyo" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p>
+<div style="width:100%;height:0;padding-bottom:66%;position:relative;"><iframe src="https://giphy.com/embed/XPpeJv8nAsHyo" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 Y si bien esa ilusión de certeza puede ser muy tranquilizadora, no es más que una ilusión. Lo cierto es que el precio de los activos dependen de eventos que pasan en el mundo, y como no podemos predecir estos eventos, no podemos predecir qué va a pasar con esos precios.
 
@@ -29,8 +29,8 @@ Justamente por eso el timing de los mercados es tan difícil, es imposible hacer
 #### Lo que termina pasando con las personas que cambian mucho sus inversiones es que terminan ganando menos plata que aquellas que las mantienen.
 
 Pasa algo parecido con cambiarse de pista en un taco. Justo después de que te cambias, la pista en la que estabas se vuelve rápida, porque muchos vieron que la pista a la que te cambiaste era más rápida e hicieron el mismo ajuste que tú. Los que se quedaron en la pista se ven beneficiados, mientras que los que se van cambiando lo pagan caro, porque absorben la mayoría de las pérdidas (de tiempo en este caso). Tiende a pasar que cuando todos tienen la misma información, como ocurre en los mercados serios como el chileno o el de EEUU, es mejor quedarse en una pista.
-
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="[https://giphy.com/embed/jSRrAzktx5yrC](https://giphy.com/embed/jSRrAzktx5yrC "https://giphy.com/embed/jSRrAzktx5yrC")" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="[https://giphy.com/gifs/time-work-way-jSRrAzktx5yrC](https://giphy.com/gifs/time-work-way-jSRrAzktx5yrC "https://giphy.com/gifs/time-work-way-jSRrAzktx5yrC")">via GIPHY</a></p>
+  
+ <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/jSRrAzktx5yrC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 Esto lo ha demostrado la experiencia en muchas ocasiones. Por ejemplo, en EEUU, varios estudios han concluido que los fondos mutuos accionarios de aquel país no le ganan al S&P 500 en forma consistente en la gran mayoría de los casos. Warren Buffett incluso le dijo a su señora que si él se moría pusiera la mayor cantidad de su fortuna en fondos pasivos que siguen a índices y no intentan ganarle al mercado, porque era lo que mejor funcionaba.
 
