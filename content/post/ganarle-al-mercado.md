@@ -20,6 +20,8 @@ Estas preguntas me recuerdan a las que me hace un amigo cercano cada cierto tiem
 
 Y si bien esa ilusión de certeza puede ser muy tranquilizadora, no es más que una ilusión. Lo cierto es que el precio de los activos dependen de eventos que pasan en el mundo, y como no podemos predecir estos eventos, no podemos predecir qué va a pasar con esos precios.
 
+![](/uploads/giphy-1.gif)
+
 Justamente por eso el timing de los mercados es tan difícil, es imposible hacerlo bien sin ser capaz de predecir el futuro: no puedes saber si estás vendiendo en el momento óptimo si no puedes ver la parte de la curva que viene. Por esto, pretender poder tomar decisiones racionales sobre cosas que aún no pasan es quizás lo más irracional que podemos hacer.
 
 Lo que termina pasando con las personas que cambian mucho sus inversiones es que terminan ganando menos plata que aquellas que las mantienen.
