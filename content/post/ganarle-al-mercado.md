@@ -1,12 +1,12 @@
 +++
 aliases = []
 author = "Andrés Marinkovic"
-categories = []
+categories = ["educación financiera"]
 date = 2019-12-03T12:43:31Z
-description = ""
-hide = true
-image = ""
-title = "Ganarle al mercado?"
+description = "Si subió tu inversión, ¿conviene hacer la ganancia?"
+hide = false
+image = "/uploads/michal-parzuchowski-oT-XbATcoTQ-unsplash.jpg"
+title = "Ganarle al mercado"
 url = "ganarle-al-mercado"
 
 +++
