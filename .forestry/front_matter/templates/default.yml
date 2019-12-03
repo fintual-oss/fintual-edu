@@ -82,6 +82,7 @@ fields:
   hidden: false
   default: true
 pages:
+- content/post/ganarle-al-mercado.md
 - content/landing/qué-es-una-afp.md
 - content/post/el-banco-central-de-chile-decide-intervenir-el-nivel-de-tipo-de-cambio.md
 - content/landing/qué-es-el-apv.md
