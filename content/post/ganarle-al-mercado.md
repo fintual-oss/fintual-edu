@@ -16,9 +16,7 @@ Sin embargo, causó cierto revuelo entre nuestros usuarios. El 12 de noviembre l
 
 #### Algunos usuarios querían “hacer la ganancia” o anticiparse a una eventual bajada futura y durante esos días nos llegaron varias preguntas del estilo: “¿Cuándo va a bajar?”, “¿es bueno vender ahora?” o “¿creen que va a seguir subiendo?”.
 
-Estas preguntas me recuerdan a las que me hace un amigo cercano cada cierto tiempo.
-
-Como trabajo en finanzas, me pregunta si va a subir o bajar algún activo, ya sea el dólar, el bitcoin o los fondos de Fintual. Y **como no soy una bola de cristal, mi respuesta siempre es la misma: “No sé”.** Y a pesar de que mi respuesta nunca cambia, siempre me vuelve a preguntar, probablemente porque necesita algún grado de certeza en un mundo que es inherentemente incierto.
+Estas preguntas me recuerdan a las que me hace un amigo cercano cada cierto tiempo. Como trabajo en finanzas, me pregunta si va a subir o bajar algún activo, ya sea el dólar, el bitcoin o los fondos de Fintual. Y **como no soy una bola de cristal, mi respuesta siempre es la misma: “No sé”.** Y a pesar de que mi respuesta nunca cambia, siempre me vuelve a preguntar, probablemente porque necesita algún grado de certeza en un mundo que es inherentemente incierto.
 
 <div style="width:100%;height:0;padding-bottom:66%;position:relative;"><iframe src="https://giphy.com/embed/XPpeJv8nAsHyo" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div> <p>
 
