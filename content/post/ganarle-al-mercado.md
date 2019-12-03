@@ -46,10 +46,10 @@ Desde su creación en 1926, el S&P 500 ha tenido una rentabilidad promedio de ap
 
 Cómo se logra la disciplina para aguantarse de comprar o vender depende de cada uno, a mí lo que mejor me ha funcionado es no estar mirando cómo le ha ido a mi inversión a cada rato. Eso y harto yoga.
 
+_Columna publicada en_ [_El Mercurio Inversiones_](http://www.elmercurio.com/Inversiones/Noticias/Columnas/2019/12/02/Ganarle-al-mercado.aspx) _el 02/12/2019._
+
 > #### Fintual te ayuda a invertir de forma simple y diversificada, apostando al crecimiento del mercado y no de acciones específicas.
 >
 > #### [Prueba sin costo nuestro simulador online](https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=edu+ganarle+al+mercado-304) y ve cómo le iría a tu inversión⚡️
 
 <p></p>
-
-_Columna publicada en_ [_El Mercurio Inversiones_](http://www.elmercurio.com/Inversiones/Noticias/Columnas/2019/12/02/Ganarle-al-mercado.aspx) _el 02/12/2019._
