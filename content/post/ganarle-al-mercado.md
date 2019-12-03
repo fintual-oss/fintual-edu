@@ -34,3 +34,5 @@ Por todo esto, la volatilidad que ha venido con la crisis no debería hacer que 
 Si bien el hecho de que no se le puede ganar al mercado suena un poco deprimente, las buenas noticias es que no es necesario ganarle al mercado. Al mercado le va suficientemente bien. Desde su creación en 1926, el S&P 500 ha tenido una rentabilidad promedio de aproximadamente 10% anual. Es decir, un dólar puesto en el S&P se convierten en promedio en más de 17 dólares en 30 años. Nada mal si uno es capaz de aguantarse y no sacar ese dólar en las muchas caídas y subidas que inevitablemente van a pasar durante esos 30 años.
 
 Cómo se logra la disciplina para aguantarse de comprar o vender depende de cada uno, a mí lo que mejor me ha funcionado es no estar mirando cómo le ha ido a mi inversión a cada rato. Eso y harto yoga.
+
+Columna publicada en [El Mercurio Inversiones](http://www.elmercurio.com/Inversiones/Noticias/Columnas/2019/12/02/Ganarle-al-mercado.aspx) el 02/12/2019.
