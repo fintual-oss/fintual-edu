@@ -20,7 +20,7 @@ Estas preguntas me recuerdan a las que me hace un amigo cercano cada cierto tiem
 
 Como trabajo en finanzas, me pregunta si va a subir o bajar algún activo, ya sea el dólar, el bitcoin o los fondos de Fintual. Y **como no soy una bola de cristal, mi respuesta siempre es la misma: “No sé”.** Y a pesar de que mi respuesta nunca cambia, siempre me vuelve a preguntar, probablemente porque necesita algún grado de certeza en un mundo que es inherentemente incierto.
 
-<div style="width:100%;height:0;padding-bottom:66%;position:relative;"><iframe src="https://giphy.com/embed/XPpeJv8nAsHyo" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+<div style="width:100%;height:0;padding-bottom:66%;position:relative;"><iframe src="https://giphy.com/embed/XPpeJv8nAsHyo" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div> <p>
 
 **Y si bien esa ilusión de certeza puede ser muy tranquilizadora, no es más que una ilusión.** Lo cierto es que el precio de los activos dependen de eventos que pasan en el mundo, y como no podemos predecir estos eventos, no podemos predecir qué va a pasar con esos precios.
 
