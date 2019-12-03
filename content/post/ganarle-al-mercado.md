@@ -7,15 +7,17 @@ description = ""
 draft = true
 hide = false
 image = ""
-title = "Ganarle al mercado"
+title = "Ganarle al mercado?"
 url = "ganarle-al-mercado"
 
 +++
-Al fondo Risky Norris de Fintual le fue súper bien con el estallido social. No es un buen "le fue bien", al menos no los que nos gustan como administradora. Esto, porque la subida de Norris se debió principalmente a la subida del dólar, o más bien al debilitamiento del peso chileno. Es decir, no hubo necesariamente una real creación de valor, y además es una consecuencia de la compleja y preocupante situación que atraviesa el país en las últimas semanas.
+Al fondo Risky Norris de Fintual le fue súper bien con el estallido social. No es un buen "le fue bien", al menos no los que nos gustan como administradora. Esto, porque **la subida de Norris se debió principalmente a la subida del dólar, o más bien al debilitamiento del peso chileno.** Es decir, no hubo necesariamente una real creación de valor, y además es una consecuencia de la compleja y preocupante situación que atraviesa el país en las últimas semanas.
 
-Sin embargo, causó cierto revuelo entre nuestros usuarios. El 12 de noviembre la serie A del fondo Risky Norris tuvo una rentabilidad de 3,25% en un día, algo que no pasó desapercibido. Algunos usuarios querían “hacer la ganancia” o anticiparse a una eventual bajada futura y durante esos días nos llegaron varias preguntas del estilo: “¿Cuándo va a bajar?”, “¿es bueno vender ahora?” o “¿creen que va a seguir subiendo?”.
+Sin embargo, causó cierto revuelo entre nuestros usuarios. El 12 de noviembre la serie A del fondo Risky Norris tuvo una rentabilidad de 3,25% en un día, algo que no pasó desapercibido. **Algunos usuarios querían “hacer la ganancia” o anticiparse a una eventual bajada futura** y durante esos días nos llegaron varias preguntas del estilo: “¿Cuándo va a bajar?”, “¿es bueno vender ahora?” o “¿creen que va a seguir subiendo?”.
 
 Estas preguntas me recuerdan a las que me hace un amigo cercano cada cierto tiempo. Como trabajo en finanzas, me pregunta si va a subir o bajar algún activo, ya sea el dólar, el bitcoin o los fondos de Fintual. Y como no soy una bola de cristal, mi respuesta siempre es la misma: “No sé”. Y a pesar de que mi respuesta nunca cambia, siempre me vuelve a preguntar, probablemente porque necesita algún grado de certeza en un mundo que es inherentemente incierto.
+
+![](/uploads/giphy.gif)
 
 Y si bien esa ilusión de certeza puede ser muy tranquilizadora, no es más que una ilusión. Lo cierto es que el precio de los activos dependen de eventos que pasan en el mundo, y como no podemos predecir estos eventos, no podemos predecir qué va a pasar con esos precios.
 
