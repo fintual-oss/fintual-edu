@@ -6,11 +6,11 @@ date = 2019-12-03T12:43:31Z
 description = "Si subió tu inversión, ¿conviene hacer la ganancia?"
 hide = false
 image = "/uploads/michal-parzuchowski-oT-XbATcoTQ-unsplash.jpg"
-title = "Ganarle al mercado?"
+title = "Ganarle al mercado"
 url = "ganarle-al-mercado"
 
 +++
-##### _Si subió tu inversión, ¿conviene "hacer la ganancia"?_
+_Si subió tu inversión, ¿conviene "hacer la ganancia"?_
 
 **Al fondo Risky Norris de Fintual le fue súper bien con el estallido social.** No es un buen "le fue bien", al menos no los que nos gustan como administradora. Esto, porque la subida de Norris se debió principalmente a la subida del dólar, o más bien al debilitamiento del peso chileno. Es decir, no hubo necesariamente una real creación de valor, y además es una consecuencia de la compleja y preocupante situación que atraviesa el país en las últimas semanas.
 
