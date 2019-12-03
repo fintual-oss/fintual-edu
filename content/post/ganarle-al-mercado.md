@@ -6,7 +6,7 @@ date = 2019-12-03T12:43:31Z
 description = "Si subió tu inversión, ¿conviene hacer la ganancia?"
 hide = false
 image = "/uploads/michal-parzuchowski-oT-XbATcoTQ-unsplash.jpg"
-title = "Ganarle al mercado"
+title = "Ganarle al mercado?"
 url = "ganarle-al-mercado"
 
 +++
