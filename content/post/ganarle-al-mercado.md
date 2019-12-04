@@ -52,6 +52,6 @@ _Columna publicada en_ [_El Mercurio Inversiones_](http://www.elmercurio.com/Inv
 
 > #### Fintual te ayuda a invertir de forma simple y diversificada, apostando al crecimiento del mercado y no de acciones específicas.
 >
-> #### [Prueba sin costo nuestro simulador online](https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=edu+ganarle+al+mercado-304) y ve cómo le iría a tu inversión⚡️
+> #### Hoy es un buen día para invertir 😉, [prueba sin costo nuestro simulador online](https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=edu+ganarle+al+mercado-304).
 
 <p></p>
