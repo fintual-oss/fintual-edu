@@ -8,7 +8,7 @@ draft = true
 hide = true
 image = ""
 title = "Qué es el APV"
-url = "/que-es-el-apv"
+url = "/que-es-apv"
 
 +++
 El Ahorro Previsional Voluntario es un mecanismo de ahorro adicional para la jubilación que permite a trabajadores –dependientes e independientes– ahorrar por sobre lo cotizado obligatoriamente en su AFP.
