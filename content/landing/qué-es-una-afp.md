@@ -10,7 +10,7 @@ title = "Qué es una AFP"
 url = "/que-es-una-afp"
 
 +++
-Una administradoras de fondos de pensiones o AFP es una institución financiera privada que está a cargo de administrar e invertir los ahorros del trabajador para entregarle una pensión al momento de jubilar.
+Una administradora de fondos de pensiones o AFP es una institución financiera privada que está a cargo de administrar e invertir los ahorros del trabajador para entregarle una pensión al momento de jubilar.
 
 Las AFP funcionan sobre la base de un sistema de capitalización individual en el que al trabajador se le descuenta el 10% de su sueldo todos los meses. La AFP cobra una comisión por administrar el dinero del trabajador.
 
