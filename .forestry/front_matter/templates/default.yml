@@ -82,6 +82,7 @@ fields:
   hidden: false
   default: true
 pages:
+- content/landing/qué-tipos-de-apv-existen.md
 - content/landing/qué-es-un-roboadvisor.md
 - content/landing/cuáles-son-los-beneficios-del-apv.md
 - content/landing/qué-es-el-apv.md
