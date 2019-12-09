@@ -3,15 +3,15 @@ aliases = []
 author = "Pedro Pineda"
 categories = []
 date = 2019-12-09T15:24:27Z
-description = "Y por qué te conviene"
+description = "Y por qué te conviene."
 draft = true
 hide = false
 image = ""
-title = "Qué es un roboadvisor"
-url = "que-es-un-roboadvisor"
+title = "¿Qué es un roboadvisor?"
+url = "/que-es-un-roboadvisor"
 
 +++
-Un robotadvisor o "roboadvisor" es un asesor financiero, automatizado.
+Un **roboadvisor** o robot advisor es un asesor financiero, automatizado.
 
 ![](/uploads/finance-draw.png)
 
@@ -19,7 +19,7 @@ La gente que tiene mucha plata puede contratar a una persona experta en inversio
 
 Si alguien quiere invertir bien pero no tiene suficiente dinero como para contratar a un asesor que le ayude, le conviene pensar en un robotadvisor.
 
-Los robotadvisor (también conocidos como "roboadvisor") son plataformas digitales que proveen asesoría automatizada de inversiones basada en algoritmos de planificación financiera, que pueden o no estar complementados con asesoría humana.
+Los roboadvisor son plataformas digitales que proveen asesoría automatizada de inversiones basada en algoritmos de planificación financiera, que pueden o no estar complementados con asesoría humana.
 
 La tecnología detrás de un robotadvisor no es nueva, ya que los software de planificación y asignación de activos financieros son usados masivamente por profesionales del mundo de las inversiones desde fines de los años ‘90. La diferencia está en que el servicio entregado por un robotadvisor para ayudar a los inversionistas de forma directa sólo existe desde hace menos de una década.
 
