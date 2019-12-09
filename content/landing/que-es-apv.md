@@ -1,8 +1,8 @@
 ---
 date: 2018-12-06T20:12:36+00:00
-description: 'El APV o Ahorro Previsional Voluntario es '
+description: ''
 image: ''
-title: Qué tipos de APV existen
+title: "¿Qué tipos de APV existen?"
 url: "/tipos-de-apv"
 draft: true
 
@@ -11,13 +11,13 @@ Existen tres modalidades distintas de APV:
 
 ##### 1. Cotizaciones Voluntarias: 
 
+Sólo las AFP pueden ofrecer esta alternativa.
+
+##### 2. Depósitos de Ahorro Previsional Voluntario: 
+
 Sólo las AFP pueden ofrecer esta alternativa
 
-##### Depósitos de Ahorro Previsional Voluntario: 
-
-Sólo las AFP pueden ofrecer esta alternativa
-
-##### Depósitos Convenidos (DC): 
+##### 3. Depósitos Convenidos (DC): 
 
 Son aportados por tu empleador y no los puedes sacar antes de jubilar. 
 
