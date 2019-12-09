@@ -15,7 +15,7 @@ Existen tres modalidades distintas de Ahorro Previsional Voluntario:
 
 ##### 1. Cotizaciones Voluntarias:
 
-Sólo las AFP pueden ofrecer esta alternativa.
+Se caracterizan porque sólo las AFP pueden ofrecerlas. Se invierten en los mismos multifondos de las AFP. No confundir con la Cuenta 2, que no es un ahorro para la jubilación.
 
 ##### 2. Depósitos de Ahorro Previsional Voluntario:
 
