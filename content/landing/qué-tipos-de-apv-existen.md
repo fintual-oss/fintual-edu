@@ -17,14 +17,14 @@ Existen tres modalidades distintas de Ahorro Previsional Voluntario:
 
 Se caracterizan porque sólo las AFP pueden ofrecerlas. Se invierten en los mismos multifondos de las AFP. No confundir con la Cuenta 2, que no es un ahorro para la jubilación.
 
-##### 2. Depósitos de Ahorro Previsional Voluntario:
+##### 2. Depósitos Convenidos (DC):
 
-Sólo las AFP pueden ofrecer esta alternativa
+Son aportados por tu empleador y no los puedes sacar antes de jubilar. 
 
-##### 3. Depósitos Convenidos (DC):
+No constituyen renta. Es decir, no pagas impuestos por la parte del sueldo destinada a DC (con un tope anual de 900 UF). Pueden ser administrados por corredoras de bolsa, AFP, compañías de seguro o administradoras generales de fondos.
 
-Son aportados por tu empleador y no los puedes sacar antes de jubilar.
-
-No constituyen renta. Es decir, no pagas impuestos por la parte del sueldo destinada a DC (con un tope anual de 900 UF).
+##### 3. Depósitos de Ahorro Previsional Voluntario:
 
 Pueden ser administrados por corredoras de bolsa, AFP, compañías de seguro o administradoras generales de fondos, como Fintual.
+
+##### 
