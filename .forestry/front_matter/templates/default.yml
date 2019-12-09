@@ -82,9 +82,9 @@ fields:
   hidden: false
   default: true
 pages:
+- content/landing/cuáles-son-los-beneficios-del-apv.md
 - content/landing/qué-es-el-apv.md
 - content/landing/qué-es-una-afp.md
-- content/landing/cuáles-son-los-beneficios-del-apv.md
 - content/post/ganarle-al-mercado.md
 - content/post/el-banco-central-de-chile-decide-intervenir-el-nivel-de-tipo-de-cambio.md
 - content/landing/cuál-es-la-diferencia-entre-afp-y-apv.md
