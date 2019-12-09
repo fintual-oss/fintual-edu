@@ -9,6 +9,18 @@ draft: true
 ---
 Existen tres modalidades distintas de APV:
 
-1. Cotizaciones Voluntarias: sólo las AFP pueden ofrecer esta alternativa.
-2. Depósitos de Ahorro Previsional Voluntario: las administradoras generales de fondos pueden ofrecer esta modalidad de ahorro por medio de fondos mutuos.
-3. Depósitos Convenidos.
+##### 1. Cotizaciones Voluntarias: 
+
+Sólo las AFP pueden ofrecer esta alternativa
+
+##### Depósitos de Ahorro Previsional Voluntario: 
+
+Sólo las AFP pueden ofrecer esta alternativa
+
+##### Depósitos Convenidos (DC): 
+
+Son aportados por tu empleador y no los puedes sacar antes de jubilar. 
+
+No constituyen renta. Es decir, no pagas impuestos por la parte del sueldo destinada a DC (con un tope anual de 900 UF). 
+
+Pueden ser administrados por corredoras de bolsa, AFP, compañías de seguro o administradoras generales de fondos, como Fintual.
