@@ -30,6 +30,6 @@ Después, abre su computador, usa su software especializado de inversiones, hace
 
 Miras un par de opciones que te hacen sentido, decides que hay un plan de inversiones para ti y el asesor se encarga de abrirte una cuenta de inversiones en una o varias instituciones financieras reconocidas para poder ejecutar tus planes. Como el asesor conoce bien el mercado, utiliza instrumentos financieros que te cobran pocas comisiones totales y de esta forma rentan mejor. Finalmente, deja una factura por sus servicios.
 
-En la práctica, un asesor así es tan caro que tendrías que tener varios mucha plata para que te salga a cuenta contratarlo, sin que su factura por servicios no afecte dramáticamente tus ahorros. 
+En la práctica, un asesor así es tan caro que tendrías que tener mucha plata para que te convenga contratarlo sin que su factura no afecte dramáticamente tus ahorros. 
 
 Un roboadvisor automatiza varias partes de este proceso. De hecho,  [Fintual.com](https://fintual.com/?utm_source=edu&utm_medium=landing&utm_campaign=roboadvisor) ha desarrollado un roboadvisor que permite hacer todo este proceso de forma automatizada, con el fin de poder cobrar muy poco por este servicio, manteniendo la asesoría “humana” únicamente en la parte de soporte del proceso de inversión. Es simple, y con 10 a 15 minutos ya podrás tener ejecutado tu primer plan de inversiones _a la medida_.
