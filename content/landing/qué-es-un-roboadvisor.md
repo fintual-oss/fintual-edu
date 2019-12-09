@@ -18,7 +18,15 @@ Hay gente que puede contratar a un experto en inversiones que le ayude a inverti
 
 La tecnología detrás de un roboadvisor no es nueva. Los software de planificación y asignación de activos financieros son usados masivamente por en el mundo de las inversiones desde fines de los años ‘90. La diferencia está en que el servicio entregado por un roboadvisor para ayudar a los inversionistas de forma directa sólo existe desde hace menos de una década.
 
-Imagina que tienes un asesor financiero humano que está dispuesto a ayudarte a armar un plan de inversiones diseñado “a la medida”. Este asesor es independiente, en el sentido de que no ganará dinero por el tipo de instrumento financiero que te ofrece, él sólo ganará dinero porque, al final de su asesoría, te va a cobrar por sus servicios. Primero, parte haciéndote algunas preguntas simples con el fin de entender para qué necesitas invertir tu dinero, en que lo usarás, cuanto tiempo crees que vas a tener el dinero invertido, y cuánto riesgo estás dispuesto a tomar con el fin de hacer estas inversiones. Una vez hecho esto, abre su computador, utiliza su software especializado de inversiones, realiza algunos cálculos, y comienza a mostrarte gráficos de cómo crecería tu dinero según distintas opciones que él estima que son apropiadas para ti. Después mirar un par de opciones que te hacen sentido, decides que hay un plan de inversiones que te parece bien, le das tu visto bueno, y este asesor se encarga de abrirte una cuenta de inversiones a tu nombre en una o varias instituciones financieras reconocidas para poder ejecutar tus planes. Como además el asesor conoce bien el mercado, utiliza instrumentos financieros que te cobran pocas comisiones totales y de esta forma rentan mejor. Finalmente, deja una factura por sus servicios.
+Ahora, imagina que tienes un asesor financiero humano dispuesto a ayudarte a armar un plan de inversiones diseñado _a la medida_. 
+
+![](/uploads/finance-draw.png)
+
+Este asesor independiente, que no ganará dinero por el tipo de instrumento financiero que te ofrece (y sólo ganará dinero porque, al final de su asesoría, te va a cobrar por sus servicios), va a hacerte algunas preguntas:
+
+Para qué necesitas invertir tu dinero, en qué lo usarás, cuánto tiempo crees que vas a tener el dinero invertido y cuánto riesgo estás dispuesto a tomar con el fin de hacer estas inversiones. 
+
+Una vez hecho esto, abre su computador, utiliza su software especializado de inversiones, realiza algunos cálculos, y comienza a mostrarte gráficos de cómo crecería tu dinero según distintas opciones que él estima que son apropiadas para ti. Después mirar un par de opciones que te hacen sentido, decides que hay un plan de inversiones que te parece bien, le das tu visto bueno, y este asesor se encarga de abrirte una cuenta de inversiones a tu nombre en una o varias instituciones financieras reconocidas para poder ejecutar tus planes. Como además el asesor conoce bien el mercado, utiliza instrumentos financieros que te cobran pocas comisiones totales y de esta forma rentan mejor. Finalmente, deja una factura por sus servicios.
 
 En la práctica, un asesor así es tan caro que tendrías que tener varios mucha plata para que te salga a cuenta contratarlo, sin que su factura por servicios no afecte dramáticamente tus ahorros. 
 
