@@ -22,11 +22,13 @@ Ahora, imagina que tienes un asesor financiero humano dispuesto a ayudarte a arm
 
 ![](/uploads/finance-draw.png)
 
-Este asesor independiente, que no ganará dinero por el tipo de instrumento financiero que te ofrece (y sólo ganará dinero porque, al final de su asesoría, te va a cobrar por sus servicios), va a hacerte algunas preguntas:
+Este asesor independiente, que no ganará dinero por el tipo de instrumento financiero que te ofrezca (y sólo ganará dinero porque, al final de su asesoría, te va a cobrar por sus servicios), va a hacerte algunas preguntas:
 
 Para qué necesitas invertir tu dinero, en qué lo usarás, cuánto tiempo crees que vas a tener el dinero invertido y cuánto riesgo estás dispuesto a tomar con el fin de hacer estas inversiones. 
 
-Una vez hecho esto, abre su computador, utiliza su software especializado de inversiones, realiza algunos cálculos, y comienza a mostrarte gráficos de cómo crecería tu dinero según distintas opciones que él estima que son apropiadas para ti. Después mirar un par de opciones que te hacen sentido, decides que hay un plan de inversiones que te parece bien, le das tu visto bueno, y este asesor se encarga de abrirte una cuenta de inversiones a tu nombre en una o varias instituciones financieras reconocidas para poder ejecutar tus planes. Como además el asesor conoce bien el mercado, utiliza instrumentos financieros que te cobran pocas comisiones totales y de esta forma rentan mejor. Finalmente, deja una factura por sus servicios.
+Después, abre su computador, usa su software especializado de inversiones, hace algunos cálculos y te muestra algunos gráficos de cómo crecería tu dinero según distintas opciones que él estima convenientes. 
+
+Miras un par de opciones que te hacen sentido, decides que hay un plan de inversiones que te parece bien, le das tu visto bueno, y este asesor se encarga de abrirte una cuenta de inversiones a tu nombre en una o varias instituciones financieras reconocidas para poder ejecutar tus planes. Como además el asesor conoce bien el mercado, utiliza instrumentos financieros que te cobran pocas comisiones totales y de esta forma rentan mejor. Finalmente, deja una factura por sus servicios.
 
 En la práctica, un asesor así es tan caro que tendrías que tener varios mucha plata para que te salga a cuenta contratarlo, sin que su factura por servicios no afecte dramáticamente tus ahorros. 
 
