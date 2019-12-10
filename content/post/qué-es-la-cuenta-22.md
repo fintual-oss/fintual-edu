@@ -19,8 +19,8 @@ El problema es que hay mucha gente a la que no le gusta "darle" más plata a las
 
 ![](/uploads/cuentados.jpg "Foto de Karim MANJRA en Unsplash")
 
-Para esas personas algo como [Fintual](https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_content=-48) puedes ser súper atractivo, porque es un servicio de inversión independiente para personas que no saben de inversiones pero que quieren invertir bien y fácil.
+Para esas personas algo como [Fintual](https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_content=-48) puede ser súper atractivo, porque es un servicio de inversión independiente para personas que no saben de inversiones pero que quieren invertir bien y fácil.
 
-Además de ser similar en comisión, los fondos no tienen restricciones como sí lo tienen los fondos de pensiones de las AFPs.
+Además de ser similar en comisión, los fondos no tienen restricciones como sí lo tienen los fondos de pensiones de las AFP.
 
 Esto da más grados de libertad a los fondos que administra Fintual y podrían implicar una rentabilidad mejor.
