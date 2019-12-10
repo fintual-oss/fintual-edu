@@ -2,7 +2,7 @@
 author = "Pedro Pineda"
 author_thumbnail = "/uploads/pedro_pineda.png"
 categories = ["educación financiera"]
-date = "2018-12-13T13:01:29+00:00"
+date = 2018-12-13T13:01:29Z
 description = "Para que pienses en ello cuando estés tomándote un café."
 image = "/uploads/cuentados.jpg"
 title = "¿Qué es la cuenta 2?"
@@ -24,4 +24,3 @@ Para esas personas algo como [Fintual](https://fintual.cl/?utm_source=edu.fintua
 Además de ser similar en comisión, los fondos no tienen restricciones como sí lo tienen los fondos de pensiones de las AFPs.
 
 Esto da más grados de libertad a los fondos que administra Fintual y podrían implicar una rentabilidad mejor.
- {{< newsletter_signup >}}
