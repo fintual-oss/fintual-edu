@@ -3,11 +3,11 @@ aliases = []
 author = "Gonzalo Enei"
 categories = []
 date = 2019-10-30T14:35:39Z
-description = "supuestos-comparaciones-fondos-mutuos"
+description = ""
 hide = true
 image = ""
-title = "Supuestos de comparaciones de fondos mutuos"
-url = "comparaciones-mail-diciembre-2019"
+title = "Explicación comparación de fondos mutuos"
+url = "comparacion-ffmm-mail-diciembre-2019"
 
 +++
 #### Comparación de fondos mutuos
