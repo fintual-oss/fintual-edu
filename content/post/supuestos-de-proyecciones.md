@@ -18,12 +18,20 @@ Para estos cálculos se consideran los retornos desde 2018-12-10 hasta 2019-12-1
 
 ##### Amiga que hubiese ganado el doble con Fintual
 
-Estamos comparando tu fondo Fondo Mutuo Sura Acciones Alianza Pacifico, serie A, con un monto actual de $1.000.000.
+Estamos comparando tu fondo Fondo Mutuo Larrainvial Europa, serie A, con un monto actual de $1.000.000.
 
-![](/uploads/Screen Shot 2019-12-11 at 12.40.38.png)
+![](/uploads/Screen Shot 2019-12-11 at 15.14.21.png)
 
-##### Usuario que sólo perdía plata en otro lado
+![](/uploads/Screen Shot 2019-12-11 at 15.14.30.png)
+
+![](/uploads/Screen Shot 2019-12-11 at 15.14.41.png)
+
+##### Usuario que perdía plata en otro lado
 
 Estamos comparando el fondo Fondo Mutuo Santander Acciones Chilenas, serie Universal, con un monto actual de $1.000.000.
 
-![](/uploads/Screen Shot 2019-12-11 at 12.30.59.png "santander vs fintual")
+![](/uploads/Screen Shot 2019-12-11 at 15.15.30.png)
+
+![](/uploads/Screen Shot 2019-12-11 at 15.15.41.png)
+
+![](/uploads/Screen Shot 2019-12-11 at 15.15.54.png)
