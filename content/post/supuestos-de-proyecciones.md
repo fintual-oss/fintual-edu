@@ -24,6 +24,10 @@ Estamos comparando tu fondo Fondo Mutuo Larrainvial Europa, serie A, con un mont
 
 ![](/uploads/Screen Shot 2019-12-11 at 15.14.41.png)
 
+El riesgo y retorno de las inversiones del Fondo Mutuo Larrainvial Europa, serie A, así como su estructura de costos, no necesariamente se corresponden con aquellos de los referentes utilizados en la comparación.
+
+El riesgo y retorno de las inversiones del Fondo Mutuo Larrainvial Europa, serie A, así como también su estructura de costos, no necesariamente se corresponden con las mismas variables de los otros fondos.
+
 ##### Usuario que perdía plata en otro lado
 
 Estamos comparando el fondo Fondo Mutuo Santander Acciones Chilenas, serie Universal, con un monto actual de $1.000.000.
@@ -33,3 +37,7 @@ Estamos comparando el fondo Fondo Mutuo Santander Acciones Chilenas, serie Unive
 ![](/uploads/Screen Shot 2019-12-11 at 15.15.41.png)
 
 ![](/uploads/Screen Shot 2019-12-11 at 15.15.54.png)
+
+El riesgo y retorno de las inversiones del Fondo Mutuo Santander Acciones Chilenas, serie Universal, así como su estructura de costos, no necesariamente se corresponden con aquellos de los referentes utilizados en la comparación.
+
+El riesgo y retorno de las inversiones del Fondo Mutuo Santander Acciones Chilenas, serie Universal, así como también su estructura de costos, no necesariamente se corresponden con las mismas variables de los otros fondos.
