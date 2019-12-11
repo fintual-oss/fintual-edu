@@ -3,12 +3,11 @@ aliases = []
 author = "Gonzalo Enei"
 categories = []
 date = 2019-10-30T14:35:39Z
-description = "Supuestos simulaciones"
-draft = true
+description = "supuestos-comparaciones-fondos-mutuos"
 hide = true
 image = ""
-title = "Supuestos de proyecciones"
-url = "simulaciones-mail-apv-octubre-2019"
+title = "Supuestos de comparaciones de fondos mutuos"
+url = "comparaciones-mail-diciembre-2019"
 
 +++
 #### Comparación de fondos mutuos
