@@ -6,7 +6,7 @@ date = 2019-10-30T14:35:39Z
 description = ""
 hide = true
 image = ""
-title = "Explicación comparación de fondos mutuos"
+title = "Comparación de fondos mutuos"
 url = "comparacion-ffmm-mail-diciembre-2019"
 
 +++
