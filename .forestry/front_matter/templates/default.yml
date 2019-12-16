@@ -82,6 +82,7 @@ fields:
   hidden: false
   default: true
 pages:
+- content/landing/cuál-es-el-mejor-apv.md
 - content/landing/cuál-es-la-diferencia-entre-afp-y-apv.md
 - content/landing/cuáles-son-los-beneficios-del-apv.md
 - content/landing/pagan-impuestos-los-seguros-con-ahorro.md
