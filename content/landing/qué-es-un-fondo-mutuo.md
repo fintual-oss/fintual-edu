@@ -10,7 +10,7 @@ title = "¿Qué es un fondo mutuo?"
 url = "que-es-un-fondo-mutuo"
 
 +++
-Un fondo mutuo es una especie de pozo común que recauda el dinero de muchos inversionistas –también llamados aportantes o partícipes–, que pueden ser personas o empresas.
+Un fondo mutuo es una especie de pozo común que recauda el dinero de muchos inversionistas –también llamados aportantes o partícipes–, que pueden ser personas o instituciones financieras (como las AFP).
 
 Son gestionados por Administradoras Generales de Fondos y regulados por la CMF, que seleccionan distintos instrumentos o activos de inversión e invierten el dinero con el fin de generar rentabilidad.
 
