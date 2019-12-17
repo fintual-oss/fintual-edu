@@ -3,181 +3,231 @@
 </style>
 
 <style type="text/css">
-
-
-  .cta-card h4 {
-    margin: 0 0 10px 0;
-    font-family: Poppins;
+  .ml-form-embedSubmitLoad {
+    display: inline-block;
+    position: absolute;
+    top: 135px;
+    left: calc(var(--width-inside-card) - 30px);
+    width: 40px;
+    height: 40px;
   }
-  .cta-card p {
-    margin: 0;
-    padding: 0;
+  .ml-form-embedSubmitLoad:after {
+    content: " ";
+    display: block;
+    width: 22px;
+    height: 22px;
+    margin: 2px;
+    border-radius: 50%;
+    border: 8px solid #003f96;
+    border-color: #003f96 #003f96 #003f96 transparent;
+    animation: ml-form-embedSubmitLoad 1.2s linear infinite;
+  }
+  @keyframes ml-form-embedSubmitLoad {
+    0% {
+      transform: rotate(0);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
   }
 
-  .cta-card--newsletter {
+  .newslet-card {
+    --padding-x: 24px;
+    --padding-y: 32px;
 
+    --width-inside-card: calc(100% - (2 * var(--padding-x)));
+
+    margin:16px 0;
+
+    position: relative;
+
+    height: 260px;
     width: 100%;
-
-    margin: 15px 0 33px 0;
-    padding-left: 16px;
-    padding-right: 20px;
-    padding-top: 23px;
-
+    padding: var(--padding-y) var(--padding-x);
 
     background: #ffffff;
     overflow: visible;
     box-shadow: 0 2px 1px -1px rgba(0, 0, 0, 0.2),
       0 1px 1px 0 rgba(0, 0, 0, 0.14), 0 1px 3px 0 rgba(0, 0, 0, 0.12);
     border-radius: 12px;
-      
+
     font-family: Poppins;
     font-size: 16px;
     text-align: left;
     line-height: 19.2px;
   }
 
-  .cta-input--newsletter {
-    width: 100%;
-    height: 56px;
-    background: #f3f4f8;
-    border-radius: 12px;
-    border: 0;
-    margin: 10px 0 16px 0;
+  .newslet-card h4 {
+    position: absolute;
   }
-  .wena {
-      display: block;
-      margin-bottom: 32px;
-    }
 
-  .cta-button--newsletter {
-    margin-bottom: 32px;
-    color: white;
-    border: 0;
-    width: 100%;
-    height: 36px;
+  .newslet-text {
+    display: block;
+    position: absolute;
+    width: var(--width-inside-card);
+    top: calc(36px + var(--padding-y));
+    margin: 0;
+  }
+
+  .newslet-button {
+    display: block;
+    position: absolute;
+    bottom: var(--padding-y);
+    z-index: 200;
+
+    width: var(--width-inside-card);
+    height: 38px;
+
+    text-align: center;
+    line-height: 38px;
+
+    border-radius: 18px;
+    border: 1px solid white;
     background-image: linear-gradient(270deg, #3985ee 0%, #005ad6 100%);
     box-shadow: 0 2px 1px -1px rgba(0, 0, 0, 0.2),
       0 1px 1px 0 rgba(0, 0, 0, 0.14), 0 1px 3px 0 rgba(0, 0, 0, 0.12);
     border-radius: 18px;
+    color: white;
+  }
+  .newslet-button:hover {
+    cursor: pointer;
+    background-image: linear-gradient(#003f96, #003f96);
   }
 
-  @media (max-width: 1200px)  {
-    .wena {
-      margin-bottom: 16px;
+  .newslet-input {
+    position: absolute;
+    top: 120px;
+    width: var(--width-inside-card);
+    height: 56px;
+    background: #f3f4f8;
+    border-radius: 12px;
+    border: 0;
+  }
+
+  @media (max-width: 1200px) {
+    .newslet-card {
+      --padding-y: 24px;
+      --padding-x: 16px;
+      height: 280px;
     }
-    .cta-button--newsletter {
-      margin-bottom: 16px;
-  }
-  }
 
+    .newslet-button:active {
+      background-image: linear-gradient(#003f96, #003f96);
+    }
+
+    .newslet-input {
+      top: 150px;
+    }
+    .ml-form-embedSubmitLoad {
+      top:165px;
+    }
+  }
 </style>
 
-<div class="cta-cards-container">
-  <div class="cta-card cta-card--newsletter">
-    <div
-      id="mlb2-1527170"
-      class="ml-form-embedContainer ml-subscribe-form ml-subscribe-form-1527170"
-    >
-      <div class="ml-form-align-center ">
-        <div class="ml-form-embedWrapper embedForm">
-          <div class="ml-form-embedBody ml-form-embedBodyDefault row-form">
-            <div class="ml-form-embedContent" style=" ">
-              <h4>¿Te gustó leernos?</h4>
-              <p>
-                Aprende de finanzas e inversiones, con ideas de negocio, tips
-                para ahorrar y mucho más.
-              </p>
-            </div>
-            <form
-              class="ml-block-form"
-              action="https://app.mailerlite.com/webforms/submit/h9b1k0"
-              data-code="h9b1k0"
-              method="post"
-              target="_blank"
-            >
-              <div class="ml-form-formContent">
-                <div class="ml-form-fieldRow ml-last-item">
-                  <div
-                    class="ml-field-group ml-field-email ml-validate-email ml-validate-required"
-                  >
-                    <input
-                      type="email"
-                      class="form-control cta-input--newsletter"
-                      data-inputmask=""
-                      name="fields[email]"
-                      value=""
-                      placeholder="Tu email"
-                    />
-                  </div>
+<div class="newslet-card">
+  <div
+    id="mlb2-1527170"
+    class="ml-form-embedContainer ml-subscribe-form ml-subscribe-form-1527170"
+  >
+    <div class="ml-form-align-center ">
+      <div class="ml-form-embedWrapper embedForm">
+        <div class="ml-form-embedBody ml-form-embedBodyDefault row-form">
+          <div class="ml-form-embedContent" style=" ">
+            <h4>¿Te gustó leernos?</h4>
+            <p class="newslet-text">
+              Aprende de finanzas e inversiones, con ideas de negocio, tips para
+              ahorrar y mucho más.
+            </p>
+          </div>
+          <form
+            class="ml-block-form"
+            action="https://app.mailerlite.com/webforms/submit/h9b1k0"
+            data-code="h9b1k0"
+            method="post"
+            target="_blank"
+          >
+            <div class="ml-form-formContent">
+              <div class="ml-form-fieldRow ml-last-item">
+                <div
+                  class="ml-field-group ml-field-email ml-validate-email ml-validate-required"
+                >
+                  <input
+                    type="email"
+                    class="form-control newslet-input"
+                    data-inputmask=""
+                    name="fields[email]"
+                    value=""
+                    placeholder="Tu email"
+                  />
                 </div>
               </div>
-              <style type="text/css">
-                .ml-form-recaptcha {
-                  margin-bottom: 20px;
-                  float: left;
-                }
-
-                .ml-form-recaptcha.ml-error iframe {
-                  border: solid 1px #ff0000;
-                }
-
-                @media screen and (max-width: 768px) {
-                  .ml-form-recaptcha {
-                    transform: scale(0.77);
-                    -webkit-transform: scale(0.77);
-                    transform-origin: 0 0;
-                    -webkit-transform-origin: 0 0;
-                  }
-                }
-              </style>
-              <input type="hidden" name="ml-submit" value="1" />
-              <div class="ml-form-embedSubmit">
-                <button type="submit" class="primary cta-button--newsletter">
-                  Subscribir
-                </button>
-                <button
-                  disabled="disabled"
-                  style="display: none;"
-                  type="button"
-                  class="loading"
-                >
-                  <div class="ml-form-embedSubmitLoad">
-                    <div></div>
-                    <div></div>
-                    <div></div>
-                    <div></div>
-                  </div>
-                </button>
-              </div>
-            </form>
-          </div>
-          <div class="ml-form-successBody row-success" style="display: none">
-            <div class="ml-form-successContent">
-              <h4>Listoco 👌</h4>
-              <p class="wena">Weeena!</p>
             </div>
+            <style type="text/css">
+              .ml-form-recaptcha {
+                margin-bottom: 20px;
+                float: left;
+              }
+
+              .ml-form-recaptcha.ml-error iframe {
+                border: solid 1px #ff0000;
+              }
+
+              @media screen and (max-width: 768px) {
+                .ml-form-recaptcha {
+                  transform: scale(0.77);
+                  -webkit-transform: scale(0.77);
+                  transform-origin: 0 0;
+                  -webkit-transform-origin: 0 0;
+                }
+              }
+            </style>
+            <input type="hidden" name="ml-submit" value="1" />
+            <div class="ml-form-embedSubmit">
+              <button type="submit" class="primary newslet-button">
+                Subscribir
+              </button>
+              <button
+                disabled="disabled"
+                style="display: none;"
+                type="button"
+                class="loading"
+              >
+                <div class="ml-form-embedSubmitLoad">
+                  <div></div>
+                  <div></div>
+                  <div></div>
+                  <div></div>
+                </div>
+              </button>
+            </div>
+          </form>
+        </div>
+        <div class="ml-form-successBody row-success" style="display: none">
+          <div class="ml-form-successContent">
+            <h4>Listoco 👌</h4>
+            <p class="newslet-text">Weeena!</p>
           </div>
         </div>
       </div>
     </div>
   </div>
-
-  <script>
-    function ml_webform_success_1527170() {
-      var $ = ml_jQuery || jQuery;
-      $(".ml-subscribe-form-1527170 .row-success").show();
-      $(".ml-subscribe-form-1527170 .row-form").hide();
-    }
-  </script>
-  <img
-    src="https://track.mailerlite.com/webforms/o/1527170/h9b1k0?v253251d9ecd93b8e74c12a37f72e896f"
-    width="1"
-    height="1"
-    style="max-width: 1px; max-height: 1px; visibility: hidden; padding: 0; margin: 0; display: block;"
-    border="0"
-  />
-  <script
-    src="https://static.mailerlite.com/js/w/webforms.min.js?v253251d9ecd93b8e74c12a37f72e896f"
-    type="text/javascript"
-  ></script>
 </div>
+
+<script>
+  function ml_webform_success_1527170() {
+    var $ = ml_jQuery || jQuery;
+    $(".ml-subscribe-form-1527170 .row-success").show();
+    $(".ml-subscribe-form-1527170 .row-form").hide();
+  }
+</script>
+<img
+  src="https://track.mailerlite.com/webforms/o/1527170/h9b1k0?v253251d9ecd93b8e74c12a37f72e896f"
+  width="1"
+  height="1"
+  style="max-width: 1px; max-height: 1px; visibility: hidden; padding: 0; margin: 0; display: block;"
+  border="0"
+/>
+<script
+  src="https://static.mailerlite.com/js/w/webforms.min.js?v253251d9ecd93b8e74c12a37f72e896f"
+  type="text/javascript"
+></script>
