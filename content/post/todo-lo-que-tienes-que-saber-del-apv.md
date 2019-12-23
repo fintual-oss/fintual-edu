@@ -134,4 +134,4 @@ _Infórmese de las características esenciales de la inversión en este fondo mu
 
 La rentabilidad es fluctuante, por lo que nada garantiza que las rentabilidades pasadas se mantengan en el futuro.
 
-Aquí están los_ [_supuestos_](https://edu.fintual.cl/simulaciones-mail-apv-octubre-2019/) _detrás de la proyección mostrada._
+Aquí están los [_supuestos_](https://edu.fintual.cl/simulaciones-mail-apv-octubre-2019/) _detrás de la proyección mostrada._
