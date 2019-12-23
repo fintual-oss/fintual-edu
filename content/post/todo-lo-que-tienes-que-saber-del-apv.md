@@ -82,6 +82,12 @@ También puedes optar por no sumar tu APV a tu jubilación y retirarlo completo,
 Sí, puedes abrir un APV y tener los beneficios que entrega el Estado por ese ahorro, pero sólo si sigues trabajando, ya sea como trabajador/a dependiente o a través de boleta de honorarios y optas por seguir cotizando.  
 Si ya jubilaste y no sigues trabajando, puedes invertir en APV igual, pero no obtendrás los beneficios del Estado.
 
+#####   
+¿Qué pasa si tengo APV o Seguro con Ahorro en otro lado?
+
+Puedes traerlo de forma interna a Fintual para no perder los beneficios. Ojo que en general los seguros con ahorros son más caros que tener un seguro de vida por un lado y APV por otro.   
+También puedes tener tu APV en más de una institución al mismo tiempo, pero los beneficios aplican por el total.
+
 ##### **  
 **¿Y si necesito la plata es llegar y sacarla?
 
@@ -90,7 +96,13 @@ Sí, puedes retirar tu plata cuando quieras, incluso si no has jubilado, pero el
 Si estás en el Régimen A y no te has jubilado, **tendrás que devolver el 15% que te dio el Estado.**  
 Si estás en el Régimen B y no te has jubilado, **te retendremos un 15% que se abonará al SII para pagar el impuesto especial por retiros de APV-B.**
 
-##### Perfecto. ¿Hasta cuándo puedo invertir?
+##### **  
+**¿Y alguien regula todo esto?
+
+En el caso de las AFP, la Superintendencia de Pensiones. Para el resto de las entidades el regulador es la Comisión para el Mercado Financiero (ex SVS + SBIF).
+
+#####   
+Perfecto. ¿Hasta cuándo puedo invertir?
 
 Para aprovechar los beneficios de este año, tienes que aportar a tu APV a más tardar el 30 de diciembre a las 11:30 am.
 
