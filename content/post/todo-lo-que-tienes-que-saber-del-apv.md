@@ -38,8 +38,7 @@ _Creamos_ [_esta planilla_](https://docs.google.com/spreadsheets/d/1jnpbeqiFwQ1q
 
 Si tienes APV con los dos distintos regímenes A y B puedes tener tanto el aporte del 15% del Estado, como la disminución de impuestos. Pero tendrás un límite de 600 UF en conjunto para ambos beneficios.
 
-#####   
-Ok, pero no me queda claro cómo funciona el beneficio del Estado
+##### Ok, pero no me queda claro cómo funciona el beneficio del Estado
 
 Para **APV-A**, el Estado calcula tu aporte del año anterior y lo transfiere en agosto/septiembre. Cuando recibimos el beneficio lo agregamos a tu cuenta.
 
@@ -55,8 +54,7 @@ Para el **APV-B** es más difícil el cálculo porque va a depender de cuántos 
 
 No hay montos mínimos.
 
-#####   
-​¿Y tengo que poner plata todos los meses?
+##### ​¿Y tengo que poner plata todos los meses?
 
 No. Puedes invertir mensualmente o todo de una sola vez. También puedes hacerlo mediante un descuento por planilla de tu sueldo.
 
@@ -64,8 +62,7 @@ No. Puedes invertir mensualmente o todo de una sola vez. También puedes hacerlo
 
 Para todos los que cotizan en una AFP. Para gozar de los beneficios, necesitas tener al menos una cotización obligatoria en el año del aporte.
 
-#####   
-¿Qué tipos de APV existen?
+##### ¿Qué tipos de APV existen?
 
 1.  **Depósito de APV:** los aportes pueden ser retirados en cualquier momento pagando una sobretasa al impuesto global complementario o devolviendo el aporte del estado, dependiendo de si el régimen de tu APV es B o A, respectivamente.
 2. **Depósitos convenidos:** Son aportes que puedes pactar con tu empleador y que tienen beneficio tributario de hasta UF 900 anuales. Es decir, hasta UF 900 no constituyen renta (no son parte de tu sueldo), por lo que no se encuentran afectos a impuesto. Sin embargo, no puedes retirarlos antes de jubilarte. Existen tres modalidades:
@@ -77,8 +74,7 @@ Para todos los que cotizan en una AFP. Para gozar de los beneficios, necesitas t
    Un monto fijo mensual.
 3. **Cotizaciones voluntarias:** Sólo pueden hacerse en la AFP. No confundir con el ahorro voluntario o "cuenta 2", que no es un tipo de APV.
 
-#####   
-¿Hay alguna diferencia en el beneficio si hago el aporte por mi cuenta versus descuento por planilla?
+##### ¿Hay alguna diferencia en el beneficio si hago el aporte por mi cuenta versus descuento por planilla?
 
 Si tu APV es régimen A, no hay diferencia.
 
