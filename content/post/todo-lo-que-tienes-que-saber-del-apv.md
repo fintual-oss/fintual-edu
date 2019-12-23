@@ -27,14 +27,16 @@ Como el Estado quiere que ahorres para tu jubilación, te da dos beneficios para
 
 **Régimen B:** Tiene como beneficio pagar menos impuestos, con un límite de 600 UF anuales.
 
-##### 
-
 ##### ¿Y cómo sé qué régimen de APV me conviene?
 
 Depende de lo que ganes. Si tu sueldo imponible (líquido sin impuestos) es menor a $3.384.000, te conviene invertir en el régimen A hasta maximizar el beneficio. Cualquier monto que inviertas sobre ese monto debería irse al régimen B.  
 Si tu sueldo imponible es mayor a $3.384.000, te conviene tener todo tu APV en el régimen B.
 
 _Creamos_ [_esta planilla_](https://docs.google.com/spreadsheets/d/1jnpbeqiFwQ1qFFITIaMBAy0F3B9_MXm8MdDC8MQNDaA/copy) _para que puedas analizar qué régimen te conviene._
+
+##### O sea, ¿puedo tener los dos beneficios del APV?
+
+Si tienes APV con los dos distintos regímenes A y B puedes tener tanto el aporte del 15% del Estado, como la disminución de impuestos. Pero tendrás un límite de 600 UF en conjunto para ambos beneficios.
 
 #####   
 Ok, pero no me queda claro cómo funciona el beneficio del Estado
@@ -57,21 +59,17 @@ No hay montos mínimos
 
 El APV está diseñado par trabajadores dependientes e independientes que coticen en alguna AFP. Para acceder al beneficio estatal es necesario que hayas hecho al menos una cotización obligatoria en el año.
 
-##### 
-
-¿Dónde puedo tener APV?
+##### ¿Dónde puedo tener APV?
 
 Puedes contratar tu APV en una AFP (puede ser distinta a la de tus cotizaciones previsionales), una compañía de seguros de vida, un banco, una administradora de fondos de inversión o una administradora de fondos mutuos, **como Fintual** :)
 
 ##### 
 
-​¿Tengo que poner plata todos los meses?
+##### ​¿Y tengo que poner plata todos los meses?
 
 No. Puedes invertir mensualmente o todo de una sola vez. También puedes hacerlo mediante un descuento por planilla de tu sueldo.
 
-##### **
-
-\**Oye, ¿y qué pasa con mi APV cuando me jubilo?
+##### Oye, ¿y qué pasa con mi APV cuando me jubilo?
 
 Al momento de jubilar se suman tus cotizaciones obligatorias (AFP) más los aportes voluntarios (APV).
 
