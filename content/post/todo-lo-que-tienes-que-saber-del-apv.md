@@ -45,7 +45,7 @@ Para **APV-A**, el Estado calcula tu aporte del año anterior y lo transfiere en
 
 En **APV-B**, lo que ahorraste reduce tu base imponible, de forma mensual o anual dependiendo de si tienes descuento por planilla o no.
 
-##### Bacán. ¿Pero cuánto tengo que invertir para maximizar el beneficio?
+##### Bacán. ¿Y cuánto tengo que invertir para maximizar el beneficio?
 
 Para llegar a las 6 UTM del **APV-A**, equivalente al 15% de lo que aportas, deberías invertir \~$165.000 al mes (o \~$2.000.000 al año).
 
@@ -76,6 +76,12 @@ Al momento de jubilar se suman tus cotizaciones obligatorias (AFP) más los apor
 Si el monto total acumulado con ambos ahorros te permite pensionarte con al menos un 70% de tu sueldo promedio durante los últimos 10 años, entonces todo lo que exceda a ese monto acumulado puede ser retirado como excedente de libre disposición, lo que significa que puedes retirarlo de una sola vez y sin pagar impuestos.
 
 También puedes optar por no sumar tu APV a tu jubilación y retirarlo completo, pero en ese caso no recibes el beneficio del Estado.
+
+##### **  
+**¿Puedo tener APV si ya me jubilé?
+
+Sí, puedes abrir un APV y tener los beneficios que entrega el Estado por ese ahorro, pero sólo si sigues trabajando, ya sea como trabajador/a dependiente o a través de boleta de honorarios y optas por seguir cotizando.  
+Si ya jubilaste y no sigues trabajando, puedes invertir en APV igual, pero no obtendrás los beneficios del Estado.
 
 ##### Perfecto. ¿Hasta cuándo puedo invertir?
 
