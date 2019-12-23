@@ -53,11 +53,16 @@ Para el **APV-B** es más difícil el cálculo porque va a depender de cuántos 
 
 ##### Ok, pero no tengo tanta plata. ¿Cuánto es el mínimo que puedo aportar?
 
-No hay montos mínimos
+No hay montos mínimos.
+
+#####   
+​¿Y tengo que poner plata todos los meses?
+
+No. Puedes invertir mensualmente o todo de una sola vez. También puedes hacerlo mediante un descuento por planilla de tu sueldo.
 
 ##### ¿Y es para cualquier persona?
 
-Todos los que cotizan en una AFP. Para gozar de los beneficios, necesitas tener al menos una cotización obligatoria en el año del aporte.
+Para todos los que cotizan en una AFP. Para gozar de los beneficios, necesitas tener al menos una cotización obligatoria en el año del aporte.
 
 #####   
 ¿Qué tipos de APV existen?
@@ -84,10 +89,6 @@ Al hacer el aporte mediante descuento por planilla te ahorrarás parte del impue
 
 En varias instituciones reguladas: AFPs, corredoras, administradoras, entre ellas **Fintual** :)  
 Tenemos una comisión anual de 0,49%, la más baja del mercado según [El Mercurio Inversiones](http://www.elmercurio.com/Inversiones/Noticias/Analisis/2019/01/25/Nueva-serie-APV-de-fondos-mutuos-de-Fintual-es-la-mas-barata-del-mercado.aspx) y atendemos con mucha buena onda.
-
-##### ​¿Y tengo que poner plata todos los meses?
-
-No. Puedes invertir mensualmente o todo de una sola vez. También puedes hacerlo mediante un descuento por planilla de tu sueldo.
 
 #####   
 Oye, ¿y qué pasa con mi APV cuando me jubilo?
