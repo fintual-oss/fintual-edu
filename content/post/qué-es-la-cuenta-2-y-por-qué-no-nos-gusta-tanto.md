@@ -1,10 +1,9 @@
 +++
 aliases = []
 author = "Francesca Finaldi"
-categories = []
+categories = ["educación financiera"]
 date = 2019-12-23T13:38:37Z
 description = "Mucha gente invierte su plata en la Cuenta 2, quizás sin saber muy bien de qué se trata. A nosotros no nos gusta tanto, acá el por qué."
-draft = true
 hide = false
 image = "/uploads/2.jpg"
 title = "Qué es la Cuenta 2 (y por qué no nos gusta tanto)"
