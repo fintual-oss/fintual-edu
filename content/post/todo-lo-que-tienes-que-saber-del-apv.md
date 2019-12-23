@@ -86,8 +86,7 @@ Al hacer el aporte mediante descuento por planilla te ahorrarás parte del impue
 En varias instituciones reguladas: AFPs, corredoras, administradoras, entre ellas **Fintual** :)  
 Tenemos una comisión anual de 0,49%, la más baja del mercado según [El Mercurio Inversiones](http://www.elmercurio.com/Inversiones/Noticias/Analisis/2019/01/25/Nueva-serie-APV-de-fondos-mutuos-de-Fintual-es-la-mas-barata-del-mercado.aspx) y atendemos con mucha buena onda.
 
-#####   
-Oye, ¿y qué pasa con mi APV cuando me jubilo?
+##### Oye, ¿y qué pasa con mi APV cuando me jubilo?
 
 Al momento de jubilar se suman tus cotizaciones obligatorias (AFP) más los aportes voluntarios (APV).
 
@@ -95,8 +94,7 @@ Si el monto total acumulado con ambos ahorros te permite pensionarte con al meno
 
 También puedes optar por no sumar tu APV a tu jubilación y retirarlo completo, pero en ese caso no recibes el beneficio del Estado.
 
-##### **  
-**¿Puedo tener APV si ya me jubilé?
+##### ¿Puedo tener APV si ya me jubilé?
 
 Sí, puedes abrir un APV y tener los beneficios que entrega el Estado por ese ahorro, pero sólo si sigues trabajando, ya sea como trabajador/a dependiente o a través de boleta de honorarios y optas por seguir cotizando.  
 Si ya jubilaste y no sigues trabajando, puedes invertir en APV igual, pero no obtendrás los beneficios del Estado.
