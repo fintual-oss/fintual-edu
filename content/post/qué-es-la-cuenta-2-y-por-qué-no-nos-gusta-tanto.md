@@ -14,7 +14,7 @@ La Cuenta 2 o Cuenta de Ahorro Voluntario es un instrumento de inversión creada
 
 Como es independiente a la cotización obligatoria, puedes tener Cuenta 2 en cualquiera de las siete AFP (no sólo en la que cotizas).
 
-Pero tiene un pequeño gran detalle: tu dinero se invierte sobre los mismos multifondos de las AFP a los que se va tu capitalización individual.
+Pero tiene un pequeño gran detalle: tu dinero se invierte sobre los mismos multifondos de las AFP a los que se va tu capitalización individual. En la Cuenta 2 puedes elegir entre los multifondos y nada más.
 
 El problema es que las AFP tienen [muchas restricciones de inversión](http://www.spensiones.cl/files/normativa/circulares/CAFP1216.pdf) por tipo de instrumento y por emisor de los activos de inversión que están establecidas por ley:
 
@@ -63,6 +63,6 @@ Bueno, en eso "nos ganan". La comisión en Fintual es de 1,19%.
 
 Seguimos pensando que Fintual es una opción mejor. Puedes tener un portafolio personalizado con distintos objetivos de inversión, cada uno con un riesgo y plazo definido, y así tener una combinación de fondos que se ajusten a tu inversión.
 
-En la Cuenta 2 puedes elegir entre los multifondos y nada más.
+¿Te tincó Fintual?
 
 {{< button_link href="https://fintual.cl/?utm_source=edu.fintual.cl" text="Empezar" >}}
