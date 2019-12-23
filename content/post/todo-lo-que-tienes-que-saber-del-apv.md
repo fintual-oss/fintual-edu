@@ -128,7 +128,7 @@ Aparte de los beneficios, la plata que ahorres se va a invertir, lo que signific
 
 ¿Qué esperas?
 
-{{< button_link href="https://fintual.cl/?utm_source=edu.fintual.cl" text="Empezar" >}}
+{{< button_link href="[https://fintual.cl/apv/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=abc+apv-313](https://fintual.cl/apv/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=abc+apv-313 "https://fintual.cl/apv/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=abc+apv-313")" text="Empezar" >}}
 
 _Infórmese de las características esenciales de la inversión en este fondo mutuo, las que se encuentran contenidas en su reglamento interno y contrato de suscripción de cuotas.
 
