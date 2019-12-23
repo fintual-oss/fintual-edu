@@ -87,7 +87,8 @@ Si ya jubilaste y no sigues trabajando, puedes invertir en APV igual, pero no ob
 
 Para aprovechar los beneficios de este año, tienes que aportar a tu APV a más tardar el 30 de diciembre a las 11:30 am.
 
-##### ¿Y eso es todo?
+#####   
+¿Y eso es todo?
 
 Aparte de los beneficios, la plata que ahorres se va a invertir, lo que significa que va a rentar y crecer, pudiendo ser algo muy importante con el tiempo:
 
