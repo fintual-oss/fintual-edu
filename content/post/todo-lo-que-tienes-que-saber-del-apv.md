@@ -130,8 +130,10 @@ Aparte de los beneficios, la plata que ahorres se va a invertir, lo que signific
 
 {{< button_link href="[https://fintual.cl/apv/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=abc+apv-313](https://fintual.cl/apv/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=abc+apv-313 "https://fintual.cl/apv/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=abc+apv-313")" text="Empezar" >}}
 
-_Infórmese de las características esenciales de la inversión en este fondo mutuo, las que se encuentran contenidas en su reglamento interno y contrato de suscripción de cuotas.
+_  
+  
+Infórmese de las características esenciales de la inversión en este fondo mutuo, las que se encuentran contenidas en su reglamento interno y contrato de suscripción de cuotas._
 
-La rentabilidad es fluctuante, por lo que nada garantiza que las rentabilidades pasadas se mantengan en el futuro.
+_La rentabilidad es fluctuante, por lo que nada garantiza que las rentabilidades pasadas se mantengan en el futuro._
 
-Aquí están los [_supuestos_](https://edu.fintual.cl/simulaciones-mail-apv-octubre-2019/) _detrás de la proyección mostrada._
+_Aquí están los_ [_supuestos_](https://edu.fintual.cl/simulaciones-mail-apv-octubre-2019/) _detrás de la proyección mostrada._
