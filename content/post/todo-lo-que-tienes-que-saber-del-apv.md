@@ -36,7 +36,8 @@ Si tu sueldo imponible es mayor a $3.384.000, te conviene tener todo tu APV en e
 
 _Creamos_ [_esta planilla_](https://docs.google.com/spreadsheets/d/1jnpbeqiFwQ1qFFITIaMBAy0F3B9_MXm8MdDC8MQNDaA/copy) _para que puedas analizar qué régimen te conviene._
 
-##### Ok, pero no me queda claro cómo funciona el beneficio del Estado
+#####   
+Ok, pero no me queda claro cómo funciona el beneficio del Estado
 
 Para **APV-A**, el Estado calcula tu aporte del año anterior y lo transfiere en agosto/septiembre. Cuando recibimos el beneficio lo agregamos a tu cuenta.
 
@@ -48,15 +49,11 @@ Para llegar a las 6 UTM del **APV-A**, equivalente al 15% de lo que aportas, deb
 
 Para el **APV-B** es más difícil el cálculo porque va a depender de cuántos impuestos pagas, pero el máximo que podrías descontar son 600 UF (casi $17.000.000).
 
-##### 
-
-Ok, pero no tengo tanta plata. ¿Cuánto es el mínimo que puedo aportar?
+##### Ok, pero no tengo tanta plata. ¿Cuánto es el mínimo que puedo aportar?
 
 No hay montos mínimos
 
-##### 
-
-¿Y es para cualquier persona?
+##### ¿Y es para cualquier persona?
 
 El APV está diseñado par trabajadores dependientes e independientes que coticen en alguna AFP. Para acceder al beneficio estatal es necesario que hayas hecho al menos una cotización obligatoria en el año.
 
