@@ -57,13 +57,12 @@ No hay montos mínimos
 
 ##### ¿Y es para cualquier persona?
 
-El APV está diseñado par trabajadores dependientes e independientes que coticen en alguna AFP. Para acceder al beneficio estatal es necesario que hayas hecho al menos una cotización obligatoria en el año.
+Todos los que cotizan en una AFP. Para gozar de los beneficios, necesitas tener al menos una cotización obligatoria en el año del aporte.
 
 ##### ¿Dónde puedo tener APV?
 
-Puedes contratar tu APV en una AFP (puede ser distinta a la de tus cotizaciones previsionales), una compañía de seguros de vida, un banco, una administradora de fondos de inversión o una administradora de fondos mutuos, **como Fintual** :)
-
-##### 
+En varias instituciones reguladas: AFPs, corredoras, administradoras, entre ellas **Fintual** :)  
+Tenemos una comisión anual de 0,49%, la más baja del mercado según [El Mercurio Inversiones](http://www.elmercurio.com/Inversiones/Noticias/Analisis/2019/01/25/Nueva-serie-APV-de-fondos-mutuos-de-Fintual-es-la-mas-barata-del-mercado.aspx) y atendemos con mucha buena onda.
 
 ##### ​¿Y tengo que poner plata todos los meses?
 
