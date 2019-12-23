@@ -6,7 +6,7 @@ date = 2019-12-23T18:34:54Z
 description = "El ABC del APV fue lo más creativo que se nos ocurrió para esta descripción."
 draft = true
 hide = false
-image = ""
+image = "/uploads/apvchanchito.jpg"
 title = "Todo lo que tienes que saber del APV"
 url = "abc-del-apv"
 
