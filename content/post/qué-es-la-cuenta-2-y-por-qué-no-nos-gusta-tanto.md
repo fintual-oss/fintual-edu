@@ -64,3 +64,5 @@ Bueno, en eso "nos ganan". La comisión en Fintual es de 1,19%.
 Seguimos pensando que Fintual es una opción mejor. Puedes tener un portafolio personalizado con distintos objetivos de inversión, cada uno con un riesgo y plazo definido, y así tener una combinación de fondos que se ajusten a tu inversión.
 
 En la Cuenta 2 puedes elegir entre los multifondos y nada más.
+
+{{< button_link href="https://fintual.cl/?utm_source=edu.fintual.cl" text="Empezar" >}}
