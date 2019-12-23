@@ -59,6 +59,27 @@ No hay montos mínimos
 
 Todos los que cotizan en una AFP. Para gozar de los beneficios, necesitas tener al menos una cotización obligatoria en el año del aporte.
 
+#####   
+¿Qué tipos de APV existen?
+
+1.  **Depósito de APV:** los aportes pueden ser retirados en cualquier momento pagando una sobretasa al impuesto global complementario o devolviendo el aporte del estado, dependiendo de si el régimen de tu APV es B o A, respectivamente.
+2. **Depósitos convenidos:** Son aportes que puedes pactar con tu empleador y que tienen beneficio tributario de hasta UF 900 anuales. Es decir, hasta UF 900 no constituyen renta (no son parte de tu sueldo), por lo que no se encuentran afectos a impuesto. Sin embargo, no puedes retirarlos antes de jubilarte. Existen tres modalidades:
+
+   Un monto fijo pagado una única vez por tu empleador
+
+   Un % mensual de tu remuneración imponible (que no es parte de tu remuneración).
+
+   Un monto fijo mensual.
+3. **Cotizaciones voluntarias:** Sólo pueden hacerse en la AFP. No confundir con el ahorro voluntario o "cuenta 2", que no es un tipo de APV.
+
+#####   
+¿Hay alguna diferencia en el beneficio si hago el aporte por mi cuenta versus descuento por planilla?
+
+Si tu APV es régimen A, no hay diferencia.
+
+Si tu APV es régimen B existe una pequeña diferencia sobre el impuesto que te ahorras.  
+Al hacer el aporte mediante descuento por planilla te ahorrarás parte del impuesto que pagas todos los meses por tu sueldo, con un límite de 50 UF mensual. En cambio, si haces el aporte por tu cuenta (con la periodicidad que sea) te ahorras el impuesto anual que pagas por todas tus rentas y que se calcula con tu declaración de renta que haces en abril de todos los años.
+
 ##### ¿Dónde puedo tener APV?
 
 En varias instituciones reguladas: AFPs, corredoras, administradoras, entre ellas **Fintual** :)  
