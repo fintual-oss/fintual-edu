@@ -7,7 +7,7 @@ description = "El ABC del APV fue lo más creativo que se nos ocurrió para esta
 hide = true
 image = "/uploads/apvchanchito.jpg"
 title = "Todo lo que tienes que saber del APV"
-url = "abc-del-apv"
+url = "/abc-del-apv"
 
 +++
 El APV es una forma de ahorrar para el largo plazo con **beneficios tributarios bacanes y sólo tienes hasta el 30 de diciembre para aprovecharlos este año.**
