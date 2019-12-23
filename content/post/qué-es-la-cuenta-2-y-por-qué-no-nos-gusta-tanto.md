@@ -67,4 +67,6 @@ Seguimos pensando que Fintual es una opción mejor. Puedes tener un portafolio p
 
 {{< button_link href="https://fintual.cl/?utm_source=edu.fintual.cl" text="Empezar" >}}
 
-_Infórmese de las características esenciales de la inversión en estos fondos mutuos, los que se encuentran contenidos en sus reglamentos internos y contratos de suscripción de cuotas._
+_  
+  
+Infórmese de las características esenciales de la inversión en estos fondos mutuos, los que se encuentran contenidos en sus reglamentos internos y contratos de suscripción de cuotas._
