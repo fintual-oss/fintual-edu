@@ -68,7 +68,8 @@ Tenemos una comisión anual de 0,49%, la más baja del mercado según [El Mercur
 
 No. Puedes invertir mensualmente o todo de una sola vez. También puedes hacerlo mediante un descuento por planilla de tu sueldo.
 
-##### Oye, ¿y qué pasa con mi APV cuando me jubilo?
+#####   
+Oye, ¿y qué pasa con mi APV cuando me jubilo?
 
 Al momento de jubilar se suman tus cotizaciones obligatorias (AFP) más los aportes voluntarios (APV).
 
