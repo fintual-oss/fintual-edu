@@ -10,7 +10,7 @@ title = "Todo lo que tienes que saber del APV"
 url = "/abc-del-apv"
 
 +++
-El APV es una forma de ahorrar para el largo plazo con **beneficios tributarios bacanes y sólo tienes hasta el 30 de diciembre para aprovecharlos este año.**
+El APV es una forma de ahorrar para el largo plazo con **beneficios tributarios bacanes y sólo tienes hasta el 30 de diciembre para aprovecharlos este año ⏱**
 
 ##### ¿Qué es?
 
@@ -63,7 +63,7 @@ Para todos los que cotizan en una AFP. Para gozar de los beneficios, necesitas t
 
 ##### ¿Qué tipos de APV existen?
 
-1.  **Depósito de APV:** los aportes pueden ser retirados en cualquier momento pagando una sobretasa al impuesto global complementario o devolviendo el aporte del estado, dependiendo de si el régimen de tu APV es B o A, respectivamente.
+1. **Depósito de APV:** los aportes pueden ser retirados en cualquier momento pagando una sobretasa al impuesto global complementario o devolviendo el aporte del estado, dependiendo de si el régimen de tu APV es B o A, respectivamente.
 2. **Depósitos convenidos:** Son aportes que puedes pactar con tu empleador y que tienen beneficio tributario de hasta UF 900 anuales. Es decir, hasta UF 900 no constituyen renta (no son parte de tu sueldo), por lo que no se encuentran afectos a impuesto. Sin embargo, no puedes retirarlos antes de jubilarte. Existen tres modalidades:
 
    Un monto fijo pagado una única vez por tu empleador
@@ -100,7 +100,7 @@ Si ya jubilaste y no sigues trabajando, puedes invertir en APV igual, pero no ob
 
 ##### ¿Qué pasa si tengo APV o Seguro con Ahorro en otro lado?
 
-Puedes traerlo de forma interna a Fintual para no perder los beneficios. Ojo que en general los seguros con ahorros son más caros que tener un seguro de vida por un lado y APV por otro.   
+Puedes traerlo de forma interna a Fintual para no perder los beneficios. Ojo que en general los seguros con ahorros son más caros que tener un seguro de vida por un lado y APV por otro.  
 También puedes tener tu APV en más de una institución al mismo tiempo, pero los beneficios aplican por el total.
 
 ##### ¿Y si necesito la plata es llegar y sacarla?
@@ -130,8 +130,8 @@ Aparte de los beneficios, la plata que ahorres se va a invertir, lo que signific
 
 {{< button_link href="[https://fintual.cl/apv/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=abc+apv-313](https://fintual.cl/apv/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=abc+apv-313 "https://fintual.cl/apv/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=abc+apv-313")" text="Empezar" >}}
 
-_  
-  
+_
+
 Infórmese de las características esenciales de la inversión en este fondo mutuo, las que se encuentran contenidas en su reglamento interno y contrato de suscripción de cuotas._
 
 _La rentabilidad es fluctuante, por lo que nada garantiza que las rentabilidades pasadas se mantengan en el futuro._
