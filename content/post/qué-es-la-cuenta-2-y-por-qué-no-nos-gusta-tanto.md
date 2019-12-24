@@ -14,7 +14,7 @@ La Cuenta 2 o Cuenta de Ahorro Voluntario es un instrumento de inversión creada
 
 Como es independiente a la cotización obligatoria, puedes tener Cuenta 2 en cualquiera de las siete AFP (no sólo en la que cotizas).
 
-Pero tiene un pequeño gran detalle: tu dinero se invierte sobre los mismos multifondos de las AFP a los que se va tu capitalización individual. O sea, puedes elegir entre los multifondos y nada más.
+Cuál es el pero: tu dinero se invierte sobre los mismos multifondos de las AFP a los que se va tu capitalización individual. O sea, puedes elegir entre los multifondos y nada más.
 
 El problema es que las AFP tienen [muchas restricciones de inversión](http://www.spensiones.cl/files/normativa/circulares/CAFP1216.pdf) por tipo de instrumento y por emisor de los activos de inversión que están establecidas por ley:
 
