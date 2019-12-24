@@ -38,9 +38,7 @@ Además, como las carteras de inversión son públicas y la ley multa a las AFP 
 
 Y eso es justamente lo que hacemos en Fintual. Automatizamos las inversiones y usamos un algoritmo que nos permite bajar las comisiones. Así es como somos [el APV más barato del mercado](https://www.elmercurio.com/Inversiones/Noticias/Analisis/2019/01/25/Nueva-serie-APV-de-fondos-mutuos-de-Fintual-es-la-mas-barata-del-mercado.aspx) y estamos [todos los meses entre las AGF más baratas](https://www.elmercurio.com/Inversiones/Noticias/Analisis/2019/11/22/Las-AGF-mas-cara-y-mas-baratas-en-octubre.aspx).
 
-Además, Fintual no tiene esas restricciones.
-
-Tenemos **fondos mutuos de libre inversión:** pueden cambiar de manera muy flexible su portafolio de inversión. En un ejemplo extremo, Risky Norris puede ser sólo 30% acciones.
+Por otro lado, no rigen las mismas restricciones. Tenemos **fondos mutuos de libre inversión:** pueden cambiar de manera muy flexible su portafolio de inversión. En un ejemplo extremo, Risky Norris puede ser sólo 30% acciones.
 
 ##### Ya, ¿y los impuestos?
 
