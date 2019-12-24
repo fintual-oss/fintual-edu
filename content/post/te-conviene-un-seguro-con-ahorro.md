@@ -111,9 +111,10 @@ Lo importante es que sepas cuánto estás pagando por tu seguro, **cuánto está
 
 **_Dato:_** _si no tienes a mano tu póliza y la quieres revisar, puedes buscarla en el_ [_depósito de pólizas de la CMF_](http://www.cmfchile.cl/institucional/mercados/deposito_polizas.php?mercado=S&utm_source=newsletter&utm_medium=email&utm_campaign=la_verdad_de_los_seguros_con_ahorro&utm_term=2019-12-23)_. En tu cartola debería salir el número de póliza. Si no tienes idea qué tipo de seguro tienes ni el número de póliza, la CMF tiene_ [_este servicio_](http://www.cmfchile.cl/mascerca/601/w3-article-20320.html?&utm_source=newsletter&utm_medium=email&utm_campaign=la_verdad_de_los_seguros_con_ahorro&utm_term=2019-12-23) _en el que puedes conocer estos datos sólo con tu carnet de identidad. Lo malo es que el trámite puede demorar hasta 30 días._
 
-> Cambiarte y mover tu APV a Fintual **no cuenta como un retiro y no pierdes los beneficios tributarios.**  
+> ##### Cambiarte y mover tu APV a Fintual **no cuenta como un retiro y no pierdes los beneficios tributarios.**  
 > Más de 300 personas ya se trajeron su APV 🚀
 
+  
   
 {{< button_link href="https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=seguro+con+ahorro+edu-314" text="¿Y tú?" >}}
 
