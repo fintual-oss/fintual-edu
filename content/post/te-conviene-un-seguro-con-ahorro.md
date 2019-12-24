@@ -54,7 +54,7 @@ En el caso de Samuel, le convendría tener su plata en otro lado si encuentra un
 
 Si comparamos comisiones en el ránking de las [AGF más caras y más baratas](https://www.elmercurio.com/Inversiones/Noticias/Analisis/2019/11/22/Las-AGF-mas-cara-y-mas-baratas-en-octubre.aspx?&utm_source=newsletter&utm_medium=email&utm_campaign=la_verdad_de_los_seguros_con_ahorro&utm_term=2019-12-23) que hace todos los meses El Mercurio Inversiones, hay una categoría con las comisiones promedio que cobra cada AGF a los inversionistas APV:
 
-![](/uploads/cobrosAPV.png)
+<div style="text-align:center"> <figure> <img src="/uploads/cobrosAPV.png"> </figure> </div>
 
 Y sin ir más lejos, Fintual [es el más barato del mercado](https://www.elmercurio.com/Inversiones/Noticias/Analisis/2019/01/25/Nueva-serie-APV-de-fondos-mutuos-de-Fintual-es-la-mas-barata-del-mercado.aspx?&utm_source=newsletter&utm_medium=email&utm_campaign=la_verdad_de_los_seguros_con_ahorro&utm_term=2019-12-23) y cobra una comisión de máximo 0,49% al año: **un 79% menos que lo que cobraba el seguro con APV que tenía Samuel!**
 
@@ -112,7 +112,7 @@ Lo importante es que sepas cuánto estás pagando por tu seguro, **cuánto está
 **_Dato:_** _si no tienes a mano tu póliza y la quieres revisar, puedes buscarla en el_ [_depósito de pólizas de la CMF_](http://www.cmfchile.cl/institucional/mercados/deposito_polizas.php?mercado=S&utm_source=newsletter&utm_medium=email&utm_campaign=la_verdad_de_los_seguros_con_ahorro&utm_term=2019-12-23)_. En tu cartola debería salir el número de póliza. Si no tienes idea qué tipo de seguro tienes ni el número de póliza, la CMF tiene_ [_este servicio_](http://www.cmfchile.cl/mascerca/601/w3-article-20320.html?&utm_source=newsletter&utm_medium=email&utm_campaign=la_verdad_de_los_seguros_con_ahorro&utm_term=2019-12-23) _en el que puedes conocer estos datos sólo con tu carnet de identidad. Lo malo es que el trámite puede demorar hasta 30 días._
 
 > Cambiarte y mover tu APV a Fintual **no cuenta como un retiro y no pierdes los beneficios tributarios.  
-> **Más de 300 personas ya se trajeron su APV 🚀
+> \**Más de 300 personas ya se trajeron su APV 🚀
 
 {{< button_link href="[https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=seguro+con+ahorro+edu-314](https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=seguro+con+ahorro+edu-314 "https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=seguro+con+ahorro+edu-314")" text="¿Y tú?" >}}
 
