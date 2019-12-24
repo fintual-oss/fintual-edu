@@ -114,6 +114,6 @@ Lo importante es que sepas cuánto estás pagando por tu seguro, **cuánto está
 > Cambiarte y mover tu APV a Fintual **no cuenta como un retiro y no pierdes los beneficios tributarios.  
 > \**Más de 300 personas ya se trajeron su APV 🚀
 
-{{< button_link href="https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=seguro+con+ahorro+edu-314](https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=seguro+con+ahorro+edu-314 "https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=seguro+con+ahorro+edu-314")" text="¿Y tú?" >}}
+{{< button_link href="https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=seguro+con+ahorro+edu-314" text="¿Y tú?" >}}
 
 _Infórmese de las características esenciales de la inversión en estos fondos mutuos, los que se encuentran contenidos en sus reglamentos internos y contratos de suscripción de cuotas._
