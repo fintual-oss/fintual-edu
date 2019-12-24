@@ -5,7 +5,7 @@ categories = ["educación financiera"]
 date = 2019-12-23T03:10:43Z
 description = "Los estudiamos, los entendimos y –spoiler alert– hay mejores opciones."
 draft = true
-hide = false
+hide = true
 image = ""
 title = "¿Te conviene un seguro con ahorro?"
 url = "la-verdad-de-los-seguros-con-ahorro"
@@ -94,4 +94,17 @@ Algunos ejemplos:
   \- _Vas a perder el seguro de vida:_** Esa es la idea! Porque tienes un seguro demasiado caro. Si necesitas un seguro, puedes tomar un seguro de vida en la misma compañía u otra, más barato y con mejor cobertura.  
   \- **_Largo trámite en caso de fallecimiento:_** Independiente de donde tengas el APV, el trámite de posesión efectiva para heredarlo se debe realizar igual._  
   \- **Pago de renta/impuestos:**_ Al jubilar, todo lo invertido es exento de impuestos. En caso de fallecimiento, los beneficiarios/herederos reciben una pensión de sobrevivencia que está afecta a pago de impuestos sólo si es mayor a 13,5 UTM.
-* **No pagan impuestos:** Esta es la única verdad, pero hay un pequeño gran detalle. El Servicio de Impuestos Internos **no está de acuerdo con que los seguros con ahorro no tributen y hay un juicio pendiente en la Corte Suprema**. Puedes leer la historia [acá](https://edu.fintual.cl/pagan-impuestos-los-seguros-con-ahorro/?&utm_source=newsletter&utm_medium=email&utm_campaign=la_verdad_de_los_seguros_con_ahorro&utm_term=2019-12-23)
+* **No pagan impuestos:** Esta es la única verdad, pero hay un pequeño gran detalle. El Servicio de Impuestos Internos **no está de acuerdo con que los seguros con ahorro no tributen y hay un juicio pendiente en la Corte Suprema**. Puedes leer la historia [acá](https://edu.fintual.cl/pagan-impuestos-los-seguros-con-ahorro/?&utm_source=newsletter&utm_medium=email&utm_campaign=la_verdad_de_los_seguros_con_ahorro&utm_term=2019-12-23).
+
+##### Arranca!
+
+Después de saber todo esto, creo que vale la pena al menos comparar.   
+  
+Algunos tips para empezar a cotizar ambas cosas por separado:
+
+* Si quieres analizar el rendimiento de tus fondos mutuos: [www.quefondomutuo.cl](http://www.quefondomutuo.cl/?&utm_source=newsletter&utm_medium=email&utm_campaign=la_verdad_de_los_seguros_con_ahorro&utm_term=2019-12-23)
+
+
+* Y cotizar seguros en [ComparaOnline](https://www.comparaonline.cl/seguro-de-vida?&utm_source=newsletter&utm_medium=email&utm_campaign=la_verdad_de_los_seguros_con_ahorro&utm_term=2019-12-23) [(](https://www.comparaonline.cl/seguro-de-vida?&utm_source=newsletter&utm_medium=email&utm_campaign=la_verdad_de_los_seguros_con_ahorro&utm_term=2019-12-23)aunque hay que tener ojo con las sugerencias auspiciadas de seguros con ahorro). Otra opción que me gustó fue la de [Seguros Falabella](https://web.segurosfalabella.com/cl/vida/full/?&utm_source=newsletter&utm_medium=email&utm_campaign=la_verdad_de_los_seguros_con_ahorro&utm_term=2019-12-23), porque es de las pocas que te muestra de manera simple la cobertura y el precio del seguro.
+
+![](/uploads/segurosfalabella.png)
