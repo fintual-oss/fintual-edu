@@ -14,7 +14,7 @@ La Cuenta 2 o Cuenta de Ahorro Voluntario es un instrumento de inversión creada
 
 Como es independiente a la cotización obligatoria, puedes tener Cuenta 2 en cualquiera de las siete AFP (no sólo en la que cotizas).
 
-Cuál es el pero: tu dinero se invierte sobre los mismos multifondos de las AFP a los que se va tu capitalización individual. O sea, puedes elegir entre los multifondos y nada más.
+Cuál es el **pero**: tu dinero se invierte sobre los mismos multifondos de las AFP a los que se va tu capitalización individual. O sea, puedes elegir entre los multifondos y nada más.
 
 El problema es que las AFP tienen [muchas restricciones de inversión](http://www.spensiones.cl/files/normativa/circulares/CAFP1216.pdf) por tipo de instrumento y por emisor de los activos de inversión que están establecidas por ley:
 
@@ -26,7 +26,9 @@ No pueden invertir en ciertos activos alternativos, como _hedge funds_, y **esa 
 
 Otra restricción es que **entre los cinco multifondos tienen un límite de 80% en instrumentos extranjeros**. O sea, están obligadas a invertir en Chile, aún cuando el mercado no ande bien.
 
-Además, hay otro problema. Puede que las AFP no estén invirtiendo bien: un estudio de Alejandro Bernales, académico de la Universidad de Chile, descubrió que **los fondos de pensiones están** [**significativamente por debajo de la frontera eficiente de inversión**](http://www.dii.uchile.cl/2017/06/06/alejandro-bernales-por-que-las-afps-podrian-no-estar-invirtiendo-bien-las-pensiones-de-los-chilenos/).
+Y hay otro **pero**: puede que las AFP no estén invirtiendo bien.
+
+Un estudio de Alejandro Bernales, académico de la Universidad de Chile, descubrió que **los fondos de pensiones están** [**significativamente por debajo de la frontera eficiente de inversión**](http://www.dii.uchile.cl/2017/06/06/alejandro-bernales-por-que-las-afps-podrian-no-estar-invirtiendo-bien-las-pensiones-de-los-chilenos/).
 
 ¿Y por qué pasa esto? Probablemente porque hacerlo bien o mal no afecta significativamente sus ingresos. Las AFP ganan más por las comisiones que cobran que por la rentabilidad que obtienen.
 
