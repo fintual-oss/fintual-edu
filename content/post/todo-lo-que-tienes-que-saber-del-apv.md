@@ -86,7 +86,7 @@ Tenemos una comisión anual de 0,49%, la más baja del mercado según [El Mercur
 
 Al momento de jubilar se suman tus cotizaciones obligatorias (AFP) más los aportes voluntarios (APV).
 
-Si el monto total acumulado con ambos ahorros te permite pensionarte con al menos un 70% de tu sueldo promedio durante los últimos 10 años, entonces todo lo que exceda a ese monto acumulado puede ser retirado como excedente de libre disposición, lo que significa que puedes retirarlo de una sola vez y sin pagar impuestos.
+Si el monto total acumulado con ambos ahorros te permite pensionarte con al menos un 70% de tu sueldo promedio durante los últimos 10 años, entonces todo lo que exceda a ese monto acumulado puede ser retirado como excedente de libre disposición, lo que significa que puedes retirarlo de una sola vez.
 
 También puedes optar por no sumar tu APV a tu jubilación y retirarlo completo, pero en ese caso no recibes el beneficio del Estado.
 
@@ -127,7 +127,6 @@ Aparte de los beneficios, la plata que ahorres se va a invertir, lo que signific
 
 {{< button_link href="https://fintual.cl/apv/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=abc+apv-313" text="Empezar" >}}
 
-  
 Infórmese de las características esenciales de la inversión en este fondo mutuo, las que se encuentran contenidas en su reglamento interno y contrato de suscripción de cuotas._
 
 _La rentabilidad es fluctuante, por lo que nada garantiza que las rentabilidades pasadas se mantengan en el futuro._
