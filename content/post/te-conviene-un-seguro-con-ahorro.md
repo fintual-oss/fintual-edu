@@ -54,7 +54,9 @@ En el caso de Samuel, le convendría tener su plata en otro lado si encuentra un
 
 Si comparamos comisiones en el ránking de las [AGF más caras y más baratas](https://www.elmercurio.com/Inversiones/Noticias/Analisis/2019/11/22/Las-AGF-mas-cara-y-mas-baratas-en-octubre.aspx?&utm_source=newsletter&utm_medium=email&utm_campaign=la_verdad_de_los_seguros_con_ahorro&utm_term=2019-12-23) que hace todos los meses El Mercurio Inversiones, hay una categoría con las comisiones promedio que cobra cada AGF a los inversionistas APV:
 
-![](/uploads/cobrosAPV.png)Y sin ir más lejos, Fintual [es el más barato del mercado](https://www.elmercurio.com/Inversiones/Noticias/Analisis/2019/01/25/Nueva-serie-APV-de-fondos-mutuos-de-Fintual-es-la-mas-barata-del-mercado.aspx?&utm_source=newsletter&utm_medium=email&utm_campaign=la_verdad_de_los_seguros_con_ahorro&utm_term=2019-12-23) y cobra una comisión de máximo 0,49% al año: **un 79% menos que lo que cobraba el seguro con APV que tenía Samuel!**
+![](/uploads/cobrosAPV.png)
+
+Y sin ir más lejos, Fintual [es el más barato del mercado](https://www.elmercurio.com/Inversiones/Noticias/Analisis/2019/01/25/Nueva-serie-APV-de-fondos-mutuos-de-Fintual-es-la-mas-barata-del-mercado.aspx?&utm_source=newsletter&utm_medium=email&utm_campaign=la_verdad_de_los_seguros_con_ahorro&utm_term=2019-12-23) y cobra una comisión de máximo 0,49% al año: **un 79% menos que lo que cobraba el seguro con APV que tenía Samuel!**
 
 **¿Y el seguro?** Samuel cotizó un seguro de vida solo, con la misma aseguradora y con mejor cobertura (capital de 2.000 UF vs 1.500 UF), y costaba 0,9 UF mensual (\~$27.600). en lugar de los 1,56 UF (\~$44.000) que estaba pagando: **o sea, se va a ahorrar $16.500 todos los meses sólo en la parte del seguro.**
 
