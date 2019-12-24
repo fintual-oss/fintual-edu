@@ -90,10 +90,10 @@ Algunos ejemplos:
 * **El seguro protege la inversión:** el argumento detrás de esto es que, como estás contratando un seguro, _tu inversión está asegurada_. Nada que ver. Eso no tiene sentido porque el seguro es un seguro de vida.
 * **No hay costos por el ahorro:** completamente falso. El costo sí existe y muchas veces lo pagas dos veces.
 * **Terminar el contrato es la peor decisión que puedes tomar:__ es muuuy probable que cuando trates de escapar del seguro con ahorro te metan miedo diciendo cosas como:**  
-  \- _Vas a perder lo invertido (rentabilidad): **Mentira. Si traspasas tu APV a otra institución, como Fintual, no pierdes ningún $ de tu inversión.**  
-  \- **Vas a perder el seguro de vida: **_Esa es la idea! Porque tienes un seguro demasiado caro. Si necesitas un seguro, puedes tomar un seguro de vida en la misma compañía u otra, más barato y con mejor cobertura.  
+ \- **_Vas a perder lo invertido (rentabilidad):_** Mentira. Si traspasas tu APV a otra institución, como Fintual, no pierdes ningún $ de tu inversión.  
+  \- **_Vas a perder el seguro de vida: **_Esa es la idea! Porque tienes un seguro demasiado caro. Si necesitas un seguro, puedes tomar un seguro de vida en la misma compañía u otra, más barato y con mejor cobertura.  
   \- **_Largo trámite en caso de fallecimiento:_** Independiente de donde tengas el APV, el trámite de posesión efectiva para heredarlo se debe realizar igual.  
-  \- **Pago de renta/impuestos:** Al jubilar, todo lo invertido es exento de impuestos. En caso de fallecimiento, los beneficiarios/herederos reciben una pensión de sobrevivencia que está afecta a pago de impuestos sólo si es mayor a 13,5 UTM.
+  \- **_Pago de renta/impuestos:_** Al jubilar, todo lo invertido es exento de impuestos. En caso de fallecimiento, los beneficiarios/herederos reciben una pensión de sobrevivencia que está afecta a pago de impuestos sólo si es mayor a 13,5 UTM.
 * **No pagan impuestos:** Esta es la única verdad, pero hay un pequeño gran detalle. El Servicio de Impuestos Internos **no está de acuerdo con que los seguros con ahorro no tributen y hay un juicio pendiente en la Corte Suprema**. Puedes leer la historia [acá](https://edu.fintual.cl/pagan-impuestos-los-seguros-con-ahorro/?&utm_source=newsletter&utm_medium=email&utm_campaign=la_verdad_de_los_seguros_con_ahorro&utm_term=2019-12-23).
 
 ##### Arranca!
