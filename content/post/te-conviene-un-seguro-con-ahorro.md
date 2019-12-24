@@ -4,9 +4,8 @@ author = "Francesca Finaldi"
 categories = ["educación financiera"]
 date = 2019-12-23T03:10:43Z
 description = "Los estudiamos, los entendimos y –spoiler alert– hay mejores opciones."
-draft = true
 hide = true
-image = ""
+image = "/uploads/secret.jpeg"
 title = "¿Te conviene un seguro con ahorro?"
 url = "la-verdad-de-los-seguros-con-ahorro"
 
