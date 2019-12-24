@@ -4,7 +4,7 @@ author = "Francesca Finaldi"
 categories = ["educación financiera"]
 date = 2019-12-23T03:10:43Z
 description = "Los estudiamos, los entendimos y –spoiler alert– hay mejores opciones."
-hide = true
+hide = false
 image = "/uploads/secret.jpeg"
 title = "¿Te conviene un seguro con ahorro?"
 url = "la-verdad-de-los-seguros-con-ahorro"
@@ -91,7 +91,7 @@ Algunos ejemplos:
 * **No hay costos por el ahorro:** completamente falso. El costo sí existe y muchas veces lo pagas dos veces.
 * **Terminar el contrato es la peor decisión que puedes tomar:__ es muuuy probable que cuando trates de escapar del seguro con ahorro te metan miedo diciendo cosas como:**  
   \- _Vas a perder lo invertido (rentabilidad): **Mentira. Si traspasas tu APV a otra institución, como Fintual, no pierdes ningún $ de tu inversión.**  
-  \- Vas a perder el seguro de vida:_** Esa es la idea! Porque tienes un seguro demasiado caro. Si necesitas un seguro, puedes tomar un seguro de vida en la misma compañía u otra, más barato y con mejor cobertura.  
+  \- **Vas a perder el seguro de vida: **_Esa es la idea! Porque tienes un seguro demasiado caro. Si necesitas un seguro, puedes tomar un seguro de vida en la misma compañía u otra, más barato y con mejor cobertura.  
   \- **_Largo trámite en caso de fallecimiento:_** Independiente de donde tengas el APV, el trámite de posesión efectiva para heredarlo se debe realizar igual.  
   \- **Pago de renta/impuestos:** Al jubilar, todo lo invertido es exento de impuestos. En caso de fallecimiento, los beneficiarios/herederos reciben una pensión de sobrevivencia que está afecta a pago de impuestos sólo si es mayor a 13,5 UTM.
 * **No pagan impuestos:** Esta es la única verdad, pero hay un pequeño gran detalle. El Servicio de Impuestos Internos **no está de acuerdo con que los seguros con ahorro no tributen y hay un juicio pendiente en la Corte Suprema**. Puedes leer la historia [acá](https://edu.fintual.cl/pagan-impuestos-los-seguros-con-ahorro/?&utm_source=newsletter&utm_medium=email&utm_campaign=la_verdad_de_los_seguros_con_ahorro&utm_term=2019-12-23).
@@ -111,8 +111,8 @@ Lo importante es que sepas cuánto estás pagando por tu seguro, **cuánto está
 
 **_Dato:_** _si no tienes a mano tu póliza y la quieres revisar, puedes buscarla en el_ [_depósito de pólizas de la CMF_](http://www.cmfchile.cl/institucional/mercados/deposito_polizas.php?mercado=S&utm_source=newsletter&utm_medium=email&utm_campaign=la_verdad_de_los_seguros_con_ahorro&utm_term=2019-12-23)_. En tu cartola debería salir el número de póliza. Si no tienes idea qué tipo de seguro tienes ni el número de póliza, la CMF tiene_ [_este servicio_](http://www.cmfchile.cl/mascerca/601/w3-article-20320.html?&utm_source=newsletter&utm_medium=email&utm_campaign=la_verdad_de_los_seguros_con_ahorro&utm_term=2019-12-23) _en el que puedes conocer estos datos sólo con tu carnet de identidad. Lo malo es que el trámite puede demorar hasta 30 días._
 
-> Cambiarte y mover tu APV a Fintual **no cuenta como un retiro y no pierdes los beneficios tributarios.  
-> \**Más de 300 personas ya se trajeron su APV 🚀
+> Cambiarte y mover tu APV a Fintual **no cuenta como un retiro y no pierdes los beneficios tributarios.**  
+> Más de 300 personas ya se trajeron su APV 🚀
 
 {{< button_link href="https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=seguro+con+ahorro+edu-314" text="¿Y tú?" >}}
 
