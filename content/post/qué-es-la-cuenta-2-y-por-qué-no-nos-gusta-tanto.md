@@ -40,7 +40,7 @@ Y eso es justamente lo que hacemos en Fintual. Automatizamos las inversiones y u
 
 Además, Fintual no tiene esas restricciones.
 
-Tenemos **fondos mutuos de libre inversión:** pueden cambiar de manera muy flexible su portafolio de inversión. En el ejemplo más extremo, Risky Norris puede ser 100% renta variable o 100% deuda.
+Tenemos **fondos mutuos de libre inversión:** pueden cambiar de manera muy flexible su portafolio de inversión. En un ejemplo extremo, Risky Norris puede ser sólo 30% acciones.
 
 ##### Ya, ¿y los impuestos?
 
@@ -67,6 +67,4 @@ Seguimos pensando que Fintual es una opción mejor. Puedes tener un portafolio p
 
 {{< button_link href="https://fintual.cl/?utm_source=edu.fintual.cl" text="Empezar" >}}
 
-  
-  
 Infórmese de las características esenciales de la inversión en estos fondos mutuos, los que se encuentran contenidos en sus reglamentos internos y contratos de suscripción de cuotas._
