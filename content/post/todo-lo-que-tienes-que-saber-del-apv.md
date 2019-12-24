@@ -22,7 +22,7 @@ Para aumentar la plata que recibes una vez jubilado, o incluso para adelantar la
 
 Como el Estado quiere que ahorres para tu jubilación, te da dos beneficios para elegir:
 
-**Régimen A:** El Estado te regala un 15% de lo que ahorres en un año, con un tope de 6 UTM (casi $300.000 al año😱)
+**Régimen A:** El Estado te regala un 15% de lo que ahorres en un año, con un tope de 6 UTM (casi $300.000 al año 😱)
 
 **Régimen B:** Tiene como beneficio pagar menos impuestos, con un límite de 600 UF anuales.
 
@@ -64,12 +64,9 @@ Para todos los que cotizan en una AFP. Para gozar de los beneficios, necesitas t
 ##### ¿Qué tipos de APV existen?
 
 1. **Depósito de APV:** los aportes pueden ser retirados en cualquier momento pagando una sobretasa al impuesto global complementario o devolviendo el aporte del estado, dependiendo de si el régimen de tu APV es B o A, respectivamente.
-2. **Depósitos convenidos:** Son aportes que puedes pactar con tu empleador y que tienen beneficio tributario de hasta UF 900 anuales. Es decir, hasta UF 900 no constituyen renta (no son parte de tu sueldo), por lo que no se encuentran afectos a impuesto. Sin embargo, no puedes retirarlos antes de jubilarte. Existen tres modalidades:
-
-   Un monto fijo pagado una única vez por tu empleador
-
-   Un % mensual de tu remuneración imponible (que no es parte de tu remuneración).
-
+2. **Depósitos convenidos:** Son aportes que puedes pactar con tu empleador y que tienen beneficio tributario de hasta UF 900 anuales. Es decir, hasta UF 900 no constituyen renta (no son parte de tu sueldo), por lo que no se encuentran afectos a impuesto. Sin embargo, no puedes retirarlos antes de jubilarte. Existen tres modalidades:  
+   Un monto fijo pagado una única vez por tu empleador  
+   Un % mensual de tu remuneración imponible (que no es parte de tu remuneración).  
    Un monto fijo mensual.
 3. **Cotizaciones voluntarias:** Sólo pueden hacerse en la AFP. No confundir con el ahorro voluntario o "cuenta 2", que no es un tipo de APV.
 
