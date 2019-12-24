@@ -50,7 +50,7 @@ En la Cuenta 2 puedes sacar tu plata cuando quieras, aunque tiene un límite de 
 
 **54 Bis:** puedes postergar el pago de impuestos de la rentabilidad hasta que sea retirada. El límite anual para los aportes es de 100 UTA ($59.547.600). Si el total de los aportes en un año supera ese monto, el exceso tributa como Régimen General.
 
-En Fintual está el mismo beneficio del régimen general (se llama artículo 57 LIR), pero sin límites de rescates al año.
+En Fintual, ambos beneficios –54bis y el artículo 57 LIR– están "por defecto" y no tienes que elegir entre uno u otro. Además, no hay límites de rescates al año.
 
 ##### No han hablado de comisiones **🧐**
 
