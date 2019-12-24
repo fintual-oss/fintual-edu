@@ -55,7 +55,7 @@ En Fintual, ambos beneficios –el artículo 57 LIR y 54bis– están "por defec
 Estas son las comisiones de la Cuenta 2:  
 ![](/uploads/comisionescuenta2.png)
 
-Bueno, en eso "nos ganan". La comisión en Fintual es de 1,19%.
+Bueno, en eso nos ganan. La comisión en Fintual es de 1,19%.
 
 ##### Peeero
 
