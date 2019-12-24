@@ -28,8 +28,7 @@ Como el Estado quiere que ahorres para tu jubilación, te da dos beneficios para
 
 ##### ¿Y cómo sé qué régimen de APV me conviene?
 
-Depende de lo que ganes. Si tu sueldo imponible (líquido sin impuestos) es menor a $3.384.000, te conviene invertir en el régimen A hasta maximizar el beneficio. Cualquier monto que inviertas sobre ese monto debería irse al régimen B.
-Si tu sueldo imponible es mayor a $3.384.000, te conviene tener todo tu APV en el régimen B.
+Depende de lo que ganes. Si tu sueldo imponible (líquido sin impuestos) es menor a $3.473.610 (a diciembre de 2019), te conviene invertir en el régimen A hasta maximizar el beneficio. Cualquier monto que inviertas sobre ese monto debería irse al régimen B. Si tu sueldo imponible es mayor a $3.384.000, te conviene tener todo tu APV en el régimen B.
 
 _Creamos_ [_esta planilla_](https://docs.google.com/spreadsheets/d/1jnpbeqiFwQ1qFFITIaMBAy0F3B9_MXm8MdDC8MQNDaA/copy) _para que puedas analizar qué régimen te conviene._
 
