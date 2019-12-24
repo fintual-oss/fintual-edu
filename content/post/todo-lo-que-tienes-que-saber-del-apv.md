@@ -28,7 +28,7 @@ Como el Estado quiere que ahorres para tu jubilación, te da dos beneficios para
 
 ##### ¿Y cómo sé qué régimen de APV me conviene?
 
-Depende de lo que ganes. Si tu sueldo imponible (líquido sin impuestos) es menor a $3.384.000, te conviene invertir en el régimen A hasta maximizar el beneficio. Cualquier monto que inviertas sobre ese monto debería irse al régimen B.  
+Depende de lo que ganes. Si tu sueldo imponible (líquido sin impuestos) es menor a $3.384.000, te conviene invertir en el régimen A hasta maximizar el beneficio. Cualquier monto que inviertas sobre ese monto debería irse al régimen B.
 Si tu sueldo imponible es mayor a $3.384.000, te conviene tener todo tu APV en el régimen B.
 
 _Creamos_ [_esta planilla_](https://docs.google.com/spreadsheets/d/1jnpbeqiFwQ1qFFITIaMBAy0F3B9_MXm8MdDC8MQNDaA/copy) _para que puedas analizar qué régimen te conviene._
@@ -77,12 +77,12 @@ Para todos los que cotizan en una AFP. Para gozar de los beneficios, necesitas t
 
 Si tu APV es régimen A, no hay diferencia.
 
-Si tu APV es régimen B existe una pequeña diferencia sobre el impuesto que te ahorras.  
+Si tu APV es régimen B existe una pequeña diferencia sobre el impuesto que te ahorras.
 Al hacer el aporte mediante descuento por planilla te ahorrarás parte del impuesto que pagas todos los meses por tu sueldo, con un límite de 50 UF mensual. En cambio, si haces el aporte por tu cuenta (con la periodicidad que sea) te ahorras el impuesto anual que pagas por todas tus rentas y que se calcula con tu declaración de renta que haces en abril de todos los años.
 
 ##### ¿Dónde puedo tener APV?
 
-En varias instituciones reguladas: AFPs, corredoras, administradoras, entre ellas **Fintual** :)  
+En varias instituciones reguladas: AFPs, corredoras, administradoras, entre ellas **Fintual** :)
 Tenemos una comisión anual de 0,49%, la más baja del mercado según [El Mercurio Inversiones](http://www.elmercurio.com/Inversiones/Noticias/Analisis/2019/01/25/Nueva-serie-APV-de-fondos-mutuos-de-Fintual-es-la-mas-barata-del-mercado.aspx) y atendemos con mucha buena onda.
 
 ##### Oye, ¿y qué pasa con mi APV cuando me jubilo?
@@ -95,19 +95,19 @@ También puedes optar por no sumar tu APV a tu jubilación y retirarlo completo,
 
 ##### ¿Puedo tener APV si ya me jubilé?
 
-Sí, puedes abrir un APV y tener los beneficios que entrega el Estado por ese ahorro, pero sólo si sigues trabajando, ya sea como trabajador/a dependiente o a través de boleta de honorarios y optas por seguir cotizando.  
+Sí, puedes abrir un APV y tener los beneficios que entrega el Estado por ese ahorro, pero sólo si sigues trabajando, ya sea como trabajador/a dependiente o a través de boleta de honorarios y optas por seguir cotizando.
 Si ya jubilaste y no sigues trabajando, puedes invertir en APV igual, pero no obtendrás los beneficios del Estado.
 
 ##### ¿Qué pasa si tengo APV o Seguro con Ahorro en otro lado?
 
-Puedes traerlo de forma interna a Fintual para no perder los beneficios. Ojo que en general los seguros con ahorros son más caros que tener un seguro de vida por un lado y APV por otro.  
+Puedes traerlo de forma interna a Fintual para no perder los beneficios. Ojo que en general los seguros con ahorros son más caros que tener un seguro de vida por un lado y APV por otro.
 También puedes tener tu APV en más de una institución al mismo tiempo, pero los beneficios aplican por el total.
 
 ##### ¿Y si necesito la plata es llegar y sacarla?
 
 Sí, puedes retirar tu plata cuando quieras, incluso si no has jubilado, pero el beneficio que te entrega el Estado solo podrás disfrutarlo si esperas hasta jubilar.
 
-Si estás en el Régimen A y no te has jubilado, **tendrás que devolver el 15% que te dio el Estado.**  
+Si estás en el Régimen A y no te has jubilado, **tendrás que devolver el 15% que te dio el Estado.**
 Si estás en el Régimen B y no te has jubilado, **te retendremos un 15% que se abonará al SII para pagar el impuesto especial por retiros de APV-B.**
 
 ##### ¿Y alguien regula todo esto?
@@ -128,7 +128,7 @@ Aparte de los beneficios, la plata que ahorres se va a invertir, lo que signific
 
 ¿Qué esperas?
 
-{{< button_link href="[https://fintual.cl/apv/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=abc+apv-313](https://fintual.cl/apv/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=abc+apv-313 "https://fintual.cl/apv/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=abc+apv-313")" text="Empezar" >}}
+{{< button_link href="https://fintual.cl/apv/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=abc+apv-313" text="Empezar" >}}
 
 _
 
