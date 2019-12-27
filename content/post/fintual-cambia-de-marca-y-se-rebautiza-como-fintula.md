@@ -7,11 +7,11 @@ description = "La Administradora General de Fondos cambia de nombre y pasa a lla
 draft = true
 hide = true
 image = ""
-title = "Fintual cambia de marca y se rebautiza como \"Fintula\""
+title = "Fintual cambia de marca y se rebautiza como Fintula"
 url = "/fintual-se-rebautiza-como-fintula/"
 
 +++
-El proceso con el cual se definió el nombre tuvo varias etapas, donde se revisaron los posibles escenarios de marca. Luego de intensas sesiones de deliberación, focus groups y consultas con sus clientes y colaboradores, Fintual, la Administradora General de Fondos reconocida en Chile por ser la primera fintech con una licencia regulatoria otorgada por la CMF, decidió avanzar con el relanzamiento de su marca con el nuevo nombre "Fintula".
+Luego de intensas sesiones de deliberación, focus groups y consultas con sus clientes y colaboradores, Fintual, la Administradora General de Fondos reconocida en Chile por ser la primera fintech con una licencia regulatoria otorgada por la CMF, decidió avanzar con el relanzamiento de su marca con el nuevo nombre "Fintula".
 
 "Cambiar de marca siempre es una decisión difícil. No sólo hay muchísimo trabajo en la definición de logos y gráfica sino también sucede que el adecuado posicionamiento de la marca es algo que toma tiempo y recursos." Aseguró Agustín Feuerhake, quien lidera el equipo de marketing de la entidad.
 
