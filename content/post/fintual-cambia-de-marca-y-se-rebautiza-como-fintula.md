@@ -6,7 +6,7 @@ date = 2019-12-28T20:51:53Z
 description = "La Administradora General de Fondos cambia de nombre y pasa a llamarse Fintula"
 hide = true
 image = "/uploads/fintula-logo-black.png"
-title = "Fintual cambia de marca y se rebautiza como Fintula"
+title = "Fintual cambia de marca"
 url = "/fintual-se-rebautiza-como-fintula/"
 
 +++
