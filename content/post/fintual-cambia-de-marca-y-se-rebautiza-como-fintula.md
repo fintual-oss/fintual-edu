@@ -6,7 +6,7 @@ date = 2019-12-28T20:51:53Z
 description = "La Administradora General de Fondos cambia de nombre y pasa a llamarse Fintula"
 draft = true
 hide = true
-image = ""
+image = "/uploads/fintula-logo-black.png"
 title = "Fintual cambia de marca y se rebautiza como Fintula"
 url = "/fintual-se-rebautiza-como-fintula/"
 
@@ -15,7 +15,7 @@ Luego de intensas sesiones de deliberación, focus groups y consultas con sus cl
 
 "Cambiar de marca siempre es una decisión difícil. No sólo hay muchísimo trabajo en la definición de logos y gráfica sino también sucede que el adecuado posicionamiento de la marca es algo que toma tiempo y recursos." Aseguró Agustín Feuerhake, quien lidera el equipo de marketing de la entidad.
 
-Andrés Marinkovic, Gerente General y cofundador de la empresa cuenta que "Hace un par de años escogimos avanzar con la marca 'Fintual' porque en 2 sílabas mezclaba finanzas con 'actual' o 'virtual'. Pero hoy estamos viendo nuevos horizontes geográficos que nos hacen pensar más allá. Finanzas, Tú y Latinoamérica combinados hacen Fin-tu-la."
+Andrés Marinkovic, Gerente General de la empresa cuenta que "hace un par de años escogimos avanzar con la marca 'Fintual' porque en 2 sílabas mezclaba finanzas con 'actual' o 'virtual'. Pero hoy estamos viendo nuevos horizontes geográficos que nos hacen pensar más allá. Finanzas, Tú y Latinoamérica combinados hacen Fin-tu-la."
 
 Algo que les preocupó en la entidad fue lograr el común acuerdo del equipo "En general damos derecho a vetar este tipo de cambios al equipo y esta vez hubo algunos que no estaban cómodos al principio, pero finalmente se explicaron las ventajas y llegamos a un acuerdo" dice Francesca Finaldi, Jefa de Relaciones Públicas de la organización.
 
