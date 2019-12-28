@@ -54,4 +54,4 @@ Como parte del período de transición, mantendrán ambos dominios web operativo
 
 ### Mirando hacia el futuro: un nuevo nombre, la misma cultura
 
-Desde Fintula esperan una excelente recepción del público con su nuevo nombre y aseguran que los ayudará a reflejar aun mejor su identidad, en que buscan seguir adelante siendo el mejor equipo humano de personas comprometidas y apasionadas por liderar la industria financiera latinoamericana.
+Desde Fintula esperan una excelente recepción del público con su nuevo nombre y aseguran que los ayudará a reflejar aún mejor su identidad, en que buscan seguir adelante siendo el mejor equipo humano de personas comprometidas y apasionadas por liderar la industria financiera latinoamericana.
