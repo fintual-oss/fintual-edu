@@ -2,7 +2,7 @@
 aliases = []
 author = "Francesca Finaldi"
 categories = []
-date = 2019-12-27T20:51:53Z
+date = 2019-12-26T20:51:53Z
 description = "La Administradora General de Fondos cambia de nombre y pasa a llamarse Fintula"
 hide = true
 image = "/uploads/fintula-logo-black.png"
