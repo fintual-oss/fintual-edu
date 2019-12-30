@@ -1,28 +1,3 @@
-{{ define "header"}}
-    {{- partial "_shared/navbar.html" . -}}
-{{ end }}
-
-{{ define "main" }}
-    {{- partial "_shared/title.html" . -}}
-    <div class="main-content">
-        <!-- Posts Index
-        ================================================== -->
-        <section class="recent-posts">
-            <div class="section-title">
-            </div>
-            <div class="row listrecent">
-              {{ $post_paginator := .Paginate (where (where .Data.Pages.ByDate.Reverse "Type" "post") ".Params.hide" "!=" true) 6}}
-              {{ range $post_paginator.Pages }}
-                    {{- partial "list-partials/postbox.html" . -}}
-              {{ end }}
-
-            </div>
-        </section>
-        {{- partial "list-partials/pagination.html" $post_paginator -}}
-    </div>
-    {{- partial "_shared/alertbar.html" . -}}
-{{ end }}
-
-{{ define "footer"}}
-    {{- partial "_shared/footer.html" . -}}
-{{ end }}
+<head>
+<meta http-equiv="refresh" content="0; url=/post/index.html" />
+</head>
