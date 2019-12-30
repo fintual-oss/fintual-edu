@@ -10,6 +10,8 @@ title = "Fintual cambia su marca a Fintula"
 url = "/fintual-se-rebautiza-como-fintula/"
 
 +++
+**ACTUALIZACIÓN: Esto fue una broma del día de los inocentes.**
+
 Luego de intensas sesiones de deliberación, focus groups y consultas con sus clientes y colaboradores, Fintual, la Administradora General de Fondos reconocida en Chile por ser la primera fintech con una licencia regulatoria otorgada por la CMF, decidió avanzar con el relanzamiento de su marca con el nuevo nombre:
 
 ![](/uploads/fintula-logo-black.png)
