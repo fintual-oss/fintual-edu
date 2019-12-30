@@ -20,22 +20,22 @@ sharingicons = false
   [params.writers]
     [params.writers."Pedro Pineda"]
     name = "Pedro Pineda"
-    thumbnail = "/uploads/pedro_pineda.png"
+    thumbnail = "/uploads/pedro.jpg"
     [params.writers."Agustín Feuerhake"]
     name = "Agustín Feuerhake"
-    thumbnail = "/uploads/agustin_feuerhake.jpg"
+    thumbnail = "/uploads/agustin.jpg"
     [params.writers."Andrés Marinkovic"]
     name = "Andrés Marinkovic"
-    thumbnail = "/uploads/andres_marinkovic.jpg"
+    thumbnail = "/uploads/andres.jpg"
     [params.writers."Omar Larré"]
     name = "Omar Larré"
-    thumbnail = "/uploads/omar_larre.jpeg"
+    thumbnail = "/uploads/omar.jpg"
     [params.writers."Gonzalo Enei"]
     name = "Gonzalo Enei"
-    thumbnail = "/uploads/gonzalo-enei.jpg"
+    thumbnail = "/uploads/gonzalo.jpg"
     [params.writers."Francesca Finaldi"]
     name = "Francesca Finaldi"
-    thumbnail = "/uploads/francesca_finaldi.jpg"
+    thumbnail = "/uploads/francesca.jpg"
     [params.writers."Francisca Feuerhake"]
     name = "Francisca Feuerhake"
     thumbnail = "/uploads/francisca_feuerhake.jpg"
@@ -53,7 +53,7 @@ sharingicons = false
     thumbnail= "/uploads/paula_droguett.jpeg"
     [params.writers."Matías Hurtado"]
     name= "Matías Hurtado"
-    thumbnail= "/uploads/matias_hurtado.jpg"
+    thumbnail= "/uploads/matias.jpg"
 
 [params.highlight]
 languages = ["go", "dockerfile"]
