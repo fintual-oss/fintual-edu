@@ -52,3 +52,7 @@ img + em {
 .navbar-light .navbar-nav .nav-link.nav-link--return:hover {
   opacity: .75;
 }
+
+.article-post {
+  text-align: justify;
+}
