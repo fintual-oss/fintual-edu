@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>podcasts on EDU Fintual</title>
+    <link>https://edu.fintual.cl/categories/podcasts/</link>
+    <description>Recent content in podcasts on EDU Fintual</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-cl</language>
+    <copyright> 2019 | fintual.com </copyright>
+    <lastBuildDate>Fri, 11 Jan 2019 03:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://edu.fintual.cl/categories/podcasts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fintalks. Ep 7: Fintual en Y Combinator</title>
+      <link>https://edu.fintual.cl/fintalks-7/</link>
+      <pubDate>Fri, 11 Jan 2019 03:00:00 +0000</pubDate>
+      
+      <guid>https://edu.fintual.cl/fintalks-7/</guid>
+      <description>Esta es la transcripción del séptimo episodio de nuestro podcast Fintalks. Lo puedes escuchar en Spotify, iTunes y YouTube.</description>
+    </item>
+    
+    <item>
+      <title>Fintalks. Ep 6: Axel Christensen en Fintual</title>
+      <link>https://edu.fintual.cl/fintalks-6/</link>
+      <pubDate>Fri, 28 Dec 2018 03:00:00 +0000</pubDate>
+      
+      <guid>https://edu.fintual.cl/fintalks-6/</guid>
+      <description>Esta es la transcripción del sexto episodio de nuestro podcast Fintalks. Lo puedes escuchar en Spotify, iTunes y YouTube.</description>
+    </item>
+    
+    <item>
+      <title>Fintalks. Ep 5: ¿Monopolio en los medios de pago?</title>
+      <link>https://edu.fintual.cl/fintalks-5/</link>
+      <pubDate>Tue, 18 Dec 2018 03:00:00 +0000</pubDate>
+      
+      <guid>https://edu.fintual.cl/fintalks-5/</guid>
+      <description>Esta es la transcripción del quinto episodio de nuestro podcast Fintalks. Lo puedes escuchar en Spotify, iTunes y YouTube.</description>
+    </item>
+    
+    <item>
+      <title>Fintalks. Ep 4: Proyecciones de mercado</title>
+      <link>https://edu.fintual.cl/fintalks-4/</link>
+      <pubDate>Mon, 03 Dec 2018 03:00:00 +0000</pubDate>
+      
+      <guid>https://edu.fintual.cl/fintalks-4/</guid>
+      <description>Esta es la transcripción del cuarto episodio de nuestro podcast Fintalks.
+Lo puedes escuchar en Spotify, iTunes y YouTube.</description>
+    </item>
+    
+    <item>
+      <title>Fintalks. Ep 3: Qué hacer cuando cae tu inversión</title>
+      <link>https://edu.fintual.cl/fintalks-3/</link>
+      <pubDate>Mon, 26 Nov 2018 03:00:00 +0000</pubDate>
+      
+      <guid>https://edu.fintual.cl/fintalks-3/</guid>
+      <description>Esta es la transcripción del tercer episodio de nuestro podcast Fintalks.
+Lo puedes escuchar en Spotify, iTunes y YouTube.</description>
+    </item>
+    
+    <item>
+      <title>Fintalks. Ep 2: APV y Seguros con ahorro</title>
+      <link>https://edu.fintual.cl/fintalks-2/</link>
+      <pubDate>Mon, 19 Nov 2018 03:00:00 +0000</pubDate>
+      
+      <guid>https://edu.fintual.cl/fintalks-2/</guid>
+      <description>Esta es la transcripción del segundo episodio de nuestro podcast Fintalks.
+Lo puedes escuchar en Spotify, iTunes y YouTube.</description>
+    </item>
+    
+    <item>
+      <title>Fintalks. Ep 1: Sobre la reforma previsional</title>
+      <link>https://edu.fintual.cl/fintalks-1/</link>
+      <pubDate>Mon, 12 Nov 2018 03:00:00 +0000</pubDate>
+      
+      <guid>https://edu.fintual.cl/fintalks-1/</guid>
+      <description>Esta es la transcripción del primer episodio de nuestro podcast Fintalks.
+Lo puedes escuchar en Spotify, iTunes y YouTube.</description>
+    </item>
+    
+  </channel>
+</rss>

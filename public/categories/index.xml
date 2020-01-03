@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on EDU Fintual</title>
+    <link>https://edu.fintual.cl/categories/</link>
+    <description>Recent content in Categories on EDU Fintual</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-cl</language>
+    <copyright> 2019 | fintual.com </copyright>
+    <lastBuildDate>Mon, 23 Dec 2019 18:34:54 +0000</lastBuildDate>
+    
+	<atom:link href="https://edu.fintual.cl/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>educación financiera</title>
+      <link>https://edu.fintual.cl/categories/educaci%C3%B3n-financiera/</link>
+      <pubDate>Mon, 23 Dec 2019 18:34:54 +0000</pubDate>
+      
+      <guid>https://edu.fintual.cl/categories/educaci%C3%B3n-financiera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>noticias</title>
+      <link>https://edu.fintual.cl/categories/noticias/</link>
+      <pubDate>Fri, 29 Nov 2019 21:28:26 +0000</pubDate>
+      
+      <guid>https://edu.fintual.cl/categories/noticias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>clases</title>
+      <link>https://edu.fintual.cl/categories/clases/</link>
+      <pubDate>Mon, 20 May 2019 04:00:00 +0000</pubDate>
+      
+      <guid>https://edu.fintual.cl/categories/clases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>podcasts</title>
+      <link>https://edu.fintual.cl/categories/podcasts/</link>
+      <pubDate>Fri, 11 Jan 2019 03:00:00 +0000</pubDate>
+      
+      <guid>https://edu.fintual.cl/categories/podcasts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>entrevistas</title>
+      <link>https://edu.fintual.cl/categories/entrevistas/</link>
+      <pubDate>Sat, 09 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://edu.fintual.cl/categories/entrevistas/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
