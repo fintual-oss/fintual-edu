@@ -89,7 +89,7 @@ Más inteligente que dejar su plata en el banco.
 
 {{< /prueba_fintual >}}
 
-Finalmente, y como somos una entidad regulada, tenemos que agregar lo siguiente, que siempre es útil tener presente:_  
+Finalmente, y como somos una entidad regulada, tenemos que agregar estos disclaimers fomes, pero que siempre es útil tener presente:_  
 \- Las rentabilidades nominales corresponden a la serie A de cada fondo, que al cierre de diciembre/2019 son: Conservative Clooney 1,09% para el mes,-1,75% últimos tres meses, 4,81% último año; Moderate Pitt -1,85% para el mes,4,21% últimos tres meses, 19,08% último año; Risky Norris -5,29% para el mes,10,69% últimos tres meses, 37,52% último año  
 \- La rentabilidad o ganancia obtenida en el pasado por este fondo, no garantiza que ella se repita en el futuro. Los valores de las cuotas de los fondos mutuos son variables.  
 \- Infórmese de las características esenciales de la inversión en este fondo mutuo, las que se encuentran contenidas en su reglamento interno y contrato de suscripción de cuotas._
