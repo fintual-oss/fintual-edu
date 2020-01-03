@@ -63,4 +63,12 @@ Similar al segundo mito, porque nadie puede saber con certeza cómo le va a ir a
 
 Nuevamente, hay muchos analistas que tienen sus proyecciones, pero es poco o nada el poder predictivo útil que tienen para, por ejemplo, poder ganar dinero realmente.
 
-![](/uploads/pedritoengel.jpg)
+![Creemos que ni siquiera Pedro Engel puede saber cómo le irá al dólar el 2020, el año de la rata de metal. Fuente: elfiltrador.com](/uploads/pedritoengel.jpg)_Creemos que ni siquiera Pedro Engel puede saber cómo le irá al dólar el 2020, el año de la rata de metal. Fuente: elfiltrador.com_
+
+**Mito 5: “Tienen muchas inversiones en Estados Unidos, eso quiere decir que no están bien diversificados”**
+
+Las acciones listadas en Estados Unidos representan aproximadamente el 43% del mercado de las acciones a nivel global según Nasdaq, y los ingresos de empresas en Estados Unidos provienen casi un tercio de países distintos de Estados Unidos —[29% para ser precisos en el caso de un índice como el S&P500](https://www.spglobal.com/en/research-insights/articles/2019-review-recession-war-nonchalance-deficits-and-brexit-the-year-in-5-charts)—, por tanto, es falso decir que no representan a las acciones globales o que no tienen ningún grado de diversificación geográfica en sus utilidades. Además, la diversificación por empresas o por compañías es altísima: tanto el fondo Pitt como el fondo Norris tienen más de 3500 empresas distintas como subyacentes, si quiebra una, por ejemplo, el daño es bastante bajo. El único riesgo alto de las carteras son riesgos sistémicos de la economía global: una crisis financiera global, que afecta a varias empresas al mismo tiempo, podría ser algo que realmente afecta a las carteras de forma significativa.
+
+Por esto y muchos otras decisiones operativas, de inversión y pragmáticas que tuvimos que tomar cuando las carteras iniciales eran muy pequeñas en volumen, estar concentrados en Estados Unidos fue una decisión razonable de tomar, y que tuvimos suerte de empujar y defender ya que entregó bastante más frutos de lo esperado.
+
+Sin embargo, para aumentar aún más la diversificación, agregamos el factor geográfico y este año no habrán fondos invertidos totalmente en Estados Unidos, sino que se agregarán inversiones accionarias en todo el mundo.
