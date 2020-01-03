@@ -15,7 +15,7 @@ _Menciono algunas instituciones financieras y empresas, pero aparte de_ [_Fintua
 
 ### 1. Depósitos a plazo
 
-Depósito a plazo es meter plata en el banco por un retorno tan seguro como pequeño: un 1,8% anual aprox.
+Depósito a plazo es meter plata en el banco por un retorno tan seguro como pequeño: un 2% anual aprox.
 
 Es una solución cómoda y simple cuando necesitas gastar la plata en 30 días y hasta 6 meses, aunque [es un error para inversiones de largo plazo](https://edu.fintual.cl/mejor-deposito-a-plazo/): los intereses que se generan son tan bajos que apenas superan a la inflación.
 
