@@ -25,7 +25,7 @@ Así les ha ido a los fondos Fintual desde su creación en febrero de 2018 despu
 
 ![Fintual en base a valores cuota de la serie A de cada fondo, según datos de valores cuota publicados en cmfchile.cl](/uploads/fondosfintual.png)_Fintual en base a valores cuota de la serie A de cada fondo, según datos de valores cuota publicados en cmfchile.cl_
 
-#### Hay meses buenos y malos… Y es completamente normal
+#### Hay meses buenos, hay meses malos… Y es completamente normal
 
 Es esperable que los fondos tengan altos y bajos. Para que tengas una idea, acá van algunas estadísticas básicas de cada fondo sobre la rentabilidad mensual dentro del año 2019:
 
@@ -34,3 +34,13 @@ Es esperable que los fondos tengan altos y bajos. Para que tengas una idea, acá
 * **Conservative Clooney:** El peor mes fue octubre, con una rentabilidad -1,61%, y el mejor mes fue julio, con 1,16%. Hubo sólo dos meses con rentabilidad negativa y, en promedio, cada mes rentó 0,40%.
 
 ![Tabla resumen rentabilidades mensuales fondos Fintual. Fuente: Fintual según datos de valores cuota publicados en cmfchile.cl](/uploads/retornosnominales.png)_Tabla resumen rentabilidades mensuales fondos Fintual. Fuente: Fintual según datos de valores cuota publicados en cmfchile.cl_
+
+#### Algunos mitos que queremos aclarar
+
+Muchas de las preguntas que nos llegan al chat tienen parte de mito y parte realidad. Este balance es una buena instancia para compartirlas y aclarar un poco esas dudas comunes:
+
+**#1: _La rentabilidad del fondo Risky Norris fue alta sólo porque el dólar subió mucho y sus inversiones están mayormente hechas en instrumentos dolarizados_**
+
+**MITO:** El dólar observado del Banco Central de Chile efectivamente subió el año 2019, pero sólo un 7,77%. Si bien ayudó a la rentabilidad de Risky Norris, es apenas una parte del 37,52% de retorno en el año.
+
+![](/uploads/mythbusters.jpg)
