@@ -67,9 +67,9 @@ Nuevamente, hay muchos analistas que tienen sus proyecciones, pero es poco o nad
 
 ##### #5: _Tienen muchas inversiones en Estados Unidos, eso quiere decir que no están bien diversificados_
 
-**MITO:** Las acciones listadas en Estados Unidos representan aproximadamente el 43% del mercado de las acciones a nivel global según Nasdaq, y los ingresos de empresas en Estados Unidos provienen casi un tercio de países distintos de Estados Unidos (de hecho, en el caso de un índice como el S&P500, [29% para ser precisos](https://www.spglobal.com/en/research-insights/articles/2019-review-recession-war-nonchalance-deficits-and-brexit-the-year-in-5-charts)). 
+**MITO:** Las acciones listadas en Estados Unidos representan aproximadamente el 43% del mercado de las acciones a nivel global según Nasdaq, y los ingresos de empresas en Estados Unidos provienen casi un tercio de países distintos de Estados Unidos (de hecho, en el caso de un índice como el S&P500, [29% para ser precisos](https://www.spglobal.com/en/research-insights/articles/2019-review-recession-war-nonchalance-deficits-and-brexit-the-year-in-5-charts)).
 
-Por lo tanto, es falso decir que no representan a las acciones globales o que no tienen ningún grado de diversificación geográfica en sus utilidades. Además, la diversificación por empresas o por compañías es altísima: tanto Pitt como Norris tienen más de 3.500 empresas distintas como subyacentes. 
+Por lo tanto, es falso decir que no representan a las acciones globales o que no tienen ningún grado de diversificación geográfica en sus utilidades. Además, la diversificación por empresas o por compañías es altísima: tanto Pitt como Norris tienen más de 3.500 empresas distintas como subyacentes.
 
 Con un ejemplo se entiende mejor: el daño es bastante bajo si llegara a quebrar una de esas empresas.
 
@@ -81,12 +81,12 @@ Sin embargo, para aumentar aún más la diversificación, agregamos el factor ge
 
 {{< prueba_fintual utmcontent="fintual+2019" >}}
 
-Más inteligente que dejar tu plata en el banco.
+Si llegaste hasta acá fue porque te interesó Fintual. 
 
 {{< /prueba_fintual >}}
 
 Finalmente, y como somos una entidad regulada, tenemos que agregar estos disclaimers fomes, pero que siempre es útil tener presente:_  
-\- Las rentabilidades nominales corresponden a la serie A de cada fondo, que al cierre de diciembre/2019 son:   
+\- Las rentabilidades nominales corresponden a la serie A de cada fondo, que al cierre de diciembre/2019 son:  
 Conservative Clooney 1,09% para el mes, -1,75% últimos tres meses, 4,81% último año  
 Moderate Pitt -1,85% para el mes, 4,21% últimos tres meses, 19,08% último año  
 Risky Norris -5,29% para el mes,10,69% últimos tres meses, 37,52% último año  
