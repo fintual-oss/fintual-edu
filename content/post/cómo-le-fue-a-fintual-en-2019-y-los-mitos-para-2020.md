@@ -73,8 +73,23 @@ Por lo tanto, es falso decir que no representan a las acciones globales o que no
 
 Con un ejemplo se entiende mejor: el daño es bastante bajo si llegara a quebrar una de esas empresas.
 
-El único riesgo alto de las carteras son riesgos sistémicos de la economía global: una crisis financiera global, que afecta a varias empresas al mismo tiempo, podría ser algo que realmente afecta a las carteras de forma significativa.
+El único riesgo alto de las carteras son riesgos sistémicos de la economía global: una crisis financiera global, que afecta a varias empresas al mismo tiempo, podría ser algo que realmente afecte a las carteras de forma significativa.
 
-Por esto y muchos otras decisiones operativas, de inversión y pragmáticas que tuvimos que tomar cuando las carteras iniciales eran muy pequeñas en volumen, estar concentrados en Estados Unidos fue una decisión razonable de tomar, y que tuvimos suerte de empujar y defender ya que entregó bastante más frutos de lo esperado.
+Por esto y muchas otras decisiones operativas, de inversión y pragmáticas que tuvimos que tomar cuando las carteras iniciales eran muy pequeñas en volumen, estar concentrados en Estados Unidos fue una decisión razonable, y que tuvimos suerte de empujar y defender, ya que entregó bastante más frutos de lo esperado.
 
 Sin embargo, para aumentar aún más la diversificación, agregamos el factor geográfico y este año no habrán fondos invertidos totalmente en Estados Unidos, sino que se agregarán inversiones accionarias en todo el mundo.
+
+{{/* ----- HOW TO USE THIS SNIPPET ------ _/}}
+{{/_ -- 1. Choose a UTM tag and write it between the quotes below, ex:  utmcontent="regime-apv-a" _/}}
+{{/_ -- 2. Replace "Más inteligente que dejar su plata en el banco." by any other text you want to appear in the card. MAXIMUM 150 CHARACTERS PLEASE otherwise it breaks the design.  */}}
+
+{{< prueba_fintual utmcontent="write_here_the_utm_tag" >}}
+
+Más inteligente que dejar su plata en el banco.
+
+{{< /prueba_fintual >}}
+
+Finalmente, y como somos una entidad regulada, tenemos que agregar lo siguiente, que siempre es útil tener presente:_  
+\- Las rentabilidades nominales corresponden a la serie A de cada fondo, que al cierre de diciembre/2019 son: Conservative Clooney 1,09% para el mes,-1,75% últimos tres meses, 4,81% último año; Moderate Pitt -1,85% para el mes,4,21% últimos tres meses, 19,08% último año; Risky Norris -5,29% para el mes,10,69% últimos tres meses, 37,52% último año  
+\- La rentabilidad o ganancia obtenida en el pasado por este fondo, no garantiza que ella se repita en el futuro. Los valores de las cuotas de los fondos mutuos son variables.  
+\- Infórmese de las características esenciales de la inversión en este fondo mutuo, las que se encuentran contenidas en su reglamento interno y contrato de suscripción de cuotas._
