@@ -33,4 +33,4 @@ Es esperable que los fondos tengan altos y bajos. Para que tengas una idea, acá
 * **Moderate Pitt**: El peor desempeño estuvo en diciembre, una baja de -1,85%. El mejor mes fue noviembre, con 5,37% de rentabilidad. Hubo sólo dos meses con rentabilidad negativa y, en promedio, cada mes rentó 1,48%.
 * **Conservative Clooney:** El peor mes fue octubre, con una rentabilidad -1,61%, y el mejor mes fue julio, con 1,16%. Hubo sólo dos meses con rentabilidad negativa y, en promedio, cada mes rentó 0,40%.
 
-![](/uploads/retornosnominales.png)
+![Tabla resumen rentabilidades mensuales fondos Fintual. Fuente: Fintual según datos de valores cuota publicados en cmfchile.cl](/uploads/retornosnominales.png)_Tabla resumen rentabilidades mensuales fondos Fintual. Fuente: Fintual según datos de valores cuota publicados en cmfchile.cl_
