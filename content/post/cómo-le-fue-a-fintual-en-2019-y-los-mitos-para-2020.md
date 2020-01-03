@@ -79,11 +79,7 @@ Por esto y muchas otras decisiones operativas, de inversión y pragmáticas que 
 
 Sin embargo, para aumentar aún más la diversificación, agregamos el factor geográfico y este año no habrán fondos invertidos totalmente en Estados Unidos, sino que se agregarán inversiones accionarias en todo el mundo.
 
-{{/* ----- HOW TO USE THIS SNIPPET ------ _/}}
-{{/_ -- 1. Choose a UTM tag and write it between the quotes below, ex:  utmcontent="regime-apv-a" _/}}
-{{/_ -- 2. Replace "Más inteligente que dejar su plata en el banco." by any other text you want to appear in the card. MAXIMUM 150 CHARACTERS PLEASE otherwise it breaks the design.  */}}
-
-{{< prueba_fintual utmcontent="write_here_the_utm_tag" >}}
+{{< prueba_fintual utmcontent="fintual+2019" >}}
 
 Más inteligente que dejar su plata en el banco.
 
