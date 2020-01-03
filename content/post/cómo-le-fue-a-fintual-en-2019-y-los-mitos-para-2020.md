@@ -44,3 +44,23 @@ Muchas de las preguntas que nos llegan al chat tienen parte de mito y parte real
 **MITO:** El dólar observado del Banco Central de Chile efectivamente subió el año 2019, pero sólo un 7,77%. Si bien ayudó a la rentabilidad de Risky Norris, es apenas una parte del 37,52% de retorno en el año.
 
 ![El argumento del dólar era finalmente un mito. Fuente: Mythbusters](/uploads/mythbusters.jpg)_El argumento del dólar era finalmente un mito. Fuente: Mythbusters_
+
+**#2: _Las rentabilidades fueron muy buenas, eso quiere decir que este año van a ser malas_**
+
+No hay forma de saber cómo será la rentabilidad de los fondos el próximo año. En realidad, nadie lo sabe, sólo hay consenso de muchos analistas y economistas, pero todas son estimaciones de procesos altamente aleatorios muy difíciles de predecir. Por ejemplo, no hay un indicativo que prediga que porque un año es muy bueno en rentabilidades de las acciones, el próximo tiene que ser malo.
+
+Lo que sí es cierto es que este año 2019 fue característicamente muy bueno —pese a que muchos analistas dijeron que sería malo—, así que es muy probable que el año 2020 no sea tan bueno como el año 2019.
+
+**#3: _Llevo un mes invirtiendo y me ha ido mal, ¿me debería salir entonces?_**
+
+Nuestros tres fondos, Clooney, Pitt y Norris, están diseñados para invertir en plazos de al menos un año. Un mes de rentabilidad negativa es normal, como vimos antes, porque hay meses de rentabilidad negativa todos los años.
+
+Es tan normal tener pérdidas las primeras semanas de inversión, que escribimos [este artículo que habla exclusivamente de eso](https://edu.fintual.cl/p%C3%A9rdidas-de-corto-plazo-t%C3%B3mate-unos-minutos-y-lee-esto-e222b63f3939/).
+
+**#4: _Tienen mucha exposición al dólar, y el dólar va a bajar, así que los fondos van a andar mal el fin de año_**
+
+Similar al segundo mito, porque nadie puede saber con certeza cómo le va a ir al dólar este año 2020.
+
+Nuevamente, hay muchos analistas que tienen sus proyecciones, pero es poco o nada el poder predictivo útil que tienen para, por ejemplo, poder ganar dinero realmente.
+
+![](/uploads/pedritoengel.jpg)
