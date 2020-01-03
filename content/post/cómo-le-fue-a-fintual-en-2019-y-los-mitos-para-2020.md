@@ -39,35 +39,35 @@ Es esperable que los fondos tengan altos y bajos. Para que tengas una idea, acá
 
 Muchas de las preguntas que nos llegan al chat tienen parte de mito y parte realidad. Este balance es una buena instancia para compartirlas y aclarar un poco esas dudas comunes:
 
-**#1: _La rentabilidad del fondo Risky Norris fue alta sólo porque el dólar subió mucho y sus inversiones están mayormente hechas en instrumentos dolarizados_**
+##### **#1:** _La rentabilidad del fondo Risky Norris fue alta sólo porque el dólar subió mucho y sus inversiones están mayormente hechas en instrumentos dolarizados_
 
 **MITO:** El dólar observado del Banco Central de Chile efectivamente subió el año 2019, pero sólo un 7,77%. Si bien ayudó a la rentabilidad de Risky Norris, es apenas una parte del 37,52% de retorno en el año.
 
 ![El argumento del dólar era finalmente un mito. Fuente: Mythbusters](/uploads/mythbusters.jpg)_El argumento del dólar era finalmente un mito. Fuente: Mythbusters_
 
-**#2: _Las rentabilidades fueron muy buenas, eso quiere decir que este año van a ser malas_**
+##### **#2:** _Las rentabilidades fueron muy buenas, eso quiere decir que este año van a ser malas_
 
-No hay forma de saber cómo será la rentabilidad de los fondos el próximo año. En realidad, nadie lo sabe, sólo hay consenso de muchos analistas y economistas, pero todas son estimaciones de procesos altamente aleatorios muy difíciles de predecir. Por ejemplo, no hay un indicativo que prediga que porque un año es muy bueno en rentabilidades de las acciones, el próximo tiene que ser malo.
+**MITO:** No hay forma de saber cómo será la rentabilidad de los fondos el próximo año. En realidad, nadie lo sabe, sólo hay consenso de muchos analistas y economistas, pero todas son estimaciones de procesos altamente aleatorios muy difíciles de predecir. Por ejemplo, no hay un indicativo que prediga que porque un año es muy bueno en rentabilidades de las acciones, el próximo tiene que ser malo.
 
 Lo que sí es cierto es que este año 2019 fue característicamente muy bueno —pese a que muchos analistas dijeron que sería malo—, así que es muy probable que el año 2020 no sea tan bueno como el año 2019.
 
-**#3: _Llevo un mes invirtiendo y me ha ido mal, ¿me debería salir entonces?_**
+##### **#3:** _Llevo un mes invirtiendo y me ha ido mal, ¿me debería salir entonces?_
 
 Nuestros tres fondos, Clooney, Pitt y Norris, están diseñados para invertir en plazos de al menos un año. Un mes de rentabilidad negativa es normal, como vimos antes, porque hay meses de rentabilidad negativa todos los años.
 
 Es tan normal tener pérdidas las primeras semanas de inversión, que escribimos [este artículo que habla exclusivamente de eso](https://edu.fintual.cl/p%C3%A9rdidas-de-corto-plazo-t%C3%B3mate-unos-minutos-y-lee-esto-e222b63f3939/).
 
-**#4: _Tienen mucha exposición al dólar, y el dólar va a bajar, así que los fondos van a andar mal el fin de año_**
+##### **#4:** _Tienen mucha exposición al dólar, y el dólar va a bajar, así que los fondos van a andar mal el fin de año_
 
-Similar al segundo mito, porque nadie puede saber con certeza cómo le va a ir al dólar este año 2020.
+**MITO:** Similar al segundo mito, porque nadie puede saber con certeza cómo le va a ir al dólar este año 2020.
 
 Nuevamente, hay muchos analistas que tienen sus proyecciones, pero es poco o nada el poder predictivo útil que tienen para, por ejemplo, poder ganar dinero realmente.
 
 ![Creemos que ni siquiera Pedro Engel puede saber cómo le irá al dólar el 2020, el año de la rata de metal. Fuente: elfiltrador.com](/uploads/pedritoengel.jpg)_Creemos que ni siquiera Pedro Engel puede saber cómo le irá al dólar el 2020, el año de la rata de metal. Fuente: elfiltrador.com_
 
-**Mito 5: “Tienen muchas inversiones en Estados Unidos, eso quiere decir que no están bien diversificados”**
+##### #5: _Tienen muchas inversiones en Estados Unidos, eso quiere decir que no están bien diversificados_
 
-Las acciones listadas en Estados Unidos representan aproximadamente el 43% del mercado de las acciones a nivel global según Nasdaq, y los ingresos de empresas en Estados Unidos provienen casi un tercio de países distintos de Estados Unidos —[29% para ser precisos en el caso de un índice como el S&P500](https://www.spglobal.com/en/research-insights/articles/2019-review-recession-war-nonchalance-deficits-and-brexit-the-year-in-5-charts)—, por tanto, es falso decir que no representan a las acciones globales o que no tienen ningún grado de diversificación geográfica en sus utilidades. Además, la diversificación por empresas o por compañías es altísima: tanto el fondo Pitt como el fondo Norris tienen más de 3500 empresas distintas como subyacentes, si quiebra una, por ejemplo, el daño es bastante bajo. El único riesgo alto de las carteras son riesgos sistémicos de la economía global: una crisis financiera global, que afecta a varias empresas al mismo tiempo, podría ser algo que realmente afecta a las carteras de forma significativa.
+**MITO:** Las acciones listadas en Estados Unidos representan aproximadamente el 43% del mercado de las acciones a nivel global según Nasdaq, y los ingresos de empresas en Estados Unidos provienen casi un tercio de países distintos de Estados Unidos —[29% para ser precisos en el caso de un índice como el S&P500](https://www.spglobal.com/en/research-insights/articles/2019-review-recession-war-nonchalance-deficits-and-brexit-the-year-in-5-charts)—, por tanto, es falso decir que no representan a las acciones globales o que no tienen ningún grado de diversificación geográfica en sus utilidades. Además, la diversificación por empresas o por compañías es altísima: tanto el fondo Pitt como el fondo Norris tienen más de 3500 empresas distintas como subyacentes, si quiebra una, por ejemplo, el daño es bastante bajo. El único riesgo alto de las carteras son riesgos sistémicos de la economía global: una crisis financiera global, que afecta a varias empresas al mismo tiempo, podría ser algo que realmente afecta a las carteras de forma significativa.
 
 Por esto y muchos otras decisiones operativas, de inversión y pragmáticas que tuvimos que tomar cuando las carteras iniciales eran muy pequeñas en volumen, estar concentrados en Estados Unidos fue una decisión razonable de tomar, y que tuvimos suerte de empujar y defender ya que entregó bastante más frutos de lo esperado.
 
