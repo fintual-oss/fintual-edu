@@ -15,7 +15,7 @@ _Menciono algunas instituciones financieras y empresas, pero aparte de_ [_Fintua
 
 ### 1. Depósitos a plazo
 
-Depósito a plazo es meter plata en el banco por un retorno tan seguro como pequeño: un 3% anual aprox.
+Depósito a plazo es meter plata en el banco por un retorno tan seguro como pequeño: un 1,8% anual aprox.
 
 Es una solución cómoda y simple cuando necesitas gastar la plata en 30 días y hasta 6 meses, aunque [es un error para inversiones de largo plazo](https://edu.fintual.cl/mejor-deposito-a-plazo/): los intereses que se generan son tan bajos que apenas superan a la inflación.
 
@@ -119,5 +119,5 @@ Eso es lo que hacen en Chile las empresas Cumplo, Becual y Dobleimpacto (no sé 
 
 _Infórmese de las características esenciales de la inversión en estos fondos mutuos, los que se encuentran contenidos en sus reglamentos internos y contratos de suscripción de cuotas._
 
-_Las rentabilidades o ganancias obtenidas en el pasado por estos fondos, no garantizan que ellas se repitan en el futuro. Los valores de las cuotas de los fondos mutuos son variables. Las rentabilidades nominales del fondo Risky Norris calculadas en pesos al 31/07/2019 han sido: 1 mes: 4,51% - 3 meses: 4,18% - 6 meses: 16,34% - 1 año: 13,43%._
+_Las rentabilidades o ganancias obtenidas en el pasado por estos fondos, no garantizan que ellas se repitan en el futuro. Los valores de las cuotas de los fondos mutuos son variables. Las rentabilidades nominales del fondo Risky Norris calculadas en pesos al 31/12/2019 han sido: -5,29% para el mes, 10,69% últimos tres meses, 37,52% último año._
 {{< newsletter_signup >}}
