@@ -1,0 +1,638 @@
+<!doctype html>
+<html lang="en" prefix="op: http://media.facebook.com/op#">
+  <head>
+    <meta charset="utf-8">
+    <link rel="canonical" href="https://blog.fintual.cl/c%C3%B3mo-fuimos-la-primera-startup-chilena-en-quedar-en-y-combinator-41363df2e2dc">
+    <meta property="op:markup_version" content="v1.0">
+  </head>
+  <body>
+    <article>
+      <header>
+        <!-- The title and subtitle shown in your Instant Article -->
+        <h1>Cómo fuimos la primera startup chilena en quedar en Y Combinator</h1>
+        <h2>Agosto 2018</h2>
+
+        <!-- The date and time when your article was originally published -->
+        <time class="op-published" datetime="2018-07-30T04:44:16Z">30 de Julio, 4:02 PM</time>
+
+        <!-- The date and time when your article was last updated -->
+        <time class="op-modified" dateTime="2018-07-30T04:44:16Z">30 de Julio, 4:02 PM</time>
+
+        <!-- The authors of your article -->
+        <address>
+          <a rel="facebook" href="http://facebook.com/brandon.diamond">Pedro Pineda</a>
+          Pedro es el CEO de Fintual.com
+        </address>
+        <figure>
+          <img src="https://edu.fintual.com/uploads/golden_gate.jpg" />
+          <figcaption>El equipo de Fintual.com</figcaption>
+        </figure>
+
+        <!-- A kicker for your article -->
+        <h3 class="op-kicker">
+          Fintual es un emprendimiento financiero chileno
+        </h3>
+
+      </header>
+
+      <!-- Article body goes here -->
+
+      <!-- Body text for your article -->
+      <p>Si quedábamos, nos llamarían a las 18:30.</p>
+
+      <p>Si no, recibiríamos un mail a las 19:00.</p>
+
+      <p>18:30: Los cuatro mirando el celular en una cafetería de Mountain View.</p>
+
+      <p>18:32: Nada.</p>
+
+      <p>18:33: Agustín se va al baño deseando que al volver, el teléfono ya haya sonado. Yo empiezo a decir que ya no quedamos, que en YC siempre han sido puntuales con todo, que ya fue. Y le empiezo a contar por whatsapp a mis más cercanos en Chile que estaban expectantes por saber.</p>
+
+      <p>18:35: Los cuatro pensando en voz alta: “Pero si respondimos todo súper bien”, “no preguntaron nada muy peludo, no nos pillaron en nada”, “si no les gustábamos desde un principio, <em>pa`</em> qué nos invitan”, “¿por qué no nos hicieron cagar por lo menos?”.</p>
+
+      <p><img src="https://cdn-images-1.medium.com/max/2000/1*qzs8V3a4yo6cUUjBH371vg.png" alt="Ricardo nos había ayudado a preparar la entrevista de ese día." /><em>Ricardo nos había ayudado a preparar la entrevista de ese día.</em></p>
+
+      <p>18:40: Ya había convencido a todos de que no habíamos quedado.</p>
+
+      <p>18:42: El teléfono suena.</p>
+
+      <p>¿Está sonando realmente?, ¿son ellos?, ¿es una broma?, ¿es un número equivocado?</p>
+
+      <p>Era Aaron Harris de Y Combinator.</p>
+
+      <p>Habíamos quedado.</p>
+
+      <h2 id="cómo-empezó">Cómo empezó</h2>
+
+      <ul>
+      <li>Ustedes tienen que postular a Y Combinator. Son exactamente lo que ellos buscan: un equipo excelente con una idea potente -nos dijo Daniel, un emprendedor colombiano cuando nos conoció.</li>
+      </ul>
+
+      <p>Por supuesto que conocíamos Y Combinator, la primera aceleradora en el mundo por la que pasó Dropbox, AirBnB, Stripe, Coinbase, etc…, “criadero de gigantes tecnológicos emergentes” según Fortune. Por supuesto que alguna vez habíamos fantaseado con postular, pero seguros de que no nos aceptarían, nunca nos habíamos atrevido.</p>
+
+      <p>Entrar a Y Combinator es más difícil que entrar a Harvard o Stanford (donde aceptan al 5%).</p>
+
+      <p>Postulan 15.000 startups de todo el mundo y seleccionan a 140.</p>
+
+      <p>El 0,9%.</p>
+
+      <p>Me anoté en una card de Trello “postular Y Combinator” y la olvidé.</p>
+
+      <p>Semanas después, sacando la vuelta un viernes después de almuerzo, con la tentación de mandarme a cambiar y no volver hasta el lunes, me la encontré y dije “ya, veamos, ¿por qué no?”.</p>
+
+      <p>La fecha para postular había pasado hacía dos semanas, pensé <em>“cagamos”</em>, hasta que vi que aceptaban postulaciones fuera de plazo. “Wow, igual aceptan postulaciones atrasadas, qué <em>clever</em> que son. No quieren perderse ningún candidato”.</p>
+
+      <p>Así que apreté <a href="https://apply.ycombinator.com/">apply</a>, me puse audífonos y empecé a rellenar el formulario.</p>
+
+      <h3 id="tres-galaxias">Tres galaxias</h3>
+
+      <p>Queríamos postular pero no podíamos quedar. Estábamos con los temas legales, regulatorios y operativos para lanzar nuestra administradora y nuestros propios fondos mutuos. Imposible irse a vivir a EEUU los tres meses del programa.</p>
+
+      <p>El plan era: “ok, postulemos para conocer el proceso y en seis meses más volvemos a postular con todo”. Después nos enteraríamos de que fue una buena estrategia.</p>
+
+      <p>El formulario ya es <em>la raja.</em></p>
+
+      <p>Primera vez que respondía <em>“How long have the founders known one another and how did you meet?”</em> y <em>“Please tell us something surprising or amusing that one of you has discovered (The answer need not be related to your project.)”</em>.</p>
+
+      <p>En esta última respondí:</p>
+
+      <p><em>I, Pedro, discovered three galaxies when I was 20.
+      Link: <a href="http://email.email.ycombinator.com/c/eJwVjckKwyAURb8m7loca1y46Ka_UZ7DawQTRU3p59fA5Q5w4QQrJUdFklXgJPcIXCLAW7DIOERKdWASlRR6jYuk6RixHZDvO6RMNmuCcSoEZNHMmzFaIPWwikdELYJDku02Ru2LeC78NQXtl7730j5Xd_3yPlq51W1WKhkTXJFmawytTB5O4DlxvuxkWKg1Jw8jlaPP2Tll65Wn29MYMfwB7_5Asg">https://arxiv.org/abs/astro-ph/0411325</a></em></p>
+
+      <p>El profe había elegido todos los puntos en el cielo, el telescopio los captó y yo sólo hacía el análisis espectral e iba diciendo “estrella, estrella, estrella, ¡galaxia!, estrella, estrella, estrella, estrella…” tres veces, pero si voy a competir con 15.000 postulantes del mundo entero tengo que encontrar una forma de destacar. Y si más encima me hacen esa pregunta: “dinos algo sorprendente que hayas descubierto?” “puta, tres galaxias…”</p>
+
+      <h3 id="entrevista-por-skype">Entrevista por Skype.</h3>
+
+      <p>Me tomó un par de horas tener lista la postulación y había que hacer un video, así que llamé a mis 3 socios y les pedí que volvieran a la oficina un viernes a las 7 PM. Tenía una corazonada o simplemente estaba metido en un flujo que los contagió.</p>
+
+      <p>El video es tan malo que me da vergüenza compartirlo (si lo encuentro lo pongo).</p>
+
+      <p>Apretamos <em>submit</em> y nos fuimos.</p>
+
+      <p>Un par de semanas después y sabiendo que leían todas las postulaciones pero que no prometían nada a quienes lo hacían fuera de plazo, nos llegó un mail para coordinar una reunión de 10 minutos por videoconferencia con un partner de Y Combinator.</p>
+
+      <p>Nos alegró y nos pusimos un poco nerviosos.</p>
+
+      <p>Se llamaba Gustaf y lo primero que hice fue buscarlo en Linkedin. Un contacto en común: Jean Denis. Mail a Jean Denis, “oye lo <em>cachai?</em> trabajaron juntos en Dropbox”, “no, no lo <em>cacho,</em> sorry”, “es inútil Linkedin”.</p>
+
+      <p>Revisamos lo que había puesto en la postulación, nos repartimos más o menos qué decir cada uno hasta que dijimos “<em>sabís</em> qué? actuemos natural, que cachen cómo somos y aprovechamos de hacer preguntas para aprender”.</p>
+
+      <p>Después de 24 agradables minutos con Gustaf por Skype nos dijo chao, sin dar luces de nada.</p>
+
+      <p><em>Thank you guys.</em></p>
+
+      <p>Debe ser entretenidísimo trabajar en Y Combinator si lo tuyo es hacer sufrir a la gente.</p>
+
+      <p>Tres días después nos llega un mail.</p>
+
+      <p><img src="https://cdn-images-1.medium.com/max/2326/1*jnPylERqWDktv8AHjYKQrA.png" alt="" /></p>
+
+      <p>¡¿Qué?!</p>
+
+      <p><em>In person?</em></p>
+
+      <p>Yo sé que eso dice ahí, pero tienen que entender que ni siquiera sabía que me iban a mandar un mail automatizado invitándome a San Francisco.</p>
+
+      <p>¿Cómo voy?</p>
+
+      <p>Estoy en Chile.</p>
+
+      <p>Así que le escribí a Gustaf el mail más <em>hueón</em> que he escrito en mi vida.</p>
+
+      <p><img src="https://cdn-images-1.medium.com/max/2000/1*W7qOiWjaA0C0scdTAHKsCQ.png" alt="" /></p>
+
+      <p>Volví a leer el mail de invitación que habíamos recibido, me metí de nuevo a los links y claro, nos estaban pagando el pasaje a los 4 <em>cofounders</em> y un poco de plata para el hotel para ir a una entrevista… de diez minutos!</p>
+
+      <p>Se estaban gastando casi US$5,000 en nosotros sólo para conocernos 10 minutos.</p>
+
+      <p>Hay premios para startups en Chile que dan menos plata.</p>
+
+      <p>Eran las 11 PM de un viernes pero llamé no más a Agustín, Omar y Andrés. No me acuerdo ni qué les dije de la emoción, mientras tenía el computador en las piernas y nos compraba los pasajes a todos.</p>
+
+      <p>Teníamos que estar en San Francisco en dos semanas más.</p>
+
+      <h2 id="el-viaje">El viaje</h2>
+
+      <p>Recuerdo el viaje a la entrevista de Y Combinator como uno de los mejores viajes de mi vida. Omar lo resumió muy bien en una frase: “estos 4 días se sintieron como un mes”.</p>
+
+      <p>Lo pasamos increíble andando juntos en bicicleta eléctrica por el puente Golden Gate, comiendo en restaurantes ricos, disfrazándonos de viejo pascuero porque justo era la Santa Con en la Union Square… jajaja.</p>
+
+      <p>Qué tropa de pelotudos.</p>
+
+      <p>Sólo el día antes de la reunión nos fuimos a un cowork tres horas a preparar la entrevista, eso sí con unas cervecitas. Y no los 4. Andrés fue a ver a un amigo para que le mostrara Stanford.</p>
+
+      <p>Me acuerdo y me da risa. Cómo tan <em>hueones.</em></p>
+
+      <p>Y lo peor es que no me daba cuenta porque lo estaba pasando súper bien, nunca había estado con mis socios cuatro días sólo pasándolo bien y habíamos ido para aprender cómo era Y Combinator.</p>
+
+      <p>No pensábamos realmente que fuéramos a quedar.</p>
+
+      <p><img src="https://cdn-images-1.medium.com/max/2560/0*McQIB6EI_IVyw827" alt="Santa Con. Fuimos a un Walgreens y nos compramos el disfraz para estar a tono." /><em>Santa Con. Fuimos a un Walgreens y nos compramos el disfraz para estar a tono.</em></p>
+
+      <h3 id="tesla">Tesla</h3>
+
+      <p>“No vamos a quedar en Y Combinator, pero pasémoslo bien”.</p>
+
+      <p>Mountain View queda al sur de San Francisco, a una hora en auto, así que decidimos arrendar un auto.</p>
+
+      <p>Un Tesla.</p>
+
+      <p>Acá tengo que aclarar que a mí no me parecía correcto hacer algo así. Yo prefería un convertible (qué vergüenza escribir todo esto) pero mis socios son tan nerds que andar en un Tesla era demasiado bacán para ellos, así que bueno, un Tesla.</p>
+
+      <p>No sabíamos ni prenderlo, así que lo primero que hicimos fue googlear en la especie de iPad gigante que tiene en el tablero “how to start a Tesla”.</p>
+
+      <p>Y llegamos a nuestra entrevista en un Tesla.</p>
+
+      <p>Pelotudos.</p>
+
+      <p><img src="https://cdn-images-1.medium.com/max/2022/1*eBOJbci1qf6IU27041nw3w.jpeg" alt="" /></p>
+
+      <h3 id="la-entrevista">La entrevista</h3>
+
+      <p>En la entrada de Y Combinator no hay personas.</p>
+
+      <p>Sólo unas pantallas e impresoras para que te imprimas tú mismo unos stickers con tu nombre y te los pegues en la polera.</p>
+
+      <p>Nos sentamos en unos sofás bien cómodos a esperar nuestro turno y mirar a los otros postulantes. Como casting de modelos (qué difícil debe ser ir a uno sin ser muy bonito).</p>
+
+      <p>Cada 10 minutos entraban y salían emprendedores gringos, brasileros, indios, chinos de las cuatro salitas con 4 evaluadores sentados en una mesa. Afuera de la sala había un coordinador que a los 9 minutos se paraba y abría la puerta, indicando que quedaba 1 min de entrevista.</p>
+
+      <p>Nos pusimos nerviosos.</p>
+
+      <p>Andrés se daba grititos de ánimo que a mí me daban un poco de plancha, pero nunca tanto como para decirle que no los hiciera. Yo en cambio me fui *pa’ *dentro. Cuando estoy nervioso más cara de póker tengo, me pasa en entrevistas de TV por ejemplo, donde puedo parecer seguro pero en realidad tengo pánico y me cuesta sonreír con naturalidad.</p>
+
+      <p>En eso la coordinadora dice en voz muy alta:</p>
+
+      <ul>
+      <li>Fintual?</li>
+      </ul>
+
+      <p>Nuestro turno.</p>
+
+      <p><center><iframe width="560" height="315" src="https://www.youtube.com/embed/jsR8zCXDjkU" frameborder="0" allowfullscreen></iframe></center></p>
+
+      <p>Entramos.</p>
+
+      <p>Junto a los 4 jurados (dos mujeres, dos hombres) estaba Gustaf, que de hecho en el video se ve justo entrando. Eso nos hizo sentir cómodos.</p>
+
+      <ul>
+      <li>What are you guys doing?</li>
+      </ul>
+
+      <p>Ésa es siempre la primera pregunta de una entrevista final en Y Combinator. Cualquiera que haga un poquitito de research lo va a averiguar rápido.</p>
+
+      <p>Nuestra respuesta fue “Betterment for Latin America”.</p>
+
+      <p>Así.</p>
+
+      <p>Concisa.</p>
+
+      <p>Sabíamos que los jurados apreciaban entender lo más rápido posible qué hacíamos sin darnos muchas vueltas.</p>
+
+      <p>Después aprendimos que quizá era mejor explayarse un poquito, porque ese primer minuto es para decir lo que quieras y decir sólo 4 palabras fue una invitación para soltar a los perros.</p>
+
+      <p>En eso, sentimos que se abre la puerta.</p>
+
+      <p>Ya habían pasado 9 minutos.</p>
+
+      <p>No lo podíamos creer. Cómo tan rápido.</p>
+
+      <p>Gustaf nos había tirado dos preguntas salvavidas (¿lo medirían por conversión: aceptados/entrevistados?) pero nuestra sensación fue que lo habíamos hecho más o menos no más. Cada jurado hizo al menos dos preguntas y se cachaba que algunos no entendían muy bien del negocio.</p>
+
+      <p>Salimos bien dudosos.</p>
+
+      <p>Tenemos una costumbre de preguntarnos entre los cuatro la probabilidad de que algo pase. Yo dije que sentía un 60% de probabilidad de quedar. Agustín dijo el porcentaje más bajo: 40%. Andrés y Omar: 50%.</p>
+
+      <p>Después de dar tu entrevista en YC te piden que te quedes 45 min esperando, por si la decisión es entrevistarte una segunda vez.</p>
+
+      <p>Eso pasa cuando no están seguros de aceptarte.</p>
+
+      <p>A la media hora nos dijeron: pueden irse, gracias.</p>
+
+      <p>¿Qué significaba eso?</p>
+
+      <p>Te dicen que no le des muchas vueltas, pero es muy difícil no hacerlo.</p>
+
+      <ul>
+      <li>Espérenme, voy al baño antes -dijo Andrés.</li>
+      </ul>
+
+      <p>En eso nos llaman.</p>
+
+      <ul>
+      <li>Fintual?, necesitamos una segunda entrevista.</li>
+      </ul>
+
+      <p>No tengo idea porqué pasó, pero mi recomendación ahora sería que te quedes 10 min más incluso si te dicen que te puedes ir. Si Andrés no hubiera ido al baño no habríamos tenido esta segunda chance.</p>
+
+      <ul>
+      <li>¿Pueden entrar inmediatamente?</li>
+      <li>Yeah, sure.</li>
+      </ul>
+
+      <p>Tremendo error.</p>
+
+      <p>No sabíamos de qué se trataba esta segunda entrevista. Era en otra sala con otros 4 jurados: ¿había que partir de cero?, ¿había que suponer que cachaban algo de nuestra startup?</p>
+
+      <p>Dijimos que sí muy seguros sin ponernos de acuerdo y entramos a lo que fue la carnicería más grande en la que he estado.</p>
+
+      <p>Nos destruyeron.</p>
+
+      <p>Éramos la última entrevista del día.</p>
+
+      <p>Ya estaba oscureciendo.</p>
+
+      <p>Los tipos sólo querían irse para su casa y nosotros que no lo hacíamos bien. Aunque creo que ni Jim Carrey pasaba esa entrevista.</p>
+
+      <p>Una de las preguntas ya la habíamos respondido muy bien menos de una hora antes pero ahora nos quedamos en blanco. Nadie alcanzó a reaccionar y ya nos estaban disparando más preguntas sin dar tiempo a reacciones.</p>
+
+      <p>Fue una masacre.</p>
+
+      <p>En retrospectiva lo que al menos yo pude haber hecho fue: “esperen, detengan sus preguntas un segundo, podemos responder ésa”, pero me tomó por sorpresa y en inglés no tengo la misma personalidad que en español. Simplemente me dejé golpear como boxeador con los brazos abajo.</p>
+
+      <p>Para rematar, una de las jurados las emprendió casi dos minutos contra uno de los socios por equis motivo. Le dio tan duro que cuando salimos de la reunión, yo grité de rabia (porque la jurado tenía razón y habíamos tocado el tema) y mi socio se quería matar.</p>
+
+      <p>Nos subimos al Tesla culiao.</p>
+
+      <p>Estuvimos uno o dos minutos manejando a la deriva, sin pescar nada lo que decía Waze.</p>
+
+      <p>Perdidos.</p>
+
+      <p>La siguiente hora fue una hora de darle vueltas y vueltas a todo lo que había pasado. Estábamos entre 0% y 10% de probabilidad.</p>
+
+      <p>Lo único cierto era que si quedábamos nos llamarían al teléfono a las 18:30.</p>
+
+      <p>Si no quedábamos nos enviarían un mail a las 19:00.</p>
+
+      <p>El teléfono no sonó.</p>
+
+      <p>Y a las siete nos llegó el mail de rechazo.</p>
+
+      <h3 id="a-difficult-decision">A difficult decision</h3>
+
+      <p>Hay mails que a uno le cuesta volver a abrir y leer.</p>
+
+      <p>Pasa harto con los mails hirientes de una ex, por ejemplo.</p>
+
+      <p>Incluso ahora, este mail de rechazo de Y Combinator me cuesta leerlo.</p>
+
+      <p><img src="https://cdn-images-1.medium.com/max/2000/1*0f7Ihb7Js_PrCcEh_Xax9A.png" alt="" /></p>
+
+      <p>Fuimos a un mirador.</p>
+
+      <p>Antonia que nos había acompañado en el viaje y había sido una tremenda partner, ese día fue al super a comprar cosas para tomar y comer mirando San Francisco de noche.</p>
+
+      <p>Yo estaba golpeadísimo y no entiendo muy bien por qué.</p>
+
+      <p>Sabía que era imposible quedar, que si hubiéramos quedado habría sido un problema tan grande que hasta podría habernos hecho quebrar como empresa, y que el objetivo inicial había sido logrado totalmente: sabíamos exactamente de qué se trataba postular a Y Combinator.</p>
+
+      <p>¡Habíamos tenido dos entrevistas! y eso es mejor que cualquier post que uno pueda leer.</p>
+
+      <p>Pero ahí estaba yo.</p>
+
+      <p>Sentado en el auto sin querer bajarme en el mirador con el resto, que comía jamón serrano, aceitunas verdes y tomaban cerveza.</p>
+
+      <p>Golpeado en el ego.</p>
+
+      <p>No tengo tanto drama con el fracaso, con decir que no quedamos. De hecho subí una story en instagram sin vergüenza (y fue bacán porque gente que ni me esperaba me dijo cosas muy lindas). Pero no lograba entender qué me pasaba.</p>
+
+      <p>Era puro ego y sabía que iba a durar media hora o una hora a lo más, pero al parecer necesitaba racionalizarlo. Verbalizarlo ojalá y seguir adelante.</p>
+
+      <p>Suelo hacer analogías con el fútbol porque me gusta mucho el fútbol, y haber sido rechazados fue como patear pésimo un penal porque te resbalaste y aún así la pelota pegó en el palo y casi fue gol.</p>
+
+      <p>Cuando entendí eso me bajé a tomar algo con mis amigos, que más eufóricos me decían: “<em>hueón</em>, en seis meses más postulamos y quedamos”.</p>
+
+      <ul>
+      <li>Yeah, “sure”.</li>
+      </ul>
+
+      <h2 id="8-minutos-esta-vez">8 minutos esta vez</h2>
+
+      <p>Tres meses después de nuestro intento nos llegó un mail de YC que decía: El 40% de las startups seleccionadas por Y Combinator son startups que postularon una segunda vez.</p>
+
+      <p>Es un mail masivo que le mandan al 3% de los postulantes del batch anterior (los que habían llegado a la entrevista final en SFO) para que vuelvan a postular.</p>
+
+      <p>Pregunté si estábamos seguros de postular de nuevo y sí.</p>
+
+      <p>Habíamos logrado sacar la licencia de administradora y lanzado los fondos mutuos que tanto queríamos (y que no nos habrían permitido vivir en EEUU antes) hacía 3 semanas.</p>
+
+      <p>Teníamos 40 clientes y ya administrábamos medio millón de dólares partiendo todo de cero.</p>
+
+      <p>Y lo más importante: a la gente le gustaba el producto y estábamos creciendo muy rápido cada semana.</p>
+
+      <p>Volví a llenar el formulario de postulación.</p>
+
+      <p>Y agregué los avances. Habíamos ganado también un concurso de fintechs latinoamericanas de Village Capital y habíamos recibido la inversión de BlackRock, PayPal, CitiBanamex y un par de inversionistas ángeles chilenos.</p>
+
+      <p>Volvimos a grabar <a href="https://www.youtube.com/watch?v=ACaN4reXBlM">el video de 1 min</a> en inglés donde la idea es presentarse. Video muy malo, muy a la rápida, pero que muestra quiénes somos más o menos bien. No nos esforzamos mucho porque el video de la primera vez había sido peor y aún así habíamos pasado o porque ahora nos sentíamos más seguros.</p>
+
+      <p>Y después de una semana nos escriben para una entrevista por Skype de 10 minutos o menos.</p>
+
+      <p>Ya no es Gustaf sino que Aaron quien, después de rascarse la cabeza y mirar para arriba, nos dijo:</p>
+
+      <ul>
+      <li>“Ok guys, no more questions. Thank you”.</li>
+      </ul>
+
+      <p>Habían pasado 8 minutos y quedamos plop.</p>
+
+      <p>Otra vez las dudas.</p>
+
+      <p>*“Hue’ón, *no nos preguntó casi nada”, “¿nos odió?”, “quizá pensó *‘ah no avanzaron mucho’*”.</p>
+
+      <p>Con Gustaf la vez anterior esta entrevista había sido muy distendida y había durado 24 minutos, quizá porque fuera de plazo quería asegurarse que valía la pena invitarnos.</p>
+
+      <p>Después de un rato, nos convencimos de que en realidad le habíamos gustado y que había sonreído cuando le respondimos “no sé” honestamente a una de sus preguntas difíciles.</p>
+
+      <p>Había que esperar una semana.</p>
+
+      <p>Esta vez habíamos empezado el proceso dentro de los tiempos normales y los mails de invitación a entrevista en SFO se enviarían a todos los postulantes el lunes 17 abril a las 10 PM Pacific Time.</p>
+
+      <h2 id="conchetupico">Conchetupico</h2>
+
+      <p>2 AM en Chile.</p>
+
+      <p>Ahí estaba yo sin poder dormir, haciendo refresh a mi mail mientras revisaba twitter y un chat online de gente en las mismas que yo, mientras mis socios dormían.</p>
+
+      <p>Algunos en el chat decían que ya les había llegado uno de rechazo y que gracias por postular.</p>
+
+      <p>Otros tiraban tallas o decían “no desistan, YC no es lo único en el mundo”.</p>
+
+      <p>Yo, histérico.</p>
+
+      <p>Una hora después, llega el mail.</p>
+
+      <p>No me atrevo ni a leerlo.</p>
+
+      <p>Empiezo a tiritar y entonces leo que sí, que íbamos de nuevo a San Francisco y se me arrancó un grito: ¡<em>bien conchetupico!</em></p>
+
+      <p>Nunca había dicho ese garabato.</p>
+
+      <p>No dormí más.</p>
+
+      <p>Compré los pasajes para todos, reservé otro hotel.</p>
+
+      <p>Teníamos la entrevista en tres semanas y esta vez el viaje sería radicalmente distinto.</p>
+
+      <h3 id="preparación">Preparación</h3>
+
+      <p>Ya sabíamos cómo era una entrevista en Y Combinator.</p>
+
+      <p>Habíamos tenido dos de hecho.</p>
+
+      <p>Y cuando aterrizamos el sábado en San Francisco nos encerramos en el hotel a estudiar. Decidimos no hablar más en español hasta que saliéramos de la entrevista dos días después.</p>
+
+      <p>Íbamos a comer cualquier cosa a menos de tres cuadras y volvíamos a la pieza a trabajar. El domingo estuvimos de 9 am a 9 pm sin parar.</p>
+
+      <p>Hicimos simulacros de entrevista de 10 min con cercanos (gracias Deepak, Rafa, Ricardo) y desconocidos. Puse un aviso en linkedin pidiendo a cualquiera que supiera inglés bien y entendiera de startups, que nos escribiera a destroy@fintual.com para que nos destruyera a preguntas (gracias Sheldon y Jaap).</p>
+
+      <p>Incluso cuando fuimos de una carrera a una sandwichería, en la fila le estábamos pitcheando a un tipo simpático que se le ocurrió preguntar qué hacíamos en SFO.</p>
+
+      <p>Simulamos entre nosotros.</p>
+
+      <p>Nos atacamos 3 contra 1.</p>
+
+      <p><img src="https://cdn-images-1.medium.com/max/2000/1*HSr77UENO_rJoqt1HOSyQQ.png" alt="" /></p>
+
+      <p><img src="https://cdn-images-1.medium.com/max/2000/1*c1UWKHyLeWU4ziAvX7ps7A.png" alt="Izq: todos contra Agustín. Der: todos contra Omar." /><em>Izq: todos contra Agustín. Der: todos contra Omar.</em></p>
+
+      <p>Yo practicaba sonreír frente a un espejo porque me cuesta cuando estoy tenso.</p>
+
+      <p>Acordamos hasta una forma de sentarnos en el borde de la silla casi cayéndonos y talones pegados a las patas de la silla. Como si estuviéramos listo para pararnos.</p>
+
+      <p>Estábamos hechos una bestias. Nerviosos pero preparados, alerta. La combinación ideal.</p>
+
+      <p>Esta vez nos fuimos en tren, riéndonos de lo imbéciles (y felices) que fuimos en el Tesla.</p>
+
+      <ul>
+      <li><p><em>Hue’ón</em>, no merecíamos ganar la vez pasada. Está claro.</p></li>
+
+      <li><p>Sí. Y yo creo que haber gastado tanta energía antes hizo que llegáramos apagados.</p></li>
+      </ul>
+
+      <p><img src="https://cdn-images-1.medium.com/max/2000/1*4pAfGIjsLg_sUos68Xe86g.png" alt="T de tren, no de Tesla." /><em>T de tren, no de Tesla.</em></p>
+
+      <p>Por eso fuimos a la entrevista con un poquito de hambre. Compramos uva chilena de exportación sin cachar (una uva que jamás de los jamáses he comido en Chile, deliciosa, parecía manzana de lo crujiente que era), gomitas y M&amp;M.</p>
+
+      <ul>
+      <li><p>¿Puedo comer uva?</p></li>
+
+      <li><p>Aguántate media hora y comámosla quince minutos antes de la entrevista para que nos pille con todo el azúcar.</p></li>
+      </ul>
+
+      <p>Así de nerd.</p>
+
+      <p>Andrés sacó una red bull de hecho.</p>
+
+      <p>Dabamos vergüenza realmente. Tomando redbull, con la bolsa de uvas recién lavada que mojaba la mesa, las gomitas, no, mal, jaja…</p>
+
+      <p>Entonces llegó nuestro turno.</p>
+
+      <h3 id="a-better-team">A better team</h3>
+
+      <ul>
+      <li>What d’you guys doing?</li>
+      </ul>
+
+      <p>Esta vez explicamos sencillo en una línea lo que hacíamos y rematamos con la misma frase que la vez pasada para reafirmar “basically like Betterment for Latin America, but with a better team… perhaps”.</p>
+
+      <p>Los YC-partners se rieron.</p>
+
+      <p>Nosotros sonreíamos.</p>
+
+      <p>Era la primera pregunta.</p>
+
+      <p>Esto iba a resultar.</p>
+
+      <p>Cada vez que preguntaban algo que habíamos ensayado veinte veces nos sentíamos la raja.</p>
+
+      <p>Las de mercado y finanzas que yo apenas entendía, Omar una vez más las destruyó.</p>
+
+      <p>Las preguntas de imprevisto, las sorteamos bien igual.</p>
+
+      <ul>
+      <li>When are you planning to go to the Mexican market?</li>
+      <li>Tomorrow actually.</li>
+      </ul>
+
+      <p>Se volvieron a reir.</p>
+
+      <p>Era cierto. Haríamos escala y aprovecharíamos para tener una reunión en el aeropuerto con quien creemos puede ser nuestro socio para abrir Fintual México.</p>
+
+      <p>Salimos y tiramos nuestras probabilidades como siempre: Omar 90%, Andrés 80%, Agustín 70–80%, yo 80%.</p>
+
+      <p>Había que esperar a una eventual segunda entrevista. Entonces Andrés reflexionó en voz alta (por primera vez en español en 3 días):</p>
+
+      <ul>
+      <li><p>Después de la entrevista están los que son aceptados y los que son rechazados inmediatamente. Y a los indecisos los invitan a pasar de nuevo, como a nosotros la vez pasada. Ahora lo hicimos muchísimo mejor, así que si no nos llaman a una segunda yo diría que quedamos.</p></li>
+
+      <li><p>Buena, y ¿queremos una segunda entrevista? Yo me siento preparado.</p></li>
+
+      <li><p>Yo igual, pero mejor no tenerla ¿no?</p></li>
+
+      <li><p>Yo quedé con la sensación de que nos faltó decir cosas importantes, el crecimiento semanal por ejemplo, cómo tan pavos <em>pa’</em> no decirlo.</p></li>
+
+      <li><p>Filo, es imposible decirlo todo y perfecto en diez minutos. Olvídalo.</p></li>
+      </ul>
+
+      <p>Media hora después la coordinadora se acerca y nos dice:</p>
+
+      <ul>
+      <li><p>No los necesitamos más. Pueden irse.</p></li>
+
+      <li><p>¿NO nos necesitan? -le dije marcando bien el “NO?”.</p></li>
+
+      <li><p>No. Pueden irse.</p></li>
+      </ul>
+
+      <p>Uuuuh.</p>
+
+      <p>Con la emoción se nos olvidó quedarnos 10 minutos más por si acaso y nos fuimos.</p>
+
+      <p>A la salida nos sacamos una foto con el cartel de Y Combinator.</p>
+
+      <p>Eran las 16:00 hrs.</p>
+
+      <p>Había que esperar la llamada de Sí a las 18:30 hrs.</p>
+
+      <p>O el mail de No a las 19:00 hrs.</p>
+
+      <h3 id="fotosíntesis">Fotosíntesis</h3>
+
+      <p>Había llevado un juego de mesa para que lo jugáramos mientras esperábamos.</p>
+
+      <p>Nos sentamos en una terraza de Mountain View a comer, tomar cerveza, jugar y esperar.</p>
+
+      <p>Nos costaba concentrarnos pero fue una gran idea haber llevado el juego para no pensar tanto y hacer que pasara el tiempo.</p>
+
+      <p><img src="https://cdn-images-1.medium.com/max/2000/1*C206vZTCTpZ9g_a3ExFPAQ.png" alt="" /></p>
+
+      <p>A las 18:20 ya se hacía casi imposible jugar.</p>
+
+      <p>Paramos.</p>
+
+      <p>18:30.</p>
+
+      <p>Los cuatro mirando el celular.</p>
+
+      <p>18:31.</p>
+
+      <ul>
+      <li>Listo, no quedamos <em>hue’ón</em>. Son muy puntuales siempre. No nos llamaron. No lo puedo creer -dije.</li>
+      </ul>
+
+      <p>Y me puse a decir por whatsapp que no habíamos quedado.</p>
+
+      <p>18:33.</p>
+
+      <p>Agustín se va al baño.</p>
+
+      <p>18:37.</p>
+
+      <p>Andrés se va al baño.</p>
+
+      <p>18:40.</p>
+
+      <p>Estamos todos convencidos de que no quedamos y nos pusimos a guardar el juego, muy enojados.</p>
+
+      <ul>
+      <li><p><em>Hue’ón,</em> nos entrevistaron pésimo. Pudimos haberla roto pero no nos preguntaron las cosas difíciles.</p></li>
+
+      <li><p><em>Pa`</em> qué chucha nos invitan. Si no querían un roboadvisor para latinoamérica, para qué mierda nos invitan. Si no los convencía el negocio… Quizá vieron que no habíamos progresado lo suficiente.</p></li>
+
+      <li><p>Por la <em>chucha.</em></p></li>
+      </ul>
+
+      <p>18:42.</p>
+
+      <p>El celular suena.</p>
+
+      <p>Agustín piensa que podría ser un número equivocado (había comprado el chip el día antes por US$49 los 6 GB en AT&amp;T, y ya nos había pasado).</p>
+
+      <p>Responde y entonces empieza a sonreír.</p>
+
+      <ul>
+      <li>¿Es Y Combinator?</li>
+      <li>Agustín* culiao *responde ¿es Y Combinator?</li>
+      </ul>
+
+      <p>Agustín mueve la cabeza asintiendo y empezamos a saltar.</p>
+
+      <p>Saltamos, pateamos las sillas, nos subimos a unos maceteros.</p>
+
+      <p>Nos abrazamos tres veces con cada uno.</p>
+
+      <p>Éramos unos monos.</p>
+
+      <p>San Francisco es una ciudad llena de locos. La gente alrededor ni nos miró. Y si lo hicieron pensaron “otra startup de pendejos extasiados”.</p>
+
+      <p>Agustín corta y se arrodilla cagado de la risa.</p>
+
+      <p><img src="https://cdn-images-1.medium.com/max/2000/1*FuWPRRPl-Aj0IsAMeY7EKA.png" alt="" /></p>
+
+      <p>Andrés lo abraza.</p>
+
+      <p>Nos volvemos a abrazar tres veces cada uno.</p>
+
+      <p>Estamos eufóricos.</p>
+
+      <p>Agarramos los teléfonos. Yo empecé a dar explicaciones por whatsapp a quienes ya me estaban consolando: <em>Hueón, quedamos. Sí quedamos. Nos acaban de llamar.</em></p>
+
+      <p>Y ahora que escribo todo esto en el avión, me vuelvo a emocionar.</p>
+
+      <p>Y sigo sin poder creerlo.</p>
+
+      <p>Somos la primera startup chilena en quedar en Y Combinator.</p>
+
+      <p><img src="https://cdn-images-1.medium.com/max/2000/1*KbNIhxjaXWbhs_KiJAYtMQ.png" alt="" /></p>
+
+      <footer>
+        <!-- Credits for your article -->
+        <aside>Agradecimientos a todos los que nos apoyaron y nos siguen apoyando.</aside>
+
+        <!-- Copyright details for your article -->
+        <small>Copyright Fintual Inc.</small>
+      </footer>
+    </article>
+  </body>
+</html>

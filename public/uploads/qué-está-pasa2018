@@ -1,0 +1,946 @@
+ <!DOCTYPE html> <html lang="en"> <head> <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /> <meta charset="utf-8" /> <title>
+	Vix-Index
+</title>  <script type='text/javascript' src='/assets/js/ads.js'></script> <script type="text/javascript">var sf_appPath='/';</script><meta name="Generator" content="Sitefinity 9.2.6232.0 PU" /><link rel="canonical" href="http://www.cboe.com/vix" /><script type="text/javascript">
+	(function() {
+    var jqueryXhrModified = false;
+    var detectjs = false;
+    var executeDataIntelligenceScript = function() {
+        var source;
+        if (!window.JSON) {
+            source = '/WebResource.axd?d=v_7SFcN7nPV5NK1E-cdhM8btUc-OI8NkgwEu3oriZM3IQzHbriUZy15dgmFo0LNSQAa-QpKUax-hg4IOMXM78Tk4Ysf8Lh5fRGNLzI6sQ1gDqbRcpq3r2OTr25VLIrfXV-EmY2phk0tT1ZmWbOe-daVb__Umz-W1FTt01A2&t=636461722219289163';
+        } else if (!window.jQuery) {
+            source = '/WebResource.axd?d=NhijE_VftrxoLUzfVpb5wlV_3NuC1SOwBJH407gT_nBhM1HoSBr4eW4TduQsVXU1eBtHUNRMpW5YpQTHuJSiFnuyXV7KhZSNnUXEh3CfYkBmaPCL54nR3TDMy8JJPoZGzOfj2iFRAxf8eI9cc-6kepbHeCCeCbzCMziz57YtvgqWkk580&t=636461722219289163';
+        } else if (!jqueryXhrModified) {
+            source = '/WebResource.axd?d=HpbmgBNHLnMxhbyzXbY-rnUcvsOpDpF1ck5OVbESGBEKVlLNXt4mOJnPovzw-WiFEJCs99TCPEecmtnhLhtZLQ__oDsZHZm5I4BP2zJrksQOtwdVIz8XN0CVqMvJTex_uc-GQZQIA8hXvIks5Te7P4nyezEN5655UqIa6NahJOX_NkQACcK7aKNxX9QiKd_9e0rdiK-8m2QJVwyHIud_1KHH1sc2VTFznoBJasHU4yHGQW3e0&t=636461722163837034';
+            jqueryXhrModified = true;
+        } else if (!detectjs) {
+            source = '/WebResource.axd?d=o7OeMts7PJZDVtVX04jjxPakvhdTXm_Um3Sl0aZbTEAbDl0UlmN88dcRpTuWcJT-eq_oPQ58AsbVqluHTarOC7sKvjiTZTqjsklCrjmgeslN43qlIbINSW0CP5sGylUs_8xGWrYKr0ttfbSAjmJgPP-DH_fY-w-ybdvZXopB1UNHQkgWDSQdLe0DBZTzoUnbWKRUybL1NJdz_4fRG4gju8WO0yI1&t=636461722163837034';
+            detectjs = true;
+        } else if (!window.DataIntelligenceSubmitScript) {
+            source = '/WebResource.axd?d=CHjWrOEtiBHusVltFWKKqdsxcxrToHzwFBYHhmmpCdg9uYKUktfp8M5OWSUOJkRnMmQRy6T2UdAY3zFm4YSIZ-IUesitKKJFHpjG61Bg9vuNHqaJH4mQXEB5fQ6R8yg7L4B9mItXBcwBJyMAA9Lh4IuTK8vLk3FVkzitTehbO3QoC7lU8cUjxYaMRn3PxPGsqfD2F_N874_-2UJLnOsbGP8so9SahsfP1heLeK6npv9Fl70X0&t=636461722163837034';
+        } else if (!window.sfDataIntell) {
+            source = 'https://dec.azureedge.net/sdk/telerik-dec-client.min.1.0.0.121.js';
+        } else {
+            return DataIntelligenceSubmitScript.load({"apiServerUrl":"https://api.dec.sitefinity.com","apiKey":"1795c8bb-b587-e575-00ce-8c5ae00b9402","applicationName":"CBOEWebSites","trackingCookieDomain":".cboe.com"});
+        }
+        var script = document.createElement('script');
+        script.type = 'text/javascript';
+        var callback = function() {
+            if (!this.readyState || this.readyState === 'complete' || this.readyState === 'loaded') {
+                executeDataIntelligenceScript();
+            }
+        };
+        if(script.addEventListener) {
+            script.addEventListener('load', callback, false);
+        } else if(script.readyState) {
+            script.onreadystatechange = callback;
+        }
+        script.src = source;
+        return document.body.appendChild(script);
+    };
+    if (window.addEventListener) {
+        window.addEventListener('load', executeDataIntelligenceScript, false);
+    } else if (window.attachEvent) {
+        window.attachEvent('onload', executeDataIntelligenceScript);
+    }
+})();
+</script><meta name="description" content="Vix" /><meta name="keywords" content="Vix, Microvix, VIX® Index" /></head> <body>  <div class="sfPublicWrapper" id="PublicWrapper"> 
+
+<div id="ContentTop_T55CA963A010_Col00" class="sf_colsIn site-header" data-sf-element="Div" data-placeholder-label="Header Region">
+<!-- Responsive -->
+<meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+<!-- IE/Chrome Compat -->
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+
+<!-- Internal Not combined CSS -->
+
+ <!-- End Internal Not combined CSS -->
+
+<!-- Internal combined CSS -->
+
+        <!--Please don't delete this comment and the below one. Required for bundling css for task to generate the physical file -->
+        <!-- START COMBINED CSS -->
+    <link href='/css/combinedCSS?v=KLj7s96bCK8MuC2oxYoeWSRXw39FO9PXFOjGR9VcpaU1' media='all' rel='stylesheet' type='text/css'>
+        <!-- END COMBINED CSS -->
+        <!--Please don't delete this comment and the above one. Required for bundling css for task to generate the physical file -->
+
+<!-- End Internal combined CSS -->
+
+<!-- External combined CSS -->
+
+<!-- End External combined CSS -->
+<link href='/ms/css/MyFontsWebfontsKit.css' media='all' rel='stylesheet' type='text/css'>
+<!-- Switch debug mode for additional logging -->
+<!-- bLogged In moved to Control and to root master -->
+<!--
+Pre-DOM SHIMS
+These fix issues in legacy browsers where certain
+features are not supported.
+-->
+<!--[if lt IE 9]>
+<script src="//html5shim.googlecode.com/svn/trunk/html5.js" type="text/javascript"></script>
+<![endif]-->
+<!-- Sitefinity related (tooltip for user controls in design mode, designmode check etc.,) -->
+<script src="http://www.cboe.com/assets/js/sitefinity/validation.js" type="text/javascript"></script>
+<style type="text/css" media="print">
+@page {size: A4 landscape; margin:0; padding:0;}
+.container { width:800px !important; }
+@media print 
+{
+	.ticker-bar .bar .ticker-item, .ticker-item,.ticker-item:first-child, .ticker-item:last-child, .pagination { display:none;  width:0px !important;  margin:0px !important;  padding:0px !important;	}
+	body, html {padding:0!important;margin:0 !important;} 
+	.wrap-columns-inner .column	{display: table-cell; vertical-align: top; width:50% !important;}
+	.ticker-bar .simple .loaded {display:none !important; width:0px !important; height:0px !important; margin:0px !important; padding:0px !important;}
+	.breadcrumbs, .sf_colsIn .site-footer, .topbar,  .hideonmobile, .hideondesktop, .sf_colsIn .bottomspan, .ticker-bar .bar,.view-onecol .bottomspan, .site-footer, .table-title:before, .table-title:after {display:none !important;}
+	.table-title .right	{ display:block !important; margin:0px !important;}
+    .wrap-columns-inner.two .column:last-child{padding-left:0px !important;}
+	.view-threecol .main {table-layout:inherit !important;}
+	.blog-widget {display:none !important;}	
+}
+</style>
+
+<section class="topbar top-nav-bckgrd">
+    <li class="top-login-account hideondesktop" style="display:inline-block;">
+        <div id="divLoginDivs" class="cLogin"> 
+            <div id="divNotLoggedIn" style="display: none">
+				<a href="javascript:triggerMyCBOE();" class="account top-login-img hideondesktop" id="butLogin"></a>					
+            </div>
+            <div id="divLoggedIn" style="display: none">
+                <ul class="account-dropdown">
+                    <li>
+                        <a href="#" class="account top-already-logggedin"></a>
+                        <ul>
+                            <li>
+                                <a href="/useradmin/personalprofile.aspx">Account Settings
+                                        </a>
+                            </li>
+                            <li>
+                                <a href="javascript:triggerMyCBOE();">Sign Out
+                                        </a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </li>
+	<a onclick="ShowSearch();return;" class="quicksearch-icon-glass top-login-search hideondesktop"></a>	
+</section>
+<header class="header">
+  <div class="container">
+    <h2 class="logo"><a href="/"><span class="icon-logo cboe">Cboe</span></a></h2>
+    <div class="right pad0-lr hdr-sitelinks-font">
+        <span class="hideonmobile line">
+<style>
+  .headSplitter { padding:0 10px 0 10px;}
+  .headLinkText { color:#002051 !important; font-size: 88%;}
+</style>
+<span>
+  <a class="headLinkText" href="http://www.cboe.com/us/options">U.S. Options</a><span class="headSplitter">|</span><a class="headLinkText" href="http://www.bats.com/us/equities/overview/">U.S. Equities</a><span class="headSplitter">|</span><a class="headLinkText" href="http://www.bats.com/europe/equities/overview/">European Equities</a><span class="headSplitter">|</span><a class="headLinkText" href="http://cfe.cboe.com">Futures</a><span class="headSplitter">|</span><a class="headLinkText" href="http://www.livevol.com/">LiveVol</a><span class="headSplitter">|</span><a class="headLinkText" href="http://www.cboe.com/index/">Indexes</a><span class="headSplitter">|</span><a class="headLinkText" href="http://www.silexx.com/">Silexx</a><span class="headSplitter">|</span><a class="headLinkText" href="https://fx.cboe.com">FX</a>
+</span></span>
+		<section class="quicksearch-container">
+			<div class="field"><input type="text" id="SearchQuery" name="SearchQuery" placeholder="Quotes, Keywords, Products, News, etc." class="ui-autocomplete-input" autocomplete="off"></div>
+			<div class="submit"><button type="button" class="button top-hdr-search">Search</button></div>
+		</section>
+    </div>
+    <section class="sign-in-btn-container micro-login">							
+		<ul class="account-list">
+			<li>
+				<a href="/useradmin/personalprofile.aspx">Account Settings
+						</a>
+			</li>
+			<li>
+				<a href="javascript:triggerMyCBOE();">Sign Out</a>
+			</li>
+		</ul>			
+    </section>
+  </div>
+</header>
+
+
+
+
+
+
+<script type="text/javascript">
+    window.debug = false;
+    var isIntranet = 'False' == 'True' ? true : false;
+    var isHTTPS = document.location.protocol == 'https:' ? true : false;
+
+    //this control is within the script block because a javascript variable is returned from the code behind
+    var bLoggedIn = false;
+
+    //Add data attribute for UserAgent to Document
+    document.documentElement.setAttribute('data-useragent', navigator.userAgent);
+</script>
+
+
+
+  <link href='/assets/modules/microsite/css/page.css?v=3' media='all' rel='stylesheet' type='text/css'>
+</div>
+
+<div id="ContentTop_T55CA963A011_Col00" class="sf_colsIn body" data-sf-element="Div" data-placeholder-label="Body (ContentAll)">
+<div class="body view-onecol microsite-onecol">
+    <div class="container microsite-container">
+        <section class="main page-view">
+            <div class="content">
+                <div id="ContentTop_TDC93320D021_ContentMain" class="sf_colsIn" data-sf-element="ContentMain" data-placeholder-label="ContentMain"><div id="ContentTop_TDC93320D013_Col00" class="sf_colsIn template-product-nav" data-sf-element="Div" data-placeholder-label="ProductNav">
+<div >
+    <div ><nav class="product-nav"><ul class="menu"><li><a href="#overview">Overview</a>
+</li><li><a href="#charts-data">Charts &amp; Data</a>
+</li><li><a href="#strategies">Strategies</a>
+</li><li><a href="#research">Research</a>
+</li><li><span class="quicksearch-icon-glass img-search"></span></li><li><span class="quicksearch-icon top-login-img img-login" id="btn-signIn"></span></li></ul></nav></div>    
+
+</div>
+
+</div>
+<div id="ContentTop_TDC93320D020_Col00" class="sf_colsIn template-product-banner" data-sf-element="Div" data-placeholder-label="Banner">
+<div >
+    <div ><div class="product-top-banner"><div class="banner-left"></div><div class="banner-tip"><div class="banner-vix-logo"></div></div><div class="banner-div-separator"></div><div class="product-answer"><p class="ans-title first">Turn Volatility to Your Advantage</p><p class="qtn" data-attr="qtn">Welcome to your go-to place for information about the VIX complex &ndash; learn to measure, model and trade market moves with the world&rsquo;s widest array of volatility products and resources.
+</p><p data-attr="qtn1" style="display:none;">Volatility measures the frequency and magnitude of price movements, both up and down, that a financial instrument experiences over a certain period of time. The more dramatic the price swings in that instrument, the higher the level of volatility. Volatility can be measured using actual historical price changes (realized volatility) or it can be a measure of expected future volatility that is implied by option prices. The VIX Index is a measure of expected future volatility.
+</p><p data-attr="qtn2" style="display:none;">Cboe Global Markets revolutionized investing with the creation of the Cboe Volatility Index&reg; (VIX&reg; Index), the first benchmark index to measure the market&rsquo;s expectation of future volatility. The VIX Index is based on options of the S&amp;P 500&reg; Index, considered the leading indicator of the broad U.S. stock market. The VIX Index is recognized as the world&rsquo;s premier gauge of U.S. equity market volatility. 
+</p><p data-attr="qtn3" style="display:none;">The VIX Index estimates expected volatility by aggregating the weighted prices of S&amp;P 500 Index (SPX<sup>SM</sup>) puts and calls over a wide range of strike prices. Specifically, the prices used to calculate VIX Index values are midpoints of real-time SPX option bid/ask price quotations.
+</p><p data-attr="qtn4" style="display:none;">The VIX Index is used as a barometer for market uncertainty, providing market participants and observers with a measure of constant, 30-day expected volatility of the broad U.S. stock market. The VIX Index is not directly tradable, but the VIX methodology provides a script for replicating volatility exposure with a portfolio of SPX options, a key innovation that led to the creation of tradable VIX futures and options.
+</p><a class="product-more-link-qtn" data-attr="qtn1" href="/assets/modules/microsite/vix/documents/What is Volatility.docx" style="display:none;">Learn more<span class="product-right-arrow"></span></a><a class="product-more-link-qtn" data-attr="qtn2" href="/products/vix-index-volatility" style="display:none;">Learn more<span class="product-right-arrow"></span></a><a class="product-more-link-qtn" data-attr="qtn3" href="/products/vix-index-volatility/vix-options-and-futures/vix-index/vix-faqs#2" style="display:none;">Learn more<span class="product-right-arrow"></span></a><a class="product-more-link-qtn" data-attr="qtn4" href="/assets/modules/microsite/vix/documents/How is VIX Used.docx" style="display:none;">Learn more<span class="product-right-arrow"></span></a>
+</div><div class="product-question"><a data-attr="qtn1" data-event="false">What is volatility?</a><br /><a data-attr="qtn2" data-event="false">What is the VIX Index?</a>
+<br /><a data-attr="qtn3" data-event="false">How is the VIX Index calculated?</a>
+<br /><a data-attr="qtn4" data-event="false">How is the VIX Index used?</a>
+<br /><a class="product-more-link" href="http://www.cboe.com/products/vix-index-volatility/vix-options-and-futures/vix-index/vix-faqs">VIX FAQs<span class="product-right-arrow"></span></a></div></div></div>    
+
+</div>
+
+</div>
+<div id="ContentTop_TDC93320D022_Col00" class="sf_colsIn template-product-blog" data-sf-element="Div" data-placeholder-label="Blog">
+<div >
+    <div ><div class="product-blog"><div class="product-blog-left"></div><div class="product-blog-middle"><div class="div-rows-container"><div class="div-1st-row">VIX Weekly Options</div><div class="div-2nd-row">Now Available in Penny Increments</div><div class="div-last-row"><a class="product-blog-link" href="/products/vix-index-volatility/vix-options-and-futures/vix-options">Learn more<span class="product-right-arrow"></span></a></div></div></div><div class="product-blog-right"></div></div></div>    
+
+</div>
+
+</div>
+<div id="ContentTop_TDC93320D019_Col00" class="sf_colsIn template-product-chart" data-sf-element="Div" data-placeholder-label="Chart &amp;amp;amp; Data"><link href='/assets/ui/libs/highchart/highcharts.css' media='all' rel='stylesheet' type='text/css'>
+<link href='/assets/modules/widgets/product-details/css/chartanddata.css' media='all' rel='stylesheet' type='text/css'>
+
+<script type="text/javascript">
+	if (SFBackendMode() == false && !window.jQuery) {
+		// jQuery is not loaded
+		document.write("<script src='/assets/ui/libs/jquery-ui/jquery.min.js'></" + "script>");
+	}
+</script>
+<input type="hidden" id="txtDefaultSymbolProductVIX1" name="DefaultSymbol" value="VIX" />
+<input type="hidden" id="txtCompareSymbolsProductVIX1" name="CompareSymbols" value="" />
+<input type="hidden" id="txtTimeLineProductVIX1" name="TimeLine" value="3M" />
+
+<script src="/assets/ui/libs/highchart/stock/highstock.js"></script>
+<script src="/assets/ui/libs/highchart/modules/exporting.js"></script>
+
+<script src="/assets/modules/widgets/product-details/js/chartanddataLV.js?v=1"></script>
+<script type="text/javascript" defer>
+    var selectedIDX = "";
+    var enteredIDX = "";   
+
+    $(document).keypress(function (e) {
+        if (e.keyCode === 13) {
+            e.preventDefault();
+            return false;
+        }
+    });
+    $(document).ready(function () {
+			var selPCDefaultSymbolobj = document.getElementById("txtDefaultSymbol" + 'ProductVIX1')
+			var selCompareSymbolsobj = document.getElementById("txtCompareSymbols" + 'ProductVIX1')
+        var selectedTimeLine = document.getElementById("txtTimeLine" + 'ProductVIX1').value;
+      var selectedCP = false;
+      var selectedCompType = "";
+
+      function formatYAxis() {
+          //return (this.value);
+          //alert(selectedCompType);
+          if (selectedCompType == "") {
+              return (this.value);
+          }
+          else {
+              return (this.value > 0 ? ' + ' : '') + this.value + '%';
+          }
+
+      }
+		//ga track event
+		var curPageTitle = $(document).attr('title');    //window.location.href.substr(window.location.href.lastIndexOf('/') + 1);
+		if (curPageTitle == null || curPageTitle.trim() == '') {
+		  curPageTitle = 'vix-index';
+		}
+		curPageTitle = curPageTitle.toLowerCase();
+        $("#btnIntradayProductVIX1").bind('click', function (event) {
+			selectedTimeLine = "Intraday";
+			//ga event track
+			if (!$(this).hasClass('timeLineHighLight'))
+				trackGAEvent(curPageTitle, 'charts', selectedTimeLine.toLowerCase());
+
+			DrawChart();
+      RemoveHighLight();
+      $("#btnIntradayProductVIX1").addClass('timeLineHighLight');
+      return false;
+    });
+
+		$("#btn1MProductVIX1").bind('click', function (event) {
+			selectedTimeLine = "1M";
+			//ga event track
+			if (!$(this).hasClass('timeLineHighLight'))
+				trackGAEvent(curPageTitle, 'charts', selectedTimeLine.toLowerCase());
+
+			DrawChart();
+      RemoveHighLight();
+      $("#btn1MProductVIX1").addClass('timeLineHighLight');
+      return false;
+    });
+
+		$("#btn3MProductVIX1").bind('click', function (event) {
+			selectedTimeLine = "3M";
+			//ga event track
+			if (!$(this).hasClass('timeLineHighLight'))
+				trackGAEvent(curPageTitle, 'charts', selectedTimeLine.toLowerCase());
+
+			DrawChart();
+      RemoveHighLight();
+      $("#btn3MProductVIX1").addClass('timeLineHighLight');
+      return false;
+    });
+		$("#btn6MProductVIX1").bind('click', function (event) {
+			selectedTimeLine = "6M";
+			//ga event track
+			if (!$(this).hasClass('timeLineHighLight'))
+				trackGAEvent(curPageTitle, 'charts', selectedTimeLine.toLowerCase());
+
+			DrawChart();
+      RemoveHighLight();
+      $("#btn6MProductVIX1").addClass('timeLineHighLight');
+      return false;
+    });
+
+		$("#btn1YProductVIX1").bind('click', function (event) {
+    	selectedTimeLine = "1Y";
+			//ga event track
+			if (!$(this).hasClass('timeLineHighLight'))
+				trackGAEvent(curPageTitle, 'charts', selectedTimeLine.toLowerCase());
+			DrawChart();
+			RemoveHighLight();
+			$(ProductVIX1).highcharts().zoomOut();
+      $("#btn1YProductVIX1").addClass('timeLineHighLight');
+      return false;
+    });
+
+		$("#btnAllProductVIX1").bind('click', function (event) {
+      selectedTimeLine = "All";
+			//ga event track
+			if (!$(this).hasClass('timeLineHighLight'))
+				trackGAEvent(curPageTitle, 'charts', selectedTimeLine.toLowerCase());
+
+      DrawChart();
+      RemoveHighLight();
+      $("#btnAllProductVIX1").addClass('timeLineHighLight');
+      return false;
+		});
+
+    $("#PriceProductVIX1").bind('click', function (event) {
+        selectedCompType = "";
+        DrawChart();
+        RemoveCompareHighLight();
+        $("#PriceProductVIX1").addClass('compareHighLight');
+    });
+    $("#PercentageProductVIX1").bind('click', function (event) {
+        selectedCompType = "percent";
+        DrawChart();
+        RemoveCompareHighLight();
+        $("#PercentageProductVIX1").addClass('compareHighLight');
+    });
+
+    $("#CPOn").click(function () {
+        $("#divCPOn").hide();
+        $("#divCPOff").show();
+        selectedCP = false;
+        DrawChart();
+
+    });
+
+    $("#CPOff").click(function () {
+        $("#divCPOff").hide();
+        $("#divCPOn").show();
+        selectedCP = true;
+        DrawChart();
+        trackGAEvent(curPageTitle, 'charts', 'critical-periods');
+
+    });
+
+    $("#btnDLProductVIX1").bind('click', function () {
+        if (bLoggedIn == false) {
+            ConfirmLogin();
+            return false;
+        }
+        trackGAEvent(curPageTitle, 'charts', 'download');
+    });
+
+    function ConfirmLogin() {
+        var txt;
+        if (confirm('Cboe login is required to download data. Click "OK" to login.') == true) {
+            window.location.href = "/useradmin/formslogin?ReturnURL=" + window.location.pathname;
+        }
+    }
+
+    function DrawChart() {
+        removeSeriesforSymbol("ProductVIX1");
+        $("#ProductVIX1").highcharts().showLoading('<span style="color:#002051;font-size:15pt">Loading data...</span>');
+				$('body').trigger('click');
+				GetSymbolChartData("ProductVIX1", selPCDefaultSymbolobj.value, selCompareSymbolsobj.value, selectedCompType, selectedTimeLine, selectedCP);
+    }
+
+    function RemoveHighLight() {
+        $("#btnIntradayProductVIX1").removeClass('timeLineHighLight');
+        $("#btn1MProductVIX1").removeClass('timeLineHighLight');
+        $("#btn3MProductVIX1").removeClass('timeLineHighLight');
+        $("#btn6MProductVIX1").removeClass('timeLineHighLight');
+        $("#btn1YProductVIX1").removeClass('timeLineHighLight');
+        $("#btnAllProductVIX1").removeClass('timeLineHighLight');
+    }
+    function RemoveCompareHighLight() {
+        $("#PriceProductVIX1").removeClass('compareHighLight');
+        $("#PercentageProductVIX1").removeClass('compareHighLight');
+    }
+
+    });
+
+    
+</script>
+
+<div>
+    <div>
+            <div class="chart-ctrl">
+                    <h2>VIX&reg; Index Charts & Data</h2>
+                                    <div class="left-c">
+
+                        <ul>
+                            <li>
+                                <div class="col1">^VIX</div>
+                                <div class="col2">17.8</div>
+                                <div class="col3" data-numericcolor="0">0%</div>
+                            </li>
+                            <li>
+                                <div class="col1">Prev.Close</div>
+                                <div class="col2">19.51</div>
+                                <div class="col3"></div>
+                            </li>
+                            <li>
+                                <div class="col1">Open</div>
+                                <div class="col2">17.8</div>
+                                <div class="col3"></div>
+                            </li>
+                            
+                            <li>
+                                <div class="col1">52 Week</div>
+                                <div class="col2"><span>High </span>50.3</div>
+                                <div class="col3"><span>Low</span> 10.52</div>
+                            </li>
+                        </ul>
+                        <div class="col1 disp-time"><span>as of 01/18/2019 04:14 ET </span></div>
+
+                    </div>
+                                    <div class="right-c">
+                        <div id='ProductVIX1' style='height:270;min-width:;clear:both;margin: 0 auto;'></div><script type='text/javascript'>if (document.addEventListener) {document.addEventListener("DOMContentLoaded", function() {createChartProductVIX1();});} else if (document.attachEvent) {document.attachEvent("onreadystatechange", function(){if (document.readyState === "complete"){document.detachEvent("onreadystatechange", arguments.callee);createChartProductVIX1();}});}function createChartProductVIX1() {var ChartOptions = {"rangeSelector":{"enabled":false},"chart":{"height":270,"backgroundColor":"transparent","renderTo":"ProductVIX1","zoomType":"x"},"plotOptions":{"line":{"dataGrouping":{"enabled":false}},"flags":{"tooltip":{"split":true,"pointFormat":"\u003cspan style=\u0027color:{series.color}\u0027\u003e{point.text}\u003c/span\u003e"},"showInLegend":false},"series":{"turboThreshold":0,"tooltip":{"valueDecimals":2,"pointFormat":"\u003cspan style=\"color:{series.color}\"\u003e{series.name}\u003c/span\u003e: \u003cb\u003e{point.y}\u003c/b\u003e\u003cbr /\u003e"},"events":{"legendItemClick":DisableLegendClick}}},"yAxis":[{"opposite":false,"plotLines":[{"width":2,"color":"#FF0000","value":0}],"labels":{"formatter":formatYAxis}}],"tooltip":{"useHTML":true,"pointFormat":"{series.name}: {point.y:,.2f}"},"exporting":{"enabled":false},"scrollbar":{"enabled":false},"xAxis":[{"range":7776000000,"tickPixelInterval":125,"lineColor":"red","gridLineColor":"white"}],"credits":{"enabled":false},"legend":{"enabled":true,"align":"right"},"navigator":{"enabled":false},"series":[{"name":"VIX","color":"#082550","id":"dataseries","data":[{"x":1540166400000,"y":19.64},{"x":1540252800000,"y":20.71},{"x":1540339200000,"y":25.23},{"x":1540425600000,"y":24.22},{"x":1540512000000,"y":24.16},{"x":1540771200000,"y":24.7},{"x":1540857600000,"y":23.35},{"x":1540944000000,"y":21.23},{"x":1541030400000,"y":19.34},{"x":1541116800000,"y":19.51},{"x":1541376000000,"y":19.96},{"x":1541462400000,"y":19.91},{"x":1541548800000,"y":16.36},{"x":1541635200000,"y":16.72},{"x":1541721600000,"y":17.36},{"x":1541980800000,"y":20.45},{"x":1542067200000,"y":20.02},{"x":1542153600000,"y":21.25},{"x":1542240000000,"y":19.98},{"x":1542326400000,"y":18.14},{"x":1542585600000,"y":20.1},{"x":1542672000000,"y":22.48},{"x":1542758400000,"y":20.8},{"x":1542931200000,"y":21.52},{"x":1543190400000,"y":18.9},{"x":1543276800000,"y":19.02},{"x":1543363200000,"y":18.49},{"x":1543449600000,"y":18.79},{"x":1543536000000,"y":18.07},{"x":1543795200000,"y":16.44},{"x":1543881600000,"y":20.74},{"x":1544054400000,"y":21.19},{"x":1544140800000,"y":23.23},{"x":1544400000000,"y":22.64},{"x":1544486400000,"y":21.76},{"x":1544572800000,"y":21.46},{"x":1544659200000,"y":20.65},{"x":1544745600000,"y":21.63},{"x":1545004800000,"y":24.52},{"x":1545091200000,"y":25.58},{"x":1545177600000,"y":25.58},{"x":1545264000000,"y":28.38},{"x":1545350400000,"y":30.11},{"x":1545609600000,"y":36.07},{"x":1545782400000,"y":30.41},{"x":1545868800000,"y":29.96},{"x":1545955200000,"y":28.34},{"x":1546214400000,"y":25.42},{"x":1546387200000,"y":23.22},{"x":1546473600000,"y":25.14},{"x":1546560000000,"y":25.14},{"x":1546819200000,"y":22.06},{"x":1546905600000,"y":22.06},{"x":1546992000000,"y":20.44},{"x":1547078400000,"y":20.91},{"x":1547164800000,"y":18.19},{"x":1547424000000,"y":19.84},{"x":1547510400000,"y":18.53},{"x":1547596800000,"y":18.13},{"x":1547683200000,"y":19.51},{"x":1547769600000,"y":19.51}]}]};new Highcharts.StockChart("ProductVIX1",ChartOptions);}</script>
+
+                        <div class="timeLineHead">
+                            <a class="timeLineStyle IntradayA" id='btnIntradayProductVIX1'>Intraday</a>&nbsp;&nbsp;&nbsp;
+                            <a class="timeLineStyle 1MA" id='btn1MProductVIX1'>1M</a>&nbsp;&nbsp;
+                            <a class="timeLineStyle timeLineHighLight 3MA" id='btn3MProductVIX1'>3M</a>&nbsp;&nbsp;&nbsp;
+                            <a class="timeLineStyle 6MA" id='btn6MProductVIX1'>6M</a>&nbsp;&nbsp;&nbsp;
+                            <a class="timeLineStyle 1YA" id='btn1YProductVIX1'>1Y</a>&nbsp;&nbsp;&nbsp;
+                            <a class="timeLineStyle  AllA" id='btnAllProductVIX1'>All</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+                            <div style="display:inline-flex;vertical-align: bottom;">
+                                <div id="divCPOn" style="position:relative; z-index:2;display:none;"><img id="CPOn" src="/assets/modules/microsite/images/Button_Toggle_Enabled.png" /></div><div id="divCPOff" style="position:relative; z-index:2;"><img id="CPOff" src="/assets/modules/microsite/images/Button_Toggle_Disabled.png" /></div>&nbsp;<span style="font-size: smaller;color: #AAAAAA;margin-top: 2px;">Critical Periods</span>&nbsp;&nbsp;&nbsp;
+                                <a class="DownloadDataA" id="btnDLProductVIX1" href='/chardata/GetDownloadSymbolData/?Symbol=VIX'><img src="/assets/modules/microsite/download.png" class="tooltip DownloadDataA" style="position:relative; z-index:2;" title="Download data" /></a>
+                            </div>
+                        </div>
+
+
+                    </div>
+            </div>    </div>
+</div>
+
+</div>
+<div id="ContentTop_TDC93320D018_Col00" class="sf_colsIn template-product-intro" data-sf-element="Div" data-placeholder-label="Intro">
+</div>
+<div id="ContentTop_TDC93320D017_Col00" class="sf_colsIn template-product-future" data-sf-element="Div" data-placeholder-label="Index &amp;amp;amp; Future Data">
+<div >
+    <div ><article class="content product-intro"><p>Cboe is the home of volatility trading, and the Cboe Volatility Index&reg; (VIX&reg; Index) is the centerpiece of Cboe&rsquo;s volatility franchise, which includes VIX futures and VIX options.</p></article></div>    
+
+</div>
+<div>
+    <div>
+        <link href='/assets/modules/widgets/product-details/product-details.css?v=1' media='all' rel='stylesheet' type='text/css'>
+    </div>
+    <div id="div-product" class="product-ctnr">
+        <dl class="idx-tab">
+            <dt>VIX Index</dt>
+            <dt>VIX Options</dt>
+            <dt>VIX Futures</dt>
+        </dl>
+        <div id="div-VIXIndex" data-index="VIX Index" class="disp-none">
+            <ul class="css-tabs">
+                <li>Overview</li>
+                <li data-url="http://www.cboe.com/delayedquote/">Delayed Quotes</li>		
+                <li data-url="http://www.cboe.com/products/vix-index-volatility/vix-options-and-futures/vix-index/vix-historical-data">Historical Data</li>
+                <li data-url="http://www.cboe.com/micro/vix/vixwhite.pdf">VIX White Paper</li>
+                <li data-url="http://www.cboe.com/micro/vix/vix-index-rules-and-methodology.pdf">VIX Methodology</li>
+                <div class="separator"></div>
+            </ul>
+            <div class="css-panes">
+                <div data-prTab="Overview" class="disp-in-blk">
+				<article class="content"><p>The VIX Index is a calculation designed to produce a measure of constant, 30-day expected volatility of the U.S. stock market, derived from real-time, mid-quote prices of S&P 500&reg; Index (SPX<sup>SM</sup>) call and put options. On a global basis, it is one of the most recognized measures of volatility -- widely reported by financial media and closely followed by a variety of market participants as a daily market indicator.</p></article>
+				</div>
+            </div>
+        </div>
+		
+        <div id="div-VIXOptions" data-index="VIX Options" class="disp-none">
+            <ul class="css-tabs">
+                <li>Overview</li>
+                <li data-url="http://cfe.cboe.com/cfe-products/vx-cboe-volatility-index-vix-futures/settlement-information-for-vix-derivatives">Settlement Process</li>
+                <li data-url="http://www.cboe.com/delayedquote/quote-table?ticker=VIX">Options Quotes</li>				
+                <li data-url="http://www.cboe.com/products/vix-index-volatility/vix-options-and-futures/vix-options/vix-options-specs">Contract Specs</li>
+                <li data-url="http://www.cboe.com/data/historical-options-data/volume-put-call-ratios">Historical Data</li>
+                <li data-url="http://cfe.cboe.com/market-data/hoss-information">Imbalance Notice</li>
+                <div class="separator"></div>
+            </ul>
+            <div class="css-panes">
+                <div data-prTab="Overview" class="disp-in-blk">
+					<div class="col-left">
+					<article class="content">
+					<p>
+						Following the successful launch of VIX futures, Cboe Options Exchange introduced VIX options in 2006, providing market participants with another tool to manage volatility. VIX options have monthly and weekly expirations and trade during U.S. regular trading hours and a limited global trading hours session (2:00 a.m. to 8:15 a.m. CT). VIX options enable market participants to hedge portfolio volatility risk distinct from market price risk and trade based on their view of the future direction or movement of volatility.
+					 </p> 
+					</article>
+					<a class="product-future-more" href="http://www.cboe.com/products/vix-index-volatility/vix-options-and-futures/vix-options">Learn more<span class="product-right-arrow"></span></a>
+					</div>
+					<div class="col-right">
+					<link href='/assets/modules/widgets/product-details/css/mostactiveoptions.css' media='all' rel='stylesheet' type='text/css'>
+    <div class="most-active-options">
+        <p style="padding-top: 5px; padding-bottom: 5px;"> <label for="Calls">Calls</label> </p>
+        <div class="left-c">
+
+            <!-- <div class="colha">Symbol</div> -->
+            <div class="colh">Strike</div>
+            <div class="colh">Expr</div>
+            <div class="colha">Last</div>
+            <div class="colha">Change</div>
+            <!-- <div class="colh">Volume</div>
+            <div class="colh">Int</div> -->
+
+                    <!-- <div class="col1a">VIXW190123C00016000</div> -->
+                    <div class="col">16.000</div>
+                    <div class="col">01/23/19</div>
+                    <div class="cola">2.51</div>
+                    <div data-numericcolor="-0.39" class="cola">-0.39</div>
+                    <!-- <div class="col2">30</div>
+                    <div class="col2">69</div> -->
+                    <!-- <div class="col1a">VIXW190123C00017000</div> -->
+                    <div class="col">17.000</div>
+                    <div class="col">01/23/19</div>
+                    <div class="cola">1.58</div>
+                    <div data-numericcolor="-0.445" class="cola">-0.445</div>
+                    <!-- <div class="col2">25</div>
+                    <div class="col2">974</div> -->
+                    <!-- <div class="col1a">VIXW190123C00018000</div> -->
+                    <div class="col">18.000</div>
+                    <div class="col">01/23/19</div>
+                    <div class="cola">0.7</div>
+                    <div data-numericcolor="-0.475" class="cola">-0.475</div>
+                    <!-- <div class="col2">258</div>
+                    <div class="col2">216</div> -->
+                    <!-- <div class="col1a">VIXW190123C00019000</div> -->
+                    <div class="col">19.000</div>
+                    <div class="col">01/23/19</div>
+                    <div class="cola">0.5</div>
+                    <div data-numericcolor="-0.25" class="cola">-0.25</div>
+                    <!-- <div class="col2">274</div>
+                    <div class="col2">305</div> -->
+
+        </div>
+            <p style="padding-top: 5px; padding-bottom: 5px;"> <label for="Puts">Puts</label> </p>
+            <div class="left-c">
+
+                <!-- <div class="colha">Symbol</div> -->
+                <div class="colh">Strike</div>
+                <div class="colh">Expr</div>
+                <div class="colha">Last</div>
+                <div class="colha">Change</div>
+                <!--  <div class="colh">Volume</div>
+                <div class="colh">Int</div> -->
+
+                    <!-- <div class="col1a">VIXW190123P00016000</div> -->
+                        <div class="col">16.000</div>
+                        <div class="col">01/23/19</div>
+                        <div class="cola">0.04</div>
+                        <div data-numericcolor="0.015" class="cola">0.015</div>
+                        <!-- <div class="col2">105</div>
+                        <div class="col2">157</div> -->
+                    <!-- <div class="col1a">VIXW190123P00017000</div> -->
+                        <div class="col">17.000</div>
+                        <div class="col">01/23/19</div>
+                        <div class="cola">0.11</div>
+                        <div data-numericcolor="-0.015" class="cola">-0.015</div>
+                        <!-- <div class="col2">279</div>
+                        <div class="col2">1018</div> -->
+                    <!-- <div class="col1a">VIXW190123P00018000</div> -->
+                        <div class="col">18.000</div>
+                        <div class="col">01/23/19</div>
+                        <div class="cola">0.45</div>
+                        <div data-numericcolor="0.09" class="cola">0.09</div>
+                        <!-- <div class="col2">283</div>
+                        <div class="col2">611</div> -->
+                    <!-- <div class="col1a">VIXW190123P00019000</div> -->
+                        <div class="col">19.000</div>
+                        <div class="col">01/23/19</div>
+                        <div class="cola">0.86</div>
+                        <div data-numericcolor="-0.015" class="cola">-0.015</div>
+                        <!-- <div class="col2">63</div>
+                        <div class="col2">231</div> -->
+			<div class="bottom-link"><a class="product-future-more" href="http://www.cboe.com/delayedquote/quote-table?ticker=VIX">More Options<span class="product-right-arrow"></span></a></div>
+            </div>
+    </div>
+
+					</div>
+				</div>
+                <div data-prTab="Settlement Process" class="disp-none">
+                </div>
+            </div>
+        </div>
+        <div id="div-VIXFutures" data-index="VIX Futures" class="disp-none">
+            <ul class="css-tabs">
+                <li>Overview</li>
+                <li data-url="http://cfe.cboe.com/cfe-products/vx-cboe-volatility-index-vix-futures/settlement-information-for-vix-derivatives">Settlement Process</li>
+                <li data-url="http://cfe.cboe.com/cfe-products/vx-cboe-volatility-index-vix-futures/contract-specifications">Contract Specs</li>
+                <li data-url="https://markets.cboe.com/us/futures/market_statistics/historical_data/">Historical Data</li>
+                <li data-url="https://markets.cboe.com/us/futures/overview/">CFE Book View</li>
+                <li data-url="https://markets.cboe.com/us/futures/market_statistics/daily/">CFE Daily Statistics</li>
+                <li data-url="http://cfe.cboe.com/market-data/hoss-information">Imbalance Notice</li>
+                <li data-url="http://www.cboe.com/trading-tools/strategy-planning-tools/term-structure-data">Term Structure Data</li>                
+				<div class="separator"></div>
+            </ul>
+            <div class="css-panes">
+                <div data-prTab="Overview" class="disp-in-blk">
+                    <div class="col-left">
+                        <article class="content">
+                        <p>
+							Introduced in 2004 on Cboe Futures Exchange (CFE), VIX futures provide market participants with the ability to trade a liquid volatility product based on the VIX Index methodology. VIX futures reflect the market's estimate of the value of the VIX Index on various expiration dates in the future. Monthly and weekly expirations are available and trade nearly 24 hours a day, five days a week. VIX futures provide market participants with a variety of opportunities to implement their view using volatility trading strategies, including risk management, alpha generation and portfolio diversification.
+                         </p> 
+                        </article>
+						<a class="product-future-more" href="https://cfe.cboe.com/cfe-products/vx-cboe-volatility-index-vix-futures" >Learn more<span class="product-right-arrow"></span></a>
+                    </div>
+                    <div class="col-right">
+				<link href='/assets/modules/widgets/product-details/css/futuressnapshot.css' media='all' rel='stylesheet' type='text/css'>
+<div class="future-ctrl">
+        <div class="left-c">
+            <div class="colh">&nbsp;</div>
+            <div class="colh">Last Sale</div>
+            <div class="colh">Net Change</div>
+
+                <div class="col1">VX04F19</div>
+                <div class="col2">18.6</div>
+                <div data-numericcolor="0.15" class="col3">0.15</div>
+                <div class="col1">VX05F19</div>
+                <div class="col2">20</div>
+                <div data-numericcolor="0" class="col3">0</div>
+                <div class="col1">VX06G19</div>
+                <div class="col2">18.55</div>
+                <div data-numericcolor="0" class="col3">0</div>
+                <div class="col1">VXG19</div>
+                <div class="col2">18.25</div>
+                <div data-numericcolor="-0.35" class="col3">-0.35</div>
+                <div class="col1">VX08G19</div>
+                <div class="col2">19.3</div>
+                <div data-numericcolor="0" class="col3">0</div>
+			
+        </div>
+</div>
+
+
+                    </div>
+                </div>
+                <div data-prTab="Settlement Process" class="disp-none">
+                </div>
+                <div data-prTab="Futures Quotes" class="disp-none"></div>				
+						
+				
+            </div>
+        </div>
+    </div>
+        <div>
+            <script src='/assets/modules/widgets/product-details/product-details.js?v=1' defer></script>
+        </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+<div id="ContentTop_TDC93320D016_Col00" class="sf_colsIn template-product-strategy" data-sf-element="Div" data-placeholder-label="Strategy">
+<div >
+    <div ><span class="product-strategy-title">VIX&reg; Futures &amp; Options Strategies</span>
+<article class="content product-strategy-content"><p>VIX futures and options have unique characteristics and behave differently than other financial-based commodity or equity products. Understanding these traits and their implications is important. VIX futures and options may provide market participants with flexibility to hedge a portfolio, employ strategies in an effort to generate returns from relative pricing differences, or express a bullish, bearish or neutral outlook for broad market implied volatility.</p></article><a class="product-strategy-more" href="http://www.cboe.com/products/vix-index-volatility/vix-options-and-futures/vix-strategies">More VIX Strategies<span class="product-right-arrow"></span></a></div>    
+
+</div>
+
+</div>
+<div id="ContentTop_TDC93320D015_Col00" class="sf_colsIn template-product-content" data-sf-element="Div" data-placeholder-label="Content">
+   <div>	
+   <div id="ContentTop_C007_LeftColumn" class="sf_colsIn column" data-sf-element="LeftColumn" data-placeholder-label="LeftColumn">
+<div >
+    <div ><div class="product-content brdr-btm"><h2>Portfolio Hedging</h2><article class="content"><p>One of the biggest risks to an equity portfolio is a broad market decline. The VIX Index has had a historically strong inverse relationship with the S&amp;P 500&reg; Index. Consequently, a long exposure to volatility may offset an adverse impact of falling stock prices. Market participants should consider the time frame and characteristics associated with VIX futures and options to determine the utility of such a hedge.
+</p></article><a class="product-content-more" herf="#">Learn more<span class="product-right-arrow"></span></a></div></div>    
+
+</div>
+</div>
+   <div id="ContentTop_C007_CenterColumn" class="sf_colsIn column" data-sf-element="RightColumn" data-placeholder-label="RightColumn">
+<div >
+    <div ><div class="product-content  brdr-btm"><h2>Long/Short Volatility</h2><article class="content"><p>VIX futures provide a pure play on the level of expected volatility. Expressing a long or short sentiment may involve buying or selling VIX futures. Alternatively, VIX options may provide similar means to position a portfolio for potential increases or decreases in anticipated volatility.
+</p></article><a class="product-content-more" herf="#">Learn more<span class="product-right-arrow"></span></a></div></div>    
+
+</div>
+</div>
+   </div>	
+   <div>	
+   <div id="ContentTop_C016_LeftColumn" class="sf_colsIn column" data-sf-element="LeftColumn" data-placeholder-label="LeftColumn">
+<div >
+    <div ><div class="product-content"><h2>Risk Premium Yield</h2><article class="content"><p>Over long periods, index options have tended to price in slightly more uncertainty than the market ultimately realizes. Specifically, the expected volatility implied by SPX option prices tends to trade at a premium relative to subsequent realized volatility in the S&amp;P 500 Index. Market participants have used VIX futures and options to capitalize on this general difference between expected (implied) and realized (actual) volatility, and other types of volatility arbitrage strategies.
+</p></article><a class="product-content-more" herf="#">Learn more<span class="product-right-arrow"></span></a></div></div>    
+
+</div>
+</div>
+   <div id="ContentTop_C016_CenterColumn" class="sf_colsIn column" data-sf-element="RightColumn" data-placeholder-label="RightColumn">
+<div >
+    <div ><div class="product-content"><h2>Term Structure Trading</h2><article class="content"><p>One of the unique properties of volatility &ndash; and the VIX Index &ndash; is that its level is expected to trend toward a long-term average over time, a property commonly known as "mean-reversion." The mean reverting nature of volatility is a key driver of the shape of the VIX futures term structure and the way it can move in response to changes in perceived risk. CFE lists nine standard (monthly) VIX futures contracts, and six weekly expirations in VIX futures. As such, there is a wide variety of potential calendar spreading opportunities depending on expectations for implied volatility.
+</p></article><a class="product-content-more" herf="#">Learn more<span class="product-right-arrow"></span></a></div></div>    
+
+</div>
+</div>
+   </div>	
+<div >
+    <div ><article class="content product-content-disclaimer"><p>The information above is provided for general education and information purposes only. No statement within these materials should be construed as a recommendation to buy or sell a security or future or to provide investment advice. Supporting documentation for any claims, comparisons, statistics or other technical data in these materials is available by contacting Cboe at www.cboe.com/Contact.</p></article></div>    
+
+</div>
+
+</div>
+<div id="ContentTop_TDC93320D014_Col00" class="sf_colsIn template-product-research" data-sf-element="Div" data-placeholder-label="Research">
+<div >
+    <div ><span class="product-research-title">VIX&reg; Index Research</span>
+<a class="product-research-subtitle" href="http://www.cboe.com/institutional/3rd-party-research">Visit Research Library<span class="product-right-arrow-white"></span></a></div>    
+
+</div>
+
+<div >
+    <div ><div class="product-research-container"><div class="product-download" download="" pathname="/assets/modules/microsite/vix/documents/SandP A Practitioners Guide to Reading VIX.pdf"><h2>S&amp;P Dow Jones Indices: A Practitioner's Guide to Reading VIX</h2><p class="product-download-p">An easy-to-read guide for understanding the VIX complex. This document provides investors with simple guidelines that translate VIX Index levels into potentially more meaningful predictions or measures of market sentiment.
+            <a class="product-research-more" download="" href="/assets/modules/microsite/vix/documents/SandP A Practitioners Guide to Reading VIX.pdf" id="SPDownload">Download Whitepaper<span class="product-right-arrow-white"></span></a>
+ </p></div></div><div class="product-research-container"><div class="product-download" download="" pathname="/assets/modules/microsite/vix/documents/VIX Your Portfolio-Blackrock.pdf"><h2>BlackRock: VIX Your Portfolio</h2><p class="product-download-p">A research paper outlining the opportunities created by using market uncertainty. This paper explains how the strategy of selling volatility has generated higher returns with smaller losses, compared with traditional equity portfolios.
+            <a class="product-research-more" download="" href="/assets/modules/microsite/vix/documents/VIX Your Portfolio-Blackrock.pdf" id="BRDownload">Download Whitepaper<span class="product-right-arrow-white"></span></a>
+ </p></div></div></div>    
+
+</div>
+
+<div >
+    <div ><article class="content product-research-disclaimer"><p>The inclusion of research not conducted or explicitly endorsed by Cboe should not be construed as an endorsement or indication of the value of any research.</p></article></div>    
+
+</div>
+
+</div>
+</div>
+            </div>
+        </section>
+    </div>
+</div>
+
+
+</div>
+
+<div id="ContentTop_T55CA963A012_Col00" class="sf_colsIn site-footer" data-sf-element="Div" data-placeholder-label="Footer Region">
+  <footer class="footer">
+    <div class="container">
+      
+<!-- BEGIN FOOTER Nav -->
+<div class="menu-1">
+    <h3>Cboe Links</h3>
+    <ul>
+        <li><a href="http://www.cboe.com/aboutcboe/government-relations/default.aspx?google_nofetch">Government Relations</a>
+        <li><a href="http://ir.cboe.com">Investor Relations</a></li>
+        <li><a href="https://datashop.cboe.com">Cboe DataShop</a></li>
+        <li><a href="http://www.livevol.com/" target="_blank">Cboe LiveVol</a></li>
+        <li><a href="http://www.silexx.com/" target="_blank">Cboe Silexx</a></li>
+        <li><a href="http://www.cboe.com/aboutcboe/mediahub/">Cboe Media Hub</a>
+        <li><a href="http://www.cboe.com/aboutcboe/systemstatus/default.aspx">Cboe System Status</a></li>
+        <li><a href="http://www.cboe.com/international/default.aspx" target="blank">Chinese Language Site</a></li>
+        <li><a href="http://www.cboermc.com/" target="_new">Risk Management Conference</a></li>
+        <li><a href="http://www.cboe.com/aboutcboe/careers.aspx">Careers</a></li>
+        <li><a href="http://www.cboe.com/aboutcboe/adinfo.aspx" target="new">Advertise with Cboe</a></li>
+        <li><a href="http://www.cboe.com/aboutcboe/user-guide.aspx">Cboe.com User Guide</a></li>
+        <li><a href="http://www.cboe.com/aboutcboe/browser.aspx" target="new">Browser &amp; System Requirements</a></li>
+        <li><a href="http://www.cboe.com/marketsdivision">Markets Division</a></li>
+        <li><a href="http://www.cboe.com/aboutcboe/contactcboeadv.aspx" target="_new">Contact</a></li>
+    </ul>
+</div>
+<div class="menu-2">
+    <h3>Legal &amp; Other Links</h3>
+    <ul>
+        <li><a href="http://www.cboe.com/aboutcboe/legal/cboelegalregulatoryhome.aspx">Legal &amp; Regulatory</a></li>
+        <li><a href="http://www.cboe.com/legal/privacy" target="new">Privacy Statement</a></li>
+        <li><a href="http://www.cboe.com/aboutcboe/legal/pdfs/fingerprint-information-privacy-policy.pdf" target="blank">Fingerprint Information Privacy Policy</a></li>
+        <li><a href="http://www.cboe.com/common/termsconditions.aspx" target="new">Terms &amp; Conditions</a></li>
+        <li><a href="http://www.cboe.com/common/copyright.aspx" target="new">Copyright &amp; Trademarks</a></li>
+        <li><a href="http://www.cboe.com/resources/intro.aspx" target="new">Characteristics &amp; Risks of Standardized Options</a></li>
+        <li><a href="http://www.cboe.com/aboutcboe/investorprotection.aspx" target="new">OCC &amp; Investor Protection</a></li>
+    </ul>
+</div>
+<div class="menu-3">
+    <h3>Other Cboe Sites</h3>
+    <ul>
+        <li><a href="http://www.cboe.com/us/options">U.S. Options</a></li>
+        <li><a href="http://www.bats.com/us/equities/overview/">U.S. Equities</a></li>
+        <li><a href="http://www.bats.com/europe/equities/overview/">European Equities</a></li>
+        <li><a href="http://cfe.cboe.com">Futures</a></li>
+        <li><a href="http://www.livevol.com/">Cboe LiveVol</a></li>
+        <li><a href="http://www.cboe.com/index/">Indexes</a></li>
+        <li><a href="http://www.silexx.com/">Cboe Silexx</a></li>
+        <li><a href="https://www.hotspotfx.com/">FX</a></li>
+    </ul>
+</div>
+
+
+      <div class="disclaimer">
+        <h3><span class="icon-logo-footer cboe"></span>
+          <div class="promo">
+		        <div class="icon-social-container">
+			        <li class="">
+			          <a href="http://www.twitter.com/cboe" target="_blank" title="twitter" onclick="callStaticFLSocial('4369706', 'socia0', 'cboet0');"><span class="icon-social twitter">Twitter</span></a>
+			          <a href="https://www.youtube.com/user/cboetv" target="_blank" title="youtube" onclick="callStaticFLSocial('4369706', 'socia0', 'cboey0');"><span class="icon-social youtube">Youtube</span></a>
+			          <a href="http://www.facebook.com/pages/cboe-chicago-board-options-exchange/177809058917950?ref=ts" target="_blank" title="facebook" onclick="callStaticFLSocial('4369706', 'socia0', 'cboef0');"><span class="icon-social facebook">Facebook</span></a>
+			          <a href="https://www.linkedin.com/company/cboe" target="_blank" title="linkedin" onclick="callStaticFLSocial('4369706', 'socia0', 'cboel0');"><span class="icon-social linkedin">LinkedIn</span></a>
+			          <a href="/apps" target="_blank"><span class="icon-social ios" title="apple">iOS</span></a>
+			          <a href="https://play.google.com/store/apps/details?id=com.cboe.mobile" targer="_blank" title="google"><span class="icon-social google">Google</span></a>
+			          <a href="/rss/default.aspx"><span class="icon-social rss" title="rss">RSS Feed</span></a>
+			        </li>	
+		        </div>	  
+          </div>
+        </h3>
+        <p>Options involve risk and are not suitable for all investors. Prior to buying or selling an option, a person must receive a copy of <a href="http://www.cboe.com/resources/intro.aspx" target="_blank">Characteristics and Risks of Standardized Options (ODD)</a>. Copies of the ODD are available from your broker or from The Options Clearing Corporation, 125 S. Franklin Street, Suite 1200, Chicago, IL 60606. The information on this website is provided solely for general education and information purposes and therefore should not be considered complete, precise, or current. Many of the matters discussed are subject to detailed rules, regulations, and statutory provisions which should be referred to for additional detail and are subject to changes that may not be reflected in the website information. No statement within the website should be construed as a recommendation to buy or sell a security or to provide investment advice. The  inclusion of non-Cboe advertisements on the website should not be construed as an endorsement or an indication of the value of any product, service, or website. The <a href="http://www.cboe.com/common/termsconditions.aspx" target="_blank">Terms and Conditions</a> govern use of this website and use of this website will be deemed acceptance of those Terms and Conditions.<br /><br /> 
+Cboe® and LiveVol® are registered trademarks of Cboe Options Exchange (Cboe).  ©2019 Cboe Exchange, Inc. All rights reserved.
+
+</p>
+      </div>
+	  <div style="clear:both;"></div>
+    </div>
+  </footer>
+<script type="text/javascript">
+    //<!--
+    //The examples used here are Unique tags, if your tag is Standard you won't have the num= parameter, thus ord= will be assigned the value of the Random Number Generator. 
+    function callStaticFLSocial(source, type, cat) {
+        var axel = Math.random() + "";
+        var num = axel * 1000000000000000000;
+        var tag_url = new Image();
+        tag_url.src = "http://ad.doubleclick.net/activity;src=" + source + ";type=" + type + ";cat=" + cat + ";ord=1;num=" + num + "?";
+    }
+    //-->
+</script>
+<!-- #footer -->
+
+
+</div>
+
+
+ 
+
+
+
+
+
+
+
+        <!-- START - Load Qunit tests when required -->
+
+        <!-- END - Qunit -->
+ <script src='/assets/ui/libs/pubsub-js/src/pubsub.js'></script>
+  <script src='/assets/ui/libs/requirejs/require.js'></script>
+  <script type="text/javascript"> 
+    if (!window.jQuery) {  
+      // jQuery is not loaded  
+      document.write("<script src='/assets/ui/libs/jquery-ui/jquery.min.js'></" + "script>");
+    }
+    </script>
+<!-- Internal Not combined JS -->
+
+<!-- End Internal Not combined JS -->
+
+<!-- Internal combined JS -->
+
+        <!--Please don't delete this comment and the below one. Required for bundling js for task to generate the physical file -->
+        <!-- START COMBINED JS -->
+      <script src='/js/combinedJS?v=hEG1b_9ly46P_r6UB4lb4NtbK4mtyKQEJmopHFeiC641'></script>
+        <!-- END COMBINED JS -->
+        <!--Please don't delete this comment and the above one. Required for bundling js for task to generate the physical file -->
+
+<!-- End Internal combined JS -->
+
+<!-- External combined JS -->
+
+<!-- End External combined JS -->
+
+    <!--
+  Post-DOM SHIMS
+  These fix issues in legacy browsers where certain
+  features are not supported.
+  -->
+  <!--[if lt IE 10]>
+    <script src="/assets/ui/classes/shims/ie-lt10.js" type="text/javascript"></script>
+  <![endif]-->
+        <!--[if lt IE 9]>
+  <script src="/assets/ui/classes/shims/ie-lt9.js" type="text/javascript"></script>
+  <![endif]-->
+<script src="/assets/modules/autocomplete/auto-complete.js" type="text/javascript"></script>
+
+
+
+
+
+
+<!-- Begin Lotame tag -->
+  <script type="text/javascript" src="//tags.crwdcntrl.net/c/8846/cc.js?ns=_cc8846" id="LOTCC_8846"></script>
+  <script type="text/javascript" language="javascript">_cc8846.bcp();</script>
+<!-- End Lotame tag -->
+
+
+
+
+ </div> <!-- <script id="scAddthis" type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-514e06db5cb82db4"></script>   --> <script type="text/javascript">
+      showCBOEToolbar = false;
+    </script> <script type="text/javascript" src="/WebResource.axd?d=EReUn5cNuvdqNmlwKEZF1FtrJhteT4UoHZEbDGc7oeeS1u0w0s7FP34BBLhEjhyn2w_Y7Xg2HRIIHO5oM-nUNEOPjfokItWgYWVMZ8S1Y_ds-Ac7zDsx-b6KoSKk8z2eXHFOaM8fuWelLwO6MdK9zSawYnU1&amp;t=636461722174701268">
+
+</script><script type="text/javascript">
+	StatsClient.LogVisit('a60f2ec7-1337-6cfa-af35-ff000099f075', '8d6b8b3d-f40d-4e42-b5ae-879e8023c63c');
+</script><script type="text/javascript">
+var script = document.createElement('script');
+script.type = 'text/javascript';
+script.text = "(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-5GNHHM');"; 
+$('body').prepend(script);
+var noscript = '<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5GNHHM" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>';
+$('body').prepend(noscript);
+
+</script><script type="text/javascript" src="/assets/modules/microsite/js/template.js?v=1"></script><script type="text/javascript" src="/assets/modules/microsite/js/page.js?v=3"></script> </body> </html>
