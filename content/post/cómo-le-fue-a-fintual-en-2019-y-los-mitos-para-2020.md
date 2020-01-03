@@ -21,4 +21,5 @@ Tuvimos el agrado de cerrar el 2019 con buenas noticias, porque nuestros fondos 
 
 **Todas las rentabilidades ya tienen descontada la comisión.** Y cuando se trata de ahorros previsionales, las rentabilidades son un poquito mejores porque [**cobramos un poquito menos en nuestras series APV**](https://fintual.cl/apv) (0,49%). Como confiamos que tus inversiones estarán muuuchos años con nosotros (son para la jubilación, ¿o no?), hicimos el esfuerzo de tener [**el APV más barato de la industria de fondos según El Mercurio Inversiones**](https://www.elmercurio.com/Inversiones/Noticias/Analisis/2019/01/25/Nueva-serie-APV-de-fondos-mutuos-de-Fintual-es-la-mas-barata-del-mercado.aspx).
 
-![](/uploads/fondosfintual.png)
+![Fintual en base a valores cuota de la serie A de cada fondo, según datos de valores cuota publicados en cmfchile.cl](/uploads/fondosfintual.png)_Fintual en base a valores cuota de la serie A de cada fondo, según datos de valores cuota publicados en cmfchile.cl_
+
