@@ -113,7 +113,7 @@ Eso es lo que hacen en Chile las empresas Cumplo, Becual y Dobleimpacto (no sé 
 
 {{< prueba_fintual utmcontent="[Fintual](https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=edu+en+que+invertir+mi+plata-264) te ayuda invertir de forma simple y diversificada" >}}
 
-Nuestros fondos mutuos están compuestos por ETFs y cobramos un 1,19% anual o menos, impactando positivamente en tu rentabilidad. [Prueba sin costo nuestro simulador online](https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=edu+en+que+invertir+mi+plata-264) para recibir una recomendación de inversión personalizada, según tus objetivos, plazo y riesgo.
+[Prueba sin costo nuestro simulador online](https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=edu+en+que+invertir+mi+plata-264) para recibir una recomendación de inversión personalizada, según tus objetivos, plazo y riesgo.
 
 {{< /prueba_fintual >}}
 
