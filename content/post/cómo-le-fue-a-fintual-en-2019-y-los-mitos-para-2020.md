@@ -81,7 +81,7 @@ Sin embargo, para aumentar aún más la diversificación, agregamos el factor ge
 
 {{< prueba_fintual utmcontent="fintual+2019" >}}
 
-Si llegaste hasta acá fue porque te interesó Fintual. 
+Si llegaste hasta acá fue porque te interesó lo que hicimos en 2019. Sé parte de nuestro 2020.   
 
 {{< /prueba_fintual >}}
 
