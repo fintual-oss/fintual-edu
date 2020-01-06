@@ -68,7 +68,7 @@ Nuevamente, hay muchos analistas que tienen sus proyecciones, pero es poco o nad
 
 ##### #5: _Tienen muchas inversiones en Estados Unidos, eso quiere decir que no están bien diversificados_ - Falso
 
-**Otro mito.** Las acciones listadas en Estados Unidos representan aproximadamente el 43% del mercado de las acciones a nivel global según Nasdaq, y los ingresos de empresas en Estados Unidos provienen casi un tercio de países distintos de Estados Unidos (de hecho, en el caso de un índice como el S&P500, [29% para ser precisos](https://www.spglobal.com/en/research-insights/articles/2019-review-recession-war-nonchalance-deficits-and-brexit-the-year-in-5-charts)).
+**Otro mito,** porque **las acciones listadas en Estados Unidos representan aproximadamente el 43% del mercado de las acciones a nivel global** según Nasdaq, y los ingresos de empresas en Estados Unidos provienen casi un tercio de países distintos de Estados Unidos (de hecho, en el caso de un índice como el S&P500, [29% para ser precisos](https://www.spglobal.com/en/research-insights/articles/2019-review-recession-war-nonchalance-deficits-and-brexit-the-year-in-5-charts)).
 
 Por lo tanto, es falso decir que no representan a las acciones globales o que no tienen ningún grado de diversificación geográfica en sus utilidades. Además, la diversificación por empresas o por compañías es altísima: **tanto Pitt como Norris tienen más de 3.500 empresas distintas como subyacentes.** El daño es bastante bajo si llegara a quebrar una de esas empresas.
 
