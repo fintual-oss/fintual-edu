@@ -2,9 +2,8 @@
 aliases = []
 author = "Omar Larré"
 categories = []
-date = 2020-01-03T01:58:16Z
+date = 2020-01-04T01:58:16Z
 description = "Te prometemos que cuando nos vaya mal también vamos hacer este balance de cierre de año. Aunque no nos guste lo que tengamos que contar."
-draft = true
 hide = false
 image = "/uploads/2019.jpeg"
 title = "Cómo le fue a Fintual en 2019 y los mitos para 2020"
