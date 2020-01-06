@@ -30,9 +30,7 @@ Así les ha ido a los fondos Fintual desde su creación en febrero de 2018 despu
 
 Es esperable que los fondos tengan altos y bajos. Para que tengas una idea, acá van algunas estadísticas básicas de cada fondo sobre la rentabilidad mensual dentro del año 2019:
 
-* **Risky Norris:** El peor mes fue diciembre, con una caída de -5,29%. El mejor mes fue noviembre, con un alza de 12,78%. Hubo sólo dos meses con rentabilidad negativa y, en promedio, cada mes rentó 2,77%.
-* **Moderate Pitt**: El peor desempeño estuvo en diciembre, una baja de -1,85%. El mejor mes fue noviembre, con 5,37% de rentabilidad. Hubo sólo dos meses con rentabilidad negativa y, en promedio, cada mes rentó 1,48%.
-* **Conservative Clooney:** El peor mes fue octubre, con una rentabilidad -1,61%, y el mejor mes fue julio, con 1,16%. Hubo sólo dos meses con rentabilidad negativa y, en promedio, cada mes rentó 0,40%.
+En noviembre, Norris subió 12,78% y Pitt 5,37%. Pero en diciembre, en cambio, Norris rentó -5,29% y Pitt -1,85%. En los tres fondos hubo sólo dos meses con rentabilidad negativa.
 
 ![Tabla resumen rentabilidades mensuales fondos Fintual. Fuente: Fintual según datos de valores cuota publicados en cmfchile.cl](/uploads/retornosnominales.png)_Tabla resumen rentabilidades mensuales fondos Fintual. Fuente: Fintual según datos de valores cuota publicados en cmfchile.cl_
 
