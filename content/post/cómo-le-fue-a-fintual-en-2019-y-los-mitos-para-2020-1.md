@@ -58,7 +58,7 @@ Es tan normal tener pérdidas las primeras semanas de inversión, que escribimos
 
 ##### **#4:** _Tienen mucha exposición al dólar, y el dólar va a bajar, así que los fondos van a andar mal el fin de año_ - Falso
 
-**Es un mito** similar al segundo mito, porque **nadie puede saber con certeza cómo le va a ir al dólar este año 2020.**
+**Es un mito** similar al segundo, porque **nadie puede saber con certeza cómo le va a ir al dólar este año 2020.**
 
 Hay muchos analistas que tienen sus proyecciones, pero es poco o nada el poder predictivo útil que tienen para, por ejemplo, poder ganar dinero realmente.
 
