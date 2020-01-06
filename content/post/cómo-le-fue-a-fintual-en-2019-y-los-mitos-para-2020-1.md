@@ -40,7 +40,7 @@ Muchas de las preguntas que nos llegan al chat tienen parte de mito y parte real
 
 ##### **#1:** _La rentabilidad del fondo Risky Norris fue alta sólo porque el dólar subió mucho_ - Falso
 
-**MITO:** El dólar observado del Banco Central de Chile efectivamente subió el año 2019, pero sólo un 7,77%. Si bien ayudó a la rentabilidad de Risky Norris, es apenas una parte del 37,52% de retorno en el año.
+**Es un mito** porque el dólar observado del Banco Central de Chile efectivamente subió el año 2019, pero sólo un 7,77%. Si bien ayudó a la rentabilidad de Risky Norris, es apenas una parte del 37,52% de retorno en el año.
 
 ![El argumento del dólar era finalmente un mito. Fuente: Mythbusters](/uploads/mythbusters.jpg)_El argumento del dólar era finalmente un mito. Fuente: Mythbusters_
 
@@ -56,7 +56,7 @@ Nuestros tres fondos, Clooney, Pitt y Norris, están diseñados para invertir en
 
 Es tan normal tener pérdidas las primeras semanas de inversión, que escribimos [este artículo que habla exclusivamente de eso](https://edu.fintual.cl/p%C3%A9rdidas-de-corto-plazo-t%C3%B3mate-unos-minutos-y-lee-esto-e222b63f3939/).
 
-##### **#4:** _Tienen mucha exposición al dólar, y el dólar va a bajar, así que los fondos van a andar mal el fin de año - Falso_
+##### **#4:** _Tienen mucha exposición al dólar, y el dólar va a bajar, así que los fondos van a andar mal el fin de año_ - Falso
 
 **MITO:** Similar al segundo mito, porque nadie puede saber con certeza cómo le va a ir al dólar este año 2020.
 
@@ -64,7 +64,7 @@ Nuevamente, hay muchos analistas que tienen sus proyecciones, pero es poco o nad
 
 ![Creemos que ni siquiera Pedro Engel puede saber cómo le irá al dólar el 2020, el año de la rata de metal. Fuente: elfiltrador.com](/uploads/pedritoengel.jpg)_Creemos que ni siquiera Pedro Engel puede saber cómo le irá al dólar el 2020, el año de la rata de metal. Fuente: elfiltrador.com_
 
-##### #5: _Tienen muchas inversiones en Estados Unidos, eso quiere decir que no están bien diversificados_
+##### #5: _Tienen muchas inversiones en Estados Unidos, eso quiere decir que no están bien diversificados_ - Falso
 
 **MITO:** Las acciones listadas en Estados Unidos representan aproximadamente el 43% del mercado de las acciones a nivel global según Nasdaq, y los ingresos de empresas en Estados Unidos provienen casi un tercio de países distintos de Estados Unidos (de hecho, en el caso de un índice como el S&P500, [29% para ser precisos](https://www.spglobal.com/en/research-insights/articles/2019-review-recession-war-nonchalance-deficits-and-brexit-the-year-in-5-charts)).
 
