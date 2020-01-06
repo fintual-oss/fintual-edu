@@ -103,7 +103,8 @@ También puedes tener tu APV en más de una institución al mismo tiempo, pero l
 
 Sí, puedes retirar tu plata cuando quieras, incluso si no has jubilado, pero el beneficio que te entrega el Estado solo podrás disfrutarlo si esperas hasta jubilar.
 
-Si estás en el Régimen A y no te has jubilado, **tendrás que devolver el 15% que te dio el Estado.**
+Si estás en el Régimen A y no te has jubilado, **tendrás que devolver el 15% que te dio el Estado.** Pero la plata que se recibe del 15% se mantiene en una cuenta separada y toda la rentabilidad es considerada bonificación. Entonces, si sacas todo pierdes el total de la cuenta de bonificación, aunque sea más del 15%. 
+
 Si estás en el Régimen B y no te has jubilado, **te retendremos un 15% que se abonará al SII para pagar el impuesto especial por retiros de APV-B.**
 
 ##### ¿Y alguien regula todo esto?
@@ -126,8 +127,8 @@ Aparte de los beneficios, la plata que ahorres se va a invertir, lo que signific
 
 {{< button_link href="https://fintual.cl/apv/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=abc+apv-313" text="Empezar" >}}
 
-_  
-  
+_
+
 Infórmese de las características esenciales de la inversión en este fondo mutuo, las que se encuentran contenidas en su reglamento interno y contrato de suscripción de cuotas._
 
 _La rentabilidad es fluctuante, por lo que nada garantiza que las rentabilidades pasadas se mantengan en el futuro._
