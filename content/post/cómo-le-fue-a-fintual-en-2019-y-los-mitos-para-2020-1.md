@@ -1,7 +1,7 @@
 +++
 aliases = []
 author = "Omar Larré"
-categories = []
+categories = ["noticias"]
 date = 2020-01-04T01:58:16Z
 description = "Te prometemos que cuando nos vaya mal también vamos hacer este balance de cierre de año. Aunque no nos guste lo que tengamos que contar."
 hide = false
