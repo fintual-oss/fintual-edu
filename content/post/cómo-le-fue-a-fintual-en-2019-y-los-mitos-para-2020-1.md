@@ -46,7 +46,7 @@ Muchas de las preguntas que nos llegan al chat tienen parte de mito y parte real
 
 ##### **#2:** _Las rentabilidades fueron muy buenas, eso quiere decir que este año van a ser malas_ - Falso
 
-**MITO:** No hay forma de saber cómo será la rentabilidad de los fondos el próximo año. En realidad, nadie lo sabe, sólo hay consenso de muchos analistas y economistas, pero todas son estimaciones de procesos altamente aleatorios muy difíciles de predecir. Por ejemplo, no hay un indicativo que prediga que porque un año es muy bueno en rentabilidades de las acciones, el próximo tiene que ser malo.
+**Es un mito** porque no hay forma de saber cómo será la rentabilidad de los fondos el próximo año. En realidad, nadie lo sabe, sólo hay consenso de expertos, pero todas son estimaciones de procesos altamente aleatorios muy difíciles de predecir. No hay un indicativo que prediga que porque un año es muy bueno en rentabilidades de las acciones, el próximo tiene que ser malo.
 
 Lo que sí es cierto es que este año 2019 fue característicamente muy bueno —pese a que muchos analistas dijeron que sería malo—, así que es muy probable que el año 2020 no sea tan bueno como el año 2019.
 
@@ -58,7 +58,9 @@ Es tan normal tener pérdidas las primeras semanas de inversión, que escribimos
 
 ##### **#4:** _Tienen mucha exposición al dólar, y el dólar va a bajar, así que los fondos van a andar mal el fin de año_ - Falso
 
-**MITO:** Similar al segundo mito, porque nadie puede saber con certeza cómo le va a ir al dólar este año 2020.
+**Es un mito** similar al segundo mito, porque nadie puede saber con certeza cómo le va a ir al dólar este año 2020.
+
+Hay muchos analistas que tienen sus proyecciones, pero es poco o nada el poder predictivo útil que tienen para, por ejemplo, poder ganar dinero realmente.
 
 Nuevamente, hay muchos analistas que tienen sus proyecciones, pero es poco o nada el poder predictivo útil que tienen para, por ejemplo, poder ganar dinero realmente.
 
@@ -66,7 +68,7 @@ Nuevamente, hay muchos analistas que tienen sus proyecciones, pero es poco o nad
 
 ##### #5: _Tienen muchas inversiones en Estados Unidos, eso quiere decir que no están bien diversificados_ - Falso
 
-**MITO:** Las acciones listadas en Estados Unidos representan aproximadamente el 43% del mercado de las acciones a nivel global según Nasdaq, y los ingresos de empresas en Estados Unidos provienen casi un tercio de países distintos de Estados Unidos (de hecho, en el caso de un índice como el S&P500, [29% para ser precisos](https://www.spglobal.com/en/research-insights/articles/2019-review-recession-war-nonchalance-deficits-and-brexit-the-year-in-5-charts)).
+**Otro mito.** Las acciones listadas en Estados Unidos representan aproximadamente el 43% del mercado de las acciones a nivel global según Nasdaq, y los ingresos de empresas en Estados Unidos provienen casi un tercio de países distintos de Estados Unidos (de hecho, en el caso de un índice como el S&P500, [29% para ser precisos](https://www.spglobal.com/en/research-insights/articles/2019-review-recession-war-nonchalance-deficits-and-brexit-the-year-in-5-charts)).
 
 Por lo tanto, es falso decir que no representan a las acciones globales o que no tienen ningún grado de diversificación geográfica en sus utilidades. Además, la diversificación por empresas o por compañías es altísima: tanto Pitt como Norris tienen más de 3.500 empresas distintas como subyacentes.
 
