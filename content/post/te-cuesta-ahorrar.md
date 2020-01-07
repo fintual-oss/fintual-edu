@@ -1,10 +1,12 @@
 +++
 aliases = []
-author = "Ignacia Palma"
+author = "Pedro Pineda"
 author_thumbnail = "/uploads/ignacia.jpg"
 categories = ["educación financiera"]
-date = "2019-02-27T03:00:00+00:00"
+date = 2019-02-27T03:00:00Z
 description = "No se trata de no gozar las lucas que con tanto esfuerzo te ganas mes a mes, pero sí de crear un hábito de ahorro que sin duda te beneficiará a futuro."
+draft = true
+hide = false
 image = "/uploads/elizabeth-lies-6702-unsplash.jpg"
 title = "¿Te cuesta ahorrar?"
 url = "/te-cuesta-ahorrar"
