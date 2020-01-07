@@ -1,11 +1,12 @@
 ---
-date: 2019-10-14T16:37:29.000+00:00
+date: 2018-10-19T13:37:29-03:00
 description: No, no es el bono marzo.
 image: "/uploads/bank-banking-black-and-white-259209.jpg"
 title: "$295.000 gratis"
 categories:
 - educación financiera
 url: "/el-estado-te-regala-dinero/"
+
 ---
 #### El Estado te regala $295.000 todos los años.
 
