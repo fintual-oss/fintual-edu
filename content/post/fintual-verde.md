@@ -6,7 +6,7 @@ date = 2020-01-13T21:30:13Z
 description = ""
 draft = true
 hide = false
-image = ""
+image = "/uploads/planta.jpeg"
 title = "Fintual, verde"
 url = "que-significan-las-inversiones-verdes"
 
