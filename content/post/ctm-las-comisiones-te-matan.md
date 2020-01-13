@@ -11,6 +11,8 @@ aliases:
 - "/ctm-las-comisiones-te-matan-9aa0c2ffbda0"
 author: Pedro Pineda
 author_thumbnail: "/uploads/pedro.png"
+hide: false
+draft: true
 
 ---
 Súper poca gente sabe cuánto paga en comisiones cuando invierte.
