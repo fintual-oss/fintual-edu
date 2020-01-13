@@ -37,7 +37,7 @@ En resumen, la versión clásica de inversión con impacto ha sido relacionada c
 
 Pero actualmente existen otros parámetros que miden el impacto social y ambiental, bajo alguna escala, de cada negocio o compañía, ya sea una pequeña compañía o una gran compañía listada en bolsa.
 
-Así, se entiende que **una compañía o empresa persigue tener un impacto social o ambiental** si:
+Ahora se entiende que **una compañía o empresa persigue tener un impacto social o ambiental** si:
 
 * Trabaja en mejorar las **necesidades básicas humanas**, o
 * Trabaja en crear y garantizar **acceso justo de oportunidades**, o
@@ -49,7 +49,7 @@ Como cada uno de los tres puntos anteriores puede ser interpretado de distintas 
 
 Pese a que algunas inversiones persiguen los objetivos SDGs, estos no fueron diseñados para el mundo profesional de gestión de inversiones,  
   
-Los criterios **ESG, ambientales, sociales y de gobierno corporativo** por sus siglas en inglés, se crearon para evaluar negocios e inversiones. A grandes rasgos, el criterio ambiental mide cómo las compañías cuidan el medio ambiente; el criterio social mide cómo las compañías manejan su relación con sus trabajadores, proveedores y comunidad; y por último el criterio de gobierno corporativo es usado para describir lo justo o apropiado sobre la elección de líderes de compañías, pagos a ejecutivos, auditorías y controles internos, y el respeto a los derechos de los accionistas, en especial los minoritarios.
+Así nacieron los criterios **ESG, ambientales, sociales y de gobierno corporativo** por sus siglas en inglés, se crearon para evaluar negocios e inversiones. A grandes rasgos, el criterio ambiental mide cómo las compañías cuidan el medio ambiente; el criterio social mide cómo las compañías manejan su relación con sus trabajadores, proveedores y comunidad; y por último el criterio de gobierno corporativo es usado para describir lo justo o apropiado sobre la elección de líderes de compañías, pagos a ejecutivos, auditorías y controles internos, y el respeto a los derechos de los accionistas, en especial los minoritarios.
 
 ![Algunos principios ESG. Fuente: Trade Finance Global](/uploads/esg.png)_Algunos principios ESG. Fuente:_ [_Trade Finance Global_](https://www.tradefinanceglobal.com/posts/sustainable-finance/)
 
