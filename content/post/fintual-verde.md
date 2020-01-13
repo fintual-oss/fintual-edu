@@ -15,9 +15,9 @@ Desde los inicios de Fintual quisimos tener alternativas de inversión con impac
 
 En el camino nos dimos cuenta que hacerlo no era tan fácil: ¿qué significan exactamente estas “inversiones verdes”? ¿Van a ser menos rentables? ¿Es necesario hacer un “fondo verde” nuevo o usar los mismos fondos actuales? Aparecieron muchas preguntas y tratamos de resolverlas en un recorrido de más de 2 años que recién comienza a tomar forma.
 
-Siempre tuvimos la inquietud de poder alinear objetivos ambientales y sociales con “dónde pongo mis ahorros”.
+Siempre tuvimos la inquietud de poder alinear objetivos ambientales y sociales con _dónde pongo mis ahorros_.
 
-###### Es fácil olvidarlo, pero el poder del dinero —o más bien, del flujo de dinero de la economía global— es la principal herramienta para determinar el curso de las industrias que uno quiere fomentar o desincentivar. 
+###### Es fácil olvidarlo, pero el poder del dinero —o más bien, del flujo de dinero de la economía global— es la principal herramienta para determinar el curso de las industrias que se quieren fomentar o desincentivar. 
 
 De hecho, el dinero funciona como el “torrente sanguíneo” de la economía, ya que comprar acciones o bonos de ciertas empresas, es decir, entregarle financiamiento para que puedan desarrollarse, es similar a entregar “nutrientes y oxígeno” para que crezcan. Por el contrario, no comprar acciones y bonos de ciertas empresas es similar a atrofiarlas.
 
@@ -25,7 +25,7 @@ Entonces, la idea es simple: _invirtamos en empresas verdes._ Pero, ¿qué signi
 
 #### Definiendo _inversiones verdes_
 
-Digamos que “inversiones verdes” son inversiones con **impacto social y ambiental,** llamado también **inversiones socialmente responsables o SRI,** por sus siglas en inglés.
+Digamos que las “inversiones verdes” son inversiones con **impacto social y ambiental,** llamado también **inversiones socialmente responsables o SRI,** por sus siglas en inglés.
 
 La definición de inversiones socialmente responsables todavía es controversial y continúa evolucionando.
 
