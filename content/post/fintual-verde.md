@@ -17,7 +17,7 @@ En el camino nos dimos cuenta que hacerlo no era tan fácil: ¿qué significan e
 
 Siempre tuvimos la inquietud de poder alinear objetivos ambientales y sociales con _dónde pongo mis ahorros_.
 
-###### Es fácil olvidarlo, pero el poder del dinero —o más bien, del flujo de dinero de la economía global— es la principal herramienta para determinar el curso de las industrias que se quieren fomentar o desincentivar. 
+> Es fácil olvidarlo, pero el poder del dinero —o más bien, del flujo de dinero de la economía global— es la principal herramienta para determinar el curso de las industrias que se quieren fomentar o desincentivar. 
 
 De hecho, el dinero funciona como el “torrente sanguíneo” de la economía, ya que comprar acciones o bonos de ciertas empresas, es decir, entregarle financiamiento para que puedan desarrollarse, es similar a entregar nutrientes y oxígeno para que crezcan. Por el contrario, no comprar acciones y bonos de ciertas empresas es similar a atrofiarlas.
 
@@ -71,11 +71,13 @@ Dada esta generalidad de los criterios ESG, una alternativa para filtrar dentro 
 
 #### ¿Y la rentabilidad?
 
-Una de las primeras preguntas que aparecen es saber si “invertir verde” tendrá un impacto negativo en la rentabilidad esperada de los portafolios Fintual, y es una duda súper razonable, ya que en teoría al añadir más restricciones a las inversiones la rentabilidad tiene que ser menor.
+Una de las primeras preguntas que aparecen es saber si _invertir verde_ tendrá un impacto negativo en la rentabilidad esperada de los portafolios Fintual. Es una duda súper razonable: en teoría, al añadir más restricciones a las inversiones, la rentabilidad tiene que ser menor.
 
-Sin embargo, en la práctica, ¿cuánto es la magnitud del costo esperado de “invertir verde”?
+Sin embargo, en la práctica, ¿cuánto es la magnitud del costo esperado de _invertir verde_?
 
-En la actualidad existen varios estudios al respecto. Uno de los más importantes, citados y contingentes a nuestro problema en Fintual es el [estudio de Geczy, Stambaugh y Levin, de 2005](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=416380), donde se aborda el problema de invertir en fondos mutuos socialmente responsables. Una conclusión interesante es que, en el caso de que las inversiones son gestionadas con una filosofía de seguimiento de índices de mercado—que es el caso de la filosofía de inversión de Fintual—, **las restricciones asociadas a inversiones socialmente responsable agregan solamente 1 o 2 puntos bases de costo al mes versus invertir en fondos no socialmente responsables**, esto es 0.01% a 0.02% de menor rentabilidad al mes, y es más notorio en la medida que se imponga un mínimo más alto de inversiones socialmente responsables. Entonces, un buen primer paso inicial para agregar inversiones socialmente responsables es:
+En la actualidad existen varios estudios al respecto. Uno de los más importantes, citados y contingentes a nuestro problema en Fintual es el [estudio de Geczy, Stambaugh y Levin, de 2005](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=416380), donde se aborda el problema de invertir en fondos mutuos socialmente responsables. 
+
+Una conclusión interesante es que, en el caso de que las inversiones son gestionadas con una filosofía de seguimiento de índices de mercado—que es el caso de la filosofía de inversión de Fintual—, **las restricciones asociadas a inversiones socialmente responsable agregan solamente 1 o 2 puntos bases de costo al mes versus invertir en fondos no socialmente responsables**, esto es 0.01% a 0.02% de menor rentabilidad al mes, y es más notorio en la medida que se imponga un mínimo más alto de inversiones socialmente responsables. Entonces, un buen primer paso inicial para agregar inversiones socialmente responsables es:
 
 1. Encontrar el conjunto de vehículos de inversión ESG de bajo costo que sigan un índice de mercado, tales como ETFs o fondos ESG. Además, exigimos que estén alineados con objetivos específicos, como criterios éticos o de impacto ambiental: no considerar armas, tabaco, alcohol, apuestas o energía nuclear, y al mismo tiempo considerar aspectos que en Fintual queremos reforzar, como son el impacto ambiental y la reducción del uso de combustibles fósiles.
 2. Continuar con una filosofía de inversiones de seguimiento de índices, como la que tenemos actualmente en Fintual, y acotar las inversiones iniciales de ETFs o fondos ESG a un 20% máximo, de modo que el impacto total de menor rentabilidad a priori sea en valor esperado acotado a un valor tan bajo como 0.012% a 0.024% al año.
