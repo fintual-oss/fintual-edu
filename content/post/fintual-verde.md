@@ -43,7 +43,7 @@ Así, se entiende que **una compañía o empresa persigue tener un impacto socia
 * Trabaja en crear y garantizar **acceso justo de oportunidades**, o
 * Trabaja en **superar desafíos medioambientales**.
 
-Como cada uno de los tres puntos anteriores puede ser interpretado de distintas formas, y es por eso que la ONU ha hecho un trabajo súper interesante en describir y apoyar desde septiembre de 2015 una lista de [**17 objetivos ONU de desarrollo sostenible**](https://sustainabledevelopment.un.org/?menu=1300)**, o UN-SDG** de sus siglas en inglés, que son objetivos explícitos contenidos en alguno de los tres puntos anteriores, y que se pretenden ser implementados en el año 2030.
+Como cada uno de los tres puntos anteriores puede ser interpretado de distintas formas, la ONU ha hecho un trabajo súper interesante en describir y apoyar desde septiembre de 2015 una lista de [**17 objetivos ONU de desarrollo sostenible**](https://sustainabledevelopment.un.org/?menu=1300), o **UN-SDG** por sus siglas en inglés. Se trata de objetivos explícitos contenidos en alguno de los tres puntos anteriores y que pretenden ser implementados en el año 2030.
 
 ![Lista de 17 objetivos ONU de desarrollo sostenible, o UN-SDG.](/uploads/onugoals.png)_Lista de 17 objetivos ONU de desarrollo sostenible, o UN-SDG._
 
