@@ -45,7 +45,7 @@ Así, se entiende que **una compañía o empresa persigue tener un impacto socia
 
 Como cada uno de los tres puntos anteriores puede ser interpretado de distintas formas, la ONU ha hecho un trabajo súper interesante en describir y apoyar desde septiembre de 2015 una lista de [**17 objetivos ONU de desarrollo sostenible**](https://sustainabledevelopment.un.org/?menu=1300), o **UN-SDG** por sus siglas en inglés. Se trata de objetivos explícitos contenidos en alguno de los tres puntos anteriores y que pretenden ser implementados en el año 2030.
 
-![Lista de 17 objetivos ONU de desarrollo sostenible, o UN-SDG.](/uploads/onugoals.png)_Lista de 17 objetivos ONU de desarrollo sostenible, o UN-SDG._
+![Lista de 17 objetivos ONU de desarrollo sostenible, o UN-SDG.](/uploads/onugoals.png)_Lista de 17 objetivos ONU de desarrollo sostenible._
 
 Pese a que algunas inversiones persiguen los objetivos SDGs, estos no fueron diseñados para el mundo profesional de gestión de inversiones, y es por eso que los **criterios ESG, que significa criterios ambientales, sociales y de gobierno corporativo** en sus siglas en inglés, se crearon para evaluar negocios e inversiones. A grandes rasgos, el criterio ambiental mide cómo las compañías cuidan el medio ambiente; el criterio social mide cómo las compañías manejan su relación con sus trabajadores, proveedores y comunidad; y por último el criterio de gobierno corporativo es usado para describir lo justo o apropiado sobre la elección de líderes de compañías, pagos a ejecutivos, auditorías y controles internos, y el respeto a los derechos de los accionistas, en especial los minoritarios.
 
