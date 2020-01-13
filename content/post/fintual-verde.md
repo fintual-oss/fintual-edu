@@ -27,9 +27,11 @@ Entonces, la idea es simple: _invirtamos en empresas verdes._ Pero, ¿qué signi
 
 Digamos que “inversiones verdes” son inversiones con **impacto social y ambiental,** llamado también **inversiones socialmente responsables o SRI,** por sus siglas en inglés.
 
-La definición de inversiones socialmente responsable es aún controversial y continúa evolucionando.
+La definición de inversiones socialmente responsables todavía es controversial y continúa evolucionando.
 
-La versión clásica de inversión con impacto tenía mas que ver con invertir en la “base de la pirámide” social, es decir, crear negocios que directa o indirectamente beneficiara a los más pobres. Ejemplos típicos de esto provienen de los años 60s y 70s, donde programas de microfinanciamiento, casi siempre con apoyo gubernamental o filantrópico, ayudaban a financiar programas de desarrollo a familias pobres. Un ejemplo emblemático fue Grameen Bank, un banco en Bangladesh que comenzó en 1976 prestando 27 dólares como un proyecto personal de Muhammad Yunus, que rápidamente se convirtió en un programa de microcréditos para pequeños emprendedores demasiado pobres como para conseguir un crédito. Muhammad Yunus recibió el premio Nobel de la Paz en 2006, no sin varias controversias rondando incluso el modelo de microfinanzas.
+La versión clásica de inversión con impacto tenía que ver con invertir en la “base de la pirámide” social, es decir, crear negocios que directa o indirectamente beneficiara a los más pobres.   
+  
+Ejemplos típicos de esto provienen de los años 60s y 70s, donde programas de microfinanciamiento, casi siempre con apoyo gubernamental o filantrópico, ayudaban a financiar programas de desarrollo a familias pobres. Un ejemplo emblemático fue Grameen Bank, un banco en Bangladesh que comenzó en 1976 prestando 27 dólares como un proyecto personal de Muhammad Yunus, que rápidamente se convirtió en un programa de microcréditos para pequeños emprendedores demasiado pobres como para conseguir un crédito. Muhammad Yunus recibió el premio Nobel de la Paz en 2006, no sin varias controversias rondando incluso el modelo de microfinanzas.
 
 ![Muhammad Yunus, fundador de Grameen Bank y premio Nobel de la Paz](/uploads/yunus.jpg)_Muhammad Yunus, fundador de Grameen Bank y premio Nobel de la Paz_
 
