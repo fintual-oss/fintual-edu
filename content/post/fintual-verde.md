@@ -35,9 +35,9 @@ Ejemplos típicos de esto provienen de los años 60s y 70s, en los que programas
 
 En resumen, la versión clásica de inversión con impacto ha sido relacionada con filantropía, caridad, o creación de negocios y financiamiento en la base de la pirámide social. 
 
-A diferencia de esto, al día de hoy las tendencias exigen medir de la forma del impacto social y ambiental, bajo alguna escala, de cada negocio o compañía que sea posible, ya sea una pequeña compañía o una gran compañía listada en bolsa.
+Pero actualmente existen otros parámetros y se exige medir el impacto social y ambiental, bajo alguna escala, de cada negocio o compañía, ya sea una pequeña compañía o una gran compañía listada en bolsa.
 
-En la actualidad, se entiende que **una compañía o empresa persigue tener un impacto social o ambiental** si:
+Así, se entiende que **una compañía o empresa persigue tener un impacto social o ambiental** si:
 
 * Trabaja en mejorar las **necesidades básicas humanas**, o
 * Trabaja en crear y garantizar **acceso justo de oportunidades**, o
