@@ -59,9 +59,9 @@ Así nacieron los criterios **ESG, ambientales, sociales y de gobierno corporati
 
 Los criterios ESG son bastante genéricos, ya que son diseñados para medir prácticamente cualquier compañía o negocio, lo que representa una gran fortaleza como criterio para invertir, pero también una gran debilidad: no sirve para medir propósitos específicos de las compañías, como por ejemplo, combatir la desnutrición infantil, promover que niñas accedan a educación secundaria, o defender alguna causa medio ambiental específica. 
 
-En definitiva, no mide el impacto de un propósito específico de una organización. 
+En definitiva, no mide el impacto de un objetivo determinado de una organización. 
 
-Además, su amplitud se ha prestado para que muchos fondos de inversión en todo el mundo utilicen medidas de ESG como una estrategia de marketing —que vende una estrategia de inversión con algún pequeño grado de preocupación ESG—, pero que en la práctica no es una estrategia efectiva o profunda de impacto social o ambiental, que por ejemplo, limite por mandato de gestión no poder comprar ciertos tipos de compañías.
+Además, su amplitud se ha prestado para que muchos fondos de inversión en todo el mundo utilicen medidas de ESG como una estrategia de marketing —que vende una estrategia de inversión con algún pequeño grado de preocupación ESG—, pero que en la práctica no es una estrategia efectiva o profunda de impacto social o ambiental que, por ejemplo, limite por mandato de gestión no poder comprar ciertos tipos de compañías.
 
 Dada esta generalidad de los criterios ESG, añadir otros criterios, como criterios éticos o de impacto ambiental, es una alternativa para filtrar dentro del universo de alternativas de fondos e ETFs ESG, esto es, añadir algún aspecto ético como no considerar armas, tabaco, alcohol, apuestas o energía nuclear, y al mismo tiempo considerar aspectos que **en Fintual queremos reforzar, como son el impacto ambiental** de invertir en empresas que tengan cero o mínimo uso y creación de combustibles fósiles.
 
