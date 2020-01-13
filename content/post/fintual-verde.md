@@ -49,7 +49,9 @@ Como cada uno de los tres puntos anteriores puede ser interpretado de distintas 
 
 Pese a que algunas inversiones persiguen los objetivos SDGs, estos no fueron diseñados para el mundo profesional de gestión de inversiones,  
   
-Así nacieron los criterios **ESG, ambientales, sociales y de gobierno corporativo** por sus siglas en inglés, se crearon para evaluar negocios e inversiones. A grandes rasgos, el criterio ambiental mide cómo las compañías cuidan el medio ambiente; el criterio social mide cómo las compañías manejan su relación con sus trabajadores, proveedores y comunidad; y por último el criterio de gobierno corporativo es usado para describir lo justo o apropiado sobre la elección de líderes de compañías, pagos a ejecutivos, auditorías y controles internos, y el respeto a los derechos de los accionistas, en especial los minoritarios.
+Así nacieron los criterios **ESG, ambientales, sociales y de gobierno corporativo** por sus siglas en inglés, que se crearon para evaluar negocios e inversiones.   
+  
+A grandes rasgos, el criterio ambiental mide cómo las compañías cuidan el medio ambiente; el criterio social mide cómo las compañías manejan su relación con sus trabajadores, proveedores y comunidad; y por último el criterio de gobierno corporativo es usado para describir lo justo o apropiado sobre la elección de líderes de compañías, pagos a ejecutivos, auditorías y controles internos, y el respeto a los derechos de los accionistas, en especial los minoritarios.
 
 ![Algunos principios ESG. Fuente: Trade Finance Global](/uploads/esg.png)_Algunos principios ESG. Fuente:_ [_Trade Finance Global_](https://www.tradefinanceglobal.com/posts/sustainable-finance/)
 
