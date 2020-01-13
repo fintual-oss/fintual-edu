@@ -11,7 +11,7 @@ title = "Fintual, verde"
 url = "que-significan-las-inversiones-verdes"
 
 +++
-Desde los inicios de Fintual quisimos tener alternativas de inversión con impacto ambiental y social, a las que le llamábamos “inversiones verdes” para que fuese más fácil de referirse. 
+Desde los inicios de Fintual quisimos tener alternativas de inversión con impacto ambiental y social a las que le pusimos _inversiones verdes_ para que fuese más fácil de referirse. 
 
 En el camino nos dimos cuenta que hacerlo no era tan fácil: ¿qué significa exactamente “inversiones verdes”? ¿Van a ser menos rentables? ¿Es necesario hacer un “fondo verde” nuevo, o usar los mismos fondos actuales? Todas esas preguntas fueron apareciendo y tratamos de resolverlas en un recorrido de más de 2 años, que comienza a tomar forma real desde hoy.
 
