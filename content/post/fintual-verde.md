@@ -19,7 +19,7 @@ Siempre tuvimos la inquietud de poder alinear objetivos ambientales y sociales c
 
 ###### Es fácil olvidarlo, pero el poder del dinero —o más bien, del flujo de dinero de la economía global— es la principal herramienta para determinar el curso de las industrias que se quieren fomentar o desincentivar. 
 
-De hecho, el dinero funciona como el “torrente sanguíneo” de la economía, ya que comprar acciones o bonos de ciertas empresas, es decir, entregarle financiamiento para que puedan desarrollarse, es similar a entregar “nutrientes y oxígeno” para que crezcan. Por el contrario, no comprar acciones y bonos de ciertas empresas es similar a atrofiarlas.
+De hecho, el dinero funciona como el “torrente sanguíneo” de la economía, ya que comprar acciones o bonos de ciertas empresas, es decir, entregarle financiamiento para que puedan desarrollarse, es similar a entregar nutrientes y oxígeno para que crezcan. Por el contrario, no comprar acciones y bonos de ciertas empresas es similar a atrofiarlas.
 
 Entonces, la idea es simple: _invirtamos en empresas verdes._ Pero, ¿qué significa exactamente eso?
 
