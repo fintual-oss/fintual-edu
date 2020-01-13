@@ -29,11 +29,13 @@ Digamos que las “inversiones verdes” son inversiones con **impacto social y 
 
 Si bien la definición de inversiones socialmente responsables todavía es controversial y continúa evolucionando, la versión clásica de inversión con impacto tenía que ver con invertir en la “base de la pirámide” social, es decir, crear negocios que directa o indirectamente beneficiaran a los más pobres.   
   
-Ejemplos típicos de esto provienen de los años 60s y 70s, en los que programas de microfinanciamiento, casi siempre con apoyo gubernamental o filantrópico, ayudaban a financiar programas de desarrollo a familias pobres. Un caso emblemático fue el Grameen Bank, un banco en Bangladesh que comenzó en 1976 prestando 27 dólares como un proyecto personal de Muhammad Yunus, que rápidamente se convirtió en un programa de microcréditos para pequeños emprendedores demasiado pobres como para conseguir un crédito. Muhammad Yunus recibió el premio Nobel de la Paz en 2006, aunque con varias controversias rondando incluso el modelo de microfinanzas.
+Ejemplos típicos de esto provienen de los años 60s y 70s, en los que programas de microfinanciamiento, casi siempre con apoyo gubernamental o filantrópico, ayudaban a financiar programas de desarrollo a familias pobres. Un caso emblemático fue el Grameen Bank, un banco en Bangladesh que comenzó en 1976 prestando 27 dólares como un proyecto personal de Muhammad Yunus, que rápidamente se convirtió en un programa de microcréditos para pequeños emprendedores demasiado pobres como para conseguir un crédito. Muhammad Yunus recibió el premio Nobel de la Paz en 2006, aunque no sin algunas críticas a su modelo de inclusión financiera.
 
-![Muhammad Yunus, fundador de Grameen Bank y premio Nobel de la Paz](/uploads/yunus.jpg)_Muhammad Yunus, fundador de Grameen Bank y premio Nobel de la Paz_
+![Muhammad Yunus, fundador de Grameen Bank y premio Nobel de la Paz](/uploads/yunus.jpg)_Muhammad Yunus, fundador de Grameen Bank y premio Nobel de la Paz. Fuente: Wikipedia._
 
-En resumen, la versión clásica de inversión con impacto ha sido relacionada con filantropía, caridad, o creación de negocios y financiamiento en la base de la pirámide social. A diferencia de esto, al día de hoy las tendencias exigen medir de la forma del impacto social y ambiental, bajo alguna escala, de cada negocio o compañía que sea posible, ya sea una pequeña compañía o una gran compañía listada en bolsa.
+En resumen, la versión clásica de inversión con impacto ha sido relacionada con filantropía, caridad, o creación de negocios y financiamiento en la base de la pirámide social. 
+
+A diferencia de esto, al día de hoy las tendencias exigen medir de la forma del impacto social y ambiental, bajo alguna escala, de cada negocio o compañía que sea posible, ya sea una pequeña compañía o una gran compañía listada en bolsa.
 
 En la actualidad, se entiende que **una compañía o empresa persigue tener un impacto social o ambiental** si:
 
