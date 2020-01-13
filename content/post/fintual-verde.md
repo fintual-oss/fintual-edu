@@ -21,11 +21,11 @@ Siempre tuvimos la inquietud de poder alinear objetivos ambientales y sociales c
 
 De hecho, el dinero funciona como el “torrente sanguíneo” de la economía, ya que comprar acciones o bonos de ciertas empresas, es decir, entregarle financiamiento para que puedan desarrollarse, es similar a entregar “nutrientes y oxígeno” para que crezcan. Por el contrario, no comprar acciones y bonos de ciertas empresas es similar a atrofiarlas.
 
-Entonces, la idea es simple: _invirtamos en empresas verdes._ Pero ¿qué significa exactamente eso?
+Entonces, la idea es simple: _invirtamos en empresas verdes._ Pero, ¿qué significa exactamente eso?
 
-#### Definiendo “inversiones verdes”
+#### Definiendo _inversiones verdes_
 
-Digamos que “inversiones verdes” son inversiones con **impacto social y ambiental,** llamado también **inversiones socialmente responsables o SRI,** de sus siglas en inglés.
+Digamos que “inversiones verdes” son inversiones con **impacto social y ambiental,** llamado también **inversiones socialmente responsables o SRI,** por sus siglas en inglés.
 
 La definición de inversiones socialmente responsable es aún controversial y continúa evolucionando.
 
