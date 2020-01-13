@@ -66,4 +66,27 @@ Con todo, y haciendo estudios a lo largo del año 2019 de los potenciales ETFs a
 
 Te parecerá interesante además saber, como dato adicional, que a estos ETFs les ha ido igual o mejor que un ETF con características comparables:
 
-![](/uploads/ethoVTIesgv.png)
+![Comparación entre ETHO, ESGV y un ETF comparable como el VTI. Fuente: link acá](/uploads/ethoVTIesgv.png)_Comparación entre ETHO, ESGV y un ETF comparable como el VTI. Fuente:_ [_Yahoo Finance_](https://finance.yahoo.com/quote/ETHO/chart?p=ETHO#eyJpbnRlcnZhbCI6IndlZWsiLCJwZXJpb2RpY2l0eSI6MSwiY2FuZGxlV2lkdGgiOjQuNTc5NDM5MjUyMzM2NDQ4LCJ2b2x1bWVVbmRlcmxheSI6dHJ1ZSwiYWRqIjp0cnVlLCJjcm9zc2hhaXIiOnRydWUsImNoYXJ0VHlwZSI6ImxpbmUiLCJleHRlbmRlZCI6dHJ1ZSwibWFya2V0U2Vzc2lvbnMiOnsicHJlIjp0cnVlLCJwb3N0Ijp0cnVlfSwiYWdncmVnYXRpb25UeXBlIjoib2hsYyIsImNoYXJ0U2NhbGUiOiJwZXJjZW50IiwicGFuZWxzIjp7ImNoYXJ0Ijp7InBlcmNlbnQiOjEsImRpc3BsYXkiOiJFVEhPIiwiY2hhcnROYW1lIjoiY2hhcnQiLCJ0b3AiOjB9fSwic2V0U3BhbiI6eyJiYXNlIjoiYWxsIiwibXVsdGlwbGllciI6MX0sImxpbmVXaWR0aCI6Miwic3RyaXBlZEJhY2tncm91ZCI6dHJ1ZSwiZXZlbnRzIjp0cnVlLCJjb2xvciI6IiMwMGIwNjEiLCJzeW1ib2xzIjpbeyJzeW1ib2wiOiJFVEhPIiwic3ltYm9sT2JqZWN0Ijp7InN5bWJvbCI6IkVUSE8ifSwicGVyaW9kaWNpdHkiOjEsImludGVydmFsIjoid2VlayIsInNldFNwYW4iOnsiYmFzZSI6ImFsbCIsIm11bHRpcGxpZXIiOjF9fSx7InN5bWJvbCI6IlZUSSIsInN5bWJvbE9iamVjdCI6eyJzeW1ib2wiOiJWVEkifSwicGVyaW9kaWNpdHkiOjEsImludGVydmFsIjoid2VlayIsInNldFNwYW4iOnsiYmFzZSI6ImFsbCIsIm11bHRpcGxpZXIiOjF9LCJpZCI6IlZUSSIsInBhcmFtZXRlcnMiOnsiY29sb3IiOiIjZTU2MzJhIiwid2lkdGgiOjIsImlzQ29tcGFyaXNvbiI6dHJ1ZSwiY2hhcnROYW1lIjoiY2hhcnQiLCJzeW1ib2xPYmplY3QiOnsic3ltYm9sIjoiVlRJIn0sInBhbmVsIjoiY2hhcnQiLCJhY3Rpb24iOiJhZGQtc2VyaWVzIiwic2hhcmVZQXhpcyI6dHJ1ZSwic3ltYm9sIjoiVlRJIiwiZ2FwRGlzcGxheVN0eWxlIjoidHJhbnNwYXJlbnQiLCJuYW1lIjoiSzRJUkxBVkk0SiIsIm92ZXJDaGFydCI6dHJ1ZSwidXNlQ2hhcnRMZWdlbmQiOnRydWUsImhlaWdodFBlcmNlbnRhZ2UiOjAuNywib3BhY2l0eSI6MSwiaGlnaGxpZ2h0YWJsZSI6dHJ1ZSwidHlwZSI6ImxpbmUiLCJzdHlsZSI6InN0eF9saW5lX2NoYXJ0In19LHsic3ltYm9sIjoiRVNHViIsInN5bWJvbE9iamVjdCI6eyJzeW1ib2wiOiJFU0dWIn0sInBlcmlvZGljaXR5IjoxLCJpbnRlcnZhbCI6IndlZWsiLCJzZXRTcGFuIjp7ImJhc2UiOiJhbGwiLCJtdWx0aXBsaWVyIjoxfSwiaWQiOiJFU0dWIiwicGFyYW1ldGVycyI6eyJjb2xvciI6IiM3MmQzZmYiLCJ3aWR0aCI6MiwiaXNDb21wYXJpc29uIjp0cnVlLCJjaGFydE5hbWUiOiJjaGFydCIsInN5bWJvbE9iamVjdCI6eyJzeW1ib2wiOiJFU0dWIn0sInBhbmVsIjoiY2hhcnQiLCJhY3Rpb24iOiJhZGQtc2VyaWVzIiwic2hhcmVZQXhpcyI6dHJ1ZSwic3ltYm9sIjoiRVNHViIsImdhcERpc3BsYXlTdHlsZSI6InRyYW5zcGFyZW50IiwibmFtZSI6Iks0SVJMSjdNMjciLCJvdmVyQ2hhcnQiOnRydWUsInVzZUNoYXJ0TGVnZW5kIjp0cnVlLCJoZWlnaHRQZXJjZW50YWdlIjowLjcsIm9wYWNpdHkiOjEsImhpZ2hsaWdodGFibGUiOnRydWUsInR5cGUiOiJsaW5lIiwic3R5bGUiOiJzdHhfbGluZV9jaGFydCJ9fV0sImN1c3RvbVJhbmdlIjpudWxsLCJldmVudE1hcCI6eyJjb3Jwb3JhdGUiOnt9LCJzaWdEZXYiOnt9fSwic3R1ZGllcyI6eyJ2b2wgdW5kciI6eyJ0eXBlIjoidm9sIHVuZHIiLCJpbnB1dHMiOnsiaWQiOiJ2b2wgdW5kciIsImRpc3BsYXkiOiJ2b2wgdW5kciJ9LCJvdXRwdXRzIjp7IlVwIFZvbHVtZSI6IiMwMGIwNjEiLCJEb3duIFZvbHVtZSI6IiNGRjMzM0EifSwicGFuZWwiOiJjaGFydCIsInBhcmFtZXRlcnMiOnsiaGVpZ2h0UGVyY2VudGFnZSI6MC4yNSwid2lkdGhGYWN0b3IiOjAuNDUsImNoYXJ0TmFtZSI6ImNoYXJ0In19fSwid2lkdGgiOjJ9)_._
+
+Así, nuestro primer paso apunta a llegar a ser tener el 20% de inversiones SRI en Risky Norris y tener el 10% en Moderate Pitt, a través de los ETF anteriormente mencionados.
+
+## No vemos necesario (ni oportuno) hacer otro fondo
+
+Hace casi tres años atrás, cuando le comenté a un amigo (no diré su nombre, pero su sobrenombre es Vasco) sobre su opinión de poder invertir en fondos socialmente responsables por Fintual, él me respondió bien simple: “me gustaría que Fintual me dijera cuánto invertir sin que afecte mi plata, no estar pensándolo, pero me gustaría”.
+
+Al principio pensaba que la mejor opción era abrir un fondo 100% “verde”, pero esa opción tenía varios puntos desfavorables que hicieron que se descartara, al menos en esta etapa, como por ejemplo:
+
+* Un nuevo fondo formado 100% de activos SRI podía verse realmente afectado en términos de rentabilidad versus una cartera global diversificada del mismo nivel de riesgo, como explicábamos anteriormente.
+* Tener una estrategia pura en términos de inversión sustentable obliga a que cada usuario tenga que evaluar cuál porcentaje de ese tipo de inversiones quiere, dificultando la toma de decisiones que ya es bastante alta a la hora de invertir. Preferimos ser más propositivos.
+* No hay una cantidad tan grande de vehículos de inversión SRI en el mercado como para armar realmente un fondo puro SRI que sea muy diversificada y líquida al mismo tiempo.
+* Dado que el óptimo para un usuario que desee tener inversiones socialmente responsable es probablemente tener un porcentaje de su cartera, y no una combinación de una cartera no-SRI con una SRI, pensamos mejor no tener una estrategia SRI pura.
+
+## Cuidado con “inversiones verdes” que no lo son
+
+Muchos gestores de inversiones hoy en día se están aprovechando un poco de la ola de interés por inversiones socialmente sustentables, y eso ha hecho que la oferta muchas veces exacerbe la cantidad o calidad de impacto de sus inversiones, ya sea medido con los criterios ESG u otros tipos de criterios.
+
+Algunos ejemplos son fondos o ETFs que, supuestamente teniendo inversiones libres de combustibles fósiles, llegan incluso a un 20% de inversiones en compañías relacionadas a uso o producción de combustibles fósiles.
+
+## Una declaración de intereses más allá de las carteras de inversión
+
+Este paso se suma al interés de Fintual de mediano plazo por reducir nuestra huella neta de carbono, hasta dejarla en en cero. En paralelo, ya comenzamos a plantar nuestro bosque Fintual (agregar link).
