@@ -11,9 +11,9 @@ title = "Fintual, verde"
 url = "que-significan-las-inversiones-verdes"
 
 +++
-Desde los inicios de Fintual quisimos tener alternativas de inversión con impacto ambiental y social a las que le pusimos _inversiones verdes_.
+Desde los inicios de Fintual quisimos tener alternativas de inversión con impacto ambiental y social a las que le pusimos **_inversiones verdes_**.
 
-En el camino nos dimos cuenta que hacerlo no era tan fácil: ¿qué significan exactamente estas “inversiones verdes”? ¿Van a ser menos rentables? ¿Es necesario hacer un “fondo verde” nuevo, o usar los mismos fondos actuales? Todas esas preguntas fueron apareciendo y tratamos de resolverlas en un recorrido de más de 2 años, que comienza a tomar forma real desde hoy.
+En el camino nos dimos cuenta que hacerlo no era tan fácil: ¿qué significan exactamente estas “inversiones verdes”? ¿Van a ser menos rentables? ¿Es necesario hacer un “fondo verde” nuevo o usar los mismos fondos actuales? Tratamos de resolver todas estas preguntas en un recorrido de más de 2 años, que comienza a tomar forma real desde hoy.
 
 Desde el inicio teníamos la inquietud de poder alinear objetivos ambientales y sociales con “dónde pongo mis ahorros”. Al final, uno se olvida, pero el poder del dinero —o más bien, del flujo de dinero de la economía global— es la principal herramienta para determinar el curso de las industrias que uno quiere fomentar o desincentivar. De hecho, el dinero lo puedes imaginar como “el torrente sanguíneo” de la economía, ya que comprar acciones o bonos de ciertas empresas, es decir, entregarle financiamiento para que puedan desarrollarse, es similar a entregar “nutrientes y oxígeno” para que crezcan. Por el contrario, no comprar acciones y bonos de ciertas empresas es similar a atrofiarlas.
 
