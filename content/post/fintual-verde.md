@@ -57,15 +57,17 @@ Así nacieron los criterios **ESG, ambientales, sociales y de gobierno corporati
 
 ![Algunos principios ESG. Fuente: Trade Finance Global](/uploads/esg.png)_Algunos principios ESG. Fuente:_ [_Trade Finance Global_](https://www.tradefinanceglobal.com/posts/sustainable-finance/)
 
+#### Ojo con los ESG
+
 Los criterios ESG son bastante genéricos, ya que son diseñados para medir prácticamente cualquier compañía o negocio, lo que representa una gran fortaleza como criterio para invertir, pero también una gran debilidad: no sirve para medir propósitos específicos de las compañías, como por ejemplo, combatir la desnutrición infantil, promover que niñas accedan a educación secundaria, o defender alguna causa medio ambiental específica. 
 
 En definitiva, no mide el impacto de un objetivo determinado de una organización. 
 
-Además, su amplitud se ha prestado para que muchos fondos de inversión en todo el mundo utilicen medidas de ESG como una estrategia de marketing —que vende una estrategia de inversión con algún pequeño grado de preocupación ESG—, pero que en la práctica no es una estrategia efectiva o profunda de impacto social o ambiental que, por ejemplo, limite por mandato de gestión no poder comprar ciertos tipos de compañías.
+Además, su amplitud se ha prestado para que muchos fondos de inversión en todo el mundo utilicen el nombre ESG como una estrategia de marketing —que vende una estrategia de inversión con algún pequeño grado de preocupación ESG—, pero que en la práctica no es una estrategia efectiva o profunda de impacto social o ambiental que, por ejemplo, limite por mandato de gestión no poder comprar ciertos tipos de compañías.
 
 Dada esta generalidad de los criterios ESG, una alternativa para filtrar dentro del universo de alternativas de fondos e ETFs ESG es añadir otros criterios, como criterios éticos o de impacto ambiental. Esto es, añadir algún aspecto ético como no considerar armas, tabaco, alcohol, apuestas o energía nuclear, y al mismo tiempo considerar aspectos que **en Fintual queremos reforzar, como son el impacto ambiental** de invertir en empresas que tengan cero o mínimo uso y creación de combustibles fósiles.
 
-##### ¿Y la rentabilidad?
+#### ¿Y la rentabilidad?
 
 Una de las primeras preguntas que aparecen es saber si “invertir verde” tendrá un impacto negativo en la rentabilidad esperada de los portafolios Fintual, y es una duda súper razonable, ya que en teoría al añadir más restricciones a las inversiones la rentabilidad tiene que ser menor.
 
