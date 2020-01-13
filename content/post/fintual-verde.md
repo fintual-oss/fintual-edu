@@ -65,7 +65,7 @@ Además, su amplitud se ha prestado para que muchos fondos de inversión en todo
 
 Dada esta generalidad de los criterios ESG, una alternativa para filtrar dentro del universo de alternativas de fondos e ETFs ESG es añadir otros criterios, como criterios éticos o de impacto ambiental. Esto es, añadir algún aspecto ético como no considerar armas, tabaco, alcohol, apuestas o energía nuclear, y al mismo tiempo considerar aspectos que **en Fintual queremos reforzar, como son el impacto ambiental** de invertir en empresas que tengan cero o mínimo uso y creación de combustibles fósiles.
 
-## ¿Van a ser las “inversiones verdes” menos rentables?
+##### ¿Y la rentabilidad?
 
 Una de las primeras preguntas que aparecen es saber si “invertir verde” tendrá un impacto negativo en la rentabilidad esperada de los portafolios Fintual, y es una duda súper razonable, ya que en teoría al añadir más restricciones a las inversiones la rentabilidad tiene que ser menor.
 
