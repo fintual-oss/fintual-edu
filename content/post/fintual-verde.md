@@ -27,3 +27,18 @@ La versión clásica de inversión con impacto tenía mas que ver con invertir e
 
 ![Muhammad Yunus, fundador de Grameen Bank y premio Nobel de la Paz](/uploads/yunus.jpg)_Muhammad Yunus, fundador de Grameen Bank y premio Nobel de la Paz_
 
+En resumen, la versión clásica de inversión con impacto ha sido relacionada con filantropía, caridad, o creación de negocios y financiamiento en la base de la pirámide social. A diferencia de esto, al día de hoy las tendencias exigen medir de la forma del impacto social y ambiental, bajo alguna escala, de cada negocio o compañía que sea posible, ya sea una pequeña compañía o una gran compañía listada en bolsa.
+
+En la actualidad, se entiende que **una compañía o empresa persigue tener un impacto social o ambiental** si:
+
+* Trabaja en mejorar las **necesidades básicas humanas**, o
+* Trabaja en crear y garantizar **acceso justo de oportunidades**, o
+* Trabaja en **superar desafíos medioambientales**.
+
+Cómo vemos, cada uno de los tres puntos anteriores puedes ser interpretados de distintas formas, y es por eso que la ONU ha hecho un trabajo súper interesante en describir y apoyar desde septiembre de 2015 una lista de [**17 objetivos ONU de desarrollo sostenible**](https://sustainabledevelopment.un.org/?menu=1300)**, o UN-SDG** de sus siglas en inglés, que son objetivos explícitos contenidos en alguno de los tres puntos anteriores, y que se pretenden ser implementados en el año 2030.
+
+![Lista de 17 objetivos ONU de desarrollo sostenible, o UN-SDG.](/uploads/onugoals.png)_Lista de 17 objetivos ONU de desarrollo sostenible, o UN-SDG._
+
+Pese a que algunas inversiones persiguen los objetivos SDGs, estos no fueron diseñados para el mundo profesional de gestión de inversiones, y es por eso que los **criterios ESG, que significa criterios ambientales, sociales y de gobierno corporativo** en sus siglas en inglés, se crearon para evaluar negocios e inversiones. A grandes rasgos, el criterio ambiental mide cómo las compañías cuidan el medio ambiente; el criterio social mide cómo las compañías manejan su relación con sus trabajadores, proveedores y comunidad; y por último el criterio de gobierno corporativo es usado para describir lo justo o apropiado sobre la elección de líderes de compañías, pagos a ejecutivos, auditorías y controles internos, y el respeto a los derechos de los accionistas, en especial los minoritarios.
+
+![Algunos principios ESG. Fuente: Trade Finance Global](/uploads/esg.png)_Algunos principios ESG. Fuente: Trade Finance Global_
