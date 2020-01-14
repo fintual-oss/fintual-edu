@@ -14,9 +14,9 @@ Desde los inicios de Fintual quisimos tener alternativas de inversión con impac
 
 En el camino nos dimos cuenta que hacerlo no era tan fácil: ¿qué significan exactamente estas “inversiones verdes”? ¿Van a ser menos rentables? ¿Es necesario hacer un “fondo verde” nuevo o usar los mismos fondos actuales? Aparecieron muchas preguntas y tratamos de resolverlas en un recorrido de más de 2 años que recién comienza a tomar forma.
 
-Siempre tuvimos la inquietud de poder alinear objetivos ambientales y sociales con _dónde pongo mis ahorros_.
+Teníamos que resolver la inquietud de poder alinear objetivos ambientales y sociales con _dónde pongo mis ahorros_.
 
-> Es fácil olvidarlo, pero el poder del dinero —o más bien, del flujo de dinero de la economía global— es la principal herramienta para determinar el curso de las industrias que se quieren fomentar o desincentivar. 
+> Es fácil olvidarlo, pero el poder del dinero —o más bien, del flujo de dinero de la economía global— es la principal herramienta para determinar el curso de las industrias que se quieren fomentar o desincentivar.
 
 De hecho, el dinero funciona como el “torrente sanguíneo” de la economía, ya que comprar acciones o bonos de ciertas empresas, es decir, entregarle financiamiento para que puedan desarrollarse, es similar a entregar nutrientes y oxígeno para que crezcan. Por el contrario, no comprar acciones y bonos de ciertas empresas es similar a atrofiarlas.
 
@@ -26,13 +26,13 @@ Entonces, la idea es simple: _invirtamos en empresas verdes._ Pero, ¿qué signi
 
 Digamos que las “inversiones verdes” son inversiones con **impacto social y ambiental,** llamado también **inversiones socialmente responsables o SRI,** por sus siglas en inglés.
 
-Si bien la definición de inversiones socialmente responsables todavía es controversial y continúa evolucionando, la versión clásica de inversión con impacto tenía que ver con invertir en la “base de la pirámide” social, es decir, crear negocios que directa o indirectamente beneficiaran a los más pobres.   
-  
+Si bien la definición de inversiones socialmente responsables todavía es controversial y continúa evolucionando, la versión clásica de inversión con impacto tenía que ver con invertir en la “base de la pirámide” social, es decir, crear negocios que directa o indirectamente beneficiaran a los más pobres.
+
 Ejemplos típicos de esto provienen de los años 60s y 70s, en los que programas de microfinanciamiento, casi siempre con apoyo gubernamental o filantrópico, ayudaban a financiar programas de desarrollo a familias pobres. Un caso emblemático fue el Grameen Bank, un banco en Bangladesh que comenzó en 1976 prestando 27 dólares como un proyecto personal de Muhammad Yunus, que rápidamente se convirtió en un programa de microcréditos para pequeños emprendedores demasiado pobres como para conseguir un crédito. Muhammad Yunus recibió el premio Nobel de la Paz en 2006, aunque no sin algunas críticas a su modelo de inclusión financiera.
 
 ![Muhammad Yunus, fundador de Grameen Bank y premio Nobel de la Paz](/uploads/yunus.jpg)_Muhammad Yunus, fundador de Grameen Bank y premio Nobel de la Paz. Fuente: Wikipedia._
 
-En resumen, la versión clásica de inversión con impacto ha sido relacionada con filantropía, caridad, o creación de negocios y financiamiento en la base de la pirámide social. 
+En resumen, la versión clásica de inversión con impacto ha sido relacionada con filantropía, caridad, o creación de negocios y financiamiento en la base de la pirámide social.
 
 Pero actualmente existen otros parámetros que miden el impacto social y ambiental, bajo alguna escala, de cada negocio o compañía, ya sea una pequeña compañía o una gran compañía listada en bolsa.
 
@@ -46,8 +46,8 @@ Como cada uno de los tres puntos anteriores puede ser interpretado de distintas 
 
 ![Lista de 17 objetivos ONU de desarrollo sostenible, o UN-SDG.](/uploads/onugoals.png)_Lista de 17 objetivos ONU de desarrollo sostenible._
 
-Pese a que algunas inversiones persiguen los objetivos SDGs, estos no fueron diseñados para el mundo profesional de gestión de inversiones,  
-  
+Pese a que algunas inversiones persiguen los objetivos SDGs, estos no fueron diseñados para el mundo profesional de gestión de inversiones,
+
 Así nacieron los criterios **ESG, ambientales, sociales y de gobierno corporativo** por sus siglas en inglés, que se crearon para evaluar negocios e inversiones. Los criterios miden:
 
 * **Ambiental:** cómo las compañías cuidan el medio ambiente
@@ -56,13 +56,13 @@ Así nacieron los criterios **ESG, ambientales, sociales y de gobierno corporati
 
 ![Algunos principios ESG. Fuente: Trade Finance Global](/uploads/esg.png)_Algunos principios ESG. Fuente:_ [_Trade Finance Global_](https://www.tradefinanceglobal.com/posts/sustainable-finance/)
 
-Los criterios ESG son bastante genéricos, ya que son diseñados para medir prácticamente cualquier compañía o negocio, lo que representa una gran fortaleza como criterio para invertir, pero también una gran debilidad: no sirve para medir propósitos específicos de las compañías, como por ejemplo, combatir la desnutrición infantil, promover que niñas accedan a educación secundaria, o defender alguna causa medio ambiental específica. 
+Los criterios ESG son bastante genéricos, ya que son diseñados para medir prácticamente cualquier compañía o negocio, lo que representa una gran fortaleza como criterio para invertir, pero también una gran debilidad: no sirve para medir propósitos específicos de las compañías, como por ejemplo, combatir la desnutrición infantil, promover que niñas accedan a educación secundaria, o defender alguna causa medio ambiental específica.
 
-En definitiva, no mide el impacto de un objetivo determinado de una organización. 
+En definitiva, no mide el impacto de un objetivo determinado de una organización.
 
 Además, su amplitud se ha prestado para que muchos fondos de inversión en todo el mundo utilicen el nombre ESG como una estrategia de marketing —que vende una estrategia de inversión con algún pequeño grado de preocupación ESG—, pero que en la práctica no es una estrategia efectiva o profunda de impacto social o ambiental que, por ejemplo, limite por mandato de gestión no poder comprar ciertos tipos de compañías.
 
-Dada esta generalidad de los criterios ESG, una alternativa para filtrar dentro del universo de alternativas de fondos e ETF ESG es añadir otros criterios, como criterios éticos o de impacto ambiental. 
+Dada esta generalidad de los criterios ESG, una alternativa para filtrar dentro del universo de alternativas de fondos e ETF ESG es añadir otros criterios, como criterios éticos o de impacto ambiental.
 
 > Una alternativa es añadir algún aspecto ético, como no considerar armas, tabaco, alcohol, apuestas o energía nuclear y, al mismo tiempo, **considerar aspectos que en Fintual queremos reforzar, como el impacto ambiental de invertir en empresas que tengan cero o mínimo uso y creación de combustibles fósiles.**
 
@@ -72,9 +72,9 @@ Una de las primeras preguntas que aparecen es saber si _invertir verde_ tendrá 
 
 Sin embargo, en la práctica, ¿cuánto es la magnitud del costo esperado de _invertir verde_?
 
-En la actualidad existen varios estudios al respecto. Uno de los más importantes, citados y contingentes a nuestro problema en Fintual es el [estudio de Geczy, Stambaugh y Levin, de 2005](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=416380), donde se aborda el problema de invertir en fondos mutuos socialmente responsables. 
+En la actualidad existen varios estudios al respecto. Uno de los más importantes, citados y contingentes a nuestro problema en Fintual es el [estudio de Geczy, Stambaugh y Levin, de 2005](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=416380), donde se aborda el problema de invertir en fondos mutuos socialmente responsables.
 
-Una conclusión interesante es que, en el caso de que las inversiones son gestionadas con una filosofía de seguimiento de índices de mercado o inversión pasiva —que es lo que hacemos en Fintual—, **las restricciones asociadas a inversiones socialmente responsable agregan solamente 1 o 2 puntos bases de costo al mes versus invertir en fondos no socialmente responsables**. O sea, 0,01% a 0,02% menos de rentabilidad al mes, y es más notorio en la medida que se imponga un mínimo más alto de inversiones socialmente responsables. 
+Una conclusión interesante es que, en el caso de que las inversiones son gestionadas con una filosofía de seguimiento de índices de mercado o inversión pasiva —que es lo que hacemos en Fintual—, **las restricciones asociadas a inversiones socialmente responsable agregan solamente 1 o 2 puntos bases de costo al mes versus invertir en fondos no socialmente responsables**. O sea, 0,01% a 0,02% menos de rentabilidad al mes, y es más notorio en la medida que se imponga un mínimo más alto de inversiones socialmente responsables.
 
 Entonces, un buen primer paso inicial para agregar inversiones socialmente responsables es:
 
