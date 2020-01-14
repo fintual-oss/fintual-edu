@@ -53,25 +53,23 @@ Los criterios ESG son genéricos, miden prácticamente cualquier compañía o ne
 
 Además, su amplitud se ha prestado para que muchos fondos de inversión en el mundo utilicen el nombre ESG como una estrategia de marketing, donde se vende una estrategia de inversión con algún pequeño grado de preocupación ESG, pero que no es una estrategia efectiva o profunda de impacto social o ambiental.
 
-Dada esta generalidad de los criterios ESG, una alternativa para filtrar dentro del universo de alternativas de fondos e ETF ESG es añadir otros criterios, como criterios éticos o de impacto ambiental.
-
-> Una alternativa es añadir algún aspecto ético, como no considerar armas, tabaco, alcohol, apuestas o energía nuclear y, al mismo tiempo, **considerar aspectos que en Fintual queremos reforzar, como el impacto ambiental de invertir en empresas que tengan cero o mínimo uso y creación de combustibles fósiles.**
+Dada esta generalidad de los criterios ESG, una alternativa bastante utilizada es añadir otros criterios, como criterios éticos (como por ejemplo, no invertir en industria de armas) o criterios de impacto ambiental.
 
 #### ¿Y la rentabilidad?
 
-Una de las primeras preguntas que aparecen es saber si _invertir verde_ tendrá un impacto negativo en la rentabilidad esperada de los portafolios Fintual. Es una duda súper razonable: en teoría, al añadir más restricciones a las inversiones, la rentabilidad tiene que ser menor.
+Una de las primeras preguntas que aparecen es saber si _invertir verde_ tendrá un impacto negativo en la rentabilidad esperada de los portafolios Fintual, ya que en teoría, al añadir más restricciones a las inversiones, la rentabilidad debiese ser menor.
 
 Sin embargo, en la práctica, ¿cuánto es la magnitud del costo esperado de _invertir verde_?
 
-En la actualidad existen varios estudios al respecto. Uno de los más importantes, citados y contingentes a nuestro problema en Fintual es el [estudio de Geczy, Stambaugh y Levin, de 2005](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=416380), donde se aborda el problema de invertir en fondos mutuos socialmente responsables.
+Existen varios estudios al respecto. Uno de los más importantes y citados es el [estudio de Geczy, Stambaugh y Levin, de 2005](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=416380), donde se aborda el problema de invertir en fondos socialmente responsables. La conclusión interesante es que, en el caso en que las inversiones son gestionadas con una filosofía de seguimiento de índices de mercado —que es precisamente lo que hacemos en Fintual—, **las restricciones asociadas a inversiones socialmente responsable agregan solamente 1 o 2 puntos bases de costo al mes versus invertir en fondos no-socialmente-responsables**, o sea, 0,01% a 0,02% menos de rentabilidad al mes.
 
-Una conclusión interesante es que, en el caso de que las inversiones son gestionadas con una filosofía de seguimiento de índices de mercado o inversión pasiva —que es lo que hacemos en Fintual—, **las restricciones asociadas a inversiones socialmente responsable agregan solamente 1 o 2 puntos bases de costo al mes versus invertir en fondos no socialmente responsables**. O sea, 0,01% a 0,02% menos de rentabilidad al mes, y es más notorio en la medida que se imponga un mínimo más alto de inversiones socialmente responsables.
+#### Fintual verde
 
 Entonces, un buen primer paso inicial para agregar inversiones socialmente responsables es:
 
-1. **Encontrar el conjunto de vehículos de inversión ESG de bajo costo que sigan un índice de mercado**, tales como ETF o fondos ESG. Además, exigimos que estén alineados con objetivos específicos, como criterios éticos o de impacto ambiental (no considerar armas, tabaco, etc), y al mismo tiempo considerar aspectos que queremos priorizar Fintual, el impacto ambiental y la reducción del uso de combustibles fósiles.
-2. **Continuar con una filosofía de inversiones de seguimiento de índices**, como la que tenemos actualmente en Fintual, y acotar las inversiones iniciales de ETFs o fondos ESG a un 20% máximo, de modo que el impacto total de menor rentabilidad a priori sea en valor esperado acotado a un valor tan bajo como 0,012% a 0,024% al año.
-3. **Redefinir las carteras de inversión**, de modo de generar una cartera optimizada que tenga un mínimo de inversiones de las mencionadas en el punto 1 anterior, **pero que al mismo tiempo tenga una rentabilidad esperada al menos igual o mejor a la rentabilidad esperada de la cartera de inversión definida anteriormente**.
+1. **Encontrar el conjunto de vehículos de inversión ESG de bajo costo que sigan un índice de mercado**, tales como ETF o fondos ESG, donde además añadimos aspectos éticos, como considerar **instrumentos que no inviertan en industrias de armas, tabaco, alcohol, apuestas o energía nuclear** y, al mismo tiempo, considerar aspectos que buscamos reforzar, como el **impacto ambiental** de invertir en empresas que tengan cero (o mínimo) uso o creación de combustibles fósiles.
+2. **Continuar con una filosofía de inversiones de seguimiento de índices**, como la que tenemos actualmente en Fintual, y acotar las inversiones iniciales de ETFs o fondos ESG a un porcentajes limitados, de modo que el impacto total de menor rentabilidad a priori sea en valor esperado acotado a un valor tan bajo como 0,01% a 0,02% al año.
+3. **Redefinir las carteras de inversión** de modo de generar una cartera optimizada que tenga un mínimo de _inversiones verdes_, **pero que al mismo tiempo tenga una rentabilidad esperada al menos igual o mejor** a la rentabilidad esperada de la cartera de inversión anterior.
 
 #### Fintual verde
 
