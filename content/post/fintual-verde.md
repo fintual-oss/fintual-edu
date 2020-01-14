@@ -27,7 +27,7 @@ Un caso emblemático es el Grameen Bank, un banco en Bangladesh que comenzó com
 <div style="text-align:center">
 <figure>
 <img src="/uploads/yunus.jpg">
-<figcaption><i>Muhammad Yunus, fundador de Grameen Bank y premio Nobel de la Paz. Fuente: Wikipedia.</i></figcaption>
+<figcaption style="display:block;text-align:center;font-size:.8rem"><i>Muhammad Yunus, fundador de Grameen Bank y premio Nobel de la Paz. Fuente: Wikipedia.</i></figcaption>
 </figure>
 </div>
 
