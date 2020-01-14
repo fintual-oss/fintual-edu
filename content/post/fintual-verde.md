@@ -115,3 +115,9 @@ Algunos ejemplos son fondos o ETF que, supuestamente teniendo inversiones libres
 #### Una declaración de intereses más allá de las carteras de inversión
 
 Este paso se suma al interés de Fintual de mediano plazo por reducir nuestra huella neta de carbono, hasta dejarla en en cero. 
+
+{{< prueba_fintual utmcontent="fintual+verde" >}}
+
+Si quieres una inversión inteligente y verde.
+
+{{< /prueba_fintual >}}
