@@ -2,7 +2,7 @@
 aliases = []
 author = "Agustín Feuerhake"
 categories = ["educación financiera"]
-date = "2019-09-24T20:29:04+00:00"
+date = 2019-09-24T20:29:04Z
 description = "Creamos una (mini) guía sobre cómo elegir bien el riesgo de tus diferentes inversiones."
 hide = false
 image = "/uploads/Diseño sin título (1).png"
@@ -63,12 +63,16 @@ Si vas a necesitar tu plata en tres años o menos, es bueno elegir opciones más
 Abajo hay un gráfico que mide la rentabilidad del IPSA (el índice que replica el mercado chileno abierto a bolsa) entre 1994 y el 2018. Fíjate que en las inversiones de sobre 10 años, los retornos siempre han sido positivos.
 
 <div style="text-align:center">
-<figure>
-<img src="/uploads/ipsa evolucion.png">
-</figure>
-</div>
 
-_Muchas gracias a Ricardo Díaz por este gráfico._
+<figure>
+
+<img src="/uploads/ipsa evolucion.png">
+
+<em> _Muchas gracias a Ricardo Díaz por este gráfico._ </em>
+
+</figure>
+
+</div>
 
 En otras palabras, tu riesgo se mitiga por el paso del tiempo. Entonces tus inversiones riesgosas, ya no lo son tanto.
 
@@ -122,5 +126,6 @@ Así que tranquilo y créenos, así va a quedar más rica la punta de ganso, bah
 >
 > #### Usa nuestro simulador y ve qué es lo que recomendado para ti. [Pruébalo aquí sin costo.](https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=edu+elegir+bien+riesgo+inversion-279)
 
-_Infórmese de las características esenciales de la inversión en estos fondos mutuos, los que se encuentran contenidos en sus reglamentos internos y contratos de suscripción de cuotas._
 {{< newsletter_signup >}}
+
+_Infórmese de las características esenciales de la inversión en estos fondos mutuos, los que se encuentran contenidos en sus reglamentos internos y contratos de suscripción de cuotas._
