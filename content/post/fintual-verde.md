@@ -12,7 +12,7 @@ url = "que-significan-las-inversiones-verdes"
 +++
 Desde los inicios de Fintual quisimos tener alternativas de inversión con impacto ambiental y social, y de esa forma resolver nuestra inquietud de poder alinear intereses sociales con _dónde pongo mi plata, dónde dejo mis ahorros_. A poco andar les comenzamos a llamar **_inversiones verdes_** a esta idea.
 
-Y es que es fácil olvidarlo, pero el poder del dinero —o más bien, del flujo de dinero de la economía global— es la principal herramienta para determinar el curso de las industrias que se quieren fomentar o desincentivar. El dinero funciona como el “torrente sanguíneo” de la economía: comprar acciones o bonos de ciertas empresas (es decir, entregarle financiamiento para que puedan desarrollarse), es similar a entregar nutrientes y oxígeno para que crezcan. 
+Y es que es fácil olvidarlo, pero el poder del dinero —o más bien, del flujo de dinero de la economía global— es la principal herramienta para determinar el curso de las industrias que se quieren fomentar o desincentivar. El dinero funciona como el “torrente sanguíneo” de la economía: comprar acciones o bonos de ciertas empresas (es decir, entregarle financiamiento para que puedan desarrollarse), es similar a entregar nutrientes y oxígeno para que crezcan.
 
 Entonces, la idea es simple: _invirtamos en empresas verdes._ Pero, ¿qué significan exactamente estas “inversiones o empresas verdes”? ¿Van a ser menos rentables? ¿Es necesario hacer un “fondo verde” nuevo o usar los mismos fondos actuales? Aparecieron muchas preguntas y tratamos de resolverlas en un recorrido de más de 2 años que ya está tomando forma.
 
@@ -49,7 +49,7 @@ Los objetivos SDGs no fueron diseñados para el mundo profesional de gestión de
 
 ![Algunos principios ESG. Fuente: Trade Finance Global](/uploads/esg.png)_Algunos principios ESG. Fuente:_ [_Trade Finance Global_](https://www.tradefinanceglobal.com/posts/sustainable-finance/)
 
-Los criterios ESG son genéricos, miden prácticamente cualquier compañía o negocio, lo que representa una gran fortaleza, pero también una gran debilidad: **no sirven para medir propósitos específicos de las compañías.**
+Los criterios ESG son genéricos, es decir, miden prácticamente cualquier compañía o negocio, lo que representa una gran fortaleza, pero también una gran debilidad: **no sirven para medir propósitos específicos de las compañías.**
 
 Además, su amplitud se ha prestado para que muchos fondos de inversión en el mundo utilicen el nombre ESG como una estrategia de marketing, donde se vende una estrategia de inversión con algún pequeño grado de preocupación ESG, pero que no es una estrategia efectiva o profunda de impacto social o ambiental.
 
