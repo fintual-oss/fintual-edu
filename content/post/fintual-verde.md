@@ -33,9 +33,9 @@ Un caso emblemático es el Grameen Bank, un banco en Bangladesh que comenzó com
 
 Bajo la definición actual, se entiende que **una compañía o empresa persigue tener un impacto social o ambiental** si:
 
-* Trabaja en mejorar las **necesidades básicas humanas**, o
-* Trabaja en crear y garantizar **acceso justo de oportunidades**, o
-* Trabaja en **superar desafíos medioambientales**.
+* Trabaja en mejorar las **necesidades básicas humanas**
+* Trabaja en crear y garantizar **acceso justo de oportunidades**
+* Trabaja en **superar desafíos medioambientales**
 
 Para hacer objetivos más explícitos de impacto, la ONU ha hecho un trabajo súper importante de empujar desde septiembre de 2015 una lista de [**17 objetivos ONU de desarrollo sostenible**](https://sustainabledevelopment.un.org/?menu=1300), conocidos como **UN-SDG** por sus siglas en inglés. Se trata de objetivos explícitos que pretenden ser implementados en el año 2030.
 
