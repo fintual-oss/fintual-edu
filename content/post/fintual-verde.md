@@ -99,11 +99,11 @@ Otro dato interesante es que **a estos ETFs les ha ido igual o mejor que un ETF 
 
 #### Por qué no vemos necesario (ni oportuno) hacer otro fondo
 
-Hace tres años, cuando le comenté a un amigo (no diré su nombre, pero su sobrenombre es Vasco) sobre su opinión de poder invertir en fondos socialmente responsables por Fintual, él me respondió bien simple: “Me gustaría que Fintual me dijera cuánto invertir sin que afecte mi plata, no estar pensándolo, pero me gustaría”.
+Hace tres años, cuando le pregunté a un amigo (no diré su nombre, pero su sobrenombre es Vasco) su opinión de poder invertir en fondos socialmente responsables por Fintual, él me respondió bien simple: “Me gustaría que Fintual me dijera cuánto invertir sin que afecte mi plata, no estar pensándolo, pero me gustaría”.
 
 Al principio pensaba que la mejor opción era abrir un fondo 100% “verde”, pero esa opción tenía varios puntos desfavorables que hicieron que se descartara, al menos en esta etapa, como por ejemplo:
 
-* Un nuevo fondo formado 100% de activos SRI podía verse realmente afectado en términos de rentabilidad versus una cartera global diversificada del mismo nivel de riesgo, como explicábamos anteriormente.
+* Un nuevo fondo formado 100% de activos SRI podía verse realmente afectado en términos de rentabilidad versus una cartera global diversificada del mismo nivel de riesgo, como explicamos anteriormente.
 * Tener una estrategia pura en términos de inversión sustentable obliga a que cada usuario tenga que evaluar cuál porcentaje de ese tipo de inversiones quiere, dificultando la toma de decisiones que ya es bastante alta a la hora de invertir. Preferimos ser más propositivos.
 * No hay una cantidad tan grande de vehículos de inversión SRI en el mercado como para armar realmente un fondo puro SRI que sea muy diversificada y líquida al mismo tiempo.
 * Dado que el óptimo para un usuario que desee tener inversiones socialmente responsable es probablemente tener un porcentaje de su cartera, y no una combinación de una cartera no-SRI con una SRI, pensamos mejor no tener una estrategia SRI pura.
