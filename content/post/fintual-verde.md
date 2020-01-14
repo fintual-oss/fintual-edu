@@ -30,7 +30,13 @@ Si bien la definición de inversiones socialmente responsables todavía es contr
 
 Ejemplos típicos de esto provienen de los años 60s y 70s, en los que programas de microfinanciamiento, casi siempre con apoyo gubernamental o filantrópico, ayudaban a financiar programas de desarrollo a familias pobres. Un caso emblemático fue el Grameen Bank, un banco en Bangladesh que comenzó en 1976 prestando 27 dólares como un proyecto personal de Muhammad Yunus, que rápidamente se convirtió en un programa de microcréditos para pequeños emprendedores demasiado pobres como para conseguir un crédito. Muhammad Yunus recibió el premio Nobel de la Paz en 2006, aunque no sin algunas críticas a su modelo de inclusión financiera.
 
-![Muhammad Yunus, fundador de Grameen Bank y premio Nobel de la Paz](/uploads/yunus.jpg)_Muhammad Yunus, fundador de Grameen Bank y premio Nobel de la Paz. Fuente: Wikipedia._
+<div style="text-align:center">
+<figure>
+<img src="/uploads/yunus.jpg">
+</figure>
+</div>
+
+_Muhammad Yunus, fundador de Grameen Bank y premio Nobel de la Paz. Fuente: Wikipedia._
 
 En resumen, la versión clásica de inversión con impacto ha sido relacionada con filantropía, caridad, o creación de negocios y financiamiento en la base de la pirámide social.
 
