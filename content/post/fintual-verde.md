@@ -10,27 +10,19 @@ title = "Fintual, verde"
 url = "que-significan-las-inversiones-verdes"
 
 +++
-Desde los inicios de Fintual quisimos tener alternativas de inversión con impacto ambiental y social a las que le pusimos **_inversiones verdes_**.
+Desde los inicios de Fintual quisimos tener alternativas de inversión con impacto ambiental y social, y de esa forma resolver nuestra inquietud de poder alinear intereses sociales con _dónde pongo mi plata, dónde dejo mis ahorros_. A poco andar les comenzamos a llamar **_inversiones verdes_** a esta idea.
 
-En el camino nos dimos cuenta que hacerlo no era tan fácil: ¿qué significan exactamente estas “inversiones verdes”? ¿Van a ser menos rentables? ¿Es necesario hacer un “fondo verde” nuevo o usar los mismos fondos actuales? Aparecieron muchas preguntas y tratamos de resolverlas en un recorrido de más de 2 años que recién comienza a tomar forma.
+Y es que es fácil olvidarlo, pero el poder del dinero —o más bien, del flujo de dinero de la economía global— es la principal herramienta para determinar el curso de las industrias que se quieren fomentar o desincentivar. El dinero funciona como el “torrente sanguíneo” de la economía: comprar acciones o bonos de ciertas empresas (es decir, entregarle financiamiento para que puedan desarrollarse), es similar a entregar nutrientes y oxígeno para que crezcan. 
 
-Teníamos que resolver la inquietud de poder alinear objetivos ambientales y sociales con _dónde pongo mis ahorros_.
-
-> Es fácil olvidarlo, pero el poder del dinero —o más bien, del flujo de dinero de la economía global— es la principal herramienta para determinar el curso de las industrias que se quieren fomentar o desincentivar.
-
-De hecho, el dinero funciona como el “torrente sanguíneo” de la economía, ya que comprar acciones o bonos de ciertas empresas, es decir, entregarle financiamiento para que puedan desarrollarse, es similar a entregar nutrientes y oxígeno para que crezcan. Por el contrario, no comprar acciones y bonos de ciertas empresas es similar a atrofiarlas.
-
-Entonces, la idea es simple: _invirtamos en empresas verdes._ Pero, ¿qué significa exactamente eso?
+Entonces, la idea es simple: _invirtamos en empresas verdes._ Pero, ¿qué significan exactamente estas “inversiones o empresas verdes”? ¿Van a ser menos rentables? ¿Es necesario hacer un “fondo verde” nuevo o usar los mismos fondos actuales? Aparecieron muchas preguntas y tratamos de resolverlas en un recorrido de más de 2 años que ya está tomando forma.
 
 #### Definiendo _inversiones verdes_
 
 Digamos que las “inversiones verdes” son inversiones con **impacto social y ambiental,** llamado también **inversiones socialmente responsables o SRI,** por sus siglas en inglés.
 
-Si bien la definición de inversiones socialmente responsables todavía es controversial y continúa evolucionando, la versión clásica de inversión con impacto tenía que ver con invertir en la “base de la pirámide” social, es decir, crear negocios que directa o indirectamente beneficiaran a los más pobres.
+La definición de inversiones socialmente responsables aún es controversial y continúa evolucionando. La idea inicial tenía que ver con invertir en la “base de la pirámide”, es decir, crear negocios que beneficien a los más pobres, como por ejemplo, programas de microfinanciamiento en los años 60s y 70s, casi siempre con apoyo gubernamental o filantrópico, que ayudaban a financiar programas de desarrollo a familias pobres.
 
-Ejemplos típicos de esto provienen de los años 60s y 70s, en los que programas de microfinanciamiento, casi siempre con apoyo gubernamental o filantrópico, ayudaban a financiar programas de desarrollo a familias pobres. 
-
-Un caso emblemático fue el Grameen Bank, un banco en Bangladesh que comenzó en 1976 prestando 27 dólares como un proyecto personal de Muhammad Yunus, que rápidamente se convirtió en un programa de microcréditos para pequeños emprendedores demasiado pobres como para conseguir un crédito. Muhammad Yunus recibió el premio Nobel de la Paz en 2006, aunque no sin algunas críticas a su modelo de inclusión financiera.
+Un caso emblemático es el Grameen Bank, un banco en Bangladesh que comenzó como un proyecto personal de Muhammad Yunus en 1976 a través de préstamos de 27 dólares, y que rápidamente se convirtió en un programa de microcréditos para emprendedores que no tenían acceso a ninguna clase de ayuda. Muhammad Yunus recibió el premio Nobel de la Paz en 2006, no sin algunas críticas a su modelo de inclusión financiera.
 
 <div style="text-align:center">
 <figure>
@@ -39,33 +31,27 @@ Un caso emblemático fue el Grameen Bank, un banco en Bangladesh que comenzó en
 </figure>
 </div>
 
-En resumen, la versión clásica de inversión con impacto ha sido relacionada con filantropía, caridad, o creación de negocios y financiamiento en la base de la pirámide social.
-
-Pero actualmente existen otros parámetros que miden el impacto social y ambiental, bajo alguna escala, de cada negocio o compañía, ya sea una pequeña compañía o una gran compañía listada en bolsa.
-
-Ahora se entiende que **una compañía o empresa persigue tener un impacto social o ambiental** si:
+Bajo la definición actual, se entiende que **una compañía o empresa persigue tener un impacto social o ambiental** si:
 
 * Trabaja en mejorar las **necesidades básicas humanas**, o
 * Trabaja en crear y garantizar **acceso justo de oportunidades**, o
 * Trabaja en **superar desafíos medioambientales**.
 
-Como cada uno de los tres puntos anteriores puede ser interpretado de distintas formas, la ONU ha hecho un trabajo súper interesante en describir y apoyar desde septiembre de 2015 una lista de [**17 objetivos ONU de desarrollo sostenible**](https://sustainabledevelopment.un.org/?menu=1300), o **UN-SDG** por sus siglas en inglés. Se trata de objetivos explícitos contenidos en alguno de los tres puntos anteriores y que pretenden ser implementados en el año 2030.
+Para hacer objetivos más explícitos de impacto, la ONU ha hecho un trabajo súper importante de empujar desde septiembre de 2015 una lista de [**17 objetivos ONU de desarrollo sostenible**](https://sustainabledevelopment.un.org/?menu=1300), conocidos como **UN-SDG** por sus siglas en inglés. Se trata de objetivos explícitos que pretenden ser implementados en el año 2030.
 
 ![Lista de 17 objetivos ONU de desarrollo sostenible, o UN-SDG.](/uploads/onugoals.png)_Lista de 17 objetivos ONU de desarrollo sostenible._
 
-Pese a que algunas inversiones persiguen los objetivos SDGs, estos no fueron diseñados para el mundo profesional de gestión de inversiones,
-
-Así nacieron los criterios **ESG,** o **ambientales, sociales y de gobierno corporativo** por sus siglas en inglés, que se crearon para evaluar negocios e inversiones. Los criterios miden:
+Los objetivos SDGs no fueron diseñados para el mundo profesional de gestión de inversiones, a diferencia de los criterios **ESG,** o criterios **ambientales, sociales y de gobierno corporativo** por sus siglas en inglés, que se crearon para evaluar negocios e inversiones, y que miden índices del tipo:
 
 * **Ambiental:** cómo las compañías cuidan el medio ambiente
 * **Social:** cómo las compañías manejan su relación con sus trabajadores, proveedores y comunidad
-* **Gobierno corporativo:** describe lo justo o apropiado sobre la elección de líderes de compañías, pagos a ejecutivos, auditorías y controles internos, además del respeto a los derechos de los accionistas, en especial los minoritarios.
+* **Gobierno corporativo:** describe lo justo o apropiado sobre la elección de líderes de compañías, pagos a ejecutivos, auditorías y controles internos, además del respeto a los derechos de los accionistas.
 
 ![Algunos principios ESG. Fuente: Trade Finance Global](/uploads/esg.png)_Algunos principios ESG. Fuente:_ [_Trade Finance Global_](https://www.tradefinanceglobal.com/posts/sustainable-finance/)
 
-Los criterios ESG son bastante genéricos, ya que están diseñados para medir prácticamente cualquier compañía o negocio, lo que representa una gran fortaleza como criterio para invertir, pero también una gran debilidad: no sirven para medir propósitos específicos de las compañías, como por ejemplo, combatir la desnutrición infantil, promover que niñas accedan a educación secundaria, o defender alguna causa medio ambiental específica.
+Los criterios ESG son genéricos, miden prácticamente cualquier compañía o negocio, lo que representa una gran fortaleza, pero también una gran debilidad: **no sirven para medir propósitos específicos de las compañías.**
 
-Además, su amplitud se ha prestado para que muchos fondos de inversión en todo el mundo utilicen el nombre ESG como una estrategia de marketing —que vende una estrategia de inversión con algún pequeño grado de preocupación ESG—, pero que en la práctica no es una estrategia efectiva o profunda de impacto social o ambiental que, por ejemplo, limite por mandato de gestión no poder comprar ciertos tipos de compañías.
+Además, su amplitud se ha prestado para que muchos fondos de inversión en el mundo utilicen el nombre ESG como una estrategia de marketing, donde se vende una estrategia de inversión con algún pequeño grado de preocupación ESG, pero que no es una estrategia efectiva o profunda de impacto social o ambiental.
 
 Dada esta generalidad de los criterios ESG, una alternativa para filtrar dentro del universo de alternativas de fondos e ETF ESG es añadir otros criterios, como criterios éticos o de impacto ambiental.
 
@@ -116,10 +102,6 @@ Al principio pensaba que la mejor opción era abrir un fondo 100% “verde”, p
 Hoy en día muchos gestores de inversiones se están aprovechando un poco de la ola de interés por inversiones socialmente sustentables, y eso ha hecho que la oferta muchas veces exacerbe la cantidad o calidad de impacto de sus inversiones, ya sea medido con los criterios ESG u otros similares.
 
 Algunos ejemplos son fondos o ETF que, supuestamente teniendo inversiones libres de combustibles fósiles, llegan incluso a un 20% de inversiones en compañías relacionadas a uso o producción de combustibles fósiles.
-
-#### Una declaración de intereses más allá de las carteras de inversión
-
-Este paso se suma al interés que tenemos en Fintual de reducir nuestra huella neta de carbono hasta dejarla en cero en el mediano plazo.
 
 {{< prueba_fintual utmcontent="fintual+verde" >}}
 
