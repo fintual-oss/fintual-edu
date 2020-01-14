@@ -108,10 +108,10 @@ Al principio pensaba que la mejor opción era abrir un fondo 100% “verde”, p
 
 #### Cuidado con inversiones verdes que no lo son
 
-Muchos gestores de inversiones hoy en día se están aprovechando un poco de la ola de interés por inversiones socialmente sustentables, y eso ha hecho que la oferta muchas veces exacerbe la cantidad o calidad de impacto de sus inversiones, ya sea medido con los criterios ESG u otros tipos de criterios.
+Hoy en día muchos gestores de inversiones se están aprovechando un poco de la ola de interés por inversiones socialmente sustentables, y eso ha hecho que la oferta muchas veces exacerbe la cantidad o calidad de impacto de sus inversiones, ya sea medido con los criterios ESG u otros similares.
 
 Algunos ejemplos son fondos o ETF que, supuestamente teniendo inversiones libres de combustibles fósiles, llegan incluso a un 20% de inversiones en compañías relacionadas a uso o producción de combustibles fósiles.
 
-## Una declaración de intereses más allá de las carteras de inversión
+#### Una declaración de intereses más allá de las carteras de inversión
 
-Este paso se suma al interés de Fintual de mediano plazo por reducir nuestra huella neta de carbono, hasta dejarla en en cero. En paralelo, ya comenzamos a plantar nuestro bosque Fintual (agregar link).
+Este paso se suma al interés de Fintual de mediano plazo por reducir nuestra huella neta de carbono, hasta dejarla en en cero. 
