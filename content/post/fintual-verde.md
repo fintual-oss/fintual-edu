@@ -4,7 +4,6 @@ author = "Omar Larré"
 categories = ["noticias"]
 date = 2020-01-13T21:30:13Z
 description = "Qué significan las inversiones verdes, cuáles son sus criterios y cómo funciona la rentabilidad"
-draft = true
 hide = false
 image = "/uploads/planta.jpeg"
 title = "Fintual, verde"
