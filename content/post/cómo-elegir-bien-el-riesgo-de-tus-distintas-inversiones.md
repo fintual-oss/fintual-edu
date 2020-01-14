@@ -10,7 +10,7 @@ title = "Cómo elegir bien el riesgo de tus distintas inversiones"
 url = "como-elegir-riesgo-inversion"
 
 +++
-_"Tengo miedo de perder plata."_
+_"Tengo miedo de perder plata"._
 
 Ésta debe ser una de las cosas que más escuchamos en Fintual.
 
@@ -68,7 +68,7 @@ Abajo hay un gráfico que mide la rentabilidad del IPSA (el índice que replica 
 
 <img src="/uploads/ipsa evolucion.png">
 
-<em> _Muchas gracias a Ricardo Díaz por este gráfico._ </em>
+<em> Muchas gracias a Ricardo Díaz por este gráfico. </em>
 
 </figure>
 
