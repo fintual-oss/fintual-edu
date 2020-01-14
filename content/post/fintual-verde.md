@@ -1,7 +1,7 @@
 +++
 aliases = []
 author = "Omar Larré"
-categories = ["noticias"]
+categories = []
 date = 2020-01-13T21:30:13Z
 description = "Qué significan las inversiones verdes, cuáles son sus criterios y cómo funciona la rentabilidad"
 hide = false
@@ -114,7 +114,7 @@ Algunos ejemplos son fondos o ETF que, supuestamente teniendo inversiones libres
 
 #### Una declaración de intereses más allá de las carteras de inversión
 
-Este paso se suma al interés de Fintual de mediano plazo por reducir nuestra huella neta de carbono, hasta dejarla en en cero. 
+Este paso se suma al interés que tenemos en Fintual de reducir nuestra huella neta de carbono hasta dejarla en cero en el mediano plazo.
 
 {{< prueba_fintual utmcontent="fintual+verde" >}}
 
