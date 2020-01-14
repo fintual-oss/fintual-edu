@@ -47,7 +47,13 @@ Los objetivos SDGs no fueron diseñados para el mundo profesional de gestión de
 * **Social:** cómo las compañías manejan su relación con sus trabajadores, proveedores y comunidad
 * **Gobierno corporativo:** describe lo justo o apropiado sobre la elección de líderes de compañías, pagos a ejecutivos, auditorías y controles internos, además del respeto a los derechos de los accionistas.
 
-![Algunos principios ESG. Fuente: Trade Finance Global](/uploads/esg.png)_Algunos principios ESG. Fuente:_ [_Trade Finance Global_](https://www.tradefinanceglobal.com/posts/sustainable-finance/)
+<div style="text-align:center">
+<figure>
+<img src="/uploads/esg.png">
+<figcaption><i>Algunos principios ESG. Fuente: <a href="https://www.tradefinanceglobal.com/posts/sustainable-finance">Trade Finance Global</a></i></figcaption>
+</figure>
+</div>
+
 
 Los criterios ESG son genéricos, es decir, miden prácticamente cualquier compañía o negocio, lo que representa una gran fortaleza, pero también una gran debilidad: **no sirven para medir propósitos específicos de las compañías.**
 
