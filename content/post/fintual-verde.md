@@ -60,7 +60,7 @@ Los criterios ESG son genéricos, es decir, miden prácticamente cualquier compa
 
 Además, su amplitud se ha prestado para que muchos fondos de inversión en el mundo utilicen el nombre ESG como una estrategia de marketing, donde se vende una estrategia de inversión con algún pequeño grado de preocupación ESG, pero que no es una estrategia efectiva o profunda de impacto social o ambiental.
 
-Dada esta generalidad de los criterios ESG, una alternativa bastante utilizada es añadir otros criterios, como criterios éticos (como por ejemplo, no invertir en industria de armas) o criterios de impacto ambiental.
+Dada esta generalidad de los criterios ESG, una alternativa bastante utilizada es añadir otros criterios, como criterios éticos (por ejemplo, no invertir en industria de armas) o de impacto ambiental.
 
 #### ¿Y la rentabilidad?
 
