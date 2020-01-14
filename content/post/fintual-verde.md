@@ -81,9 +81,9 @@ Una conclusión interesante es que, en el caso de que las inversiones son gestio
 
 Entonces, un buen primer paso inicial para agregar inversiones socialmente responsables es:
 
-1. Encontrar el conjunto de vehículos de inversión ESG de bajo costo que sigan un índice de mercado, tales como ETFs o fondos ESG. Además, exigimos que estén alineados con objetivos específicos, como criterios éticos o de impacto ambiental (no considerar armas, tabaco, etc), y al mismo tiempo considerar aspectos que queremos priorizar Fintual, el impacto ambiental y la reducción del uso de combustibles fósiles.
-2. Continuar con una filosofía de inversiones de seguimiento de índices, como la que tenemos actualmente en Fintual, y acotar las inversiones iniciales de ETFs o fondos ESG a un 20% máximo, de modo que el impacto total de menor rentabilidad a priori sea en valor esperado acotado a un valor tan bajo como 0,012% a 0,024% al año.
-3. Redefinir las carteras de inversión, de modo de generar una cartera optimizada que tenga un mínimo de inversiones de las mencionadas en el punto 1 anterior, pero que el mismo tiempo tenga una rentabilidad esperada al menos igual o mejor a la rentabilidad esperada de la cartera de inversión definida anteriormente.
+1. **Encontrar el conjunto de vehículos de inversión ESG de bajo costo que sigan un índice de mercado**, tales como ETFs o fondos ESG. Además, exigimos que estén alineados con objetivos específicos, como criterios éticos o de impacto ambiental (no considerar armas, tabaco, etc), y al mismo tiempo considerar aspectos que queremos priorizar Fintual, el impacto ambiental y la reducción del uso de combustibles fósiles.
+2. **Continuar con una filosofía de inversiones de seguimiento de índices**, como la que tenemos actualmente en Fintual, y acotar las inversiones iniciales de ETFs o fondos ESG a un 20% máximo, de modo que el impacto total de menor rentabilidad a priori sea en valor esperado acotado a un valor tan bajo como 0,012% a 0,024% al año.
+3. **Redefinir las carteras de inversión**, de modo de generar una cartera optimizada que tenga un mínimo de inversiones de las mencionadas en el punto 1 anterior, pero que el mismo tiempo tenga una rentabilidad esperada al menos igual o mejor a la rentabilidad esperada de la cartera de inversión definida anteriormente.
 
 Con todo, y haciendo estudios a lo largo del año 2019 de los potenciales ETFs a utilizar y cómo utilizarlos, y luego de simular distintas carteras optimizadas con distintas condiciones, llegamos a la conclusión de agregar estos dos ETFs a las carteras:
 
