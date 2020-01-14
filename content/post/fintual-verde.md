@@ -33,10 +33,10 @@ Ejemplos típicos de esto provienen de los años 60s y 70s, en los que programas
 <div style="text-align:center">
 <figure>
 <img src="/uploads/yunus.jpg">
+<figcaption><i>Muhammad Yunus, fundador de Grameen Bank y premio Nobel de la Paz. Fuente: Wikipedia.</i></figcaption>
 </figure>
 </div>
 
-_Muhammad Yunus, fundador de Grameen Bank y premio Nobel de la Paz. Fuente: Wikipedia._
 
 En resumen, la versión clásica de inversión con impacto ha sido relacionada con filantropía, caridad, o creación de negocios y financiamiento en la base de la pirámide social.
 
