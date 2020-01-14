@@ -93,7 +93,12 @@ Por eso en diciembre lanzamos el APV de Fondos Mutuos más barato del mercado, d
 
 Y nos pusimos a competirles de igual a igual a las AFPs en eso también. Reconocemos que el 0,49% (2) no hace una gran diferencia con el 0,50%, aparte de la satisfacción de ganarles en una tabla, pero no es sólo eso. Por ley las AFPs tienen restricciones sobre lo que pueden invertir que Fintual (o cualquier administradora general) no tienen.
 
-![Provida y Planvital te cobran menos que Fintual si eres afiliado de ellos. Si no, te cobran 0,56% y 0,64% respectivamente. Fuente: queafp.cl](/uploads/6.png)_Provida y Planvital te cobran menos que Fintual si eres afiliado de ellos. Si no, te cobran 0,56% y 0,64% respectivamente. Fuente: queafp.cl_
+<div style="text-align:center">
+<figure>
+<img src="/uploads/6.png">
+<figcaption style="display:block;text-align:center;font-size:.8rem"><i>Provida y Planvital te cobran menos que Fintual si eres afiliado de ellos. Si no, te cobran 0,56% y 0,64% respectivamente. Fuente: queafp.cl</i></figcaption>
+</figure>
+</div>
 
 No los quiero marear con más números y tablas.
 
@@ -115,7 +120,6 @@ _¿Qué pasa si los compran?:_ No estamos haciendo Fintual para que nos compre u
 _¿Puedo perder toda mi plata?:_ Tendrían que desaparecer Apple, Google, Amazon y varias otras, el mismo día.
 
 ***
-
 
 {{< newsletter_signup >}}
 
