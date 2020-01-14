@@ -37,7 +37,6 @@ Ejemplos típicos de esto provienen de los años 60s y 70s, en los que programas
 </figure>
 </div>
 
-
 En resumen, la versión clásica de inversión con impacto ha sido relacionada con filantropía, caridad, o creación de negocios y financiamiento en la base de la pirámide social.
 
 Pero actualmente existen otros parámetros que miden el impacto social y ambiental, bajo alguna escala, de cada negocio o compañía, ya sea una pequeña compañía o una gran compañía listada en bolsa.
@@ -62,9 +61,9 @@ Así nacieron los criterios **ESG, ambientales, sociales y de gobierno corporati
 
 ![Algunos principios ESG. Fuente: Trade Finance Global](/uploads/esg.png)_Algunos principios ESG. Fuente:_ [_Trade Finance Global_](https://www.tradefinanceglobal.com/posts/sustainable-finance/)
 
-Los criterios ESG son bastante genéricos, ya que son diseñados para medir prácticamente cualquier compañía o negocio, lo que representa una gran fortaleza como criterio para invertir, pero también una gran debilidad: no sirve para medir propósitos específicos de las compañías, como por ejemplo, combatir la desnutrición infantil, promover que niñas accedan a educación secundaria, o defender alguna causa medio ambiental específica.
+Los criterios ESG son bastante genéricos, ya que están diseñados para medir prácticamente cualquier compañía o negocio, lo que representa una gran fortaleza como criterio para invertir, pero también una gran debilidad: no sirven para medir propósitos específicos de las compañías, como por ejemplo, combatir la desnutrición infantil, promover que niñas accedan a educación secundaria, o defender alguna causa medio ambiental específica.
 
-En definitiva, no mide el impacto de un objetivo determinado de una organización.
+En definitiva, no miden el impacto de un objetivo determinado de una organización.
 
 Además, su amplitud se ha prestado para que muchos fondos de inversión en todo el mundo utilicen el nombre ESG como una estrategia de marketing —que vende una estrategia de inversión con algún pequeño grado de preocupación ESG—, pero que en la práctica no es una estrategia efectiva o profunda de impacto social o ambiental que, por ejemplo, limite por mandato de gestión no poder comprar ciertos tipos de compañías.
 
