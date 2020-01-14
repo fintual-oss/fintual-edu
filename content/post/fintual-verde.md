@@ -64,7 +64,7 @@ En definitiva, no mide el impacto de un objetivo determinado de una organizació
 
 Además, su amplitud se ha prestado para que muchos fondos de inversión en todo el mundo utilicen el nombre ESG como una estrategia de marketing —que vende una estrategia de inversión con algún pequeño grado de preocupación ESG—, pero que en la práctica no es una estrategia efectiva o profunda de impacto social o ambiental que, por ejemplo, limite por mandato de gestión no poder comprar ciertos tipos de compañías.
 
-Dada esta generalidad de los criterios ESG, una alternativa para filtrar dentro del universo de alternativas de fondos e ETFs ESG es añadir otros criterios, como criterios éticos o de impacto ambiental. 
+Dada esta generalidad de los criterios ESG, una alternativa para filtrar dentro del universo de alternativas de fondos e ETF ESG es añadir otros criterios, como criterios éticos o de impacto ambiental. 
 
 > Una alternativa es añadir algún aspecto ético, como no considerar armas, tabaco, alcohol, apuestas o energía nuclear y, al mismo tiempo, **considerar aspectos que en Fintual queremos reforzar, como el impacto ambiental de invertir en empresas que tengan cero o mínimo uso y creación de combustibles fósiles.**
 
@@ -80,11 +80,13 @@ Una conclusión interesante es que, en el caso de que las inversiones son gestio
 
 Entonces, un buen primer paso inicial para agregar inversiones socialmente responsables es:
 
-1. **Encontrar el conjunto de vehículos de inversión ESG de bajo costo que sigan un índice de mercado**, tales como ETFs o fondos ESG. Además, exigimos que estén alineados con objetivos específicos, como criterios éticos o de impacto ambiental (no considerar armas, tabaco, etc), y al mismo tiempo considerar aspectos que queremos priorizar Fintual, el impacto ambiental y la reducción del uso de combustibles fósiles.
+1. **Encontrar el conjunto de vehículos de inversión ESG de bajo costo que sigan un índice de mercado**, tales como ETF o fondos ESG. Además, exigimos que estén alineados con objetivos específicos, como criterios éticos o de impacto ambiental (no considerar armas, tabaco, etc), y al mismo tiempo considerar aspectos que queremos priorizar Fintual, el impacto ambiental y la reducción del uso de combustibles fósiles.
 2. **Continuar con una filosofía de inversiones de seguimiento de índices**, como la que tenemos actualmente en Fintual, y acotar las inversiones iniciales de ETFs o fondos ESG a un 20% máximo, de modo que el impacto total de menor rentabilidad a priori sea en valor esperado acotado a un valor tan bajo como 0,012% a 0,024% al año.
 3. **Redefinir las carteras de inversión**, de modo de generar una cartera optimizada que tenga un mínimo de inversiones de las mencionadas en el punto 1 anterior, **pero que al mismo tiempo tenga una rentabilidad esperada al menos igual o mejor a la rentabilidad esperada de la cartera de inversión definida anteriormente**.
 
-Con todo, haciendo estudios a lo largo del año 2019 de los potenciales ETFs a utilizar y cómo utilizarlos, y luego de simular distintas carteras optimizadas con distintas condiciones, llegamos a la conclusión de agregar estos dos ETFs a las carteras:
+#### Fintual verde
+
+En 2019 estudiamos los potenciales ETF a utilizar y cómo utilizarlos y, luego de simular distintas carteras optimizadas con distintas condiciones, llegamos a la conclusión de agregar estos dos ETF a las carteras:
 
 * **ESGV,** un ETF que replica al índice **FTSE US All Cap Choice Index**, un índice que excluye compañías involucradas en energías no renovables (energía nuclear y combustibles fósiles), productos que generan vicios (entretención de adultos, alcohol, apuestas, tabaco) e industria armamentista.
 * [**ETHO**](https://etfmg.com/funds/etho/)**,** un ETF que replica al índice **Etho Climate Leadership Index**, un índice enfocado en seguir alrededor de 400 acciones de compañías eficientes en términos de emisión de carbono y socialmente responsables. Este ETF también excluye compañías relacionadas a apuestas, industria de combustibles fósiles, tabaco y armas, y luego más de 5000 de las mayores empresas de USA son monitoreadas en base a sus emisiones de carbono. Es el primer ETF en tener un mandato explícito de sustentabilidad, al mismo tiempo de ser libre de combustibles fósiles y de no tener exposición a los típicos sectores tradicionales de energía. Es el ETF con una cartera de [empresas con menor registro de huella total de carbono que existe en USA según Fossil Free Funds.](https://fossilfreefunds.org/funds?div=false&dsc=false&sri=true&srt=c2f5coogutweight&typ=FE)
