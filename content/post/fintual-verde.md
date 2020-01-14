@@ -50,7 +50,7 @@ Los objetivos SDGs no fueron diseñados para el mundo profesional de gestión de
 <div style="text-align:center">
 <figure>
 <img src="/uploads/esg.png">
-<figcaption><i>Algunos principios ESG. Fuente: <a href="https://www.tradefinanceglobal.com/posts/sustainable-finance">Trade Finance Global</a></i></figcaption>
+<figcaption style="display:block;text-align:center;font-size:.8rem"><i>Algunos principios ESG. Fuente: <a target="_blank" href="https://www.tradefinanceglobal.com/posts/sustainable-finance">Trade Finance Global</a></i></figcaption>
 </figure>
 </div>
 
