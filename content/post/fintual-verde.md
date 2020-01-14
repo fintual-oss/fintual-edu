@@ -61,7 +61,7 @@ Una de las primeras preguntas que aparecen es saber si _invertir verde_ tendrá 
 
 Sin embargo, en la práctica, ¿cuánto es la magnitud del costo esperado de _invertir verde_?
 
-Existen varios estudios al respecto. Uno de los más importantes y citados es el [estudio de Geczy, Stambaugh y Levin, de 2005](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=416380), donde se aborda el problema de invertir en fondos socialmente responsables. La conclusión interesante es que, en el caso en que las inversiones son gestionadas con una filosofía de seguimiento de índices de mercado —que es precisamente lo que hacemos en Fintual—, **las restricciones asociadas a inversiones socialmente responsable agregan solamente 1 o 2 puntos bases de costo al mes versus invertir en fondos no-socialmente-responsables**, o sea, 0,01% a 0,02% menos de rentabilidad al mes.
+Existen varios estudios al respecto. Uno de los más importantes y citados es el [estudio de Geczy, Stambaugh y Levin, de 2005](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=416380), donde se aborda el problema de invertir en fondos socialmente responsables. La conclusión interesante es que, en el caso en que las inversiones son gestionadas con una filosofía de seguimiento de índices de mercado —que es precisamente lo que hacemos en Fintual—, **las restricciones asociadas a inversiones socialmente responsable agregan solamente 1 o 2 puntos bases de costo al mes versus invertir en fondos no-socialmente-responsables**, o sea, 0,01% a 0,02% menos de rentabilidad al mes, y se hacen algo más significativas si se imponen restricciones de mínimos muy altos de inversiones socialmente responsables.
 
 #### Fintual verde
 
@@ -86,18 +86,17 @@ Como dato interesante, **a estos ETFs les ha ido igual o mejor que un ETF con ca
 
 #### Por qué no vemos necesario (ni oportuno) hacer otro fondo
 
-Al principio pensábamos que la mejor opción era abrir un fondo 100% “verde”, pero esa opción tenía varios puntos desfavorables que hicieron que se descartara al menos en esta etapa, como por ejemplo:
+La opción de un fondo 100% "verde" tiene varios puntos desfavorables que hicieron que se descartara en esta etapa, como por ejemplo:
 
 * Un nuevo fondo formado 100% de activos SRI podía verse realmente afectado en términos de rentabilidad versus una cartera global diversificada del mismo nivel de riesgo, como explicamos anteriormente.
-* Tener una estrategia pura en términos de inversión sustentable obliga a que cada usuario tenga que evaluar cuál porcentaje de ese tipo de inversiones quiere, dificultando la toma de decisiones que ya es bastante alta a la hora de invertir. Preferimos ser más propositivos.
-* No hay una cantidad tan grande de vehículos de inversión SRI en el mercado como para armar realmente un fondo puro SRI que sea muy diversificada y líquida al mismo tiempo.
-* Dado que el óptimo para un usuario que desee tener inversiones socialmente responsable es probablemente tener un porcentaje de su cartera, y no una combinación de una cartera no-SRI con una SRI, pensamos mejor no tener una estrategia SRI pura.
+* Obliga a que cada usuario tenga que evaluar cuál porcentaje de SRI quiere, dificultando la toma de decisiones, que ya es compleja. Preferimos ser más propositivos.
+* No hay aún una cantidad grande de vehículos de inversión SRI en el mercado como para armar realmente un fondo puro SRI que sea muy diversificada y líquida al mismo tiempo.
 
 #### Cuidado con inversiones verdes que no lo son
 
-Hoy en día muchos gestores de inversiones se están aprovechando un poco de la ola de interés por inversiones socialmente sustentables, y eso ha hecho que la oferta muchas veces exacerbe la cantidad o calidad de impacto de sus inversiones, ya sea medido con los criterios ESG u otros similares.
+Hoy en día muchos gestores de inversiones se están aprovechando un poco de la ola de interés por inversiones socialmente responsables, y eso ha hecho que la oferta muchas veces exacerbe la cantidad o calidad de impacto de sus inversiones.
 
-Algunos ejemplos son fondos o ETF que, supuestamente teniendo inversiones libres de combustibles fósiles, llegan incluso a un 20% de inversiones en compañías relacionadas a uso o producción de combustibles fósiles.
+Algunos ejemplos son fondos o ETF que, supuestamente teniendo inversiones libres de combustibles fósiles, llegan incluso a un 20% de inversiones en compañías relacionadas a uso o producción de combustibles fósiles. Otros ejemplos simplemente exageran la publicidad.
 
 {{< prueba_fintual utmcontent="fintual+verde" >}}
 
