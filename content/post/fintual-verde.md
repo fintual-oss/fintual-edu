@@ -68,7 +68,7 @@ Existen varios estudios al respecto. Uno de los más importantes y citados es el
 Entonces, un buen primer paso inicial para agregar inversiones socialmente responsables es:
 
 1. **Encontrar el conjunto de vehículos de inversión ESG de bajo costo que sigan un índice de mercado**, tales como ETF o fondos ESG, donde además añadimos aspectos éticos, como considerar **instrumentos que no inviertan en industrias de armas, tabaco, alcohol, apuestas o energía nuclear** y, al mismo tiempo, considerar aspectos que buscamos reforzar, como el **impacto ambiental** de invertir en empresas que tengan cero (o mínimo) uso o creación de combustibles fósiles.
-2. **Continuar con una filosofía de inversiones de seguimiento de índices**, como la que tenemos actualmente en Fintual, y acotar las inversiones iniciales de ETFs o fondos ESG a un porcentajes limitados, de modo que el impacto total de menor rentabilidad a priori sea en valor esperado acotado a un valor tan bajo como 0,01% a 0,02% al año.
+2. **Continuar con una filosofía de inversiones de seguimiento de índices**, como la que tenemos actualmente en Fintual, y acotar las inversiones iniciales de ETFs o fondos ESG a un porcentajes limitados, de modo que el impacto total de menor rentabilidad a priori sea en valor esperado acotado a un valor muy bajo.
 3. **Redefinir las carteras de inversión** de modo de generar una cartera optimizada que tenga un mínimo de _inversiones verdes_, **pero que al mismo tiempo tenga una rentabilidad esperada al menos igual o mejor** a la rentabilidad esperada de la cartera de inversión anterior.
 
 #### Resultados
