@@ -56,8 +56,6 @@ Así nacieron los criterios **ESG, ambientales, sociales y de gobierno corporati
 
 ![Algunos principios ESG. Fuente: Trade Finance Global](/uploads/esg.png)_Algunos principios ESG. Fuente:_ [_Trade Finance Global_](https://www.tradefinanceglobal.com/posts/sustainable-finance/)
 
-#### Ojo con los ESG
-
 Los criterios ESG son bastante genéricos, ya que son diseñados para medir prácticamente cualquier compañía o negocio, lo que representa una gran fortaleza como criterio para invertir, pero también una gran debilidad: no sirve para medir propósitos específicos de las compañías, como por ejemplo, combatir la desnutrición infantil, promover que niñas accedan a educación secundaria, o defender alguna causa medio ambiental específica. 
 
 En definitiva, no mide el impacto de un objetivo determinado de una organización. 
@@ -103,16 +101,16 @@ Hace tres años, cuando le pregunté a un amigo (no diré su nombre, pero su sob
 
 Al principio pensaba que la mejor opción era abrir un fondo 100% “verde”, pero esa opción tenía varios puntos desfavorables que hicieron que se descartara, al menos en esta etapa, como por ejemplo:
 
-* Un nuevo fondo formado 100% de activos SRI podía verse realmente afectado en términos de rentabilidad versus una cartera global diversificada del mismo nivel de riesgo, como explicamos anteriormente.
+* Un nuevo fondo formado 100% de activos SRI podía verse realmente afectado en términos de rentabilidad versus una cartera global diversificada del mismo nivel de riesgo, como expliqué anteriormente.
 * Tener una estrategia pura en términos de inversión sustentable obliga a que cada usuario tenga que evaluar cuál porcentaje de ese tipo de inversiones quiere, dificultando la toma de decisiones que ya es bastante alta a la hora de invertir. Preferimos ser más propositivos.
 * No hay una cantidad tan grande de vehículos de inversión SRI en el mercado como para armar realmente un fondo puro SRI que sea muy diversificada y líquida al mismo tiempo.
 * Dado que el óptimo para un usuario que desee tener inversiones socialmente responsable es probablemente tener un porcentaje de su cartera, y no una combinación de una cartera no-SRI con una SRI, pensamos mejor no tener una estrategia SRI pura.
 
-## Cuidado con “inversiones verdes” que no lo son
+#### Cuidado con inversiones verdes que no lo son
 
 Muchos gestores de inversiones hoy en día se están aprovechando un poco de la ola de interés por inversiones socialmente sustentables, y eso ha hecho que la oferta muchas veces exacerbe la cantidad o calidad de impacto de sus inversiones, ya sea medido con los criterios ESG u otros tipos de criterios.
 
-Algunos ejemplos son fondos o ETFs que, supuestamente teniendo inversiones libres de combustibles fósiles, llegan incluso a un 20% de inversiones en compañías relacionadas a uso o producción de combustibles fósiles.
+Algunos ejemplos son fondos o ETF que, supuestamente teniendo inversiones libres de combustibles fósiles, llegan incluso a un 20% de inversiones en compañías relacionadas a uso o producción de combustibles fósiles.
 
 ## Una declaración de intereses más allá de las carteras de inversión
 
