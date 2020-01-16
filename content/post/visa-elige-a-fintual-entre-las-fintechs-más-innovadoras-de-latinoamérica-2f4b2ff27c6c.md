@@ -1,7 +1,7 @@
 ---
 author: Pedro Pineda
 author_thumbnail: "/uploads/pedro_pineda.png"
-title: VISA elige a Fintual entre las fintechs más innovadoras de Latinoamérica
+title: Visa elige a Fintual entre las fintechs más innovadoras de Latinoamérica
 date: 2017-08-12T00:00:00.000+00:00
 image: "/uploads/visa-elige.png"
 categories:
@@ -17,7 +17,7 @@ Por eso y porque postular toma también mucho tiempo valioso, es que elegimos bi
 
 Aparte del producto que hoy tenemos online, hay algo que queremos hacer de acá a dos años: conectar tu tarjeta de crédito -con la que compras- a los fondos en donde tienes invertido tu dinero. Tu tarjeta se paga automáticamente y el resto queda siempre invertido.
 
-Para eso necesitamos conversar con los operadores de tarjetas, así que cuando vimos el concurso de VISA decidimos postular. Era la forma más rápida de tener muchos ejecutivos (jurado e invitados) de la empresa escuchando nuestra idea y nos gustaba la idea de ser seleccionados por una marca como VISA.
+Para eso necesitamos conversar con los operadores de tarjetas, así que cuando vimos el concurso de Visa decidimos postular. Era la forma más rápida de tener muchos ejecutivos (jurado e invitados) de la empresa escuchando nuestra idea y nos gustaba la idea de ser seleccionados por una marca como Visa.
 
 Después de unas semanas, nos llegó un mail diciendo que quedábamos seleccionados entre las 10 mejores de Chile y que podríamos ir a presentar la idea a una semifinal.
 
@@ -39,5 +39,7 @@ Después de unas horas de concurso, perdimos, o no quedamos entre los dos mejore
 
 Así que nada. No hay pa’ qué entrar a criticar el rol de este tipo de concursos, que al final igual tratan de ser un aporte y porque además suena a _pica’o_. Lo intentamos y no nos resultó no más.
 
-Nos gusta saber que **VISA piensa que somos una de las 10 fintech más bacanes de Chile.** Ahora toca volver al trabajo y seguir construyendo un producto para que nuestros clientes piensen lo mismo.
+Nos gusta saber que **Visa piensa que somos una de las 10 fintech más bacanes de Chile.** Ahora toca volver al trabajo y seguir construyendo un producto para que nuestros clientes piensen lo mismo.
+
+
 {{< newsletter_signup >}}
