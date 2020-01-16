@@ -27,19 +27,9 @@ Tal cual. Village Capital, BlackRock, PayPal y CitiBanamex ceden la decisión de
 
 Somos los mejores de Latam porque otros emprendedores fintech que creían o querían serlo, se convencieron y votaron eso. Eso es muy potente.
 
-<div style=“text-align:center”>
-<figure>
-<img src=“/uploads/fintual-elegi8672.jpeg”>
-<figcaption><i>Conversando con Helios de Doopla (Méx), Carolina de Escala Educación (Col) y Juan de Mutuo Financiera (Méx)</i></figcaption>
-</figure>
-</div>
+<div style="text-align:center"> <figure> <img src="/uploads/fintual-elegi8672.jpeg"> <figcaption><i>Conversando con Helios de Doopla (Méx), Carolina de Escala Educación (Col) y Juan de Mutuo Financiera (Méx)</i></figcaption> </figure> </div>
 
-<div style=“text-align:center”>
-<figure>
-<img src=“/uploads/fintual-elegi1804.jpeg”>
-<figcaption><i>Presentando en el Venture Forum el día previo a los resultados.</i></figcaption>
-</figure>
-</div>
+<div style="text-align:center"> <figure> <img src=“/uploads/fintual-elegi1804.jpeg”> <figcaption><i>Presentando en el Venture Forum el día previo a los resultados.</i></figcaption> </figure> </div>
 
 Pienso que este resultado se debe a que vieron mucho potencial en el negocio, a que creyeron que [el equipo](https://fintual.cl/equipo) de Fintual era el indicado y a que el momento en el que estamos es excelente para la irrupción de un robotadvisor financiero como Fintual.
 
