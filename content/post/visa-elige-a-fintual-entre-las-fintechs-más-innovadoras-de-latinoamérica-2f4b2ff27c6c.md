@@ -31,7 +31,7 @@ Los que trabajamos en Fintual somos medio minimalistas y quitados de bulla. Las 
 
 Andrés, nuestro CTO, ya estaba medio arrepentido antes de partir.
 
-<div style="text-align:center"> <figure> <img src="/uploads/visa-elige-a-5629.png"> <figcaption><i>Nuestra conversación por Slack</i></figcaption> </figure> </div>
+<div style="text-align:center"> <figure> <img src="/uploads/visa-elige-a-5629.png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Nuestra conversación por Slack</i></figcaption> </figure> </div>
 
 Al final nos fue mal.
 
