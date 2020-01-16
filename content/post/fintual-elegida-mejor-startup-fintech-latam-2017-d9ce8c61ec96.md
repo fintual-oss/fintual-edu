@@ -19,13 +19,7 @@ Sumen a eso, que el nivel de las otras startups –hablando sólo de números–
 
 Así y todo ganamos. Y con el voto de todas ellas.
 
-<div style=“text-align:center”>
-<figure>
-<img src=“/uploads/fintual-elegi3228.jpeg”>
-<figcaption><i>Fintual en Ciudad de México.</i></figcaption>
-</figure>
-</div>
-
+<div style=“text-align:center”> <figure> <img src="/uploads/fintual-elegi3228.jpeg"> <figcaption><i>Fintual en Ciudad de México.</i></figcaption> </figure> </div>
 
 Y es que el programa –que dura tres meses– elige a las ganadoras como en la película Los Juegos del Hambre: las 11 startups que competimos nos reunimos en Bogotá una vez y en Ciudad de México dos veces, para conocernos y decidir entre nosotras quienes eran la mejor opción de inversión.
 
