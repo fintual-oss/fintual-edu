@@ -31,7 +31,7 @@ Los que trabajamos en Fintual somos medio minimalistas y quitados de bulla. Las 
 
 Andrés, nuestro CTO, ya estaba medio arrepentido antes de partir.
 
-![Nuestra conversación por slack](/uploads/visa-elige-a-5629.png)_Nuestra conversación por slack_
+<div style="text-align:center"> <figure> <img src="/uploads/visa-elige-a-5629.png"> <figcaption><i>Nuestra conversación por Slack</i></figcaption> </figure> </div>
 
 Al final nos fue mal.
 
@@ -40,6 +40,5 @@ Después de unas horas de concurso, perdimos, o no quedamos entre los dos mejore
 Así que nada. No hay pa’ qué entrar a criticar el rol de este tipo de concursos, que al final igual tratan de ser un aporte y porque además suena a _pica’o_. Lo intentamos y no nos resultó no más.
 
 Nos gusta saber que **Visa piensa que somos una de las 10 fintech más bacanes de Chile.** Ahora toca volver al trabajo y seguir construyendo un producto para que nuestros clientes piensen lo mismo.
-
 
 {{< newsletter_signup >}}
