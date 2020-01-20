@@ -6,7 +6,7 @@ image: "/uploads/quino-al-302041-unsplash.jpg"
 title: '"Compra", "vende". Las comisiones cada vez que lo haces.'
 categories:
 - educación financiera
-url: "/ctm-las-comisiones-te-matan/"
+url: comisiones-y-rentabilidad
 aliases:
 - "/ctm-las-comisiones-te-matan-9aa0c2ffbda0"
 author: Pedro Pineda
