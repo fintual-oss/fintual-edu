@@ -19,7 +19,6 @@ Poca gente sabe cuánto paga en comisiones cuando invierte. De hecho, mucha gent
 </figure>
 </div>
 
-
 **Todas las inversiones tienen un costo y todos los fondos mutuos cobran**.
 
 ![](/uploads/sítecobran.png)
@@ -57,7 +56,7 @@ Hice el ejercicio.
 3. Comparé la rentabilidad de un fondo que cobra 3% anual versus un fondo con una comisión de 1,19%
 4. Simulé una inversión inicial de $1.000.000
 
-graf
+![](/uploads/Rentabilidad-vs-comisión.png)
 
 **Si inviertes $1.000.000 en un fondo mutuo que cobra 3% al año y renta 7%, después de 50 años vas a haber ganado $6.106.700.**
 
