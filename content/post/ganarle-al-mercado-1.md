@@ -4,7 +4,6 @@ author = "Andrés Marinkovic"
 categories = ["educación financiera"]
 date = 2020-01-20T12:43:31Z
 description = "En el país falta un empuje desde los inversionistas institucionales de largo plazo, en particular, desde las AFP."
-draft = true
 hide = false
 image = "/uploads/michal-parzuchowski-oT-XbATcoTQ-unsplash.jpg"
 title = "El gran vacío en la inversión en capital de riesgo en Chile"
@@ -31,7 +30,9 @@ Las empresas tecnológicas en especial han cambiado su estrategia de financiamie
 
 En el mundo tecnológico —donde las cosas pasan demasiado rápido— dedicar el tiempo a mejorar tecnologías o productos resulta ser mucho más importante, notándose en detalles tales como que un simple “apretón de manos” luego de un café bien conversado es suficiente para sellar parte del financiamiento de una compañía pequeña, tal como lo pude experimentar en primera persona en Silicon Valley, dando yo esos apretones de mano. Así comenzó también Airbnb el 2009, en ese entonces una compañía novata buscando una ronda semilla de alrededor de US$ 600.000. Nueve años más tarde Airbnb está valorizada en más de US$ 38.000 millones.
 
-¿Significa que los inversionistas comunes y corrientes están perdiendo estas oportunidades de inversión? No necesariamente. Para esto están surgiendo fondos privados y públicos de inversión que hacen el trabajo de participar en estas rondas tempranas de inversión, cada uno dedicados a etapas o sectores particulares de compañías. Sin embargo, y como es común, en Chile estamos llegando algo tarde a esta tendencia: hay poca oferta y los inversionistas locales sofisticados aún prefieren “activos alternativos más tradicionales”, como los inmobiliarios.
+¿Significa que los inversionistas comunes y corrientes están perdiendo estas oportunidades de inversión? No necesariamente. Para esto están surgiendo fondos privados y públicos de inversión que hacen el trabajo de participar en estas rondas tempranas de inversión, cada uno dedicados a etapas o sectores particulares de compañías. 
+
+Sin embargo, y como es común, en Chile estamos llegando algo tarde a esta tendencia: hay poca oferta y los inversionistas locales sofisticados aún prefieren “activos alternativos más tradicionales”, como los inmobiliarios.
 
 Si incluso BlackRock anunció recientemente un nuevo brazo a cargo de capital privado, ¿qué falta en el mercado chileno para atreverse a hacerlo?.
 
@@ -40,5 +41,3 @@ _Columna publicada en_ [_El Mercurio Inversiones_](https://www.elmercurio.com/In
 > #### Fintual te ayuda a invertir de forma simple y diversificada, apostando al crecimiento del mercado y no de acciones específicas.
 >
 > #### Hoy es un buen día para invertir 😉, [prueba sin costo nuestro simulador online](https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=edu+ganarle+al+mercado-304).
-
-<p></p>
