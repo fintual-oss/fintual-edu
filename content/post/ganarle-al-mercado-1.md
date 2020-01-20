@@ -5,7 +5,7 @@ categories = ["educación financiera"]
 date = 2020-01-20T12:43:31Z
 description = "En el país falta un empuje desde los inversionistas institucionales de largo plazo, en particular, desde las AFP."
 hide = false
-image = "/uploads/michal-parzuchowski-oT-XbATcoTQ-unsplash.jpg"
+image = "/uploads/risk.jpeg"
 title = "El gran vacío en la inversión en capital de riesgo en Chile"
 url = "capital-de-riesgo-en-chile"
 
