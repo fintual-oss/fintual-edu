@@ -63,3 +63,13 @@ graf
 A eso se referían con masacre: la comisión se puede comer tu rentabilidad.
 
 En Fintual cobramos 1,19% al año 🙂
+
+{{< prueba_fintual utmcontent="comisiones" >}}
+
+En Fintual cobramos 1,19% al año. No hay costos por retiro. Es simple.
+
+{{< /prueba_fintual >}}
+
+_Infórmese de las características esenciales de la inversión en este fondo mutuo, las que se encuentran contenidas en su reglamento interno y contrato de suscripción de cuotas_.  
+  
+_La rentabilidad o ganancia obtenida en el pasado por este fondo, no garantiza que ella se repita en el futuro. Los valores de las cuotas de los fondos mutuos son variables._
