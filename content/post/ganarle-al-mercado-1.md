@@ -2,16 +2,16 @@
 aliases = []
 author = "Andrés Marinkovic"
 categories = ["educación financiera"]
-date = 2019-12-03T12:43:31Z
-description = "Si subió tu inversión, ¿conviene hacer la ganancia?"
+date = 2020-01-20T12:43:31Z
+description = "En el país falta un empuje desde los inversionistas institucionales de largo plazo, en particular, desde las AFP."
 draft = true
 hide = false
 image = "/uploads/michal-parzuchowski-oT-XbATcoTQ-unsplash.jpg"
-title = "Ganarle al mercado"
-url = "ganarle-al-mercado"
+title = "El gran vacío en la inversión en capital de riesgo en Chile"
+url = "capital-de-riesgo-en-chile"
 
 +++
-_Si subió tu inversión, ¿conviene "hacer la ganancia"?_
+_En el país falta un empuje desde los inversionistas institucionales de largo plazo, en particular, desde las AFP._
 
 **Al fondo Risky Norris de Fintual le fue súper bien con el estallido social.** No es un buen "le fue bien", al menos no los que nos gustan como administradora. Esto, porque la subida de Norris se debió principalmente a la subida del dólar, o más bien al debilitamiento del peso chileno. Es decir, no hubo necesariamente una real creación de valor, y además es una consecuencia de la compleja y preocupante situación que atraviesa el país en las últimas semanas.
 
