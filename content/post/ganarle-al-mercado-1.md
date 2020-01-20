@@ -13,43 +13,19 @@ url = "capital-de-riesgo-en-chile"
 +++
 _En el país falta un empuje desde los inversionistas institucionales de largo plazo, en particular, desde las AFP._
 
-**Al fondo Risky Norris de Fintual le fue súper bien con el estallido social.** No es un buen "le fue bien", al menos no los que nos gustan como administradora. Esto, porque la subida de Norris se debió principalmente a la subida del dólar, o más bien al debilitamiento del peso chileno. Es decir, no hubo necesariamente una real creación de valor, y además es una consecuencia de la compleja y preocupante situación que atraviesa el país en las últimas semanas.
+La primera compañía pública listada bolsa en la historia tendría hoy una capitalización bursátil de aproximadamente US$ 7,9 billones, unas 270 veces el PIB de Chile. Se trata de la Compañía Neerlandesa de las Indias Orientales, una de las firmas más grandes alguna vez registradas, que logró levantar capital proveniente desde la mayor cantidad de inversionistas posibles, garantizando de esa forma financiamiento de su extraordinario crecimiento y al mismo tiempo compartiendo las ganancias entre sus accionistas.
 
-Sin embargo, causó cierto revuelo entre nuestros usuarios. El 12 de noviembre la serie A del fondo Risky Norris tuvo una rentabilidad de 3,25% en un día, algo que no pasó desapercibido.
+##### Y es que las empresas de capital público han marcado la historia del desarrollo corporativo y de mercados de capitales a nivel global. Hasta el día de hoy, las compañías más grandes y famosas del mundo están listadas: Google, Apple, Amazon, y un largo etcétera.
 
-#### Algunos usuarios querían “hacer la ganancia” o anticiparse a una eventual bajada futura y durante esos días nos llegaron varias preguntas del estilo: “¿Cuándo va a bajar?”, “¿es bueno vender ahora?” o “¿creen que va a seguir subiendo?”.
+Pero esto empieza a cambiar. El número de empresas listadas ha caído más de un 50% los últimos 20 años en Estados Unidos, según cálculos de Vanguard.
 
-Estas preguntas me recuerdan a las que me hace un amigo cercano cada cierto tiempo. Como trabajo en finanzas, me pregunta si va a subir o bajar algún activo, ya sea el dólar, el bitcoin o los fondos de Fintual. Y **como no soy una bola de cristal, mi respuesta siempre es la misma: “No sé”.** Y a pesar de que mi respuesta nunca cambia, siempre me vuelve a preguntar, probablemente porque necesita algún grado de certeza en un mundo que es inherentemente incierto.
+Los números muestran que las empresas que han preferido dejar de listarse son aquellas de menor capitalización. Al parecer, para las empresas más pequeñas ha resultado más rápido y menos burocrático encontrar financiamiento en rondas privadas de inversión que salir a buscar capital a la bolsa.
 
-<div style="width:100%;height:0;padding-bottom:66%;position:relative;"><iframe src="https://giphy.com/embed/XPpeJv8nAsHyo" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+> “Creo que la mayoría de los inversores se dirigen en esa dirección. En parte, porque los mercados públicos líquidos se están reduciendo”, dijo Mark Wiseman, director global de gestión activa y a cargo de inversiones alternativas en BlackRock (la administradora de fondos más grande del mundo).
 
-<p></p>
+En México, el símil del sistema de AFP Chileno es el sistema de AFORES, empresas de ahorro previsional privadas que, pese a ser un sistema con menos años (el sistema allá partió recién en 1997), han dado espacio a apuestas en capital privado destinado especialmente a venture capital, es decir, destinado a financiar empresas jóvenes y startups. Este financiamiento ha servido para empujar un naciente ecosistema de startups en México, que a su vez ha ayudado a crear tecnologías, servicios, nuevas empresas y trabajos de alto nivel en la economía mexicana. Aparentemente, y si se contrasta con países con estructuras de mercado financiero similar como México, en Chile falta un empuje desde los inversionistas institucionales de largo plazo, en particular, desde las administradoras de fondos de pensiones.
 
-**Y si bien esa ilusión de certeza puede ser muy tranquilizadora, no es más que una ilusión.** Lo cierto es que el precio de los activos dependen de eventos que pasan en el mundo, y como no podemos predecir estos eventos, no podemos predecir qué va a pasar con esos precios.
-
-Justamente por eso el timing de los mercados es tan difícil, es imposible hacerlo bien sin ser capaz de predecir el futuro: **no puedes saber si estás vendiendo en el momento óptimo si no puedes ver la parte de la curva que viene.** Por esto, pretender poder tomar decisiones racionales sobre cosas que aún no pasan es quizás lo más irracional que podemos hacer.
-
-#### Lo que termina pasando con las personas que cambian mucho sus inversiones es que terminan ganando menos plata que aquellas que las mantienen.
-
-**Pasa algo parecido con cambiarse de pista en un taco.** Justo después de que te cambias, la pista en la que estabas se vuelve rápida, porque muchos vieron que la pista a la que te cambiaste era más rápida e hicieron el mismo ajuste que tú. Los que se quedaron en la pista se ven beneficiados, mientras que los que se van cambiando lo pagan caro, porque absorben la mayoría de las pérdidas (de tiempo en este caso). Tiende a pasar que cuando todos tienen la misma información, como ocurre en los mercados serios como el chileno o el de EEUU, es mejor quedarse en una pista.
-
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/jSRrAzktx5yrC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
-
-<p></p>
-
-Esto lo ha demostrado la experiencia en muchas ocasiones. Por ejemplo, **en EEUU, varios estudios han concluido que los fondos mutuos accionarios de aquel país no le ganan al S&P 500 en forma consistente en la gran mayoría de los casos.** Warren Buffett incluso le dijo a su señora que si él se moría pusiera la mayor cantidad de su fortuna en fondos pasivos que siguen a índices y no intentan ganarle al mercado, porque era lo que mejor funcionaba.
-
-#### Y acá en Chile pasa algo parecido con los fondos de acciones nacionales, y [sólo el 2% de los fondos de acciones chilenas superó al mercado en 10 años](http://www.elmercurio.com/Inversiones/Noticias/Analisis/2019/11/28/El-98-de-los-fondos-de-activos-chilenos-no-supero-al-mercado-en-los-ultimos-10-anos.aspx).
-
-Por todo esto, **la volatilidad que ha venido con la crisis no debería hacer que las personas cambien drásticamente su plan de inversión, especialmente si su horizonte es largo.** Es un ejemplo más de tratar de ganarle al mercado, que como ya vimos es imposible de lograr en forma consistente. Al igual que en el auto, vas a estar reaccionando a cosas que ya pasaron, la pérdida o la subida ya fue. Pensar que eso te va ayudar a anticipar el futuro es un error.
-
-#### Si bien el hecho de que no se le puede ganar al mercado suena un poco deprimente, las buenas noticias es que no es necesario ganarle al mercado. Al mercado le va suficientemente bien.
-
-Desde su creación en 1926, el S&P 500 ha tenido una rentabilidad promedio de aproximadamente 10% anual. Es decir, **un dólar puesto en el S&P se convierten en promedio en más de 17 dólares en 30 años.** Nada mal si uno es capaz de aguantarse y no sacar ese dólar en las muchas caídas y subidas que inevitablemente van a pasar durante esos 30 años.
-
-Cómo se logra la disciplina para aguantarse de comprar o vender depende de cada uno, a mí lo que mejor me ha funcionado es no estar mirando cómo le ha ido a mi inversión a cada rato. Eso y harto yoga.
-
-_Columna publicada en_ [_El Mercurio Inversiones_](http://www.elmercurio.com/Inversiones/Noticias/Columnas/2019/12/02/Ganarle-al-mercado.aspx) _el 02/12/2019._
+_Columna publicada en_ [_El Mercurio Inversiones_](https://www.elmercurio.com/Inversiones/Noticias/Columnas/2020/01/20/El-gran-vacio-en-la-inversion-en-capital-de-riesgo-en-Chile.aspx) _el 20/01/2020._
 
 > #### Fintual te ayuda a invertir de forma simple y diversificada, apostando al crecimiento del mercado y no de acciones específicas.
 >
