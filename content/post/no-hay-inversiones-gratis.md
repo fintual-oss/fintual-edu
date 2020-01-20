@@ -6,7 +6,7 @@ date = 2020-01-20T15:56:15Z
 description = ""
 draft = true
 hide = false
-image = ""
+image = "/uploads/monedas.jpg"
 title = "No hay existen las inversiones gratis"
 url = "ctm-las-comisiones-te-matan"
 
