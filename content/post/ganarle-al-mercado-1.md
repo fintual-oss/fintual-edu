@@ -19,11 +19,13 @@ La primera compañía pública listada bolsa en la historia tendría hoy una cap
 
 Pero esto empieza a cambiar. El número de empresas listadas ha caído más de un 50% los últimos 20 años en Estados Unidos, según cálculos de Vanguard.
 
-Los números muestran que las empresas que han preferido dejar de listarse son aquellas de menor capitalización. Al parecer, para las empresas más pequeñas ha resultado más rápido y menos burocrático encontrar financiamiento en rondas privadas de inversión que salir a buscar capital a la bolsa.
+Los números muestran que las empresas que han preferido dejar de listarse son aquellas de menor capitalización. **Al parecer, para las empresas más pequeñas ha resultado más rápido y menos burocrático encontrar financiamiento en rondas privadas de inversión que salir a buscar capital a la bolsa.**
 
 > “Creo que la mayoría de los inversores se dirigen en esa dirección. En parte, porque los mercados públicos líquidos se están reduciendo”, dijo Mark Wiseman, director global de gestión activa y a cargo de inversiones alternativas en BlackRock (la administradora de fondos más grande del mundo).
 
-En México, el símil del sistema de AFP Chileno es el sistema de AFORES, empresas de ahorro previsional privadas que, pese a ser un sistema con menos años (el sistema allá partió recién en 1997), han dado espacio a apuestas en capital privado destinado especialmente a venture capital, es decir, destinado a financiar empresas jóvenes y startups. Este financiamiento ha servido para empujar un naciente ecosistema de startups en México, que a su vez ha ayudado a crear tecnologías, servicios, nuevas empresas y trabajos de alto nivel en la economía mexicana. Aparentemente, y si se contrasta con países con estructuras de mercado financiero similar como México, en Chile falta un empuje desde los inversionistas institucionales de largo plazo, en particular, desde las administradoras de fondos de pensiones.
+En México, el símil del sistema de AFP Chileno es el sistema de AFORES, empresas de ahorro previsional privadas que, pese a ser un sistema con menos años (el sistema allá partió recién en 1997), han dado espacio a apuestas en capital privado destinado especialmente a venture capital, es decir, destinado a financiar empresas jóvenes y startups. Este financiamiento ha servido para empujar un naciente ecosistema de startups en México, que a su vez ha ayudado a crear tecnologías, servicios, nuevas empresas y trabajos de alto nivel en la economía mexicana. 
+
+##### Aparentemente, y si se contrasta con países con estructuras de mercado financiero similar como México, en Chile falta un empuje desde los inversionistas institucionales de largo plazo, en particular, desde las administradoras de fondos de pensiones.
 
 Las empresas tecnológicas en especial han cambiado su estrategia de financiamiento, prefiriendo mantenerse privadas incluso luego de alcanzar grandes valorizaciones. Compañías como Airbnb han continuado financiándose de forma privada hasta el día de hoy, pudiendo atraer miles de millones de dólares sin necesidad de apertura bursátil.
 
