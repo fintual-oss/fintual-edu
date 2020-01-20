@@ -8,7 +8,7 @@ draft = true
 hide = false
 image = ""
 title = "No hay existen las inversiones gratis"
-url = "ctm-las-comisiones-te-matan"
+url = "las-comisiones-te-matan"
 
 +++
 Poca gente sabe cuánto paga en comisiones cuando invierte. De hecho, mucha gente cree que invertir es gratis.
