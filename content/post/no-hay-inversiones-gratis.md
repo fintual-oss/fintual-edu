@@ -8,12 +8,17 @@ draft = true
 hide = false
 image = ""
 title = "No hay existen las inversiones gratis"
-url = "las-comisiones-te-matan"
+url = "ctm-las-comisiones-te-matan"
 
 +++
 Poca gente sabe cuánto paga en comisiones cuando invierte. De hecho, mucha gente cree que invertir es gratis.
 
-![](/uploads/no.gif)
+<div style="text-align:center">
+<figure>
+<img src="/uploads/no.gif">
+</figure>
+</div>
+
 
 **Todas las inversiones tienen un costo y todos los fondos mutuos cobran**.
 
@@ -33,8 +38,8 @@ Busqué el fondo en la [CMF](http://www.cmfchile.cl/sitio/aplic/serdoc/ver_sgd.p
 
 Eso fue lo que entendió mal.
 
-El punto es que no existen fondos mutuos gratis y lo que te cobran hace toda la diferencia.  
-  
+El punto es que no existen fondos mutuos gratis y lo que te cobran hace toda la diferencia.
+
 **De hecho, los fondos mutuos en Chile son caros.** El fundador de Vanguard [John Bogle](https://www.elmercurio.com/inversiones/noticias/entrevistas/2014/10/16/la-industria-de-fondos-realiza-una-masacre-contra-el-inversionista.aspx), no podía creer cuando un periodista le preguntó su opinión sobre la comisión promedio de 3% que cobran los fondos de acciones chilenas:
 
 > _¿Cuánto? ¿Puede repetir? Son costos extraordinariamente altos, y ciertamente destruyen la capacidad de un inversionista de ser exitoso en su inversión._
@@ -70,6 +75,6 @@ En Fintual cobramos 1,19% al año. No hay costos por retiro. Es simple.
 
 {{< /prueba_fintual >}}
 
-_Infórmese de las características esenciales de la inversión en este fondo mutuo, las que se encuentran contenidas en su reglamento interno y contrato de suscripción de cuotas_.  
-  
+_Infórmese de las características esenciales de la inversión en este fondo mutuo, las que se encuentran contenidas en su reglamento interno y contrato de suscripción de cuotas_.
+
 _La rentabilidad o ganancia obtenida en el pasado por este fondo, no garantiza que ella se repita en el futuro. Los valores de las cuotas de los fondos mutuos son variables._
