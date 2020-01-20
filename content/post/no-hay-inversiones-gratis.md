@@ -24,3 +24,9 @@ Me dieron ganas de escribir este post después de ese mensaje.
 Así que le insistí para que revisara en qué estaba invirtiendo. Un par de días después me mandó esto:
 
 ![](/uploads/ffmm.png)
+
+<div style="text-align:center">
+<figure>
+<img src="/uploads/ffmm.png">
+</figure>
+</div>
