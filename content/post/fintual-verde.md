@@ -97,7 +97,7 @@ Como dato interesante, **a estos ETFs les ha ido igual o mejor que un ETF con ca
 </figure>
 </div>
 
-> **Así, nuestro primer paso apunta a llegar a ser tener el 20% de inversiones SRI en Risky Norris y tener el 10% en Moderate Pitt, a través de los ETF  que acabamos de mencionar.**
+> **Así, nuestro primer paso apunta a llegar a tener el 20% de inversiones SRI en Risky Norris y tener el 10% en Moderate Pitt, a través de los ETF  que acabamos de mencionar.**
 
 #### Por qué no vemos necesario (ni oportuno) hacer otro fondo
 
