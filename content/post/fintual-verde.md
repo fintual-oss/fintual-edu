@@ -6,7 +6,7 @@ date = 2020-01-13T21:30:13Z
 description = "Qué significan las inversiones verdes, cuáles son sus criterios y el mito del impacto negativo en la rentabilidad"
 draft = true
 hide = false
-image = "/uploads/planta.jpeg"
+image = "/uploads/NorrisVerde.jpeg"
 title = "Fintual, verde"
 url = "que-significan-las-inversiones-verdes"
 
@@ -69,7 +69,7 @@ Una de las primeras preguntas que aparecen es saber si _invertir verde_ tendrá 
 
 Pero en la práctica, ¿cuánto es la magnitud del costo esperado de _invertir verde_?
 
-Existen varios estudios al respecto. Uno de los más importantes y citados es el [estudio de Geczy, Stambaugh y Levin, de 2005](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=416380), donde se aborda el problema de invertir en fondos socialmente responsables. 
+Existen varios estudios al respecto. Uno de los más importantes y citados es el [estudio de Geczy, Stambaugh y Levin, de 2005](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=416380), donde se aborda el problema de invertir en fondos socialmente responsables.
 
 La conclusión interesante es que, en el caso en que las inversiones son gestionadas con una filosofía de seguimiento de índices de mercado —que es precisamente lo que hacemos en Fintual—, **las restricciones asociadas a inversiones socialmente responsable agregan solamente 1 o 2 puntos bases de costo al mes versus invertir en fondos no-socialmente-responsables**, o sea, 0,01% a 0,02% menos de rentabilidad al mes, y se hacen algo más significativas si se imponen restricciones de mínimos muy altos de inversiones socialmente responsables.
 
