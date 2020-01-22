@@ -7,7 +7,7 @@ description = "En el país falta un empuje desde los inversionistas instituciona
 hide = false
 image = "/uploads/risk.jpeg"
 title = "El gran vacío en la inversión en capital de riesgo en Chile"
-url = "capital-de-riesgo-en-chile"
+url = "/capital-de-riesgo-en-chile"
 
 +++
 _En el país falta un empuje desde los inversionistas institucionales de largo plazo, en particular, desde las AFP._
