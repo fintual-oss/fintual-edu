@@ -1,7 +1,7 @@
 +++
 aliases = []
 author = "Omar Larré"
-categories = []
+categories = ["noticias"]
 date = 2020-01-22T13:17:00Z
 description = "Qué significan las inversiones verdes, cuáles son sus criterios y el mito del impacto negativo en la rentabilidad"
 hide = false
