@@ -7,7 +7,7 @@ description = "Qué significan las inversiones verdes, cuáles son sus criterios
 hide = false
 image = "/uploads/planta.jpeg"
 title = "Fintual, verde"
-url = "inversiones-verdes-en-fintual"
+url = "/inversiones-verdes-en-fintual"
 
 +++
 Desde los inicios de Fintual quisimos tener alternativas de inversión con impacto ambiental y social, y de esa forma resolver nuestra inquietud de poder alinear intereses sociales con _dónde pongo mi plata, dónde dejo mis ahorros_. A poco andar le pusimos **_inversiones verdes_** a esta idea.
