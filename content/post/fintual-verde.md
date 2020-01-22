@@ -5,7 +5,7 @@ categories = ["noticias"]
 date = 2020-01-13T21:30:13Z
 description = "Qué significan las inversiones verdes, cuáles son sus criterios y el mito del impacto negativo en la rentabilidad"
 hide = false
-image = "/uploads/NorrisVerde.jpeg"
+image = "/uploads/planta.jpeg"
 title = "Fintual, verde"
 url = "que-significan-las-inversiones-verdes"
 
