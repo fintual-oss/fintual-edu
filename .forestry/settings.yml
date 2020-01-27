@@ -1,6 +1,6 @@
 ---
 new_page_extension: md
-auto_deploy: true
+auto_deploy: false
 admin_path: ''
 webhook_url: https://ee7vrb951a.execute-api.us-east-2.amazonaws.com/default/InvalidateCacheForHome_EDU
 sections:
