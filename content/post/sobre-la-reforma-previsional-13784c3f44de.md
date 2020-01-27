@@ -30,5 +30,6 @@ Para tener la cancha pareja se debería dejar competir sobre el 14% completo y n
 Por eso creemos que lo correcto es poder conocer a cada persona y entender su perfil de riesgo y nivel de entendimiento financiero, y sólo después de eso limitar la oferta de opciones previsionales. Para aquellos que sí están calificados y quieran hacerlo, debería existir la libertad de elegir con quién y dónde administrar su 14% completo, creando así un mercado informado y competitivo de verdad.
 
 En Fintual estamos siguiendo el desarrollo de esta reforma para entrar a competir, atentos a cuando se conozcan más detalles de este proyecto. Y esperamos que otras startups fintech de Chile como nosotros lo hagan también.
+
 > Si de verdad te interesa que las fintech como Fintual entren a competir en este mercado, ayúdanos [compartiendo](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//blog.fintual.cl/sobre-la-reforma-previsional-13784c3f44de&title=Qu%C3%A9%20pensamos%20en%20Fintual%20sobre%20el%204%25%20de%20la%20reforma%20previsional&summary=Tras%20el%20anuncio%20del%20proyecto%20de%20reforma%20previsional%20del%20presidente%20Pi%C3%B1era%20varias%20personas%20nos%20han%20preguntado%20si%20Fintual%20va%20a%20participar%20o%20no%20como%20actor.%20La%20respuesta%20corta%20es%20s%C3%AD.&source=fintual_blog) esta columna entre tus contactos de Linkedin.
- {{< newsletter_signup >}}
+> {{< newsletter_signup >}}
