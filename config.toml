@@ -29,6 +29,7 @@ sharingicons = false
     thumbnail = "/uploads/andres.jpg"
     [params.writers."Omar Larré"]
     name = "Omar Larré"
+    description = "Ingeniero Matemático."
     thumbnail = "/uploads/omar.jpg"
     [params.writers."Gonzalo Enei"]
     name = "Gonzalo Enei"

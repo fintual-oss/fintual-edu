@@ -22,17 +22,19 @@
                         {{ $scratch := newScratch }}
                       	{{ $scratch.Set "writer" (index .Site.Params.writers (lower .Params.author) ) }}
                       	{{ $writer := $scratch.Get "writer" }}
-                        <div class="post-top-meta">
-                            <div>
+
+                        <div class="row post-top-meta">
+                            <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0 md-nopad-right">
                                 <img class="author-thumb" src="{{ $writer.thumbnail | urlize | relURL}}" alt="{{ $writer.thumbnail }}">
                             </div>
-                            <div >
+                            <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left md-nopad-left">
                                 <a target="_blank" class="link-dark">{{ $writer.name }}</a><br>
                                 <span class="author-description">
+                                    {{ $writer.description }}<br>
                                     <i class="far fa-star"></i>
-                                    {{ dateFormat "2 Jan, 2006" .PublishDate }}
+                                    {{ dateFormat "Jan 2, 2006" .PublishDate }}
                                     <i class="far fa-clock clock"></i>
-                                    lectura de {{ .ReadingTime }} mins
+                                    lectura de {{ .ReadingTime }} min
                                 </span>
                             </div>
                         </div>
