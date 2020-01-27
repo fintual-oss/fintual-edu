@@ -38,7 +38,6 @@ Si incluso BlackRock anunció recientemente un nuevo brazo a cargo de capital pr
 
 Columna publicada en [El Mercurio Inversiones](https://www.elmercurio.com/Inversiones/Noticias/Columnas/2020/01/20/El-gran-vacio-en-la-inversion-en-capital-de-riesgo-en-Chile.aspx) el 20/01/2020.
 
-###### 
 
 > ###### Fintual te ayuda a invertir de forma simple y diversificada, apostando al crecimiento del mercado y no de acciones específicas.
 >
