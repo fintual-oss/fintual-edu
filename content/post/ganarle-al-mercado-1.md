@@ -10,6 +10,7 @@ title = "El gran vacío en la inversión en capital de riesgo en Chile"
 url = "/capital-de-riesgo-en-chile"
 
 +++
+
 En el país falta un empuje desde los inversionistas institucionales de largo plazo, en particular, desde las AFP.
 
 La primera compañía pública listada bolsa en la historia tendría hoy una capitalización bursátil de aproximadamente US$ 7,9 billones, unas 270 veces el PIB de Chile. Se trata de la Compañía Neerlandesa de las Indias Orientales, una de las firmas más grandes alguna vez registradas, que logró levantar capital proveniente desde la mayor cantidad de inversionistas posibles, garantizando de esa forma financiamiento de su extraordinario crecimiento y al mismo tiempo compartiendo las ganancias entre sus accionistas.
@@ -39,6 +40,7 @@ Si incluso BlackRock anunció recientemente un nuevo brazo a cargo de capital pr
 Columna publicada en [El Mercurio Inversiones](https://www.elmercurio.com/Inversiones/Noticias/Columnas/2020/01/20/El-gran-vacio-en-la-inversion-en-capital-de-riesgo-en-Chile.aspx) el 20/01/2020.
 
 
-> ###### Fintual te ayuda a invertir de forma simple y diversificada, apostando al crecimiento del mercado y no de acciones específicas.
+
+> Fintual te ayuda a invertir de forma simple y diversificada, apostando al crecimiento del mercado y no de acciones específicas.
 >
-> ###### Hoy es un buen día para invertir 😉, [prueba sin costo nuestro simulador online](https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=edu+ganarle+al+mercado-304).
+> Hoy es un buen día para invertir 😉, [prueba sin costo nuestro simulador online](https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=edu+ganarle+al+mercado-304).
