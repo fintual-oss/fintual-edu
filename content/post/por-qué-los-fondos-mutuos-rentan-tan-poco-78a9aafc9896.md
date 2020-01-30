@@ -44,6 +44,4 @@ Y como no recibimos comisiones de terceros y lo que cobramos es fijo e independi
 :)
 {{< newsletter_signup >}}
 
-_Infórmese de las características esenciales de la inversión en este fondo mutuo, las que se encuentran contenidas en su reglamento interno y contrato de suscripción de cuotas_.  
-  
-_La rentabilidad o ganancia obtenida en el pasado por este fondo, no garantiza que ella se repita en el futuro. Los valores de las cuotas de los fondos mutuos son variables._
+_Infórmese de las características esenciales de la inversión en este fondo mutuo, las que se encuentran contenidas en su reglamento interno y contrato de suscripción de cuotas_.
