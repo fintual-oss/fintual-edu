@@ -8,6 +8,7 @@ url: "/por-qué-los-fondos-mutuos-rentan-tan-poco-78a9aafc9896/"
 categories: []
 description: ''
 aliases: []
+hide: false
 
 ---
 ¿Te ha pasado que has invertido en fondos mutuos y no ganas mucho?
@@ -41,4 +42,8 @@ No necesitas saber de finanzas porque nos encargamos de todo dependiendo de lo q
 Y como no recibimos comisiones de terceros y lo que cobramos es fijo e independiente, te hacemos invertir en cosas que realmente te convienen.
 
 :)
- {{< newsletter_signup >}}
+{{< newsletter_signup >}}
+
+_Infórmese de las características esenciales de la inversión en este fondo mutuo, las que se encuentran contenidas en su reglamento interno y contrato de suscripción de cuotas_.  
+  
+_La rentabilidad o ganancia obtenida en el pasado por este fondo, no garantiza que ella se repita en el futuro. Los valores de las cuotas de los fondos mutuos son variables._
