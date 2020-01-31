@@ -62,7 +62,7 @@ sharingicons = false
     thumbnail= "/uploads/paula_droguett.jpeg"
     [params.writers."Matías Hurtado"]
     name= "Matías Hurtado"
-    description = "Ingeniero Civil Industrial con mención TI de la PUC. Joven consultor"
+    description = "Ingeniero Civil Industrial con mención TI de la PUC y joven consultor"
     thumbnail= "/uploads/matias.jpg"
 
 [params.highlight]
