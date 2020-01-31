@@ -43,3 +43,5 @@ Descubrimos que todos los depósitos que llegaron antes del 21 de Julio del 2019
 Como el 2019 terminó con buena rentabilidad puede haber sido una fecha conveniente para hacer este análisis.
 
 Para evitar ese sesgo miramos cada depósito –sin importar la fecha en que llegó– y lo analizamos según su antigüedad en Fintual.
+
+![](/uploads/depositos antiguedad.png)
