@@ -44,7 +44,7 @@ Nos dimos cuenta que todos los depósitos que cumplieron 305 días en Fintual tu
 
 Empezamos el 2019 administrando $4.700 millones de 1.555 clientes y terminamos el año con $32.921 millones (+598%) y 7.007 clientes (+350%).
 
-Hoy administramos más de 50 millones de dólares ($39.600 millones) de 8.198 clientes y crecemos a un ritmo de 20% mensual. _Cómo lo hallai_.
+Hoy administramos más de 50 millones de dólares ($40.600 millones) de 8.300 clientes y crecemos a un ritmo de 20% mensual. _Cómo lo hallai_.
 
 **6. Tenemos inversiones verdes**
 
@@ -52,12 +52,20 @@ Risky Norris y Moderate Pitt ahora tienen ETFs que invierten en empresas con imp
 
 Al incluir estos ETF armamos y optimizamos nuestros portafolios para que **la rentabilidad sea tan buena o mejor que las carteras anteriores**. Más información sobre esto lo puedes leer en [nuestro blog](https://edu.fintual.cl/inversiones-verdes-en-fintual/).
 
-3. **Sorpresa! También tenemos que poner disclaimers en este email**
+**7. Boom! Tenemos que poner disclaimers**
 
-Dado que hablamos de rentabilidad, debemos decirte tres cosas::
+Como hablamos de rentabilidad, tenemos que decirte tres cosas:
 
-\- Las rentabilidades nominales corresponden a la serie A de cada fondo, que al cierre de diciembre/2019 son: Conservative Clooney 1,09% para el mes, -1,75% últimos tres meses, 4,81% último año; Moderate Pitt -1,85% para el mes, 4,21% últimos tres meses, 19,08% último año; Risky Norris -5,29% para el mes, 10,69% últimos tres meses, 37,52% último año.
+*  Las rentabilidades nominales corresponden a la serie A de cada fondo, que al cierre de diciembre/2019 son: Conservative Clooney 1,09% para el mes, -1,75% últimos tres meses, 4,81% último año; Moderate Pitt -1,85% para el mes, 4,21% últimos tres meses, 19,08% último año; Risky Norris -5,29% para el mes, 10,69% últimos tres meses, 37,52% último año.
+*  La rentabilidad o ganancia obtenida en el pasado por este fondo, no garantiza que ella se repita en el futuro. Los valores de las cuotas de los fondos mutuos son variables.
+*  Infórmese de las características esenciales de la inversión en este fondo mutuo, las que se encuentran contenidas en su reglamento interno y contrato de suscripción de cuotas.
 
-\- La rentabilidad o ganancia obtenida en el pasado por este fondo, no garantiza que ella se repita en el futuro. Los valores de las cuotas de los fondos mutuos son variables.
+{{/* ----- HOW TO USE THIS SNIPPET ------ _/}}
+{{/_ -- 1. Choose a UTM tag and write it between the quotes below, ex:  utmcontent="regime-apv-a" _/}}
+{{/_ -- 2. Replace "Más inteligente que dejar su plata en el banco." by any other text you want to appear in the card. MAXIMUM 150 CHARACTERS PLEASE otherwise it breaks the design.  */}}
 
-\- Infórmese de las características esenciales de la inversión en este fondo mutuo, las que se encuentran contenidas en su reglamento interno y contrato de suscripción de cuotas.
+{{< prueba_fintual utmcontent="resumen+2019" >}}
+
+Más inteligente que dejar tu plata en el banco.
+
+{{< /prueba_fintual >}}
