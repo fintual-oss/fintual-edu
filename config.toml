@@ -48,7 +48,7 @@ sharingicons = false
     thumbnail = "/uploads/francisca_feuerhake.jpg"
     [params.writers."Juan Francisco Weitz"]
     name = "Juan Francisco Weitz"
-    description = "Ingeniero Civil Industrial con mención TI de la PUC y ex Google"
+    description = "Ingeniero Civil Industrial con mención TI de la PUC y ex Google. Sospechamos que es un robot"
     thumbnail = "/uploads/jf.png"
     [params.writers."Ignacia Palma"]
     name = "Ignacia Palma"
@@ -62,7 +62,7 @@ sharingicons = false
     thumbnail= "/uploads/paula_droguett.jpeg"
     [params.writers."Matías Hurtado"]
     name= "Matías Hurtado"
-    description = "Ingeniero Civil Industrial con mención TI de la PUC. Joven consultor"
+    description = "Ingeniero Civil Industrial con mención TI de la PUC y joven consultor"
     thumbnail= "/uploads/matias.jpg"
 
 [params.highlight]
