@@ -13,14 +13,15 @@ url = "/cosas-que-pasaron-el-2019"
 +++
 Hicimos un recuento de las cosas que pasaron en 2019. Aquí va lo más importante:
 
-**La performance de Norris, Pitt y Clooney en 2019**
+**1. La performance de Norris, Pitt y Clooney en 2019**
 
 Risky Norris repartió patadas y rentó 37,52% en el año, Moderate Pitt se lució con un elegante 19,08% y Conservative Clooney iba bien pero apagó tele, al final rentó 4,81%.
 
-**Al 31 de diciembre de 2019 teníamos 6.823 clientes**
+**2. Al 31 de diciembre de 2019 teníamos 6.823 clientes**
+
 El 79% terminó el año con ganancias.
 
-**Quiénes ganaron**
+**3. Quiénes ganaron**
 Spoiler alert: los que tuvieron paciencia.
 Las pérdidas a corto plazo son normales. Es tentador sacar tu plata cuando el mercado va mal, sobre todo en las primeras semanas, pero descubrimos que vale la pena esperar un poco.
 
@@ -28,5 +29,5 @@ Las pérdidas a corto plazo son normales. Es tentador sacar tu plata cuando el m
 
 **Nuestra recomendación es que no tomes decisiones basadas en la rentabilidad de menos de 10 semanas.** Si bien es probable que tengas días con pérdidas, es algo esperable y los datos muestran que en el largo plazo las inversiones se recuperan.
 
-**4. Cómo le fue a cada depósito que llegó a Fintual según su antigüedad**  
+**5. Cómo le fue a cada depósito que llegó a Fintual según su antigüedad**  
 Miramos cada depósito —sin importar la fecha en que lo recibimos— y lo analizamos según su antigüedad en Fintual.
