@@ -29,5 +29,17 @@ Las pérdidas a corto plazo son normales. Es tentador sacar tu plata cuando el m
 
 **Nuestra recomendación es que no tomes decisiones basadas en la rentabilidad de menos de 10 semanas.** Si bien es probable que tengas días con pérdidas, es algo esperable y los datos muestran que en el largo plazo las inversiones se recuperan.
 
-**5. Cómo le fue a cada depósito que llegó a Fintual según su antigüedad**  
-Miramos cada depósito —sin importar la fecha en que lo recibimos— y lo analizamos según su antigüedad en Fintual.
+**4. Cómo le fue a cada depósito que llegó a Fintual (hasta fin de año)**
+
+Una explicación para el gráfico anterior es que las inversiones se recuperan en el tiempo, pero otra opción es que los clientes con mala rentabilidad se fueron después unas primeras semanas con pérdidas.
+
+Para eliminar ese efecto miramos cómo le fue a cada depósito que llegó a Fintual –independiente del cliente– y cómo le fue hasta fin de año.
+
+![](/uploads/depositos positivos dias.png)  
+Descubrimos que todos los depósitos que llegaron antes del 21 de Julio del 2019 (o con antigüedad mayor a 23 semanas) terminaron el 2019 con rentabilidad positiva.
+
+**5. Cómo le fue a cada depósito que llegó a Fintual según su antigüedad**
+
+Como el 2019 terminó con buena rentabilidad puede haber sido una fecha conveniente para hacer este análisis.
+
+Para evitar ese sesgo miramos cada depósito –sin importar la fecha en que llegó– y lo analizamos según su antigüedad en Fintual.
