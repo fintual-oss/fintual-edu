@@ -5,7 +5,7 @@ categories = ["noticias"]
 date = 2020-01-30T23:43:52Z
 description = "Por ejemplo, el 79% de nuestros clientes terminó el 2019 con ganancias"
 hide = false
-image = ""
+image = "/uploads/clickbait.jpeg"
 title = "7  cosas que no sabías y que ahora vas a saber (la séptima te sorprenderá!)"
 url = "/cosas-que-pasaron-el-2019"
 
