@@ -36,3 +36,28 @@ Como el 2019 terminó con buena rentabilidad puede haber sido una fecha convenie
 Para evitar ese sesgo miramos cada depósito –sin importar la fecha en que llegó– y lo analizamos según su antigüedad en Fintual.
 
 ![](/uploads/depositos antiguedad.png)
+
+Nos dimos cuenta que todos los depósitos que cumplieron 305 días en Fintual tuvieron rentabilidad positiva. Es decir, sin importar cuándo llegaste a Fintual, si no tocaste tu inversión en 10 meses tuviste ganancias.
+
+  
+**5. Ya no cabemos en el Caupolicán**
+
+Empezamos el 2019 administrando $4.700 millones de 1.555 clientes y terminamos el año con $32.921 millones (+598%) y 7.007 clientes (+350%).
+
+Hoy administramos más de 50 millones de dólares ($39.600 millones) de 8.198 clientes y crecemos a un ritmo de 20% mensual. _Cómo lo hallai_.
+
+**6. Tenemos inversiones verdes**
+
+Risky Norris y Moderate Pitt ahora tienen ETFs que invierten en empresas con impacto social y ambiental positivo.
+
+Al incluir estos ETF armamos y optimizamos nuestros portafolios para que **la rentabilidad sea tan buena o mejor que las carteras anteriores**. Más información sobre esto lo puedes leer en [nuestro blog](https://edu.fintual.cl/inversiones-verdes-en-fintual/).
+
+3. **Sorpresa! También tenemos que poner disclaimers en este email**
+
+Dado que hablamos de rentabilidad, debemos decirte tres cosas::
+
+\- Las rentabilidades nominales corresponden a la serie A de cada fondo, que al cierre de diciembre/2019 son: Conservative Clooney 1,09% para el mes, -1,75% últimos tres meses, 4,81% último año; Moderate Pitt -1,85% para el mes, 4,21% últimos tres meses, 19,08% último año; Risky Norris -5,29% para el mes, 10,69% últimos tres meses, 37,52% último año.
+
+\- La rentabilidad o ganancia obtenida en el pasado por este fondo, no garantiza que ella se repita en el futuro. Los valores de las cuotas de los fondos mutuos son variables.
+
+\- Infórmese de las características esenciales de la inversión en este fondo mutuo, las que se encuentran contenidas en su reglamento interno y contrato de suscripción de cuotas.
