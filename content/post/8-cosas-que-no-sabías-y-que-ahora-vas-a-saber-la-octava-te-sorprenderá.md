@@ -14,7 +14,7 @@ Hicimos un recuento de las cosas que pasaron en 2019. Aquí va lo más important
 
 **1. La performance de Norris, Pitt y Clooney en 2019**
 
-Risky Norris repartió patadas y rentó 37,52% en el año, Moderate Pitt se lució con un elegante 19,08% y Conservative Clooney iba bien pero apagó tele, al final rentó 4,81%.
+Risky Norris [repartió patadas](https://www.youtube.com/watch?v=E6UTz_Doic8) y rentó 37,52% en el año, Moderate Pitt se lució con un elegante 19,08% y Conservative Clooney iba bien pero apagó tele, al final rentó 4,81%.
 
 **2. Al 31 de diciembre de 2019 teníamos 6.823 clientes**
 
@@ -38,7 +38,6 @@ Para evitar ese sesgo miramos cada depósito –sin importar la fecha en que lle
 
 Nos dimos cuenta que todos los depósitos que cumplieron 305 días en Fintual tuvieron rentabilidad positiva. Es decir, sin importar cuándo llegaste a Fintual, si no tocaste tu inversión en 10 meses tuviste ganancias.
 
-  
 **5. Ya no cabemos en el Caupolicán**
 
 Empezamos el 2019 administrando $4.700 millones de 1.555 clientes y terminamos el año con $32.921 millones (+598%) y 7.007 clientes (+350%).
@@ -55,9 +54,9 @@ Al incluir estos ETF armamos y optimizamos nuestros portafolios para que **la re
 
 Como hablamos de rentabilidad, tenemos que decirte tres cosas:
 
-*  Las rentabilidades nominales corresponden a la serie A de cada fondo, que al cierre de diciembre/2019 son: Conservative Clooney 1,09% para el mes, -1,75% últimos tres meses, 4,81% último año; Moderate Pitt -1,85% para el mes, 4,21% últimos tres meses, 19,08% último año; Risky Norris -5,29% para el mes, 10,69% últimos tres meses, 37,52% último año.
-*  La rentabilidad o ganancia obtenida en el pasado por este fondo, no garantiza que ella se repita en el futuro. Los valores de las cuotas de los fondos mutuos son variables.
-*  Infórmese de las características esenciales de la inversión en este fondo mutuo, las que se encuentran contenidas en su reglamento interno y contrato de suscripción de cuotas.
+* Las rentabilidades nominales corresponden a la serie A de cada fondo, que al cierre de diciembre/2019 son: Conservative Clooney 1,09% para el mes, -1,75% últimos tres meses, 4,81% último año; Moderate Pitt -1,85% para el mes, 4,21% últimos tres meses, 19,08% último año; Risky Norris -5,29% para el mes, 10,69% últimos tres meses, 37,52% último año.
+* La rentabilidad o ganancia obtenida en el pasado por este fondo, no garantiza que ella se repita en el futuro. Los valores de las cuotas de los fondos mutuos son variables.
+* Infórmese de las características esenciales de la inversión en este fondo mutuo, las que se encuentran contenidas en su reglamento interno y contrato de suscripción de cuotas.
 
 {{< prueba_fintual utmcontent="resumen+2019" >}}
 
