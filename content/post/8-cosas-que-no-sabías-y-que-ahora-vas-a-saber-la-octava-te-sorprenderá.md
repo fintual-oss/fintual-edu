@@ -25,3 +25,8 @@ Spoiler alert: los que tuvieron paciencia.
 Las pérdidas a corto plazo son normales. Es tentador sacar tu plata cuando el mercado va mal, sobre todo en las primeras semanas, pero descubrimos que vale la pena esperar un poco.
 
 ![](/uploads/positivos antiguedas.png)
+
+**Nuestra recomendación es que no tomes decisiones basadas en la rentabilidad de menos de 10 semanas.** Si bien es probable que tengas días con pérdidas, es algo esperable y los datos muestran que en el largo plazo las inversiones se recuperan.
+
+**4. Cómo le fue a cada depósito que llegó a Fintual según su antigüedad**  
+Miramos cada depósito —sin importar la fecha en que lo recibimos— y lo analizamos según su antigüedad en Fintual.
