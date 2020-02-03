@@ -14,7 +14,7 @@ Es muy común que la gente deje su sueldo en la cuenta corriente. Y a veces toda
 
 Pero esa no es una buena opción: el dinero pierde valor por la inflación (el aumento de los precios de bienes y servicios) con el tiempo.
 
-##### Como norma general, no deberías tener más del 10% de tu sueldo en tu cuenta 👀 
+#### Como norma general, no deberías tener más del 10% de tu sueldo en tu cuenta 👀 
 
 La plata destinada a gastos de corto plazo (6 meses o menos) debería estar en inversiones muy conservadoras.
 
@@ -42,4 +42,4 @@ Ahora, si lo que quieres es invertir con más riesgo y en el largo plazo, tenemo
 
 {{< newsletter_signup >}}
 
-_Infórmese de las características esenciales de la inversión en estos fondos mutuos, los que se encuentran contenidos en sus reglamentos internos y contratos de suscripción de cuotas._
+_Infórmate de las características esenciales de la inversión en estos fondos mutuos. Están en sus reglamentos internos, que puedes ver en la CMF y en_ [_fintual.cl/docs_](http://fintual.cl/docs).
