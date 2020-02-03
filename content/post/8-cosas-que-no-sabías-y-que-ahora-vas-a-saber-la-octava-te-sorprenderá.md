@@ -21,8 +21,8 @@ Risky Norris [repartió patadas](https://www.youtube.com/watch?v=E6UTz_Doic8) y 
 El 79% terminó el año con ganancias.
 
 **3. Quiénes ganaron**
-Spoiler alert: los que tuvieron paciencia.
-Las pérdidas a corto plazo son normales. Es tentador sacar tu plata cuando el mercado va mal, sobre todo en las primeras semanas, pero descubrimos que vale la pena esperar un poco.
+
+Spoiler alert: los que tuvieron paciencia. Las pérdidas a corto plazo son normales. Es tentador sacar tu plata cuando el mercado va mal, sobre todo en las primeras semanas, pero descubrimos que vale la pena esperar un poco.
 
 ![](/uploads/positivos antiguedas.png)
 
