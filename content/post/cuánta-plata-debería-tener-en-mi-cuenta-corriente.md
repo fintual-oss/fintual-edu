@@ -26,7 +26,7 @@ Uno de sus grandes problemas es que **no puedes retirar tu plata antes del venci
 
 En Fintual creamos una alternativa más flexible para ahorros de corto plazo: **Very Conservative Streep.** Le decimos **el colchón 🛏** y es un fondo de renta fija en el que **puedes retirar la plata cuando quieras**.
 
-Streep tiene una comisión más baja que el resto de los fondos (0,58% vs 1,19%).
+Streep tiene una comisión más baja que el resto de los fondos (0,58% vs 1,19% al año).
 
 Lo puedes encontrar cuando eliges una inversión de corto plazo al crearte un **objetivo de menos de seis meses**:
 
