@@ -34,12 +34,8 @@ Lo puedes encontrar cuando eliges una inversión de corto plazo al crearte un **
 
 **Es una muy buena opción para dejar tu plata _por mientras_ si estás ahorrando para algo de 6 meses o menos, y así evitar que pierda todo su valor por la inflación.** Cuando llegue el momento de usarla, pides el retiro y se pagará en tres días hábiles.
 
-> ​[**Quiero un colchón**](https://app.intercom.io/#)​
-
 Ahora, si lo que quieres es invertir con más riesgo y en el largo plazo, tenemos nuestros portafolios de siempre:
 
-> ​[**Quiero un poco más de riesgo**](https://app.intercom.io/#)​
-
-{{< newsletter_signup >}}
+{{< button_link href="[https://fintual.cl/app/goals/new/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=chao+cuenta+corriente-332](https://fintual.cl/app/goals/new/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=chao+cuenta+corriente-332 "https://fintual.cl/app/goals/new/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=chao+cuenta+corriente-332")" text="Empezar" >}}
 
 _Infórmate de las características esenciales de la inversión en estos fondos mutuos. Están en sus reglamentos internos, que puedes ver en la CMF y en_ [_fintual.cl/docs_](http://fintual.cl/docs).
