@@ -48,7 +48,7 @@ Hoy administramos más de 50 millones de dólares ($40.600 millones) de 8.300 cl
 
 Risky Norris y Moderate Pitt ahora tienen ETFs que invierten en empresas con impacto social y ambiental positivo.
 
-Al incluir estos ETF armamos y optimizamos nuestros portafolios para que **la rentabilidad sea tan buena o mejor que las carteras anteriores**. Más información sobre esto lo puedes leer en [nuestro blog](https://edu.fintual.cl/inversiones-verdes-en-fintual/).
+Al incluir estos ETF armamos y optimizamos nuestros portafolios para que **la rentabilidad sea tan buena o mejor que las carteras anteriores**. Más info [acá](https://edu.fintual.cl/inversiones-verdes-en-fintual/).
 
 **7. Boom! Tenemos que poner disclaimers**
 
