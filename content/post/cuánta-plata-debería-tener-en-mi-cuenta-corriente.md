@@ -36,6 +36,10 @@ Lo puedes encontrar cuando eliges una inversión de corto plazo al crearte un **
 
 Ahora, si lo que quieres es invertir con más riesgo y en el largo plazo, tenemos nuestros portafolios de siempre.
 
-{{< button_link href="[https://fintual.cl/app/goals/new/?utm_source=edu&utm_medium=edu&utm_campaign=cuanta_plata_cuenta_corriente&utm_content=chao+cuenta+corriente-133](https://fintual.cl/app/goals/new/?utm_source=edu&utm_medium=edu&utm_campaign=cuanta_plata_cuenta_corriente&utm_content=chao+cuenta+corriente-133 "https://fintual.cl/app/goals/new/?utm_source=edu&utm_medium=edu&utm_campaign=cuanta_plata_cuenta_corriente&utm_content=chao+cuenta+corriente-133")" text="Empezar" >}}
+{{< prueba_fintual utmcontent="chao+cuenta+corriente" >}}
+
+Más inteligente que dejar su plata en el banco.
+
+{{< /prueba_fintual >}}
 
 _Infórmate de las características esenciales de la inversión en estos fondos mutuos. Están en sus reglamentos internos, que puedes ver en la CMF y en_ [_fintual.cl/docs_](http://fintual.cl/docs).
