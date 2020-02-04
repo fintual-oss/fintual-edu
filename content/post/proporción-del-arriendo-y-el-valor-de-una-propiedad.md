@@ -6,7 +6,7 @@ date = 2020-02-04T20:26:05Z
 description = ""
 hide = true
 image = ""
-title = "Proporción del arriendo y el valor de una propiedad"
+title = "Tabla proporción del arriendo y el valor de una propiedad"
 url = "tabla-proporción-arriendo-compra-propiedad"
 
 +++
@@ -14,4 +14,4 @@ Usé Portal Inmobiliario para cómo varia el porcentaje que representa el arrien
 
 ![](/uploads/Screen Shot 2019-11-27 at 20.46.52.png)
 
-_Full disclosure: esto no es ni pretende ser una científica, es sólo una guía al ojímetro._
+_Esto no es ni pretende ser una científica, es sólo una guía al ojímetro._
