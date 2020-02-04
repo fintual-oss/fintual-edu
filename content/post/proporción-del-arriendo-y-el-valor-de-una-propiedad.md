@@ -6,7 +6,7 @@ date = 2020-02-04T20:26:05Z
 description = ""
 hide = true
 image = ""
-title = "Tabla proporción del arriendo y el valor de una propiedad"
+title = "Proporción del arriendo y el valor de una propiedad"
 url = "tabla-proporción-arriendo-compra-propiedad"
 
 +++
