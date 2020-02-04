@@ -4,7 +4,6 @@ author = "Gonzalo Enei"
 categories = ["educación financiera"]
 date = 2020-02-04T20:26:05Z
 description = ""
-draft = true
 hide = true
 image = ""
 title = "Proporción del arriendo y el valor de una propiedad"
