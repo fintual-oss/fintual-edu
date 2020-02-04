@@ -3,7 +3,7 @@ aliases = []
 author = "Gonzalo Enei"
 author_thumbnail = "/uploads/gonzalo-enei.jpg"
 categories = ["educación financiera"]
-date = "2019-08-01T04:00:00+00:00"
+date = 2019-08-01T04:00:00Z
 description = "Esta es una guía personal sobre cómo ordeno mis finanzas sin dedicarle más que un par de horas al mes."
 hide = false
 image = "/uploads/austin-distel-nGc5RT2HmF0-unsplash.jpg"
@@ -161,8 +161,6 @@ Este es mi sistema y, aunque está lejos de ser perfecto, es un buen punto de pa
 Saludos,
 
 Gonzalo
-
-_Full disclosure: gran parte de esto es una aplicación a Chile de los consejos de Ramit Sethi, un gringo capo que habla de finanzas personales._
 
 > ### Si llegaste hasta el final es porque tienes ganas de hacerlo mejor con tus finanzas.
 >
