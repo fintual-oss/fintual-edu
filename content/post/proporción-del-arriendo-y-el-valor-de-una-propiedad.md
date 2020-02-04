@@ -14,4 +14,4 @@ Usé Portal Inmobiliario para cómo varia el porcentaje que representa el arrien
 
 ![](/uploads/Screen Shot 2019-11-27 at 20.46.52.png)
 
-_Esto no es ni pretende ser una científica, es sólo una guía al ojímetro._
+_Esto no es ni pretende ser un cálculo científico, es sólo una guía al ojímetro._
