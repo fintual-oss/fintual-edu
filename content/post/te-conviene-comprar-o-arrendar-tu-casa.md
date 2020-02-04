@@ -5,7 +5,7 @@ categories = ["educación financiera"]
 date = 2020-02-04T20:55:47Z
 description = ""
 hide = true
-image = ""
+image = "/uploads/Blog-1.png"
 title = "¿Te conviene comprar o arrendar tu casa?"
 url = "comprar-vs-arrendar"
 
