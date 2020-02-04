@@ -14,7 +14,7 @@ Es muy común que la gente deje su sueldo en la cuenta corriente. Y a veces toda
 
 Pero esa no es una buena opción: el dinero pierde valor por la inflación (el aumento de los precios de bienes y servicios) con el tiempo.
 
-#### Como norma general, no deberías tener más del 10% de tu sueldo en tu cuenta 👀 
+#### **Como norma general, no deberías tener más del 10% de tu sueldo en tu cuenta 👀** 
 
 La plata destinada a gastos de corto plazo (6 meses o menos) debería estar en inversiones muy conservadoras.
 
@@ -38,7 +38,7 @@ Ahora, si lo que quieres es invertir con más riesgo y en el largo plazo, tenemo
 
 {{< prueba_fintual utmcontent="chao+cuenta+corriente" >}}
 
-Más inteligente que dejar su plata en el banco.
+Más inteligente que dejar tu plata en el banco.
 
 {{< /prueba_fintual >}}
 
