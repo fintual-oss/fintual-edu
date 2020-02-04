@@ -20,10 +20,12 @@ _“Cuando pagai arriendo estai botando la plata a la basura”, “tener casa s
 
 Pero tengo varios argumentos para defender mi postura. Después veremos si aguantan mis cálculos de servilleta.
 
-![](/uploads/source.gif)
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/3o6MbmXIt1qUsNzfu8" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 1. **La plata que usas para el pie, impuestos y mantención de la casa pueden ser invertidos en otra cosa y tener mejor rentabilidad.**
+<p></p>
 2. **Cuando compras para ti no haces un análisis frío y gastas más.** Juegan factores emocionales como “_queda cerca del colegio de los niños_”, “_está al lado de mis papás_ _(...o lejos de la suegra)”_ o “_me encanta el papel mural”,_ por los que tú estás dispuesto a pagar más pero que no necesariamente suben el valor de la propiedad.
+<p></p>
 3. **Es caro elegir la “casa definitiva”.** Demasiadas veces se enfrenta el comprar como algo de _una vez en la vida_, eligiendo una propiedad más grande/cara de la que necesitarás en el tiempo. Arrendar te da flexibilidad para los distintos momentos de vida y económicos por los que pasarás.
 4. **El dueño responde por deterioros grandes, el arrendatario sólo por chicos.** Mientras el dueño debe reparar cualquier falla importante (eléctrica, de gasfitería, estructural, filtración, incendio, inundación, etc.), el arrendatario sólo cubre los deterioros que provengan por su uso normal, como una chapa mala.
 5. **Al comprar quedas poco diversificado y la casa puede convertirse en tu único activo.** ¿Cómo quedas si se quema y no tenías seguro? ¿o si el barrio tiene plusvalía cero o negativa? Los bienes raíces no siempre suben.
