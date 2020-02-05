@@ -1,7 +1,7 @@
 +++
 aliases = []
 author = "Andrés Marinkovic"
-categories = ["educación financiera"]
+categories = ["noticias"]
 date = 2020-01-20T12:43:31Z
 description = "En el país falta un empuje desde los inversionistas institucionales de largo plazo, en particular, desde las AFP."
 hide = false
@@ -10,7 +10,6 @@ title = "El gran vacío en la inversión en capital de riesgo en Chile"
 url = "/capital-de-riesgo-en-chile"
 
 +++
-
 En el país falta un empuje desde los inversionistas institucionales de largo plazo, en particular, desde las AFP.
 
 La primera compañía pública listada bolsa en la historia tendría hoy una capitalización bursátil de aproximadamente US$ 7,9 billones, unas 270 veces el PIB de Chile. Se trata de la Compañía Neerlandesa de las Indias Orientales, una de las firmas más grandes alguna vez registradas, que logró levantar capital proveniente desde la mayor cantidad de inversionistas posibles, garantizando de esa forma financiamiento de su extraordinario crecimiento y al mismo tiempo compartiendo las ganancias entre sus accionistas.
