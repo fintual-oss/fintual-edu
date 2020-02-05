@@ -64,6 +64,7 @@ sharingicons = false
     name= "Matías Hurtado"
     description = "Ingeniero Civil Industrial con mención TI de la PUC y joven consultor"
     thumbnail= "/uploads/matias.jpg"
+    [params.writers."Valentin Jadot"]
     name= "Valentin Jadot"
     description = "El belga de Fintual. Estudió derecho en la Université libre de Bruxelles pero por alguna razón en Fintual es programador"
     thumbnail= "/uploads/valentin.jpg"
