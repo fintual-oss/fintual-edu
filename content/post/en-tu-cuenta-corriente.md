@@ -1,9 +1,9 @@
 +++
 aliases = []
 author = "Francesca Finaldi"
-categories = []
+categories = ["educación financiera"]
 date = 2020-02-05T19:24:43Z
-description = ""
+description = "El dinero pierde valor por la inflación con el tiempo. Mejor inviértela en Fintual 😉"
 hide = true
 image = "/uploads/tacataca.jpeg"
 title = "¿En tu cuenta corriente?"
