@@ -20,7 +20,7 @@ Pienso que para los completos es mejor poner la palta, tomate y mayo DEBAJO de l
 
 Y en los carretes termino discutiendo por pensar distinto sobre algo tan arraigado como el sueño de la casa propia.
 
-_“Cuando pagai arriendo estai botando la plata a la basura”, “tener casa salvó a mi viejo de la quiebra”, “tu casa es lo único que realmente es tuyo y nadie te puede quitar”._
+> _“Cuando pagai arriendo estai botando la plata a la basura”, “tener casa salvó a mi viejo de la quiebra”, “tu casa es lo único que realmente es tuyo y nadie te puede quitar”._
 
 Pero tengo varios argumentos para defender mi postura. Después veremos si aguantan mis cálculos de servilleta.
 <p></p>
