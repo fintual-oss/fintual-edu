@@ -20,9 +20,6 @@ _“Cuando pagai arriendo estai botando la plata a la basura”, “tener casa s
 
 Pero tengo varios argumentos para defender mi postura. Después veremos si aguantan mis cálculos de servilleta.
 
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/3o6MbmXIt1qUsNzfu8" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
-<p></p>
-
 1. **Cuando compras para ti no haces un análisis frío y gastas más.** Juegan factores emocionales como “_queda cerca del colegio de los niños_”, “_está al lado de mis papás_ _(...o lejos de la suegra)”_ o “_me encanta el papel mural”,_ por los que tú estás dispuesto a pagar más pero que no necesariamente suben el valor de la propiedad.
    <p></p>
 2. **Es caro elegir la “casa definitiva”.** Demasiadas veces se enfrenta el comprar como algo de _una vez en la vida_, eligiendo una propiedad más grande/cara de la que necesitarás en el tiempo. Arrendar te da flexibilidad para los distintos momentos de vida y económicos por los que pasarás.
@@ -62,7 +59,9 @@ La plusvalía es lo que sube el precio de una propiedad por sobre la inflación.
 
 **¿Es un 4% o más un valor razonable de plusvalía de largo plazo?**
 
-No lo sabemos bien. La evidencia en países como Estados Unidos [desde 1890 los precios inmobiliarios han crecido apenas un 0.4% sobre la inflación](http://www.marketwatch.com/amp/story/guid/7FEAE566-B963-11E9-96E5-91DC997FBC41). Si usáramos esa plusvalía en nuestro modelo concluimos casi siempre que es mejor arrendar versus comprar. Sin embargo, [en los últimos 50 años en Estados Unidos los precios inmobiliarios han crecido 1.5% real](https://www.cnbc.com/2017/06/23/how-much-housing-prices-have-risen-since-1940.html), y en los últimos años ese crecimiento ha sido mayor (al punto de generar una burbuja inmobiliaria que reventó en Estados Unidos el año 2008).
+No lo sabemos bien. La evidencia en países como Estados Unidos [desde 1890 los precios inmobiliarios han crecido apenas un 0.4% sobre la inflación](http://www.marketwatch.com/amp/story/guid/7FEAE566-B963-11E9-96E5-91DC997FBC41). Si usáramos esa plusvalía en nuestro modelo concluimos casi siempre que es mejor arrendar versus comprar.
+
+Sin embargo, [en los últimos 50 años en Estados Unidos los precios inmobiliarios han crecido 1.5% real](https://www.cnbc.com/2017/06/23/how-much-housing-prices-have-risen-since-1940.html), y en los últimos años ese crecimiento ha sido mayor (al punto de generar una burbuja inmobiliaria que reventó en Estados Unidos el año 2008).
 
 **Entonces, ¿cuál es la respuesta final?**
 
