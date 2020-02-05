@@ -13,9 +13,15 @@ url = "/en-mi-cuenta-corriente"
 +++
 Tener tu plata en la cuenta del banco es como dejar a Gary Medel en la banca.
 
-#### **En Fintual nos preocupamos de invertir tu plata para que tú no tengas que hacerlo.** 
+#### **En Fintual nos preocupamos de tu inversión para que tú no tengas que hacerlo.** 
 
-Estamos regulados por la CMF y ya administramos más de US$ 55 millones.
+Estamos regulados por la CMF y ya administramos más de US$ 55 millones de 8.700 clientes. 
+
+{{< prueba_fintual utmcontent="write_here_the_utm_tag" >}}
+
+Más inteligente que dejar tu plata en el banco.
+
+{{< /prueba_fintual >}}
 
 1. **Hero**: The main section at the top of the page, which includes your header text, subheader text, and captivating imagery.
 2. **Social proof**: Logos of press coverage or your well-known customers.
