@@ -83,3 +83,19 @@ Ahora, si uno cree que la plusvalía va a ser así de buena, es cierto que puede
 **Ojo con la diversificación**
 
 Tener la mayor parte de tu patrimonio en un sólo activo contiene un riesgo: poca diversificación. Tener cientos de departamentos es súper difícil (y hay que ser millonario, no?), sin embargo, gracias a los ETFs invertir en cientos de empresas al mismo tiempo es fácil, por lo que tu rentabilidad no depende del rendimiento individual de ninguna de ellas.
+
+\* Es la rentabilidad real del fondo C del sistema de AFP entre Sep/2002-Sep/2019
+
+\** Para estimar la relación entre arriendo y costo de la propiedad nos basamos en una pequeña muestra de 25 propiedades. Este número puede variar bastante para ciertas propiedades, por eso vale la pena revisar caso a caso.
+
+\*** La planilla con el detalle del cálculo está [acá](https://docs.google.com/spreadsheets/d/1whtgyTRULda8xDXDUNv2n3RoOIdk_fVcePCvypVDYN8/edit#gid=0). Puedes usarla para analizar qué te conviene a ti 😉
+
+{{/* ----- HOW TO USE THIS SNIPPET ------ _/}}
+{{/_ -- 1. Choose a UTM tag and write it between the quotes below, ex:  utmcontent="regime-apv-a" _/}}
+{{/_ -- 2. Replace "Más inteligente que dejar su plata en el banco." by any other text you want to appear in the card. MAXIMUM 150 CHARACTERS PLEASE otherwise it breaks the design.  */}}
+
+{{< prueba_fintual utmcontent="write_here_the_utm_tag" >}}
+
+Más inteligente que dejar su plata en el banco.
+
+{{< /prueba_fintual >}}
