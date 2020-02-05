@@ -13,14 +13,18 @@ url = "/en-mi-cuenta-corriente"
 +++
 Tener tu plata en la cuenta del banco es como dejar a Gary Medel en la banca.
 
+![](/uploads/garymedel.jpg)
+
 #### **En Fintual nos preocupamos de tu inversión para que tú no tengas que hacerlo.** 
 
 Estamos regulados por la CMF y ya administramos más de US$ 55 millones de 8.700 clientes. 
 
-Y en 2019 nuestros fondos rentaron:  
+En 2019 nuestros fondos rentaron:  
 Risky Norris: **37,52%**   
 Moderate Pitt: **19,08%**  
 Conservative Clooney: **4,81%**
+
+Y como no es lo mismo ahorrar para tu jubilación que para una casa nueva, te armamos un portafolio personalizado que se ajusta al propósito de tu inversión.
 
 {{< prueba_fintual utmcontent="write_here_the_utm_tag" >}}
 
@@ -34,16 +38,4 @@ El dinero pierde valor por la inflación (el aumento de los precios de bienes y 
 
 ##### **De hecho, como norma general, no deberías tener más del 10% de tu sueldo en tu cuenta 👀**
 
-La plata destinada a gastos de corto plazo (6 meses o menos) debería estar en inversiones conservadoras.
-
-Para el largo plazo 
-
-En Fintual creamos una alternativa más flexible para ahorros de corto plazo: **Very Conservative Streep.** Le decimos **el colchón 🛏** y es un fondo de renta fija en el que **puedes retirar la plata cuando quieras**.
-
-Streep tiene una comisión más baja que el resto de los fondos (0,58% vs 1,19% al año).
-
-¿Te gustó nuestra campaña de marketing? 
-
-Nos costó menos de 10 lucas, jeje.
-
-Somos una plataforma para invertir y nos enfocamos mucho en la educación financiera, no podemos andar derrochando el presupuesto de marketing en una campaña cara.
+La plata destinada a gastos de corto plazo (6 meses o menos) debería estar en inversiones conservadoras. Para el largo plazo tenemos hay alternativas más riesgosas, pero también rentables.
