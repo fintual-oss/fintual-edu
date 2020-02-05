@@ -17,6 +17,8 @@ Tener tu plata en la cuenta del banco es como dejar a Gary Medel en la banca.
 
 Estamos regulados por la CMF y ya administramos más de US$ 55 millones de 8.700 clientes. 
 
+Nuestros fondos rentaron 37,5% 
+
 {{< prueba_fintual utmcontent="write_here_the_utm_tag" >}}
 
 Más inteligente que dejar tu plata en el banco.
