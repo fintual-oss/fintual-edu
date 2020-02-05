@@ -36,7 +36,7 @@ Y como no es lo mismo ahorrar para tu jubilación que para una casa nueva, te ar
 
 <div style="text-align:center">  
 <figure>  
-<img src=“/uploads/casanueva.png”>  
+<img src="/uploads/casanueva.png">  
 </figure>  
 </div>
 
