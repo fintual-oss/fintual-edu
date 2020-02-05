@@ -20,7 +20,7 @@ _“Cuando pagai arriendo estai botando la plata a la basura”, “tener casa s
 
 Pero tengo varios argumentos para defender mi postura. Después veremos si aguantan mis cálculos de servilleta.
 
-1. **Cuando compras para ti no haces un análisis frío y gastas más.** Juegan factores emocionales como “_queda cerca del colegio de los niños_”, “_está al lado de mis papás_ _(...o lejos de la suegra)”_ o “_me encanta el papel mural”,_ por los que tú estás dispuesto a pagar más pero que no necesariamente suben el valor de la propiedad.
+1. **Cuando compras para ti no haces un análisis frío y gastas más.** Juegan factores emocionales como _"queda cerca del colegio de los niños",_ “_está al lado de mis papás_ _(...o lejos de la suegra)”_ o “_me encanta el papel mural”,_ por los que tú estás dispuesto a pagar más pero que no necesariamente suben el valor de la propiedad.
    <p></p>
 2. **Es caro elegir la “casa definitiva”.** Demasiadas veces se enfrenta el comprar como algo de _una vez en la vida_, eligiendo una propiedad más grande/cara de la que necesitarás en el tiempo. Arrendar te da flexibilidad para los distintos momentos de vida y económicos por los que pasarás.
    <p></p>
