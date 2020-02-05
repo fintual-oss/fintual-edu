@@ -19,6 +19,8 @@ Tener tu plata en la cuenta del banco es como dejar a Gary Medel en la banca. Me
 </figure>  
 </div>
 
+El dinero pierde valor por la inflación (el aumento de los precios de bienes y servicios) con el tiempo. **De hecho, como norma general, no deberías tener más del 10% de tu sueldo en tu cuenta 👀**
+
 #### **En Fintual nos preocupamos de tu inversión para que tú no tengas que hacerlo.**
 
 Estamos regulados por la CMF y ya administramos más de US$55 millones de 8.800 clientes.
@@ -37,14 +39,6 @@ Y como no es lo mismo ahorrar para tu jubilación que para una casa nueva, te ar
 <img src="/uploads/objetivos.png">  
 </figure>  
 </div>
-
-##### **¿Cuál es el problema de tener la plata en el banco?**
-
-El dinero pierde valor por la inflación (el aumento de los precios de bienes y servicios) con el tiempo.
-
-###### **De hecho, como norma general, no deberías tener más del 10% de tu sueldo en tu cuenta 👀**
-
-La plata destinada a gastos de corto plazo (6 meses o menos) debería estar en inversiones conservadoras. Para el largo plazo tenemos alternativas más riesgosas, pero también más rentables.
 
 {{< prueba_fintual utmcontent="en+mi+cuenta+corriente" >}}
 
