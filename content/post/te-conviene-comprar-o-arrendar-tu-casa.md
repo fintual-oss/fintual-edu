@@ -90,12 +90,11 @@ Tener la mayor parte de tu patrimonio en un sólo activo contiene un riesgo: poc
 
 \*** La planilla con el detalle del cálculo está [acá](https://docs.google.com/spreadsheets/d/1whtgyTRULda8xDXDUNv2n3RoOIdk_fVcePCvypVDYN8/edit#gid=0). Puedes usarla para analizar qué te conviene a ti 😉
 
-{{/* ----- HOW TO USE THIS SNIPPET ------ _/}}
-{{/_ -- 1. Choose a UTM tag and write it between the quotes below, ex:  utmcontent="regime-apv-a" _/}}
-{{/_ -- 2. Replace "Más inteligente que dejar su plata en el banco." by any other text you want to appear in the card. MAXIMUM 150 CHARACTERS PLEASE otherwise it breaks the design.  */}}
-
 {{< prueba_fintual utmcontent="[https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=comprar_vs_arrendar&utm_content=-135](https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=comprar_vs_arrendar&utm_content=-135 "https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=comprar_vs_arrendar&utm_content=-135")" >}}
 
 Fintual es una forma fácil y diversificada de invertir, incluso mientras estás ahorrando para un pie 😉
 
 {{< /prueba_fintual >}}
+
+  
+_Infórmese de las características esenciales de la inversión en estos fondos mutuos, los que se encuentran contenidos en sus reglamentos internos y contratos de suscripción de cuotas._
