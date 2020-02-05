@@ -13,6 +13,13 @@ url = "/en-mi-cuenta-corriente"
 +++
 Tener tu plata en la cuenta del banco es como dejar a Gary Medel en la banca.
 
+<div style=“text-align:center”>  
+<figure>  
+<img src=“/uploads/clooney.gif”>  
+<em> Créditos: YouTube</em>  
+</figure>  
+</div>
+
 ![](/uploads/garymedel.jpg)
 
 #### **En Fintual nos preocupamos de tu inversión para que tú no tengas que hacerlo.** 
