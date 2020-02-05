@@ -23,7 +23,7 @@ Risky Norris: **37,52%**
 Moderate Pitt: **19,08%**  
 Conservative Clooney: **4,81%**
 
-Parte de esta buena rentabilidad se debe a que **cobramos 1,19% al año por administrar tu plata y nada más**. No cobramos por retiros y puedes sacar tu inversión cuando quieras. En tres días tu plata está (de nuevo) en tu cuenta bancaria.
+Y parte de esta rentabilidad es porque **cobramos 1,19% al año por administrar tu plata y nada más**. No cobramos por retiros y puedes sacar tu inversión cuando quieras. En tres días tu plata está (de nuevo) en tu cuenta bancaria.
 
 Y como no es lo mismo ahorrar para tu jubilación que para una casa nueva, te armamos un portafolio personalizado que se ajusta al propósito de tu inversión.
 
