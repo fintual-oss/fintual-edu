@@ -7,7 +7,7 @@ description = ""
 hide = true
 image = ""
 title = "Proporción del arriendo y el valor de una propiedad"
-url = "tabla-proporción-arriendo-compra-propiedad"
+url = "tabla-proporcion-arriendo-compra-propiedad"
 
 +++
 Usé Portal Inmobiliario para cómo varia el porcentaje que representa el arriendo cuando una propiedad va subiendo de valor.
