@@ -53,7 +53,7 @@ Para hacerlo simple, vamos a suponer que:
 * **Porcentaje del pie:** 20%
 * **Tasa interés del crédito hipotecario:** 2,50% sobre la UF
 * **Años del crédito hipotecario:** 25
-* **Rentabilidad de otro activo líquido (costo de oportunidad):__ 5,31% sobre la UF*
+* **Rentabilidad de otro activo líquido (costo de oportunidad):** 5,31% sobre la UF*
 * **Plusvalía de la propiedad:** vamos a dejar esta variable abierta a discusión
 * **Arreglos/remodelaciones mayores anuales respecto valor propiedad propia**: vamos a suponer un gasto de 0,50% por año
 * **Valor de arriendo de una propiedad equivalente**: vamos a suponer que es un 0,38% del valor de la propiedad**, es decir, vamos a suponer un arriendo de $380.000 por una propiedad que cuesta actualmente $100.000.000.
