@@ -95,6 +95,3 @@ Tener la mayor parte de tu patrimonio en un sólo activo contiene un riesgo: poc
 Fintual es una forma fácil y diversificada de invertir, incluso mientras estás ahorrando para un pie 😉
 
 {{< /prueba_fintual >}}
-
-  
-_Infórmese de las características esenciales de la inversión en estos fondos mutuos, los que se encuentran contenidos en sus reglamentos internos y contratos de suscripción de cuotas._
