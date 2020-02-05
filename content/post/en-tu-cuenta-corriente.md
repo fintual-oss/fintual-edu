@@ -1,13 +1,13 @@
 +++
 aliases = []
 author = "Francesca Finaldi"
-categories = ["educación financiera"]
-date = 2020-02-04T20:23:33Z
-description = "Tener tu plata en la cuenta del banco es como dejar a Gary Medel en la banca"
-hide = false
+categories = []
+date = 2020-02-05T19:24:43Z
+description = ""
+hide = true
 image = "/uploads/tacataca.jpeg"
 title = "¿En tu cuenta corriente?"
-url = "/en-tu-cuenta-corriente"
+url = "/en-mi-cuenta-corriente"
 
 +++
 Tener tu plata en la cuenta del banco es como dejar a Gary Medel en la banca. Mejor inviértela y mira como crece en el tiempo.
