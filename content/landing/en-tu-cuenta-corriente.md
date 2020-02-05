@@ -12,11 +12,12 @@ url = "/en-mi-cuenta-corriente"
 +++
 Tener tu plata en la cuenta del banco es como dejar a Gary Medel en la banca. Mejor inviértela y mira como crece en el tiempo.
 
-<div style=“text-align:center”>  
-<figure>  
-<img src=“/uploads/garymedel.jpg”>  
-<em> Créditos: YouTube</em>  
-</figure>  
+
+<div style="text-align:center">
+<figure>
+<img src="/uploads/garymedel.jpg">
+<figcaption style="display:block;text-align:center;font-size:.8rem"><i>YouTube</i></figcaption>
+</figure>
 </div>
 
 #### **En Fintual nos preocupamos de tu inversión para que tú no tengas que hacerlo.**
@@ -37,6 +38,14 @@ Y como no es lo mismo ahorrar para tu jubilación que para una casa nueva, te ar
 <img src=“/uploads/casanueva.png”>  
 </figure>  
 </div>
+
+<div style="text-align:center">
+<figure>
+<img src="/uploads/casanueva.png">
+<figcaption style="display:block;text-align:center;font-size:.8rem"><i></i></figcaption>
+</figure>
+</div>
+
 
 ¿Cuál es el problema de tener tu plata en el banco?
 
