@@ -15,13 +15,13 @@ Tener tu plata en la cuenta del banco es como dejar a Gary Medel en la banca. Me
 <div style="text-align:center">  
 <figure>  
 <img src="/uploads/garymedel.jpg">  
-<figcaption style="display:block;text-align:center;font-size:.8rem"><i>Créditos: YouTube</i></figcaption> 
+<figcaption style="display:block;text-align:center;font-size:.8rem"><i>Créditos: YouTube</i></figcaption>
 </figure>  
 </div>
 
 #### **En Fintual nos preocupamos de tu inversión para que tú no tengas que hacerlo.**
 
-Estamos regulados por la CMF y ya administramos más de US$ 55 millones de 8.800 clientes.
+Estamos regulados por la CMF y ya administramos más de US$55 millones de 8.800 clientes.
 
 En 2019 nuestros fondos rentaron:  
 Risky Norris: **37,52%**  
