@@ -10,7 +10,6 @@ title = "¿En tu cuenta corriente?"
 url = "/en-mi-cuenta-corriente"
 
 +++
-
 Tener tu plata en la cuenta del banco es como dejar a Gary Medel en la banca. Mejor inviértela y mira como crece en el tiempo.
 
 <div style="text-align:center">
@@ -20,13 +19,9 @@ Tener tu plata en la cuenta del banco es como dejar a Gary Medel en la banca. Me
 </figure>
 </div>
 
-![](/uploads/garymedel.jpg)
-
-<div style="text-align:center"> <figure> <img src="/uploads/casanueva.png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Créditos: YouTube</i></figcaption> </figure> </div>
-
 #### **En Fintual nos preocupamos de tu inversión para que tú no tengas que hacerlo.**
 
-Estamos regulados por la CMF y ya administramos más de US$ 55 millones de 8.700 clientes.
+Estamos regulados por la CMF y ya administramos más de US$ 55 millones de 8.800 clientes.
 
 En 2019 nuestros fondos rentaron:  
 Risky Norris: **37,52%**  
@@ -36,8 +31,6 @@ Conservative Clooney: **4,81%**
 Parte de esta buena rentabilidad se debe a que cobramos 1,19% al año por administrar tu plata. No cobramos por retiros y puedes sacar tu inversión cuando quieras. En tres días tu plata está (de nuevo) en tu cuenta bancaria.
 
 Y como no es lo mismo ahorrar para tu jubilación que para una casa nueva, te armamos un portafolio personalizado que se ajusta al propósito de tu inversión.
-
-![](/uploads/casanueva.png)
 
 <div style=“text-align:center”>  
 <figure>  
@@ -52,7 +45,7 @@ Y como no es lo mismo ahorrar para tu jubilación que para una casa nueva, te ar
 </figure>
 </div>
 
-¿Cuál es el problema de tener tu plata en el banco?
+###### **¿Cuál es el problema de tener la plata en el banco?**
 
 El dinero pierde valor por la inflación (el aumento de los precios de bienes y servicios) con el tiempo.
 
