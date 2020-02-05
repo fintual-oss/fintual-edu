@@ -46,7 +46,7 @@ El dinero pierde valor por la inflación (el aumento de los precios de bienes y 
 
 La plata destinada a gastos de corto plazo (6 meses o menos) debería estar en inversiones conservadoras. Para el largo plazo tenemos hay alternativas más riesgosas, pero también más rentables.
 
-{{< prueba_fintual utmcontent="write_here_the_utm_tag" >}}
+{{< prueba_fintual utmcontent="en+mi+cuenta+corriente" >}}
 
 Más inteligente que dejar tu plata en el banco.
 
