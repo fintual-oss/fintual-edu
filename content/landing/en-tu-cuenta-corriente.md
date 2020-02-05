@@ -10,8 +10,8 @@ title = "¿En tu cuenta corriente?"
 url = "/en-mi-cuenta-corriente"
 
 +++
-Tener tu plata en la cuenta del banco es como dejar a Gary Medel en la banca. Mejor inviértela y mira como crece en el tiempo.
 
+Tener tu plata en la cuenta del banco es como dejar a Gary Medel en la banca. Mejor inviértela y mira como crece en el tiempo.
 
 <div style="text-align:center">
 <figure>
@@ -19,6 +19,8 @@ Tener tu plata en la cuenta del banco es como dejar a Gary Medel en la banca. Me
 <figcaption style="display:block;text-align:center;font-size:.8rem"><i>YouTube</i></figcaption>
 </figure>
 </div>
+
+![](/uploads/garymedel.jpg)
 
 #### **En Fintual nos preocupamos de tu inversión para que tú no tengas que hacerlo.**
 
@@ -33,6 +35,8 @@ Parte de esta buena rentabilidad se debe a que cobramos 1,19% al año por admini
 
 Y como no es lo mismo ahorrar para tu jubilación que para una casa nueva, te armamos un portafolio personalizado que se ajusta al propósito de tu inversión.
 
+![](/uploads/casanueva.png)
+
 <div style=“text-align:center”>  
 <figure>  
 <img src=“/uploads/casanueva.png”>  
@@ -45,7 +49,6 @@ Y como no es lo mismo ahorrar para tu jubilación que para una casa nueva, te ar
 <figcaption style="display:block;text-align:center;font-size:.8rem"><i></i></figcaption>
 </figure>
 </div>
-
 
 ¿Cuál es el problema de tener tu plata en el banco?
 
