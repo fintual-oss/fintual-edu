@@ -90,4 +90,5 @@ Tener la mayor parte de tu patrimonio en un sólo activo contiene un riesgo: poc
 
 > #### Fintual es una forma fácil y diversificada de invertir, incluso mientras estás ahorrando para un pie 😉
 >
+<p></p>
 > #### [Prueba sin costo nuestro simulador](https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=comprar_vs_arrendar&utm_content=-135) y ve cómo te iría.
