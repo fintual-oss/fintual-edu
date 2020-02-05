@@ -89,6 +89,7 @@ Tener la mayor parte de tu patrimonio en un sólo activo contiene un riesgo: poc
 \*** La planilla con el detalle del cálculo está [acá](https://docs.google.com/spreadsheets/d/1whtgyTRULda8xDXDUNv2n3RoOIdk_fVcePCvypVDYN8/edit#gid=0). Puedes usarla para analizar qué te conviene a ti 😉
 
 > #### Fintual es una forma fácil y diversificada de invertir, incluso mientras estás ahorrando para un pie 😉
->
+
 <p></p>
+
 > #### [Prueba sin costo nuestro simulador](https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=comprar_vs_arrendar&utm_content=-135) y ve cómo te iría.
