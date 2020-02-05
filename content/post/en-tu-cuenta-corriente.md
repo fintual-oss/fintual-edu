@@ -33,7 +33,6 @@ Y como no es lo mismo ahorrar para tu jubilación que para una casa nueva, te ar
 </figure>  
 </div>
 
-
 ##### **¿Cuál es el problema de tener la plata en el banco?**
 
 El dinero pierde valor por la inflación (el aumento de los precios de bienes y servicios) con el tiempo.
