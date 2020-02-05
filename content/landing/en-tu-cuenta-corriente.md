@@ -19,12 +19,7 @@ Tener tu plata en la cuenta del banco es como dejar a Gary Medel en la banca. Me
 </figure>
 </div>
 
-<div style="text-align:center">
-<figure>
-<img src="/uploads/garymedel.jpg">
-<figcaption style="display:block;text-align:center;font-size:.8rem"><i>YouTube</i></figcaption>
-</figure>
-</div>
+<div style="text-align:center"> <figure> <img src="/uploads/garymedel.jpg"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Créditos: YouTube</i></figcaption> </figure> </div>
 
 #### **En Fintual nos preocupamos de tu inversión para que tú no tengas que hacerlo.**
 
@@ -39,17 +34,10 @@ Parte de esta buena rentabilidad se debe a que cobramos 1,19% al año por admini
 
 Y como no es lo mismo ahorrar para tu jubilación que para una casa nueva, te armamos un portafolio personalizado que se ajusta al propósito de tu inversión.
 
-<div style=“text-align:center”>  
+<div style="text-align:center">  
 <figure>  
 <img src=“/uploads/casanueva.png”>  
 </figure>  
-</div>
-
-<div style="text-align:center">
-<figure>
-<img src="/uploads/casanueva.png">
-<figcaption style="display:block;text-align:center;font-size:.8rem"><i></i></figcaption>
-</figure>
 </div>
 
 ###### **¿Cuál es el problema de tener la plata en el banco?**
