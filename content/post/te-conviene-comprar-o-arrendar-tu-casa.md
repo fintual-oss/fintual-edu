@@ -40,6 +40,46 @@ Pero tengo varios argumentos para defender mi postura. Después veremos si aguan
 8. **Es mejorar comprar varias propiedades chicas que una sola grande.** Dada la relación inversamente proporcional entre el valor de una propiedad y su arriendo, en vez de comprar una propiedad de UF 5.000 para vivir, sería mejor arrendar una propiedad equivalente a UF 5.000, pero comprar dos propiedades de UF 2.500 o -mejor aún- tres de UF 1.666 🤘 y arrendarlas.
    <p></p>
 
-   ### **Ahora, vamos a los números!**
+### **Ahora, vamos a los números!**
 
-   _Gracias a Omar Larré, co-fundador de Fintual y profesor de Finanzas Aplicadas de la U. Chile, por este análisis._
+_Gracias a Omar Larré, co-fundador de Fintual y Profesor de Finanzas Aplicadas de la U. Chile, por este análisis._
+
+Para decidir entre “comprar vs arrendar” lo esencial es evaluar todos los costos posibles. Para el arriendo quizás es más fácil evaluar los costos. Pero al comprar es difícil. Varias cosas entran en la juguera al comprar: impuestos, costos de mantención, la rentabilidad que podrías haber tenido si es que hubieses invertido el pie y dividendo en otra cosa, y un largo etcétera.
+
+Para hacerlo simple, vamos a suponer que:
+
+* **Valor de compra propiedad:** supondremos algo no mayor a UF 10.000
+* **Avalúo fiscal:** coincide con el valor de compra
+* **Porcentaje del pie:** 20%
+* **Tasa interés del crédito hipotecario:** 2,50% sobre la UF
+* **Años del crédito hipotecario:** 25
+* **Rentabilidad de otro activo líquido (costo de oportunidad):__ 5,31% sobre la UF*
+* **Plusvalía de la propiedad:** vamos a dejar esta variable abierta a discusión
+* **Arreglos/remodelaciones mayores anuales respecto valor propiedad propia**: vamos a suponer un gasto de 0,50% por año
+* **Valor de arriendo de una propiedad equivalente**: vamos a suponer que es un 0,38% del valor de la propiedad**, es decir, vamos a suponer un arriendo de $380.000 por una propiedad que cuesta actualmente $100.000.000.
+
+**¿Cómo estimar la plusvalía de la propiedad?**
+
+La plusvalía es lo que sube el precio de una propiedad por sobre la inflación. En los últimos años ha rondado en torno al 4% anual, es decir, [hemos visto casi duplicar el valor de las propiedades en UF en 18 años](https://clapesuc.cl/assets/uploads/2018/12/18-12-18-doc-trab-n52-su-precio-inmobiliarios.pdf?fbclid=IwAR2VNOweyedLzUwluXf30kZxHoJqN9r_dOMSu3W3jeQWEbtlzKmEUsCmdD), y en ciertos lugares este crecimiento ha sido tan rápido que se ha [duplicado incluso en 8 años](http://www.latercera.com/pulso/noticia/precios-los-departamentos-anotaron-mayor-alza-desde-mediados-2016/478818/).
+
+**¿Es un 4% o más un valor razonable de plusvalía de largo plazo?**
+
+No lo sabemos bien. La evidencia en países como Estados Unidos [desde 1890 los precios inmobiliarios han crecido apenas un 0.4% sobre la inflación](http://www.marketwatch.com/amp/story/guid/7FEAE566-B963-11E9-96E5-91DC997FBC41). Si usáramos esa plusvalía en nuestro modelo concluimos casi siempre que es mejor arrendar versus comprar. Sin embargo, [en los últimos 50 años en Estados Unidos los precios inmobiliarios han crecido 1.5% real](https://www.cnbc.com/2017/06/23/how-much-housing-prices-have-risen-since-1940.html), y en los últimos años ese crecimiento ha sido mayor (al punto de generar una burbuja inmobiliaria que reventó en Estados Unidos el año 2008).
+
+**Entonces, ¿cuál es la respuesta final?**
+
+Como asumimos que no tenemos poderes mágicos de predicción, y no sabemos cómo se van a comportar los precios inmobiliarios en el futuro, preferimos dividir en tres posibles casos***:
+
+1. Si crees que la propiedad subirá de precio de forma más acotada, es decir, menos de 1% al año, en la mayoría de los casos es preferible arrendar.
+
+   <p></p>
+2. Si crees que va a subir de precio de forma más acelerada, pero no tanto como los últimos años, depende mucho de los gastos de arreglo, el valor de la propiedad, las tasas de interés, el pie inicial, etc.
+
+   <p></p>
+3. Si crees que el precio de la propiedad seguirán subiendo como lo han hecho, o al menos la plusvalía será sobre 3% año por año, en la mayoría de los casos conviene comprar.
+
+Ahora, si uno cree que la plusvalía va a ser así de buena, es cierto que puede convenir comprar varias propiedades chicas en vez de una sola más grande y arrendar la propiedad donde uno vive. Esto es financieramente sostenible en la medida que el costo de los metros cuadrado que compras tenga mejor retorno que el costo de los metros cuadrado que arriendas para vivir.
+
+**Ojo con la diversificación**
+
+Tener la mayor parte de tu patrimonio en un sólo activo contiene un riesgo: poca diversificación. Tener cientos de departamentos es súper difícil (y hay que ser millonario, no?), sin embargo, gracias a los ETFs invertir en cientos de empresas al mismo tiempo es fácil, por lo que tu rentabilidad no depende del rendimiento individual de ninguna de ellas.
