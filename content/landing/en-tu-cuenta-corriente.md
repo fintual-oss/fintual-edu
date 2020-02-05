@@ -23,7 +23,7 @@ Risky Norris: **37,52%**
 Moderate Pitt: **19,08%**  
 Conservative Clooney: **4,81%**
 
-Parte de esta buena rentabilidad se debe a que cobramos 1,19% al año por administrar tu plata. No cobramos por retiros y puedes sacar tu inversión cuando quieras. En tres días tu plata está (de nuevo) en tu cuenta bancaria.
+Parte de esta buena rentabilidad se debe a que **cobramos 1,19% al año por administrar tu plata y nada más**. No cobramos por retiros y puedes sacar tu inversión cuando quieras. En tres días tu plata está (de nuevo) en tu cuenta bancaria.
 
 Y como no es lo mismo ahorrar para tu jubilación que para una casa nueva, te armamos un portafolio personalizado que se ajusta al propósito de tu inversión.
 
@@ -33,11 +33,11 @@ Y como no es lo mismo ahorrar para tu jubilación que para una casa nueva, te ar
 </figure>  
 </div>
 
-###### **¿Cuál es el problema de tener la plata en el banco?**
+##### **¿Cuál es el problema de tener la plata en el banco?**
 
 El dinero pierde valor por la inflación (el aumento de los precios de bienes y servicios) con el tiempo.
 
-##### **De hecho, como norma general, no deberías tener más del 10% de tu sueldo en tu cuenta 👀**
+###### **De hecho, como norma general, no deberías tener más del 10% de tu sueldo en tu cuenta 👀**
 
 La plata destinada a gastos de corto plazo (6 meses o menos) debería estar en inversiones conservadoras. Para el largo plazo tenemos hay alternativas más riesgosas, pero también más rentables.
 
