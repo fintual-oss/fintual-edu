@@ -13,6 +13,15 @@ url = "/en-mi-cuenta-corriente"
 +++
 Tener tu plata en la cuenta del banco es como dejar a Gary Medel en la banca.
 
+En Fintual invertimos tu plata de manera inteligente para que tú no tengas que hacerlo. 
+
+1. **Hero**: The main section at the top of the page, which includes your header text, subheader text, and captivating imagery.
+2. **Social proof**: Logos of press coverage or your well-known customers.
+3. **Call-to-action (CTA):** Your signup button and a concise incentive to click it.
+4. **Features and objections**: Your key value propositions fully written out.
+5. **Repeat your call-to-action**
+6. **Footer**: Miscellaneous links.
+
 Es muy común que la gente deje su sueldo en la cuenta corriente. Y a veces toda su plata.
 
 Pero esa no es una buena opción: el dinero pierde valor por la inflación (el aumento de los precios de bienes y servicios) con el tiempo.
