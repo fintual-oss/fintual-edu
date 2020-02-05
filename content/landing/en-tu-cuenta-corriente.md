@@ -17,7 +17,10 @@ Tener tu plata en la cuenta del banco es como dejar a Gary Medel en la banca.
 
 Estamos regulados por la CMF y ya administramos más de US$ 55 millones de 8.700 clientes. 
 
-Nuestros fondos rentaron 37,5% 
+Y en 2019 nuestros fondos rentaron:  
+Risky Norris: **37,52%**   
+Moderate Pitt: **19,08%**  
+Conservative Clooney: **4,81%**
 
 {{< prueba_fintual utmcontent="write_here_the_utm_tag" >}}
 
