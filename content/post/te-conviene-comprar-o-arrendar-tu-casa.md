@@ -51,7 +51,7 @@ Para hacerlo simple, vamos a suponer que:
 * **Porcentaje del pie:** 20%
 * **Tasa interés del crédito hipotecario:** 2,50% sobre la UF
 * **Años del crédito hipotecario:** 25
-* **Rentabilidad de otro activo líquido (costo de oportunidad):__ 5,31% sobre la UF*
+* *_Rentabilidad de otro activo líquido (costo de oportunidad):__ 5,31% sobre la UF_
 * **Plusvalía de la propiedad:** vamos a dejar esta variable abierta a discusión
 * **Arreglos/remodelaciones mayores anuales respecto valor propiedad propia**: vamos a suponer un gasto de 0,50% por año
 * **Valor de arriendo de una propiedad equivalente**: vamos a suponer que es un 0,38% del valor de la propiedad**, es decir, vamos a suponer un arriendo de $380.000 por una propiedad que cuesta actualmente $100.000.000.
@@ -87,3 +87,9 @@ Tener la mayor parte de tu patrimonio en un sólo activo contiene un riesgo: poc
 \** Para estimar la relación entre arriendo y costo de la propiedad nos basamos en una pequeña muestra de 25 propiedades. Este número puede variar bastante para ciertas propiedades, por eso vale la pena revisar caso a caso.
 
 \*** La planilla con el detalle del cálculo está [acá](https://docs.google.com/spreadsheets/d/1whtgyTRULda8xDXDUNv2n3RoOIdk_fVcePCvypVDYN8/edit#gid=0). Puedes usarla para analizar qué te conviene a ti 😉
+
+{{< prueba_fintual utmcontent="[https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=comprar_vs_arrendar&utm_content=-135](https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=comprar_vs_arrendar&utm_content=-135 "https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=comprar_vs_arrendar&utm_content=-135")" >}}
+
+**Fintual es una forma fácil y diversificada de invertir, incluso mientras estás ahorrando para un pie 😉**
+
+{{< /prueba_fintual >}}
