@@ -35,7 +35,7 @@ Pero tengo varios argumentos para defender mi postura. Después veremos si aguan
    <p></p>
 5. **Las propiedades son menos líquidas que otras inversiones.** Vender una propiedad puede ser difícil, lento y caro, poniéndote en un serio problema si necesitas la plata.
    <p></p>
-6. **Mientras más cara una propiedad es proporcionalmente más barato arrendarla,** por lo que arrendar te permite vivir en lugares mejores por menos considerando el valor del m2. _(Hice un_ [_análisis_]() _de esto considerando propiedades publicadas en Portal Inmobiliario. No es científico, pero le creo)._
+6. **Mientras más cara una propiedad es proporcionalmente más barato arrendarla,** por lo que arrendar te permite vivir en lugares mejores por menos considerando el valor del m2. _(Hice un_ [_análisis_](https://edu.fintual.cl/tabla-proporci%C3%B3n-arriendo-compra-propiedad/) _de esto considerando propiedades publicadas en Portal Inmobiliario. No es científico, pero le creo)._
 
    <p></p>
 7. **Es mejorar comprar varias propiedades chicas que una sola grande.** Dada la relación inversamente proporcional entre el valor de una propiedad y su arriendo, en vez de comprar una propiedad de UF 5.000 para vivir, sería mejor arrendar una propiedad equivalente a UF 5.000, pero comprar dos propiedades de UF 2.500 o -mejor aún- tres de UF 1.666 🤘 y arrendarlas.
