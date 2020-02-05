@@ -47,6 +47,6 @@ El dinero pierde valor por la inflación (el aumento de los precios de bienes y 
 
 La plata destinada a gastos de corto plazo (6 meses o menos) debería estar en inversiones conservadoras. Para el largo plazo tenemos hay alternativas más riesgosas, pero también rentables.
 
-* Las rentabilidades nominales corresponden a la serie A de cada fondo, que al cierre de diciembre/2019 son: Conservative Clooney 1,09% para el mes, -1,75% últimos tres meses, 4,81% último año; Moderate Pitt -1,85% para el mes, 4,21% últimos tres meses, 19,08% último año; Risky Norris -5,29% para el mes, 10,69% últimos tres meses, 37,52% último año.
-* La rentabilidad o ganancia obtenida en el pasado por este fondo, no garantiza que ella se repita en el futuro. Los valores de las cuotas de los fondos mutuos son variables.
-* Infórmese de las características esenciales de la inversión en este fondo mutuo, las que se encuentran contenidas en su reglamento interno y contrato de suscripción de cuotas.
+* _Las rentabilidades nominales corresponden a la serie A de cada fondo, que al cierre de diciembre/2019 son: Risky Norris -5,29% para el mes, 10,69% últimos tres meses, 37,52% último año; Moderate Pitt -1,85% para el mes, 4,21% últimos tres meses, 19,08% último año; Conservative Clooney 1,09% para el mes, -1,75% últimos tres meses, 4,81% último año._
+* _La rentabilidad o ganancia obtenida en el pasado por estos fondos no garantiza que se repita en el futuro. Los valores de las cuotas de los fondos mutuos son variables._
+* _Infórmate de las características esenciales de la inversión en estos fondos mutuos. Están en sus reglamentos internos, que puedes ver en la CMF y en_ [_fintual.cl/docs_](http://fintual.cl/docs).
