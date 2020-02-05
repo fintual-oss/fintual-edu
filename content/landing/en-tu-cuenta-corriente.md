@@ -33,6 +33,13 @@ Parte de esta buena rentabilidad se debe a que cobramos 1,19% al año por admini
 
 Y como no es lo mismo ahorrar para tu jubilación que para una casa nueva, te armamos un portafolio personalizado que se ajusta al propósito de tu inversión.
 
+<div style=“text-align:center”>  
+<figure>  
+<img src=“/uploads/casanueva.png”>  
+</figure>  
+</div>
+
+
 {{< prueba_fintual utmcontent="write_here_the_utm_tag" >}}
 
 Más inteligente que dejar tu plata en el banco.
