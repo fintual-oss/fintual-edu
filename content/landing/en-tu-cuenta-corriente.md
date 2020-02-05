@@ -20,14 +20,16 @@ Tener tu plata en la cuenta del banco es como dejar a Gary Medel en la banca.
 </figure>  
 </div>
 
-#### **En Fintual nos preocupamos de tu inversión para que tú no tengas que hacerlo.** 
+#### **En Fintual nos preocupamos de tu inversión para que tú no tengas que hacerlo.**
 
-Estamos regulados por la CMF y ya administramos más de US$ 55 millones de 8.700 clientes. 
+Estamos regulados por la CMF y ya administramos más de US$ 55 millones de 8.700 clientes.
 
 En 2019 nuestros fondos rentaron:  
-Risky Norris: **37,52%**   
+Risky Norris: **37,52%**  
 Moderate Pitt: **19,08%**  
 Conservative Clooney: **4,81%**
+
+Parte de esta buena rentabilidad se debe a que cobramos 1,19% al año por administrar tu plata. No cobramos por sacar tu plata y puedes hacerlo cuando quieras. En tres día está (de nuevo) en tu cuenta bancaria. 
 
 Y como no es lo mismo ahorrar para tu jubilación que para una casa nueva, te armamos un portafolio personalizado que se ajusta al propósito de tu inversión.
 
@@ -44,3 +46,7 @@ El dinero pierde valor por la inflación (el aumento de los precios de bienes y 
 ##### **De hecho, como norma general, no deberías tener más del 10% de tu sueldo en tu cuenta 👀**
 
 La plata destinada a gastos de corto plazo (6 meses o menos) debería estar en inversiones conservadoras. Para el largo plazo tenemos hay alternativas más riesgosas, pero también rentables.
+
+* Las rentabilidades nominales corresponden a la serie A de cada fondo, que al cierre de diciembre/2019 son: Conservative Clooney 1,09% para el mes, -1,75% últimos tres meses, 4,81% último año; Moderate Pitt -1,85% para el mes, 4,21% últimos tres meses, 19,08% último año; Risky Norris -5,29% para el mes, 10,69% últimos tres meses, 37,52% último año.
+* La rentabilidad o ganancia obtenida en el pasado por este fondo, no garantiza que ella se repita en el futuro. Los valores de las cuotas de los fondos mutuos son variables.
+* Infórmese de las características esenciales de la inversión en este fondo mutuo, las que se encuentran contenidas en su reglamento interno y contrato de suscripción de cuotas.
