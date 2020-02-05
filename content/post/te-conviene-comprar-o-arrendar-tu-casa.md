@@ -19,6 +19,7 @@ Y en los carretes termino discutiendo por pensar distinto sobre algo tan arraiga
 _“Cuando pagai arriendo estai botando la plata a la basura”, “tener casa salvó a mi viejo de la quiebra”, “tu casa es lo único que realmente es tuyo y nadie te puede quitar”._
 
 Pero tengo varios argumentos para defender mi postura. Después veremos si aguantan mis cálculos de servilleta.
+<p></p>
 
 1. **Cuando compras para ti no haces un análisis frío y gastas más.** Juegan factores emocionales como _"queda cerca del colegio de los niños",_ “_está al lado de mis papás_ _(...o lejos de la suegra)”_ o “_me encanta el papel mural”,_ por los que tú estás dispuesto a pagar más pero que no necesariamente suben el valor de la propiedad.
    <p></p>
@@ -30,9 +31,9 @@ Pero tengo varios argumentos para defender mi postura. Después veremos si aguan
    <p></p>
 5. **Las propiedades son menos líquidas que otras inversiones.** Vender una propiedad puede ser difícil, lento y caro, poniéndote en un serio problema si necesitas la plata.
    <p></p>
-6. **Mientras más cara una propiedad es proporcionalmente más barato arrendarla,** por lo que arrendar te permite vivir en lugares mejores por menos considerando el valor del m2. _Hice un análisis de esto considerando propiedades publicadas en Portal Inmobiliario. Es al ojímetro:_
+6. **Mientras más cara una propiedad es proporcionalmente más barato arrendarla,** por lo que arrendar te permite vivir en lugares mejores por menos considerando el valor del m2. _(Hice un_ [_análisis_]() _de esto considerando propiedades publicadas en Portal Inmobiliario. No es científico, pero le creo)._
 
-   ![](/uploads/Screen Shot 2019-11-27 at 20.46.52.png "tabla-proporcion-valor-propiedad-y-arriendo")
+   <p></p>
 7. **Es mejorar comprar varias propiedades chicas que una sola grande.** Dada la relación inversamente proporcional entre el valor de una propiedad y su arriendo, en vez de comprar una propiedad de UF 5.000 para vivir, sería mejor arrendar una propiedad equivalente a UF 5.000, pero comprar dos propiedades de UF 2.500 o -mejor aún- tres de UF 1.666 🤘 y arrendarlas.
    <p></p>
 
