@@ -69,13 +69,13 @@ Sin embargo, [en los últimos 50 años en Estados Unidos los precios inmobiliari
 
 Como asumimos que no tenemos poderes mágicos de predicción, y no sabemos cómo se van a comportar los precios inmobiliarios en el futuro, preferimos dividir en tres posibles casos***:
 
-1. Si crees que la propiedad subirá de precio de forma más acotada, es decir, menos de 1% al año, en la mayoría de los casos es preferible arrendar.
+<ol><li>Si crees que la propiedad subirá de precio de forma más acotada, es decir, menos de 1% al año, en la mayoría de los casos es preferible arrendar.</li>
 
    <p></p>
-2. Si crees que va a subir de precio de forma más acelerada, pero no tanto como los últimos años, depende mucho de los gastos de arreglo, el valor de la propiedad, las tasas de interés, el pie inicial, etc.
+<li>Si crees que va a subir de precio de forma más acelerada, pero no tanto como los últimos años, depende mucho de los gastos de arreglo, el valor de la propiedad, las tasas de interés, el pie inicial, etc.</li>
 
    <p></p>
-3. Si crees que el precio de la propiedad seguirán subiendo como lo han hecho, o al menos la plusvalía será sobre 3% año por año, en la mayoría de los casos conviene comprar.
+<li>Si crees que el precio de la propiedad seguirán subiendo como lo han hecho, o al menos la plusvalía será sobre 3% año por año, en la mayoría de los casos conviene comprar.</li></ol>
 
 Ahora, si uno cree que la plusvalía va a ser así de buena, es cierto que puede convenir comprar varias propiedades chicas en vez de una sola más grande y arrendar la propiedad donde uno vive. Esto es financieramente sostenible en la medida que el costo de los metros cuadrado que compras tenga mejor retorno que el costo de los metros cuadrado que arriendas para vivir.
 
