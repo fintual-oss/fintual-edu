@@ -44,7 +44,7 @@ El dinero pierde valor por la inflación (el aumento de los precios de bienes y 
 
 ###### **De hecho, como norma general, no deberías tener más del 10% de tu sueldo en tu cuenta 👀**
 
-La plata destinada a gastos de corto plazo (6 meses o menos) debería estar en inversiones conservadoras. Para el largo plazo tenemos hay alternativas más riesgosas, pero también más rentables.
+La plata destinada a gastos de corto plazo (6 meses o menos) debería estar en inversiones conservadoras. Para el largo plazo tenemos alternativas más riesgosas, pero también más rentables.
 
 {{< prueba_fintual utmcontent="en+mi+cuenta+corriente" >}}
 
