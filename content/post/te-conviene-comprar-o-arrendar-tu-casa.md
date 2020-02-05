@@ -23,21 +23,19 @@ Pero tengo varios argumentos para defender mi postura. Después veremos si aguan
 <div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/3o6MbmXIt1qUsNzfu8" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 <p></p>
 
-1. **La plata que usas para el pie, impuestos y mantención de la casa pueden ser invertidos en otra cosa y tener mejor rentabilidad.**
+1. **Cuando compras para ti no haces un análisis frío y gastas más.** Juegan factores emocionales como “_queda cerca del colegio de los niños_”, “_está al lado de mis papás_ _(...o lejos de la suegra)”_ o “_me encanta el papel mural”,_ por los que tú estás dispuesto a pagar más pero que no necesariamente suben el valor de la propiedad.
    <p></p>
-2. **Cuando compras para ti no haces un análisis frío y gastas más.** Juegan factores emocionales como “_queda cerca del colegio de los niños_”, “_está al lado de mis papás_ _(...o lejos de la suegra)”_ o “_me encanta el papel mural”,_ por los que tú estás dispuesto a pagar más pero que no necesariamente suben el valor de la propiedad.
+2. **Es caro elegir la “casa definitiva”.** Demasiadas veces se enfrenta el comprar como algo de _una vez en la vida_, eligiendo una propiedad más grande/cara de la que necesitarás en el tiempo. Arrendar te da flexibilidad para los distintos momentos de vida y económicos por los que pasarás.
    <p></p>
-3. **Es caro elegir la “casa definitiva”.** Demasiadas veces se enfrenta el comprar como algo de _una vez en la vida_, eligiendo una propiedad más grande/cara de la que necesitarás en el tiempo. Arrendar te da flexibilidad para los distintos momentos de vida y económicos por los que pasarás.
+3. **El dueño responde por deterioros grandes, el arrendatario sólo por chicos.** Mientras el dueño debe reparar cualquier falla importante (eléctrica, de gasfitería, estructural, filtración, incendio, inundación, etc.), el arrendatario sólo cubre los deterioros que provengan por su uso normal, como una chapa mala.
    <p></p>
-4. **El dueño responde por deterioros grandes, el arrendatario sólo por chicos.** Mientras el dueño debe reparar cualquier falla importante (eléctrica, de gasfitería, estructural, filtración, incendio, inundación, etc.), el arrendatario sólo cubre los deterioros que provengan por su uso normal, como una chapa mala.
+4. **Al comprar quedas poco diversificado y la casa puede convertirse en tu único activo.** ¿Cómo quedas si se quema y no tenías seguro? ¿o si el barrio tiene plusvalía cero o negativa? Los bienes raíces no siempre suben.
    <p></p>
-5. **Al comprar quedas poco diversificado y la casa puede convertirse en tu único activo.** ¿Cómo quedas si se quema y no tenías seguro? ¿o si el barrio tiene plusvalía cero o negativa? Los bienes raíces no siempre suben.
+5. **Las propiedades son menos líquidas que otras inversiones.** Vender una propiedad puede ser difícil, lento y caro, poniéndote en un serio problema si necesitas la plata.
    <p></p>
-6. **Las propiedades son menos líquidas que otras inversiones.** Vender una propiedad puede ser difícil, lento y caro, poniéndote en un serio problema si necesitas la plata.
+6. **Mientras más cara una propiedad es proporcionalmente más barato arrendarla,** por lo que arrendar te permite vivir en lugares mejores por menos considerando el valor del m2 _(hice una_ [_análisis_](https://edu.fintual.cl/tabla-proporci%c3%b3n-arriendo-compra-propiedad/) _de esto considerando propiedades publicadas en Portal Inmobiliario. No es científico, pero le creo)._
    <p></p>
-7. **Mientras más cara una propiedad es proporcionalmente más barato arrendarla,** por lo que arrendar te permite vivir en lugares mejores por menos considerando el valor del m2 _(hice una_ [_análisis_](https://edu.fintual.cl/tabla-proporci%c3%b3n-arriendo-compra-propiedad/) _de esto considerando propiedades publicadas en Portal Inmobiliario. No es científico, pero le creo)._
-   <p></p>
-8. **Es mejorar comprar varias propiedades chicas que una sola grande.** Dada la relación inversamente proporcional entre el valor de una propiedad y su arriendo, en vez de comprar una propiedad de UF 5.000 para vivir, sería mejor arrendar una propiedad equivalente a UF 5.000, pero comprar dos propiedades de UF 2.500 o -mejor aún- tres de UF 1.666 🤘 y arrendarlas.
+7. **Es mejorar comprar varias propiedades chicas que una sola grande.** Dada la relación inversamente proporcional entre el valor de una propiedad y su arriendo, en vez de comprar una propiedad de UF 5.000 para vivir, sería mejor arrendar una propiedad equivalente a UF 5.000, pero comprar dos propiedades de UF 2.500 o -mejor aún- tres de UF 1.666 🤘 y arrendarlas.
    <p></p>
 
 ### **Ahora, vamos a los números!**
@@ -53,7 +51,7 @@ Para hacerlo simple, vamos a suponer que:
 * **Porcentaje del pie:** 20%
 * **Tasa interés del crédito hipotecario:** 2,50% sobre la UF
 * **Años del crédito hipotecario:** 25
-* **Rentabilidad de otro activo líquido (costo de oportunidad):** 5,31% sobre la UF*
+* **Rentabilidad de otro activo líquido (costo de oportunidad):__ 5,31% sobre la UF*
 * **Plusvalía de la propiedad:** vamos a dejar esta variable abierta a discusión
 * **Arreglos/remodelaciones mayores anuales respecto valor propiedad propia**: vamos a suponer un gasto de 0,50% por año
 * **Valor de arriendo de una propiedad equivalente**: vamos a suponer que es un 0,38% del valor de la propiedad**, es decir, vamos a suponer un arriendo de $380.000 por una propiedad que cuesta actualmente $100.000.000.
