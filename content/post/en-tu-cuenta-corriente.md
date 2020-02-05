@@ -19,9 +19,9 @@ Tener tu plata en la cuenta del banco es como dejar a Gary Medel en la banca. Me
 </figure>  
 </div>
 
-El dinero pierde valor por la inflación (el aumento de los precios de bienes y servicios) con el tiempo. **De hecho, como norma general, no deberías tener más del 10% de tu sueldo en tu cuenta 👀**
+El dinero pierde valor por la inflación (el aumento de los precios de bienes y servicios) con el tiempo. **De hecho, como norma general, no deberías tener más del 10% de tu sueldo en tu cuenta.**
 
-#### **En Fintual nos preocupamos de tu inversión para que tú no tengas que hacerlo.**
+### En Fintual nos preocupamos de tu inversión para que tú no tengas que hacerlo.
 
 Estamos regulados por la CMF y ya administramos más de US$55 millones de 8.800 clientes.
 
