@@ -11,6 +11,8 @@ title = "¿En tu cuenta corriente?"
 url = "/en-mi-cuenta-corriente"
 
 +++
+Tener tu plata en la cuenta del banco es como dejar a Gary Medel en la banca.
+
 Es muy común que la gente deje su sueldo en la cuenta corriente. Y a veces toda su plata.
 
 Pero esa no es una buena opción: el dinero pierde valor por la inflación (el aumento de los precios de bienes y servicios) con el tiempo.
