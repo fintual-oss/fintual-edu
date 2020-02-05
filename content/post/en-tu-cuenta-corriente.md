@@ -14,7 +14,7 @@ Tener tu plata en la cuenta del banco es como dejar a Gary Medel en la banca. Me
 
 <div style="text-align:center">  
 <figure>  
-<img src="/uploads/garymedel.jpg">  
+<img src="/uploads/garymedel no po.png">  
 <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Créditos: YouTube</i></figcaption>
 </figure>  
 </div>
