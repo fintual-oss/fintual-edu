@@ -25,21 +25,23 @@ Y en los carretes termino discutiendo por pensar distinto sobre algo tan arraiga
 Pero tengo varios argumentos para defender mi postura. Después veremos si aguantan mis cálculos de servilleta.
 <p></p>
 
-1. **Cuando compras para ti no haces un análisis frío y gastas más.** Juegan factores emocionales como _"queda cerca del colegio de los niños",_ “_está al lado de mis papás_ _(...o lejos de la suegra)”_ o “_me encanta el papel mural”,_ por los que tú estás dispuesto a pagar más pero que no necesariamente suben el valor de la propiedad.
-   <p></p>
-2. **Es caro elegir la “casa definitiva”.** Demasiadas veces se enfrenta el comprar como algo de _una vez en la vida_, eligiendo una propiedad más grande/cara de la que necesitarás en el tiempo. Arrendar te da flexibilidad para los distintos momentos de vida y económicos por los que pasarás.
-   <p></p>
-3. **El dueño responde por deterioros grandes, el arrendatario sólo por chicos.** Mientras el dueño debe reparar cualquier falla importante (eléctrica, de gasfitería, estructural, filtración, incendio, inundación, etc.), el arrendatario sólo cubre los deterioros que provengan por su uso normal, como una chapa mala.
-   <p></p>
-4. **Al comprar quedas poco diversificado y la casa puede convertirse en tu único activo.** ¿Cómo quedas si se quema y no tenías seguro? ¿o si el barrio tiene plusvalía cero o negativa? Los bienes raíces no siempre suben.
-   <p></p>
-5. **Las propiedades son menos líquidas que otras inversiones.** Vender una propiedad puede ser difícil, lento y caro, poniéndote en un serio problema si necesitas la plata.
-   <p></p>
-6. **Mientras más cara una propiedad es proporcionalmente más barato arrendarla,** por lo que arrendar te permite vivir en lugares mejores por menos considerando el valor del m2. _(Hice un_ [_análisis_ _de esto considerando propiedades publicadas_](https://edu.fintual.cl/tabla-proporcion-arriendo-compra-propiedad/) _en Portal Inmobiliario. No es científico, pero le creo)._
-
-   <p></p>
-7. **Es mejorar comprar varias propiedades chicas que una sola grande.** Dada la relación inversamente proporcional entre el valor de una propiedad y su arriendo, en vez de comprar una propiedad de UF 5.000 para vivir, sería mejor arrendar una propiedad equivalente a UF 5.000, pero comprar dos propiedades de UF 2.500 o -mejor aún- tres de UF 1.666 🤘 y arrendarlas. <p></p>
-
+<ol>
+  <li>
+**Cuando compras para ti no haces un análisis frío y gastas más.** Juegan factores emocionales como _"queda cerca del colegio de los niños",_ “_está al lado de mis papás_ _(...o lejos de la suegra)”_ o “_me encanta el papel mural”,_ por los que tú estás dispuesto a pagar más pero que no necesariamente suben el valor de la propiedad.
+  </li><p></p><li>
+**Es caro elegir la “casa definitiva”.** Demasiadas veces se enfrenta el comprar como algo de _una vez en la vida_, eligiendo una propiedad más grande/cara de la que necesitarás en el tiempo. Arrendar te da flexibilidad para los distintos momentos de vida y económicos por los que pasarás.
+   </li><p></p><li>
+**El dueño responde por deterioros grandes, el arrendatario sólo por chicos.** Mientras el dueño debe reparar cualquier falla importante (eléctrica, de gasfitería, estructural, filtración, incendio, inundación, etc.), el arrendatario sólo cubre los deterioros que provengan por su uso normal, como una chapa mala.
+  </li> <p></p><li>
+**Al comprar quedas poco diversificado y la casa puede convertirse en tu único activo.** ¿Cómo quedas si se quema y no tenías seguro? ¿o si el barrio tiene plusvalía cero o negativa? Los bienes raíces no siempre suben.
+  </li> <p></p><li>
+**Las propiedades son menos líquidas que otras inversiones.** Vender una propiedad puede ser difícil, lento y caro, poniéndote en un serio problema si necesitas la plata.
+  </li> <p></p><li>
+**Mientras más cara una propiedad es proporcionalmente más barato arrendarla,** por lo que arrendar te permite vivir en lugares mejores por menos considerando el valor del m2. _(Hice un_ [_análisis_ _de esto considerando propiedades publicadas_](https://edu.fintual.cl/tabla-proporcion-arriendo-compra-propiedad/) _en Portal Inmobiliario. No es científico, pero le creo)._
+</li>
+   <p></p><li>
+**Es mejorar comprar varias propiedades chicas que una sola grande.** Dada la relación inversamente proporcional entre el valor de una propiedad y su arriendo, en vez de comprar una propiedad de UF 5.000 para vivir, sería mejor arrendar una propiedad equivalente a UF 5.000, pero comprar dos propiedades de UF 2.500 o -mejor aún- tres de UF 1.666 🤘 y arrendarlas. <p></p>
+</li></ol>
 ### **Ahora, vamos a los números!**
 
 _Gracias a Omar Larré, co-fundador de Fintual y Profesor de Finanzas Aplicadas de la U. Chile, por este análisis._
