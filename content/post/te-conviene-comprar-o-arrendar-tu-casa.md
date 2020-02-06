@@ -12,20 +12,17 @@ url = "comprar-vs-arrendar"
 +++
 _Le pedí ayuda a los cracks matemáticos con los que trabajo para analizar si comprar tu casa es buena o mala decisión._
 
-Pienso que para los completos es mejor poner la palta, tomate y mayo DEBAJO de la salchicha porque así no se cae todo y tampoco me mancho.
-
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/JSvl0EaQ4cAPLGOzQL" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
-
-_Te puedo pedir un completo pero que los ingredientes los pongas abajo?_
-
-<p></p>
-
-Y en los carretes termino discutiendo por pensar distinto sobre algo tan arraigado como el sueño de la casa propia.
+A veces soy contreras y termino discutiendo por pensar distinto sobre algo tan arraigado como el sueño de la casa propia.
 
 > _“Cuando pagai arriendo estai botando la plata a la basura”, “tener casa salvó a mi viejo de la quiebra”, “tu casa es lo único que realmente es tuyo y nadie te puede quitar”._
 
-Pero tengo varios argumentos para defender mi postura. Después veremos si aguantan mis cálculos de servilleta.
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/JSvl0EaQ4cAPLGOzQL" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+
+_<align="center>También pienso que para los completos es mejor poner la palta, tomate y mayo DEBAJO de la salchicha porque así no se cae todo y tampoco me mancho.</align>_
+
 <p></p>
+
+Pero tengo varios argumentos para defender mi postura de que es mejor arrendar que comprar. Después veremos si aguantan mis cálculos de servilleta. <p></p>
 
 <ol>  <li>    <b>Cuando compras para ti no haces un análisis frío y gastas más.</b> Juegan factores emocionales como <i>"queda cerca del colegio de los niños",</i> “<i>está al lado de mis papás</i> <i>(...o lejos de la suegra)”</i> o “<i>me encanta el papel mural”,</i> por los que tú estás dispuesto a pagar más pero que no necesariamente suben el valor de la propiedad.  </li>
 
