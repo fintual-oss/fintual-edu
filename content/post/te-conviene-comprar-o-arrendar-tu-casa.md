@@ -105,6 +105,8 @@ _****Este análisis no considera todas las implicancias tributarias de rentar co
 
 <p></p>
 
+<p></p>
+
 > #### **Fintual es una forma fácil y diversificada de invertir, incluso mientras estás ahorrando para un pie 😉**
 >
 > #### [**Prueba sin costo nuestro simulador**](https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=comprar_vs_arrendar&utm_content=-135) **y ve cómo te iría.**
