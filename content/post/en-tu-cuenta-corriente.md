@@ -43,11 +43,25 @@ Si tenia **1.000.000 CLP** en una cuenta corriente el primero de enero 2019, un 
 
 **De hecho, como norma general, no deberías tener más del 10% de tu sueldo en tu cuenta.**
 
-## Qué hacer?
+## Ya, entonces?
 
-### En Fintual nos preocupamos de tu inversión para que tú no tengas que hacerlo.
+### Tu plata bien invertida, sin tramites
 
-Estamos regulados por la CMF y ya administramos más de US$55 millones de 8.800 clientes.
+Invertir poco plata en fondo mutuo de un banco **=** montan de tramites **+** costos gigantes. Peludo. 
+
+**Por eso hicimos Fintual**, para cerrar la brecha entre financia cara y compleja que poco usan y su cuenta corriente que no sirve.
+
+Tu cuenta Fintual simple (mas simple?) que tu cuenta corriente pero MUCHO MAS inteligente y simpatico.
+
+Fintual es **ultra simple**, puedes poner **cualquier montan** (1 peso si quieres) y puedes **sacar tu plata** en un clic **a cualquier momento**, **sin costo**.
+
+Estamos regulados por la Commission de los Mercados Financieros y ya administramos más de **US$55 millones de 8.800 clientes**.
+
+<div style="text-align:center">  
+<figure>  
+<img src="/uploads/objetivos.png">  
+</figure>  
+</div>
 
 En 2019 nuestros fondos rentaron:  
 Risky Norris: **37,52%**  
@@ -57,12 +71,6 @@ Conservative Clooney: **4,81%**
 Y parte de esta rentabilidad es porque cobramos poco: **1,19% al año por administrar tu plata y nada más**. No cobramos por retiros y puedes sacar tu inversión cuando quieras. En tres días tu plata está (de nuevo) en tu cuenta bancaria.
 
 Y como no es lo mismo ahorrar para tu jubilación que para una casa nueva, te armamos un portafolio personalizado que se ajusta al propósito de tu inversión.
-
-<div style="text-align:center">  
-<figure>  
-<img src="/uploads/objetivos.png">  
-</figure>  
-</div>
 
 {{< prueba_fintual utmcontent="en+mi+cuenta+corriente" >}}
 
