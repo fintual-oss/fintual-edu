@@ -29,10 +29,10 @@ O sea, **la plata pierde un poco su valor cada día**. Eso explica que con $1.00
 
 Entonces, cuando dejas tu plata en la cuenta del banco pasan dos cosas:
 
-* **Tu plata pierde valor de día a día por inflación**
-* **El banco te cobra una mantención de $10.000 todos los meses.**
+* **Tu plata pierde valor por la inflación (en 2019 fue 3% anual)**
+* **El banco te cobra una mantención todos los meses (supongamos $10.000 todos los meses).**
 
-Si tenía 1.000.000 CLP en una cuenta corriente el primero de enero 2019, un año después, la valor real de este plata en 2020 es de....
+Esto significa que si tenías $1.000.000 en una cuenta corriente el primero de enero 2019, un año después, la valor real de este plata en 2020 es de....
 
 <div style="width:100%;height:0;padding-bottom:77%;position:relative;"><iframe src="[https://giphy.com/embed/116seTvbXx07F6](https://giphy.com/embed/116seTvbXx07F6 "https://giphy.com/embed/116seTvbXx07F6")" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
