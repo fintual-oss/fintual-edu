@@ -16,6 +16,8 @@ Pienso que para los completos es mejor poner la palta, tomate y mayo DEBAJO de l
 
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/JSvl0EaQ4cAPLGOzQL" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
+_Te puedo pedir un completo pero que los ingredientes los pongas abajo?_
+
 <p></p>
 
 Y en los carretes termino discutiendo por pensar distinto sobre algo tan arraigado como el sueño de la casa propia.
