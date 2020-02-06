@@ -21,24 +21,24 @@ Tener tu plata en la cuenta del banco es como dejar a Gary Medel en la banca. No
 
 ## Porqué?
 
-La razón se llama inflación. 
+La razón se llama **inflación**.
 
-Cada año, los precios de los bienes y servicios suben un poco.  
+Cada día, los precios de los bienes y servicios suben un poco.
 
-En otras palabras, la plata pierde un poco de su valor real cada año. Con 1000 pesos pudiste comprar mucho más cosas en 1985 que ahora, obvio no?
+En otras palabras, **la plata pierde un poco de su valor real cada día**. Con 1000 pesos pudiste comprar mucho más cosas en 1985 que ahora, obvio no?
 
 Entonces, en tu cuenta corriente (o cuenta vista, etc. da lo mismo) :
 
 * **tu plata pierdes valor de día a día por inflación**
-* **el banco te cobra + -10.000 pesos de tarifas que los bancos cubren cada mes.**
+* **el banco te cobra + -10.000 pesos de tarifas cada mes.**
 
 Si tenia **1.000.000 CLP** en una cuenta corriente el primero de enero 2019, un año después, la **valor real** de este plata en 2020 es de....
 
-<iframe src="[https://giphy.com/embed/116seTvbXx07F6](https://giphy.com/embed/116seTvbXx07F6 "https://giphy.com/embed/116seTvbXx07F6")" width="480" height="371" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="[https://giphy.com/gifs/mardi-gras-116seTvbXx07F6](https://giphy.com/gifs/mardi-gras-116seTvbXx07F6 "https://giphy.com/gifs/mardi-gras-116seTvbXx07F6")">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:77%;position:relative;"><iframe src="[https://giphy.com/embed/116seTvbXx07F6](https://giphy.com/embed/116seTvbXx07F6 "https://giphy.com/embed/116seTvbXx07F6")" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
-#####  **+-850.000 CLP.**  En este ejemplo, tienes una **rentabilidad de** -**15%** 🎉
+##### **+-850.000 CLP.**  En este ejemplo, tienes una **rentabilidad de** -**15%** 🎉
 
-<iframe src="[https://giphy.com/embed/1xVbSX8UzIiMPMZjZP](https://giphy.com/embed/1xVbSX8UzIiMPMZjZP "https://giphy.com/embed/1xVbSX8UzIiMPMZjZP")" width="480" height="392" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="[https://giphy.com/gifs/wtf-what-wth-1xVbSX8UzIiMPMZjZP](https://giphy.com/gifs/wtf-what-wth-1xVbSX8UzIiMPMZjZP "https://giphy.com/gifs/wtf-what-wth-1xVbSX8UzIiMPMZjZP")">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:82%;position:relative;"><iframe src="[https://giphy.com/embed/1xVbSX8UzIiMPMZjZP](https://giphy.com/embed/1xVbSX8UzIiMPMZjZP "https://giphy.com/embed/1xVbSX8UzIiMPMZjZP")" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 **De hecho, como norma general, no deberías tener más del 10% de tu sueldo en tu cuenta.**
 
