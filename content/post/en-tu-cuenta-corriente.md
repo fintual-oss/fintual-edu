@@ -34,9 +34,15 @@ Entonces, cuando dejas tu plata en la cuenta del banco pasan dos cosas:
 
 Esto significa que si tenías $1.000.000 en tu cuenta corriente al 1 de enero de 2019, un año después tienes...
 
+<div style="text-align:center">  
+<figure>  
+<img src="/uploads/garymedel no po.png">  
+<figcaption style="display:block;text-align:center;font-size:.8rem"><i>Créditos: YouTube</i></figcaption> </figure>  
+</div>
+
 ![](/uploads/giphy.webp)
 
-**$850.000 lucas!**
+**$850.000!**
 
 O sea, tienes una **rentabilidad de** -**15%** 😩
 
