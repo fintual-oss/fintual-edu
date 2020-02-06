@@ -68,7 +68,7 @@ Para hacerlo simple, vamos a suponer que:
 
 La plusvalía es lo que sube el precio de una propiedad por sobre la inflación. En los últimos años ha sido mayor al 7% anual en el Gran Santiago, es decir, [hemos visto casi duplicar el valor de las propiedades en UF en la última década](https://clapesuc.cl/assets/uploads/2018/12/18-12-18-doc-trab-n52-su-precio-inmobiliarios.pdf?fbclid=IwAR2VNOweyedLzUwluXf30kZxHoJqN9r_dOMSu3W3jeQWEbtlzKmEUsCmdD). En ciertos lugares los departamentos han incluso [duplicado su valor en sólo 8 años](http://www.latercera.com/pulso/noticia/precios-los-departamentos-anotaron-mayor-alza-desde-mediados-2016/478818/).  Pese a ello, los precios de arriendos se han estabilizado desde el 2013:
 
-![](/uploads/grafico_evolucion_mercado_inmobiliario.png)
+![](/uploads/Screen Shot 2020-02-06 at 15.58.33.png)
 
 _Índice de Precios Inmobiliarios desde 2009. Fuente:_ [_La evolución de los precios del mercado inmobiliario: Santiago 2009-2017_](https://clapesuc.cl/assets/uploads/2018/12/18-12-18-doc-trab-n52-su-precio-inmobiliarios.pdf?fbclid=IwAR2VNOweyedLzUwluXf30kZxHoJqN9r_dOMSu3W3jeQWEbtlzKmEUsCmdD)_, Ricardo Espinoza y Sergio Urzúa_
 
