@@ -52,7 +52,7 @@ Fondo mutuo de un banco **=** montan de tramites **+** costos gigantes = Peludo
 
 **Por eso hicimos Fintual**, para cerrar la brecha entre financia cara y compleja que poco usan y la cuenta corriente que no sirve para ahorrar.
 
-Es **ultra simple**, puedes poner **cualquier montan** (1 peso si quieres) y **sacar tu plata** en un clic **a cualquier momento**, **sin costo**.
+Fintual, en su ADN, es **ultra simple**: puedes poner **cualquier montan** (1 peso si quieres) y **sacar tu plata** en un clic **a cualquier momento**, **sin costo**.
 
 <div style="text-align:center">  
 <figure>  
