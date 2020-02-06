@@ -71,7 +71,7 @@ _Índice de Precios Inmobiliarios desde 2009. Fuente:_ [_La evolución de los pr
 
 ##### **¿Es un 7% o más un valor razonable de plusvalía de largo plazo?**
 
-No lo sabemos bien. La evidencia en países como Estados Unidos [desde 1890 los precios inmobiliarios han crecido apenas un 0.4% sobre la inflación](http://www.marketwatch.com/amp/story/guid/7FEAE566-B963-11E9-96E5-91DC997FBC41). Si usáramos esa plusvalía en nuestro modelo concluimos casi siempre que es mejor arrendar versus comprar.
+No lo sabemos bien. La evidencia en países como Estados Unidos muestra que [desde 1890 los precios inmobiliarios han crecido apenas un 0.4% sobre la inflación](http://www.marketwatch.com/amp/story/guid/7FEAE566-B963-11E9-96E5-91DC997FBC41). Si usáramos esa plusvalía en nuestro modelo concluimos casi siempre que es mejor arrendar versus comprar.
 
 Sin embargo, [en los últimos 50 años en Estados Unidos los precios inmobiliarios han crecido 1.5% real](https://www.cnbc.com/2017/06/23/how-much-housing-prices-have-risen-since-1940.html), y en los últimos años ese crecimiento ha sido mayor (al punto de generar una burbuja inmobiliaria que reventó en Estados Unidos el año 2008).
 
