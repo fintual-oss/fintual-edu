@@ -48,11 +48,9 @@ Horror.
 
 ### Mejor tener tu plata bien invertida, sin tramites
 
-Invertir plata en fondo mutuo de un banco **=** montan de tramites **+** costos gigantes. Peludo.
+Fondo mutuo de un banco **=** montan de tramites **+** costos gigantes = Peludo
 
 **Por eso hicimos Fintual**, para cerrar la brecha entre financia cara y compleja que poco usan y la cuenta corriente que no sirve para ahorrar.
-
-Tu cuenta Fintual es simple (mas simple) que tu cuenta corriente pero _muchos mas_ inteligente y simpatico.
 
 Es **ultra simple**, puedes poner **cualquier montan** (1 peso si quieres) y **sacar tu plata** en un clic **a cualquier momento**, **sin costo**.
 
@@ -74,7 +72,11 @@ Y parte de esta rentabilidad es porque cobramos poco: **1,19% al año por admini
 
 Estamos regulados por la Commission de los Mercados Financieros y ya administramos más de **US$55 millones de 8.800 clientes chilenos**.
 
-![](/uploads/cmf.png)
+<p align="center">
+  <img src="/uploads/cmf.png">
+</p>
+
+
 
 {{< prueba_fintual utmcontent="en+mi+cuenta+corriente" >}}
 
