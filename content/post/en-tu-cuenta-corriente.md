@@ -40,17 +40,15 @@ Esto significa que si tenías $1.000.000 en tu cuenta corriente al 1 de enero de
 
 O sea, tienes una **rentabilidad de** -**15%** 😩
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="[https://giphy.com/embed/3epYgNP7uvMFa](https://giphy.com/embed/3epYgNP7uvMFa "https://giphy.com/embed/3epYgNP7uvMFa")" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+![](/uploads/download.gif)
 
 Horror.
 
-**De hecho, como norma general, no deberías tener más del 10% de tu sueldo en tu cuenta.**
+Por eso muchos expertos en finanzas recomiendan **no tener más del 10% de tu sueldo en tu cuenta.**
 
-## Ya, entonces?
+## Ya, ¿entonces qué?
 
-### Mejor tener tu plata bien invertida, sin tramites
-
-Fondo mutuo de un banco **=** montan de tramites **+** costos gigantes = Peludo
+### Mejor tener tu plata bien invertida, sin trámites
 
 **Por eso hicimos Fintual**, para cerrar la brecha entre financia cara y compleja que poco usan y la cuenta corriente que no sirve para ahorrar.
 
