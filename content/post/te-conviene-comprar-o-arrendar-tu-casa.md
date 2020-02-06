@@ -89,7 +89,7 @@ Como asumimos que no tenemos poderes mágicos de predicción, y no sabemos cómo
 <p></p>
 <li>Si crees que el precio de la propiedad seguirán subiendo como lo han hecho, o al menos la plusvalía será sobre 3% año por año, en la mayoría de los casos conviene comprar.</li></ol>
 
-Ahora, si uno cree que la plusvalía va a ser así de buena, es cierto que puede convenir comprar varias propiedades chicas en vez de una sola más grande y arrendar la propiedad donde uno vive. Esto es financieramente sostenible en la medida que el costo de los metros cuadrado que compras tenga mejor retorno que el costo de los metros cuadrado que arriendas para vivir.
+Ahora, **si uno cree que la plusvalía va a ser así de buena, es cierto que puede convenir comprar varias propiedades chicas en vez de una sola más grande y arrendar la propiedad donde uno vive.** Esto es financieramente sostenible en la medida que el costo de los metros cuadrado que compras tenga mejor retorno que el costo de los metros cuadrado que arriendas para vivir.
 
 ##### **Ojo con la diversificación**
 
