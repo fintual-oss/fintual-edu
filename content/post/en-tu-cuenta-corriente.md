@@ -32,11 +32,11 @@ Entonces, en tu cuenta corriente (o cuenta vista, etc. da lo mismo) :
 * **tu plata pierdes valor de día a día por inflación**
 * **el banco te cobra + -10.000 pesos de tarifas cada mes**
 
-Si tenia **1.000.000 CLP** en una cuenta corriente el primero de enero 2019, un año después, la **valor real** de este plata en 2020 es de....
+Si tenía 1.000.000 CLP en una cuenta corriente el primero de enero 2019, un año después, la valor real de este plata en 2020 es de....
 
 <div style="width:100%;height:0;padding-bottom:77%;position:relative;"><iframe src="[https://giphy.com/embed/116seTvbXx07F6](https://giphy.com/embed/116seTvbXx07F6 "https://giphy.com/embed/116seTvbXx07F6")" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
-##### **+-850.000 CLP.**  En este ejemplo, tienes una **rentabilidad de** -**15%** 🎉
+**+-850.000 CLP.**  En este ejemplo, tienes una **rentabilidad de** -**15%** 🎉🧟
 
 <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="[https://giphy.com/embed/3epYgNP7uvMFa](https://giphy.com/embed/3epYgNP7uvMFa "https://giphy.com/embed/3epYgNP7uvMFa")" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
