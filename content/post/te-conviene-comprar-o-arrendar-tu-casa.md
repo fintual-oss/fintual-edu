@@ -68,6 +68,7 @@ La plusvalía es lo que sube el precio de una propiedad por sobre la inflación.
 
 <p align=“center”> <img src=“/uploads/grafico_evolucion_mercado_inmobiliario.png”> </p>
 
+
 _Índice de Precios Inmobiliarios desde 2009. Fuente:_ [_La evolución de los precios del mercado inmobiliario: Santiago 2009-2017_](https://clapesuc.cl/assets/uploads/2018/12/18-12-18-doc-trab-n52-su-precio-inmobiliarios.pdf?fbclid=IwAR2VNOweyedLzUwluXf30kZxHoJqN9r_dOMSu3W3jeQWEbtlzKmEUsCmdD)_, Ricardo Espinoza y Sergio Urzúa_
 
 ##### **¿Es un 7% o más un valor razonable de plusvalía de largo plazo?**
