@@ -48,11 +48,9 @@ Por eso muchos expertos en finanzas recomiendan **no tener más del 10% de tu su
 
 ## Ya, ¿entonces qué?
 
-### Mejor tener tu plata bien invertida, sin trámites
+### Invertir!
 
-**Por eso hicimos Fintual**, para cerrar la brecha entre financia cara y compleja que poco usan y la cuenta corriente que no sirve para ahorrar.
-
-Fintual, en su ADN, es **ultra simple**: puedes poner **cualquier montan** (1 peso si quieres) y **sacar tu plata** en un clic **a cualquier momento**. No cobramos por retiros. En tres días tu plata está (de nuevo) en tu cuenta bancaria.
+Fintual es **simple**: puedes invertir y retirar tu plata cuando quieras. No tenemos montos mínimos ni cobramos por **sacar tu plata**. Haces click y en tres días tu plata está (de nuevo) en tu cuenta bancaria.
 
 <div style="text-align:center">  
 <figure>  
@@ -60,15 +58,15 @@ Fintual, en su ADN, es **ultra simple**: puedes poner **cualquier montan** (1 pe
 </figure>  
 </div>
 
-Tu plata esta invertida en mas de 3500 empresas bacán y verde de Chile y EEUU. Y como no es lo mismo ahorrar para tu jubilación que para una casa nueva, te armamos un **portafolio personalizado** que se ajusta al propósito de tu inversión.
+Tu plata esta invertida en más de 3.500 empresas de distintos rubros.
+
+ Y como no es lo mismo ahorrar para tu jubilación que para una casa nueva, te armamos un **portafolio personalizado** que se ajusta al propósito de tu inversión.
 
 ![](/uploads/verde.png)
 
 En 2019 nuestros clientes hicieron hasta **37,5% en un año**.
 
 Y parte de esta rentabilidad es porque cobramos poco: **1,19% al año por administrar tu plata y nada más**. Así, más rentabilidad para ti.
-
-![](/uploads/Captura de Pantalla 2020-02-06 a la(s) 15.58.09.png)
 
 Estamos regulados por la Commission de los Mercados Financieros y ya administramos más de **US$55 millones de 8.800 clientes chilenos**.
 
