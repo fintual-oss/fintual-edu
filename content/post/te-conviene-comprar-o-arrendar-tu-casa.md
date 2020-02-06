@@ -39,7 +39,7 @@ Pero tengo varios argumentos para defender mi postura de que es mejor arrendar q
 <a href="https://edu.fintual.cl/tabla-proporcion-arriendo-compra-propiedad/" target="_blank">
 <i>análisis</i> <i>de esto considerando propiedades publicadas</i></a> <i>en Portal Inmobiliario. No es científico, pero le creo).</i></li></li>
 
-<p></p><li><b>Es mejorar comprar varias propiedades chicas que una sola grande.</b> Dada la relación inversamente proporcional entre el valor de una propiedad y su arriendo, en vez de comprar una propiedad de UF 5.000 para vivir, sería mejor arrendar una propiedad equivalente a UF 5.000, pero comprar dos propiedades de UF 2.500 o -mejor aún- tres de UF 1.666 🤘 y arrendarlas. <p></p></li>
+<p></p><li><b>Es mejor comprar varias propiedades chicas que una sola grande.</b> Dada la relación inversamente proporcional entre el valor de una propiedad y su arriendo, en vez de comprar una propiedad de UF 5.000 para vivir, sería mejor arrendar una propiedad equivalente a UF 5.000, pero comprar dos propiedades de UF 2.500 o -mejor aún- tres de UF 1.666 🤘 y arrendarlas. <p></p></li>
 
 </ol>
 
