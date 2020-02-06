@@ -40,7 +40,6 @@ Esto significa que si tenías $1.000.000 en tu cuenta corriente al 1 de enero de
 </figure>  
 </div>
 
-
 **$850.000!**
 
 O sea, tienes una **rentabilidad de** -**15%** 😩
@@ -59,11 +58,11 @@ Por eso muchos expertos en finanzas recomiendan **no tener más del 10% de tu su
 
 ### Invertir!
 
-En Fintual puedes invertir y retirar tu plata cuando quieras. No tenemos montos mínimos ni cobramos por rescates. Con un click tu plata está (de nuevo) en tu cuenta bancaria en tres días bancarios.
+En **Fintual** puedes invertir y retirar tu plata cuando quieras. No tenemos montos mínimos (puedes probar con luca) ni cobramos por rescates. Con un click tu plata está (de nuevo) en tu cuenta bancaria en tres días bancarios.
 
-Tu inversión está diversificada en más de 3.500 empresas de distintos rubros. Además, hace poco agregamos [inversiones verdes](https://edu.fintual.cl/inversiones-verdes-en-fintual/) a nuestros portafolios. 
+Tu inversión está diversificada en más de 3.500 empresas de distintos rubros. Además, hace poco agregamos [inversiones verdes](https://edu.fintual.cl/inversiones-verdes-en-fintual/) a nuestros portafolios.
 
- Y como no es lo mismo ahorrar para tu jubilación que para una casa nueva, te armamos un **portafolio personalizado** que se ajusta al propósito de tu inversión.
+Y como no es lo mismo ahorrar para tu jubilación que para una casa nueva, te armamos un **portafolio personalizado** que se ajusta al propósito de tu inversión.
 
 <div style="text-align:center">  
 <figure>  
