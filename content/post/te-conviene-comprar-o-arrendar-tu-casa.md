@@ -4,7 +4,7 @@ author = "Gonzalo Enei"
 categories = ["educación financiera"]
 date = 2020-02-04T20:55:47Z
 description = ""
-hide = true
+hide = false
 image = "/uploads/Blog-1.png"
 title = "¿Te conviene comprar o arrendar tu casa?"
 url = "comprar-vs-arrendar"
@@ -93,7 +93,7 @@ Ahora, **si uno cree que la plusvalía va a ser así de buena, es cierto que pue
 
 ##### **Ojo con la diversificación**
 
-Tener la mayor parte de tu patrimonio en un sólo activo contiene un riesgo: poca diversificación. Tener cientos de departamentos es súper difícil (y hay que ser millonario, no?), sin embargo, gracias a los ETFs invertir en cientos de empresas al mismo tiempo es fácil, por lo que tu rentabilidad no depende del rendimiento individual de ninguna de ellas.
+**Tener la mayor parte de tu patrimonio en un sólo activo contiene un riesgo: poca diversificación.** Tener cientos de departamentos es súper difícil (y hay que ser millonario, no?), sin embargo, gracias a los ETFs invertir en cientos de empresas al mismo tiempo es fácil, por lo que tu rentabilidad no depende del rendimiento individual de ninguna de ellas.
 
 _*Es la rentabilidad real del fondo C del sistema de AFP entre Sep/2002-Sep/2019_
 
