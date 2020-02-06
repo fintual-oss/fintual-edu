@@ -30,13 +30,15 @@ O sea, **la plata pierde un poco su valor cada día**. Eso explica que con $1.00
 Entonces, cuando dejas tu plata en la cuenta del banco pasan dos cosas:
 
 * **Tu plata pierde valor por la inflación (en 2019 fue 3% anual)**
-* **El banco te cobra una mantención todos los meses (supongamos $10.000 todos los meses).**
+* **El banco te cobra una mantención promedio de 0,35 UF al mes ($10.000).**
 
-Esto significa que si tenías $1.000.000 en una cuenta corriente el primero de enero 2019, un año después, la valor real de este plata en 2020 es de....
+Esto significa que si tenías $1.000.000 en tu cuenta corriente al 1 de enero de 2019, un año después tienes...
 
-<div style="width:100%;height:0;padding-bottom:77%;position:relative;"><iframe src="[https://giphy.com/embed/116seTvbXx07F6](https://giphy.com/embed/116seTvbXx07F6 "https://giphy.com/embed/116seTvbXx07F6")" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+![](/uploads/giphy.webp)
 
-**+-850.000 CLP.**  En este ejemplo, tienes una **rentabilidad de** -**15%** 🎉🧟
+**$850.000 lucas!**
+
+O sea, tienes una **rentabilidad de** -**15%** 😩
 
 <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="[https://giphy.com/embed/3epYgNP7uvMFa](https://giphy.com/embed/3epYgNP7uvMFa "https://giphy.com/embed/3epYgNP7uvMFa")" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
