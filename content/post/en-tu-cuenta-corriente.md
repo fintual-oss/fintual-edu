@@ -50,7 +50,7 @@ Por eso muchos expertos en finanzas recomiendan **no tener más del 10% de tu su
 
 ### Invertir!
 
-Fintual es **simple**: puedes invertir y retirar tu plata cuando quieras. No tenemos montos mínimos ni cobramos por sacar tu plata. Haces click y en tres días tu plata está (de nuevo) en tu cuenta bancaria.
+En Fintual puedes invertir y retirar tu plata cuando quieras. No tenemos montos mínimos ni cobramos por rescates. Con un click tu plata está (de nuevo) en tu cuenta bancaria en tres días bancarios.
 
 Tu plata se invierte diversificadamente en más de 3.500 empresas de distintos rubros.
 
