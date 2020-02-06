@@ -99,7 +99,9 @@ _*Es la rentabilidad real del fondo C del sistema de AFP entre Sep/2002-Sep/2019
 
 _**Para estimar la relación entre arriendo y costo de la propiedad nos basamos en una pequeña muestra de 25 propiedades. Este número puede variar bastante para ciertas propiedades, por eso vale la pena revisar caso a caso._
 
-_***La planilla con el detalle del cálculo está_ [_acá_](https://docs.google.com/spreadsheets/d/1whtgyTRULda8xDXDUNv2n3RoOIdk_fVcePCvypVDYN8/edit#gid=0)_. Puedes usarla para analizar qué te conviene a ti 😉_
+_***La planilla con el detalle del cálculo está_ [_acá_](https://docs.google.com/spreadsheets/d/1whtgyTRULda8xDXDUNv2n3RoOIdk_fVcePCvypVDYN8/edit#gid=0)_. Puedes usarla para analizar qué te conviene a ti_ 😉
+
+_****Este análisis no considera todas las implicancias tributarias de rentar con uno u otro tipo de inversión._
 
 <p></p>
 
