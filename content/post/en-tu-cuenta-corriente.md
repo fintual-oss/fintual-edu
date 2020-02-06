@@ -10,7 +10,7 @@ title = "¿En tu cuenta corriente?"
 url = "/en-mi-cuenta-corriente"
 
 +++
-Tener tu plata en la cuenta del banco es como dejar a Gary Medel en la banca. 
+Tener tu plata en la cuenta del banco es como dejar a Gary Medel en la banca. No tiene mucho sentido.
 
 <div style="text-align:center">  
 <figure>  
