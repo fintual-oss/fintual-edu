@@ -10,7 +10,7 @@ title = "¿En tu cuenta corriente?"
 url = "/en-mi-cuenta-corriente"
 
 +++
-Tener tu plata en la cuenta del banco es como dejar a Gary Medel en la banca. No tiene mucho sentido.
+Tener tu plata en la cuenta del banco es como dejar a Gary Medel en la banca. 
 
 <div style="text-align:center">  
 <figure>  
@@ -19,18 +19,18 @@ Tener tu plata en la cuenta del banco es como dejar a Gary Medel en la banca. No
 </figure>  
 </div>
 
-## Porqué?
+## ¿Por qué?
 
 La razón se llama **inflación**.
 
-Cada día, los precios de los bienes y servicios suben un poco.
+Todos los días los precios de los bienes y servicios suben un poquito.
 
-En otras palabras, **la plata pierde un poco de su valor real cada día**. Con 1000 pesos pudiste comprar mucho más cosas en 1985 que ahora, obvio no?
+O sea, **la plata pierde un poco su valor cada día**. Eso explica que con $1.000 podías comprar muchas más cosas en 1985 que ahora.
 
-Entonces, en tu cuenta corriente (o cuenta vista, etc. da lo mismo) :
+Entonces, cuando dejas tu plata en la cuenta del banco pasan dos cosas:
 
-* **tu plata pierdes valor de día a día por inflación**
-* **el banco te cobra + -10.000 pesos de tarifas cada mes**
+* **Tu plata pierde valor de día a día por inflación**
+* **El banco te cobra una mantención de $10.000 todos los meses.**
 
 Si tenía 1.000.000 CLP en una cuenta corriente el primero de enero 2019, un año después, la valor real de este plata en 2020 es de....
 
