@@ -52,7 +52,7 @@ Por eso muchos expertos en finanzas recomiendan **no tener más del 10% de tu su
 
 En Fintual puedes invertir y retirar tu plata cuando quieras. No tenemos montos mínimos ni cobramos por rescates. Con un click tu plata está (de nuevo) en tu cuenta bancaria en tres días bancarios.
 
-Tu plata se invierte diversificadamente en más de 3.500 empresas de distintos rubros.
+Tu inversión está diversificada en más de 3.500 empresas de distintos rubros. Además, hace poco agregamos [inversiones verdes](https://edu.fintual.cl/inversiones-verdes-en-fintual/) a nuestros portafolios. 
 
  Y como no es lo mismo ahorrar para tu jubilación que para una casa nueva, te armamos un **portafolio personalizado** que se ajusta al propósito de tu inversión.
 
@@ -61,8 +61,6 @@ Tu plata se invierte diversificadamente en más de 3.500 empresas de distintos r
 <img src="/uploads/objetivos.png">  
 </figure>  
 </div>
-
-Además, hace poco agregamos [inversiones verdes](https://edu.fintual.cl/inversiones-verdes-en-fintual/) a nuestros portafolios. 
 
 En 2019 nuestros fondos rentaron hasta **37,5% en el año**.
 
@@ -76,7 +74,7 @@ Estamos regulados por la Comisión para el Mercado Financiero y ya administramos
 
 {{< prueba_fintual utmcontent="en+mi+cuenta+corriente" >}}
 
-Ahora cachaste por qué es mucho más inteligente que dejar tu plata en el banco 👀
+¿Ahora cachaste por qué es mucho más inteligente que dejar tu plata en el banco? 👀
 
 {{< /prueba_fintual >}}
 
