@@ -30,7 +30,7 @@ O sea, **la plata pierde un poco su valor cada día**. Eso explica que con luca 
 Entonces, cuando dejas tu plata en la cuenta del banco pasan dos cosas:
 
 * **Tu plata pierde valor por la inflación (en 2019 fue 3% anual)**
-* **El banco te cobra una mantención promedio de 0,35 UF al mes ($10.000).**
+* **El banco te cobra una mantención tipo 0,35 UF al mes ($10.000).**
 
 Esto significa que si tenías $1.000.000 en tu cuenta corriente al 1 de enero de 2019, un año después tienes...
 
@@ -46,7 +46,7 @@ O sea, tienes una **rentabilidad de** -**15%** 😩
 
 <div style="text-align:center">  
 <figure>  
-<img src="/uploads/cat.webp">  
+<img src="/uploads/confused.webp">  
 </figure>  
 </div>
 
@@ -76,7 +76,7 @@ Estamos regulados por la Comisión para el Mercado Financiero y ya administramos
 
 En 2019 nuestros fondos rentaron hasta **37,5% en el año**.
 
-Y parte de esta rentabilidad es porque cobramos poco: **1,19% al año por administrar tu plata y nada más**. 
+Y parte de esta rentabilidad es porque cobramos poco: **1,19% al año por administrar tu plata y nada más**.
 
 {{< prueba_fintual utmcontent="en+mi+cuenta+corriente" >}}
 
