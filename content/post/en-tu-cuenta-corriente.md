@@ -58,7 +58,7 @@ Por eso muchos expertos en finanzas recomiendan **no tener más del 10% de tu su
 
 ### Invertir!
 
-En **Fintual** puedes invertir y retirar tu plata cuando quieras. No tenemos montos mínimos (puedes probar con luca) ni cobramos por rescates. Con un click tu plata está (de nuevo) en tu cuenta bancaria en tres días bancarios.
+En **Fintual** puedes invertir y retirar tu plata cuando quieras. No tenemos montos mínimos —puedes partir probando con luca— ni cobramos por rescates. Con un click tu plata está (de nuevo) en tu cuenta bancaria en tres días bancarios.
 
 Tu inversión está diversificada en más de 3.500 empresas de distintos rubros. Además, hace poco agregamos [inversiones verdes](https://edu.fintual.cl/inversiones-verdes-en-fintual/) a nuestros portafolios.
 
@@ -72,7 +72,7 @@ Y como no es lo mismo ahorrar para tu jubilación que para una casa nueva, te ar
 
 En 2019 nuestros fondos rentaron hasta **37,5% en el año**.
 
-Y parte de esta rentabilidad es porque cobramos poco: **1,19% al año por administrar tu plata y nada más**. Así, más rentabilidad para ti.
+Y parte de esta rentabilidad es porque cobramos poco: **1,19% al año por administrar tu plata y nada más**. 
 
 Estamos regulados por la Comisión para el Mercado Financiero y ya administramos más de **US$55 millones de 8.800 clientes.**
 
