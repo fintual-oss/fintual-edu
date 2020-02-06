@@ -62,11 +62,19 @@ Es **ultra simple**, puedes poner **cualquier montan** (1 peso si quieres) y **s
 </figure>  
 </div>
 
-Estamos regulados por la Commission de los Mercados Financieros y ya administramos más de **US$55 millones de 8.800 clientes chilenos**.
+Tu plata esta invertida en mas de 3500 empresas bacán y verde de Chile y EEUU. Y como no es lo mismo ahorrar para tu jubilación que para una casa nueva, te armamos un portafolio personalizado que se ajusta al propósito de tu inversión.
+
+![](/uploads/verde.png)
 
 En 2019 nuestros clientes hicieron hasta **37,5% en un año**.
 
 Y parte de esta rentabilidad es porque cobramos poco: **1,19% al año por administrar tu plata y nada más**. No cobramos por retiros y puedes sacar tu inversión cuando quieras. En tres días tu plata está (de nuevo) en tu cuenta bancaria.
+
+![](/uploads/Captura de Pantalla 2020-02-06 a la(s) 15.58.09.png)
+
+Estamos regulados por la Commission de los Mercados Financieros y ya administramos más de **US$55 millones de 8.800 clientes chilenos**.
+
+![](/uploads/cmf.png)
 
 {{< prueba_fintual utmcontent="en+mi+cuenta+corriente" >}}
 
