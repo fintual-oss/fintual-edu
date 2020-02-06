@@ -10,7 +10,7 @@ title = "¿En tu cuenta corriente?"
 url = "/en-mi-cuenta-corriente"
 
 +++
-Tener tu plata en la cuenta del banco es como dejar a Gary Medel en la banca. Mejor inviértela y mira como crece en el tiempo.
+Tener tu plata en la cuenta del banco es como dejar a Gary Medel en la banca. No tiene mucho sentido.
 
 <div style="text-align:center">  
 <figure>  
@@ -19,7 +19,28 @@ Tener tu plata en la cuenta del banco es como dejar a Gary Medel en la banca. Me
 </figure>  
 </div>
 
-El dinero pierde valor por la inflación (el aumento de los precios de bienes y servicios) con el tiempo. **De hecho, como norma general, no deberías tener más del 10% de tu sueldo en tu cuenta.**
+## Porqué?
+
+La razón se llama inflación. 
+
+Cada año, los precios de los bienes y servicios suben un poco.  
+
+En otras palabras, la plata pierde un poco de su valor real cada año. Con 1000 pesos pudiste comprar mucho más cosas en 1985 que ahora, obvio no?
+
+Entonces, en tu cuenta corriente (o cuenta vista, etc. da lo mismo) :
+
+* **tu plata pierdes valor de día a día por inflación**
+* **el banco te cobra + -10.000 pesos de tarifas que los bancos cubren cada mes.**
+
+Si tenia **1.000.000 CLP** en una cuenta corriente el primero de enero 2019, un año después, la **valor real** de este plata en 2020 es de....
+
+<iframe src="[https://giphy.com/embed/116seTvbXx07F6](https://giphy.com/embed/116seTvbXx07F6 "https://giphy.com/embed/116seTvbXx07F6")" width="480" height="371" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="[https://giphy.com/gifs/mardi-gras-116seTvbXx07F6](https://giphy.com/gifs/mardi-gras-116seTvbXx07F6 "https://giphy.com/gifs/mardi-gras-116seTvbXx07F6")">via GIPHY</a></p>
+
+#####  **+-850.000 CLP.**  En este ejemplo, tienes una **rentabilidad de** -**15%** 🎉
+
+<iframe src="[https://giphy.com/embed/1xVbSX8UzIiMPMZjZP](https://giphy.com/embed/1xVbSX8UzIiMPMZjZP "https://giphy.com/embed/1xVbSX8UzIiMPMZjZP")" width="480" height="392" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="[https://giphy.com/gifs/wtf-what-wth-1xVbSX8UzIiMPMZjZP](https://giphy.com/gifs/wtf-what-wth-1xVbSX8UzIiMPMZjZP "https://giphy.com/gifs/wtf-what-wth-1xVbSX8UzIiMPMZjZP")">via GIPHY</a></p>
+
+**De hecho, como norma general, no deberías tener más del 10% de tu sueldo en tu cuenta.**
 
 ### En Fintual nos preocupamos de tu inversión para que tú no tengas que hacerlo.
 
