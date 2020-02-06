@@ -36,17 +36,20 @@ Esto significa que si tenías $1.000.000 en tu cuenta corriente al 1 de enero de
 
 <div style="text-align:center">  
 <figure>  
-<img src="/uploads/garymedel no po.png">  
-<figcaption style="display:block;text-align:center;font-size:.8rem"><i>Créditos: YouTube</i></figcaption> </figure>  
+<img src="/uploads/giphy.webp">  
+</figure>  
 </div>
 
-![](/uploads/giphy.webp)
 
 **$850.000!**
 
 O sea, tienes una **rentabilidad de** -**15%** 😩
 
-![](/uploads/cat.webp)
+<div style="text-align:center">  
+<figure>  
+<img src="/uploads/cat.webp">  
+</figure>  
+</div>
 
 Horror.
 
