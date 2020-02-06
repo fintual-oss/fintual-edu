@@ -64,13 +64,11 @@ Tu plata se invierte diversificadamente en más de 3.500 empresas de distintos r
 
 Además, hace poco agregamos [inversiones verdes](https://edu.fintual.cl/inversiones-verdes-en-fintual/) a nuestros portafolios. 
 
-![](/uploads/verde.png)
-
-En 2019 nuestros clientes hicieron hasta **37,5% en un año**.
+En 2019 nuestros fondos rentaron hasta **37,5% en el año**.
 
 Y parte de esta rentabilidad es porque cobramos poco: **1,19% al año por administrar tu plata y nada más**. Así, más rentabilidad para ti.
 
-Estamos regulados por la Commission de los Mercados Financieros y ya administramos más de **US$55 millones de 8.800 clientes chilenos**.
+Estamos regulados por la Comisión para el Mercado Financiero y ya administramos más de **US$55 millones de 8.800 clientes.**
 
 <p align="center">
 <img src="/uploads/cmf.png">
@@ -78,7 +76,7 @@ Estamos regulados por la Commission de los Mercados Financieros y ya administram
 
 {{< prueba_fintual utmcontent="en+mi+cuenta+corriente" >}}
 
-Ahora cachaste porque es mucho más inteligente que dejar tu plata en el banco?
+Ahora cachaste por qué es mucho más inteligente que dejar tu plata en el banco 👀
 
 {{< /prueba_fintual >}}
 
