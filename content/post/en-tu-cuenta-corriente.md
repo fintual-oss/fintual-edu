@@ -30,7 +30,7 @@ En otras palabras, **la plata pierde un poco de su valor real cada día**. Con 1
 Entonces, en tu cuenta corriente (o cuenta vista, etc. da lo mismo) :
 
 * **tu plata pierdes valor de día a día por inflación**
-* **el banco te cobra + -10.000 pesos de tarifas cada mes.**
+* **el banco te cobra + -10.000 pesos de tarifas cada mes**
 
 Si tenia **1.000.000 CLP** en una cuenta corriente el primero de enero 2019, un año después, la **valor real** de este plata en 2020 es de....
 
@@ -38,23 +38,23 @@ Si tenia **1.000.000 CLP** en una cuenta corriente el primero de enero 2019, un 
 
 ##### **+-850.000 CLP.**  En este ejemplo, tienes una **rentabilidad de** -**15%** 🎉
 
-<div style="width:100%;height:0;padding-bottom:82%;position:relative;"><iframe src="[https://giphy.com/embed/1xVbSX8UzIiMPMZjZP](https://giphy.com/embed/1xVbSX8UzIiMPMZjZP "https://giphy.com/embed/1xVbSX8UzIiMPMZjZP")" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="[https://giphy.com/embed/3epYgNP7uvMFa](https://giphy.com/embed/3epYgNP7uvMFa "https://giphy.com/embed/3epYgNP7uvMFa")" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+
+Horror.
 
 **De hecho, como norma general, no deberías tener más del 10% de tu sueldo en tu cuenta.**
 
 ## Ya, entonces?
 
-### Tu plata bien invertida, sin tramites
+### Mejor tener tu plata bien invertida, sin tramites
 
-Invertir poco plata en fondo mutuo de un banco **=** montan de tramites **+** costos gigantes. Peludo. 
+Invertir plata en fondo mutuo de un banco **=** montan de tramites **+** costos gigantes. Peludo.
 
-**Por eso hicimos Fintual**, para cerrar la brecha entre financia cara y compleja que poco usan y su cuenta corriente que no sirve.
+**Por eso hicimos Fintual**, para cerrar la brecha entre financia cara y compleja que poco usan y la cuenta corriente que no sirve para ahorrar.
 
-Tu cuenta Fintual simple (mas simple?) que tu cuenta corriente pero MUCHO MAS inteligente y simpatico.
+Tu cuenta Fintual es simple (mas simple) que tu cuenta corriente pero _muchos mas_ inteligente y simpatico.
 
-Fintual es **ultra simple**, puedes poner **cualquier montan** (1 peso si quieres) y puedes **sacar tu plata** en un clic **a cualquier momento**, **sin costo**.
-
-Estamos regulados por la Commission de los Mercados Financieros y ya administramos más de **US$55 millones de 8.800 clientes**.
+Es **ultra simple**, puedes poner **cualquier montan** (1 peso si quieres) y **sacar tu plata** en un clic **a cualquier momento**, **sin costo**.
 
 <div style="text-align:center">  
 <figure>  
@@ -62,14 +62,11 @@ Estamos regulados por la Commission de los Mercados Financieros y ya administram
 </figure>  
 </div>
 
-En 2019 nuestros fondos rentaron:  
-Risky Norris: **37,52%**  
-Moderate Pitt: **19,08%**  
-Conservative Clooney: **4,81%**
+Estamos regulados por la Commission de los Mercados Financieros y ya administramos más de **US$55 millones de 8.800 clientes chilenos**.
+
+En 2019 nuestros clientes hicieron hasta **37,5% en un año**.
 
 Y parte de esta rentabilidad es porque cobramos poco: **1,19% al año por administrar tu plata y nada más**. No cobramos por retiros y puedes sacar tu inversión cuando quieras. En tres días tu plata está (de nuevo) en tu cuenta bancaria.
-
-Y como no es lo mismo ahorrar para tu jubilación que para una casa nueva, te armamos un portafolio personalizado que se ajusta al propósito de tu inversión.
 
 {{< prueba_fintual utmcontent="en+mi+cuenta+corriente" >}}
 
