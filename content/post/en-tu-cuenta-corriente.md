@@ -25,7 +25,7 @@ La razón se llama **inflación**.
 
 Todos los días los precios de los bienes y servicios suben un poquito.
 
-O sea, **la plata pierde un poco su valor cada día**. Eso explica que con $1.000 podías comprar muchas más cosas en 1985 que ahora.
+O sea, **la plata pierde un poco su valor cada día**. Eso explica que con luca podías comprar muchas más cosas en 1985 que ahora.
 
 Entonces, cuando dejas tu plata en la cuenta del banco pasan dos cosas:
 
@@ -40,7 +40,7 @@ Esto significa que si tenías $1.000.000 en tu cuenta corriente al 1 de enero de
 
 O sea, tienes una **rentabilidad de** -**15%** 😩
 
-![](/uploads/download.gif)
+![](/uploads/cat.webp)
 
 Horror.
 
@@ -50,7 +50,11 @@ Por eso muchos expertos en finanzas recomiendan **no tener más del 10% de tu su
 
 ### Invertir!
 
-Fintual es **simple**: puedes invertir y retirar tu plata cuando quieras. No tenemos montos mínimos ni cobramos por **sacar tu plata**. Haces click y en tres días tu plata está (de nuevo) en tu cuenta bancaria.
+Fintual es **simple**: puedes invertir y retirar tu plata cuando quieras. No tenemos montos mínimos ni cobramos por sacar tu plata. Haces click y en tres días tu plata está (de nuevo) en tu cuenta bancaria.
+
+Tu plata se invierte diversificadamente en más de 3.500 empresas de distintos rubros.
+
+ Y como no es lo mismo ahorrar para tu jubilación que para una casa nueva, te armamos un **portafolio personalizado** que se ajusta al propósito de tu inversión.
 
 <div style="text-align:center">  
 <figure>  
@@ -58,9 +62,7 @@ Fintual es **simple**: puedes invertir y retirar tu plata cuando quieras. No ten
 </figure>  
 </div>
 
-Tu plata esta invertida en más de 3.500 empresas de distintos rubros.
-
- Y como no es lo mismo ahorrar para tu jubilación que para una casa nueva, te armamos un **portafolio personalizado** que se ajusta al propósito de tu inversión.
+Además, hace poco agregamos [inversiones verdes](https://edu.fintual.cl/inversiones-verdes-en-fintual/) a nuestros portafolios. 
 
 ![](/uploads/verde.png)
 
