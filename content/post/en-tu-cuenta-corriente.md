@@ -70,15 +70,13 @@ Y como no es lo mismo ahorrar para tu jubilación que para una casa nueva, te ar
 </figure>  
 </div>
 
+Estamos regulados por la Comisión para el Mercado Financiero y ya administramos más de **US$55 millones de 8.800 clientes.**
+
+<p align="center"> <img src="/uploads/cmf.png"> </p>
+
 En 2019 nuestros fondos rentaron hasta **37,5% en el año**.
 
 Y parte de esta rentabilidad es porque cobramos poco: **1,19% al año por administrar tu plata y nada más**. 
-
-Estamos regulados por la Comisión para el Mercado Financiero y ya administramos más de **US$55 millones de 8.800 clientes.**
-
-<p align="center">
-<img src="/uploads/cmf.png">
-</p>
 
 {{< prueba_fintual utmcontent="en+mi+cuenta+corriente" >}}
 
