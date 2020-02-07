@@ -19,15 +19,13 @@ Cuando estaba en la universidad siempre me vi trabajando en una Casa de Bolsa si
 
 Una tarde en una junta, conocí a una Fintech que decían que cambiarían el mundo financiero. Todo su discurso me hacía sentido. Salí a investigar todo lo que pude de su mundo. Conforme iba leyendo me gustaba más y más.
 
-![](/uploads/200w_s.gif)
+<iframe src="https://giphy.com/embed/l1IY0geomfz09dEB2" width="480" height="358" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a></a></p>
 
 **Por primera vez veía soluciones reales a problemas reales**. El mundo estaba cambiando. Las finanzas se transformarían sin importar si los grupos financieros pusieran resistencia.
 
 Poco a poco fui entendiendo que estaba trabajando del lado del jugador débil, no porque aquí no tuvieran recursos, o suficiente gente talentosa, sino porque no estaba en su ADN este tipo de cambios. Se tardarían en procesarlos y darían muchos pasos en falso antes de tomar el camino correcto.
 
 A todo esto, **me quedaba claro que el problema no era de una empresa en concreto, sino de toda una industria** que como dinosaurio frente a un meteorito le cuesta moverse, adaptarse y afrontar la nueva realidad.
-
-<iframe src="https://giphy.com/embed/NSodIu91KDWCs" width="480" height="480" frameBorder="0" class="giphy-embed"allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dinosaur-t-rex-tyrannosaurus-NSodIu91KDWCs">via GIPHY</a></p>
 
 Al mismo tiempo me di cuenta de que había una oportunidad enorme en un nuevo modelo de finanzas y que tarde o temprano la industria iría moviéndose para adoptarla. Hice planes. Lo medité y **renuncié**.
 
