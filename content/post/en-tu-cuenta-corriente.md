@@ -32,7 +32,7 @@ Entonces, cuando dejas tu plata en la cuenta del banco pasan dos cosas:
 * **Tu plata pierde valor por la inflación (en 2019 fue 3% anual)**
 * **El banco te cobra una mantención de** \~**0,35 UF al mes ($10.000).**
 
-Esto significa que si tenías $1.000.000 en tu cuenta corriente al 1 de enero de 2019, un año después, la valor real de tu plata es...
+Esto significa que si tenías $1.000.000 en tu cuenta corriente al 1 de enero de 2019, un año después, el valor real de tu plata es...
 
 <div style="text-align:center">  
 <figure>  
