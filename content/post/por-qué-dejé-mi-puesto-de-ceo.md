@@ -27,6 +27,8 @@ Poco a poco fui entendiendo que estaba trabajando del lado del jugador débil, n
 
 A todo esto, **me quedaba claro que el problema no era de una empresa en concreto, sino de toda una industria** que como dinosaurio frente a un meteorito le cuesta moverse, adaptarse y afrontar la nueva realidad.
 
+![](https://i.giphy.com/media/NSodIu91KDWCs/giphy-downsized-large.gif)
+
 Al mismo tiempo me di cuenta de que había una oportunidad enorme en un nuevo modelo de finanzas y que tarde o temprano la industria iría moviéndose para adoptarla. Hice planes. Lo medité y **renuncié**.
 
 Cambié una cómoda oficina en una de las mejores avenidas de Ciudad de México por un coworking horrible. Dejé mi carro estacionado en casa para hacer caminatas largas y reflexivas. Adopté un perro, con intención de que me acompañara a la oficina, y decidí que no trabajaría en nada que no me divirtiera o me llenara de motivación.
