@@ -83,7 +83,7 @@ Sin embargo, [en los últimos 50 años en Estados Unidos los precios inmobiliari
 
 ##### **Entonces, ¿cuál es la respuesta final?**
 
-Como asumimos que no tenemos poderes mágicos de predicción, y no sabemos cómo se van a comportar los precios inmobiliarios en el futuro, preferimos dividir en tres posibles casos***:
+Como asumimos que no tenemos poderes mágicos de predicción, y no sabemos cómo se van a comportar los precios inmobiliarios en el futuro, preferimos dividir en tres posibles casos:
 
 <ol><li>Si crees que la propiedad subirá de precio de forma más acotada, es decir, menos de 1% al año, en la mayoría de los casos es preferible arrendar.</li>
 
@@ -103,9 +103,7 @@ _*Es la rentabilidad real del fondo C del sistema de AFP entre Sep/2002-Sep/2019
 
 _**Para estimar la relación entre arriendo y costo de la propiedad nos basamos en una pequeña muestra de 25 propiedades. Este número puede variar bastante para ciertas propiedades, por eso vale la pena revisar caso a caso._
 
-_***_[_La planilla con el detalle del cálculo está_ _acá_](https://docs.google.com/spreadsheets/d/1whtgyTRULda8xDXDUNv2n3RoOIdk_fVcePCvypVDYN8/copy)_. Puedes usarla para analizar qué te conviene a ti_ 😉
-
-_****Este análisis no considera todas las implicancias tributarias de rentar con uno u otro tipo de inversión._
+_***Este análisis no considera todas las implicancias tributarias de rentar con uno u otro tipo de inversión._
 
 <p></p>
 
