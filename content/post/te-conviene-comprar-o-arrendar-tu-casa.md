@@ -61,6 +61,10 @@ Para hacerlo simple, vamos a suponer que:
 * **Arreglos/remodelaciones mayores anuales respecto valor propiedad propia**: vamos a suponer un gasto de 0,50% por año
 * **Valor de arriendo de una propiedad equivalente**: vamos a suponer que es un 0,38% del valor de la propiedad**, es decir, vamos a suponer un arriendo de $380.000 por una propiedad que cuesta actualmente $100.000.000.
 
+Para hacer el cálculo de la opción de **comprar**, vamos a evaluar con **cuánto capital quedas luego de que terminas de pagar el crédito hipotecario** (contempla la propiedad al final del periodo). Para la opción de **arrendar**, el capital final contempla la inversión de todos los ahorros que generas al no comprar una casa, es decir, la **capitalización del costo de oportunidad.  
+  
+Si quieres analizar el detalle del cálculo,** [**revisa esta** **planilla**](https://docs.google.com/spreadsheets/d/1whtgyTRULda8xDXDUNv2n3RoOIdk_fVcePCvypVDYN8/copy) (también sirve para analizar tu caso particular 😉).
+
 ##### **¿Cómo estimar la plusvalía de la propiedad?**
 
 La plusvalía es lo que sube el precio de una propiedad por sobre la inflación. En los últimos años ha sido mayor al 7% anual en el Gran Santiago, es decir, [hemos visto casi duplicar el valor de las propiedades en UF en la última década](https://clapesuc.cl/assets/uploads/2018/12/18-12-18-doc-trab-n52-su-precio-inmobiliarios.pdf?fbclid=IwAR2VNOweyedLzUwluXf30kZxHoJqN9r_dOMSu3W3jeQWEbtlzKmEUsCmdD). En ciertos lugares los departamentos han incluso [duplicado su valor en sólo 8 años](http://www.latercera.com/pulso/noticia/precios-los-departamentos-anotaron-mayor-alza-desde-mediados-2016/478818/).  Pese a ello, los precios de arriendos se han estabilizado desde el 2013:
