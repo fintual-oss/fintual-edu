@@ -81,3 +81,5 @@ fields:
   type: boolean
   hidden: false
   default: true
+pages:
+- content/post/por-qué-dejé-mi-puesto-de-ceo.md
