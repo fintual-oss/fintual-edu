@@ -19,7 +19,7 @@ Cuando estaba en la universidad siempre me vi trabajando en una Casa de Bolsa si
 
 Una tarde en una junta, conocí a una Fintech que decían que cambiarían el mundo financiero. Todo su discurso me hacía sentido. Salí a investigar todo lo que pude de su mundo. Conforme iba leyendo me gustaba más y más.
 
-<iframe src="https://giphy.com/embed/l1IY0geomfz09dEB2" width="480" height="358" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a></a></p>
+![](https://i.giphy.com/media/l1IY0geomfz09dEB2/giphy.webp)
 
 **Por primera vez veía soluciones reales a problemas reales**. El mundo estaba cambiando. Las finanzas se transformarían sin importar si los grupos financieros pusieran resistencia.
 
@@ -27,7 +27,7 @@ Poco a poco fui entendiendo que estaba trabajando del lado del jugador débil, n
 
 A todo esto, **me quedaba claro que el problema no era de una empresa en concreto, sino de toda una industria** que como dinosaurio frente a un meteorito le cuesta moverse, adaptarse y afrontar la nueva realidad.
 
-<iframe src="https://giphy.com/embed/NSodIu91KDWCs" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a></a></p>
+![](https://i.giphy.com/media/NSodIu91KDWCs/giphy-downsized-large.gif)![](https://i.giphy.com/media/NSodIu91KDWCs/giphy-downsized-large.gif)![](https://i.giphy.com/media/NSodIu91KDWCs/giphy-downsized-large.gif)![](https://i.giphy.com/media/NSodIu91KDWCs/giphy-downsized-large.gif)<iframe src="https://giphy.com/embed/NSodIu91KDWCs" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a></a></p>
 
 Al mismo tiempo me di cuenta de que había una oportunidad enorme en un nuevo modelo de finanzas y que tarde o temprano la industria iría moviéndose para adoptarla. Hice planes. Lo medité y **renuncié**.
 
