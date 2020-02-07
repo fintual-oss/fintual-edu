@@ -7,7 +7,7 @@ description = ""
 hide = false
 image = "/uploads/Blog-1.png"
 title = "¿Te conviene tener una casa de veraneo?"
-url = "comprar-vs-arrendar"
+url = "/te-conviene-tener-una-casa-de-veraneo"
 
 +++
 _Le pedí ayuda a los cracks matemáticos con los que trabajo para analizar si comprar tu casa es buena o mala decisión._
