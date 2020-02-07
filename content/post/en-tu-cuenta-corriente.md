@@ -80,7 +80,7 @@ Y parte de esta rentabilidad es porque cobramos poco: **1,19% al año por admini
 
 {{< prueba_fintual utmcontent="en+mi+cuenta+corriente" >}}
 
-¿Ahora cachaste por qué es mucho más inteligente que dejar tu plata en el banco? 👀
+¿Ahora cachaste por qué es mucho más inteligente que dejar tu plata en el tu cuenta corriente? 👀
 
 {{< /prueba_fintual >}}
 
