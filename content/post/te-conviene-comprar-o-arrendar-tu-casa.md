@@ -63,7 +63,7 @@ Para hacerlo simple, vamos a suponer que:
 
 Para hacer el cálculo de la opción de **comprar**, vamos a evaluar con **cuánto capital quedas luego de que terminas de pagar el crédito hipotecario** (contempla la propiedad al final del periodo). Para la opción de **arrendar**, el capital final contempla la inversión de todos los ahorros que generas al no comprar una casa, es decir, la **capitalización del costo de oportunidad.  
   
-Si quieres analizar el detalle del cálculo,** [**revisa esta** **planilla**](https://docs.google.com/spreadsheets/d/1whtgyTRULda8xDXDUNv2n3RoOIdk_fVcePCvypVDYN8/copy) (también sirve para analizar tu caso particular 😉).
+Si quieres ver el detalle del cálculo,** [**revisa esta** **planilla**](https://docs.google.com/spreadsheets/d/1whtgyTRULda8xDXDUNv2n3RoOIdk_fVcePCvypVDYN8/copy) (también sirve para analizar tu caso particular 😉).
 
 ##### **¿Cómo estimar la plusvalía de la propiedad?**
 
