@@ -19,7 +19,7 @@ Cuando estaba en la universidad siempre me vi trabajando en una Casa de Bolsa si
 
 Una tarde en una junta, conocí a una Fintech que decían que cambiarían el mundo financiero. Todo su discurso me hacía sentido. Salí a investigar todo lo que pude de su mundo. Conforme iba leyendo me gustaba más y más.
 
-<iframe src="https://giphy.com/embed/l1IY0geomfz09dEB2" width="480" height="358" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/season-1-episode-2-david-lynch-l1IY0geomfz09dEB2">via GIPHY</a></p>
+![](/uploads/200w_s.gif)
 
 **Por primera vez veía soluciones reales a problemas reales**. El mundo estaba cambiando. Las finanzas se transformarían sin importar si los grupos financieros pusieran resistencia.
 
