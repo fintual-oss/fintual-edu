@@ -36,12 +36,18 @@ sharingicons = false
     [params.writers."Francesca Finaldi"]
     name = "Francesca Finaldi"
     thumbnail = "/uploads/francesca_finaldi.jpg"
-    [params.writers."Juan Francisco Weitz"]
-    name = "Juan Francisco Weitz"
-    thumbnail = "/uploads/jf.png"
-    [params.writers."Matías Hurtado"]
-    name= "Matías Hurtado"
-    thumbnail= "/uploads/matias_hurtado.jpg"
+    [params.writers."Montserrat Bonilla"]
+    name= "Montserrat Bonilla"
+    thumbnail= "/uploads/montserrat_bonilla.jpg"
+    [params.writers."Victor Hugo Flores"]
+    name= "Victor Hugo Flores"
+    thumbnail= "/uploads/victor_hugo_flores.jpg"
+    [params.writers."Carolina Rojas"]
+    name= "Carolina Rojas"
+    thumbnail= "/uploads/carolina_rojas.jpg"
+    [params.writers."Jessica Guzmán"]
+    name= "Jessica Guzmán"
+    thumbnail= "/uploads/jessica_guzman.jpg"
 
 [params.highlight]
 languages = ["go", "dockerfile"]
