@@ -6,7 +6,7 @@ date = 2020-02-04T20:55:47Z
 description = "Si has pensado en comprar una casa para tus vacaciones, primero lee esto."
 hide = true
 image = "/uploads/Blog-1.png"
-title = "¿Te conviene tener una casa de veraneo?"
+title = "¿Te conviene tener una casa de verano?"
 url = "/te-conviene-tener-una-casa-de-veraneo"
 
 +++
