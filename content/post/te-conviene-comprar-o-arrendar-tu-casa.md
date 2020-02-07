@@ -61,9 +61,9 @@ Para hacerlo simple, vamos a suponer que:
 * **Arreglos/remodelaciones mayores anuales respecto valor propiedad propia**: vamos a suponer un gasto de 0,50% por año
 * **Valor de arriendo de una propiedad equivalente**: vamos a suponer que es un 0,38% del valor de la propiedad**, es decir, vamos a suponer un arriendo de $380.000 por una propiedad que cuesta actualmente $100.000.000.
 
-Para hacer el cálculo de la opción de **comprar**, vamos a evaluar con **cuánto capital quedas luego de que terminas de pagar el crédito hipotecario** (contempla la propiedad al final del periodo). Para la opción de **arrendar**, el capital final contempla la inversión de todos los ahorros que generas al no comprar una casa, es decir, la **capitalización del costo de oportunidad.  
-  
-Si quieres ver el detalle del cálculo,** [**revisa esta** **planilla**](https://docs.google.com/spreadsheets/d/1whtgyTRULda8xDXDUNv2n3RoOIdk_fVcePCvypVDYN8/copy) (también sirve para analizar tu caso particular 😉).
+Para hacer el cálculo de la opción de **comprar**, vamos a evaluar con **cuánto capital quedas luego de que terminas de pagar el crédito hipotecario** (contempla la propiedad al final del periodo). Para la opción de **arrendar**, el capital final contempla la inversión de todos los ahorros que generas al no comprar una casa, es decir, **la capitalización del costo de oportunidad**.
+
+Si quieres ver el detalle del cálculo, [**revisa esta** **planilla**](https://docs.google.com/spreadsheets/d/1whtgyTRULda8xDXDUNv2n3RoOIdk_fVcePCvypVDYN8/copy) (también sirve para analizar tu caso particular 😉).
 
 ##### **¿Cómo estimar la plusvalía de la propiedad?**
 
