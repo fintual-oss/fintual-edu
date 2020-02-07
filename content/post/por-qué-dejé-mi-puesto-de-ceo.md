@@ -27,7 +27,7 @@ Poco a poco fui entendiendo que estaba trabajando del lado del jugador débil, n
 
 A todo esto, **me quedaba claro que el problema no era de una empresa en concreto, sino de toda una industria** que como dinosaurio frente a un meteorito le cuesta moverse, adaptarse y afrontar la nueva realidad.
 
-<iframe src="https://giphy.com/embed/NSodIu91KDWCs" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a> </a></p>
+<iframe src="https://giphy.com/embed/NSodIu91KDWCs" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a></a></p>
 
 Al mismo tiempo me di cuenta de que había una oportunidad enorme en un nuevo modelo de finanzas y que tarde o temprano la industria iría moviéndose para adoptarla. Hice planes. Lo medité y **renuncié**.
 
