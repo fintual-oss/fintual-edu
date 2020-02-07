@@ -32,7 +32,7 @@ Entonces, cuando dejas tu plata en la cuenta del banco pasan dos cosas:
 * **Tu plata pierde valor por la inflación (en 2019 fue 3% anual)**
 * **El banco te cobra una mantención de** \~**0,35 UF al mes ($10.000).**
 
-Esto significa que si tenías $1.000.000 en tu cuenta corriente al 1 de enero de 2019, un año después, el valor real de tu plata es...
+Esto significa que si tenías $1.000.000 en tu cuenta corriente al 1 de enero de 2019, un año después, lo que realmente vale tu plata es...
 
 <div style="text-align:center">  
 <figure>  
@@ -58,7 +58,7 @@ Por eso muchos expertos en finanzas recomiendan **no tener más del 10% de tu su
 
 ### Invertir!
 
-En **Fintual** puedes invertir y retirar tu plata cuando quieras. No tenemos montos mínimos —puedes partir probando con luca— ni cobramos por rescates. Con un click tu plata está de vuelta en tu cuenta bancaria en tres días bancarios.
+En **Fintual** puedes invertir y retirar tu plata cuando quieras. No tenemos montos mínimos —puedes partir probando con luca— ni cobramos por rescates. Con un click tu plata está de vuelta en tu cuenta bancaria en tres días hábiles.
 
 Tu inversión está diversificada en más de 3.500 empresas de distintos rubros. Además, hace poco agregamos [inversiones verdes](https://edu.fintual.cl/inversiones-verdes-en-fintual/) a nuestros portafolios.
 
