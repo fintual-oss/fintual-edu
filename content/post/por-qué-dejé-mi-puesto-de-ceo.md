@@ -3,10 +3,10 @@ aliases = []
 author = "Pedro Pineda"
 categories = []
 date = 2020-02-07T14:33:20Z
-description = ""
+description = "Víctor Hugo Flores, director de Fintual México explica cómo y por qué renunció a su sueño de ser CEO."
 draft = true
 hide = false
-image = ""
+image = "/uploads/Ser CEO.png"
 title = "Por qué dejé mi puesto de CEO"
 url = "dejé-de-ser-CEO"
 
