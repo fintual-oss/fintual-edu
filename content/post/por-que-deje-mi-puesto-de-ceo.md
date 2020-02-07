@@ -1,7 +1,7 @@
 +++
 aliases = []
 author = "Victor Hugo Flores"
-categories = ["educación financiera"]
+categories = []
 date = 2020-02-07T14:33:20Z
 description = "Víctor Hugo Flores, director de Fintual México explica cómo y por qué renunció a su sueño de ser CEO."
 hide = false
