@@ -11,6 +11,8 @@ title = "Por qué dejé mi puesto de CEO"
 url = "dejé-de-ser-CEO"
 
 +++
+![](/uploads/Ser CEO.png)
+
 Finalmente presenté mi renuncia. Me atreví a buscar un sueño que tenía desde hace meses: emprender y cambiar mi vida.
 
 Cuando estaba en la universidad siempre me vi trabajando en una Casa de Bolsa siendo el CEO. Invertir en altos patrimonios, tener un carro deportivo, usar buenos trajes y vivir al estilo Wall Street. **Avanzando en la jerarquía bursátil parecía que iba por buen camino.**
@@ -27,7 +29,7 @@ A todo esto, **me quedaba claro que el problema no era de una empresa en concret
 
 <iframe src="https://giphy.com/embed/NSodIu91KDWCs" width="480" height="480" frameBorder="0" class="giphy-embed"allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dinosaur-t-rex-tyrannosaurus-NSodIu91KDWCs">via GIPHY</a></p>
 
-Al mismo tiempo me di cuenta de que había una oportunidad enorme en un nuevo modelo de finanzas y que tarde o temprano la industria iría moviéndose para adoptarla. Hice planes. Lo medité y **renuncié**. 
+Al mismo tiempo me di cuenta de que había una oportunidad enorme en un nuevo modelo de finanzas y que tarde o temprano la industria iría moviéndose para adoptarla. Hice planes. Lo medité y **renuncié**.
 
 Cambié una cómoda oficina en una de las mejores avenidas de Ciudad de México por un coworking horrible. Dejé mi carro estacionado en casa para hacer caminatas largas y reflexivas. Adopté un perro, con intención de que me acompañara a la oficina, y decidí que no trabajaría en nada que no me divirtiera o me llenara de motivación.
 
