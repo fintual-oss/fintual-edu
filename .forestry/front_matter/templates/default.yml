@@ -81,5 +81,3 @@ fields:
   type: boolean
   hidden: false
   default: true
-pages:
-- content/post/fintual-aterriza-en-méxico.md
