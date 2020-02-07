@@ -3,4 +3,4 @@
 	url = https://github.com/appernetic/hugo-nederburg-theme.git
 [submodule "themes/mediumish"]
 	path = themes/mediumish
-	url = https://github.com/lgaida/mediumish-gohugo-theme.git
+	url = https://github.com/platanus/mediumish-gohugo-theme.git
