@@ -1,6 +1,6 @@
 +++
 aliases = []
-author = "Pedro Pineda"
+author = "Victor Hugo Flores"
 categories = []
 date = 2020-02-07T14:33:20Z
 description = "Víctor Hugo Flores, director de Fintual México explica cómo y por qué renunció a su sueño de ser CEO."
