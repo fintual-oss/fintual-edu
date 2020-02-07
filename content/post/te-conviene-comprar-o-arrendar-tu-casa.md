@@ -7,7 +7,7 @@ description = ""
 hide = false
 image = "/uploads/Blog-1.png"
 title = "¿Te conviene comprar o arrendar tu casa?"
-url = "comprar-vs-arrendar"
+url = "/comprar-vs-arrendar"
 
 +++
 _Le pedí ayuda a los cracks matemáticos con los que trabajo para analizar si comprar tu casa es buena o mala decisión._
