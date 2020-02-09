@@ -84,5 +84,3 @@ fields:
   type: boolean
   hidden: false
   default: true
-pages:
-- content/post/testing-goes-a-long-way.md
