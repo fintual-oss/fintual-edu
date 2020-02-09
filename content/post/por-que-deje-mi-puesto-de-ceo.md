@@ -2,7 +2,7 @@
 aliases = []
 author = "Victor Hugo Flores"
 categories = []
-date = 2020-02-07T14:33:20Z
+date = 2020-02-07T14:34:00Z
 description = "Víctor Hugo Flores, director de Fintual México explica cómo y por qué renunció a su sueño de ser CEO."
 hide = false
 image = "/uploads/Ser CEO.png"
@@ -10,7 +10,6 @@ title = "Por qué dejé mi puesto de CEO"
 url = "dejo-mi-puesto-de-ceo"
 
 +++
-
 ![](/uploads/Ser CEO.png)
 
 Finalmente presenté mi renuncia. Me atreví a buscar un sueño que tenía desde hace meses: emprender y cambiar mi vida.
