@@ -84,3 +84,5 @@ fields:
   type: boolean
   hidden: false
   default: true
+pages:
+- content/post/testing-is-good.md
