@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: true
 admin_path: ''
-webhook_url: https://ee7vrb951a.execute-api.us-east-2.amazonaws.com/default/InvalidateCacheForHome_EDU
+webhook_url: https://mw8sou9q1f.execute-api.us-east-2.amazonaws.com/default/invalidate_cache_edu_mx
 sections:
 - type: directory
   path: content/landing
