@@ -43,16 +43,3 @@ Es **ofrecer el servicio que yo quisiera recibir**. Desde el no aprovecharse del
 Todo lo anterior se dice sencillo, pero hacerlo implica cambios aún más profundos. Implica nuevas formas de hacer equipos y la cultura de los mismos. Tener siempre a los mejores para cada posición, y que cada uno de ellos ame cambiar cómo la gente se relaciona con sus inversiones.
 
 El desafío es grande, pero estamos dispuestos a aceptarlo.
-
-{{/* ----- HOW TO USE THIS SNIPPET ------ _/}}
-{{/_ -- 1. Choose a UTM tag and write it between the quotes below, ex:  utmcontent="regime-apv-a" _/}}
-{{/_ -- 2. Replace "Más inteligente que dejar su dinero en el banco." by any other text you want to appear in the card. MAXIMUM 150 CHARACTERS PLEASE otherwise it breaks the design.  */}}
-
-{{< prueba_fintual
-utmcontent="test"
-card_title="Prueba Fintual"
-card_button="Empezar" > }}
-
-Más inteligente que dejar su dinero en el banco.
-
-{{< /prueba_fintual >}}
