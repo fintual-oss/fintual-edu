@@ -27,7 +27,3 @@ Ahora, los bancos en Chile podrán pedir prestado dinero más barato, lo que **d
 * En cambio, **los bonos deberían tener una ganancia puntual rápida entre el lunes y martes (“ganancia de capital”)**, por lo que serían días atractivos para los que mantengan inversiones conservadoras.
 
 {{< newsletter_signup >}}
-
-{{/* ----- HOW TO USE THIS SNIPPET ------ _/}}
-{{/_ -- 1. Choose a UTM tag and write it between the quotes below, ex:  utmcontent="regime-apv-a" _/}}
-{{/_ -- 2. Replace "Más inteligente que dejar su plata en el banco." by any other text you want to appear in the card. MAXIMUM 150 CHARACTERS PLEASE otherwise it breaks the design.  */}}
