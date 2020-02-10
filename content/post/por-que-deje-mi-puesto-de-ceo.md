@@ -46,9 +46,9 @@ El desafío es grande, pero estamos dispuestos a aceptarlo.
 
 {{< prueba_fintual
 utmcontent="write_here_the_utm_tag"
-card_title="Prueba Fintual"
+card_title="¡Hola, México!"
 card_button="Empezar" >}}
 
-Más inteligente que dejar su dinero en el banco.
+¿Quieres ser de los primeros en enterarte de nuestro lanzamiento? Déjanos tu mail.
 
 {{< /prueba_fintual >}}
