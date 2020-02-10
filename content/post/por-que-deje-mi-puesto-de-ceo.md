@@ -44,14 +44,10 @@ Todo lo anterior se dice sencillo, pero hacerlo implica cambios aún más profun
 
 El desafío es grande, pero estamos dispuestos a aceptarlo.
 
-{{/* ----- HOW TO USE THIS SNIPPET ------ _/}}
-{{/_ -- 1. Choose a UTM tag and write it between the quotes below, ex:  utmcontent="regime-apv-a" _/}}
-{{/_ -- 2. Replace "Más inteligente que dejar su dinero en el banco." by any other text you want to appear in the card. MAXIMUM 150 CHARACTERS PLEASE otherwise it breaks the design.  */}}
-
 {{< prueba_fintual
 utmcontent="write_here_the_utm_tag"
 card_title="Prueba Fintual"
-card_button="Empezar" > }}
+card_button="Empezar" >}}
 
 Más inteligente que dejar su dinero en el banco.
 
