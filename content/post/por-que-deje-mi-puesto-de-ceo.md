@@ -49,6 +49,6 @@ utmcontent="write_here_the_utm_tag"
 card_title="¡Hola, México!"
 card_button="¡AQUÍ!" >}}
 
-¿Quieres ser de los primeros en enterarte de nuestro lanzamiento? Déjanos tu mail.
+¿Quieres ser de los primeros en enterarte de nuestro lanzamiento? Déjanos tu mail
 
 {{< /prueba_fintual >}}
