@@ -35,7 +35,7 @@ jobs:
       - deploy:
           name: deploy to AWS
           command: |
-            if [ "${CIRCLE_BRANCH}" = "master-mx" ]; then
+            if [ "${CIRCLE_BRANCH}" = "mx-test" ]; then
               aws s3 sync $HUGO_BUILD_DIR \
               s3://edu.fintual.mx/ --delete
             else
