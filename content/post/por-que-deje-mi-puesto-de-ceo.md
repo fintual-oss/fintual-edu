@@ -7,7 +7,7 @@ description = "Víctor Hugo Flores, director de Fintual México explica cómo y 
 hide = false
 image = "/uploads/Ser CEO.png"
 title = "Por qué dejé mi puesto de CEO"
-url = "dejo-mi-puesto-de-ceo"
+url = "/dejo-mi-puesto-de-ceo"
 
 +++
 ![](/uploads/Ser CEO.png)
