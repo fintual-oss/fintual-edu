@@ -45,7 +45,7 @@ Todo lo anterior se dice sencillo, pero hacerlo implica cambios aún más profun
 El desafío es grande, pero estamos dispuestos a aceptarlo.
 
 {{% prueba_fintual
-utmcontent="deje_de_ser_CEO"
+utmcontent="deje+de+ser+CEO"
 card_title="¡Hola, México!"
 _card_button="¡AQUÍ!" %}}
 
