@@ -49,6 +49,6 @@ utmcontent="deje_de_ser_CEO"
 card_title="¡Hola, México!"
 _card_button="¡AQUÍ!" %}}
 
-¿Quieres ser de los primeros en enterarte de nuestro lanzamiento? Déjanos tu e-mail
+¿Quieres ser de los primeros en enterarte de nuestro lanzamiento? Déjanos tu e-mail!
 
 {{% /prueba_fintual %}}
