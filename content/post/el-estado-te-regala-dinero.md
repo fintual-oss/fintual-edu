@@ -49,7 +49,7 @@ utmcontent="295_gratis"
 card_title="Prueba Fintual"
 card_button="Empezar" %}}
 
-Más inteligente que dejar tu plata en el banco.
+Y empieza a aprovechar este beneficio tributario.
 
 {{% /prueba_fintual %}}
 
