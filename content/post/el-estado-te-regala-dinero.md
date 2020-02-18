@@ -23,12 +23,12 @@ No es el bono marzo.
 
 Es para cualquier persona.
 
-<div class="image-wrapper">
-
-<img src="/uploads/not-bad-joey-meme.jpg" alt="Joey says not bad">
-
+<div style="text-align:center">  
+<figure>  
+<img src="/uploads/not-bad-joey-meme.jpg">  
+<em> Joey says not bad </em>  
+</figure>  
 </div>
-<br>
 
 El Estado te regala hasta 6 UTM (que son $295.374 a noviembre de 2019) **cada vez que logres ahorrar $1.969.160 durante el año.**
 
