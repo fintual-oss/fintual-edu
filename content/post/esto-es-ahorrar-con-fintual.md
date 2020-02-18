@@ -55,3 +55,22 @@ chinito
 👉 Pero primero, ¡regístrate a nuestra lista de espera, [aquí](https://fintual.mx/?utm_source=fintual&utm_medium=social&utm_campaign=waiting_list_mx&utm_content=-341)!
 
 **¿Alguna otra duda?** Lánzala a [mexico@fintual.com](mailto:mexico@fintual.com), o en alguna de nuestras redes. Búscanos como @Fintual México en Twitter, LinkedIn y Facebook.
+
+{{% prueba_fintual
+utmcontent="ahorrar_con_fintualmx"
+card_title="¿Te late Fintual?"
+card_button="Empezar" %}}
+
+Regístrate a nuestra lista de espera. ¡Ojo! Puedes invitar a tus amigos y subir en el conteo.
+
+{{% /prueba_fintual %}}
+
+##### **¿Te interesa saber más?**
+
+Fintual, Inc. es un servicio digital de gestión de inversiones en línea con sede en Santiago, Chile y Ciudad de México.
+
+Actualmente administra más de $57 millones USD de más de 9 mil usuarios y es regulada en Chile por la Comisión para el Mercado Financiero (CMF).
+
+La empresa fue fundada en 2016 por Pedro Pineda, Agustín Feuerhake, Omar Larré y Andrés Marinkovic, y ha sido nombrada como una de las 50 startups que cambiarán el mundo.
+
+En 2018 fue la primera y única startup chilena en ser admitida en Y Combinator y han recibido inversión de diferentes fondos de capital riesgo como ALLVP y Village Capital.
