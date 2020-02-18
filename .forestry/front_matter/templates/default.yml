@@ -84,3 +84,5 @@ fields:
   type: boolean
   hidden: false
   default: true
+pages:
+- content/post/esto-es-ahorrar-con-fintual.md
