@@ -21,7 +21,7 @@ Mi sueño es poder pasarle el problema a un ser súper inteligente para que me l
 
 Vamos **paso a paso**.
 
-### 1. Divide tu torta
+#### 1. Divide tu torta
 
 Esta etapa se trata de separar tus **ingresos mensuales** en 4 categorías distintas, cada una representando un porcentaje del total:
 
@@ -69,7 +69,7 @@ La primera vez que hagas esto puede ser medio latero, porque vas a tener que ent
 
 _**La planilla está hecha en base a tu sueldo bruto porque en Chile los trabajadores dependientes están obligados a ahorrar para la jubilación en una AFP, pagar un plan de salud y otras cosas que pertenecen a categorías distintas._
 
-### 2. Descuentos y pagos de tu sueldo
+#### 2. Descuentos y pagos de tu sueldo
 
 Hay **ciertos descuentos que hace tu empleador de tu sueldo bruto antes de pagarte el líquido**, como tu AFP, isapre, impuestos y el seguro de cesantía.
 
@@ -83,7 +83,7 @@ Tu empleador también te puede **descontar por planilla tu APV. Normalmente esto
 
 Hechos los descuentos, **te debería llegar el sueldo líquido a tu cuenta corriente.**
 
-### 3. Transferencias automáticas
+#### 3. Transferencias automáticas
 
 Qué lata las transferencias, con sus digipasses, claves y mensajes de confirmación. Lo mejor es automatizarlas: **tu sueldo va a fluir sin esfuerzo a tus distintos gastos, ahorros e inversiones.**
 
@@ -133,7 +133,7 @@ Cuando haces una transferencia automática a Fintual te va a llegar un mail preg
 
 ![como-asignar-o-configurar-tus-depositos-en-fintual](/uploads/asignar-depositos.jpg "asigna-tus-depositos-fintual")
 
-### 4. Ingresos extra
+#### 4. Ingresos extra
 
 Tal como hay gastos inesperados, a veces toca recibir plata extra. Como soy joven, **tengo un regla de invertir el 80% y gastar el 20%**. Esto es porque la plata que invierta hoy tiene la posibilidad de crecer mucho a través del tiempo (oh, interés compuesto), cosa que no quiero desaprovechar.
 
@@ -141,7 +141,7 @@ Tal como hay gastos inesperados, a veces toca recibir plata extra. Como soy jove
 
 ***
 
-### Lo último
+#### Lo último
 
 Armar este sistema automático va a ser un poco de pega. Vas a tener que llenar la planilla, ver tus liquidaciones de sueldo, programar varias transferencias e incluso puede que tengas que abrir otra cuenta en el banco. No dejes que eso te desanime.
 
@@ -162,12 +162,22 @@ Saludos,
 
 Gonzalo
 
-> ### Si llegaste hasta el final es porque tienes ganas de hacerlo mejor con tus finanzas.
->
-> ### Para invertir, te recomiendo [Fintual](https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=edu+ordenar+finanzas+2horas-258) porque es fácil, tiene comisiones bajas, y puedes crear todos los objetivos que quieras para ordenarte. Lo uso desde antes de trabajar aquí 🙂
->
-> ### [Prueba sin costo el simulador](https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=edu+ordenar+finanzas+2horas-258), te va a gustar ⚡️
+{{% prueba_fintual
+utmcontent="write_here_the_utm_tag"
+card_title="Prueba Fintual"
+card_button="Empezar" %}}
+
+Más inteligente que dejar su plata en el banco.
+
+{{% /prueba_fintual %}}
+
+{{% prueba_fintual
+utmcontent="write_here_the_utm_tag"
+card_title="Prueba Fintual"
+card_button="Empezar" %}}
+
+Más inteligente que dejar su plata en el banco.
+
+{{% /prueba_fintual %}}
 
 _Infórmese de las características esenciales de la inversión en estos fondos mutuos, los que se encuentran contenidos en sus reglamentos internos y contratos de suscripción de cuotas._
-
-{{< newsletter_signup >}}
