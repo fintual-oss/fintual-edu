@@ -58,8 +58,11 @@ Como hablamos de rentabilidad, tenemos que decirte tres cosas:
 * La rentabilidad o ganancia obtenida en el pasado por este fondo, no garantiza que ella se repita en el futuro. Los valores de las cuotas de los fondos mutuos son variables.
 * Infórmese de las características esenciales de la inversión en este fondo mutuo, las que se encuentran contenidas en su reglamento interno y contrato de suscripción de cuotas.
 
-{{< prueba_fintual utmcontent="resumen+2019" >}}
+{{% prueba_fintual
+utmcontent="cosas_2019"
+card_title="Prueba Fintual"
+card_button="Empezar" %}}
 
 Más inteligente que dejar tu plata en el banco.
 
-{{< /prueba_fintual >}}
+{{% /prueba_fintual %}}
