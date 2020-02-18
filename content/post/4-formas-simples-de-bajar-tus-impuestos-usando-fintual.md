@@ -2,7 +2,7 @@
 aliases = []
 author = "Gonzalo Enei"
 categories = ["educación financiera"]
-date = "2019-09-25T16:22:00+00:00"
+date = 2019-09-25T16:22:00Z
 description = "Hay beneficios tributarios que todos los usuarios de Fintual podrían aprovechar."
 hide = false
 image = "/uploads/Post Edu Impuestos.png"
@@ -64,10 +64,14 @@ Más info en [www.fintual.com/apv](https://fintual.cl/apv/?utm_source=edu&utm_me
 
 Usar algunos de estos beneficios ahora depende de ti, ya tú sae' 😏
 
-> #### Fintual es una forma simple de invertir. Potencia tus finanzas y ve crecer tu dinero en el tiempo.
->
-> #### [Prueba sin costo nuestro simulador](https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=edu+beneficios+tributarios+fintual-281) y ve cuál es la mejor opción para ti. No hay montos mínimos.
+{{% prueba_fintual
+utmcontent="4_beneficios_tributarios"
+card_title="Prueba Fintual"
+card_button="Empezar" %}}
+
+Más inteligente que dejar tu plata en el banco.
+
+{{% /prueba_fintual %}}
+
 
 _Infórmese de las características esenciales de la inversión en estos fondos mutuos, los que se encuentran contenidos en sus reglamentos internos y contratos de suscripción de cuotas._
-
-{{< newsletter_signup >}}
