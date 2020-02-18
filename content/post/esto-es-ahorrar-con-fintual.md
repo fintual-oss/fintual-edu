@@ -40,3 +40,8 @@ Tu cuenta siempre está a tu nombre, y desde nuestra plataforma puedes ver en qu
 Desde [fintual.mx](https://fintual.mx/?utm_source=fintual&utm_medium=social&utm_campaign=waiting_list_mx&utm_content=-341) contestas algunas preguntas con las que definimos tu estrategia, de acuerdo con tu perfil de riesgo y objetivos －porque no es lo mismo ahorrar para tu jubilación que para tus vacaciones, y desde [Fintual](https://fintual.mx/?utm_source=fintual&utm_medium=social&utm_campaign=waiting_list_mx&utm_content=-341) puedes ahorrar para varias metas al mismo tiempo.
 
 Depositas el monto que quieres invertir, y ¡listo! Nosotros nos encargamos de lo demás.
+
+  
+👉 Pero primero, ¡regístrate a nuestra lista de espera, [aquí](https://fintual.mx/?utm_source=fintual&utm_medium=social&utm_campaign=waiting_list_mx&utm_content=-341)!
+
+**¿Alguna otra duda?** Lánzala a [mexico@fintual.com](mailto:mexico@fintual.com), o en alguna de nuestras redes. Búscanos como @Fintual México en Twitter, LinkedIn y Facebook.
