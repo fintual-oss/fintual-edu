@@ -12,7 +12,9 @@ aliases: []
 hide: false
 
 ---
-### Me siento como director de cine gringo haciendo el remake de una película coreana excelente pero críptica. La de Alejandro Bernales, investigador en Finanzas y Economía Aplicada de la Universidad de Chile quien escribió un muy buen texto sobre por qué las AFPs invierten mal nuestros fondos.
+_Me siento como director de cine gringo haciendo el remake de una película coreana excelente pero críptica._ 
+
+##### La de Alejandro Bernales, investigador en Finanzas y Economía Aplicada de la Universidad de Chile quien escribió un muy buen texto sobre por qué las AFPs invierten mal nuestros fondos.
 
 Él dice rigurosamente “podrían no estar invirtiendo bien” y es mi culpa como traductor decir “invierten mal”, o cualquier otra imprecisión que haga con tal de hacer la película más entretenida pero en ningún caso mejor que la [original.](https://sites.google.com/site/alejandrobernalesfinance/AFPs-y-sus-rentabilidades)
 
@@ -65,6 +67,5 @@ La publicación de Bernales no busca decir si las AFP son buenas o malas, sino q
 Para cerrar, apoyado en el cálculo de fronteras eficientes de inversión demuestra que las AFP no están obteniendo el mejor retorno posible para el nivel de riesgo que asumen porque además de la responsabilidad de sus equipos de inversión, otra vez la legislación establece restricciones en los porcentajes en que se puede invertir que no siempre están en el óptimo (documento “Régimen de Inversión de los Fondos de Pensiones” de la Superintendencia de Pensiones)
 
 Y remata diciendo que “**el uso de algoritmos automáticos resultaría más eficiente y mucho menos oneroso en términos de comisiones por ‘administrar’ dichos fondos”,** cosa que nos encantó leer porque es precisamente lo que hacemos en [Fintual](https://fintual.cl/) si quieres ahorrar plata por tu cuenta para una casa nueva, la educación de tus hijos o incluso mejorar tu jubilación.
-
 
 {{< newsletter_signup >}}
