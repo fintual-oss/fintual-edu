@@ -1,7 +1,7 @@
 ---
 author: Pedro Pineda
 author_thumbnail: "/uploads/pedro_pineda.png"
-title: Las AFPs podrían invertir mejor y no lo hacen
+title: Las AFP podrían invertir mejor y no lo hacen
 date: 2017-05-07T00:00:00.000+00:00
 image: "/uploads/glen-carrie-513355-unsplash.jpg"
 url: "/por-qué-las-afps-podrían-invertir-mejor-y-no-lo-hacen-3f620e036402/"
