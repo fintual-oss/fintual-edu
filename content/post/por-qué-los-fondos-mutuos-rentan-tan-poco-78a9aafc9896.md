@@ -41,7 +41,13 @@ No necesitas saber de finanzas porque nos encargamos de todo dependiendo de lo q
 
 Y como no recibimos comisiones de terceros y lo que cobramos es fijo e independiente, te hacemos invertir en cosas que realmente te convienen.
 
-:)
-{{< newsletter_signup >}}
+{{% prueba_fintual
+utmcontent="rentan_poco"
+card_title="Prueba Fintual"
+card_button="Empezar" %}}
 
-_Infórmese de las características esenciales de la inversión en este fondo mutuo, las que se encuentran contenidas en su reglamento interno y contrato de suscripción de cuotas_.
+Más inteligente que dejar tu plata en el banco.
+
+{{% /prueba_fintual %}}
+
+_Infórmate de las características esenciales de la inversión en estos fondos mutuos. Están en sus reglamentos internos, que puedes ver en la CMF y en_ [_fintual.cl/docs_](http://fintual.cl/docs).
