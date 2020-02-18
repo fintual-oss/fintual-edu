@@ -54,10 +54,10 @@ Tampoco existía algo así hace 20 años cuando yo era el niño, pero hoy sí y 
 Si tienes más dudas de cómo funciona, [revisa la sección preguntas frecuentes](https://fintual.cl/simple/?utm_source=IG&utm_medium=referral&utm_campaign=awareness&utm_content=como+ahorrar+para+lo+que+quieres+simple-197). Y si aún tienes preguntas escríbeme a omar@fintual.com
 
 {{% prueba_fintual
-utmcontent="write_here_the_utm_tag"
+utmcontent="como_ahorrar"
 card_title="Prueba Fintual"
 card_button="Empezar" %}}
 
-Más inteligente que dejar su plata en el banco.
+Más inteligente que dejar tu plata en el banco.
 
 {{% /prueba_fintual %}}
