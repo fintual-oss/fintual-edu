@@ -123,11 +123,11 @@ Después, toma en cuenta los siguientes consejos:
 4. **Sigue el plan en piloto automático.** Monitorear tus inversiones es importante, pero no te vuelvas adicto a revisarlas día a día. No actúes de forma emocional ante cualquier movimiento o evento. Si tus ingresos aumentan, trata de aumentar tus ahorros.
 
 {{% prueba_fintual
-utmcontent="write_here_the_utm_tag"
+utmcontent="5_errores"
 card_title="Prueba Fintual"
 card_button="Empezar" %}}
 
-Más inteligente que dejar su plata en el banco.
+Más inteligente que dejar tu plata en el banco.
 
 {{% /prueba_fintual %}}
 
