@@ -129,4 +129,4 @@ No tienes que aprenderse estas reglas de memoria. Nosotros lo hacemos por ti.
 
 {{% /prueba_fintual %}}
 
-_Infórmese de las características esenciales de la inversión en estos fondos mutuos, los que se encuentran contenidos en sus reglamentos internos y contratos de suscripción de cuotas._
+_Infórmate de las características esenciales de la inversión en estos fondos mutuos. Están en sus reglamentos internos, que puedes ver en la CMF y en_ [_fintual.cl/docs_](http://fintual.cl/docs).
