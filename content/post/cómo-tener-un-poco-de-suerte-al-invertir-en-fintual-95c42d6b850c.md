@@ -13,7 +13,11 @@ aliases:
 hide: false
 
 ---
-### Cuando inviertes en Fintual, tu rentabilidad va a subir o bajar todos los días. Lamentablemente ni nosotros (ni nadie) tiene cómo saber qué va a pasar. Si bien diseñamos cada una de las carteras de inversión de nuestros usuarios para que en el largo plazo las inversiones suban, puede ser que hayas entrado en un mal momento. Acá te contamos una estrategia para evitar esta mala suerte.
+Cuando inviertes en Fintual, tu rentabilidad va a subir o bajar todos los días. 
+
+**Lamentablemente ni nosotros (ni nadie) tiene cómo saber qué va a pasar.** 
+
+Si bien diseñamos cada una de las carteras de inversión de nuestros usuarios para que en el largo plazo las inversiones suban, puede ser que hayas entrado en un mal momento. **Acá te contamos una estrategia para evitar esta mala suerte.**
 
 ![](/uploads/suerte-1.jpg)
 
@@ -35,14 +39,12 @@ Sólo necesitas crear un objetivo en [Fintual](https://fintual.cl/) y luego deja
 
 > “Me llegó un correo que hacía la comparación entre [tomarse un café diario y ahorrar](https://edu.fintual.cl/como-un-cafe-menos-al-dia-podria-darte-mas-de-100mm/). No tuve que darle muchas vueltas y me di cuenta que si lo hacía de esta manera no lo notaría y sería más sencillo”_._
 
- Hace tres meses, Belén **programó** **una transferencia bancaria de $3.500 todos los días**. Esta clienta ha visto crecer de forma más sana sus ahorros, tanto financiera como mentalmente: 
+Hace tres meses, Belén **programó** **una transferencia bancaria de $3.500 todos los días**. Esta clienta ha visto crecer de forma más sana sus ahorros, tanto financiera como mentalmente:
 
 > “Además de la ganancia monetaria, he ganado la tranquilidad de que puedo ahorrar para cualquier emergencia o situación que ocurra sin tener que sufrir con un monto importante cada vez que llega fin de mes”.
-
 
 Así, su dinero se ha ido convirtiendo en un ahorro de largo plazo. Con un pequeño esfuerzo diario, Belén está generando ahorros que pueden hacer que su patrimonio crezca sustancialmente en el futuro, mientras que sufre menos ansiedad por culpa de los vaivenes del mercado. De paso, dejó el exceso de café.
 
 > “La verdad es que soy súper desordenada y me cuesta un montón ahorrar. Fintual ha sido un gran descubrimiento para mi desorden. Aunque podría hacer un solo depósito mensual, no me sale, porque me gasto la plata antes. Con el depósito diario, en cambio, no me doy cuenta y me encanta ver que he podido ahorrar tranquilamente”.
-
 
 {{< newsletter_signup >}}
