@@ -26,7 +26,7 @@ Si haces esto bien, vas a poder invertir en alternativas riesgosas asumiendo poc
 
 > _Algo importante: cuando usas Fintual, nuestro_ [_simulador_](https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=edu+elegir+bien+riesgo+inversion-279) _hace la pega y te recomienda una inversión adecuada en base al tiempo y riesgo que elegiste. Este post es para que entiendas mejor la lógica que hay detrás y el nivel de riesgo que le puedes pedir al simulador según te sientas cómodo._
 
-### **1. Definir cuándo vas a necesitar usar tus inversiones.**
+#### **1. Definir cuándo vas a necesitar usar tus inversiones.**
 
 Divide tu plata en partes y pregúntate ¿Qué parte de esta plata voy a necesitar el año que viene y qué parte puede esperar 10 años?
 
@@ -38,7 +38,7 @@ Divide tu plata en partes y pregúntate ¿Qué parte de esta plata voy a necesit
 
 Obvio que nunca se sabe, pero tírate una adivinada decente. Este paso es el más difícil. Si logras dividir tus ahorros en estas “bolsas de plata” con **plazos** distintos, ya tendrás casi toda la pega hecha.
 
-### **2. Invertir cada una de esas “bolsas” de plata por separado**
+#### **2. Invertir cada una de esas “bolsas” de plata por separado**
 
 ¿Y en qué invertir cada una? Depende de cuándo vayas a necesitar usarla.
 
@@ -46,7 +46,7 @@ Esto no es la biblia, pero te da una idea general:
 
 **\~ 3 - 10 días:** cuenta corriente
 
-**\~ 2 - 3 semanas:** fondo mutuo money market
+**\~ 2 - 3 semanas:** fondo mutuo _money market_
 
 **\~ 1 - 6 meses:** depósito a plazo o fondo mutuo muy conservador
 
@@ -84,7 +84,7 @@ Una función muy útil de Fintual es que puedes tener varios objetivos al mismo 
 </figure>
 </div>
 
-### **3. No pongas tus huevos en una sola canasta**
+#### **3. No pongas tus huevos en una sola canasta**
 
 Para que el punto anterior sea verdad es _muy importante que tu inversión esté diversificada_. Es decir, que esté dirigida a la subida de un mercado en su totalidad y no a acciones específicas.
 
@@ -100,7 +100,7 @@ Es por eso que **en Fintual invertimos en ETFs, que son fondos que replican índ
 
 Tus inversiones en Fintual están _automáticamente diversificadas_ y ni tienes que preocuparte de este tema.
 
-### **4. Invierte regularmente**
+#### **4. Invierte regularmente**
 
 Otra cosa que baja mucho tu riesgo, es invertir de forma periódica.
 
@@ -110,7 +110,7 @@ Y como no hay forma de predecir esas subidas y bajadas, para disminuir el riesgo
 
 Fintual también te puede ayudar en eso, si dejas [transferencias programadas de forma automática desde tu banco](https://edu.fintual.cl/como-programar-una-transferencia-mensual-en-el-banco-bci/), nosotros las podemos reconocer y asignar a tus distintos objetivos.
 
-### **5. Dejar la plata y confiar en la inversión pasiva**
+#### **5. Dejar la plata y confiar en la inversión pasiva**
 
 Las inversiones son como un buen asado: _no hay que andar moviendo la carne cada 5 minutos._
 
@@ -120,12 +120,13 @@ Si definiste bien cuándo vas a necesitar tu plata y -de acuerdo a eso- su nivel
 
 Así que tranquilo y créenos, así va a quedar más rica la punta de ganso, bah!... van a andar mejor tus inversiones.
 
-> #### No hay pa’ que aprenderse estas reglas de memoria.
->
-> #### [Fintual](https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=edu+elegir+bien+riesgo+inversion-279) te ayuda a invertir de forma diversificada y a elegir el riesgo adecuado para tus diferentes objetivos (no hay límite de cuántos puedes crear).
->
-> #### Usa nuestro simulador y ve qué es lo que recomendado para ti. [Pruébalo aquí sin costo.](https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=edu+elegir+bien+riesgo+inversion-279)
+{{% prueba_fintual
+utmcontent="write_here_the_utm_tag"
+card_title="Prueba Fintual"
+card_button="Empezar" %}}
 
-{{< newsletter_signup >}}
+No tienes que aprenderse estas reglas de memoria. Nosotros lo hacemos por ti.
+
+{{% /prueba_fintual %}}
 
 _Infórmese de las características esenciales de la inversión en estos fondos mutuos, los que se encuentran contenidos en sus reglamentos internos y contratos de suscripción de cuotas._
