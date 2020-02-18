@@ -7,7 +7,7 @@ description = "Como norma general, no deberías tener más del 10% de tu sueldo 
 hide = false
 image = "/uploads/ahorro.jpg"
 title = "¿Cuánta plata debería tener en mi cuenta corriente?"
-url = "cuanta-plata-deberias-tener-en-tu-cuenta"
+url = "/cuanta-plata-deberias-tener-en-tu-cuenta"
 
 +++
 Es muy común que la gente deje su sueldo en la cuenta corriente. Y a veces toda su plata.
