@@ -29,6 +29,7 @@ Es para cualquier persona.
 
 </div>
 <br>
+
 El Estado te regala hasta 6 UTM (que son $295.374 a noviembre de 2019) **cada vez que logres ahorrar $1.969.160 durante el año.**
 
 Si ahorras menos, igual te regala el 15% de lo que ahorres.
