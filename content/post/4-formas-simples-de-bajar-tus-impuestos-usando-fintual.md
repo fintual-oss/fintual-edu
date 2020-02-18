@@ -69,7 +69,7 @@ utmcontent="4_beneficios_tributarios"
 card_title="Prueba Fintual"
 card_button="Empezar" %}}
 
-Más inteligente que dejar tu plata en el banco.
+Y aprovecha estos beneficios tributarios.
 
 {{% /prueba_fintual %}}
 
