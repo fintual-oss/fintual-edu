@@ -7,7 +7,7 @@ description = "Hay beneficios tributarios que todos los usuarios de Fintual podr
 hide = false
 image = "/uploads/Post Edu Impuestos.png"
 title = "4 beneficios tributarios que puedes aprovechar si usas Fintual"
-url = "4-beneficios-tributarios-si-usas-fintual"
+url = "/4-beneficios-tributarios-si-usas-fintual"
 
 +++
 Hay **beneficios tributarios** que todos los usuarios de Fintual podrían aprovechar.

@@ -7,7 +7,7 @@ description = "Creamos una (mini) guía sobre cómo elegir bien el riesgo de tus
 hide = false
 image = "/uploads/Diseño sin título (1).png"
 title = "Cómo elegir bien el riesgo de tus distintas inversiones"
-url = "como-elegir-riesgo-inversion"
+url = "/como-elegir-riesgo-inversion"
 
 +++
 _"Tengo miedo de perder plata"._
