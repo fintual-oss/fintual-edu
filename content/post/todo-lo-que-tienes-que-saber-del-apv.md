@@ -126,17 +126,15 @@ Aparte de los beneficios, la plata que ahorres se va a invertir, lo que signific
 ¿Qué esperas?
 
 {{% prueba_fintual
-utmcontent="write_here_the_utm_tag"
-card_title="Prueba Fintual"
+utmcontent="abc_apv"
+card_title="APV en Fintual"
 card_button="Empezar" %}}
 
-Más inteligente que dejar su plata en el banco.
+Empieza a ahorrar ahora para tu jubilación.
 
 {{% /prueba_fintual %}}
 
-_
-
-Infórmese de las características esenciales de la inversión en este fondo mutuo, las que se encuentran contenidas en su reglamento interno y contrato de suscripción de cuotas._
+_Infórmese de las características esenciales de la inversión en este fondo mutuo, las que se encuentran contenidas en su reglamento interno y contrato de suscripción de cuotas._
 
 _La rentabilidad es fluctuante, por lo que nada garantiza que las rentabilidades pasadas se mantengan en el futuro._
 
