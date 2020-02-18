@@ -20,7 +20,8 @@ Tuviste el dinero en efectivo, mala idea. Intentaste tenerlo en tu cuenta bancar
 
 Alguien te recomendó invertir, pero ¿en dónde? Saber más cómo funcionan las acciones, la Bolsa, los fondos, es un poco engorroso. Y en muchos casos necesitas un monto mínimo y/o una inversión mensual forzosa. Complicado.
 
-![](/uploads/calculan2.gif)  
+<div style="text-align:center"><figure><img src="/uploads/calculan2.gif"><em> Tú tratando de analizar entre tantas opciones </em></figure></div>
+
 Por todo ello, existe [Fintual](https://fintual.mx/?utm_source=fintual&utm_medium=social&utm_campaign=waiting_list_mx&utm_content=-341). Desarrollamos una solución a través de cual puedes invertir ese ahorro, de poco en poco, sin tener que preocuparte cuáles empresas o fondos elegir, tampoco en montos mínimos o depósitos forzosos.
 
 #### ¿Cómo lo hacemos?
