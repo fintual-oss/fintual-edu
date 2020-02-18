@@ -1,5 +1,5 @@
 ---
-date: 2019-10-15T13:37:29-03:00
+date: 2019-10-15T16:37:29.000+00:00
 description: No, no es el bono marzo.
 image: "/uploads/bank-banking-black-and-white-259209.jpg"
 title: "$295.000 gratis"
@@ -37,12 +37,17 @@ La idea es que ese ahorro lo uses para cuando te jubiles.
 
 Puedes sacarlo antes (es tu plata), pero en ese caso perderás el beneficio tributario y deberás devolver la parte que el Estado te dio.
 
-### ¿Cómo hacerlo?
+#### **¿Cómo hacerlo?**
 
 **Es súper fácil, simple y automatizado.**
 
 Sigue los pasos de inscripción en Fintual, contesta las preguntas y cuando te pregunte para qué quieres ahorrar, contesta "Jubilación con APV". Ahí la idea es invertir lo que puedas antes del 31 de diciembre para aprovechar el beneficio del 15% del 2019.
 
+{{% prueba_fintual
+utmcontent="295_gratis"
+card_title="Prueba Fintual"
+card_button="Empezar" %}}
 
-<p style="text-align:center">
-<a class="simulator-page__button btn btn--secondary" href="https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=consideration&utm_content=el+estado+te+regala+dinero-136  ">Empezar</a></p>
+Más inteligente que dejar tu plata en el banco.
+
+{{% /prueba_fintual %}}
