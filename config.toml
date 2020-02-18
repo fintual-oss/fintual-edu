@@ -71,7 +71,7 @@ sharingicons = false
     [params.writers."Montserrat Bonilla"]
     name= "Montserrat Bonilla"
     description = "Contenido y PR en México"
-    thumbnail= "/uploads/montserrat.png"edu
+    thumbnail= "/uploads/montserrat.png"
     [params.writers."Victor Hugo Flores"]
     name= "Victor Hugo Flores"
     description = "Director general de Fintual México, y profesor de Finanzas en ITESM"
