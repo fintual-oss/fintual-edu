@@ -18,19 +18,19 @@ Hay **beneficios tributarios** que todos los usuarios de Fintual podrían aprove
 </figure>
 </div>
 
-### **1. Rescate de ganancias**
+#### **1. Rescate de ganancias**
 
 Si **rescatas** y tus ganancias en fondos mutuos son menores a 30 UTM al año —aproximadamente $1.460.000— están exentas del impuesto a la renta. Este beneficio es conocido como 57 LIR y aplica a la suma de todos los rescates de los fondos mutuos que tengas.
 
 **Por ejemplo**: Si inviertes $14.600.000 y ganas $1.430.000, puedes retirar ese monto inicial + la rentabilidad (un total de $16.030.000) libre de impuesto a la renta.
 
-### **2. Cambios entre FFMM**
+#### **2. Cambios entre FFMM**
 
 Puedes **cambiarte entre fondos mutuos** internamente o traspasándolos desde otra administradora sin pagar impuesto por la ganancia, independiente del monto. Este beneficio se conoce como 108 LIR.
 
 Para cambiarte a Fintual, puedes pedir un traspaso de fondo desde la institución donde actualmente tienes tus fondos, o escribirnos a través del chat o mail.
 
-### **3. Reliquidación de sueldo**
+#### **3. Reliquidación de sueldo**
 
 Si eres un **trabajador dependiente con un sólo empleador** y tienes un sueldo que varía todos los meses (por ejemplo, por comisiones o bonos) puede que se te haya aplicado una tasa de impuestos más alta que la que te corresponde —por los meses que más ganaste— considerando la totalidad de tus ingresos durante el año.
 
@@ -38,13 +38,13 @@ Con la reliquidación de sueldo puedes obtener la devolución de los impuestos p
 
 Por ejemplo: tu sueldo mensual es de $1.000.000, pero en julio y diciembre ganaste un bono de $5.000.000.
 
-#### Si no reliquidas 😕
+##### Si no reliquidas 😕
 
 * Pagas una tasa de impuestos máxima de un 4% para los meses donde ganaste $1.000.000, lo que se traduce en $13.759.
 * Pagas una tasa máxima de 35% para los meses donde ganaste $6.000.000 (tu sueldo + bono), lo que se traduce en $966.765.
 * **En total, pagas $2.071.120 en impuestos al año.**
 
-#### Si reliquidas 😃
+##### Si reliquidas 😃
 
 * Sumas el total que ganaste en el año, $22.000.000.
 * Según ese monto, pagas una tasa máxima anual de 8%.
@@ -52,7 +52,7 @@ Por ejemplo: tu sueldo mensual es de $1.000.000, pero en julio y diciembre ganas
 * Al invertir en fondos mutuos (aunque sea $1 en Fintual) el SII aplicará automáticamente esta reliquidación anual, posiblemente ahorrándote muchos impuestos.  
   \*Las cifras anteriores son aproximadas y calculadas a mayo 2019.
 
-### **4. APV**
+#### **4. APV**
 
 Los planes de **Ahorro Previsional Voluntario** (APV) tienen un beneficio especial 😮
 
@@ -73,5 +73,4 @@ Más inteligente que dejar tu plata en el banco.
 
 {{% /prueba_fintual %}}
 
-
-_Infórmese de las características esenciales de la inversión en estos fondos mutuos, los que se encuentran contenidos en sus reglamentos internos y contratos de suscripción de cuotas._
+_Infórmate de las características esenciales de la inversión en estos fondos mutuos. Están en sus reglamentos internos, que puedes ver en la CMF y en_ [_fintual.cl/docs_](http://fintual.cl/docs).
