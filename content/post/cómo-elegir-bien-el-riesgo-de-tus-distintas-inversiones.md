@@ -121,7 +121,7 @@ Si definiste bien cuándo vas a necesitar tu plata y -de acuerdo a eso- su nivel
 Así que tranquilo y créenos, así va a quedar más rica la punta de ganso, bah!... van a andar mejor tus inversiones.
 
 {{% prueba_fintual
-utmcontent="write_here_the_utm_tag"
+utmcontent="riesgo_inversiones"
 card_title="Prueba Fintual"
 card_button="Empezar" %}}
 
