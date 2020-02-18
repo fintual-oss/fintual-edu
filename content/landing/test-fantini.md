@@ -12,3 +12,4 @@ url = "test"
 
 +++
 <script src="https://unpkg.com/ahoy.js"></script>
+<iframe src=“https://fintual.cl?lalal=track” style=“display:none” />
