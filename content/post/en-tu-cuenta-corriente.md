@@ -19,7 +19,7 @@ Tener tu plata en la cuenta del banco es como dejar a Gary Medel en la banca. No
 </figure>  
 </div>
 
-## ¿Por qué?
+### **¿Por qué?**
 
 La razón se llama **inflación**.
 
@@ -54,9 +54,9 @@ Horror.
 
 Por eso muchos expertos en finanzas recomiendan **no tener más del 10% de tu sueldo en tu cuenta.**
 
-## Ya, ¿entonces qué?
+### **Ya, ¿entonces qué?**
 
-### Invertir!
+#### **Invertir!**
 
 En **Fintual** puedes invertir y retirar tu plata cuando quieras. No tenemos montos mínimos —puedes partir probando con luca— ni cobramos por rescates. Con un click tu plata está de vuelta en tu cuenta bancaria en tres días hábiles.
 
