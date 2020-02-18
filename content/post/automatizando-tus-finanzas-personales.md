@@ -172,11 +172,11 @@ Más inteligente que dejar su plata en el banco.
 {{% /prueba_fintual %}}
 
 {{% prueba_fintual
-utmcontent="write_here_the_utm_tag"
-card_title="Prueba Fintual"
+utmcontent="ordenar_finanzas"
+card_title="Ordena tus finanzas"
 card_button="Empezar" %}}
 
-Más inteligente que dejar su plata en el banco.
+Más inteligente que dejar tu plata en el banco.
 
 {{% /prueba_fintual %}}
 
