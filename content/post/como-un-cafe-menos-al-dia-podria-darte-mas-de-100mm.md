@@ -39,7 +39,7 @@ Para que pienses en ello cuando estés tomándote un café.
 
 En **Fintual** te damos la herramienta para simular cuánto podría significar un ahorro mensual como este u otro distinto.
 
-Además puede programar transferencias de $2.700 diarios, $54.000 mensuales o el monto que quieras.
+Además, puedes programar transferencias de $2.700 diarios, $54.000 mensuales o el monto que quieras.
 
 {{% prueba_fintual utmcontent="cafe+al+dia_" card_t_itle="Prueba Fintual"
 card_button="Empezar" %}}
@@ -48,4 +48,6 @@ Más inteligente que dejar tu plata en el banco.
 
 {{% /prueba_fintual %}}
 
-_Infórmate de las características esenciales de la inversión en estos fondos mutuos. Están en sus reglamentos internos, que puedes ver en la CMF y en_ [_fintual.cl/docs_](http://fintual.cl/docs).
+_Infórmate de las características esenciales de la inversión en estos fondos mutuos. Están en sus reglamentos internos, que puedes ver en la CMF y en_ [_fintual.cl/docs_](http://fintual.cl/docs).  
+  
+_La rentabilidad o ganancia obtenida en el pasado no garantiza que se repita en el futuro. Los valores de las cuotas de los fondos mutuos son variables._
