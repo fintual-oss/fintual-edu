@@ -70,8 +70,8 @@ sharingicons = false
     thumbnail= "/uploads/valentin.jpg"
     [params.writers."Montserrat Bonilla"]
     name= "Montserrat Bonilla"
-    description = ""
-    thumbnail= "/uploads/montserrat_bonilla.jpg"
+    description = "Contenido y PR en México"
+    thumbnail= "/uploads/montserrat.png"edu
     [params.writers."Victor Hugo Flores"]
     name= "Victor Hugo Flores"
     description = "Director general de Fintual México, y profesor de Finanzas en ITESM"
