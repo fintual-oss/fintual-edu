@@ -7,7 +7,7 @@ description = ""
 hide = false
 image = ""
 title = "Test Fantini"
-url = "test"
+url = "/test/"
 
 +++
 <script src="https://unpkg.com/ahoy.js"></script>
