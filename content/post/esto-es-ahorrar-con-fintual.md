@@ -23,7 +23,7 @@ Alguien te recomendó invertir, pero ¿en dónde? Saber más cómo funcionan las
 <div style="text-align:center">  
 <figure>  
 <img src="/uploads/calculan2.gif">  
-<em> Tú analizando entre tantas opciones </em>  
+<em> Tú tomando una decisión entre tantas opciones </em>  
 </figure>  
 </div>
 
