@@ -9,7 +9,9 @@ categories:
 - educación financiera
 
 ---
-**La forma en que interactuamos con nuestro entorno —nuestras inclinaciones naturales a buscar información en todos los rincones darle tanta importancia a los rumores, tratar de encontrar patrones, huir por refugio seguro—fueron fundamentales para sobrevivir durante gran parte de nuestra historia evolutiva como especie humana. Sin embargo, a la hora de invertir, nuestras “reacciones instintivas” han demostrado ser las mayores fuentes de errores.**
+La forma en que interactuamos con nuestro entorno —nuestras inclinaciones naturales a buscar información en todos los rincones darle tanta importancia a los rumores, tratar de encontrar patrones, huir por refugio seguro—fueron fundamentales para sobrevivir durante gran parte de nuestra historia evolutiva como especie humana. 
+
+**Sin embargo, a la hora de invertir, nuestras “reacciones instintivas” han demostrado ser las mayores fuentes de errores.**
 
 <div style="text-align:center">
 <figure>
@@ -20,7 +22,7 @@ categories:
 
 Algunos de los principales errores que se cometen cuando se invierte —en especial cuando se hace en el largo plazo— son:
 
-### Error 1: Tener poca paciencia
+#### **Error 1: Tener poca paciencia**
 
 Ir al gimnasio, salir del colegio, sacar una carrera, cuidar las plantas de un jardín: ejemplos de cosas que realizamos de forma pausada y progresiva, notando los beneficios de forma muy lenta. ¿Cuántas veces te ha sucedido que notas los beneficios de lo que haces de forma inmediata?
 
@@ -38,13 +40,13 @@ Al invertir las cosas no serán muy diferentes y básicamente hay dos caminos qu
 
 Si lo tuyo es lo segundo, vale la pena seguir leyendo el resto de los errores que se comenten comúnmente.
 
-### Error 2: No diversificar
+#### **Error 2: No diversificar**
 
 La idea es simple: **no dejes todos los huevos en un mismo canasto**. En término de inversiones, no te expongas a determinados sectores o empresas particulares. Este principio aplica a todo tipo de inversiones: inversiones inmobiliarias, inversiones alternativas, etc.
 
 ¿Tienes tus ahorros invertidos en sólo una empresa? Tienes entonces un alto riesgo de diversificación: sería mucho mejor tener tus ahorros invertidos en 5, 100 o incluso 1000 empresas. Y, ojalá, independientes entre sí.
 
-### Error 3: Dejar de invertir cuando el mercado está a la baja
+#### **Error 3: Dejar de invertir cuando el mercado está a la baja**
 
 Un buen plan de inversión generalmente contempla ahorros de forma periódica, generalmente una vez al mes. Esto se hace muy fácil cuando el mercado está en alza: tus inversiones van bien, así que seguramente tendrás más ganas de invertir mes a mes. Sin embargo, cuando el mercado está a la baja, el miedo puede ser mayor que las ganas de seguir un plan, lo cual es un gran error porque resulta ser contraproducente: si el mercado está más “barato”, con mayor razón no deberías detener tu plan.
 
@@ -70,7 +72,7 @@ En resumen: invertir de forma periódica tiene muchísimo sentido financiero.
 
 (Esto es una forma alternativa de ver el mismo principio que explicamos en término de [diversificación de las probabilidades de pérdida.](https://blog.fintual.cl/c%C3%B3mo-tener-un-poco-de-suerte-al-invertir-en-fintual-95c42d6b850c))
 
-### Error 4: Dejar que tus emociones controlen el proceso
+#### **Error 4: Dejar que tus emociones controlen el proceso**
 
 Emociones: probablemente la primera razón de malas decisiones financieras. El mercado no se comporta de forma racional, sino que es un sistema complejo dominado muchas veces por ráfagas temporales de miedo o de euforia.
 
@@ -90,7 +92,7 @@ Las acciones —por ejemplo— pueden tener grandes desviaciones en periodos cor
 </figure>
 </div>
 
-### Error 5: No considerar los costos a la hora de invertir
+#### **Error 5: No considerar los costos a la hora de invertir**
 
 Siempre cuando inviertes tienen que considerar los costos de invertir: obviamente estos no deberán ser mayores a tus beneficios. Estos costos los deberías conocer en fondos mutuos, fondos de inversión, en compra de acciones o en compra de otros productos de inversión.
 
@@ -109,7 +111,7 @@ A veces puede ser oscuro saber cuánto te cobran. Por eso, prefiere institucione
 
 _(Bonus: si te gusta John Oliver, probablemente quieras ver_ [_su explicación en referencia a fondos de pensión_](https://www.youtube.com/watch?v=gvZSpET11ZY) _en US)._
 
-### Plan de Acción
+#### **Plan de Acción**
 
 Primero, recuerda que debes ser un inversionista, no un especulador. Recuérdalo de nuevo:
 
