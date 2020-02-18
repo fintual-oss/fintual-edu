@@ -4,7 +4,6 @@ author = "Valentin Jadot"
 categories = []
 date = 2020-02-18T20:14:00Z
 description = ""
-draft = true
 hide = false
 image = ""
 title = "Test Fantini"
