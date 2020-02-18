@@ -13,9 +13,9 @@ aliases:
 hide: false
 
 ---
-Cuando inviertes en Fintual, tu rentabilidad va a subir o bajar todos los días. 
+Cuando inviertes en Fintual, tu rentabilidad va a subir o bajar todos los días.
 
-**Lamentablemente ni nosotros (ni nadie) tiene cómo saber qué va a pasar.** 
+**Lamentablemente ni nosotros (ni nadie) tiene cómo saber qué va a pasar.**
 
 Si bien diseñamos cada una de las carteras de inversión de nuestros usuarios para que en el largo plazo las inversiones suban, puede ser que hayas entrado en un mal momento. **Acá te contamos una estrategia para evitar esta mala suerte.**
 
@@ -47,4 +47,11 @@ Así, su dinero se ha ido convirtiendo en un ahorro de largo plazo. Con un peque
 
 > “La verdad es que soy súper desordenada y me cuesta un montón ahorrar. Fintual ha sido un gran descubrimiento para mi desorden. Aunque podría hacer un solo depósito mensual, no me sale, porque me gasto la plata antes. Con el depósito diario, en cambio, no me doy cuenta y me encanta ver que he podido ahorrar tranquilamente”.
 
-{{< newsletter_signup >}}
+{{% prueba_fintual
+utmcontent="suerte_en_fintual"
+card_title="Prueba Fintual"
+card_button="Empezar" %}}
+
+Más inteligente que dejar tu plata en el banco.
+
+{{% /prueba_fintual %}}
