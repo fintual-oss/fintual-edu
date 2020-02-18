@@ -48,7 +48,13 @@ Desde [fintual.mx](https://fintual.mx/?utm_source=fintual&utm_medium=social&utm_
 
 Depositas el monto que quieres invertir, y ¡listo! Nosotros nos encargamos de lo demás.
 
-![](/uploads/gotcha.gif)
+<div style="text-align:center">  
+<figure>  
+<img src="/uploads/gotcha.gif">  
+<em> We got it </em>  
+</figure>  
+</div>
+
 
 👉 Pero primero, ¡regístrate a nuestra lista de espera, [aquí](https://fintual.mx/?utm_source=fintual&utm_medium=social&utm_campaign=waiting_list_mx&utm_content=-341)!
 
