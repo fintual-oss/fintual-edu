@@ -134,7 +134,7 @@ Empieza a ahorrar ahora para tu jubilación.
 
 {{% /prueba_fintual %}}
 
-_Infórmese de las características esenciales de la inversión en este fondo mutuo, las que se encuentran contenidas en su reglamento interno y contrato de suscripción de cuotas._
+_Infórmate de las características esenciales de la inversión en estos fondos mutuos. Están en sus reglamentos internos, que puedes ver en la CMF y en_ [_fintual.cl/docs_](http://fintual.cl/docs).
 
 _La rentabilidad es fluctuante, por lo que nada garantiza que las rentabilidades pasadas se mantengan en el futuro._
 
