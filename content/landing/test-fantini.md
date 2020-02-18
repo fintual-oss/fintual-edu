@@ -11,3 +11,4 @@ title = "Test Fantini"
 url = "test"
 
 +++
+<script src="https://unpkg.com/ahoy.js"></script>
