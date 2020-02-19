@@ -11,10 +11,12 @@ title = "test"
 url = "fantini-test"
 
 +++
-<script src="https://unpkg.com/ahoy.js">
-  
-  
+<script src="https://unpkg.com/ahoy.js" >
+  function test() {
+    ahoy.configure({urlPrefix: "https://fintual.cl"});
+    ahoy.track(2,2);
+}
+
 </script>
-<element onload="ahoy.configure({urlPrefix: https://fintual.cl'});ahoy.track(2,2);"/>
 
 Hola mundox
