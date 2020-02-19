@@ -12,6 +12,8 @@ url = "fantini-test"
 
 +++
 <script src="https://unpkg.com/ahoy.js">
+  
   ahoy.configure({urlPrefix: "https://fintual.cl"});
+  ahoy.start()
 </script>
 Hola mundox
