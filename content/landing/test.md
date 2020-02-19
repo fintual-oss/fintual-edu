@@ -11,5 +11,6 @@ title = "test"
 url = "fantini-test"
 
 +++
-
+<script src="https://unpkg.com/ahoy.js">
+</script>
 Hola mundox
