@@ -1,30 +1,27 @@
 .buttonish {
-  padding-left: 40%;
-  margin: 10px;
+  display: flex;
+  justify-content: center;
 }
 
 .buttonish a {
   text-align: center;
-  font-weight: 900;
   width: 300px;
-  padding: 13px 15%;
-  border: 0;
-  border-radius: 8px;
-  font-size: 18px;
-  background-color: #3dade2;
-  color: #fff;
-  text-decoration: none;
-}
-
-.buttonish a:hover {
-  background-color: #3fc6b2;
-  color: #fff;
+  height: 40px;
 }
 
 img + em {
   display: block;
   text-align: center;
   font-size: 0.8rem;
+}
+
+.navbar-nav {
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+}
+.nav-item--return {
+  margin-left: auto;
 }
 
 .navbar-brand.navbar-brand--fintual {
@@ -85,8 +82,10 @@ img + em {
 .article-post h4,
 .article-post h5,
 .article-post h6 {
-  font-weight: 400;
+  font-weight: 600;
+  margin-top: 3rem;
   margin-bottom: 1.5rem;
+  font-family: Poppins;
 }
 
 .mainheading .post-top-meta .author-description {
@@ -95,6 +94,8 @@ img + em {
 .mainheading .post-top-meta {
   margin-bottom: 0px;
 }
+
+/* CARDS */
 .card {
   border-radius: 12px !important;
   overflow: hidden !important;
@@ -104,4 +105,65 @@ img + em {
     0 6px 10px 0 rgba(183, 183, 183, 0.2),
     0 3px 5px -1px rgba(183, 183, 183, 0.2);
   cursor: pointer;
+}
+
+/* LINKS */
+a {
+  color: #005ad6;
+}
+a:hover {
+  color: #005ad6;
+  text-decoration: none;
+}
+
+.mainheading,
+.posttitle {
+  font-family: Poppins;
+}
+.article-post {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  color: #282828;
+}
+
+blockquote {
+  border-left: 3px solid #005ad6;
+}
+
+.ftl-btn {
+  border-radius: 2000px !important;
+  padding: 0 24px !important;
+  transition: box-shadow 0.2s ease !important;
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  text-align: center !important;
+  border: 1px solid #005ad6 !important;
+  background-color: #005ad6 !important;
+  color: #fff !important;
+  cursor: pointer !important;
+  height: 100%;
+  font-weight: 400 !important;
+  font-family: Poppins;
+}
+
+.ftl-btn:hover {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4) !important;
+  border-color: #003f96 !important;
+  background-color: #003f96 !important;
+  color: #fff !important;
+  opacity: 1 !important;
+}
+.navbar {
+  box-shadow: 0px 3px 13px -4px rgba(0, 0, 0, 0.55);
+  transition: box-shadow 0.1s linear;
+}
+.no-shadow {
+  border-bottom: none;
+  box-shadow: none;
 }
