@@ -62,7 +62,7 @@ Depositas el monto que quieres invertir, y ¡listo! Nosotros nos encargamos de l
 
 👉 Pero primero, ¡regístrate a nuestra lista de espera, [aquí](https://fintual.mx/?utm_source=edu&utm_medium=edu&utm_campaign=waiting_list_mx&utm_content=-341)!
 
-**¿Alguna otra duda?** Lánzala a [mexico@fintual.com](mailto:mexico@fintual.com), o en alguna de nuestras redes. Búscanos como @Fintual México en Twitter, LinkedIn y Facebook.
+**¿Alguna otra duda?** Lánzala a [mexico@fintual.com](mailto:mexico@fintual.com), o en alguna de nuestras redes. Búscanos como @Fintual en Twitter, LinkedIn y Facebook.
 
 {{% prueba_fintual
 utmcontent="ahorrar_con_fintualmx"
