@@ -1,22 +1,21 @@
-jQuery(document).ready(function($) {
-  alert("yo");
+jQuery(document).ready(function ($) {
   var offset = 1250;
   var duration = 800;
-  jQuery(window).scroll(function() {
+  jQuery(window).scroll(function () {
     if (jQuery(this).scrollTop() > offset) {
       jQuery(".back-to-top").fadeIn(duration);
     } else {
       jQuery(".back-to-top").fadeOut(duration);
     }
   });
-  jQuery(".back-to-top").click(function(event) {
+  jQuery(".back-to-top").click(function (event) {
     event.preventDefault();
     jQuery("html, body").animate({ scrollTop: 0 }, duration);
     return false;
   });
 
   // alertbar later
-  $(document).scroll(function() {
+  $(document).scroll(function () {
     var maxScroll = $(document).height() - $(window).height();
     var y = $(this).scrollTop();
     if (y > 350 || y + 100 > maxScroll) {
@@ -31,11 +30,11 @@ jQuery(document).ready(function($) {
     // Remove links that don't actually link to anything
     .not('[href="#"]')
     .not('[href="#0"]')
-    .click(function(event) {
+    .click(function (event) {
       // On-page links
       if (
         location.pathname.replace(/^\//, "") ==
-          this.pathname.replace(/^\//, "") &&
+        this.pathname.replace(/^\//, "") &&
         location.hostname == this.hostname
       ) {
         // Figure out element to scroll to
@@ -52,7 +51,7 @@ jQuery(document).ready(function($) {
               scrollTop: target.offset().top
             },
             1000,
-            function() {
+            function () {
               // Callback after animation
               // Must change focus!
               var $target = $(target);
@@ -76,11 +75,11 @@ jQuery(document).ready(function($) {
   var delta = 5;
   var navbarHeight = $("nav").outerHeight();
 
-  $(window).scroll(function(event) {
+  $(window).scroll(function (event) {
     didScroll = true;
   });
 
-  setInterval(function() {
+  setInterval(function () {
     if (didScroll) {
       hasScrolled();
       didScroll = false;
