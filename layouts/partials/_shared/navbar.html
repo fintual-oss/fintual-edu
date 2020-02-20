@@ -1,13 +1,13 @@
 <!-- Begin Menu Navigation
 ================================================== -->
-<nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top mediumnavigation nav-down">
+<nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top mediumnavigation nav-down no-shadow">
     <div class="container pr-0">
         <!-- Begin Logo -->
         <a class="navbar-brand navbar-brand--fintual" href="{{ .Site.BaseURL }}/">
 
             {{ with .Site.Params.logo }}
             <img src="{{ . | urlize | relURL }}" alt="logo">
-            <span class="navbar-brand__edu">Edu</span>
+            <span class="navbar-brand__edu">edu</span>
             {{ else }}
             <span style="font-family:Righteous;">{{.Site.Title}}</span>
             {{ end }}
@@ -28,8 +28,8 @@
                     <a class="nav-link" href="{{ "/categories/" | relLangURL }}{{ $name | urlize }}">{{ $name }}</a>
                 </li>
               {{ end }}
-              <li class="nav-item">
-                  <a class="nav-link nav-link--return" href="https://fintual.cl">ir a fintual</a>
+              <li class="nav-item nav-item--return">
+                  <a class="nav-link nav-link--return ftl-btn" href="https://fintual.cl">ir a fintual</a>
               </li>
             </ul>
         </div>
