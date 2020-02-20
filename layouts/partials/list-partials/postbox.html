@@ -1,6 +1,6 @@
 <!-- begin post -->
 <div class="col-lg-4 col-md-6 mb-30px card-group">
-    <div class="card h-100">
+    <div class="card h-100" onclick="javascript:  window.location.href='{{ .URL | absURL }}';">
         <div class="maxthumb">
             <a href="{{ .URL | absURL }}">
                 {{with .Params.image}}
