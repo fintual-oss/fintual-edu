@@ -10,5 +10,4 @@ title = "test"
 url = "fantini-test"
 
 +++
-<script src="uploads/config.js" />
-lalalalal
+<script src="/uploads/config.js" /> lalalalal
