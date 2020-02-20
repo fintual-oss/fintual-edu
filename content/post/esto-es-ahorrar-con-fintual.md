@@ -5,7 +5,7 @@ categories = ["educación financiera"]
 date = 2020-02-18T14:35:20Z
 description = ""
 hide = false
-image = "/uploads/chill.jpeg"
+image = "/uploads/drew-coffman-DzIt-fTYv4E-unsplash.jpg"
 title = "Esto es ahorrar con Fintual"
 url = "/esto-es-invertir-en-fintual"
 
@@ -47,7 +47,7 @@ Tu cuenta siempre está a tu nombre, y desde nuestra plataforma puedes ver en qu
 
 #### ¿Qué necesitas?
 
-Un correo electrónico, tu INE (o IFE), un comprobante de domicilio y una cuenta bancaria a tu nombre.
+Un correo electrónico, tu INE (o IFE), un comprobante de domicilio y una cuenta bancaria a tu nombre. 
 
 Desde [fintual.mx](https://fintual.mx/?utm_source=fintual&utm_medium=social&utm_campaign=waiting_list_mx&utm_content=-341) contestas algunas preguntas con las que definimos tu estrategia, de acuerdo con tu perfil de riesgo y objetivos －porque no es lo mismo ahorrar para tu jubilación que para tus vacaciones, y desde [Fintual](https://fintual.mx/?utm_source=fintual&utm_medium=social&utm_campaign=waiting_list_mx&utm_content=-341) puedes ahorrar para varias metas al mismo tiempo.
 
