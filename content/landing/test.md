@@ -10,4 +10,4 @@ title = "test"
 url = "fantini-test"
 
 +++
-<script src="/uploads/config.js" /> lalalalal
+<script src="https://raw.githubusercontent.com/platanus/fintual-data-science/master/tracking/config.js?token=ABMTQ32UPYDLZSLI33FOKZS6K7K24" /> lalalalal
