@@ -24,7 +24,7 @@
 img + em {
   display: block;
   text-align: center;
-  font-size: .8rem;
+  font-size: 0.8rem;
 }
 
 .navbar-brand.navbar-brand--fintual {
@@ -50,7 +50,7 @@ img + em {
 }
 
 .navbar-light .navbar-nav .nav-link.nav-link--return:hover {
-  opacity: .75;
+  opacity: 0.75;
 }
 
 .article-post {
@@ -63,14 +63,14 @@ img + em {
 
 .listfeaturedtag h2.card-title,
 .listrecent h2.card-title {
-    font-size: 1.3rem;
-    font-weight: 400;
-    line-height: 1.25;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.25;
 }
 
 .mainheading h1.posttitle {
-    font-weight: 400;
-    margin-bottom: 1rem;
+  font-weight: 400;
+  margin-bottom: 1rem;
 }
 
 .article-post .h1,
@@ -85,13 +85,23 @@ img + em {
 .article-post h4,
 .article-post h5,
 .article-post h6 {
-    font-weight: 400;
-    margin-bottom: 1.5rem;
+  font-weight: 400;
+  margin-bottom: 1.5rem;
 }
 
 .mainheading .post-top-meta .author-description {
-  margin-top:0px;
+  margin-top: 0px;
 }
 .mainheading .post-top-meta {
   margin-bottom: 0px;
+}
+.card {
+  border-radius: 12px !important;
+  overflow: hidden !important;
+}
+.card:hover {
+  box-shadow: 0 1px 18px 0 rgba(183, 183, 183, 0.2),
+    0 6px 10px 0 rgba(183, 183, 183, 0.2),
+    0 3px 5px -1px rgba(183, 183, 183, 0.2);
+  cursor: pointer;
 }
