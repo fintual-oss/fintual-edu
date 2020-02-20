@@ -27,11 +27,11 @@ Alguien te recomendó invertir, pero ¿en dónde? Saber más cómo funcionan las
 </figure>  
 </div>
 
-Por todo ello, existe [Fintual](https://fintual.mx/?utm_source=fintual&utm_medium=social&utm_campaign=waiting_list_mx&utm_content=-341). Desarrollamos una solución a través de cual puedes invertir ese ahorro, de poco en poco, sin tener que preocuparte cuáles empresas o fondos elegir, tampoco en montos mínimos o depósitos forzosos.
+Por todo ello, existe [Fintual](https://fintual.mx/?utm_source=edu&utm_medium=edu&utm_campaign=waiting_list_mx&utm_content=-341). Desarrollamos una solución a través de cual puedes invertir ese ahorro, de poco en poco, sin tener que preocuparte cuáles empresas o fondos elegir, tampoco en montos mínimos o depósitos forzosos.
 
 #### ¿Cómo lo hacemos?
 
-Operamos como una distribuidora de fondos de inversión, regulados por la Comisión Nacional Bancaria y de Valores (CNBV). 👉Puedes registrarte a nuestra lista de espera, [aquí](https://fintual.mx/?utm_source=fintual&utm_medium=social&utm_campaign=waiting_list_mx&utm_content=-341)
+Operamos como una distribuidora de fondos de inversión, regulados por la Comisión Nacional Bancaria y de Valores (CNBV). 👉Puedes registrarte a nuestra lista de espera, [aquí](https://fintual.mx/?utm_source=edu&utm_medium=edu&utm_campaign=waiting_list_mx&utm_content=-341)
 
 #### ¿Cuál es nuestra historia?
 
@@ -47,9 +47,9 @@ Tu cuenta siempre está a tu nombre, y desde nuestra plataforma puedes ver en qu
 
 #### ¿Qué necesitas?
 
-Un correo electrónico, tu INE (o IFE), un comprobante de domicilio y una cuenta bancaria a tu nombre. 
+Un correo electrónico, tu INE (o IFE), un comprobante de domicilio y una cuenta bancaria a tu nombre.
 
-Desde [fintual.mx](https://fintual.mx/?utm_source=fintual&utm_medium=social&utm_campaign=waiting_list_mx&utm_content=-341) contestas algunas preguntas con las que definimos tu estrategia, de acuerdo con tu perfil de riesgo y objetivos －porque no es lo mismo ahorrar para tu jubilación que para tus vacaciones, y desde [Fintual](https://fintual.mx/?utm_source=fintual&utm_medium=social&utm_campaign=waiting_list_mx&utm_content=-341) puedes ahorrar para varias metas al mismo tiempo.
+Desde[ fintual.mx](https://fintual.mx/?utm_source=edu&utm_medium=edu&utm_campaign=waiting_list_mx&utm_content=-341) contestas algunas preguntas con las que definimos tu estrategia, de acuerdo con tu perfil de riesgo y objetivos －porque no es lo mismo ahorrar para tu jubilación que para tus vacaciones, y desde [Fintual](https://fintual.mx/?utm_source=edu&utm_medium=edu&utm_campaign=waiting_list_mx&utm_content=-341) puedes ahorrar para varias metas al mismo tiempo.
 
 Depositas el monto que quieres invertir, y ¡listo! Nosotros nos encargamos de lo demás.
 
@@ -60,7 +60,7 @@ Depositas el monto que quieres invertir, y ¡listo! Nosotros nos encargamos de l
 </figure>  
 </div>
 
-👉 Pero primero, ¡regístrate a nuestra lista de espera, [aquí](https://fintual.mx/?utm_source=fintual&utm_medium=social&utm_campaign=waiting_list_mx&utm_content=-341)!
+👉 Pero primero, ¡regístrate a nuestra lista de espera, [aquí](https://fintual.mx/?utm_source=edu&utm_medium=edu&utm_campaign=waiting_list_mx&utm_content=-341)!
 
 **¿Alguna otra duda?** Lánzala a [mexico@fintual.com](mailto:mexico@fintual.com), o en alguna de nuestras redes. Búscanos como @Fintual México en Twitter, LinkedIn y Facebook.
 
