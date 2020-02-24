@@ -30,7 +30,8 @@ img + em {
 }
 
 .navbar-brand.navbar-brand--fintual img {
-  margin-right: 0;
+  margin-right: 15px;
+  width: 110px;
 }
 
 .navbar-brand--fintual .navbar-brand__edu {
