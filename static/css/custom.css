@@ -167,3 +167,76 @@ blockquote {
   border-bottom: none;
   box-shadow: none;
 }
+
+
+
+
+/* PRUEBA CARD */
+
+.prueba-card {
+  --spacing: 64px;
+  --width: 500px;
+  --height: 400px;
+  --width-inside-card: calc(var(--width) - (2 * var(--spacing)));
+
+  margin: var(--spacing) auto;
+  height: var(--height);
+  width: var(--width);
+  padding: var(--spacing) var(--spacing);
+
+  position: relative;
+
+  box-shadow: 0 1px 18px 0 rgba(183, 183, 183, 0.2), 0 6px 10px 0 rgba(183, 183, 183, 0.2), 0 3px 5px -1px rgba(183, 183, 183, 0.2);
+  border-radius: 12px;
+  font-family: Poppins;
+
+  background-image: url(/img/chocolate.png);
+  background-repeat: no-repeat;
+  background-position: right center;
+  background-size: 191px 300px;
+}
+
+.prueba-card h4 {
+  position: absolute;
+  margin: 0;
+  padding: 0;
+}
+
+.prueba-text {
+  position: absolute;
+  top: 112px;
+  width: 250px;
+  height: 138px;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #757575;
+}
+
+.prueba-button {
+  position: absolute;
+  z-index: 200;
+  bottom: var(--spacing);
+  width: var(--width-inside-card);
+  height: 44px;
+  line-height: 44px;
+}
+
+@media (max-width: 1200px) {
+  .prueba-card {
+    --spacing: 24px;
+    --height: 300px;
+    --width: 328px;
+    background-image: url(/img/chocolate-mobile.png);
+  }
+
+  .prueba-text {
+    top: 75px;
+    height: 115px;
+    width: 170px;
+  }
+
+}
