@@ -126,7 +126,7 @@ Después, toma en cuenta los siguientes consejos:
 
 {{% prueba_fintual
 utmcontent="5_errores"
-card_title="Prueba Fintual"
+card_title="Prueba Fintual 👇"
 card_button="Empezar" %}}
 
 Más inteligente que dejar tu plata en el banco.

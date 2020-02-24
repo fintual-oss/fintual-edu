@@ -66,7 +66,7 @@ Usar algunos de estos beneficios ahora depende de ti, ya tú sae' 😏
 
 {{% prueba_fintual
 utmcontent="4_beneficios_tributarios"
-card_title="Prueba Fintual"
+card_title="Prueba Fintual 👇"
 card_button="Empezar" %}}
 
 Y aprovecha estos beneficios tributarios.

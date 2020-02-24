@@ -114,7 +114,7 @@ Algunos ejemplos son fondos o ETF que, supuestamente teniendo inversiones libres
 
 {{< prueba_fintual
 utmcontent="fintual+verde"
-card_title="Prueba Fintual"
+card_title="Prueba Fintual 👇"
 card_button="Empezar" >}}
 
 Si quieres una inversión inteligente y verde.

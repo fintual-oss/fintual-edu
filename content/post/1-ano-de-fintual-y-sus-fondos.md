@@ -123,7 +123,7 @@ _¿Puedo perder toda mi plata?:_ Tendrían que desaparecer Apple, Google, Amazon
 
 {{% prueba_fintual
 utmcontent="1_ano"
-card_title="Prueba Fintual"
+card_title="Prueba Fintual 👇"
 card_button="Empezar" %}}
 
 Más inteligente que dejar tu plata en el banco.

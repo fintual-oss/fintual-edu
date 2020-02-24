@@ -41,7 +41,7 @@ En **Fintual** te damos la herramienta para simular cuánto podría significar u
 
 Además, puedes programar transferencias de $2.700 diarios, $54.000 mensuales o el monto que quieras.
 
-{{% prueba_fintual utmcontent="cafe+al+dia_" card_t_itle="Prueba Fintual"
+{{% prueba_fintual utmcontent="cafe+al+dia_" card_t_itle="Prueba Fintual 👇"
 card_button="Empezar" %}}
 
 Más inteligente que dejar tu plata en el banco.

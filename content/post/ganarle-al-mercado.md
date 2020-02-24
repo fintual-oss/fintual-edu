@@ -52,7 +52,7 @@ _Columna publicada en_ [_El Mercurio Inversiones_](http://www.elmercurio.com/Inv
 
 {{% prueba_fintual
 utmcontent="ganarle_al_mercado"
-card_title="Prueba Fintual"
+card_title="Prueba Fintual 👇"
 card_button="Empezar" %}}
 
 Más inteligente que tratar de ganarle al mercado.

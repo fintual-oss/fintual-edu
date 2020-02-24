@@ -33,7 +33,7 @@ _(En_ [_Fintual_](https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=refer
 
  
 
-{{% prueba_fintual utmcontent="millenial_" card_t_itle="Prueba Fintual"
+{{% prueba_fintual utmcontent="millenial_" card_t_itle="Prueba Fintual 👇"
 card_button="Empezar" %}}
 
 Más inteligente que gastarte toda tu plata.

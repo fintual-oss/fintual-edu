@@ -29,7 +29,7 @@ Un servicio online para gente que no sabe de inversiones pero que quiere inverti
 
 {{% prueba_fintual
 utmcontent="mejor_dap"
-card_title="Prueba Fintual"
+card_title="Prueba Fintual 👇"
 card_button="Empezar" %}}
 
 Más inteligente que dejar tu plata en el banco.

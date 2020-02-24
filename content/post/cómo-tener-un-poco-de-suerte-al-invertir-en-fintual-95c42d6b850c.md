@@ -49,7 +49,7 @@ Así, su dinero se ha ido convirtiendo en un ahorro de largo plazo. Con un peque
 
 {{% prueba_fintual
 utmcontent="suerte_en_fintual"
-card_title="Prueba Fintual"
+card_title="Prueba Fintual 👇"
 card_button="Empezar" %}}
 
 Más inteligente que dejar tu plata en el banco.

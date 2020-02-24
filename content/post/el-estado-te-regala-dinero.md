@@ -46,7 +46,7 @@ Sigue los pasos de inscripción en Fintual, contesta las preguntas y cuando te
 
 {{% prueba_fintual
 utmcontent="295_gratis"
-card_title="Prueba Fintual"
+card_title="Prueba Fintual 👇"
 card_button="Empezar" %}}
 
 Y empieza a aprovechar este beneficio tributario.

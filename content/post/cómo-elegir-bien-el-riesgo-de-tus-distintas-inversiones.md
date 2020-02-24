@@ -122,7 +122,7 @@ Así que tranquilo y créenos, así va a quedar más rica la punta de ganso, bah
 
 {{% prueba_fintual
 utmcontent="riesgo_inversiones"
-card_title="Prueba Fintual"
+card_title="Prueba Fintual 👇"
 card_button="Empezar" %}}
 
 No tienes que aprenderse estas reglas de memoria. Nosotros lo hacemos por ti.

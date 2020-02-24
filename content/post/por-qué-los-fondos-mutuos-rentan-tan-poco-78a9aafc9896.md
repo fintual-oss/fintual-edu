@@ -43,7 +43,7 @@ Y como no recibimos comisiones de terceros y lo que cobramos es fijo e independi
 
 {{% prueba_fintual
 utmcontent="rentan_poco"
-card_title="Prueba Fintual"
+card_title="Prueba Fintual 👇"
 card_button="Empezar" %}}
 
 Más inteligente que dejar tu plata en el banco.

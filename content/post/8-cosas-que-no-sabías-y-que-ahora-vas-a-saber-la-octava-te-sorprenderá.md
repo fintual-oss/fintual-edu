@@ -60,7 +60,7 @@ Como hablamos de rentabilidad, tenemos que decirte tres cosas:
 
 {{% prueba_fintual
 utmcontent="cosas_2019"
-card_title="Prueba Fintual"
+card_title="Prueba Fintual 👇"
 card_button="Empezar" %}}
 
 Más inteligente que dejar tu plata en el banco.

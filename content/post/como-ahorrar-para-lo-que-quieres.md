@@ -55,7 +55,7 @@ Si tienes más dudas de cómo funciona, [revisa la sección preguntas frecuentes
 
 {{% prueba_fintual
 utmcontent="como_ahorrar"
-card_title="Prueba Fintual"
+card_title="Prueba Fintual 👇"
 card_button="Empezar" %}}
 
 Más inteligente que dejar tu plata en el banco.
