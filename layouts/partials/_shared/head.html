@@ -1,28 +1,26 @@
 <head lang="es">
-  <meta charset="utf-8">
+	<meta charset="utf-8">
 
   {{- partial "google_tag_manager_head.html" . -}}
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  {{ .Hugo.Generator }}
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        {{ .Hugo.Generator }}
   <link rel="canonical" href="{{ .Permalink }}" />
   <link rel="shortcut icon" href="{{ "/img/favicon.ico" | urlize | relURL }}">
   <meta content="{{ delimit .Site.Params.Keywords ", " }}" name="keywords">
   <meta content="{{ .Params.author | default .Site.Params.author }}" name="author">
-  <meta property="og:title"
-    content="{{ $isHomePage := eq .Title .Site.Title }}{{ .Title }}{{ if eq $isHomePage false }} - {{ .Site.Title }}{{ end }}">
+  <meta property="og:title" content="{{ $isHomePage := eq .Title .Site.Title }}{{ .Title }}{{ if eq $isHomePage false }} - {{ .Site.Title }}{{ end }}">
   <meta property="og:url" content="{{ .Permalink }}">
   <meta property="og:image" content="{{ .Params.image | default .Site.Params.image | absURL }}">
   <meta property="og:description" content="{{ .Params.description | default .Site.Params.description }}">
   <meta property="og:type" content="website" />
-  <title>{{ .Page.Title }} | {{ .Site.Title }}</title>
-  {{ with .Site.Params.meta.description }}
-  <meta name="description" content="{{ . }}">{{ end }}
-  {{ with .Site.Params.meta.keywords }}
-  <meta name="keywords" content="{{ . }}">{{ end }}
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
-    integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-  <link href="{{ "/css/medium.css" | urlize | relURL }}" rel="stylesheet">
-  <link href="{{ "/css/additional.css" | urlize | relURL }}" rel="stylesheet">
+	<title>{{ .Page.Title }} | {{ .Site.Title }}</title>
+	{{ with .Site.Params.meta.description }}<meta name="description" content="{{ . }}">{{ end }}
+	{{ with .Site.Params.meta.keywords }}<meta name="keywords" content="{{ . }}">{{ end }}
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+	<link href="https://fonts.googleapis.com/css?family=Poppins&display=swap" rel="stylesheet">
+	<link href="{{ "/css/medium.css" | urlize | relURL }}" rel="stylesheet">
+	<link href="{{ "/css/additional.css" | urlize | relURL }}" rel="stylesheet">
   <link href="{{ "/css/fintual.css" | urlize | relURL }}" rel="stylesheet">
   {{partial "twitter_card.html" . }}
 </head>
