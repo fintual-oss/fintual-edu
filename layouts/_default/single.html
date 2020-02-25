@@ -30,11 +30,13 @@
                             <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left md-nopad-left">
                                 <a target="_blank" class="link-dark">{{ $writer.name }}</a><br>
                                 <span class="author-description">
-                                    {{ $writer.description }}<br>
+                                    <span class="author-description__bio">
+                                    {{ $writer.description }}</span><span class="author-description__timers"><br>
                                     <i class="far fa-star"></i>
                                     {{ dateFormat "Jan 2, 2006" .PublishDate }}
                                     <i class="far fa-clock clock"></i>
                                     lectura de {{ .ReadingTime }} min
+                                </span>
                                 </span>
                             </div>
                         </div>
