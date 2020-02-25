@@ -4,7 +4,6 @@ author = "Montserrat Bonilla"
 categories = ["educación financiera"]
 date = 2020-02-18T14:35:20Z
 description = ""
-draft = true
 hide = false
 image = "/uploads/Blog_esto es fintual.jpg"
 title = "Esto es ahorrar con Fintual"
