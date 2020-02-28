@@ -4,10 +4,9 @@ author = "Gonzalo Enei"
 categories = ["educación financiera"]
 date = 2020-02-28T14:06:47Z
 description = ""
-draft = true
 hide = true
 image = ""
-title = "Preguntas frecuentes sobre baja del mercado 28 Feb"
+title = "Preguntas frecuentes sobre la baja del mercado (28 Feb 2020)"
 url = "preguntas-frecuentes-28-febrero-2020"
 
 +++
