@@ -20,7 +20,9 @@ El plan que simulaste en Fintual está calculado considerando datos históricos 
 
 Normalmente después de momento de baja viene una subida y si sacaste tu inversión, no vas a estar en el mercado para aprovecharla al máximo.
 
-**Históricamente los inversionistas que actúan por miedo después de ver una caída salen mucho más perjudicados que los que simplemente esperan.**
+Los únicos casos donde recomendamos sacar tu plata son 1) cuando la necesites muy luego, o 2) lo estás pasando realmente mal, es decir, tienes que invertir en un riesgo más bajo.
+
+**Y recuerda: históricamente los inversionistas que actúan por miedo después de ver una caída salen mucho más perjudicados que los que simplemente esperan.**
 
 #### **¿Espero a que el mercado se estabilice antes de invertir más?**
 
