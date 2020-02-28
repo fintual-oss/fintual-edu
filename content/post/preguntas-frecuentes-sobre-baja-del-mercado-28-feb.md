@@ -62,3 +62,4 @@ Una solicitud hecha un día hábil antes de las 12pm tiene efecto al final de es
 La verdad, nadie sabe. Lo que sí sabemos es que en el largo plazo el mercado tiende al alza, incluso después de crisis tan grandes como la segunda guerra mundial. **Recuerda que la paciencia paga.**
 
 ![](/uploads/Dow Jones Index.jpg)
+*Nada es tan grave como parece*
