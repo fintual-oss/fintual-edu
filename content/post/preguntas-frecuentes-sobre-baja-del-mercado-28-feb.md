@@ -38,8 +38,8 @@ Cambiar tu plata del objetivo que ha perdido plata es asumir la pérdida. Si ese
 
 #### Si retiro mi plata, ¿cuándo tiene efecto?
 
-Nuestra recomendación es a no retirar por la baja, sino sólo porque se cumplió el plazo o necesitas la plata.  
+Nuestra recomendación es retirar sólo porque se cumplió el plazo o necesitas la plata.  
   
-En cualquier caso, una solicitud hecha un día hábil antes de las 12pm tiene efecto al final de ese día. Una solicitud hecha un día hábil después de las 12pm, o en un día no hábil, tiene efecto al final del día hábil siguiente.  
+Una solicitud hecha un día hábil antes de las 12pm tiene efecto al final de ese día. Una solicitud hecha un día hábil después de las 12pm, o en un día no hábil, tiene efecto al final del día hábil siguiente.  
   
 Si estás retirando para evitar la baja de tu inversión, igual te afectarán los movimientos de al menos un día.
