@@ -1,7 +1,7 @@
 +++
 aliases = []
 author = "Gonzalo Enei"
-categories = ["educación financiera"]
+categories = ["noticias"]
 date = 2020-02-28T14:06:47Z
 description = ""
 hide = true
