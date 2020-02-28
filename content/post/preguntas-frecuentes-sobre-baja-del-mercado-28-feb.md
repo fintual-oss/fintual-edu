@@ -35,3 +35,11 @@ Así que si tienes plata que quieres hacer crecer en el tiempo, de todas maneras
 #### **¿Tengo un objetivo que está ganando plata y otro que está perdiendo, me conviene mover mi plata de uno a otro?**
 
 Cambiar tu plata del objetivo que ha perdido plata es asumir la pérdida. Si ese objetivo lo creaste con un plazo y riesgo razonable en su minuto, recomendamos mantenerlo salvo que necesites la plata, o no puedas tolerar el riesgo y lo estés pasando **muy** mal.
+
+#### Si retiro mi plata, ¿cuándo tiene efecto?
+
+Nuestra recomendación es a no retirar por la baja, sino sólo porque se cumplió el plazo o necesitas la plata.  
+  
+En cualquier caso, una solicitud hecha un día hábil antes de las 12pm tiene efecto al final de ese día. Una solicitud hecha un día hábil después de las 12pm, o en un día no hábil, tiene efecto al final del día hábil siguiente.  
+  
+Si estás retirando para evitar la baja de tu inversión, igual te afectarán los movimientos de al menos un día.
