@@ -3,9 +3,9 @@ aliases = []
 author = "Gonzalo Enei"
 categories = ["noticias"]
 date = 2020-02-28T14:06:47Z
-description = ""
+description = "Respuesta a algunas de las preguntas más típicas que puedes tener por la bajada de las inversiones en Febrero de 2019"
 hide = true
-image = ""
+image = "/uploads/lubo-minar-ECxwQjLRwLA-unsplash.jpg"
 title = "Preguntas frecuentes sobre la baja del mercado (28 Feb 2020)"
 url = "preguntas-frecuentes-28-febrero-2020"
 
