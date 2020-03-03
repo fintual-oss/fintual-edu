@@ -7,7 +7,7 @@ description = "Omar Larré, cofundador de Fintual, enlista en qué nos equivocam
 draft = true
 hide = false
 image = "/uploads/Blog_errores.jpg"
-title = "5 típicos errores al ahorrar o invertir"
+title = "5 típicos errores al ahorrar e invertir"
 url = "errores-al-invertir"
 
 +++
