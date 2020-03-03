@@ -4,7 +4,7 @@ hide_body: false
 fields:
 - name: author
   type: select
-  default: []
+  default: Omar Larré
   config:
     required: true
     options:
