@@ -108,10 +108,10 @@ Después, toma en cuenta los siguientes consejos:
 4. Sigue el plan en piloto automático. Monitorear tus inversiones es importante, pero no te vuelvas adicto a revisarlas día a día. No actúes de forma emocional ante cualquier movimiento o evento. Si tus ingresos aumentan, trata de aumentar tus ahorros.
 
 {{% prueba_fintual
-u_mcontent="write_here_the_utm_tag"
-card_title="Llegamos a México"
+u_mcontent="https://fintual.mx/?utm_source=edu&utm_medium=edu&utm_campaign=waiting_list_mx&utm_content=-340"
+card_titl_e="Llegamos a México"
 card_button="¡Regístrame!" %}}
 
-Abrimos nuestra lista de espera. Déjanos tu mail y entérate de más.
+Abrimos nuestra lista de espera. Déjanos tu mail y únete.
 
 {{% /prueba_fintual %}}
