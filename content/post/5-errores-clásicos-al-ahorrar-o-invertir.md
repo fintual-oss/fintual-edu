@@ -1,13 +1,13 @@
 +++
 aliases = []
 author = "Omar Larré"
-categories = ["educación financiera"]
+categories = ["educación financiera", "educación financiera"]
 date = 2020-03-03T14:09:47Z
-description = ""
+description = "Omar Larré, cofundador de Fintual, enlista en qué nos equivocamos a la hora de invertir o ahorrar, y nos aconseja cómo hacerlo mejor."
 draft = true
 hide = false
-image = ""
-title = "5 errores clásicos al ahorrar o invertir"
+image = "/uploads/Blog_errores.jpg"
+title = "5 típicos errores al ahorrar o invertir"
 url = "errores-al-invertir"
 
 +++
