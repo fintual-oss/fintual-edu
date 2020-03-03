@@ -15,9 +15,7 @@ La forma en la que interactuamos con nuestro entorno —es decir, nuestra inclin
 
 Y cuando invertimos, nuestras “reacciones instintivas” han demostrado ser las principales causantes de nuestros errores.
 
-![](https://lh3.googleusercontent.com/tsJPIlsMVwVx6G4b5uQ5IJEq9WVu2Iiq1xsypdYgDLL8fvCD1KUR4hrMckDbfJlwOMMFxniMQUST7VSw5pUjJ3tuk5vSXGohoJhdVDpd_LXYoYRcVoETMogxU5xt6nvOPA4NlZ-3 =404x331)
-
-_Homo ergaster cazando en la sabana africana hace unos 1.7 millones de años atrás | Impresión artística de Mauricio Anton._
+<div style="text-align:center"> <figure> <img src="/uploads/5 errores 1.png"> <figcaption><i>Homo ergaster cazando en la sabana africana hace unos 1.7 millones de años atrás. Impresión artística de Mauricio Anton.</i></figcaption> </figure> </div>
 
 Y aquí algunos de los principales, sobre todo cuando se hace a largo plazo:
 
