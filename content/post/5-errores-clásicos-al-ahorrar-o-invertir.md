@@ -74,7 +74,7 @@ Emociones: probablemente la primera razón de malas decisiones financieras. El m
 
 _Pánico en la bolsa de New York, año 1987. Jim Wilson/The New York Times._
 
-Las acciones —por ejemplo— pueden tener grandes desviaciones en periodos cortos de tiempo, sin embargo, en el largo plazo los retornos son más estables y más altos que instrumentos conservadores (como por ejemplo, depósitos a plazo). 
+Las acciones —por ejemplo— pueden tener grandes desviaciones en periodos cortos de tiempo, sin embargo, en el largo plazo los retornos son más estables y más altos que instrumentos conservadores (como por ejemplo, depósitos a plazo).
 
 Entender esto permitirá incluso aprovechar las decisiones irracionales de otros inversionistas.
 
@@ -106,3 +106,5 @@ Después, toma en cuenta los siguientes consejos:
 2. Ajusta tus expectativas a los retornos históricos. No esperes hacerte rico de la noche a la mañana. Una estrategia consistente y de largo plazo es la que realmente te permitirá cumplir tus objetivos.
 3. Aprovecha los beneficios tributarios que existen, especialmente si estás ahorrando para la vejez, en donde existen beneficios demasiados útiles tales como la AFORE.
 4. Sigue el plan en piloto automático. Monitorear tus inversiones es importante, pero no te vuelvas adicto a revisarlas día a día. No actúes de forma emocional ante cualquier movimiento o evento. Si tus ingresos aumentan, trata de aumentar tus ahorros.
+
+{{< button_link href="https://fintual.mx/?utm_source=edu.fintual.mx" text="Empezar" >}}
