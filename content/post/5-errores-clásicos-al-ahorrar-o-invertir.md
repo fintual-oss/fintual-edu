@@ -32,6 +32,8 @@ Al invertir las cosas no son muy diferentes y básicamente hay dos caminos que s
 
 <div style="text-align:center"> <figure> <img src="/uploads/5 errores 2.png"> <figcaption><i>Algunos prefieren apostar a corto plazo que generar un plan de inversión de largo plazo.</i></figcaption> </figure> </div>
 
+![Algunos prefieren apostar a corto plazo que generar un plan de inversión de largo plazo.](/uploads/5 errores 2.png)_Algunos prefieren apostar a corto plazo que generar un plan de inversión de largo plazo._
+
 _Algunos prefieren apostar a corto plazo que generar un plan de inversión de largo plazo._
 
 Si lo tuyo es lo segundo, vale la pena seguir leyendo el resto de los errores que se cometen comúnmente.
