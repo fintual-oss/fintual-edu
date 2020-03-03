@@ -74,7 +74,6 @@ Entender esto permitirá incluso aprovechar las decisiones irracionales de otros
 
 <div style="text-align:center"> <figure> <img src="/uploads/5 errores 5.png"> <figcaption><i>Finalmente invertir en el largo plazo es un proceso que exige auto-control y tranquilidad.</i></figcaption> </figure> </div>
 
-
 #### **Error 5: No considerar los costos a la hora de invertir**
 
 Siempre cuando inviertes tienen que considerar los costos de invertir: obviamente estos no deberán ser mayores a tus beneficios. Estos costos los deberías conocer en fondos mutuos, fondos de inversión, en compra de acciones o en compra de otros productos de inversión.
