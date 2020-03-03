@@ -19,7 +19,7 @@ Y cuando invertimos, nuestras “reacciones instintivas” han demostrado ser la
 
 Y aquí algunos de los principales, sobre todo cuando se hace a largo plazo:
 
-**Error 1: Tener poca paciencia**
+#### **Error 1: Tener poca paciencia**
 
 Ir al gimnasio, salir de la escuela, estudiar una carrera, cuidar las plantas de un jardín: ejemplos de cosas que logramos poco a poco, notando los beneficios de forma muy lenta. ¿Cuántas veces te ha sucedido que de forma inmediata ves los beneficios de lo que haces?
 
