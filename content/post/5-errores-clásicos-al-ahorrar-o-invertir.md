@@ -8,7 +8,7 @@ draft = true
 hide = false
 image = "/uploads/Blog_errores.jpg"
 title = "5 típicos errores al ahorrar e invertir"
-url = "errores-al-invertir"
+url = "/5-errores-al-invertir"
 
 +++
 La forma en la que interactuamos con nuestro entorno —es decir, nuestra inclinación natural a buscar información en todos los rincones, darle tanta importancia a los rumores, tratar de encontrar patrones, huir por refugio seguro— fueron clave para sobrevivir a lo largo de nuestra evolución como especie humana.
