@@ -15,7 +15,7 @@ La forma en que interactuamos con nuestro entorno —nuestras inclinaciones natu
 
 <div style="text-align:center">
 <figure>
-<img src="/uploads/5-errores.png">
+<img src="/uploads/5-errores-com7122">
 <figcaption><i>Homo ergaster cazando en la sabana africana hace unos 1.7 millones de años atrás. Impresión artística de Mauricio Anton.</i></figcaption>
 </figure>
 </div>
