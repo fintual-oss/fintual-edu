@@ -107,4 +107,11 @@ Después, toma en cuenta los siguientes consejos:
 3. Aprovecha los beneficios tributarios que existen, especialmente si estás ahorrando para la vejez, en donde existen beneficios demasiados útiles tales como la AFORE.
 4. Sigue el plan en piloto automático. Monitorear tus inversiones es importante, pero no te vuelvas adicto a revisarlas día a día. No actúes de forma emocional ante cualquier movimiento o evento. Si tus ingresos aumentan, trata de aumentar tus ahorros.
 
-{{< button_link href="https://fintual.mx/?utm_source=edu.fintual.mx" text="Empezar" >}}
+{{% prueba_fintual
+u_mcontent="write_here_the_utm_tag"
+card_title="Llegamos a México"
+card_button="¡Regístrame!" %}}
+
+Abrimos nuestra lista de espera. Déjanos tu mail y entérate de más.
+
+{{% /prueba_fintual %}}
