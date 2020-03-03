@@ -47,13 +47,7 @@ Un buen plan de inversión generalmente considera ahorros de forma periódica, g
 Sin embargo, cuando el mercado está a la baja, el miedo puede ser mayor que tus ganas de seguir un plan, lo cual es un gran error porque resulta ser contraproducente: si el mercado está más “barato”, con mayor razón no deberías detener tu plan.
 
 
-
-<div style="text-align:center">
-<figure>
-<img src="/uploads/5-errores-com7045.png">
-<figcaption><i>Warren Buffett con una camisa de lagartijas.</i></figcaption>
-</figure>
-</div>
+<div style="text-align:center"> <figure> <img src="/uploads/5 errores 3.png"> <figcaption><i>Warren Buffett con una camisa de lagartijas.</i></figcaption> </figure> </div>
 
 Warren Buffet es uno de los grandes inversionistas de la historia, y de esta forma explica qué hacer cuando el mercado está a la baja:
 
