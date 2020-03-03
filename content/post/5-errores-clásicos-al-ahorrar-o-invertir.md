@@ -46,7 +46,6 @@ Un buen plan de inversión generalmente considera ahorros de forma periódica, g
 
 Sin embargo, cuando el mercado está a la baja, el miedo puede ser mayor que tus ganas de seguir un plan, lo cual es un gran error porque resulta ser contraproducente: si el mercado está más “barato”, con mayor razón no deberías detener tu plan.
 
-
 <div style="text-align:center"> <figure> <img src="/uploads/5 errores 3.png"> <figcaption><i>Warren Buffett con una camisa de lagartijas.</i></figcaption> </figure> </div>
 
 Warren Buffet es uno de los grandes inversionistas de la historia, y de esta forma explica qué hacer cuando el mercado está a la baja:
@@ -67,9 +66,8 @@ Por el contrario, cuando el mercado está bajando, y por lo tanto las acciones s
 
 Emociones: probablemente la primera razón de malas decisiones financieras. El mercado no se comporta de forma racional, sino que es un sistema complejo dominado muchas veces por ráfagas temporales de miedo o de euforia.
 
-![](https://lh3.googleusercontent.com/xK99IZElkVBMTQC49QRzahKg88EuA8D8lsMOPiGL2fXq-4eP8ec7i4q0HmQ9hvtGmrz3b9mtp6JjnEvf4eK-qrdglFrZHSj-8cKi1gUWjhEmfpbjOaRZ_IpUd4sZJlkJCIeYLGuT =395x264)
+<div style="text-align:center"> <figure> <img src="/uploads/5 errores 4.png"> <figcaption><i>Pánico en la bolsa de New York, año 1987. Jim Wilson/The New York Times.</i></figcaption> </figure> </div>
 
-_Pánico en la bolsa de New York, año 1987. Jim Wilson/The New York Times._
 
 Las acciones —por ejemplo— pueden tener grandes desviaciones en periodos cortos de tiempo, sin embargo, en el largo plazo los retornos son más estables y más altos que instrumentos conservadores (como por ejemplo, depósitos a plazo).
 
