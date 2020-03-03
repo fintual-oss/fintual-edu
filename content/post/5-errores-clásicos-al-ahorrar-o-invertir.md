@@ -29,8 +29,6 @@ Al invertir las cosas no son muy diferentes y básicamente hay dos caminos que s
 
 <div style="text-align:center"> <figure> <img src="/uploads/5 errores 2.png"> <figcaption><i>Algunos prefieren apostar a corto plazo que generar un plan de inversión de largo plazo.</i></figcaption> </figure> </div>
 
-![](/uploads/5 errores 2.png)
-
 Si lo tuyo es lo segundo, vale la pena seguir leyendo el resto de los errores que se cometen comúnmente.
 
 #### **Error 2: No diversificar**
