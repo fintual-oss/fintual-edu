@@ -68,14 +68,12 @@ Emociones: probablemente la primera razón de malas decisiones financieras. El m
 
 <div style="text-align:center"> <figure> <img src="/uploads/5 errores 4.png"> <figcaption><i>Pánico en la bolsa de New York, año 1987. Jim Wilson/The New York Times.</i></figcaption> </figure> </div>
 
-
 Las acciones —por ejemplo— pueden tener grandes desviaciones en periodos cortos de tiempo, sin embargo, en el largo plazo los retornos son más estables y más altos que instrumentos conservadores (como por ejemplo, depósitos a plazo).
 
 Entender esto permitirá incluso aprovechar las decisiones irracionales de otros inversionistas.
 
-![](https://lh4.googleusercontent.com/gpY1JnWo-5mUBR9Ay34iZxPco8ud6wmlSJR9Q76lehHFfm9k3X2QfIi_Ekdyfp2uH1fdPyy19viXW_HX7LfB1yx-VAuUaPFqTulsa1Mej8kC0VQYFiv0tGCm_y1AtSEY08MvTUlv =327x217)
+<div style="text-align:center"> <figure> <img src="/uploads/5 errores 5.png"> <figcaption><i>Finalmente invertir en el largo plazo es un proceso que exige auto-control y tranquilidad.</i></figcaption> </figure> </div>
 
-_Finalmente invertir en el largo plazo es un proceso que exige autocontrol y tranquilidad._
 
 #### **Error 5: No considerar los costos a la hora de invertir**
 
