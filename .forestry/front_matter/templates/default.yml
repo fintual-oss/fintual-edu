@@ -4,7 +4,7 @@ hide_body: false
 fields:
 - name: author
   type: select
-  default: []
+  default: Omar Larré
   config:
     required: true
     options:
@@ -85,4 +85,5 @@ fields:
   hidden: false
   default: true
 pages:
+- content/post/5-errores-clásicos-al-ahorrar-o-invertir.md
 - content/post/esto-es-ahorrar-con-fintual.md
