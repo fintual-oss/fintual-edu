@@ -5,7 +5,7 @@ categories = ["educación financiera"]
 date = 2020-03-04T14:41:06Z
 description = "Para que pienses en esto cuando estés tomándote un café!"
 hide = false
-image = "/uploads/coffee.jpeg"
+image = "/uploads/café-1.png"
 title = "Cómo un café menos al día podría darte hasta 2 millones de pesos"
 url = "/un-cafe-menos-al-dia"
 
