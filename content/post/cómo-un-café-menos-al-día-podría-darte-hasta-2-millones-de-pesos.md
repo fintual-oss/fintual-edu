@@ -32,9 +32,9 @@ Para que pienses en esto cuando estés tomándote un café.
 
 Y en Fintual tenemos la herramienta para simular cuánto podría significar un ahorro mensual como este u otro distinto. Más de 10 mil personas la usan ya en Chile.
 
-Pronto lo haremos en México también, desde donde podrás depositar $60 diarios, $1,000 mensuales o el monto que quieras. 
+Pronto lo haremos en México también, desde donde podrás depositar $60 diarios, $1,000 mensuales o el monto que quieras.
 
-{{% prueba_fintual utmcontent="errores_al_invertir" card_title="Llegamos a México" card_button="Regístrate" %}}
+{{% prueba_fintual utmcontent="un-cafe-al-dia" card_title="Llegamos a México" card_button="Regístrate" %}}
 
 Abrimos nuestra lista de espera. ¡Déjanos tu mail y únete!
 
