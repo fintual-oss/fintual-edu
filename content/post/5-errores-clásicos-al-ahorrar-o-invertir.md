@@ -1,7 +1,7 @@
 +++
 aliases = []
 author = "Omar Larré"
-categories = ["educación financiera"]
+categories = []
 date = 2020-03-03T14:09:47Z
 description = "Omar Larré, cofundador de Fintual, enlista en qué nos equivocamos a la hora de invertir o ahorrar, y nos aconseja cómo hacerlo mejor."
 hide = false
