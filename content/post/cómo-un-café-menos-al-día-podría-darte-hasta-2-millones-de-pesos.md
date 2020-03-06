@@ -1,7 +1,7 @@
 +++
 aliases = []
 author = "Pedro Pineda"
-categories = ["educación financiera"]
+categories = []
 date = 2020-03-04T14:41:06Z
 description = "Para que pienses en esto cuando estés tomándote un café!"
 hide = false
