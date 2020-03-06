@@ -1,7 +1,7 @@
 +++
 aliases = []
 author = "Montserrat Bonilla"
-categories = ["educación financiera"]
+categories = []
 date = 2020-02-18T14:35:20Z
 description = ""
 hide = false
