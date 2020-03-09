@@ -2,7 +2,7 @@
 aliases = []
 author = "Gonzalo Enei"
 categories = ["educación financiera"]
-date = 2020-02-28T14:06:47Z
+date = 2020-03-09T14:06:47Z
 description = " Lo más importante es mantener la calma y no dejar que esa sensación te haga cambiar los planes que te propusiste inicialmente."
 hide = false
 image = "/uploads/lubo-minar-ECxwQjLRwLA-unsplash.jpg"
