@@ -4,9 +4,8 @@ author = "Omar Larré"
 categories = ["noticias"]
 date = 2020-03-09T22:44:59Z
 description = "La mayoría de los objetivos en Fintual tienen exposición a acciones globales, lo que los hace razonables para plazos de inversión de un año o más. "
-draft = true
 hide = false
-image = ""
+image = "/uploads/oil.jpeg"
 title = "Qué está pasando en los mercados"
 url = "/que-esta-pasando-en-los-mercados"
 
@@ -24,7 +23,7 @@ Este lunes 9 de marzo los mercados amanecieron con fuertes bajas de precio, prin
 
 #### 
 
-¿Cuánto bajaron los principales índices de acciones?
+#### ¿Cuánto bajaron los principales índices de acciones?
 
 La variación diaria de varios índices ha sido brusca, especialmente índices de países emergentes productores de petróleo. La variación diaria del Bovespa de Brasil fue -12,16%, y -6,42% para el IPC de México.
 
