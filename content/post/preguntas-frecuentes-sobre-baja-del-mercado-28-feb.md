@@ -5,7 +5,7 @@ categories = ["educación financiera"]
 date = 2020-03-09T14:06:47Z
 description = " Lo más importante es mantener la calma y no dejar que esa sensación te haga cambiar los planes que te propusiste inicialmente."
 hide = false
-image = "/uploads/shark.png"
+image = "/uploads/sharkk.png"
 title = "Qué hacer cuando cae tu inversión"
 url = "/que-hacer-cuando-cae-tu-inversion"
 
