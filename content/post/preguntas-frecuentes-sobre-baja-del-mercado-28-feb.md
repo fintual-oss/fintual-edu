@@ -18,9 +18,9 @@ Las inversiones tienen subidas y bajadas. Cuando llevas poco tiempo invirtiendo,
 
 El plan que simulaste en Fintual está calculado considerando datos históricos que incluyen alzas pero también bajas. Si elegiste bien el plazo, lo mejor es mantenerlo hasta que se cumpla para que también se cumpla el resultado que esperabas.
 
-Normalmente después una baja viene una subida, pero nadie sabe cuándo. Si sacaste tu inversión, no vas a estar en el mercado para aprovecharla al máximo (para saber más  de esto puedes leer [este post de Omar](https://edu.fintual.cl/p%C3%A9rdidas-de-corto-plazo-t%C3%B3mate-unos-minutos-y-lee-esto-e222b63f3939/))
+Normalmente después una baja viene una subida, pero nadie sabe cuándo. Si sacaste tu inversión, [no vas a estar en el mercado para aprovecharla al máximo](https://edu.fintual.cl/p%C3%A9rdidas-de-corto-plazo-t%C3%B3mate-unos-minutos-y-lee-esto-e222b63f3939/).
 
-Los únicos casos donde recomendamos sacar tu plata son
+Los únicos casos donde recomendamos sacar tu plata son:
 
 1. Cuando realmente la necesitas gastar
 2. Cuando lo estás pasando realmente mal, es decir, tienes que invertir en un riesgo más bajo.
