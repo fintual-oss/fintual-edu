@@ -10,7 +10,7 @@ title = "Qué hacer cuando cae tu inversión"
 url = "/que-hacer-cuando-cae-tu-inversion"
 
 +++
-Es normal asustarse, pero también es normal que tu inversión caiga a veces. Aquí hay respuestas a las preguntas más comunes que puedes tener:
+Es normal asustarse, pero también es normal que tu inversión caiga a veces. Aquí las respuestas a las preguntas más comunes que puedes tener.
 
 #### ¿Me conviene retirar mi inversión o pasarla a algo más conservador?
 
@@ -59,5 +59,4 @@ Una solicitud hecha un día hábil antes de las 12pm tiene efecto al final de es
 
 La verdad, nadie sabe. Lo que sí sabemos es que en el largo plazo el mercado tiende al alza, incluso después de crisis tan grandes como la Segunda Guerra Mundial. **Recuerda que la paciencia paga.**
 
-![
-Nada es tan grave como parece](/uploads/Dow Jones Index.jpg)_Nada es tan grave como parece._
+![](/uploads/Dow Jones Index.jpg)_Nada es tan grave como parece._
