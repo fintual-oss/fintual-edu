@@ -3,28 +3,27 @@ aliases = []
 author = "Gonzalo Enei"
 categories = ["noticias"]
 date = 2020-02-28T14:06:47Z
-description = "Respuesta a algunas de las preguntas más típicas que puedes tener por la bajada de las inversiones en Febrero de 2019"
+description = " Lo más importante es mantener la calma y no dejar que esa sensación te haga cambiar los planes que te propusiste inicialmente."
 hide = true
 image = "/uploads/lubo-minar-ECxwQjLRwLA-unsplash.jpg"
-title = "Preguntas frecuentes sobre la baja del mercado (28 Feb 2020)"
-url = "preguntas-frecuentes-28-febrero-2020"
+title = "Qué hacer cuando cae tu inversión"
+url = "/que-hacer-cuando-cae-tu-inversion"
 
 +++
-Los últimos días los mercados han estado a la baja principalmente por [temor al COVID-19](https://edu.fintual.cl/informe-24-febrero-2020/) (más conocido como Corona Virus). Aquí hay respuestas a las preguntas más comunes que puedes tener:
+Es normal asustarse, pero también es normal que tu inversión caiga a veces. Aquí hay respuestas a las preguntas más comunes que puedes tener:
 
 #### ¿Me conviene retirar mi inversión o pasarla a algo más conservador?
 
-Las inversiones tienen subidas y bajadas. Cuando llevas poco tiempo invirtiendo, una bajada puede sentirse muy mal. Lo más importante es mantener la calma y no dejar que esa sensación te haga cambiar los planes que te propusiste inicialmente.
+Las inversiones tienen subidas y bajadas. Cuando llevas poco tiempo invirtiendo, una bajada puede sentirse muy mal. **Lo más importante es mantener la calma y no dejar que esa sensación te haga cambiar los planes que te propusiste inicialmente.**
 
-El plan que simulaste en Fintual está calculado considerando datos históricos que incluyen alzas pero también bajas. Así que si lo elegiste bien, **lo mejor es** **mantener hasta que se cumpla el plazo para que también se cumpla el resultado que esperabas.**
+El plan que simulaste en Fintual está calculado considerando datos históricos que incluyen alzas pero también bajas. Si elegiste bien el plazo, lo mejor es mantenerlo hasta que se cumpla para que también se cumpla el resultado que esperabas.
 
-Normalmente después de momento de baja viene una subida, pero nadie sabe cuándo. Si sacaste tu inversión, no vas a estar en el mercado para aprovecharla al máximo (para saber más  de esto puedes leer [este post de Omar](https://edu.fintual.cl/p%C3%A9rdidas-de-corto-plazo-t%C3%B3mate-unos-minutos-y-lee-esto-e222b63f3939/))
+Normalmente después una baja viene una subida, pero nadie sabe cuándo. Si sacaste tu inversión, no vas a estar en el mercado para aprovecharla al máximo (para saber más  de esto puedes leer [este post de Omar](https://edu.fintual.cl/p%C3%A9rdidas-de-corto-plazo-t%C3%B3mate-unos-minutos-y-lee-esto-e222b63f3939/))
 
-Los únicos casos donde recomendamos sacar tu plata son 
+Los únicos casos donde recomendamos sacar tu plata son
 
-1) Cuando realmente la necesitas gastar 
-
-2) Cuando lo estás pasando realmente mal, es decir, tienes que invertir en un riesgo más bajo.
+1. Cuando realmente la necesitas gastar
+2. Cuando lo estás pasando realmente mal, es decir, tienes que invertir en un riesgo más bajo.
 
 **Y recuerda: históricamente los inversionistas que actúan por miedo después de ver una caída salen mucho más perjudicados que los que simplemente esperan.**
 
@@ -49,7 +48,7 @@ Si pudieras adivinar los momentos exactos de cuándo las bajadas terminan y empi
 Al tratar de hacer _market timing_, lo más probable es que te pierdas la subida después de la bajada y termines abajo del rendimiento del mercado.
 
 ![](/uploads/pérdidas-de-c6329.png)
-*La línea roja muestra lo que realmente pasó con tu inversión si te retiraste en medio de una caída.*
+_La línea roja muestra lo que realmente pasó con tu inversión si te retiraste en medio de una caída._
 
 #### Si retiro mi plata, ¿cuándo tiene efecto?
 
@@ -62,4 +61,4 @@ Una solicitud hecha un día hábil antes de las 12pm tiene efecto al final de es
 La verdad, nadie sabe. Lo que sí sabemos es que en el largo plazo el mercado tiende al alza, incluso después de crisis tan grandes como la segunda guerra mundial. **Recuerda que la paciencia paga.**
 
 ![](/uploads/Dow Jones Index.jpg)
-*Nada es tan grave como parece*
+_Nada es tan grave como parece_
