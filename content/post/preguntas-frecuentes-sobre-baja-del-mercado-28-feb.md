@@ -1,10 +1,10 @@
 +++
 aliases = []
 author = "Gonzalo Enei"
-categories = ["noticias"]
+categories = ["educación financiera"]
 date = 2020-02-28T14:06:47Z
 description = " Lo más importante es mantener la calma y no dejar que esa sensación te haga cambiar los planes que te propusiste inicialmente."
-hide = true
+hide = false
 image = "/uploads/lubo-minar-ECxwQjLRwLA-unsplash.jpg"
 title = "Qué hacer cuando cae tu inversión"
 url = "/que-hacer-cuando-cae-tu-inversion"
@@ -57,7 +57,7 @@ Una solicitud hecha un día hábil antes de las 12pm tiene efecto al final de es
 
 #### ¿Cuánto dura la volatilidad?
 
-La verdad, nadie sabe. Lo que sí sabemos es que en el largo plazo el mercado tiende al alza, incluso después de crisis tan grandes como la segunda guerra mundial. **Recuerda que la paciencia paga.**
+La verdad, nadie sabe. Lo que sí sabemos es que en el largo plazo el mercado tiende al alza, incluso después de crisis tan grandes como la Segunda Guerra Mundial. **Recuerda que la paciencia paga.**
 
-![](/uploads/Dow Jones Index.jpg)
-_Nada es tan grave como parece_
+![
+Nada es tan grave como parece](/uploads/Dow Jones Index.jpg)_Nada es tan grave como parece._
