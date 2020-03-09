@@ -29,13 +29,13 @@ Los únicos casos donde recomendamos sacar tu plata son:
 
 #### ¿Espero a que el mercado se estabilice antes de invertir más?
 
-Nosotros recomendamos invertir regularmente sin tratar de adivinar lo que va a pasar porque nadie sabe el futuro. Si tienes plata para invertir hoy, hazlo. Nadie sabe si mañana va a estar más caro o barato el mercado. Si eres consistente en el tiempo, deberías tener un buen resultado.
+La recomendación es invertir regularmente sin tratar de adivinar lo que va a pasar: nadie sabe el futuro. Si tienes plata para invertir hoy, hazlo. Nadie sabe si mañana va a estar más caro o barato el mercado. Históricamente, los que han sido consistentes en el tiempo han tenido buenos resultados.
 
 #### ¿Invierto más ahora que el mercado está “barato”?
 
 Más que tratar de adivinar si hoy el mercado está barato o caro, recomendamos tener el hábito de invertir regularmente y de mantener en el largo plazo.
 
-Así que si tienes plata que quieres hacer crecer en el tiempo, de todas maneras invierte. Pero si sólo quieres hacer “una pasada” puede que te lleves una decepción porque nadie sabe si el mercado mañana va a estar más alto o bajo.
+Así que si tienes plata que quieres hacer crecer en el tiempo, de todas maneras invierte. Si sólo quieres hacer “una pasada”, puede que te lleves una decepción porque nadie sabe si el mercado mañana va a estar más alto o bajo.
 
 #### ¿Tengo un objetivo que está ganando plata y otro que está perdiendo, me conviene mover mi plata de uno a otro?
 
