@@ -47,9 +47,7 @@ Si pudieras adivinar los momentos exactos de cuándo las bajadas terminan y empi
 
 Al tratar de hacer _market timing_, lo más probable es que te pierdas la subida después de la bajada y termines abajo del rendimiento del mercado.
 
-![
-La línea roja muestra lo que realmente pasó con tu inversión si te retiraste en medio de una caída.](/uploads/pérdidas-de-c6329.png)_
-La línea roja muestra lo que realmente pasó con tu inversión si te retiraste en medio de una caída._
+![La línea roja muestra lo que realmente pasó con tu inversión si te retiraste en medio de una caída](/uploads/pérdidas-de-c6329.png)_La línea roja muestra lo que realmente pasó con tu inversión si te retiraste en medio de una caída._
 
 #### Si retiro mi plata, ¿cuándo tiene efecto?
 
@@ -57,7 +55,7 @@ Una solicitud hecha un día hábil antes de las 12pm tiene efecto al final de es
 
 **Si estás retirando para evitar la baja de tu inversión, igual te afectarán los movimientos de al menos un día.**
 
-#### ¿Hasta cuándo durará la inestabilidad?
+#### ¿Cuánto dura la volatilidad?
 
 La verdad, nadie sabe. Lo que sí sabemos es que en el largo plazo el mercado tiende al alza, incluso después de crisis tan grandes como la segunda guerra mundial. **Recuerda que la paciencia paga.**
 
