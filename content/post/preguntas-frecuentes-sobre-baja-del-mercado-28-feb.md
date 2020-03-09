@@ -43,12 +43,13 @@ Cambiar tu plata del objetivo que ha perdido plata es asumir la pérdida. Si ese
 
 #### ¿Me conviene sacar la plata ahora y volver a meterla cuando el mercado esté subiendo?
 
-Si pudieras adivinar los momentos exactos de cuándo las bajadas terminan y empiezan las subidas: claro. Esa estrategia se llama _"market timing"_ y es casi imposible hacerla de forma sostenida, porque 1) cuando te llega la información a ti de los cambios, ya será _vox populi_ y el mercado habrá reaccionado, y 2) las transacciones no son inmediatas y pueden demorarse desde uno a varios días.
+Si pudieras adivinar los momentos exactos de cuándo las bajadas terminan y empiezan las subidas: claro. Esa estrategia se llama _market timing_ y es casi imposible hacerla de forma sostenida, porque 1) cuando te llega la información a ti de los cambios, ya será _vox populi_ y el mercado habrá reaccionado, y 2) las transacciones no son inmediatas y pueden demorarse desde uno a varios días.
 
 Al tratar de hacer _market timing_, lo más probable es que te pierdas la subida después de la bajada y termines abajo del rendimiento del mercado.
 
-![](/uploads/pérdidas-de-c6329.png)
-_La línea roja muestra lo que realmente pasó con tu inversión si te retiraste en medio de una caída._
+![
+La línea roja muestra lo que realmente pasó con tu inversión si te retiraste en medio de una caída.](/uploads/pérdidas-de-c6329.png)_
+La línea roja muestra lo que realmente pasó con tu inversión si te retiraste en medio de una caída._
 
 #### Si retiro mi plata, ¿cuándo tiene efecto?
 
