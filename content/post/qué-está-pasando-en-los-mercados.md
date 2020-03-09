@@ -11,7 +11,6 @@ title = "Qué está pasando en los mercados"
 url = "/que-esta-pasando-en-los-mercados"
 
 +++
-
 Varios activos globales, especialmente las acciones, sufrieron fuertes caídas de precio este lunes 9 de marzo. Entre las causas están una pronunciada baja en los precios del petróleo y un aumento de la percepción sobre las consecuencias del coronavirus en la economía global.
 
 Las inversiones más afectadas han sido objetivos con riesgo moderado y alto. Los objetivos más conservadores se han visto marginalmente afectados. Puedes ver cómo les ha ido a nuestros fondos [acá](https://www.fintual-charts.oscarestay.dev/).
@@ -45,6 +44,8 @@ Por otro lado, podrían haber beneficios de mediano y largo plazo. Por ejemplo, 
 
 El coronavirus (COVID-19) se ha expandido en los últimos días rápidamente fuera de China, mostrando un crecimiento acelerado de casos confirmados fuera de China. Aún hay bastantes dudas de cuánto y cómo podría afectar exactamente a la economía global.
 
-![](/uploads/corona-1.png)Al analizar las pandemias que hemos sufrido en las últimas décadas, uno puede notar que el impacto en la economía ha sido generalmente acotado. El virus SARS, por ejemplo, se estima que afectó en un 0,15% a la economía global (medido como Producto Interno Bruto). Yendo más atrás en la historia, hay algunas pocas excepciones que sí tuvieron un impacto significativo en la economía global: la gripe española 1918, la influenza asiática de 1957 y la influenza de Hong Kong de 1968.
+![Mapa de países que reportan infecciones del COVID-19, al 9 de marzo son más de 113 mil los casos confirmados de contagio y 3981 muertes. Fuente: Reuters](/uploads/corona.png)_Mapa de países que reportan infecciones del COVID-19, al 9 de marzo son más de 113 mil los casos confirmados de contagio y 3981 muertes. Fuente: Reuters._
+
+Al analizar las pandemias que hemos sufrido en las últimas décadas, uno puede notar que el impacto en la economía ha sido generalmente acotado. El virus SARS, por ejemplo, se estima que afectó en un 0,15% a la economía global (medido como Producto Interno Bruto). Yendo más atrás en la historia, hay algunas pocas excepciones que sí tuvieron un impacto significativo en la economía global: la gripe española 1918, la influenza asiática de 1957 y la influenza de Hong Kong de 1968.
 
 Los impactos en el mercado tienden a ser de corto plazo y altamente especulativos, y parecen no presentar una relación clara en plazos más largos. Por ejemplo, para una muestra de varias epidemias, encontramos que en casi todos los casos el índice de acciones de Estados Unidos S&P 500 ha subido luego de 6 meses de comenzada la epidemia, como puedes ver en la tabla siguiente:
