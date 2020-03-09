@@ -22,7 +22,8 @@ Este lunes 9 de marzo los mercados amanecieron con fuertes bajas de precio, prin
 * **Un sorpresivo desacuerdo de los productores de petróleo generó una caída de más de 25% del precio del petróleo WTI**, la mayor caída desde la Guerra del Golfo Pérsico en 1991, que es el cual nos basamos en el país para establecer los precios de los combustibles. El desacuerdo se produce luego de que Rusia se negara a continuar un pacto de 3 años con Arabia Saudita, con lo cual ninguno de los dos cedió a cortar producción.
 * **El coronavirus continúa afectando directa o indirectamente la economía global,** generando alta incertidumbre global y afectando rápidamente a industrias como la turística y aeronáutica.
 
-####   
+#### 
+
 ¿Cuánto bajaron los principales índices de acciones?
 
 La variación diaria de varios índices ha sido brusca, especialmente índices de países emergentes productores de petróleo. La variación diaria del Bovespa de Brasil fue -12,16%, y -6,42% para el IPC de México.
@@ -37,7 +38,6 @@ La guerra de precios entre productores de petróleo: mal para el corto plazo, bi
 
 Varias empresas productoras de petróleo o relativas a la actividad petrolera se verán directamente afectadas, en especial las empresas que tenían altos costos de producción o extracción.
 
-  
 Por otro lado, podrían haber beneficios de mediano y largo plazo. Por ejemplo, de mantenerse los precios del petróleo, los combustibles deberían bajar en las próximas semanas de cara a los consumidores finales e industrias, lo que puede ser un estímulo económico para varios países y para la mayoría de sectores económicos.
 
 #### La incertidumbre del coronavirus versus la historia del mercado en pandemias anteriores
@@ -49,3 +49,6 @@ El coronavirus (COVID-19) se ha expandido en los últimos días rápidamente fue
 Al analizar las pandemias que hemos sufrido en las últimas décadas, uno puede notar que el impacto en la economía ha sido generalmente acotado. El virus SARS, por ejemplo, se estima que afectó en un 0,15% a la economía global (medido como Producto Interno Bruto). Yendo más atrás en la historia, hay algunas pocas excepciones que sí tuvieron un impacto significativo en la economía global: la gripe española 1918, la influenza asiática de 1957 y la influenza de Hong Kong de 1968.
 
 Los impactos en el mercado tienden a ser de corto plazo y altamente especulativos, y parecen no presentar una relación clara en plazos más largos. Por ejemplo, para una muestra de varias epidemias, encontramos que en casi todos los casos el índice de acciones de Estados Unidos S&P 500 ha subido luego de 6 meses de comenzada la epidemia, como puedes ver en la tabla siguiente:
+
+![Cambio porcentual del índice S&P 500 después de varias epidemias. Fuente: Dow Jones Market Data, Marketwatch](/uploads/epidemias.png)_Cambio porcentual del índice S&P 500 después de varias epidemias. Fuente: Dow Jones Market Data, Marketwatch._
+
