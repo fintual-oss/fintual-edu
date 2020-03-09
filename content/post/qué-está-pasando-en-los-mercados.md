@@ -52,3 +52,8 @@ Los impactos en el mercado tienden a ser de corto plazo y altamente especulativo
 
 ![Cambio porcentual del índice S&P 500 después de varias epidemias. Fuente: Dow Jones Market Data, Marketwatch](/uploads/epidemias.png)_Cambio porcentual del índice S&P 500 después de varias epidemias. Fuente: Dow Jones Market Data, Marketwatch._
 
+Replicando este ejercicio con un índice de acciones globales, como el MSCI World Index, llegamos a resultados parecidos, es decir, el efecto sobre el mercado es de corto plazo y luego de 6 meses ya parecen no ser relevantes o no estar realmente relacionadas.
+
+#### ¿Qué recomendamos que hagas?
+
+Escenarios de riesgo sistémico de mercado (es decir, que afectan globalmente a todos los activos) están incorporados en nuestro simulador. Si diseñaste tu plan de inversión estando tranquilo con los plazos de inversión y el nivel de riesgo, entonces no deberías hacer nada.
