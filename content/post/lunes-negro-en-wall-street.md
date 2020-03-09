@@ -3,12 +3,12 @@ aliases = []
 author = "Omar Larré"
 author_thumbnail = "/uploads/omar_larre.jpg"
 categories = ["noticias"]
-date = "2019-08-05T04:00:00+00:00"
+date = 2019-08-05T04:00:00Z
 description = "Pese a que es un ajuste a la baja bastante brusco, lo más probable es que no implique un problema mayor a nivel financiero."
 hide = false
 image = "/uploads/wallstreetbn.jpeg"
 title = "Lunes negro en Wall Street"
-url = "lunes-negro-en-wall-street"
+url = "/lunes-negro-en-wall-street"
 
 +++
 Este lunes 5 de agosto los principales índices bursátiles de Estados Unidos tuvieron su peor día en el año, mientras que el "índice del miedo" —que mide la volatilidad del mercado accionario— se disparó casi un 40%.
