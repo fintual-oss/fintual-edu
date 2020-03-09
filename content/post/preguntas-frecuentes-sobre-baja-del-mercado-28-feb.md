@@ -16,7 +16,7 @@ Es normal asustarse, pero también es normal que tu inversión caiga a veces. Aq
 
 Las inversiones tienen subidas y bajadas. Cuando llevas poco tiempo invirtiendo, una bajada puede sentirse muy mal. Lo más importante es mantener la calma y no dejar que esa sensación te haga cambiar los planes que te propusiste inicialmente.
 
-El plan que simulaste en Fintual está calculado considerando datos históricos que incluyen alzas pero también bajas. **Si elegiste bien el plazo, lo mejor es mantenerlo hasta que se termine para que también se cumpla el resultado que esperabas.**
+El plan que simulaste en Fintual está calculado considerando datos históricos que incluyen alzas pero también bajas. **Si elegiste bien el plazo, lo mejor es mantenerlo hasta que se cumpla para que también se cumpla el resultado que esperabas.**
 
 Normalmente después una baja viene una subida, pero nadie sabe cuándo. Si sacaste tu inversión, [no vas a estar en el mercado para aprovecharla al máximo](https://edu.fintual.cl/p%C3%A9rdidas-de-corto-plazo-t%C3%B3mate-unos-minutos-y-lee-esto-e222b63f3939/).
 
