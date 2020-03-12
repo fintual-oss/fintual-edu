@@ -10,7 +10,9 @@ title = "Qué hacer cuando cae tu inversión"
 url = "/que-hacer-cuando-cae-tu-inversion"
 
 +++
-Es normal asustarse, pero también es normal que tu inversión caiga a veces. Aquí las respuestas a las preguntas más comunes que puedes tener.
+**Si necesitas el dinero en 6 meses o menos, es una buena opción cambiar a un objetivo de mínimo riesgo, especialmente en tiempos de turbulencia.** Tenemos esa alternativa, el fondo se llama Very Conservative Streep, es básicamente una cartera de depósitos a plazo de corto plazo de varios bancos. Renta poco, pero prácticamente no tiene riesgo de mercado. Para hacerlo, anda a tu objetivo, das click en "Retirar" y luego eliges la opción "Algo más seguro", y de esa forma puedes crear tu objetivo "Bajo el colchón", que está compuesto 100% por el fondo Streep.  
+  
+Si tu plan de inversión es de largo plazo, es normal asustarse, pero también es normal que tu inversión caiga a veces. Aquí las respuestas a las preguntas más comunes que puedes tener.
 
 #### **¿Me conviene retirar mi inversión o pasarla a algo más conservador?**
 
