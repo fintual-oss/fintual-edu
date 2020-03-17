@@ -82,15 +82,3 @@ Desde luego, cualquiera también debería poder acceder a los mejores rendimient
 Y ese es el reto de muchas fintechs como [Fintual](https://fintual.mx/?utm_source=edu&utm_medium=edu&utm_campaign=waiting_list_mx&utm_content=-364). Recientemente abrimos nuestra lista de espera en México, por si te gustaría saber más. [Aquí](https://fintual.mx/?utm_source=edu&utm_medium=edu&utm_campaign=waiting_list_mx&utm_content=-364)!
 
 Al final, seguí leyendo más y más, y ese día terminé tomándome tres tazas más de café. Ups!
-
-{{% prueba_fintual
-
-utmcontent="errores_al_invertir"
-
-card_title="Llegamos a México"
-
-card_button="Regístrate" %}}
-
-Abrimos nuestra lista de espera. ¡Déjanos tu mail y únete!
-
-{{% /prueba_fintual %}}
