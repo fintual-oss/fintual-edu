@@ -6,7 +6,7 @@ date = 2020-03-17T20:37:44Z
 description = "Nuestra Product Owner cumple un año en el equipo, y desde su experiencia cuenta lo que la motiva a seguir desarrollando Fintual para México."
 draft = true
 hide = false
-image = ""
+image = "/uploads/Blog_jessicacumpleunaño.jpg"
 title = "¿Por qué Fintual?"
 url = "/un-año-en-fintual"
 
