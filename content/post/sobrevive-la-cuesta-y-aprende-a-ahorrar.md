@@ -85,10 +85,9 @@ Al final, seguí leyendo más y más, y ese día terminé tomándome tres tazas 
 
 {{% prueba_fintual
 utmcontent="ahorrar_mas"
+card_title="¡Sé ese superhéroe!"
+_card_button="¡AQUÍ!" %}}
 
-card_title="Sé un superhéroe"
-card_button="Regístrate aquí" %}}
-
-Llegamos a México y abrimos nuestra lista de espera.
+Nuestra lista de espera en México está abierta.¡Regístrate!
 
 {{% /prueba_fintual %}}
