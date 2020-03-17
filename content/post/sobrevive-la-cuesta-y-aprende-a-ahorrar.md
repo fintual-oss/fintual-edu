@@ -84,9 +84,12 @@ Y ese es el reto de muchas fintechs como [Fintual](https://fintual.mx/?utm_sourc
 Al final, seguí leyendo más y más, y ese día terminé tomándome tres tazas más de café. Ups!
 
 {{% prueba_fintual
+
 utmcontent="ahorrar_mas"
-card_title="¡Sé ese superhéroe!"
-card_button="¡AQUÍ!"%}}
+
+card_title="Sé ese superhéroe"
+
+card_button="AQUÍ" %}}
 
 Nuestra lista de espera en México está abierta.¡Regístrate!
 
