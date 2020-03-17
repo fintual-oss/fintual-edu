@@ -4,6 +4,7 @@ author = "Victor Hugo Flores"
 categories = ["educación financiera"]
 date = 2020-03-17T17:27:04Z
 description = "Pareciera que quien ahorra e invierte en México, es un auténtico superhéroe, y sobre esto, Víctor Flores nos comparte algunas ideas para que seamos más."
+draft = true
 hide = false
 image = "/uploads/ABUELITA-1.jpg"
 title = "¿Qué necesitamos para ahorrar más?"
@@ -12,13 +13,13 @@ url = "/ahorrar-mas"
 +++
 Era martes 9:00 AM. Primer café del día y leí esto.
 
-![](/uploads/Captura de Pantalla 2020-03-13 a la(s) 16.47.48-1.png)
+<div style="text-align:center"> <figure> <img src="/uploads/En picada.png">
 
 _Imagen:_ [_El Universal_](https://www.eluniversal.com.mx/cartera/en-picada-ahorro-en-mexico-este-sexenio)
 
 Luego recordé que días antes había leído algo todavía más grave:
 
-<div style="text-align:center"> <figure> <img src="/uploads/Captura de Pantalla 2020-03-17 a la(s) 11.07.04.png> <figcaption><i>El Financiero. </i></figcaption> </figure> </div>
+ <div style="text-align:center"> <figure> <img src="/Dura cuesta.png"> 
 
 _Imagen:_ [_El Financiero_](https://www.elfinanciero.com.mx/economia/dura-cuesta-para-el-desempleo-en-mexico-se-dispara-41-retiro-de-dinero-de-las-afores)
 
