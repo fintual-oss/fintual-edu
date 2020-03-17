@@ -15,7 +15,7 @@ Esta semana cumplo un año como _developer_ en [Fintual](https://fintual.mx/?utm
 
 Renuncié a una carrera trabajando para bancos e instituciones financieras, y días después ya estaba haciendo mi maleta para mudarme al final del mundo: Santiago, Chile.
 
-<div style="text-align:center"> <figure> <img src="/uploads/Blog_jessicacumpleunaño.jpg"> <figcaption><i>Aquí yo, junto con Isadora y Flo, developers del equipo de Chile</i></figcaption> </figure> </div>
+<div style="text-align:center"> <figure> <img src="/uploads/Blog_jessicacumpleunaño.jpg"> <figcaption><i>Aquí con Isadora y Flo, developers del equipo de Chile</i></figcaption> </figure> </div>
 
 A la fecha, sigo creyendo que ha sido una de las mejores decisiones de mi vida, pero la historia apenas comienza ahí.
 
