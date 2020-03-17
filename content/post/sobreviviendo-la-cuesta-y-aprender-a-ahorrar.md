@@ -7,24 +7,23 @@ description = "Pareciera que quien ahorra e invierte en México, es un auténtic
 draft = true
 hide = false
 image = "/uploads/ABUELITA-1.jpg"
-title = "Sobreviviendo la cuesta, y aprender a ahorrar"
+title = "Sobrevive la cuesta, y aprende a ahorrar"
 url = "/sobreviviendo-una-cuesta"
 
 +++
 Era martes, 9:00 AM, primer café del día y leí esto.
 
-  
-![](/uploads/Captura de Pantalla 2020-03-13 a la(s) 16.47.48-1.png)_Imagen:_ [_El Universal_](https://www.eluniversal.com.mx/cartera/en-picada-ahorro-en-mexico-este-sexenio)
+###### ![](/uploads/Captura de Pantalla 2020-03-13 a la(s) 16.47.48-1.png)_Imagen:_ [_El Universal_](https://www.eluniversal.com.mx/cartera/en-picada-ahorro-en-mexico-este-sexenio)
 
 Luego recordé que días antes había leído algo todavía más grave:
 
-![](/uploads/Captura de Pantalla 2020-03-17 a la(s) 11.07.04.png)
+###### ![](/uploads/Captura de Pantalla 2020-03-17 a la(s) 11.07.04.png)
 
-_Imagen:_ [_El Financiero_](https://www.elfinanciero.com.mx/economia/dura-cuesta-para-el-desempleo-en-mexico-se-dispara-41-retiro-de-dinero-de-las-afores)
+###### _Imagen:_ [_El Financiero_](https://www.elfinanciero.com.mx/economia/dura-cuesta-para-el-desempleo-en-mexico-se-dispara-41-retiro-de-dinero-de-las-afores)
 
-Es un hecho: la caída en la economía y la expansión del crédito pasaban sus facturas.
+**Es un hecho: la caída en la economía y la expansión del crédito pasaban sus facturas.**
 
-Un ambiente de bajo crecimiento y desempleo al alza hace complejo cumplir con los objetivos de ahorro y salir de la cuesta de enero (pero puede ser de cualquier otra). 
+Un ambiente de bajo crecimiento y desempleo al alza hace complejo cumplir con los objetivos de ahorro y salir de la cuesta de enero (pero puede ser de cualquier otra).
 
 Cada vez hay más opciones para pedir prestado y siempre hay algo bonito que comprar, concierto por ir u ocasión por celebrar.
 
@@ -81,7 +80,7 @@ Y ese es el reto de muchas Fintechs como [Fintual](https://fintual.mx/?utm_sourc
 Al final, seguí leyendo más y más, y ese día terminé tomándome tres tazas más de café. Ups!
 
 {{% prueba_fintual
-utmcontent="https://fintual.mx/?utm_source=edu&utm_medium=edu&utm_campaign=waiting_list_mx&utm_content=-364"
+utmcontent="sobrevive_la_cuesta"
 card_title="Llegamos a México"
 card_button="Únete" %}}
 
