@@ -15,7 +15,7 @@ Esta semana cumplo un año como _developer_ en [Fintual](https://fintual.mx/?utm
 
 Renuncié a una carrera trabajando para bancos e instituciones financieras, y días después ya estaba haciendo mi maleta para mudarme al final del mundo: Santiago, Chile.
 
-![](/uploads/Blog_jessicacumpleunaño.jpg)
+<div style="text-align:center"> <figure> <img src="/uploads/Blog_jessicacumpleunaño.jpg"> <figcaption><i>Aquí yo, junto con Isadora y Flo, developers del equipo de Chile</i></figcaption> </figure> </div>
 
 A la fecha, sigo creyendo que ha sido una de las mejores decisiones de mi vida, pero la historia apenas comienza ahí.
 
@@ -39,7 +39,7 @@ A pesar de mi anterior experiencia laboral, mis conocimientos sobre educación f
 
 Y cuando empecé a buscar opciones para invertirlos sabía que necesitaría ir a un banco a escuchar a un ejecutivo a hablar cosas que me costaría entender de primera, tendría que pagar comisiones excesivas o contar con un monto mínimo muy alto.
 
-![](/uploads/giphy (3).gif)
+<div style="text-align:center"> <figure> <img src="/uploads/giphy (3).gif"> </figure> </div>
 
 Desarrollar un producto financiero implica llevar de la mano al cliente en tu mundo y procesos, y ser lo más cercano a su lenguaje, hábitos y recursos.
 
