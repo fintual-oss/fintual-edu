@@ -15,13 +15,11 @@ Era martes 9:00 AM. Primer café del día y leí esto.
 
 ![](/uploads/En picada.png)
 
-_Imagen:_ [_El Universal_](https://www.eluniversal.com.mx/cartera/en-picada-ahorro-en-mexico-este-sexenio)
+###### _Imagen:_ [_El Universal_](https://www.eluniversal.com.mx/cartera/en-picada-ahorro-en-mexico-este-sexenio)
 
 Luego recordé que días antes había leído algo todavía más grave:
 
-![](/uploads/Dura cuesta.png)
-
-_Imagen:_ [El Financiero](https://www.elfinanciero.com.mx/economia/dura-cuesta-para-el-desempleo-en-mexico-se-dispara-41-retiro-de-dinero-de-las-afores)
+###### ![](/uploads/Dura cuesta.png)_Imagen:_ [El Financiero](https://www.elfinanciero.com.mx/economia/dura-cuesta-para-el-desempleo-en-mexico-se-dispara-41-retiro-de-dinero-de-las-afores)
 
 Es un hecho: la caída en la economía y la expansión del crédito pasaban sus facturas.
 
@@ -37,11 +35,13 @@ Se me ocurren tres ideas: asesoría, educación financiera y encontrar una soluc
 
 ¿Has visto un falda o un saco que en tu amigo se ve increíble y en ti, nada más no va? Así son las inversiones.
 
-Cada perfil de riesgo, horizonte y objetivo de inversión son personales. Lo que va con uno, no va con otro. Y uno de los factores que alejan a la personas de las inversiones son las malas asesorías.
+**Cada perfil de riesgo, horizonte y objetivo de inversión son personales.** Lo que va con uno, no va con otro. Y uno de los factores que alejan a la personas de las inversiones son las malas asesorías.
 
 Entenderlo y acompañar al inversionista en este camino ayuda a que la gente se vaya creando este hábito de invertir.
 
-El definir el nivel de riesgo de nuestro perfil va de la mano con la educación financiera. No sólo de los inversionistas, sino mayormente de las instituciones financieras. Entrecruzar estas variables llevará a que la gente vaya obteniendo los resultados deseados y crear un hábito del ahorro.
+El definir el nivel de riesgo de nuestro perfil va de la mano con la educación financiera. No sólo de los inversionistas, sino mayormente de las instituciones financieras. 
+
+**Entrecruzar estas variables llevará a que vayamos obteniendo los resultados deseados y crear un hábito del ahorro**.
 
 #### Pocos amigos lo saben
 
@@ -51,7 +51,7 @@ Puedo llenar este post de dudas, tan comunes y que alejan a la gente de invertir
 
 Y de impuestos en inversiones mejor ni hablamos.
 
-En México necesitamos, mucha educación financiera. ¡Mucha!
+**En México necesitamos, mucha educación financiera. ¡Mucha!**
 
 #### ¿Y mi dinero?
 
@@ -69,11 +69,11 @@ Lo peor de todo esto es que la mayor parte de las veces mis amigos desconocen ni
 
 Y si preguntas, te remiten a la página 44 del contrato con letra tamaño 8, para que veas la cláusula indescifrable de cómo te cobran.
 
-Aún me siento peor cuando un amigo que me dice: **_“A mi me lo dan gratis”_** ¿Acaso pensarán que tu asesor de inversiones es la Madre Teresa? Usualmente, lo “gratuito” sale muy caro.
+Aún me siento peor cuando un amigo que me dice: **_“A mí me lo dan gratis”_** ¿Acaso pensarán que tu asesor de inversiones es la Madre Teresa? Usualmente, lo “gratuito” sale muy caro.
 
 De alguna forma, te lo están cobrando: en otro producto de mayor margen de rentabilidad, diferencial de tasas (ellos cobran una tasa y te lo venden a una menor tasa), usando tu información, etc. Es complicado tener algo gratis cuando se trata de servicios financieros.
 
-Lo ideal es la transparencia y simplicidad. Cualquier inversionista debería saber en todo momento cuánto y cómo le cobran.
+**Lo ideal es la transparencia y simplicidad. Cualquier inversionista debería saber en todo momento cuánto y cómo le cobran.**
 
 Desde luego, cualquiera también debería poder acceder a los mejores rendimientos sin importar el monto. ¡Eso sería democratizar las inversiones de verdad!
 
