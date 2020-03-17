@@ -18,7 +18,7 @@ _Imagen:_ [_El Universal_](https://www.eluniversal.com.mx/cartera/en-picada-ahor
 
 Luego recordé que días antes había leído algo todavía más grave:
 
-![](/uploads/Captura de Pantalla 2020-03-17 a la(s) 11.07.04.png)
+<div style="text-align:center"> <figure> <img src="/uploads/Captura de Pantalla 2020-03-17 a la(s) 11.07.04.png> <figcaption><i>El Financiero. </i></figcaption> </figure> </div>
 
 _Imagen:_ [_El Financiero_](https://www.elfinanciero.com.mx/economia/dura-cuesta-para-el-desempleo-en-mexico-se-dispara-41-retiro-de-dinero-de-las-afores)
 
