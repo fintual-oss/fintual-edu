@@ -85,6 +85,6 @@ utmcontent="ahorrar-mas"
 card_title="Regístrate a Fintual"
 card_button="Aquí!" %}}
 
-Da el primer paso para ahorra, y ser uno de esos superhéroes.
+Da el primer paso para ahorrar, y ser uno de esos superhéroes.
 
 {{% /prueba_fintual %}}
