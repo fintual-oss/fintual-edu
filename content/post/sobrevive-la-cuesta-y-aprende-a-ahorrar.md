@@ -21,7 +21,7 @@ Luego recordé que días antes había leído algo todavía más grave:
 
 ![](/uploads/Dura cuesta.png)
 
-_Imagen:_ El Financiero
+_Imagen:_ [El Financiero](https://www.elfinanciero.com.mx/economia/dura-cuesta-para-el-desempleo-en-mexico-se-dispara-41-retiro-de-dinero-de-las-afores)
 
 Es un hecho: la caída en la economía y la expansión del crédito pasaban sus facturas.
 
@@ -57,7 +57,7 @@ En México necesitamos, mucha educación financiera. ¡Mucha!
 
 La mayoría de mis conocidos que ahorran, obtienen tan poco rendimiento que se quedan con la sensación de que mejor se hubieran gastado ese dinero.
 
-![](/uploads/giphy (1).gif)
+<div style="text-align:center"> <figure> <img src="/uploads/giphy (1).gif"></figure> </div>
 
 La razón: Las comisiones.
 
