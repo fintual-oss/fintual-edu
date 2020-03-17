@@ -19,7 +19,7 @@ _Imagen:_ [_El Universal_](https://www.eluniversal.com.mx/cartera/en-picada-ahor
 
 Luego recordé que días antes había leído algo todavía más grave:
 
- <div style="text-align:center"> <figure> <img src="/Dura cuesta.png"> 
+<div style="text-align:center"> <figure> <img src="/Dura cuesta.png"> 
 
 _Imagen:_ [_El Financiero_](https://www.elfinanciero.com.mx/economia/dura-cuesta-para-el-desempleo-en-mexico-se-dispara-41-retiro-de-dinero-de-las-afores)
 
@@ -57,7 +57,7 @@ En México necesitamos, mucha educación financiera. ¡Mucha!
 
 La mayoría de mis conocidos que ahorran, obtienen tan poco rendimiento que se quedan con la sensación de que mejor se hubieran gastado ese dinero.
 
-![](/uploads/giphy (1).gif)
+<div style="text-align:center"> <figure> <img src="/uploads/giphy (1).gif">
 
 La razón: Las comisiones.
 
