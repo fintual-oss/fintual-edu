@@ -1,7 +1,7 @@
 +++
 aliases = []
 author = "Jessica Guzmán"
-categories = ["noticias", "noticias"]
+categories = ["noticias"]
 date = 2020-03-17T20:37:44Z
 description = "Nuestra Product Owner cumple un año en el equipo, y desde su experiencia cuenta lo que la motiva a seguir desarrollando Fintual para México."
 draft = true
@@ -21,7 +21,7 @@ A la fecha, sigo creyendo que ha sido una de las mejores decisiones de mi vida, 
 
 Después de cumplir 6 meses en Santiago tuve que decidir si me quedaba o volvía a Ciudad de México para integrarme al nuevo equipo.
 
-Y a pesar de que fue una decisión difícil, **pensé que llevar Fintual a México en verdad podría hacer la diferencia**, y cambiar poco a poco nuestro sistema financiero tradicional.
+Y a pesar de que fue una decisión difícil, **pensé que llevar** [**Fintual**](https://fintual.mx/?utm_source=edu&utm_medium=edu&utm_campaign=waiting_list_mx&utm_content=-365) **a México en verdad podría hacer la diferencia**, y cambiar poco a poco nuestro sistema financiero tradicional.
 
 ¿Por qué? Aquí algunas razones.
 
@@ -31,13 +31,15 @@ Seis años trabajé para corporativos financieros, y en esa experiencia recuerdo
 
 También dudaba si con el lanzamiento de tal o cual aplicación, se generaba un impacto sustancial en la vida de nuestros usuarios.
 
-En [Fintual](https://fintual.mx/?utm_source=edu&utm_medium=edu&utm_campaign=waiting_list_mx&utm_content=-365) entendí que es super importante pensar si de verdad estamos resolviendo un dolor allá afuera, y de esa forma generar un cambio. ¡Y lo hacemos! Casi 10 mil personas en Chile han aprendido a ahorrar de forma inteligente a través de nuestra plataforma.
+En [Fintual](https://fintual.mx/?utm_source=edu&utm_medium=edu&utm_campaign=waiting_list_mx&utm_content=-365) entendí que es super importante pensar si de verdad estamos resolviendo un dolor allá afuera, y de esa forma generar un cambio. ¡Y lo hacemos! **10 mil personas en Chile han aprendido a ahorrar de forma inteligente a través de nuestra plataforma**.
 
 ### Ser una guía
 
 A pesar de mi anterior experiencia laboral, mis conocimientos sobre educación financiera eran básicos. Mis ahorros los tenía en mi cuenta de nómina perdiendo su valor, por ejemplo. (_Shame on me!_)
 
 Y cuando empecé a buscar opciones para invertirlos sabía que necesitaría ir a un banco a escuchar a un ejecutivo a hablar cosas que me costaría entender de primera, tendría que pagar comisiones excesivas o contar con un monto mínimo muy alto.
+
+![](/uploads/giphy (3).gif)
 
 Desarrollar un producto financiero implica llevar de la mano al cliente en tu mundo y procesos, y ser lo más cercano a su lenguaje, hábitos y recursos.
 
