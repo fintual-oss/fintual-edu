@@ -14,11 +14,11 @@ Era martes 9:00 AM. Primer café del día y leí esto.
 
 ![](/uploads/En picada.png)
 
-###### _Imagen:_ [_El Universal_](https://www.eluniversal.com.mx/cartera/en-picada-ahorro-en-mexico-este-sexenio)
+_Imagen:_ [_El Universal_](https://www.eluniversal.com.mx/cartera/en-picada-ahorro-en-mexico-este-sexenio)
 
 Luego recordé que días antes había leído algo todavía más grave:
 
-###### ![](/uploads/Dura cuesta.png)_Imagen:_ [El Financiero](https://www.elfinanciero.com.mx/economia/dura-cuesta-para-el-desempleo-en-mexico-se-dispara-41-retiro-de-dinero-de-las-afores)
+###### ![](/uploads/Dura cuesta.png)_Imagen:_ [_El Financiero_](https://www.elfinanciero.com.mx/economia/dura-cuesta-para-el-desempleo-en-mexico-se-dispara-41-retiro-de-dinero-de-las-afores)
 
 Es un hecho: la caída en la economía y la expansión del crédito pasaban sus facturas.
 
@@ -38,7 +38,7 @@ Se me ocurren tres ideas: asesoría, educación financiera y encontrar una soluc
 
 Entenderlo y acompañar al inversionista en este camino ayuda a que la gente se vaya creando este hábito de invertir.
 
-El definir el nivel de riesgo de nuestro perfil va de la mano con la educación financiera. No sólo de los inversionistas, sino mayormente de las instituciones financieras. 
+El definir el nivel de riesgo de nuestro perfil va de la mano con la educación financiera. No sólo de los inversionistas, sino mayormente de las instituciones financieras.
 
 **Entrecruzar estas variables llevará a que vayamos obteniendo los resultados deseados y crear un hábito del ahorro**.
 
