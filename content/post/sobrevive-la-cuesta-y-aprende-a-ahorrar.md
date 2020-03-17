@@ -82,10 +82,10 @@ Y ese es el reto de muchas fintechs como [Fintual](https://fintual.mx/?utm_sourc
 Al final, seguí leyendo más y más, y ese día terminé tomándome tres tazas más de café. Ups!
 
 {{% prueba_fintual
-utmcontent="ahorrar-mas"
-card_title="Regístrate a Fintual"
-card_button="Aquí!" %}}
+utmcontent="ahorrar_mas"
+card_title="Sé un superhéroe"
+card_button="Regístrate aquí" %}}
 
-Da el primer paso para ahorrar, y ser uno de esos superhéroes.
+Llegamos a México y abrimos nuestra lista de espera.
 
 {{% /prueba_fintual %}}
