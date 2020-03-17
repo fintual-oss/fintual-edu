@@ -4,6 +4,7 @@ author = "Victor Hugo Flores"
 categories = ["educación financiera"]
 date = 2020-03-17T17:27:04Z
 description = "Pareciera que quien ahorra e invierte en México, es un auténtico superhéroe, y sobre esto, Víctor Flores nos comparte algunas ideas para que seamos más."
+draft = true
 hide = false
 image = "/uploads/ABUELITA-1.jpg"
 title = "¿Qué necesitamos para ahorrar más?"
