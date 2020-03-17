@@ -55,7 +55,7 @@ En México necesitamos, mucha educación financiera. ¡Mucha!
 
 La mayoría de mis conocidos que ahorran, obtienen tan poco rendimiento que se quedan con la sensación de que mejor se hubieran gastado ese dinero.
 
-![](/uploads/giphy (2).gif)
+![](/uploads/giphy (1)-1.gif)
 
 La razón: Las comisiones.
 
