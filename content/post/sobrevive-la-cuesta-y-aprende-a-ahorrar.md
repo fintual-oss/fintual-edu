@@ -7,8 +7,8 @@ description = "Pareciera que quien ahorra e invierte en México, es un auténtic
 draft = true
 hide = false
 image = "/uploads/ABUELITA-1.jpg"
-title = "Sobrevive la cuesta, y aprende a ahorrar"
-url = "/sobreviviendo-una-cuesta"
+title = "¿Qué necesitamos para ahorrar más?"
+url = "/ahorrar-mas"
 
 +++
 Era martes 9:00 AM. Primer café del día y leí esto.
@@ -25,7 +25,7 @@ _Imagen:_ [_El Financiero_](https://www.elfinanciero.com.mx/economia/dura-cuesta
 
 Es un hecho: la caída en la economía y la expansión del crédito pasaban sus facturas.
 
-Un ambiente de bajo crecimiento y desempleo al alza hace complejo cumplir con los objetivos de ahorro y salir de la cuesta de enero (o de cualquier otra). 
+Un ambiente de bajo crecimiento y desempleo al alza hace complejo cumplir con los objetivos de ahorro y salir de la cuesta de enero (o de cualquier otra).
 
 Cada vez hay más opciones para pedir prestado y siempre hay algo bonito que comprar, concierto por ir u ocasión por celebrar.
 
@@ -80,3 +80,12 @@ Desde luego, cualquiera también debería poder acceder a los mejores rendimient
 Y ese es el reto de muchas fintechs como [Fintual](https://fintual.mx/?utm_source=edu&utm_medium=edu&utm_campaign=waiting_list_mx&utm_content=-364). Recientemente abrimos nuestra lista de espera en México, por si te gustaría saber más. [Aquí](https://fintual.mx/?utm_source=edu&utm_medium=edu&utm_campaign=waiting_list_mx&utm_content=-364)!
 
 Al final, seguí leyendo más y más, y ese día terminé tomándome tres tazas más de café. Ups!
+
+{{% prueba_fintual
+utmcontent="ahorrar-mas"
+card_title="Regístrate a Fintual"
+card_button="Aquí!" %}}
+
+Da el primer paso para ahorra, y ser uno de esos superhéroes.
+
+{{% /prueba_fintual %}}
