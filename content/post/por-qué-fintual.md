@@ -51,7 +51,7 @@ Gracias a eso, he aprendido mucho de nuestros clientes. Generé empatía, y eso 
 
 Nuestros contratos son digitales y automatizamos lo más que podamos. De esta forma cobramos comisiones muy bajas. La tecnología es nuestro corazón.
 
-![](https://lh4.googleusercontent.com/YZYYYNDz-dr-FneDX_24FEESiGotvN2KZ26h3dLGA0uaxzPEMBHubabtYgIUFWC8YyAtUXMtbUvgJglbUlF-AI1zdeArYiDxHG_E00-Kakc_IBhsS-LAAT_xJDCRuXebWcY_ifcW =341x240)
+![](/uploads/pngocean.com.png)
 
 Cuando alguien se registra en [Fintual](https://fintual.mx/?utm_source=edu&utm_medium=edu&utm_campaign=waiting_list_mx&utm_content=-365), puede que tenga que responder las mismas preguntas que un banco (porque somos una empresa regulada) pero lo hace en línea y puede invertir desde $1 MXN.
 
