@@ -15,7 +15,7 @@ Esta semana cumplo un año como _developer_ en [Fintual](https://fintual.mx/?utm
 
 Renuncié a una carrera trabajando para bancos e instituciones financieras, y días después ya estaba haciendo mi maleta para mudarme al final del mundo: Santiago, Chile.
 
-![](/uploads/IMG_3915.JPG)
+![](/uploads/Blog_jessicacumpleunaño.jpg)
 
 A la fecha, sigo creyendo que ha sido una de las mejores decisiones de mi vida, pero la historia apenas comienza ahí.
 
