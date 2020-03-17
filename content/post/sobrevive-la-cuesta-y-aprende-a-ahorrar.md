@@ -13,15 +13,16 @@ url = "/ahorrar-mas"
 +++
 Era martes 9:00 AM. Primer café del día y leí esto.
 
-<div style="text-align:center"> <figure> <img src="/uploads/En picada.png">
 
+<div style="text-align:center"> <figure> <img src="/uploads/En picada.png">
 _Imagen:_ [_El Universal_](https://www.eluniversal.com.mx/cartera/en-picada-ahorro-en-mexico-este-sexenio)
+
 
 Luego recordé que días antes había leído algo todavía más grave:
 
-<div style="text-align:center"> <figure> <img src="/Dura cuesta.png"> 
-
-_Imagen:_ [_El Financiero_](https://www.elfinanciero.com.mx/economia/dura-cuesta-para-el-desempleo-en-mexico-se-dispara-41-retiro-de-dinero-de-las-afores)
+<div style="text-align:center"> <figure> <img src="/uploads/Dura cuesta.png">
+  
+_Imagen:_ \[_El Financiero_(https://www.elfinanciero.com.mx/economia/dura-cuesta-para-el-desempleo-en-mexico-se-dispara-41-retiro-de-dinero-de-las-afores)
 
 Es un hecho: la caída en la economía y la expansión del crédito pasaban sus facturas.
 
