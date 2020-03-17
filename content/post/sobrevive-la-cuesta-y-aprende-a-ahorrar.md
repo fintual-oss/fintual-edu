@@ -11,7 +11,7 @@ title = "¿Qué necesitamos para ahorrar más?"
 url = "/ahorrar-mas"
 
 +++
-Era martes 9:00 AM. Primer café del día y leí esto.
+Martes 9:00 AM, primer café del día y leí esto.
 
 ![](/uploads/En picada.png)
 
@@ -19,7 +19,9 @@ _Imagen:_ [_El Universal_](https://www.eluniversal.com.mx/cartera/en-picada-ahor
 
 Luego recordé que días antes había leído algo todavía más grave:
 
-###### ![](/uploads/Dura cuesta.png)_Imagen:_ [_El Financiero_](https://www.elfinanciero.com.mx/economia/dura-cuesta-para-el-desempleo-en-mexico-se-dispara-41-retiro-de-dinero-de-las-afores)
+![](/uploads/Dura cuesta.png)
+
+_Imagen:_ [_El Financiero_](https://www.elfinanciero.com.mx/economia/dura-cuesta-para-el-desempleo-en-mexico-se-dispara-41-retiro-de-dinero-de-las-afores)
 
 Es un hecho: la caída en la economía y la expansión del crédito pasaban sus facturas.
 
