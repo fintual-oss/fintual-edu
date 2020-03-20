@@ -65,3 +65,9 @@ Hoy es casi una realidad y tenemos abierta nuestra lista de espera. ¿Ya te regi
 utmcontent="un_año_en_fintual"
 card_title="¿Quieres ser de los primeros?"
 card_button="¡Aquí!" %}} Déjanos tu mail, y únete a nuestra lista de espera.{{% /prueba_fintual %}}
+
+{{% prueba_fintual utmcontent="un_año_en_fintual" card_title="¿Quieres ser de los primeros?" card_button="¡Aquí!" %}}
+
+Déjanos tu mail, y únete a nuestra lista de espera.
+
+{{% /prueba_fintual %}}
