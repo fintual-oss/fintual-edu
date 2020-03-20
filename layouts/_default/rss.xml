@@ -36,7 +36,7 @@
         {{- $scratch.Set "writer" (index .Site.Params.writers (lower .Params.author) ) -}}
         {{- $writer := $scratch.Get "writer" -}}
         {{$writer.thumbnail|absURL}}</authorImg>
-      <pubDate>{{ time .Date }}</pubDate>
+      <pubDate>{{ .Date.Format "2006-01-02T15:04:05Z0700" }}</pubDate>
       {{ with .Site.Author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
       <guid>{{ .Permalink }}</guid>
       <readingTime>{{ .ReadingTime }}</readingTime>
