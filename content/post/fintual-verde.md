@@ -112,7 +112,10 @@ Hoy en día muchos gestores de inversiones se están aprovechando un poco de la 
 
 Algunos ejemplos son fondos o ETF que, supuestamente teniendo inversiones libres de combustibles fósiles, llegan incluso a un 20% de inversiones en compañías relacionadas a uso o producción de combustibles fósiles. Otros ejemplos simplemente exageran la publicidad.
 
-{{< prueba_fintual utmcontent="fintual+verde" >}}
+{{< prueba_fintual
+utmcontent="fintual+verde"
+card_title="Prueba Fintual"
+card_button="Empezar" >}}
 
 Si quieres una inversión inteligente y verde.
 

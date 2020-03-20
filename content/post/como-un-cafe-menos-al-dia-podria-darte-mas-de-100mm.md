@@ -1,7 +1,7 @@
 ---
 author: Pedro Pineda
 author_thumbnail: "/uploads/pedro_pineda.png"
-date: 2018-12-13 13:01:29 +0000
+date: 2018-12-13T13:01:29.000+00:00
 description: Para que pienses en ello cuando estés tomándote un café.
 image: "/uploads/cafe-1200x630.png"
 title: Cómo un café menos al día podría darte más de $100.000.000
@@ -10,6 +10,7 @@ categories:
 url: "/como-un-cafe-menos-al-dia-podria-darte-mas-de-100mm/"
 aliases:
 - "/cómo-un-café-starbucks-menos-al-día-podría-darte-más-de-100-000-000-57bc70876372"
+hide: false
 
 ---
 Parece una broma pero es cierto.
@@ -38,7 +39,15 @@ Para que pienses en ello cuando estés tomándote un café.
 
 En **Fintual** te damos la herramienta para simular cuánto podría significar un ahorro mensual como este u otro distinto.
 
-Además puede programar transferencias de $2.700 diarios, $54.000 mensuales o el monto que quieras.
+Además, puedes programar transferencias de $2.700 diarios, $54.000 mensuales o el monto que quieras.
 
-<p style="text-align:center"> <a class="simulator-page__button btn btn--secondary" href="https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=awareness&utm_content=un-cafe-menos-113#empezar">Empezar</a></p>
- {{< newsletter_signup >}}
+{{% prueba_fintual utmcontent="cafe+al+dia_" card_t_itle="Prueba Fintual"
+card_button="Empezar" %}}
+
+Más inteligente que dejar tu plata en el banco.
+
+{{% /prueba_fintual %}}
+
+_Infórmate de las características esenciales de la inversión en estos fondos mutuos. Están en sus reglamentos internos, que puedes ver en la CMF y en_ [_fintual.cl/docs_](http://fintual.cl/docs).  
+  
+_La rentabilidad o ganancia obtenida en el pasado no garantiza que se repita en el futuro. Los valores de las cuotas de los fondos mutuos son variables._

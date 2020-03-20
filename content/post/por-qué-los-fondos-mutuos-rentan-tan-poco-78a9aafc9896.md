@@ -8,6 +8,7 @@ url: "/por-qué-los-fondos-mutuos-rentan-tan-poco-78a9aafc9896/"
 categories: []
 description: ''
 aliases: []
+hide: false
 
 ---
 ¿Te ha pasado que has invertido en fondos mutuos y no ganas mucho?
@@ -40,5 +41,13 @@ No necesitas saber de finanzas porque nos encargamos de todo dependiendo de lo q
 
 Y como no recibimos comisiones de terceros y lo que cobramos es fijo e independiente, te hacemos invertir en cosas que realmente te convienen.
 
-:)
- {{< newsletter_signup >}}
+{{% prueba_fintual
+utmcontent="rentan_poco"
+card_title="Prueba Fintual"
+card_button="Empezar" %}}
+
+Más inteligente que dejar tu plata en el banco.
+
+{{% /prueba_fintual %}}
+
+_Infórmate de las características esenciales de la inversión en estos fondos mutuos. Están en sus reglamentos internos, que puedes ver en la CMF y en_ [_fintual.cl/docs_](http://fintual.cl/docs).

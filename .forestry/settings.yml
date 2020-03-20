@@ -1,6 +1,6 @@
 ---
 new_page_extension: md
-auto_deploy: true
+auto_deploy: false
 admin_path: ''
 webhook_url: https://ee7vrb951a.execute-api.us-east-2.amazonaws.com/default/InvalidateCacheForHome_EDU
 sections:
@@ -24,20 +24,15 @@ public_path: "/uploads"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
-instant_preview: false
+instant_preview: true
 build:
   preview_env:
   - HUGO_ENV=staging
   - HUGO_VERSION=0.52
   preview_output_directory: public
-  preview_docker_image: forestryio/build:latest
-  mount_path: "/opt/buildhome/repo"
+  preview_docker_image: forestryio/hugo:latest
+  mount_path: "/srv"
   instant_preview_command: hugo server -D -E -F --port 8080 --bind 0.0.0.0 --renderToDisk
     -d public
-  publish_command: hugo -d public
-  publish_env:
-  - HUGO_ENV=production
-  - HUGO_VERSION=0.52
-  output_directory: public
   preview_command: hugo -E -F -D -b $DEPLOY_URL -d public
 version: '0.52'

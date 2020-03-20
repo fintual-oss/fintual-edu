@@ -13,7 +13,7 @@ url: "/no-cambies-tu-inversión-a-cada-rato-99476a1275c9/"
 
 El mundo financiero también esta lleno de situaciones inesperadas: Trump ganó las elecciones, el Reino Unido eligió separarse de la Unión Europea, cayó el precio del cobre, subió el precio del petróleo, etc. Estos eventos ocurren con tanta frecuencia que es normal que nos preguntemos si deberíamos alarmarnos frente a ellos.
 
-Y la respuesta simple es:** NO.**
+Y la respuesta simple es: **NO.**
 
 ¿Por qué? **Porque muchas veces reaccionar rápido termina teniendo consecuencias fatales**. Actúas en forma impulsiva, sin pensarlo mucho, y al final haces algo que no te conviene, cuando en realidad casi siempre lo que más conviene es precisamente no hacer nada (igual que el ciervo).
 
@@ -53,17 +53,23 @@ Y es por ella que los servicios que te recomiendan cambiarte de fondo de la AFP 
 
 ### Actúa con racionalidad
 
-Todo esto no significa que deberíamos invertir en algo y después no mirar esa inversión nunca más. Eso sería irresponsable. Es solo que en la mayoría de los casos la mejor decisión es no hacer nada. A veces sí hay que cambiarse, pero no *siempre, *no a cada rato.
+Todo esto no significa que deberíamos invertir en algo y después no mirar esa inversión nunca más. Eso sería irresponsable. Es solo que en la mayoría de los casos la mejor decisión es no hacer nada. A veces sí hay que cambiarse, pero no **siempre**, no a cada rato.
 
 No hay que olvidar que toda decisión seria de inversión ya considera el riesgo de pérdidas; estos eventos están dentro de lo esperado, y es muy probable que se reviertan.
 
-Por otro lado, si te cambias a cada rato en la mayoría de los casos solo conseguirás aumentar tu volatilidad y disminuir tu rentabilidad. Esto es porque, en general, tratar de comprar justo cuando haya bajado un activo para luego venderlo justo cuando haya subido en la práctica** es casi imposible de hacer en forma consistente **(a menos que tengas información privilegiada).
+Por otro lado, si te cambias a cada rato en la mayoría de los casos solo conseguirás aumentar tu volatilidad y disminuir tu rentabilidad. Esto es porque, en general, tratar de comprar justo cuando haya bajado un activo para luego venderlo justo cuando haya subido en la práctica **es casi imposible de hacer en forma consistente** (a menos que tengas información privilegiada).
 
-Solo cuando cambien las condiciones que existían al momento de hacer la inversión es recomendable que cambies dicha inversión.
+Sólo cuando cambien las condiciones que existían al momento de hacer la inversión es recomendable que cambies dicha inversión.
 
 Para el caso de la jubilación, por ejemplo, a medida que pase el tiempo deberías ir cambiándote a un fondo menos riesgoso, pues al acercarse la fecha de tu jubilación el plazo de la inversión lógicamente se va acortando. Pero aún en ese caso, cambiarte o no es una pregunta que deberías hacerte un par de veces al año, no más (y la mayoría de las veces la respuesta será que no hay que cambiarse).
 
 Mi recomendación es que evalúes tu inversión en términos del plazo y del riesgo que quieres (mientras más riesgo, mayor es lo que podrías potencialmente ganar), y que no te dejes llevar por fluctuaciones de corto plazo.
 
-En [FINTUAL](https://fintual.cl) queremos hacer un servicio donde no tengas que preocuparte de la decisión de inversión, si no que nosotros tomemos la decisión que más te acomode en función de cuándo quieres la plata y cuánto estás dispuesto a arriesgar. Queremos que inviertas con nosotros y no te preocupes hasta que se acabe el plazo y necesites la plata. Nosotros tomaremos las decisiones complicadas entre medio, identificando por ti esos pocos momentos donde sí te conviene cambiarte, para que tu te relajes y te puedas dedicar a lo que más te gusta.
- {{< newsletter_signup >}}
+En [Fintual](https://fintual.cl) queremos hacer un servicio donde no tengas que preocuparte de la decisión de inversión, sino que nosotros tomemos la decisión que más te acomode en función de cuándo quieres la plata y cuánto estás dispuesto a arriesgar. 
+
+Queremos que inviertas con nosotros y no te preocupes hasta que se acabe el plazo y necesites la plata. Nosotros tomaremos las decisiones complicadas entre medio, identificando por ti esos pocos momentos donde sí te conviene cambiarte, para que tú te relajes y te puedas dedicar a lo que más te gusta.
+
+
+{{< newsletter_signup >}}
+
+_Infórmate de las características esenciales de la inversión en estos fondos mutuos. Están en sus reglamentos internos, que puedes ver en la CMF y en_ [_fintual.cl/docs_](http://fintual.cl/docs).

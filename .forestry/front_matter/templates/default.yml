@@ -16,6 +16,7 @@ fields:
     - Gonzalo Enei
     - Juan Francisco Weitz
     - Matías Hurtado
+    - Valentin Jadot
     source:
       type: simple
       section: 
@@ -85,14 +86,17 @@ pages:
 - content/landing/cuál-es-el-mejor-apv.md
 - content/landing/cuál-es-la-diferencia-entre-afp-y-apv.md
 - content/landing/cuáles-son-los-beneficios-del-apv.md
+- content/landing/en-tu-cuenta-corriente.md
 - content/landing/pagan-impuestos-los-seguros-con-ahorro.md
 - content/landing/qué-es-el-apv.md
 - content/landing/qué-es-un-fondo-mutuo.md
 - content/landing/qué-es-un-roboadvisor.md
 - content/landing/qué-es-una-afp.md
 - content/landing/qué-tipos-de-apv-existen.md
+- content/landing/test.md
 - content/post/1-ano-de-fintual-y-sus-fondos.md
 - content/post/4-formas-simples-de-bajar-tus-impuestos-usando-fintual.md
+- content/post/8-cosas-que-no-sabías-y-que-ahora-vas-a-saber-la-octava-te-sorprenderá.md
 - content/post/actualización-de-tus-inversiones-en-fintual.md
 - content/post/auto-o-uber.md
 - content/post/automatizando-tus-finanzas-personales.md
@@ -113,6 +117,7 @@ pages:
 - content/post/el-banco-central-de-chile-decide-intervenir-el-nivel-de-tipo-de-cambio.md
 - content/post/el-banco-central-de-chile-volvió-a-bajar-las-tasas.md
 - content/post/el-estado-te-regala-dinero.md
+- content/post/en-tu-cuenta-corriente.md
 - content/post/explicación.md
 - content/post/file.md
 - content/post/finclass-casos-bancos-centrales-tasas-de-interés-y-el-concepto-del-dinero-clase-4.md
@@ -141,12 +146,17 @@ pages:
 - content/post/por-qué-cayó-tanto-el-fondo-e-de-las-afp-donald-trump-y-los-simpsons-e17fffedbddb.md
 - content/post/por-qué-las-afps-podrían-invertir-mejor-y-no-lo-hacen-3f620e036402.md
 - content/post/por-qué-los-fondos-mutuos-rentan-tan-poco-78a9aafc9896.md
+- content/post/preguntas-frecuentes-sobre-baja-del-mercado-28-feb.md
+- content/post/proporción-del-arriendo-y-el-valor-de-una-propiedad.md
 - content/post/qué-es-la-cuenta-2-y-por-qué-no-nos-gusta-tanto.md
+- content/post/qué-está-pasando-en-los-mercados.md
 - content/post/sherlock.md
 - content/post/supuestos-de-proyecciones.md
 - content/post/supuestos-simulaciones.md
 - content/post/súper-ricos-y-fintual.md
 - content/post/te-cagaste-de-frío-este-invierno.md
+- content/post/te-conviene-comprar-o-arrendar-tu-casa-1.md
+- content/post/te-conviene-comprar-o-arrendar-tu-casa.md
 - content/post/te-conviene-un-seguro-con-ahorro.md
 - content/post/te-cuesta-ahorrar.md
 - content/post/todo-lo-que-tienes-que-saber-del-apv.md

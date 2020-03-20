@@ -20,27 +20,35 @@ sharingicons = false
   [params.writers]
     [params.writers."Pedro Pineda"]
     name = "Pedro Pineda"
+    description = "Astrónomo, Geofísico, Ingeniero Civil Industrial de la Chile y Astrólogo como Pedro Engel"
     thumbnail = "/uploads/pedro.jpg"
     [params.writers."Agustín Feuerhake"]
     name = "Agustín Feuerhake"
+    description = "Ingeniero Civil Industrial con mención  TI de la PUC y terapeuta en sus tiempos libres"
     thumbnail = "/uploads/agustin.jpg"
     [params.writers."Andrés Marinkovic"]
     name = "Andrés Marinkovic"
+    description = "Ingeniero Civil Electricista de la Chile ⚡️"
     thumbnail = "/uploads/andres.jpg"
     [params.writers."Omar Larré"]
     name = "Omar Larré"
+    description = "Ingeniero Matemático de la Chile y experto en finanzas. Dicen que es un genio"
     thumbnail = "/uploads/omar.jpg"
     [params.writers."Gonzalo Enei"]
     name = "Gonzalo Enei"
+    description = "Head of Growth. Abogado PUC que no parece abogado"
     thumbnail = "/uploads/gonzalo.jpg"
     [params.writers."Francesca Finaldi"]
     name = "Francesca Finaldi"
+    description = "Periodista como Nachito Pop"
     thumbnail = "/uploads/francesca.jpg"
     [params.writers."Francisca Feuerhake"]
     name = "Francisca Feuerhake"
+    description = "La vieja cuica"
     thumbnail = "/uploads/francisca_feuerhake.jpg"
     [params.writers."Juan Francisco Weitz"]
     name = "Juan Francisco Weitz"
+    description = "Ingeniero Civil Industrial con mención TI de la PUC y ex Google. Sospechamos que es un robot"
     thumbnail = "/uploads/jf.png"
     [params.writers."Ignacia Palma"]
     name = "Ignacia Palma"
@@ -50,10 +58,16 @@ sharingicons = false
     thumbnail = "/uploads/cristobal_fredes.jpeg"
     [params.writers."Paula Droguett"]
     name= "Paula Droguett"
+    description = "Abogada"
     thumbnail= "/uploads/paula_droguett.jpeg"
     [params.writers."Matías Hurtado"]
     name= "Matías Hurtado"
+    description = "Ingeniero Civil Industrial con mención TI de la PUC y joven consultor"
     thumbnail= "/uploads/matias.jpg"
+    [params.writers."Valentin Jadot"]
+    name= "Valentin Jadot"
+    description = "El belga de Fintual. Estudió derecho en la Université libre de Bruxelles pero por alguna razón en Fintual es programador"
+    thumbnail= "/uploads/valentin.jpg"
 
 [params.highlight]
 languages = ["go", "dockerfile"]
