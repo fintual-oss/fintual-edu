@@ -7,7 +7,7 @@ description = "La contingencia en Chile ha causado movimientos bruscos en los po
 hide = false
 image = "/uploads/stop.png"
 title = "Actualización de tus inversiones en Fintual"
-url = "tus-inversiones-en-fintual"
+url = "/tus-inversiones-en-fintual"
 
 +++
 Estas últimas semanas en Chile han estado muy movidas y varias cosas se han sumado para que las inversiones hayan tenido bastante volatilidad, tanto para activos seguros como activos riesgosos.

@@ -7,7 +7,7 @@ description = "Si subió tu inversión, ¿conviene hacer la ganancia?"
 hide = false
 image = "/uploads/michal-parzuchowski-oT-XbATcoTQ-unsplash.jpg"
 title = "Ganarle al mercado"
-url = "ganarle-al-mercado"
+url = "/ganarle-al-mercado"
 
 +++
 _Si subió tu inversión, ¿conviene "hacer la ganancia"?_
@@ -50,8 +50,11 @@ Cómo se logra la disciplina para aguantarse de comprar o vender depende de cada
 
 _Columna publicada en_ [_El Mercurio Inversiones_](http://www.elmercurio.com/Inversiones/Noticias/Columnas/2019/12/02/Ganarle-al-mercado.aspx) _el 02/12/2019._
 
-> #### Fintual te ayuda a invertir de forma simple y diversificada, apostando al crecimiento del mercado y no de acciones específicas.
->
-> #### Hoy es un buen día para invertir 😉, [prueba sin costo nuestro simulador online](https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=edu+ganarle+al+mercado-304).
+{{% prueba_fintual
+utmcontent="ganarle_al_mercado"
+card_title="Prueba Fintual"
+card_button="Empezar" %}}
 
-<p></p>
+Más inteligente que tratar de ganarle al mercado.
+
+{{% /prueba_fintual %}}
