@@ -44,7 +44,7 @@ Desarrollar un producto financiero implica llevar de la mano al cliente en tu mu
 
 Intentamos que sea lo más entretenido, y tenemos la política de que todo el equipo conteste el chat por dos horas semanales, sin importar cuál es su rol.
 
-Gracias a eso, he aprendido mucho de nuestros clientes. Generé empatía, y eso me motiva a querer mejorar nuestra solución todo el tiempo.
+Gracias a eso he aprendido mucho de nuestros clientes. Generé empatía y eso me motiva a querer mejorar nuestra solución todo el tiempo.
 
 ### La tecnología es nuestro corazón
 
