@@ -28,6 +28,7 @@
     {{ range $pages }}
     <item>
       <title>{{ .Title }}</title>
+      <hidden>{{ .Params.hide }}</hidden>
       <link>{{ .Permalink }}</link>
       <image>{{ .Params.image |  absURL }}</image>
       <author>{{ .Params.author }}</author>
