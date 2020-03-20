@@ -61,11 +61,6 @@ Transfiere el dinero, selecciona su objetivo, y ¡listo! Nosotros nos hacemos ca
 
 Hoy es casi una realidad y tenemos abierta nuestra lista de espera. ¿Ya te registraste? Puedes hacerlo desde [aquí](https://fintual.mx/?utm_source=edu&utm_medium=edu&utm_campaign=waiting_list_mx&utm_content=-365).
 
-{{% prueba_fintual
-utmcontent="un_año_en_fintual"
-card_title="¿Quieres ser de los primeros?"
-card_button="¡Aquí!" %}} Déjanos tu mail, y únete a nuestra lista de espera.{{% /prueba_fintual %}}
-
 {{% prueba_fintual utmcontent="un_año_en_fintual" card_title="¿Quieres ser de los primeros?" card_button="¡Aquí!" %}}
 
 Déjanos tu mail, y únete a nuestra lista de espera.
