@@ -15,6 +15,8 @@ Esta semana cumplo un año como _developer_ en [Fintual](https://fintual.mx/?utm
 
 Renuncié a una carrera trabajando para bancos e instituciones financieras, y días después ya estaba haciendo mi maleta para mudarme al final del mundo: Santiago, Chile.
 
+![](/uploads/IMG_3915.JPG)
+
 <div style="text-align:center"> <figure> <img src="/uploads/Blog_jessicacumpleunaño.jpg"> <figcaption><i>Aquí con Isadora y Flo, developers del equipo de Chile</i></figcaption> </figure> </div>
 
 A la fecha, sigo creyendo que ha sido una de las mejores decisiones de mi vida, pero la historia apenas comienza ahí.
@@ -60,3 +62,12 @@ Cuando alguien se registra en [Fintual](https://fintual.mx/?utm_source=edu&utm_m
 Transfiere el dinero, selecciona su objetivo, y ¡listo! Nosotros nos hacemos cargo de todo lo demás.
 
 Hoy es casi una realidad y tenemos abierta nuestra lista de espera. ¿Ya te registraste? Puedes hacerlo desde [aquí](https://fintual.mx/?utm_source=edu&utm_medium=edu&utm_campaign=waiting_list_mx&utm_content=-365).
+
+{{% prueba_fintual
+utmcontent="un_año_en_fintual"
+card_title="¿Quieres ser de los primeros?"
+card_button="¡Aquí!" %}}
+
+Déjanos tu mail, y únete a nuestra lista de espera.
+
+{{% /prueba_fintual %}}
