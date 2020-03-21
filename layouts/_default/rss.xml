@@ -42,6 +42,7 @@
       <guid>{{ .Permalink }}</guid>
       <readingTime>{{ .ReadingTime }}</readingTime>
       <description>{{ .Summary | html }}</description>
+      <content>{{ .Content | html }}</content>
     </item>
     {{ end }}
   </channel>
