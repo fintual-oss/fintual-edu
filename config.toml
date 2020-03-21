@@ -69,6 +69,8 @@ sharingicons = false
     description = "El belga de Fintual. Estudió derecho en la Université libre de Bruxelles pero por alguna razón en Fintual es programador"
     thumbnail= "/uploads/valentin.jpg"
 
+[services.rss]
+  limit = 20
 [params.highlight]
 languages = ["go", "dockerfile"]
 style = "github"
