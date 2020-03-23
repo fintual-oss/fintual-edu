@@ -36,7 +36,7 @@ Esto significa que si tenías $1.000.000 en tu cuenta corriente al 1 de enero de
 
 <div style="text-align:center">  
 <figure>  
-<img src="/uploads/giphy.webp">  
+<img src="/uploads/giphy.gif">  
 </figure>  
 </div>
 
