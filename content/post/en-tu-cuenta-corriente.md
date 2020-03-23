@@ -34,8 +34,7 @@ Entonces, cuando dejas tu plata en la cuenta del banco pasan dos cosas:
 
 Esto significa que si tenías $1.000.000 en tu cuenta corriente al 1 de enero de 2019, un año después, lo que realmente vale tu plata es...
 
-<div style="text-align:center">
-<img src="/uploads/giphy.gif" />  
+<div style="text-align:center"> <img src="/uploads/giphy.webp" />  
 </div>
 
 **$850.000!**

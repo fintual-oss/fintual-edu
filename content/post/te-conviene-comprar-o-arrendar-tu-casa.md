@@ -20,7 +20,7 @@ También pienso que para los completos es mejor poner la palta, tomate y mayo DE
 
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;">
 
-<img src="uploads/completo.webp" />
+<img src="[https://i.giphy.com/media/JSvl0EaQ4cAPLGOzQL/giphy.webp](https://i.giphy.com/media/JSvl0EaQ4cAPLGOzQL/giphy.webp "https://i.giphy.com/media/JSvl0EaQ4cAPLGOzQL/giphy.webp")" />
 
 </div>  
 <p></p>
