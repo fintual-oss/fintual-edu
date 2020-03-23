@@ -19,9 +19,9 @@ A veces soy contreras y termino discutiendo por pensar distinto sobre algo tan a
 También pienso que para los completos es mejor poner la palta, tomate y mayo DEBAJO de la salchicha porque así no se cae todo y tampoco me mancho.
 
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;">
-
-![](/uploads/completo.webp)
-
+<picture>
+<img src="/uploads/completo.webp" alt="Alt Text!">
+</picture>
 </div>
 
 <p></p>
