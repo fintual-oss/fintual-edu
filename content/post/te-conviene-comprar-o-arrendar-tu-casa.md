@@ -18,9 +18,11 @@ A veces soy contreras y termino discutiendo por pensar distinto sobre algo tan a
 
 También pienso que para los completos es mejor poner la palta, tomate y mayo DEBAJO de la salchicha porque así no se cae todo y tampoco me mancho.
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><img src="[https://media.giphy.com/media/JSvl0EaQ4cAPLGOzQL/giphy.gif](https://media.giphy.com/media/JSvl0EaQ4cAPLGOzQL/giphy.gif "https://media.giphy.com/media/JSvl0EaQ4cAPLGOzQL/giphy.gif")" />   
-</div>
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;">
 
+<img src="uploads/completo.webp" />
+
+</div>  
 <p></p>
 
 Pero tengo varios argumentos para defender mi postura de que es mejor arrendar que comprar el lugar donde vives. Después veremos si aguantan mis cálculos de servilleta. <p></p>
