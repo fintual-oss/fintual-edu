@@ -30,20 +30,20 @@ Pero tengo varios argumentos para defender mi postura de que es mejor arrendar q
 
 <ol>  <li>    <b>Cuando compras para ti no haces un análisis frío y gastas más.</b> Juegan factores emocionales como <i>"queda cerca del colegio de los niños",</i> “<i>está al lado de mis papás</i> <i>(...o lejos de la suegra)”</i> o “<i>me encanta el papel mural”,</i> por los que tú estás dispuesto a pagar más pero que no necesariamente suben el valor de la propiedad.  </li>
 
-<p></p><li><b>Es caro elegir la “casa definitiva”.</b> Demasiadas veces se enfrenta el comprar como algo de <i>una vez en la vida</i>, eligiendo una propiedad más grande/cara de la que necesitarás en el tiempo. Arrendar te da flexibilidad para los distintos momentos de vida y económicos por los que pasarás.   </li>
+<li><b>Es caro elegir la “casa definitiva”.</b> Demasiadas veces se enfrenta el comprar como algo de <i>una vez en la vida</i>, eligiendo una propiedad más grande/cara de la que necesitarás en el tiempo. Arrendar te da flexibilidad para los distintos momentos de vida y económicos por los que pasarás.   </li>
 
-<p></p><li><b>El dueño responde por deterioros grandes, el arrendatario sólo por chicos.</b> Mientras el dueño debe reparar cualquier falla importante (eléctrica, de gasfitería, estructural, filtración, incendio, inundación, etc.), el arrendatario sólo cubre los deterioros que provengan por su uso normal, como una chapa mala.  </li>
+<li><b>El dueño responde por deterioros grandes, el arrendatario sólo por chicos.</b> Mientras el dueño debe reparar cualquier falla importante (eléctrica, de gasfitería, estructural, filtración, incendio, inundación, etc.), el arrendatario sólo cubre los deterioros que provengan por su uso normal, como una chapa mala.  </li>
 
-<p></p><li><b>Al comprar quedas poco diversificado y la casa puede convertirse en tu único activo.</b> ¿Cómo quedas si se quema y no tenías seguro? ¿o si el barrio tiene plusvalía cero o negativa? Los bienes raíces no siempre suben.  </li>
+<li><b>Al comprar quedas poco diversificado y la casa puede convertirse en tu único activo.</b> ¿Cómo quedas si se quema y no tenías seguro? ¿o si el barrio tiene plusvalía cero o negativa? Los bienes raíces no siempre suben.  </li>
 
-<p></p><li><b>Las propiedades son menos líquidas que otras inversiones.</b> Vender una propiedad puede ser difícil, lento y caro, poniéndote en un serio problema si necesitas la plata.  </li>
+<li><b>Las propiedades son menos líquidas que otras inversiones.</b> Vender una propiedad puede ser difícil, lento y caro, poniéndote en un serio problema si necesitas la plata.  </li>
 
-<p></p><li><b>Mientras más cara una propiedad es proporcionalmente más barato arrendarla,</b> por lo que arrendar te permite vivir en lugares mejores por menos considerando el valor del m2. <i>(Hice un</i>
+<li><b>Mientras más cara una propiedad es proporcionalmente más barato arrendarla,</b> por lo que arrendar te permite vivir en lugares mejores por menos considerando el valor del m2. <i>(Hice un</i>
 
 <a href="https://edu.fintual.cl/tabla-proporcion-arriendo-compra-propiedad/" target="_blank">
 <i>análisis</i> <i>de esto considerando propiedades publicadas</i></a> <i>en Portal Inmobiliario. No es científico, pero le creo).</i></li></li>
 
-<p></p><li><b>Es mejor comprar varias propiedades chicas que una sola grande.</b> Dada la relación inversamente proporcional entre el valor de una propiedad y su arriendo, en vez de comprar una propiedad de UF 5.000 para vivir, sería mejor arrendar una propiedad equivalente a UF 5.000, pero comprar dos propiedades de UF 2.500 o -mejor aún- tres de UF 1.666 🤘 y arrendarlas. <p></p></li>
+<li><b>Es mejor comprar varias propiedades chicas que una sola grande.</b> Dada la relación inversamente proporcional entre el valor de una propiedad y su arriendo, en vez de comprar una propiedad de UF 5.000 para vivir, sería mejor arrendar una propiedad equivalente a UF 5.000, pero comprar dos propiedades de UF 2.500 o -mejor aún- tres de UF 1.666 🤘 y arrendarlas. </li>
 
 </ol>
 
@@ -91,10 +91,10 @@ Como asumimos que no tenemos poderes mágicos de predicción, y no sabemos cómo
 
 <ol><li>Si crees que la propiedad subirá de precio de forma más acotada, es decir, menos de 1% al año, en la mayoría de los casos es preferible arrendar.</li>
 
-<p></p>
+
 <li>Si crees que va a subir de precio de forma más acelerada, pero no tanto como los últimos años, depende mucho de los gastos de arreglo, el valor de la propiedad, las tasas de interés, el pie inicial, etc.</li>
 
-<p></p>
+
 <li>Si crees que el precio de la propiedad seguirán subiendo como lo han hecho, o al menos la plusvalía será sobre 3% año por año, en la mayoría de los casos conviene comprar.</li></ol>
 
 Ahora, **si uno cree que la plusvalía va a ser así de buena, es cierto que puede convenir comprar varias propiedades chicas en vez de una sola más grande y arrendar la propiedad donde uno vive.** Esto es financieramente sostenible en la medida que el costo de los metros cuadrado que compras tenga mejor retorno que el costo de los metros cuadrado que arriendas para vivir.
