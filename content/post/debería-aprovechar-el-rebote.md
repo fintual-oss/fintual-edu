@@ -7,7 +7,7 @@ description = ""
 draft = true
 hide = false
 image = "/uploads/samuel-elias--JzHSIzNYnU-unsplash.jpg"
-title = "¿Debería aprovechar el rebote?"
+title = "¿Aprovechar el rebote del mercado?"
 url = "infografia-aprovechar-rebote"
 
 +++
