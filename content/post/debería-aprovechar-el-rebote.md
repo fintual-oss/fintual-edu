@@ -4,7 +4,6 @@ author = "Gonzalo Enei"
 categories = ["educación financiera"]
 date = 2020-03-30T13:07:36Z
 description = ""
-draft = true
 hide = false
 image = "/uploads/samuel-elias--JzHSIzNYnU-unsplash.jpg"
 title = "¿Aprovechar el rebote del mercado?"
