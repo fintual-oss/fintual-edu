@@ -12,6 +12,6 @@ url = "infografia-aprovechar-rebote"
 +++
 Históricamente, después de bajas en el mercado han venido subidas. La respuesta sobre cómo aprovechar ese rebote es diferente para todos e hicimos este mapa para que veas qué te conviene a ti.
 
-_Usa tu mouse o dedos para hacer zoom._
+_Guarda la imagen con tu mouse o usa tus dedos para hacer zoom._
 
-![](/uploads/General comp f.png)
+![](/uploads/General.png)
