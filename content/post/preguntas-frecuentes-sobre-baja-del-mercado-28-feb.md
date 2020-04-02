@@ -10,8 +10,6 @@ title = "Qué hacer cuando cae tu inversión"
 url = "/que-hacer-cuando-cae-tu-inversion"
 
 +++
-**Si necesitas el dinero en 6 meses o menos, es una buena opción cambiar a un objetivo de mínimo riesgo, especialmente en tiempos de turbulencia.** Tenemos esa alternativa, el fondo se llama Very Conservative Streep, es básicamente una cartera de depósitos a plazo de corto plazo de varios bancos. Renta poco, pero prácticamente no tiene riesgo de mercado. Para hacerlo, anda a tu objetivo, das click en "Retirar" y luego eliges la opción "Algo más seguro", y de esa forma puedes crear tu objetivo "Bajo el colchón", que está compuesto 100% por el fondo Streep.  
-  
 Si tu plan de inversión es de largo plazo, es normal asustarse, pero también es normal que tu inversión caiga a veces. Aquí las respuestas a las preguntas más comunes que puedes tener.
 
 #### **¿Me conviene retirar mi inversión o pasarla a algo más conservador?**
@@ -24,10 +22,14 @@ Normalmente después una baja viene una subida, pero nadie sabe cuándo. Si saca
 
 Los únicos casos donde recomendamos sacar tu plata son:
 
-1. Cuando realmente la necesitas gastar
+1. Cuando realmente la necesitas gastar dentro de 6 meses o menos.
 2. Cuando lo estás pasando realmente mal, es decir, tienes que invertir en un riesgo más bajo.
 
 **Y recuerda: históricamente los inversionistas que actúan por miedo después de ver una caída salen mucho más perjudicados que los que simplemente esperan.**
+
+#### **Necesito la plata en 6 meses o menos, ¿qué hago?**
+
+**En estos casos puede ser una buena opción cambiar a un objetivo de mínimo riesgo, especialmente en tiempos de turbulencia.** Tenemos esa alternativa, el fondo se llama Very Conservative Streep, es básicamente una cartera de depósitos a plazo de corto plazo de varios bancos. Renta poco, pero prácticamente no tiene riesgo de mercado. Para hacerlo, anda a tu objetivo, das click en "Retirar" y luego eliges la opción "Algo más seguro", y de esa forma puedes crear tu objetivo "Bajo el colchón", que está compuesto 100% por el fondo Streep.
 
 #### **¿Espero a que el mercado se estabilice antes de invertir más?**
 
