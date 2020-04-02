@@ -29,7 +29,7 @@ Los únicos casos donde recomendamos sacar tu plata son:
 
 #### **Necesito la plata en 6 meses o menos, ¿qué hago?**
 
-**En estos casos puede ser una buena opción cambiar a un objetivo de mínimo riesgo, especialmente en tiempos de turbulencia.** Tenemos esa alternativa, el fondo se llama Very Conservative Streep, es básicamente una cartera de depósitos a plazo de corto plazo de varios bancos. Renta poco, pero prácticamente no tiene riesgo de mercado. Para hacerlo, anda a tu objetivo, das click en "Retirar" y luego eliges la opción "Algo más seguro", y de esa forma puedes crear tu objetivo "Bajo el colchón", que está compuesto 100% por el fondo Streep.
+**En estos casos puede ser una buena opción cambiar a un objetivo de mínimo riesgo, especialmente en tiempos de turbulencia.** Tenemos esa alternativa, el fondo se llama Very Conservative Streep. Es básicamente una cartera de depósitos a plazo de corto plazo de varios bancos y su comisión es 0,58% anual, más barata que nuestros otros fondos (1,19%). Renta poco, pero prácticamente no tiene riesgo de mercado. Para hacerlo, anda a tu objetivo, das click en "Retirar" y luego eliges la opción "Algo más seguro", y de esa forma puedes crear tu objetivo "Bajo el colchón", que está compuesto 100% por el fondo Streep.
 
 #### **¿Espero a que el mercado se estabilice antes de invertir más?**
 
