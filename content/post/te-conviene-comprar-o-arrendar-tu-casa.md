@@ -91,9 +91,7 @@ Como asumimos que no tenemos poderes mágicos de predicción, y no sabemos cómo
 
 <ol><li>Si crees que la propiedad subirá de precio de forma más acotada, es decir, menos de 1% al año, en la mayoría de los casos es preferible arrendar.</li>
 
-
 <li>Si crees que va a subir de precio de forma más acelerada, pero no tanto como los últimos años, depende mucho de los gastos de arreglo, el valor de la propiedad, las tasas de interés, el pie inicial, etc.</li>
-
 
 <li>Si crees que el precio de la propiedad seguirán subiendo como lo han hecho, o al menos la plusvalía será sobre 3% año por año, en la mayoría de los casos conviene comprar.</li></ol>
 
@@ -109,10 +107,11 @@ _**Para estimar la relación entre arriendo y costo de la propiedad nos basamos 
 
 _***Este análisis no considera todas las implicancias tributarias de rentar con uno u otro tipo de inversión._
 
-<p></p>
+{{% prueba_fintual
+utmcontent="comprar_o_arrendar"
+card_title="Prueba Fintual"
+card_button="Empezar" %}}
 
-<p></p>
+Fintual es una forma fácil y diversificada de invertir, incluso mientras estás ahorrando para un pie
 
-> #### **Fintual es una forma fácil y diversificada de invertir, incluso mientras estás ahorrando para un pie 😉**
->
-> #### [**Prueba sin costo nuestro simulador**](https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=comprar_vs_arrendar&utm_content=-135) **y ve cómo te iría.**
+{{% /prueba_fintual %}}
