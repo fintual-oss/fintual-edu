@@ -47,4 +47,12 @@ Sí, estas caídas están pasando en mercado de Asia, Europa y América Latina, 
 #### Lo bueno
 
 Los activos de bajo riesgo, como los bonos, han subido de precio —o de forma equivalente, las tasas de interés han bajado—, ayudando a que la rentabilidad de fondos conservadores sea buena. Además, como consecuencia de tasas de interés baja, las tasas de créditos hipotecarios ha bajado a mínimos en Chile, lo cual podría ser útil si estás cotizando comprar una casa o renegociando tu actual crédito hipotecario.
- {{< newsletter_signup >}}
+
+{{% prueba_fintual
+utmcontent="lunes_negro"
+card_title="Prueba Fintual"
+card_button="Empezar" %}}
+
+Más inteligente que dejar tu plata en el banco
+
+{{% /prueba_fintual %}}
