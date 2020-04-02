@@ -56,3 +56,12 @@ Replicando este ejercicio con un índice de acciones globales, como el MSCI Worl
 #### ¿Qué recomendamos que hagas?
 
 Escenarios de riesgo sistémico de mercado (es decir, que afectan globalmente a todos los activos) están incorporados en nuestro simulador. Si diseñaste tu plan de inversión estando tranquilo con los plazos de inversión y el nivel de riesgo, entonces no deberías hacer nada.
+
+{{% prueba_fintual
+utmcontent="que_esta_pasando"
+card_title="Prueba Fintual"
+card_button="Empezar" %}}
+
+Más inteligente que dejar tu plata en el banco.
+
+{{% /prueba_fintual %}}
