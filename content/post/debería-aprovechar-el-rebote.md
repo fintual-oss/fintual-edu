@@ -15,3 +15,12 @@ Históricamente, después de bajas en el mercado han venido subidas. La respuest
 _Guarda la imagen con tu mouse o usa tus dedos para hacer zoom._
 
 ![](/uploads/General.png)
+
+{{% prueba_fintual
+utmcontent="aprovechar_el_rebote"
+card_title="Prueba Fintual"
+card_button="Empezar" %}}
+
+Más inteligente que dejar tu plata en el banco.
+
+{{% /prueba_fintual %}}
