@@ -61,3 +61,12 @@ Al igual que el caso del tipo de cambio USD/CLP, **estas alzas de precios de acc
 ![Precio del ETF que sigue al S&P500 desde julio de este año. Se destaca el periodo desde mediados de octubre.](/uploads/IVV.png)_Precio del ETF que sigue al S&P500 desde julio de este año. Se destaca el periodo desde mediados de octubre._
 
 Esperamos que esto te sirva para estar más informado y con tranquilidad respecto a tus inversiones en Fintual.
+
+{{% prueba_fintual
+utmcontent="actualizacion"
+card_title="Prueba Fintual"
+card_button="Empezar" %}}
+
+Más inteligente que dejar tu plata en el banco.
+
+{{% /prueba_fintual %}}
