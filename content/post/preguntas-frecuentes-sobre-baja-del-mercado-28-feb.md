@@ -64,3 +64,12 @@ Una solicitud hecha un día hábil antes de las 12pm tiene efecto al final de es
 La verdad, nadie sabe. Lo que sí sabemos es que en el largo plazo el mercado tiende al alza, incluso después de crisis tan grandes como la Segunda Guerra Mundial. **Recuerda que la paciencia paga.**
 
 ![](/uploads/Dow Jones Index.jpg)_Nada es tan grave como parece._
+
+{{% prueba_fintual
+utmcontent="que_hacer_cuando_cae_tu_inversion"
+card_title="Prueba Fintual"
+card_button="Empezar" %}}
+
+Más inteligente que dejar tu plata en el banco.
+
+{{% /prueba_fintual %}}
