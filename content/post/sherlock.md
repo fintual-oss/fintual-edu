@@ -10,6 +10,7 @@ categories:
 author: Pedro Pineda
 author_thumbnail: "/uploads/pedro.png"
 aliases: []
+hide: false
 
 ---
 <div class="text-center"> <img src="/uploads/sherlock2.jpg" style="width:90%;height: auto;"/> </div>
@@ -26,5 +27,11 @@ aliases: []
 
 </div>
 
-<br><br>
- {{< newsletter_signup >}}
+{{% prueba_fintual
+utmcontent="analisis_gratis_ffmm"
+card_title="Prueba Fintual"
+card_button="Empezar" %}}
+
+Más inteligente que dejar tu plata en el banco.
+
+{{% /prueba_fintual %}}
