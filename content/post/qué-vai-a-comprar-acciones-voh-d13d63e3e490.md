@@ -9,7 +9,7 @@ categories:
 url: "/qué-vai-a-comprar-acciones-voh-d13d63e3e490/"
 
 ---
-### Al buscar en qué invertir, ésta es la opción que te hace parecer más inteligente y con la que probablemente te guste presumir con tus amigos. Pero es también en la que más te expones a ser embaucado si no sabes.
+Al buscar en qué invertir, ésta es la opción que te hace parecer más inteligente y con la que probablemente te guste presumir con tus amigos. Pero es también en la que más te expones a ser embaucado si no sabes.
 
 Olvídate de pensar que eres El lobo de Wall Street y entiende bien esto: **es muuuuuy difícil ganarle consistentemente al mercado.** Aunque sea entretenido y glamoroso, somos muchos los que perdimos plata por ingenuos.
 
@@ -35,5 +35,13 @@ En definitiva, a la hora de invertir en acciones y dormir tranquilo, la única e
 
 En el largo plazo, en promedio, las acciones suben. Esto es porque las empresas, en la mayoría de los casos, ganan plata. En el corto plazo, nadie (o por lo menos tú no probablemente) tiene idea qué va a pasar.
 
-Así que si te vas a lanzar al mundo del _“timbeo”_, hazlo sin contarle a tu mamá y ¡buena suerte!
-{{< newsletter_signup >}}
+Así que si te vas a lanzar al mundo del _“timbeo”_, hazlo sin contarle a tu mamá y ¡buena suerte! 
+
+{{% prueba_fintual
+utmcontent="acciones_por_tu_cuenta"
+card_title="Prueba Fintual"
+card_button="Empezar" %}}
+
+Más inteligente que ponerte a achuntarle a acciones.
+
+{{% /prueba_fintual %}}
