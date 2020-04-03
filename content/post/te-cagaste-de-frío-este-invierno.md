@@ -3,7 +3,7 @@ aliases = []
 author = "Juan Francisco Weitz"
 author_thumbnail = "/uploads/jf.png"
 categories = []
-date = "2019-09-02T04:00:00+00:00"
+date = 2019-09-02T04:00:00Z
 description = "No seas como mis vecinos y adelántate al próximo invierno."
 hide = false
 image = "/uploads/c.png"
@@ -37,4 +37,11 @@ Otra opción es abrigarte mucho y tratar de no volver a cagarte de frío 🥶
 
 _Infórmese de las características esenciales de la inversión en estos fondos mutuos, los que se encuentran contenidos en sus reglamentos internos y contratos de suscripción de cuotas._
 
-{{< newsletter_signup >}}
+{{% prueba_fintual
+utmcontent="te_cagaste_de_frio"
+card_title="Prueba Fintual"
+card_button="Empezar" %}}
+
+Más inteligente que dejar tu plata en el banco.
+
+{{% /prueba_fintual %}}
