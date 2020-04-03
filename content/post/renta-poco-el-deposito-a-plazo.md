@@ -22,4 +22,11 @@ La otra alternativa es prestarle plata a un banco que tenga niveles financieros 
 
 Aún, y pese a lo bajo que pueda parecer la tasa de los depósitos, estos resultan convenientes para invertir tu dinero en periodos de tiempo cortos, digamos, desde unas semanas a unos pocos meses, ya que sabes exactamente lo que vas a ganar y cuando vas a tener disponible esa plata. Sin embargo, pensando en plazos mayores —digamos sobre 6 meses o sobre un año— hay formas de invertir tu dinero que resultan más convenientes, como invertir mediante una cartera diversificada en base a bonos y acciones de varios países. Y eso, al menos lo puedes hacer de manera fácil a través de [Fintual.com](https://fintual.cl/?utm_source=edu.fintual.cl&utm_medium=referral&utm_campaign=awareness&utm_content=depositos+a+plazo-108).
 
- {{< newsletter_signup >}}
+{{% prueba_fintual
+utmcontent="rentan_poco_los_dap"
+card_title="Prueba Fintual"
+card_button="Empezar" %}}
+
+Más inteligente que dejar tu plata en el banco
+
+{{% /prueba_fintual %}}
