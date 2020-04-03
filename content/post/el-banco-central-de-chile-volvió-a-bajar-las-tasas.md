@@ -3,7 +3,7 @@ aliases = []
 author = "Omar Larré"
 author_thumbnail = "/uploads/omar_larre.jpg"
 categories = []
-date = "2019-09-04T04:00:00+00:00"
+date = 2019-09-04T04:00:00Z
 description = "¿Y a mí qué me importa que vuelvan a bajar las tasas?"
 hide = false
 image = "/uploads/taza.jpeg"
@@ -26,7 +26,6 @@ Ahora, los bancos en Chile podrán pedir prestado dinero más barato, lo que deb
   Tanto créditos de consumo, créditos a empresas y créditos hipotecarios. Así como los bancos piden prestado más barato entre sí mismos o incluso al Central, las personas podrán pedir más barato a los bancos. Entre menor sea el plazo del crédito, más debería bajar la tasa de interés con respecto a como estaban “hace una semana”. Es por esto que créditos de mucho plazo, como los hipotecarios a 30 años, podrían bajar, pero poco.
 
   > _La recomendación es que refinancies tu crédito: anda donde tu ejecutivo y pídele rebajar las tasas que tienes actualmente._
-
 * **La tasa de interés de los depósitos a plazo debería bajar**.
 
   Por ejemplo, si un depósito a plazo estaba a 0,20% mensual hace una semana, probablemente ahora va a estar a 0,16% (suponiendo las mismas características de plazo y banco). En el fondo, parte de la idea del Central es que hay que buscar mejores alternativas para los que tienen dinero invertido.
@@ -34,8 +33,15 @@ Ahora, los bancos en Chile podrán pedir prestado dinero más barato, lo que deb
   > _Si_ _tenías un depósito, ahora podrías tomar algo más de riesgo. Si ya estabas tomando riesgo, podrías pensar en gastar algo en proyectos de empresas reales y ayudar a reactivar la economía_.
 
   Y así sucesivamente, en un ciclo virtuoso del capital. Al menos eso es la teoría.
-
 * **Ganancia de capital puntual**
 
   Las carteras compuestas por bonos, que en general son las carteras más conservadoras, deberían tener una ganancia puntual rápida esta semana por bajas de interés. Sin embargo, esta ganancia es puntual y moderada, ya que gran parte de lo comunicado por el Banco Central está internalizado en los precios.
- {{< newsletter_signup >}}
+
+{{% prueba_fintual
+utmcontent="bc_tasas"
+card_title="Prueba Fintual"
+card_button="Empezar" %}}
+
+Más inteligente que dejar tu plata en el banco.
+
+{{% /prueba_fintual %}}
