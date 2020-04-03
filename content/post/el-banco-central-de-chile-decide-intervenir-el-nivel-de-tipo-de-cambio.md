@@ -15,3 +15,12 @@ Este jueves 28 de noviembre, el BC anunció la implementación de un programa de
 Este programa contempla **intervenir el mercado con un monto de hasta 20 mil millones de dólares** (como referencia, las reservas del Banco Central son de alrededor de 40 mil millones de dólares). Este programa comienza el lunes 2 de diciembre y terminará el 29 de mayo de 2020.
 
 **Por el tamaño de la intervención, esperamos que los precios bajen desde sus máximos históricos recientes y se estabilicen.** Antes del aviso de intervención el dólar observado estaba en $828,25, luego de la intervención el precio ha fluctuado en torno a los $800.
+
+{{% prueba_fintual
+utmcontent="bc_tipo_de_cambio"
+card_title="Prueba Fintual"
+card_button="Empezar" %}}
+
+Más inteligente que dejar tu plata en el banco.
+
+{{% /prueba_fintual %}}
