@@ -35,13 +35,13 @@ En definitiva, a la hora de invertir en acciones y dormir tranquilo, la única e
 
 En el largo plazo, en promedio, las acciones suben. Esto es porque las empresas, en la mayoría de los casos, ganan plata. En el corto plazo, nadie (o por lo menos tú no probablemente) tiene idea qué va a pasar.
 
-Así que si te vas a lanzar al mundo del _“timbeo”_, hazlo sin contarle a tu mamá y ¡buena suerte! 
+Así que si te vas a lanzar al mundo del _“timbeo”_, hazlo sin contarle a tu mamá y ¡buena suerte!
 
 {{% prueba_fintual
 utmcontent="acciones_por_tu_cuenta"
 card_title="Prueba Fintual"
 card_button="Empezar" %}}
 
-Más inteligente que ponerte a achuntarle a acciones.
+Más inteligente que tratar de achuntarle a acciones.
 
 {{% /prueba_fintual %}}
