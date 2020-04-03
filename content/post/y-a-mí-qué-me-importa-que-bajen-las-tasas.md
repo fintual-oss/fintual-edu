@@ -26,4 +26,11 @@ Ahora, los bancos en Chile podrán pedir prestado dinero más barato, lo que **d
 * Si todo funciona bien, **el crecimiento debería estimularse y las empresas en Chile deberían crecer más, favoreciendo, por ejemplo, a las acciones.**
 * En cambio, **los bonos deberían tener una ganancia puntual rápida entre el lunes y martes (“ganancia de capital”)**, por lo que serían días atractivos para los que mantengan inversiones conservadoras.
 
-{{< newsletter_signup >}}
+{{% prueba_fintual
+utmcontent="que_me_importan_las_tasas"
+card_title="Prueba Fintual"
+card_button="Empezar" %}}
+
+Más inteligente que dejar tu plata en el banco.
+
+{{% /prueba_fintual %}}
