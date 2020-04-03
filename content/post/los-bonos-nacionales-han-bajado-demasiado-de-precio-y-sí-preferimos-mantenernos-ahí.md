@@ -49,16 +49,25 @@ En la cartera de nuestro fondo Conservative Clooney tenemos bastante de estos ti
 
 Démosle un tiempo para que se recomponga.
 
-<div style="text-align:center"> 
+<div style="text-align:center">
 
-<figure> 
+<figure>
 
 <img src="/uploads/clooney.gif">
 
 <em> Clooney complicao </em>
 
-</figure> 
+</figure>
 
 </div>
+
+{{% prueba_fintual
+utmcontent="bonos_nacionales"
+card_title="Prueba Fintual"
+card_button="Empezar" %}}
+
+Más inteligente que dejar tu plata en el banco.
+
+{{% /prueba_fintual %}}
 
 ​
