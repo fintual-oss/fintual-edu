@@ -15,8 +15,6 @@ hide: false
 ---
 <div class="text-center"> <img src="/uploads/sherlock2.jpg" style="width:90%;height: auto;"/> </div>
 
-<div class="col-sm-9 col-sm-offset-2">
-
 <h3>1. Los fondos mutuos no son gratis.</h3>
 
 <p> Todos cobran una comisión que se descuenta diariamente. Casi nadie sabe cuánto y en general son caros. Por eso no se gana mucho invirtiendo en fondos mutuos. </p>
