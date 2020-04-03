@@ -34,5 +34,13 @@ No se trata de no comprar cosas, sino de que consideres que el tiempo también e
 
 Piensa en esto la próxima vez que estés en una tienda: Quizá no sea malo comprar algo más barato y con la diferencia comprar un poco de tiempo.
 
-Y si te convencimos y quieres animarte a ahorrar, [puedes hacer tu propia simulación aquí](https://fintual.com/?utm_source=edu&utm_medium=landing&utm_campaign=comprar-tiempo)
+Y tú, ¿quieres animarte a ahorrar?
 
+{{% prueba_fintual
+utmcontent="comprar_tiempo"
+card_title="Prueba Fintual"
+card_button="Empezar" %}}
+
+Más inteligente que dejar tu plata en el banco
+
+{{% /prueba_fintual %}}
