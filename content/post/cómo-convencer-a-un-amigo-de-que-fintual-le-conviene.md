@@ -3,7 +3,7 @@ aliases = []
 author = "Agustín Feuerhake"
 author_thumbnail = "/uploads/agustincuadrado.jpg"
 categories = []
-date = "2019-06-15T04:00:00+00:00"
+date = 2019-06-15T04:00:00Z
 description = "Tus amigos son todos animales distintos. Aquí te damos recomendaciones según la especie de cada uno."
 hide = false
 image = "/uploads/andrea-tummons-450846-unsplash.jpg"
@@ -86,4 +86,12 @@ Si tu amigo tiene más de 1000 millones de pesos disponibles para invertir, le a
 Si a tu amigo lo obligaron a tener celular y todavía usa el mismo ladrillo Nokia, no nos vamos a llevar bien. Fintual es super amistoso y fácil de usar, pero es online y hay gente que simplemente quiere poder abrazar a su ejecutivo cuando suben sus inversiones y pegarle una cachetada cuando bajan. Tal vez podría abrazar su celular, pero no... no va a resultar.
 
 Si no estamos hablando de ninguno de estos 3 casos, entonces puede que resulte! Mucha suerte.
- {{< newsletter_signup >}}
+
+{{% prueba_fintual
+utmcontent="convencer_amigos"
+card_title="Prueba Fintual"
+card_button="Empezar" %}}
+
+O dile a tu amigui que lo pruebe.
+
+{{% /prueba_fintual %}}
