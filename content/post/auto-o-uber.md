@@ -70,12 +70,15 @@ Ya me imagino echado en la playa de Punta Cana tomando una piña colada habiendo
 
 Así que lo estoy pensando…
 
-Y a ti, ¿qué te conviene? Te dejo [esta planilla](https://docs.google.com/spreadsheets/d/1_gE2QwXOdxUFL8c1MfRLwn0gup6KyOji/copy) por si quieres hacer el cálculo
+Y a ti, ¿qué te conviene? Te dejo [esta planilla](https://docs.google.com/spreadsheets/d/1_gE2QwXOdxUFL8c1MfRLwn0gup6KyOji/copy) por si quieres hacer el cálculo.
 
-> #### Si llegaste hasta el final es porque tienes ganas de hacerlo mejor con tus finanzas.
->
-> #### Para invertir, te recomiendo Fintual porque es fácil, tiene comisiones bajas y es transparente con lo que te cobra 🙂
->
-> #### [Prueba gratis el simulador](https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=edu+auto+o+uber-291), te va a gustar ⚡️
+{{% prueba_fintual
+utmcontent="auto_o_ber"
+card_title="Prueba Fintual"
+card_button="Empezar" %}}
+
+Si llegaste hasta el final es porque tienes ganas de hacerlo mejor con tus finanzas.
+
+{{% /prueba_fintual %}}
 
 _Infórmese de las características esenciales de la inversión en estos fondos mutuos, los que se encuentran contenidos en sus reglamentos internos y contratos de suscripción de cuotas._
