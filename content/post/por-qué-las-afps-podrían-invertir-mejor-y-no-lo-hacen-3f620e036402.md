@@ -12,7 +12,7 @@ aliases: []
 hide: false
 
 ---
-_Me siento como director de cine gringo haciendo el remake de una película coreana excelente pero críptica._ 
+_Me siento como director de cine gringo haciendo el remake de una película coreana excelente pero críptica._
 
 ##### La de Alejandro Bernales, investigador en Finanzas y Economía Aplicada de la Universidad de Chile quien escribió un muy buen texto sobre por qué las AFPs invierten mal nuestros fondos.
 
@@ -68,4 +68,11 @@ Para cerrar, apoyado en el cálculo de fronteras eficientes de inversión demues
 
 Y remata diciendo que “**el uso de algoritmos automáticos resultaría más eficiente y mucho menos oneroso en términos de comisiones por ‘administrar’ dichos fondos”,** cosa que nos encantó leer porque es precisamente lo que hacemos en [Fintual](https://fintual.cl/) si quieres ahorrar plata por tu cuenta para una casa nueva, la educación de tus hijos o incluso mejorar tu jubilación.
 
-{{< newsletter_signup >}}
+{{% prueba_fintual
+utmcontent="afp_inviertan_mejor"
+card_title="Prueba Fintual"
+card_button="Empezar" %}}
+
+Y empieza a invertir inteligente.
+
+{{% /prueba_fintual %}}
