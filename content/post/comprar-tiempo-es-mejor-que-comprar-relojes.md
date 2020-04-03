@@ -36,4 +36,3 @@ Piensa en esto la próxima vez que estés en una tienda: Quizá no sea malo comp
 
 Y si te convencimos y quieres animarte a ahorrar, [puedes hacer tu propia simulación aquí](https://fintual.com/?utm_source=edu&utm_medium=landing&utm_campaign=comprar-tiempo)
 
- {{< newsletter_signup >}}
