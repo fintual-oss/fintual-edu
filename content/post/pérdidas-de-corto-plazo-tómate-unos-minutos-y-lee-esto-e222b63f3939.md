@@ -9,7 +9,11 @@ image: "/uploads/don-ross-iii-187427-unsplash.jpg"
 url: "/pérdidas-de-corto-plazo-tómate-unos-minutos-y-lee-esto-e222b63f3939/"
 
 ---
-### Es más común de lo que se piensa, pero las bajas del mercado son la parte más normal de una cartera de inversiones de buen retorno. A menudo, los inversionistas, tanto profesionales como personas común y corrientes, tienden a sobrerreaccionar con pánico en respuesta a bajas de mercado, incluso sabiendo que están invirtiendo de forma apropiada y en un plan de largo plazo. Sin embargo, reaccionar a las bajas de mercado terminan siendo, en la mayor parte de los casos, una mala estrategia de inversiones.
+Es más común de lo que se piensa, pero las bajas del mercado son la parte más normal de una cartera de inversiones de buen retorno. 
+
+A menudo, los inversionistas –tanto profesionales como personas común y corrientes– tienden a sobrerreaccionar con pánico en respuesta a bajas de mercado, incluso sabiendo que están invirtiendo de forma apropiada y en un plan de largo plazo. 
+
+#### Sin embargo, reaccionar a las bajas de mercado terminan siendo, en la mayor parte de los casos, una mala estrategia de inversiones.
 
 Cada vez que digo que en el corto plazo es muy probable que existan pérdidas en Fintual, me miran con cara de espanto. Y no se trata de que sea pesimista ni sádico, es sólo una perspectiva basada en haber estudiado y experimentado el mercado financiero por años.
 
@@ -23,8 +27,8 @@ La prensa y las redes sociales en general suelen estar llenos de “gurús” de
 
 <div style="text-align:center">
 <figure>
-  <img src="/uploads/pérdidas-de-c8529.jpeg">
-  <figcaption><i>Cuando los europeos llegaron a Australia no podían creer la existencia de cisnes negros: hasta entonces, habían vivido sumergidos en un mundo donde era imposible que existieran. Ahora que viste la foto, te parece obvio que existen.</i></figcaption>
+<img src="/uploads/pérdidas-de-c8529.jpeg">
+<figcaption><i>Cuando los europeos llegaron a Australia no podían creer la existencia de cisnes negros: hasta entonces, habían vivido sumergidos en un mundo donde era imposible que existieran. Ahora que viste la foto, te parece obvio que existen.</i></figcaption>
 </figure>
 </div>
 
@@ -46,8 +50,8 @@ Imaginemos que estás invirtiendo en este ETF. Tus inversiones deberían crecer 
 
 <div style="text-align:center">
 <figure>
-  <img src="/uploads/pérdidas-de-c8163.png">
-  <figcaption><i>Precio del SPY desde enero de 1993. No incluye reinversión de dividendos.</i></figcaption>
+<img src="/uploads/pérdidas-de-c8163.png">
+<figcaption><i>Precio del SPY desde enero de 1993. No incluye reinversión de dividendos.</i></figcaption>
 </figure>
 </div>
 
@@ -55,8 +59,8 @@ La segunda “gran caída” es la crisis financiera del 2008 (conocida también
 
 <div style="text-align:center">
 <figure>
-  <img src="/uploads/pérdidas-de-c6643.png">
-  <figcaption><i>Así te sientes probablemente al salir durante la crisis, y poder volver a entrar cuando todo está mucho más tranquilo.</i></figcaption>
+<img src="/uploads/pérdidas-de-c6643.png">
+<figcaption><i>Así te sientes probablemente al salir durante la crisis, y poder volver a entrar cuando todo está mucho más tranquilo.</i></figcaption>
 </figure>
 </div>
 
@@ -64,8 +68,8 @@ Al parecer, sientes que lo hiciste bien, que te salvaste de la caída total. Sal
 
 <div style="text-align:center">
 <figure>
-  <img src="/uploads/pérdidas-de-c6329.png">
-  <figcaption><i>La línea roja muestra realmente lo que pasó con tu inversión si te retiraste en medio de una caída.</i></figcaption>
+<img src="/uploads/pérdidas-de-c6329.png">
+<figcaption><i>La línea roja muestra realmente lo que pasó con tu inversión si te retiraste en medio de una caída.</i></figcaption>
 </figure>
 </div>
 
@@ -77,8 +81,8 @@ Si miras la tabla de a continuación, que muestra qué porcentaje necesitas rent
 
 <div style="text-align:center">
 <figure>
-  <img src="/uploads/pérdidas-de-c3216.png">
-  <figcaption><i>Lo que necesitas volver a rentar (columna derecha) para volver al mismo nivel, después de enfrentar una pérdida (columna izquierda).</i></figcaption>
+<img src="/uploads/pérdidas-de-c3216.png">
+<figcaption><i>Lo que necesitas volver a rentar (columna derecha) para volver al mismo nivel, después de enfrentar una pérdida (columna izquierda).</i></figcaption>
 </figure>
 </div>
 
@@ -88,8 +92,8 @@ Volvamos nuevamente al ejemplo del SPY. Si miras como ha rentado su precio consi
 
 <div style="text-align:center">
 <figure>
-  <img src="/uploads/pérdidas-de-c5802.png">
-  <figcaption><i>Retorno de 10 años según la fecha de término del periodo, no considera reinversión de dividendos (si no, serían retornos aún mejores). Retornos expresados en dólares de Estados Unidos.</i></figcaption>
+<img src="/uploads/pérdidas-de-c5802.png">
+<figcaption><i>Retorno de 10 años según la fecha de término del periodo, no considera reinversión de dividendos (si no, serían retornos aún mejores). Retornos expresados en dólares de Estados Unidos.</i></figcaption>
 </figure>
 </div>
 
@@ -104,4 +108,12 @@ Tomar más riesgo del que te sientes cómodo para un plan de inversión determin
 Por otro lado, tomar demasiado poco riesgo significa que estás dejando potenciales ganancias sobre la mesa, especialmente en horizontes de largo plazo.
 
 Una vez que eliges tu plan de inversiones de forma adecuada, trata de respetar bien el horizontes de inversiones. Por ejemplo, si tu plazo de inversiones es de 5 años, y te enfrentas pérdidas de 3 o 4 meses, la mejor decisión en este caso puede ser la más difícil: **no hacer nada, y continuar con tu plan de inversión**, tranquilamente, sin disminuir o aumentar el nivel de riesgo a cada rato, tratando de evitar (o ganar) algo en la pasada.
- {{< newsletter_signup >}}
+
+{{% prueba_fintual
+utmcontent="perdidas_de_corto_plazo"
+card_title="Prueba Fintual"
+card_button="Empezar" %}}
+
+Más inteligente que dejar tu plata en el banco.
+
+{{% /prueba_fintual %}}
