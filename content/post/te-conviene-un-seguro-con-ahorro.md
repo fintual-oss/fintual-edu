@@ -115,7 +115,13 @@ Lo importante es que sepas cuánto estás pagando por tu seguro, **cuánto está
 >
 > ##### Más de 300 personas ya se trajeron su APV 🚀
 
-  
-{{< button_link href="https://fintual.cl/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=seguro+con+ahorro+edu-314" text="¿Y tú?" >}}
+{{% prueba_fintual
+utmcontent="seguro_con_ahorro"
+card_title="Prueba Fintual"
+card_button="Empezar" %}}
+
+Más inteligente que dejar tu plata en el banco.
+
+{{% /prueba_fintual %}}
 
 _Infórmese de las características esenciales de la inversión en estos fondos mutuos, los que se encuentran contenidos en sus reglamentos internos y contratos de suscripción de cuotas._
