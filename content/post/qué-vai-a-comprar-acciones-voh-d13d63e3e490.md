@@ -11,7 +11,7 @@ url: "/qué-vai-a-comprar-acciones-voh-d13d63e3e490/"
 ---
 Al buscar en qué invertir, ésta es la opción que te hace parecer más inteligente y con la que probablemente te guste presumir con tus amigos. Pero es también en la que más te expones a ser embaucado si no sabes.
 
-Olvídate de pensar que eres El lobo de Wall Street y entiende bien esto: **es muuuuuy difícil ganarle consistentemente al mercado.** Aunque sea entretenido y glamoroso, somos muchos los que perdimos plata por ingenuos.
+Olvídate de pensar que eres El lobo de Wall Street y entiende bien esto: **es muuuy difícil ganarle consistentemente al mercado.** Aunque sea entretenido y glamoroso, somos muchos los que perdimos plata por ingenuos.
 
 Nadie puede saber lo que va a pasar en el futuro. Nadie puede asegurar a ciencia cierta si el dólar va a subir o va a bajar mañana. Todos los economistas y analistas que ves en las noticias dicen lo que creen, o incluso lo que les conviene decir, pero se van a equivocar muy a menudo. Y cuando se equivoquen, aparecerán al día siguiente explicando porqué pasó lo contrario. _“China salió a comprar divisas inesperadamente”_ o cualquier otra razón que visto en retrospectiva es posible entender, porque claro, después de la guerra somos todos generales.
 

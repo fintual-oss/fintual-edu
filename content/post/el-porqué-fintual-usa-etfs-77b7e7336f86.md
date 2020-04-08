@@ -11,7 +11,7 @@ url: "/el-porqué-fintual-usa-etfs-77b7e7336f86/"
 ---
 Los ETFs entregan el mejor nivel de acceso a activos globales, flexibilidad y bajos costos. Pero ¿qué son? ¿Y por qué son lo indicado para ti?
 
-![ETF?](/uploads/el-porqué-fin6323.png)_ETF?_
+![ETF?](/uploads/el-porqué-fin6323.png)_ETF? WTF?_
 
 Después de largos meses de trabajo junto a mis socios, creamos Fintual con la idea de entregar el mejor portafolio posible para alguien común y corriente, y de la forma más fácil posible. Para hacer esto, teníamos que tener en consideración el costo total del producto financiero (la suma de todas las comisiones y cobros finales), la rentabilidad del portafolio, y cómo hacer llegar esto de forma fácil y simple a cada persona.
 
