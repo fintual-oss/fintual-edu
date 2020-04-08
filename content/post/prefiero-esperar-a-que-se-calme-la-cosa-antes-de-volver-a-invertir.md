@@ -37,4 +37,4 @@ Todos los días el mercado hace su mejor estimación de cómo se viene el futuro
 
 Tú que quieres esperar “a que se calme la cosa”, ¿cómo vas a saber cuándo entrar de vuelta?
 
-La historia muestra que algunos de los mejores días del mercado ocurren poco después de los días malos. Un estudio de Putnam Investments muestra que al haberte mantenido invertido durante los últimos 15 años habrías ganado el doble que alguien que se perdió solo los 10 mejores días:
+La historia muestra que algunos de los mejores días del mercado ocurren poco después de los días malos. Un estudio de ![](/uploads/Resultado de invertir $10 millones en el S&P500 durante 15 años entre 2005 y 2019   (1).png) muestra que al haberte mantenido invertido durante los últimos 15 años habrías ganado el doble que alguien que se perdió solo los 10 mejores días:
