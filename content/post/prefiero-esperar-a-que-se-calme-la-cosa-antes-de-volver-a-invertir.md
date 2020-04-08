@@ -19,13 +19,17 @@ Es imposible saber cuándo es mejor empezar a invertir.
 
 **Lejos la mejor estrategia es invertir regularmente una parte de tu plata pensando en recién ver retornos en más de 3 años. Y mantenerte en el plan sin importar lo que pase.**
 
+  
 ¿Guerra mundial? Sigues invirtiendo.
 
 ¿Pandemia? Sigues invirtiendo.
 
+  
 Si paraste de invertir en marzo porque “prefieres esperar a que se calme la cosa” o “para esperar el momento ideal para volver a entrar y agarrar el rebote” lo más probable es que te perdiste un tremendo día de rentabilidad.
 
-“Pero es que seguirá cayendo” - eso no lo sabe nadie.
+> “Pero es que seguirá cayendo”
+
+Eso nadie lo sabe
 
 Proyecciones y predicciones
 
