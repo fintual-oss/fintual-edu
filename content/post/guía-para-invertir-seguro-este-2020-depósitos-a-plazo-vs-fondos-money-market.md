@@ -60,6 +60,15 @@ En inversiones no existen las recetas mágicas ni las balas de plata. Así que s
 
 Sí, se llama **Very Conservative Streep** y de cariño le decimos "Bajo el Colchón". Puedes encontrar más información de nuestros fondos y su rentabilidad [acá](https://www.fintual-charts.oscarestay.dev/).
 
+{{% prueba_fintual
+utmcontent="dap_vs_mm"
+card_title="Prueba Fintual"
+card_button="Empezar" %}}
+
+Más inteligente que dejar tu plata en el banco.
+
+{{% /prueba_fintual %}}
+
 <hr>
 
 Fuentes:
