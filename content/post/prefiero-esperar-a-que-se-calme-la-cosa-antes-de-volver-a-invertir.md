@@ -28,7 +28,7 @@ Si paraste de invertir en marzo porque “prefieres esperar a que se calme la co
 
 Eso nadie lo sabe
 
-#### Proyecciones y predicciones
+#### **Proyecciones y predicciones**
 
 Todos los días el mercado hace su mejor estimación de cómo se viene el futuro y los precios están de acuerdo a eso. Cuando dices “seguirá bajando” no estás diciendo que se vienen tiempos difíciles para la economía, con mucho desempleo y empresas quebrando, eso lo sabemos todos (y el mercado también). 
 
@@ -44,11 +44,11 @@ En 15 años hay 5475 días, bastó perderse 10 de esos días (días como el 24 d
 
 Desde Fintual le explicamos a nuestros usuarios que si no necesitaban la plata antes de 6 meses mejor no la movieran. Muchos inversionistas se mantuvieron y fuimos la AGF menos impactada por retiros del país, pero aún así algunos de nuestros clientes sucumbieron al pánico y terminaron “haciendo la pérdida”, pese a que sus horizontes de inversión eran de varios años.
 
-#### ¿El mercado podría seguir bajando?
+#### **¿El mercado podría seguir bajando?**
 
 No sabemos si vendrán otras caídas o si ya tocamos el piso. Nadie sabe eso. El punto es que no tienes que preocuparte de predecir eso, sino que de **mantenerte invirtiendo consistentemente en lugar de tratar de predecir el futuro**.
 
-#### Tratar de _achuntarle_ al momento justo no funciona
+#### **Tratar de _achuntarle_ al momento justo no funciona**
 
 Y te puede salir muy caro intentarlo. Si realmente crees que puedes ganarle al mercado consistentemente tal vez deberías intentar invertir dinero propio en una corredora y ver en persona lo difícil que puede resultar hacerlo. Lo divertido es que los estudios muestran que incluso los inversionistas profesionales pierden contra la estrategia de mantenerse. En promedio, los mercados financieros suben en el tiempo, lo cual implica que en general es una mala estrategia estar fuera.
 
