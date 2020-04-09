@@ -17,7 +17,7 @@ Los mercados financieros son extremadamente impredecibles en el corto plazo. A i
 
 Es imposible saber cuándo es mejor empezar a invertir.
 
-**Lejos la mejor estrategia es invertir regularmente una parte de tu plata pensando en recién ver retornos en más de 3 años. Y mantenerte en el plan sin importar lo que pase.**
+**La mejor estrategia es invertir regularmente una parte de tu plata pensando en recién ver retornos en más de 3 años. Y mantenerte en el plan sin importar lo que pase.**
 
   
 ¿Guerra mundial? Sigues invirtiendo.
