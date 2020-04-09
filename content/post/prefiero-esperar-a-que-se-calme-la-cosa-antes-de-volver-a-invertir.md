@@ -46,7 +46,7 @@ La historia muestra que algunos de los mejores días del mercado ocurren poco de
 
 En 15 años hay 5.475 días. Bastó perderse 10 de esos días (como el 24 de marzo de 2020) para ganar **la mitad de lo que gana el que se mantuvo siempre invertido!**
 
-Desde Fintual le explicamos a nuestros usuarios que si no necesitaban la plata antes de 6 meses mejor no la movieran. Muchos inversionistas se mantuvieron y fuimos la AGF menos impactada por retiros del país, pero aún así algunos de nuestros clientes sucumbieron al pánico y terminaron “haciendo la pérdida”, pese a que sus horizontes de inversión eran de varios años.
+Desde Fintual le explicamos a nuestros usuarios que [si no necesitaban la plata antes de 6 meses](https://edu.fintual.cl/que-hacer-cuando-cae-tu-inversion/) mejor no la movieran. Muchos inversionistas se mantuvieron y fuimos la AGF menos impactada por retiros del país, pero aun así algunos de nuestros clientes sucumbieron al pánico y terminaron “haciendo la pérdida”, pese a que sus horizontes de inversión eran de varios años.
 
 #### **¿El mercado podría seguir bajando?**
 
