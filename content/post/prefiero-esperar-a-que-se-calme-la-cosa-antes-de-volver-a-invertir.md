@@ -56,7 +56,7 @@ No sabemos si vendrán otras caídas o si ya tocamos el piso. Nadie sabe eso. El
 
 Y te puede salir muy caro intentarlo. Si realmente crees que puedes ganarle al mercado consistentemente tal vez deberías intentar invertir dinero propio en una corredora y ver en persona lo difícil que puede resultar hacerlo. Lo divertido es que los estudios muestran que incluso los inversionistas profesionales pierden contra la estrategia de mantenerse. En promedio, los mercados financieros suben en el tiempo, lo cual implica que en general es una mala estrategia estar fuera.
 
-Perderse unos pocos días clave puede tener un impacto muy negativo en tus retornos, así que en lugar de tratar de _achuntarle_ al momento justo de entrar o salir debieras enfocarte en las cosas que sí puedes controlar: minimizar las comisiones y maximizar la diversificación. Estamos en un momento muy volátil y es cuando es más necesario mantener la calma, ignorar las noticias e invertir pensando en el largo plazo.
+Perderse unos pocos días clave puede tener un impacto muy negativo en tus retornos, así que en lugar de tratar de _achuntarle_ al momento justo de entrar o salir debieras enfocarte en las cosas que sí puedes controlar: **minimizar las comisiones y maximizar la diversificación**. Estamos en un momento muy volátil y es cuando es más necesario mantener la calma, ignorar las noticias e invertir pensando en el largo plazo.
 
 {{% prueba_fintual
 utmcontent="prefiero_esperar"
