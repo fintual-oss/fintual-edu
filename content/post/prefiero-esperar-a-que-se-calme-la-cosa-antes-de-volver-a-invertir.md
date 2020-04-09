@@ -44,7 +44,7 @@ La historia muestra que algunos de los mejores días del mercado ocurren poco de
 
 <div style="text-align:center"> <figure> <img src="/uploads/Resultado de invertir $10 millones en el S&P500 durante 15 años entre 2005 y 2019   (1).png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Fuente: <a target="_blank" href="[https://www.putnam.com/literature/pdf/II508-85e97e7dc6cd90e0c0cc2e1eeccdf00d.pdf](https://www.putnam.com/literature/pdf/II508-85e97e7dc6cd90e0c0cc2e1eeccdf00d.pdf "https://www.putnam.com/literature/pdf/II508-85e97e7dc6cd90e0c0cc2e1eeccdf00d.pdf")">Putnam Investments</a></i></figcaption> </figure> </div>
 
-En 15 años hay 5.475 días. Bastó perderse 10 de esos días (como el 24 de marzo de 2020) para ganar **la mitad de lo que gana el que se mantuvo siempre invertido!**
+En 15 años hay 5.475 días. Bastó perderse 10 de esos días (como el 24 de marzo de 2020) para ganar **la mitad de lo que ganó el que mantuvo su inversión!**
 
 Desde Fintual le explicamos a nuestros usuarios que [si no necesitaban la plata antes de 6 meses](https://edu.fintual.cl/que-hacer-cuando-cae-tu-inversion/) mejor no la movieran. Muchos inversionistas se mantuvieron y fuimos la AGF menos impactada por retiros del país, pero aun así algunos de nuestros clientes sucumbieron al pánico y terminaron “haciendo la pérdida”, pese a que sus horizontes de inversión eran de varios años.
 
