@@ -52,3 +52,5 @@ Supongamos necesitas invertir en un periodo corto, unos 6 meses, una cantidad de
 * Invertir en un depósito a plazo de un banco a 6 meses
 
 Sabemos que hay otras combinaciones de plazos, pero estos casos sirven para resumir las ideas principales. Las tres alternativas, aunque similares a primera vista, son bien distintas. Resumimos las ventajas, desventajas y otras particularidades de cada opción en esta tabla:
+
+XXX
