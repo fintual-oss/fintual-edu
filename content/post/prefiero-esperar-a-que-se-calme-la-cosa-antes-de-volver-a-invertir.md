@@ -38,7 +38,7 @@ Tú que quieres esperar “a que se calme la cosa”, ¿cómo vas a saber cuánd
 
 La historia muestra que algunos de los mejores días del mercado ocurren poco después de los días malos. Un estudio de Putnam Investments muestra que al haberte mantenido invertido durante los últimos 15 años habrías ganado el doble que alguien que se perdió solo los 10 mejores días:
 
-<div style="text-align:center"> <figure> <img src="/uploads/Resultado de invertir $10 millones en el S&P500 durante 15 años entre 2005 y 2019   (1).png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>_Fuente:_ <a target="_blank" href="[https://www.putnam.com/literature/pdf/II508-85e97e7dc6cd90e0c0cc2e1eeccdf00d.pdf](https://www.putnam.com/literature/pdf/II508-85e97e7dc6cd90e0c0cc2e1eeccdf00d.pdf "https://www.putnam.com/literature/pdf/II508-85e97e7dc6cd90e0c0cc2e1eeccdf00d.pdf")">Putnam Investments</a></i></figcaption> </figure> </div>
+<div style="text-align:center"> <figure> <img src="/uploads/Resultado de invertir $10 millones en el S&P500 durante 15 años entre 2005 y 2019   (1).png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Fuente: <a target="_blank" href="[https://www.putnam.com/literature/pdf/II508-85e97e7dc6cd90e0c0cc2e1eeccdf00d.pdf](https://www.putnam.com/literature/pdf/II508-85e97e7dc6cd90e0c0cc2e1eeccdf00d.pdf "https://www.putnam.com/literature/pdf/II508-85e97e7dc6cd90e0c0cc2e1eeccdf00d.pdf")">Putnam Investments</a></i></figcaption> </figure> </div>
 
 En 15 años hay 5475 días, bastó perderse 10 de esos días (días como el 24 de marzo de 2020) para ganar **la mitad de lo que gana el que se mantuvo siempre invertido!**
 
