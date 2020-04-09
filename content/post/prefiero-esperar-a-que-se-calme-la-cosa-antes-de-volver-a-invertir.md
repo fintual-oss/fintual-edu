@@ -22,7 +22,7 @@ Es imposible saber cuándo es mejor empezar a invertir.
 
 ¿Pandemia? Sigues invirtiendo.
 
-Si paraste de invertir en marzo porque “prefieres esperar a que se calme la cosa” o “para esperar el momento ideal para volver a entrar y agarrar el rebote” lo más probable es que te perdiste un tremendo día de rentabilidad.
+Si paraste de invertir en marzo porque prefieres ”esperar a que se calme la cosa” o para ”esperar el momento ideal para entrar y agarrar el rebote” lo más probable es que te perdiste un tremendo día de rentabilidad.
 
 <br>
 
