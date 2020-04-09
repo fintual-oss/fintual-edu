@@ -41,7 +41,7 @@ Los fondos _money market_ son fondos de muy bajo riesgo, cuya cartera se compone
 
 Esto permite ofrecer una alternativa de inversión de muy bajo riesgo, pero con la gracia de tener **liquidez inmediata**. Es decir, puedes rescatar el dinero en cualquier momento y tenerlo en tu cuenta en unos pocos días. 
 
-Esta cualidad no la tienen los depósitos a plazos, **ya que en general no tienes la opción de retirar tu dinero antes del plazo del vencimiento del depósito**, y sólo en algunos pocos bancos, bajo ciertos casos calificados de urgencia y haciendo el trámite presencial en oficinas o por medio de tu ejecutivo de cuentas puedes lograr anticipar el pago, perdiendo los intereses acumulados.
+Esta cualidad no la tienen los DAP, **ya que en general no tienes la opción de retirar tu dinero antes del plazo del vencimiento del depósito**. Sólo en algunos bancos, bajo ciertos casos calificados de urgencia y haciendo el trámite presencial en oficinas o por medio de tu ejecutivo de cuentas puedes lograr anticipar el pago, pero perdiendo los intereses acumulados.
 
 Entonces, ¿cómo invierto en una opción muy segura en este ambiente de bajas tasas?
 
