@@ -26,9 +26,9 @@ Si paraste de invertir en marzo porque “prefieres esperar a que se calme la co
 
 <br>
 
-> “Pero es que seguirá cayendo”
+> ##### “Pero es que seguirá cayendo”
 
-Eso nadie lo sabe
+Eso nadie lo sabe.
 
 <br>
 
