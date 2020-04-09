@@ -36,15 +36,15 @@ Eso nadie lo sabe.
 
 Todos los días el mercado hace su mejor estimación de cómo se viene el futuro y los precios están de acuerdo a eso. Cuando dices “seguirá bajando” no estás diciendo que se vienen tiempos difíciles para la economía, con mucho desempleo y empresas quebrando, eso lo sabemos todos (y el mercado también).
 
-Cuando dices que “seguirá bajando” lo que en realidad estás diciendo es que **más adelante el mercado será aún más pesimista sobre el futuro de lo que es hoy**. ¿Se entiende la diferencia? El mercado ya tomó en cuenta los titulares terribles de los diarios y las cifras de desempleo que viste.
+Cuando dices que _seguirá bajando_ lo que en realidad estás diciendo es que más adelante el mercado será aún más pesimista sobre el futuro de lo que es hoy. **¿Se entiende la diferencia? El mercado ya tomó en cuenta los titulares terribles de los diarios y las cifras de desempleo que viste.**
 
-Tú que quieres esperar “a que se calme la cosa”, ¿cómo vas a saber cuándo entrar de vuelta?
+Tú que quieres esperar a que “se calme la cosa”, ¿cómo vas a saber cuándo entrar de vuelta?
 
-La historia muestra que algunos de los mejores días del mercado ocurren poco después de los días malos. Un estudio de Putnam Investments muestra que al haberte mantenido invertido durante los últimos 15 años habrías ganado el doble que alguien que se perdió solo los 10 mejores días:
+La historia muestra que algunos de los mejores días del mercado ocurren poco después de los días malos. Un estudio de Putnam Investments muestra que alguien que mantuvo su inversión durante los últimos 15 años ganó el doble que alguien que se perdió sólo los 10 mejores días:
 
 <div style="text-align:center"> <figure> <img src="/uploads/Resultado de invertir $10 millones en el S&P500 durante 15 años entre 2005 y 2019   (1).png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Fuente: <a target="_blank" href="[https://www.putnam.com/literature/pdf/II508-85e97e7dc6cd90e0c0cc2e1eeccdf00d.pdf](https://www.putnam.com/literature/pdf/II508-85e97e7dc6cd90e0c0cc2e1eeccdf00d.pdf "https://www.putnam.com/literature/pdf/II508-85e97e7dc6cd90e0c0cc2e1eeccdf00d.pdf")">Putnam Investments</a></i></figcaption> </figure> </div>
 
-En 15 años hay 5.475 días, bastó perderse 10 de esos días (como el 24 de marzo de 2020) para ganar **la mitad de lo que gana el que se mantuvo siempre invertido!**
+En 15 años hay 5.475 días. Bastó perderse 10 de esos días (como el 24 de marzo de 2020) para ganar **la mitad de lo que gana el que se mantuvo siempre invertido!**
 
 Desde Fintual le explicamos a nuestros usuarios que si no necesitaban la plata antes de 6 meses mejor no la movieran. Muchos inversionistas se mantuvieron y fuimos la AGF menos impactada por retiros del país, pero aún así algunos de nuestros clientes sucumbieron al pánico y terminaron “haciendo la pérdida”, pese a que sus horizontes de inversión eran de varios años.
 
