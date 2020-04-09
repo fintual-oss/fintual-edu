@@ -23,11 +23,10 @@ Es imposible saber cuándo es mejor empezar a invertir.
 ¿Pandemia? Sigues invirtiendo.
 
 Si paraste de invertir en marzo porque “prefieres esperar a que se calme la cosa” o “para esperar el momento ideal para volver a entrar y agarrar el rebote” lo más probable es que te perdiste un tremendo día de rentabilidad.
-
-> ##### “Pero es que va a seguir cayendo”
-
+<br>
+> “Pero es que va a seguir cayendo”
 Eso nadie lo sabe.
-
+<br>
 #### **Proyecciones y predicciones**
 
 Todos los días el mercado hace su mejor estimación de cómo se viene el futuro y los precios están de acuerdo a eso. Cuando dices “seguirá bajando” no estás diciendo que se vienen tiempos difíciles para la economía, con mucho desempleo y empresas quebrando, eso lo sabemos todos (y el mercado también).
