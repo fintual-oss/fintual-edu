@@ -22,7 +22,7 @@ Esta tasa de interés crece si lo dejas más días, no sólo porque son más dí
 
 #### **Ok, pero ¿por qué están tan bajas las tasas de interés?**
 
-El motivo principal es que el Banco Central de Chile bajó la tasa de interés de referencia o la Tasa de Política Monetaria (TPM) a un nivel de 0,50% anual. **Esto significa que el Banco Central crea los incentivos necesarios para que los bancos se presten dinero entre ellos o pidan prestado dinero al Banco Central (por un día) a tasas de interés que estén en una ventana cerca del 0,50% anual**.
+La causa principal es que el Banco Central de Chile bajó la tasa de interés de referencia o la Tasa de Política Monetaria (TPM) a un nivel de 0,50% anual. **Esto significa que el Banco Central crea los incentivos necesarios para que los bancos se presten dinero entre ellos o pidan prestado dinero al Banco Central (por un día) a tasas de interés que estén en una ventana cerca del 0,50% anual**.
 
 El motivo para bajar la TPM está contenido en la misión del Banco Central, que es cuidar que la inflación esté en un rango alrededor del 3% anual y así resguardar la estabilidad financiera. 
 
@@ -37,7 +37,11 @@ Esto es aún más notorio en los bancos grandes de “buena clasificación credi
 
 #### **Una alternativa a los depósitos a plazo: los fondos _money market_**
 
-Los fondos _money market_ son fondos de muy bajo riesgo, cuya cartera se compone principalmente por depósitos a plazos de varios bancos, y algunas veces uno que otro bono de empresa o bono bancario de muy corta duración. Esto permite ofrecer una alternativa de inversión de muy bajo riesgo, pero con la gracia de tener liquidez inmediata, es decir, se puede rescatar el dinero en cualquier momento y tener el dinero en tu cuenta en unos pocos días. Esta cualidad no la tienen los depósitos a plazos, **ya que en general no tienes la opción de retirar tu dinero antes del plazo del vencimiento del depósito**, y sólo en algunos pocos bancos, bajo ciertos casos calificados de urgencia y haciendo el trámite presencial en oficinas o por medio de tu ejecutivo de cuentas puedes lograr anticipar el pago, perdiendo los intereses acumulados.
+Los fondos _money market_ son fondos de muy bajo riesgo, cuya cartera se compone principalmente por depósitos a plazos de varios bancos, y algunas veces uno que otro bono de empresa o bono bancario de muy corta duración. 
+
+Esto permite ofrecer una alternativa de inversión de muy bajo riesgo, pero con la gracia de tener **liquidez inmediata**. Es decir, puedes rescatar el dinero en cualquier momento y tenerlo en tu cuenta en unos pocos días. 
+
+Esta cualidad no la tienen los depósitos a plazos, **ya que en general no tienes la opción de retirar tu dinero antes del plazo del vencimiento del depósito**, y sólo en algunos pocos bancos, bajo ciertos casos calificados de urgencia y haciendo el trámite presencial en oficinas o por medio de tu ejecutivo de cuentas puedes lograr anticipar el pago, perdiendo los intereses acumulados.
 
 Entonces, ¿cómo invierto en una opción muy segura en este ambiente de bajas tasas?
 
