@@ -53,8 +53,6 @@ Supongamos necesitas invertir en un periodo corto, unos 6 meses, una cantidad de
 
 Sabemos que hay otras combinaciones de plazos, pero estos casos sirven para resumir las ideas principales. Las tres alternativas, aunque similares a primera vista, son bien distintas. Resumimos las ventajas, desventajas y otras particularidades de cada opción en esta tabla:
 
-![](/uploads/3opciones-1.png)
-
 #### **Cualquier alternativa que rente más que un depósito a plazo tiene más riesgo**
 
 En inversiones no existen las recetas mágicas ni las balas de plata. Así que si algo renta mucho más que un depósito a plazo o un fondo _money market_, **de seguro no es seguro y contiene riesgos mayores que estos**.
