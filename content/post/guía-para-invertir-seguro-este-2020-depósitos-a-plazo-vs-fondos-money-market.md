@@ -54,3 +54,21 @@ Supongamos necesitas invertir en un periodo corto, unos 6 meses, una cantidad de
 Sabemos que hay otras combinaciones de plazos, pero estos casos sirven para resumir las ideas principales. Las tres alternativas, aunque similares a primera vista, son bien distintas. Resumimos las ventajas, desventajas y otras particularidades de cada opción en esta tabla:
 
 XXX
+
+#### C**ualquier alternativa que rente más que un depósito a plazo tiene más riesgo**
+
+En inversiones no existen las recetas mágicas ni las balas de plata. Así que si algo renta mucho más que un depósito a plazo o un fondo _money market_, **de seguro no es seguro y contiene riesgos mayores que estos**.
+
+#### **Oye, ¿y Fintual tiene un _money market_?**
+
+Sí, Fintual tiene un fondo tipo _money market_ llamado **Fondo Mutuo Very Conservative Streep**. Más información de los fondos y su rentabilidad la puedes encontrar [en este link](https://fintual.cl/numeros).
+
+\* Banco de Chile y Banco Santander, respectivamente. Tasa simulación por internet banca personas a 7 días realizado el día 07-04-2020.
+
+\** Según el artículo [https://www.latercera.com/pulso-trader/noticia/money-market-versus-deposito-a-plazo-que-le-conviene-mas-a-un-inversionista-conservador/QOEQGIXLFJC2DAAKLXJRP6XLJE/](https://www.latercera.com/pulso-trader/noticia/money-market-versus-deposito-a-plazo-que-le-conviene-mas-a-un-inversionista-conservador/QOEQGIXLFJC2DAAKLXJRP6XLJE/ "https://www.latercera.com/pulso-trader/noticia/money-market-versus-deposito-a-plazo-que-le-conviene-mas-a-un-inversionista-conservador/QOEQGIXLFJC2DAAKLXJRP6XLJE/")
+
+\*** Banco Santander, tasa simulación por internet banca personas a 180 días realizado el día 07-04-2020.
+
+\**** Ver detalles en [http://www.cmfchile.cl/portal/principal/605/w3-article-26850.html](http://www.cmfchile.cl/portal/principal/605/w3-article-26850.html "http://www.cmfchile.cl/portal/principal/605/w3-article-26850.html")
+
+\***** Salvo algunos bancos que permiten rescate anticipado en casos calificados por medio de trámite con ejecutivo de cuentas.
