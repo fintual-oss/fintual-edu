@@ -82,3 +82,6 @@ Fuentes:
 \**** Ver detalles en [http://www.cmfchile.cl/portal/principal/605/w3-article-26850.html](http://www.cmfchile.cl/portal/principal/605/w3-article-26850.html "http://www.cmfchile.cl/portal/principal/605/w3-article-26850.html")
 
 \***** Salvo algunos bancos que permiten rescate anticipado en casos calificados por medio de trámite con ejecutivo de cuentas.
+
+* _Infórmate de las características esenciales de la inversión en -estos fondos mutuos. Están en sus reglamentos internos, que puedes ver en la CMF y en_ [_fintual.cl/docs_](http://fintual.cl/docs).
+* _La rentabilidad es fluctuante, por lo que nada garantiza que las rentabilidades pasadas se mantengan en el futuro._
