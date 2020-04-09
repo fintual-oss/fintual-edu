@@ -78,5 +78,3 @@ Fuentes:
 [https://us.spindices.com/spiva/#/reports](https://us.spindices.com/spiva/#/reports "https://us.spindices.com/spiva/#/reports")
 
 [https://www.elmercurio.com/Inversiones/Noticias/Analisis/2020/04/06/Las-AGF-que-mas-crecieron-en-marzo.aspx](https://www.elmercurio.com/Inversiones/Noticias/Analisis/2020/04/06/Las-AGF-que-mas-crecieron-en-marzo.aspx "https://www.elmercurio.com/Inversiones/Noticias/Analisis/2020/04/06/Las-AGF-que-mas-crecieron-en-marzo.aspx")
-
-_Infórmate de las características esenciales de la inversión en estos fondos mutuos. Están en sus reglamentos internos, que puedes ver en la CMF y en_ [_fintual.cl/docs_](http://fintual.cl/docs).
