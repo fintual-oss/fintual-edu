@@ -45,10 +45,10 @@ Esta cualidad no la tienen los DAP, **ya que en general no tienes la opción de 
 
 #### **Entonces, ¿cómo invierto en una opción segura en este ambiente de bajas tasas?**
 
-Supongamos necesitas invertir en un periodo corto, unos 6 meses, una cantidad de dinero en algo “muy seguro”. Tenemos 3 de estrategias de bajo riesgo distintas:
+Supongamos necesitas invertir en un periodo corto, unos 6 meses, una cantidad de dinero en algo “muy seguro”. Vamos a analizar tres estrategias de bajo riesgo distintas:
 
 * Invertir en un depósito a plazo de 7 días de un banco, renovándolo hasta llegar a los seis meses (7 días es el menor plazo que un banco emite depósitos)
 * Invertir en un fondo _money market_
 * Invertir en un depósito a plazo de un banco a 6 meses
 
-Obviamente hay otras combinaciones de plazos, pero estos tres casos resumen básicamente las ideas principales. Las tres alternativas, aunque similares a primera vista, son bastante distintas, así que preferimos mostrarte una tabla con las ventajas, desventajas y otras particularidades de cada opción:
+Sabemos que hay otras combinaciones de plazos, pero estos casos sirven para resumir las ideas principales. Las tres alternativas, aunque similares a primera vista, son bastante distintas, así que preferimos mostrarte una tabla con las ventajas, desventajas y otras particularidades de cada opción:
