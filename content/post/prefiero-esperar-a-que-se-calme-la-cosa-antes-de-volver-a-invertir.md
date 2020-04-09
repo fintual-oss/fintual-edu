@@ -37,4 +37,29 @@ Todos los días el mercado hace su mejor estimación de cómo se viene el futuro
 
 Tú que quieres esperar “a que se calme la cosa”, ¿cómo vas a saber cuándo entrar de vuelta?
 
-La historia muestra que algunos de los mejores días del mercado ocurren poco después de los días malos. Un estudio de ![](/uploads/Resultado de invertir $10 millones en el S&P500 durante 15 años entre 2005 y 2019   (1).png) muestra que al haberte mantenido invertido durante los últimos 15 años habrías ganado el doble que alguien que se perdió solo los 10 mejores días:
+La historia muestra que algunos de los mejores días del mercado ocurren poco después de los días malos. Un estudio de Putnam Investments muestra que al haberte mantenido invertido durante los últimos 15 años habrías ganado el doble que alguien que se perdió solo los 10 mejores días:
+
+<div style="text-align:center"> <figure> <img src="/uploads/Resultado de invertir $10 millones en el S&P500 durante 15 años entre 2005 y 2019   (1).png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>_Fuente: Putnam Investment_ <a target="_blank" href="[https://www.putnam.com/literature/pdf/II508-85e97e7dc6cd90e0c0cc2e1eeccdf00d.pdf](https://www.putnam.com/literature/pdf/II508-85e97e7dc6cd90e0c0cc2e1eeccdf00d.pdf "https://www.putnam.com/literature/pdf/II508-85e97e7dc6cd90e0c0cc2e1eeccdf00d.pdf")">Putnam Investments</a></i></figcaption> </figure> </div>
+
+
+En 15 años hay 5475 días, bastó perderse 10 de esos días (días como el 24 de marzo de 2020) para ganar **la mitad de lo que gana el que se mantuvo siempre invertido!**
+
+Desde Fintual le explicamos a nuestros usuarios que si no necesitaban la plata antes de 6 meses mejor no la movieran. Muchos inversionistas se mantuvieron y fuimos la AGF menos impactada por retiros del país, pero aún así algunos de nuestros clientes sucumbieron al pánico y terminaron “haciendo la pérdida”, pese a que sus horizontes de inversión eran de varios años.
+
+#### ¿El mercado podría seguir bajando?
+
+No sabemos si vendrán otras caídas o si ya tocamos el piso. Nadie sabe eso. El punto es que no tienes que preocuparte de predecir eso, sino que de **mantenerte invirtiendo consistentemente en lugar de tratar de predecir el futuro**.
+
+#### Tratar de _achuntarle_ al momento justo no funciona
+
+Y te puede salir muy caro intentarlo. Si realmente crees que puedes ganarle al mercado consistentemente tal vez deberías intentar invertir dinero propio en una corredora y ver en persona lo difícil que puede resultar hacerlo. Lo divertido es que los estudios muestran que incluso los inversionistas profesionales pierden contra la estrategia de mantenerse. En promedio, los mercados financieros suben en el tiempo, lo cual implica que en general es una mala estrategia estar fuera.
+
+Perderse unos pocos días clave puede tener un impacto muy negativo en tus retornos, así que en lugar de tratar de achuntarle al momento justo de entrar o salir debieras enfocarte en las cosas que sí puedes controlar: minimizar las comisiones y maximizar la diversificación. Estamos en un momento muy volátil y es cuando es más necesario mantener la calma, ignorar las noticias e invertir pensando en el largo plazo.
+
+Fuentes:
+
+[https://www.putnam.com/2020volatility/](https://www.putnam.com/2020volatility/ "https://www.putnam.com/2020volatility/")
+
+[https://blog.wealthfront.com/dont-miss-the-best-market-days/](https://blog.wealthfront.com/dont-miss-the-best-market-days/ "https://blog.wealthfront.com/dont-miss-the-best-market-days/")
+
+[https://us.spindices.com/spiva/#/reports](https://us.spindices.com/spiva/#/reports "https://us.spindices.com/spiva/#/reports")
