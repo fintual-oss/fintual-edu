@@ -55,6 +55,15 @@ Y te puede salir muy caro intentarlo. Si realmente crees que puedes ganarle al m
 
 Perderse unos pocos días clave puede tener un impacto muy negativo en tus retornos, así que en lugar de tratar de _achuntarle_ al momento justo de entrar o salir debieras enfocarte en las cosas que sí puedes controlar: minimizar las comisiones y maximizar la diversificación. Estamos en un momento muy volátil y es cuando es más necesario mantener la calma, ignorar las noticias e invertir pensando en el largo plazo.
 
+{{% prueba_fintual
+utmcontent="prefiero_esperar"
+card_title="Prueba Fintual"
+card_button="Empezar" %}}
+
+Más inteligente que dejar tu plata en el banco.
+
+{{% /prueba_fintual %}}
+
 <hr>
 
 Fuentes:
