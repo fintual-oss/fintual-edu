@@ -43,9 +43,9 @@ Esto permite ofrecer una alternativa de inversión de muy bajo riesgo, pero con 
 
 Esta cualidad no la tienen los DAP, **ya que en general no tienes la opción de retirar tu dinero antes del plazo del vencimiento del depósito**. Sólo en algunos bancos, bajo ciertos casos calificados de urgencia y haciendo el trámite presencial en oficinas o por medio de tu ejecutivo de cuentas puedes lograr anticipar el pago, pero perdiendo los intereses acumulados.
 
-Entonces, ¿cómo invierto en una opción muy segura en este ambiente de bajas tasas?
+#### **Entonces, ¿cómo invierto en una opción segura en este ambiente de bajas tasas?**
 
-Supongamos necesitas invertir en un periodo corto, digamos unos 6 meses, una cantidad de dinero en algo “muy seguro”. Vamos a dar un ejemplo de 3 tipos de estrategias de bajo riesgo distintas:
+Supongamos necesitas invertir en un periodo corto, unos 6 meses, una cantidad de dinero en algo “muy seguro”. Tenemos 3 de estrategias de bajo riesgo distintas:
 
 * Invertir en un depósito a plazo de 7 días de un banco, renovándolo hasta llegar a los seis meses (7 días es el menor plazo que un banco emite depósitos)
 * Invertir en un fondo _money market_
