@@ -54,6 +54,8 @@ Y te puede salir muy caro intentarlo. Si realmente crees que puedes ganarle al m
 
 Perderse unos pocos días clave puede tener un impacto muy negativo en tus retornos, así que en lugar de tratar de _achuntarle_ al momento justo de entrar o salir debieras enfocarte en las cosas que sí puedes controlar: minimizar las comisiones y maximizar la diversificación. Estamos en un momento muy volátil y es cuando es más necesario mantener la calma, ignorar las noticias e invertir pensando en el largo plazo.
 
+<hr>
+
 Fuentes:
 
 [https://www.putnam.com/2020volatility/](https://www.putnam.com/2020volatility/ "https://www.putnam.com/2020volatility/")
