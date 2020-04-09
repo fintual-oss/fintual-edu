@@ -10,7 +10,7 @@ title = "Guía para invertir seguro este 2020: depósitos a plazo vs fondos mone
 url = "/dap-vs-mm"
 
 +++
-Las tasas de interés de los depósitos a plazo bancarios en Chile están súper bajas. Acá te explicamos qué significa, por qué están tan bajas y qué te conviene hacer al respecto.
+Las tasas de interés de los depósitos a plazo están súper bajas. Acá te explicamos qué significa, por qué están tan bajas y qué te conviene hacer al respecto.
 
 Si cotizaste un depósito a plazo en tu banco estos últimos días seguramente te llamó la atención que sus tasas de interés bajaron respecto a principios de año, o simplemente te llamó la atención lo bajo que están.
 
