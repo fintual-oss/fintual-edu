@@ -30,7 +30,7 @@ En este caso, dejar la tasa de interés baja ayuda a que el costo de financiamie
 
 Un efecto secundario de la baja de la TPM es que los depósitos a plazo de los bancos bajaron su tasa de interés, ya que los DAP son otra fuente de financiamiento del negocio bancario.
 
-> Cada vez que inviertes un depósito a plazo le prestas dinero al banco para que pueda realizar su negocio (el negocio principal de los bancos es que le prestas dinero al banco para que el banco se lo preste a otro). **Como el banco ahora puede pedir prestado más barato por otros lados, entonces bajan las tasas de los depósitos.** 
+> Cada vez que inviertes un depósito a plazo le prestas dinero al banco para que pueda realizar su negocio (el negocio principal de los bancos es que les prestes dinero para que ellos se lo presten a otro). **Como el banco ahora puede pedir prestado más barato por otros lados, entonces baja las tasas de los depósitos.** 
 
   
 Esto es aún más notorio en los bancos grandes de “buena clasificación crediticia”, es decir los bancos “más grandes y seguros”, que suelen tener tasas de depósitos menores.
