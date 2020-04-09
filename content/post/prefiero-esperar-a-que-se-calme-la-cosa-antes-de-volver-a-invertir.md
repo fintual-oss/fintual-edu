@@ -19,12 +19,10 @@ Es imposible saber cuándo es mejor empezar a invertir.
 
 **La mejor estrategia es invertir regularmente una parte de tu plata pensando en recién ver retornos en más de 3 años. Y mantenerte en el plan sin importar lo que pase.**
 
-  
 ¿Guerra mundial? Sigues invirtiendo.
 
 ¿Pandemia? Sigues invirtiendo.
 
-  
 Si paraste de invertir en marzo porque “prefieres esperar a que se calme la cosa” o “para esperar el momento ideal para volver a entrar y agarrar el rebote” lo más probable es que te perdiste un tremendo día de rentabilidad.
 
 > “Pero es que seguirá cayendo”
@@ -40,7 +38,6 @@ Tú que quieres esperar “a que se calme la cosa”, ¿cómo vas a saber cuánd
 La historia muestra que algunos de los mejores días del mercado ocurren poco después de los días malos. Un estudio de Putnam Investments muestra que al haberte mantenido invertido durante los últimos 15 años habrías ganado el doble que alguien que se perdió solo los 10 mejores días:
 
 <div style="text-align:center"> <figure> <img src="/uploads/Resultado de invertir $10 millones en el S&P500 durante 15 años entre 2005 y 2019   (1).png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>_Fuente: Putnam Investment_ <a target="_blank" href="[https://www.putnam.com/literature/pdf/II508-85e97e7dc6cd90e0c0cc2e1eeccdf00d.pdf](https://www.putnam.com/literature/pdf/II508-85e97e7dc6cd90e0c0cc2e1eeccdf00d.pdf "https://www.putnam.com/literature/pdf/II508-85e97e7dc6cd90e0c0cc2e1eeccdf00d.pdf")">Putnam Investments</a></i></figcaption> </figure> </div>
-
 
 En 15 años hay 5475 días, bastó perderse 10 de esos días (días como el 24 de marzo de 2020) para ganar **la mitad de lo que gana el que se mantuvo siempre invertido!**
 
