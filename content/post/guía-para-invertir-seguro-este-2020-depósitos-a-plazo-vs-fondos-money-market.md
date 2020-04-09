@@ -61,13 +61,17 @@ En inversiones no existen las recetas mágicas ni las balas de plata. Así que s
 
 #### **Oye, ¿y Fintual tiene un _money market_?**
 
-Sí, Fintual tiene un fondo tipo _money market_ llamado **Fondo Mutuo Very Conservative Streep**. Más información de los fondos y su rentabilidad la puedes encontrar [en este link](https://fintual.cl/numeros).
+Sí, se llama **Very Conservative Streep** y de cariño le decimos "Bajo el Colchón". Puedes encontrar más información de nuestros fondos y su rentabilidad [acá](https://www.fintual-charts.oscarestay.dev/).
 
-\* Banco de Chile y Banco Santander, respectivamente. Tasa simulación por internet banca personas a 7 días realizado el día 07-04-2020.
+<hr>
+
+Fuentes:
+
+\* Banco de Chile y Banco Santander, respectivamente. Tasa simulación por internet banca personas a 7 días realizado el día 07/04/2020.
 
 \** Según el artículo [https://www.latercera.com/pulso-trader/noticia/money-market-versus-deposito-a-plazo-que-le-conviene-mas-a-un-inversionista-conservador/QOEQGIXLFJC2DAAKLXJRP6XLJE/](https://www.latercera.com/pulso-trader/noticia/money-market-versus-deposito-a-plazo-que-le-conviene-mas-a-un-inversionista-conservador/QOEQGIXLFJC2DAAKLXJRP6XLJE/ "https://www.latercera.com/pulso-trader/noticia/money-market-versus-deposito-a-plazo-que-le-conviene-mas-a-un-inversionista-conservador/QOEQGIXLFJC2DAAKLXJRP6XLJE/")
 
-\*** Banco Santander, tasa simulación por internet banca personas a 180 días realizado el día 07-04-2020.
+\*** Banco Santander, tasa simulación por internet banca personas a 180 días realizado el día 07/04/2020.
 
 \**** Ver detalles en [http://www.cmfchile.cl/portal/principal/605/w3-article-26850.html](http://www.cmfchile.cl/portal/principal/605/w3-article-26850.html "http://www.cmfchile.cl/portal/principal/605/w3-article-26850.html")
 
