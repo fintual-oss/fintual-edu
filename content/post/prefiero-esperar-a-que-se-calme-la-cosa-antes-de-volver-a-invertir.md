@@ -30,7 +30,7 @@ Si paraste de invertir en marzo porque “prefieres esperar a que se calme la co
 
 Eso nadie lo sabe
 
-<br/>
+<br>
 
 #### **Proyecciones y predicciones**
 
