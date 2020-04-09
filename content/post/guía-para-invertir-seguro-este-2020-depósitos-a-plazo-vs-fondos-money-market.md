@@ -69,7 +69,7 @@ Más inteligente que dejar tu plata en el banco.
 
 {{% /prueba_fintual %}}
 
-* _Infórmate de las características esenciales de la inversión en -estos fondos mutuos. Están en sus reglamentos internos, que puedes ver en la CMF y en_ [_fintual.cl/docs_](http://fintual.cl/docs).
+* _Infórmate de las características esenciales de la inversión en estos fondos mutuos. Están en sus reglamentos internos, que puedes ver en la CMF y en_ [_fintual.cl/docs_](http://fintual.cl/docs).
 * _La rentabilidad es fluctuante, por lo que nada garantiza que las rentabilidades pasadas se mantengan en el futuro._
 
 <hr>
