@@ -66,7 +66,7 @@ Fuentes:
 
 \* Banco de Chile y Banco Santander, respectivamente. Tasa simulación por internet banca personas a 7 días realizado el día 07/04/2020.
 
-\** Según el artículo [https://www.latercera.com/pulso-trader/noticia/money-market-versus-deposito-a-plazo-que-le-conviene-mas-a-un-inversionista-conservador/QOEQGIXLFJC2DAAKLXJRP6XLJE/](https://www.latercera.com/pulso-trader/noticia/money-market-versus-deposito-a-plazo-que-le-conviene-mas-a-un-inversionista-conservador/QOEQGIXLFJC2DAAKLXJRP6XLJE/ "https://www.latercera.com/pulso-trader/noticia/money-market-versus-deposito-a-plazo-que-le-conviene-mas-a-un-inversionista-conservador/QOEQGIXLFJC2DAAKLXJRP6XLJE/")
+\** La Tercera: [https://www.latercera.com/pulso-trader/noticia/money-market-versus-deposito-a-plazo-que-le-conviene-mas-a-un-inversionista-conservador/QOEQGIXLFJC2DAAKLXJRP6XLJE/](https://www.latercera.com/pulso-trader/noticia/money-market-versus-deposito-a-plazo-que-le-conviene-mas-a-un-inversionista-conservador/QOEQGIXLFJC2DAAKLXJRP6XLJE/ "https://www.latercera.com/pulso-trader/noticia/money-market-versus-deposito-a-plazo-que-le-conviene-mas-a-un-inversionista-conservador/QOEQGIXLFJC2DAAKLXJRP6XLJE/")
 
 \*** Banco Santander, tasa simulación por internet banca personas a 180 días realizado el día 07/04/2020.
 
