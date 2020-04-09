@@ -31,9 +31,9 @@ Si paraste de invertir en marzo porque “prefieres esperar a que se calme la co
 
 Eso nadie lo sabe
 
-Proyecciones y predicciones
+#### Proyecciones y predicciones
 
-Todos los días el mercado hace su mejor estimación de cómo se viene el futuro y los precios están de acuerdo a eso. Cuando dices “seguirá bajando”, no estás diciendo que se vienen tiempos difíciles para la economía, con mucho desempleo y empresas quebrando, eso lo sabemos todos y el mercado también. Cuando dices que “seguirá bajando” lo que en realidad estás diciendo es que más adelante el mercado será aún más pesimista sobre el futuro de lo que es hoy. ¿Se entiende la diferencia? El mercado ya tomó en cuenta los titulares terribles de los diarios y las cifras de desempleo que viste.
+Todos los días el mercado hace su mejor estimación de cómo se viene el futuro y los precios están de acuerdo a eso. Cuando dices “seguirá bajando” no estás diciendo que se vienen tiempos difíciles para la economía, con mucho desempleo y empresas quebrando, eso lo sabemos todos (y el mercado también). Cuando dices que “seguirá bajando” lo que en realidad estás diciendo es que **más adelante el mercado será aún más pesimista sobre el futuro de lo que es hoy**. ¿Se entiende la diferencia? El mercado ya tomó en cuenta los titulares terribles de los diarios y las cifras de desempleo que viste.
 
 Tú que quieres esperar “a que se calme la cosa”, ¿cómo vas a saber cuándo entrar de vuelta?
 
