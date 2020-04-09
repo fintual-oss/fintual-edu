@@ -6,8 +6,8 @@ date = 2020-04-08T19:09:37Z
 description = "Es quizás uno de los errores más comunes. "
 hide = false
 image = "/uploads/waiting.jpeg"
-title = "Prefiero esperar a que se calme la cosa antes de volver a invertir"
-url = "prefiero-esperar-para-volver-a-invertir"
+title = "\"Prefiero esperar a que se calme la cosa antes de volver a invertir\""
+url = "/prefiero-esperar-para-volver-a-invertir"
 
 +++
 Es quizás uno de los errores más comunes.
@@ -59,3 +59,5 @@ Fuentes:
 [https://blog.wealthfront.com/dont-miss-the-best-market-days/](https://blog.wealthfront.com/dont-miss-the-best-market-days/ "https://blog.wealthfront.com/dont-miss-the-best-market-days/")
 
 [https://us.spindices.com/spiva/#/reports](https://us.spindices.com/spiva/#/reports "https://us.spindices.com/spiva/#/reports")
+
+[https://www.elmercurio.com/Inversiones/Noticias/Analisis/2020/04/06/Las-AGF-que-mas-crecieron-en-marzo.aspx](https://www.elmercurio.com/Inversiones/Noticias/Analisis/2020/04/06/Las-AGF-que-mas-crecieron-en-marzo.aspx "https://www.elmercurio.com/Inversiones/Noticias/Analisis/2020/04/06/Las-AGF-que-mas-crecieron-en-marzo.aspx")
