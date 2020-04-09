@@ -60,7 +60,7 @@ utmcontent="prefiero_esperar"
 card_title="Prueba Fintual"
 card_button="Empezar" %}}
 
-Más inteligente que dejar tu plata en el banco.
+Más inteligente que esperar a que se calme la cosa.
 
 {{% /prueba_fintual %}}
 
