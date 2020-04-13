@@ -1,22 +1,27 @@
 <!-- Begin Menu Navigation
 ================================================== -->
-<nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top mediumnavigation nav-down">
+<nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top mediumnavigation nav-down no-shadow">
     <div class="container pr-0">
         <!-- Begin Logo -->
         <a class="navbar-brand navbar-brand--fintual" href="{{ .Site.BaseURL }}/">
 
             {{ with .Site.Params.logo }}
-            <img src="{{ . | urlize | relURL }}" alt="logo">
-            <span class="navbar-brand__edu">Edu</span>
+            <img src="{{ . | urlize | relURL }}" alt="logo" class="logo-img">
             {{ else }}
-            <span style="font-family:Righteous;">{{.Site.Title}}</span>
+            <span>{{.Site.Title}}</span>
             {{ end }}
         </a>
         <!-- End Logo -->
 
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMediumish" aria-controls="navbarSupportedContent"
             aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMediumish" aria-controls="navbarSupportedContent"
+            aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggle__icon-bar navbar-toggle__icon-bar--first"></span>
+            <span class="navbar-toggle__icon-bar navbar-toggle__icon-bar--second"></span>
+            <span class="navbar-toggle__icon-bar navbar-toggle__icon-bar--third"></span>  
+            
+        </button>
         </button>
 
         <!-- Begin Menu -->
@@ -28,8 +33,8 @@
                     <a class="nav-link" href="{{ "/categories/" | relLangURL }}{{ $name | urlize }}">{{ $name }}</a>
                 </li>
               {{ end }}
-              <li class="nav-item">
-                  <a class="nav-link nav-link--return" href="https://fintual.cl">ir a fintual</a>
+              <li class="nav-item nav-item--return">
+                  <a class="nav-link nav-link--return ftl-btn no-btn" href="https://fintual.cl">Ir a fintual</a>
               </li>
             </ul>
         </div>
