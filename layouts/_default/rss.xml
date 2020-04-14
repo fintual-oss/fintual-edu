@@ -41,8 +41,8 @@
       {{ with .Site.Author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
       <guid>{{ .Permalink }}</guid>
       <readingTime>{{ .ReadingTime }}</readingTime>
-      <description>{{ .Summary | html }}</description>
-      <content>{{ .Content | html }}</content>
+      <description>{{ .Summary | htmlUnescape }}</description>
+      <content>{{ .Content | htmlUnescape }}</content>
     </item>
     {{ end }}
   </channel>
