@@ -27,7 +27,18 @@ Cuando el dólar sube es natural que muchos productos importados comiencen a cos
 
 Lástima que ya no existen. Los depósitos a plazo en UF están tan casi extintos como los dinosaurios.
 
-![](/uploads/dinosaurio.gif)
+<div style="text-align:center">
+
+<figure>
+
+<img src="/uploads/dinosaurio.gif">
+
+<em> Los únicos dinosaurios que quedan </em>
+
+</figure>
+
+</div>
+
 
 Y no es raro que muchos bancos simplemente ya no los emitan. Para emitirlos, como las tasas están tan bajas y la inflación no tanto, tendrían que emitirlos con tasa negativa en UF, algo que prefieren no hacer.
 
