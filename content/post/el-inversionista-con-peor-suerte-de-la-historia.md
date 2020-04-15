@@ -6,7 +6,7 @@ date = 2020-04-15T23:45:29Z
 description = ""
 draft = true
 hide = false
-image = ""
+image = "/uploads/gatonegro.jpeg"
 title = "El inversionista con peor suerte de la historia"
 url = "/el-inversionista-con-peor-suerte-de-la-historia"
 
