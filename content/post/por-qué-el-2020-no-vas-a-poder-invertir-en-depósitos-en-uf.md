@@ -38,7 +38,6 @@ Lástima que ya no existen. Los depósitos a plazo en UF están tan casi extinto
 
 </div>
 
-
 Y no es raro que muchos bancos simplemente ya no los emitan. Para emitirlos, como las tasas están tan bajas y la inflación no tanto, tendrían que emitirlos con tasa negativa en UF, algo que prefieren no hacer.
 
 #### ¿Tasa negativa en UF?
@@ -59,3 +58,12 @@ Por lo tanto, cualquier cosa que rente más que la UF no puede ser un depósito 
 Este “exceso de riesgo” puede ser riesgo de crédito (o de ”no pago”), riesgo de mercado (que depende de la volatilidad normal del mercado) o una combinación de estos y otros más. Como sea, necesariamente tiene más riesgos.
 
 **La moraleja de la historia es que hoy nada que rente como la UF o más está libre de riesgo**. No al menos por un buen tiempo y hasta que suban las tasas de interés.
+
+{{% prueba_fintual
+utmcontent="dap_en_uf"
+card_title="Prueba Fintual"
+card_button="Empezar" %}}
+
+Mejor que tratar de invertir en UF este 2020.
+
+{{% /prueba_fintual %}}
