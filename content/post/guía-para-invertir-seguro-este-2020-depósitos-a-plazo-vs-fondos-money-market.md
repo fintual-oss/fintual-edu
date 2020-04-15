@@ -5,7 +5,7 @@ categories = ["educación financiera"]
 date = 2020-04-09T04:29:15Z
 description = "Por si andas con ganas de guardar tu plata debajo del colchón."
 hide = false
-image = "/uploads/debajodelcolchonnn.jpeg"
+image = "/uploads/colchonpesadilla.png"
 title = "Guía para invertir seguro este 2020: depósitos a plazo vs fondos money market"
 url = "/dap-vs-mm"
 
