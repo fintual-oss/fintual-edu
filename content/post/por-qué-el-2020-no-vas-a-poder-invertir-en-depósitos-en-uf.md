@@ -33,7 +33,7 @@ Lástima que ya no existen. Los depósitos a plazo en UF están tan casi extinto
 
 <img src="/uploads/dinosaurio.gif">
 
-<em> Los únicos dinosaurios que quedan </em>
+<em> Es más fácil encontrar estos dinosaurios que un depósito a plazo en UF </em>
 
 </figure>
 
