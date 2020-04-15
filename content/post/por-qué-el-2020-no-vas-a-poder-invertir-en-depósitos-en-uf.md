@@ -1,7 +1,7 @@
 +++
 aliases = []
 author = "Omar Larré"
-categories = []
+categories = ["educación financiera"]
 date = 2020-04-14T21:20:49Z
 description = "Un depósito a plazo en UF debería tener tasa negativa para poder emitirse y los bancos no están dispuestos a hacer eso."
 draft = true
@@ -27,16 +27,15 @@ Cuando el dólar sube es natural que muchos productos importados comiencen a cos
 
 Lástima que ya no existen. Los depósitos a plazo en UF están tan casi extintos como los dinosaurios.
 
-GIF
+![](/uploads/dinosaurio.gif)
 
-  
 Y no es raro que muchos bancos simplemente ya no los emitan. Para emitirlos, como las tasas están tan bajas y la inflación no tanto, tendrían que emitirlos con tasa negativa en UF, algo que prefieren no hacer.
 
 #### ¿Tasa negativa en UF?
 
 Sí, la tasa de interés en UF debería ser negativa en este caso.
 
-Usemos un ejemplo:   
+Usemos un ejemplo:  
 Supongamos que el banco puede hacerte un depósito a plazo en pesos con la mejor tasa posible para ellos, de un 1% al año, y al mismo tiempo el banco estima que la inflación en un año será de 3. ¿Qué tasa de interés debería ofrecerte en UF?
 
 No puede ofrecerte algo sobre 0%, ya que en ese caso tú ganarías la inflación del año, –que el banco estima será 3%–, pero ellos estaban dispuesto a darte a lo más 1% en un año. Para compensarlo, la tasa tendría que ser negativa: alrededor de -2% en UF.
@@ -49,5 +48,4 @@ Por lo tanto, cualquier cosa que rente más que la UF no puede ser un depósito 
 
 Este “exceso de riesgo” puede ser riesgo de crédito (o de ”no pago”), riesgo de mercado (que depende de la volatilidad normal del mercado) o una combinación de estos y otros más. Como sea, necesariamente tiene más riesgos.
 
-  
 **La moraleja de la historia es que hoy nada que rente como la UF o más está libre de riesgo**. No al menos por un buen tiempo y hasta que suban las tasas de interés.
