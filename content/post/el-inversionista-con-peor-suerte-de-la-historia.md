@@ -26,7 +26,7 @@ En 2013, Vicente jubiló. Al fin tendría tiempo para completar su colección de
 * _Jubilé hace poco y quería saber ¿cuánto valen las inversiones que hice?_
 * _Pero por supuesto **don** Vicente, usted tiene más de mil millones. $1.100.000.000 para ser exactos._
 
-GIF
+![](/uploads/vicente.gif)
 
 A pesar de haber invertido justo antes de las caídas más grandes de los últimos tiempos, las inversiones de Vicente rentaron un \~9% anual (_money-weighted_). **El secreto es haber mantenido a pesar de las bajas y pensar en el largo plazo, donde el mercado históricamente ha subido.**  
   
@@ -36,4 +36,13 @@ Shh… no le digan si lo ven.
 
 _Ésta es una adaptación de_ [_Meet Bob, The World's Worst Market Timer de Steve Boren._](https://prosperion.us/commentary/meet-bob-worlds-worst-market-timer/) _La rentabilidad está en la moneda original del S&P 500 por simplicidad._
 
-​
+
+
+{{% prueba_fintual
+utmcontent="vicente"
+card_title="Prueba Fintual"
+card_button="Empezar" %}}
+
+Más inteligente que dejar tu plata en el banco.
+
+{{% /prueba_fintual %}}
