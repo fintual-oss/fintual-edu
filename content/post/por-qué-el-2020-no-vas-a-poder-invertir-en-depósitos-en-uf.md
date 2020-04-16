@@ -24,7 +24,7 @@ Cuando inviertes un depósito a plazo (DAP) le prestas dinero al banco. **Como a
 
 Cuando el dólar sube es natural que muchos productos importados comiencen a costar más, lo que hace que muchas personas proyecten que va a aumentar la inflación en los próximos meses. Por eso muchos buscan como refugio “invertir en UF”, y ojalá en algo seguro como un depósito a plazo. O sea, lo ideal sería un depósito a plazo en UF.
 
-Lástima que ya no existen. Los depósitos a plazo en UF están tan casi extintos como los dinosaurios.
+Lástima ya casi no existen. Los depósitos a plazo en UF están tan casi extintos como los dinosaurios.
 
 <div style="text-align:center">
 
