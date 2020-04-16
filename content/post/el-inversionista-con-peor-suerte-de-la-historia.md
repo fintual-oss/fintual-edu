@@ -4,7 +4,6 @@ author = "Gonzalo Enei"
 categories = ["educación financiera"]
 date = 2020-03-16T22:45:29Z
 description = ""
-draft = true
 hide = false
 image = "/uploads/gatonegro.jpeg"
 title = "El inversionista con peor suerte de la historia"
