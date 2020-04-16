@@ -2,7 +2,7 @@
 aliases = []
 author = "Omar Larré"
 categories = ["educación financiera"]
-date = 2020-04-14T21:20:49Z
+date = 2020-04-15T21:20:49Z
 description = "Un depósito a plazo en UF debería tener tasa negativa para poder emitirse y los bancos no están dispuestos a hacer eso."
 hide = false
 image = "/uploads/no.jpeg"

@@ -2,7 +2,7 @@
 aliases = []
 author = "Omar Larré"
 categories = ["educación financiera"]
-date = 2020-04-13T04:29:15Z
+date = 2020-04-15T04:29:15Z
 description = "Por si andas con ganas de guardar tu plata debajo del colchón."
 hide = false
 image = "/uploads/colchonpesadilla.png"
