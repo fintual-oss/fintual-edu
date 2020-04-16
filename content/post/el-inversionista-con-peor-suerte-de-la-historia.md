@@ -2,7 +2,7 @@
 aliases = []
 author = "Gonzalo Enei"
 categories = ["educación financiera"]
-date = 2020-04-15T23:45:29Z
+date = 2020-03-16T22:45:29Z
 description = ""
 draft = true
 hide = false
@@ -26,7 +26,17 @@ En 2013, Vicente jubiló. Al fin tendría tiempo para completar su colección de
 * _Jubilé hace poco y quería saber ¿cuánto valen las inversiones que hice?_
 * _Pero por supuesto **don** Vicente, usted tiene más de mil millones. $1.100.000.000 para ser exactos._
 
-![](/uploads/vicente.gif)
+<div style="text-align:center">
+
+<figure>
+
+<img src="/uploads/vicente.gif">
+
+
+</figure>
+
+</div>
+
 
 A pesar de haber invertido justo antes de las caídas más grandes de los últimos tiempos, las inversiones de Vicente rentaron un \~9% anual (_money-weighted_). **El secreto es haber mantenido a pesar de las bajas y pensar en el largo plazo, donde el mercado históricamente ha subido.**  
   
