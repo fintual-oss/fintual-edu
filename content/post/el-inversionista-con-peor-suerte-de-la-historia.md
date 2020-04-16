@@ -31,7 +31,8 @@ En 2013, Vicente jubiló. Al fin tendría tiempo para completar su colección de
 
 <img src="/uploads/vicente.gif">
 
-
+<em> Un Vicente muy feliz </em>
+  
 </figure>
 
 </div>
