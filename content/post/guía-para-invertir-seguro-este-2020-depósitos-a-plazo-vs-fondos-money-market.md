@@ -56,6 +56,10 @@ Sabemos que hay otras combinaciones de plazos, pero estos casos sirven para resu
 
 En inversiones no existen las recetas mágicas ni las balas de plata. Así que si algo renta mucho más que un depósito a plazo o un fondo _money market_, **de seguro no es seguro y contiene riesgos mayores que estos**.
 
+Para plazos mayores a seis meses ya es necesario comenzar a pensar si vale la pena tener inversiones tan conservadoras como este tipo. 
+
+Desde horizontes de inversión de un año o más recomendamos al menos revisar otro tipo de fondos con algo más de riesgo.
+
 #### **Oye, ¿y Fintual tiene un _money market_?**
 
 Sí, se llama **Very Conservative Streep** y de cariño le decimos "Bajo el Colchón". Puedes encontrar más información de nuestros fondos y su rentabilidad [acá](https://www.fintual-charts.oscarestay.dev/).
