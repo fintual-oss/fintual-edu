@@ -5,7 +5,7 @@ categories = ["educación financiera"]
 date = 2020-03-16T22:45:29Z
 description = ""
 hide = false
-image = "/uploads/gatonegro.jpeg"
+image = "/uploads/gatito.png"
 title = "El inversionista con peor suerte de la historia"
 url = "/el-inversionista-con-peor-suerte-de-la-historia"
 
