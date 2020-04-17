@@ -63,7 +63,7 @@ No sabemos si vendrán otras caídas o si ya tocamos el piso. Nadie sabe eso. El
 
 #### **Tratar de _achuntarle_ al momento justo no funciona**
 
-Y te puede salir muy caro intentarlo. Si realmente crees que puedes ganarle al mercado consistentemente tal vez deberías intentar invertir dinero propio en una corredora y ver en persona lo difícil que puede resultar hacerlo. Lo divertido es que los estudios muestran que incluso los inversionistas profesionales pierden contra la estrategia de mantenerse. En promedio, los mercados financieros suben en el tiempo, lo cual implica que en general es una mala estrategia estar fuera.
+Y te puede salir muy caro intentarlo. Si realmente crees que puedes ganarle al mercado consistentemente podrías dedicarte a ser trader. Lo divertido es que los [estudios muestran](https://us.spindices.com/spiva/#/reports) que incluso los traders e inversionistas profesionales **pierden contra la estrategia de mantenerse**. 
 
 Perderse unos pocos días clave puede tener un impacto muy negativo en tus retornos, así que en lugar de tratar de _achuntarle_ al momento justo de entrar o salir debieras enfocarte en las cosas que sí puedes controlar: **minimizar las comisiones y maximizar la diversificación**. Estamos en un momento muy volátil y es cuando es más necesario mantener la calma, ignorar las noticias e invertir pensando en el largo plazo.
 
