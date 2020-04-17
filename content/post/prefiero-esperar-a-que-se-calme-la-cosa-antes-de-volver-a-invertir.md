@@ -6,23 +6,23 @@ date = 2020-04-08T19:09:37Z
 description = "Es quizás uno de los errores más comunes. "
 hide = false
 image = "/uploads/waiting.jpeg"
-title = "\"Prefiero esperar a que se calme la cosa antes de volver a invertir\""
+title = "Por qué \"Prefiero esperar a que se calme la cosa antes de volver a invertir\" es un error"
 url = "/prefiero-esperar-para-volver-a-invertir"
 
 +++
 Es quizás uno de los errores más comunes.
 
-Los mercados financieros son extremadamente impredecibles en el corto plazo. A inicios de marzo vimos cómo la bolsa caía brutalmente, asustando a todo el mundo. Y luego, el 24 de marzo fue el día más rentable del Dow Jones en 87 años.
+Los mercados financieros son super impredecibles en el corto plazo. A principios de marzo la bolsa cayó brutalmente, asustando a todo el mundo. Pero el 24 de marzo fue el día más rentable del Dow Jones en 87 años.
 
-Es imposible saber cuándo es mejor empezar a invertir.
+Es imposible saber cuándo es mejor dejar de invertir o cuándo mejor empezar a invertir.
 
-**La mejor estrategia es invertir regularmente una parte de tu plata pensando en recién ver retornos en más de 3 años. Y mantenerte en el plan sin importar lo que pase.**
+**La mejor estrategia es invertir regularmente una parte de tu plata. Lo que puedas. Y mantenerte en el plan sin importar lo que pase.**
 
 ¿Guerra mundial? Sigues invirtiendo.
 
 ¿Pandemia? Sigues invirtiendo.
 
-Si paraste de invertir en marzo porque prefieres ”esperar a que se calme la cosa” o para ”esperar el momento ideal para entrar y agarrar el rebote” lo más probable es que te perdiste un tremendo día de rentabilidad.
+Si paraste de invertir en marzo y te propusiste ”esperar el momento ideal para entrar y agarrar el rebote” lo más probable es que ya te perdiste un tremendo día de rentabilidad.
 
 <br>
 
@@ -34,14 +34,17 @@ Eso nadie lo sabe.
 
 #### **Proyecciones y predicciones**
 
-Todos los días el mercado hace su mejor estimación de cómo se viene el futuro y los precios están de acuerdo a eso. Cuando dices “seguirá bajando” no estás diciendo que se vienen tiempos difíciles para la economía, con mucho desempleo y empresas quebrando, eso lo sabemos todos (y el mercado también).
+Todos los días el mercado hace su mejor estimación de cómo se viene el futuro y los precios en la bolsa reflejan eso. 
 
-Cuando dices que _seguirá bajando_ lo que en realidad estás diciendo es que más adelante el mercado será aún más pesimista sobre el futuro de lo que es hoy. **¿Se entiende la diferencia? El mercado ya tomó en cuenta los titulares terribles de los diarios y las cifras de desempleo que viste.**
+Si piensas que “seguirá bajando” no estás diciendo que luego de la pandemia se vienen tiempos difíciles para la economía, con mucho desempleo y empresas quebrando, eso lo sabemos todos (y el mercado ya lo consideró).
 
-Tú que quieres esperar a que “se calme la cosa”, ¿cómo vas a saber cuándo entrar de vuelta?
+Cuando dices que _seguirá bajando_ lo que en realidad estás diciendo es que más adelante el mercado será aún más pesimista sobre el futuro de lo que es hoy. ¿Se entiende la diferencia? 
 
-La historia muestra que algunos de los mejores días del mercado ocurren poco después de los días malos. Un estudio de Putnam Investments muestra que alguien que mantuvo su inversión durante los últimos 15 años ganó el doble que alguien que se perdió sólo los 10 mejores días:
+**El mercado ya tomó en cuenta los titulares terribles de los diarios y las cifras de desempleo que viste.**
 
+Si quieres esperar a que “se calme la cosa”, ¿cómo vas a saber cuándo entrar de vuelta?
+
+Mira, es más, un estudio de Putnam Investments muestra que alguien que mantuvo su inversión durante los últimos 15 años ganó el doble que alguien que se perdió sólo los 10 mejores días:
 
 <div style="text-align:center">
 <figure>
@@ -50,9 +53,9 @@ La historia muestra que algunos de los mejores días del mercado ocurren poco de
 </figure>
 </div>
 
-En 15 años hay 5.475 días. Bastó perderse 10 de esos días (como el 24 de marzo de 2020) para ganar **la mitad de lo que ganó el que mantuvo su inversión!**
+En 15 años hay 5.475 días. Bastó perderse sólo 10 de esos días (días como el 24 de marzo de 2020) para ganar **la mitad (!)** de lo que ganó el que mantuvo su inversión.
 
-Desde Fintual le explicamos a nuestros usuarios que [si no necesitaban la plata antes de 6 meses](https://edu.fintual.cl/que-hacer-cuando-cae-tu-inversion/) mejor no la movieran. Muchos inversionistas se mantuvieron y fuimos la AGF menos impactada por retiros del país, pero aun así algunos de nuestros clientes sucumbieron al pánico y terminaron “haciendo la pérdida”, pese a que sus horizontes de inversión eran de varios años.
+Desde Fintual le explicamos a nuestros usuarios que [si no necesitaban la plata antes de 6 meses](https://edu.fintual.cl/que-hacer-cuando-cae-tu-inversion/) mejor no la movieran. Muchos inversionistas se mantuvieron firmes pese al miedo y fuimos la AGF menos impactada por retiros del país, pero aun así algunos de nuestros clientes sucumbieron al pánico y terminaron “haciendo la pérdida”, pese a que sus horizontes de inversión eran de varios años.
 
 #### **¿El mercado podría seguir bajando?**
 
