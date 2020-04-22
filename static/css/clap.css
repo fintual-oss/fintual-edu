@@ -87,7 +87,7 @@
 
 
 
-.count-notification-wrapper {
+.notification-wrapper {
     top: -8%;
     background-color: #005ad6;
     color:white;
@@ -97,7 +97,7 @@
     animation-fill-mode: forwards;
 }
 
-.count-notification {
+.notification {
     display: inline-block;
     top: 50%;
     font-size: 12px;
