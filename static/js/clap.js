@@ -1,17 +1,17 @@
-let clap = document.querySelector(".clap");
-let clapCounter = document.querySelector(".clap-counter");
-let notificationWrapper = document.querySelector(
+const clap = document.querySelector(".clap");
+const clapCounter = document.querySelector(".clap-counter");
+const notificationWrapper = document.querySelector(
   ".notification-wrapper"
 );
-let notification = document.querySelector(".notification");
-
-let clapCount = 0;
-let clapped = false;
-let loading = true;
+const notification = document.querySelector(".notification");
 
 const db = firebase.firestore();
 const article = clapCounter.dataset.article;
 const clapsRef = db.collection(article);
+
+let clapCount = 0;
+let clapped = false;
+let loading = true;
 
 // After the page is fully loaded
 if (window.requestIdleCallback) {
@@ -57,7 +57,7 @@ function renderClaps(count) {
   clapPhrase = `${clapCount} ${correctWording}`;
   if (clapped && clapCount > 1) clapPhrase += ` con el tuyo`;
   if (clapCount == 0) clapPhrase = `Dale el primer aplauso!`;
-  clapCounter.innerHTML = clapPhrase;
+  clapCounter.textContent = clapPhrase;
 }
 
 function incrementClap() {
