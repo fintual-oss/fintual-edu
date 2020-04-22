@@ -1,0 +1,168 @@
+.clap-section {
+    position: relative;
+    height: 150px;
+
+    /* this background image is invisible and is present here only to force the preloading and smoothen the clap button bacground image transition */
+    background-image: url('/img/clap/clap-clapped.png');
+    background-repeat: no-repeat;
+    background-position-y: -9999px;
+}
+.clap-wrapper {
+    position: absolute;
+    height: 150px;
+    width: 100%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.clap {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    cursor: pointer;
+    width: 100px; 
+    height: 100px;
+
+    background-image: url('/img/clap/clap-ready.png');
+    background-size: 50px;
+    background-repeat: no-repeat;
+    background-position: center;
+    border: 1px lightgray solid;
+    box-sizing: border-box;
+    border-radius: 100px;
+}
+
+.clap-counter {
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%, 75%);
+}
+
+.bold-and-blue { 
+    font-weight: bold;
+    color: #005ad6;
+}
+
+
+.clap:focus {outline:0;}
+
+.clapped-icon {
+    background-image: url('/img/clap/clap-clapped.png');
+    border: 3px solid #005ad6;
+    cursor:default;
+}
+
+.clap:hover {
+    border: 3px solid #005ad6;
+    animation-fill-mode: backwards;
+}
+
+.clapGlow {
+    animation: clapGlow 2s ease-out infinite;
+}
+
+@keyframes clapGlow {
+    0% {
+        box-shadow: 0 0 0 0 #005ad6;
+    }
+
+    50% {
+        box-shadow: 0 0 10px 15px rgba(63, 127, 191, 0);
+    }
+
+    100% {
+        box-shadow: 0 0 10px 15px rgba(63, 127, 191, 0);
+    }
+}
+
+.horiz-center {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+
+.count-notification-wrapper {
+    top: -8%;
+    background-color: #005ad6;
+    color:white;
+    width: 40px;
+    height: 40px;
+    border-radius: 25px;
+    animation-fill-mode: forwards;
+}
+
+.count-notification {
+    display: inline-block;
+    top: 50%;
+    font-size: 12px;
+}
+
+.hide {
+    display: none;
+}
+
+.goUp {
+    animation: clappedCount 1.25s ease-out;
+}
+
+@keyframes clappedCount {
+    0% {
+        transform: translate(-50%, -25%) scale(.9);
+        opacity: 1;
+    }
+
+    5% {
+        transform: translate(-50%, -55%) scale(1);
+    }
+
+    15% {
+        transform: translate(-50%, -50%) scale(1);
+        opacity: 1;
+    }
+
+    50% {
+        transform: translate(-50%, -50%) scale(1);
+        opacity: 1;
+    }
+
+    75% {
+        transform: translate(-50%, -50%) scale(1);
+        opacity: 1;
+
+    }
+
+    100%{
+        opacity: 0;
+        transform: translate(-50%, -200%);
+    }
+}
+
+
+
+@keyframes pumpItUp {
+	0% {
+		width: 100px;
+	}
+	
+	50% {
+		width: 115px;
+		height: 115px;
+		background-size: 60px;
+	}
+	
+	100% {
+		width: 100px;
+		height: 100px;
+		background-size: 50px;
+	}
+}
+
+.pumpItUp {
+	animation: pumpItUp .5s;
+}
