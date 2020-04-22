@@ -23,6 +23,7 @@
   cursor: pointer;
   width: 100px;
   height: 100px;
+  background-color: white;
 
   background-image: url("/img/clap/clap-ready.png");
   background-size: 50px;
