@@ -1,11 +1,9 @@
-let clap = document.getElementsByClassName("clap")[0];
-let clapCounter = document.getElementsByClassName("clap-counter")[0];
-let countNotificationWrapper = document.getElementsByClassName(
-  "count-notification-wrapper"
-)[0];
-let countNotification = document.getElementsByClassName(
-  "count-notification"
-)[0];
+let clap = document.querySelector(".clap");
+let clapCounter = document.querySelector(".clap-counter");
+let notificationWrapper = document.querySelector(
+  ".notification-wrapper"
+);
+let notification = document.querySelector(".notification");
 
 let clapCount = 0;
 let clapped = false;
@@ -108,11 +106,6 @@ clap.onclick = () => {
   incrementClap();
   hasClapped();
 };
-
-
-
-
-
 
 // Decoration explosion on click
 function explode(e) {
