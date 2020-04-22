@@ -1,15 +1,15 @@
-let clap = document.getElementsByClassName("clap")[0];
-let clapCounter = document.getElementsByClassName("clap-counter")[0];
-let countNotificationWrapper = document.getElementsByClassName(
+var clap = document.getElementsByClassName("clap")[0];
+var clapCounter = document.getElementsByClassName("clap-counter")[0];
+var countNotificationWrapper = document.getElementsByClassName(
   "count-notification-wrapper"
 )[0];
-let countNotification = document.getElementsByClassName(
+var countNotification = document.getElementsByClassName(
   "count-notification"
 )[0];
 
-let clapCount = 0;
-let clapped = false;
-let loading = true;
+var clapCount = 0;
+var clapped = false;
+var loading = true;
 
 const db = firebase.firestore();
 const article = clapCounter.dataset.article;
@@ -35,6 +35,7 @@ function getClaps() {
   });
 }
 function addClap() {
+  // Add a new message entry to the database.
   return clapsRef.add({
     fingerprint: new Fingerprint().get(),
     timestamp: firebase.firestore.FieldValue.serverTimestamp(),
@@ -42,7 +43,7 @@ function addClap() {
 }
 
 function checkIfHasAlreadyClapped() {
-  let query = clapsRef.where("fingerprint", "==", new Fingerprint().get());
+  var query = clapsRef.where("fingerprint", "==", new Fingerprint().get());
   return query.get().then(function (snap) {
     if (snap.size > 0) hasClapped();
   });
@@ -113,7 +114,7 @@ clap.onclick = () => {
 
 
 
-// Decoration explosion on clic, this is a code reused from a CodePen
+// Decoration explosion on click
 function explode(e) {
   if (clapped || loading) return;
 
