@@ -1,15 +1,15 @@
-let clap = document.getElementsByClassName("clap")[0];
-let clapCounter = document.getElementsByClassName("clap-counter")[0];
-let countNotificationWrapper = document.getElementsByClassName(
+var clap = document.getElementsByClassName("clap")[0];
+var clapCounter = document.getElementsByClassName("clap-counter")[0];
+var countNotificationWrapper = document.getElementsByClassName(
   "count-notification-wrapper"
 )[0];
-let countNotification = document.getElementsByClassName(
+var countNotification = document.getElementsByClassName(
   "count-notification"
 )[0];
 
-let clapCount = 0;
-let clapped = false;
-let loading = true;
+var clapCount = 0;
+var clapped = false;
+var loading = true;
 
 const db = firebase.firestore();
 const article = clapCounter.dataset.article;
