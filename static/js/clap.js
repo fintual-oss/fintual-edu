@@ -1,15 +1,15 @@
-var clap = document.getElementsByClassName("clap")[0];
-var clapCounter = document.getElementsByClassName("clap-counter")[0];
-var countNotificationWrapper = document.getElementsByClassName(
+let clap = document.getElementsByClassName("clap")[0];
+let clapCounter = document.getElementsByClassName("clap-counter")[0];
+let countNotificationWrapper = document.getElementsByClassName(
   "count-notification-wrapper"
 )[0];
-var countNotification = document.getElementsByClassName(
+let countNotification = document.getElementsByClassName(
   "count-notification"
 )[0];
 
-var clapCount = 0;
-var clapped = false;
-var loading = true;
+let clapCount = 0;
+let clapped = false;
+let loading = true;
 
 const db = firebase.firestore();
 const article = clapCounter.dataset.article;
@@ -118,12 +118,12 @@ clap.onclick = () => {
 function explode(e) {
   if (clapped || loading) return;
 
-  var x = e.pageX;
-  var y = e.pageY;
-  var c = document.createElement("canvas");
-  var ctx = c.getContext("2d");
-  var ratio = window.devicePixelRatio;
-  var particles = [];
+  let x = e.pageX;
+  let y = e.pageY;
+  let c = document.createElement("canvas");
+  let ctx = c.getContext("2d");
+  let ratio = window.devicePixelRatio;
+  let particles = [];
 
   document.body.appendChild(c);
 
@@ -152,7 +152,7 @@ function explode(e) {
     };
   }
 
-  for (var i = 0; ++i < 25; ) {
+  for (let i = 0; ++i < 25; ) {
     particles.push(Particle());
   }
 
@@ -190,19 +190,19 @@ function explode(e) {
   }, 3000);
 }
 
-var angleTools = {
+let angleTools = {
   getAngle: function (t, n) {
-    var a = n.x - t.x,
+    let a = n.x - t.x,
       e = n.y - t.y;
     return (Math.atan2(e, a) / Math.PI) * 180;
   },
   getDistance: function (t, n) {
-    var a = t.x - n.x,
+    let a = t.x - n.x,
       e = t.y - n.y;
     return Math.sqrt(a * a + e * e);
   },
   moveOnAngle: function (t, n) {
-    var a = this.getOneFrameDistance(t, n);
+    let a = this.getOneFrameDistance(t, n);
     (t.x += a.x), (t.y += a.y);
   },
   getOneFrameDistance: function (t, n) {
