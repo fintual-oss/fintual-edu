@@ -87,22 +87,6 @@
   transform: translate(-50%, -50%);
 }
 
-.notification-wrapper {
-  top: -8%;
-  background-color: #005ad6;
-  color: white;
-  width: 40px;
-  height: 40px;
-  border-radius: 25px;
-  animation-fill-mode: forwards;
-}
-
-.notification {
-  display: inline-block;
-  top: 50%;
-  font-size: 12px;
-}
-
 .hide {
   display: none;
 }
