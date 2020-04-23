@@ -1,10 +1,6 @@
 document.addEventListener("DOMContentLoaded", function (event) {
   const clap = document.querySelector(".clap");
   const clapCounter = document.querySelector(".clap-counter");
-  const notificationWrapper = document.querySelector(
-    ".notification-wrapper"
-  );
-  const notification = document.querySelector(".notification");
 
   const db = firebase.firestore();
   const article = clapCounter.dataset.article;
