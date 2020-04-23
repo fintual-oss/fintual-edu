@@ -64,7 +64,6 @@ document.addEventListener("DOMContentLoaded", function (event) {
     clapCount = count;
     correctWording = clapCount > 1 ? `aplausos` : `aplauso`;
     clapPhrase = `${clapCount} ${correctWording}`;
-    if (clapped && clapCount > 1) clapPhrase += ` con el tuyo`;
     if (clapCount == 0) clapPhrase = `Dale el primer aplauso!`;
     clapCounter.textContent = clapPhrase;
   }
