@@ -1,30 +1,37 @@
-document.addEventListener("DOMContentLoaded", function(event) {
+document.addEventListener("DOMContentLoaded", function (event) {
   const clap = document.querySelector(".clap");
   const clapCounter = document.querySelector(".clap-counter");
-  const notificationWrapper = document.querySelector(
-    ".notification-wrapper"
-  );
-  const notification = document.querySelector(".notification");
 
   const db = firebase.firestore();
   const article = clapCounter.dataset.article;
-  const rootCollection =  db.doc('fintual-edu/claps')
+  const rootCollection = db.doc('fintual-edu/claps')
   const clapsRef = rootCollection.collection(article);
 
+  const MAX_CLAPS = 10;
+
   let clapCount = 0;
+  let ownClapCount = 0;
   let clapped = false;
   let loading = true;
 
   // After the page is fully loaded
   if (window.requestIdleCallback) {
     requestIdleCallback(() => {
-      checkIfHasAlreadyClapped()
+      checkIfMaxClapsReached()
         .then(() => {
+          setOwnClaps();
           getClaps();
         })
         .then(() => {
           giveGreenlight();
         });
+    });
+  }
+
+  function setOwnClaps() {
+    let query = clapsRef.where("fingerprint", "==", new Fingerprint().get());
+    return query.get().then(function (snap) {
+      if (snap.size > 0) ownClapCount = snap.size;
     });
   }
 
@@ -35,17 +42,17 @@ document.addEventListener("DOMContentLoaded", function(event) {
     });
   }
   function addClap() {
-    // Add a new message entry to the database.
+    // Add a new message entry to the database.+
     return clapsRef.add({
       fingerprint: new Fingerprint().get(),
       timestamp: firebase.firestore.FieldValue.serverTimestamp(),
     });
   }
 
-  function checkIfHasAlreadyClapped() {
+  function checkIfMaxClapsReached() {
     let query = clapsRef.where("fingerprint", "==", new Fingerprint().get());
     return query.get().then(function (snap) {
-      if (snap.size > 0) hasClapped();
+      if (snap.size >= MAX_CLAPS) maxClapsReached();
     });
   }
 
@@ -57,34 +64,21 @@ document.addEventListener("DOMContentLoaded", function(event) {
     clapCount = count;
     correctWording = clapCount > 1 ? `aplausos` : `aplauso`;
     clapPhrase = `${clapCount} ${correctWording}`;
-    if (clapped && clapCount > 1) clapPhrase += ` con el tuyo`;
     if (clapCount == 0) clapPhrase = `Dale el primer aplauso!`;
     clapCounter.textContent = clapPhrase;
   }
 
   function incrementClap() {
+    ownClapCount += 1;
     renderClaps(clapCount + 1);
     addClap();
   }
 
-  function hasClapped() {
+  function maxClapsReached() {
     clapped = true;
     clap.classList.add("clapped-icon");
     clapCounter.classList.add("bold-and-blue");
     clap.classList.remove("clapGlow");
-  }
-
-  function notificationAnimation() {
-    clap.classList.add("pumpItUp");
-    countNotificationWrapper.classList.remove("hide");
-
-    setTimeout(() => {
-      countNotificationWrapper.classList.add("hide");
-    }, 1250);
-
-    setTimeout(() => {
-      clap.classList.remove("pumpItUp");
-    }, 500);
   }
 
   // Glow when hovering, if not clapped yet
@@ -106,7 +100,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
   clap.onclick = () => {
     if (clapped || loading) return;
     incrementClap();
-    hasClapped();
+    if (ownClapCount >= MAX_CLAPS) maxClapsReached();
   };
 
   // Decoration explosion on click
@@ -147,7 +141,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
       };
     }
 
-    for (let i = 0; ++i < 25; ) {
+    for (let i = 0; ++i < 25;) {
       particles.push(Particle());
     }
 
