@@ -45,7 +45,7 @@ Y no es raro que muchos bancos simplemente ya no los emitan. Para emitirlos, com
 Sí, la tasa de interés en UF debería ser negativa en este caso.
 
 Usemos un ejemplo:  
-Supongamos que el banco puede hacerte un depósito a plazo en pesos con la mejor tasa posible para ellos, de un 1% al año, y al mismo tiempo el banco estima que la inflación en un año será de 3. ¿Qué tasa de interés debería ofrecerte en UF?
+Supongamos que el banco puede hacerte un depósito a plazo en pesos con la mejor tasa posible para ellos, de un 1% al año, y al mismo tiempo el banco estima que la inflación en un año será de 3%. ¿Qué tasa de interés debería ofrecerte en UF?
 
 No puede ofrecerte algo sobre 0%, ya que en ese caso tú ganarías la inflación del año, –que el banco estima será 3%–, pero ellos estaban dispuesto a darte a lo más 1% en un año. Para compensarlo, la tasa tendría que ser negativa: alrededor de -2% en UF.
 
