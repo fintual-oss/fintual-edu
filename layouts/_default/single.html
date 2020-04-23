@@ -41,10 +41,11 @@
                             </div>
                         </div>
                     </div>
-
+        
                     <!-- Post Content -->
                     <div class="article-post">
                         {{ .Content}}
+                        {{- partial "clap.html" . -}}
                     </div>
 
                     <!-- Post Categories -->
@@ -58,17 +59,17 @@
                         </ul>
                     </div>
                     <!-- End Categories -->
-
-
                 </div>
                 <!-- End Post -->
             </div>
         </div>
+
         <!-- End Article
         ================================================== -->
         {{ if .Params.comments }}
             {{- partial "single-partials/comments.html" . -}}
         {{ end }}
+
     </div>
     {{- partial "_shared/alertbar.html" . -}}
 {{ end }}
@@ -76,4 +77,5 @@
 {{ define "footer"}}
     {{- partial "_shared/jumbotron.html" . -}}
     {{- partial "_shared/footer.html" . -}}
+    {{- partial "_shared/js.html" . -}}
 {{ end }}

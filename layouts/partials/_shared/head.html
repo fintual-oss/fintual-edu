@@ -22,5 +22,12 @@
 	<link href="{{ "/css/medium.css" | urlize | relURL }}" rel="stylesheet">
 	<link href="{{ "/css/additional.css" | urlize | relURL }}" rel="stylesheet">
   <link href="{{ "/css/fintual.css" | urlize | relURL }}" rel="stylesheet">
+  <link href="{{ "/css/clap.css" | urlize | relURL }}" rel="stylesheet">
   {{partial "twitter_card.html" . }}
+
+  <script src="https://www.gstatic.com/firebasejs/7.14.1/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/7.14.1/firebase-firestore.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/7.14.1/firebase-analytics.js"></script>
+  <script src="{{ "js/fingerprint.js" | absURL }}"></script>
+
 </head>
