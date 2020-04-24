@@ -17,10 +17,10 @@ document.addEventListener("DOMContentLoaded", function (event) {
   // After the page is fully loaded
   if (window.requestIdleCallback) {
     requestIdleCallback(() => {
-      Promise.all(() => {
-          setOwnClaps();
-          getClaps();
-        })
+      Promise.all([
+          setOwnClaps(),
+          getClaps()
+        ])
         .then(() => {
           disableIfMaxClapsReached()
           giveGreenlight();
