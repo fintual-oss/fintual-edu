@@ -17,12 +17,12 @@ document.addEventListener("DOMContentLoaded", function (event) {
   // After the page is fully loaded
   if (window.requestIdleCallback) {
     requestIdleCallback(() => {
-      checkIfMaxClapsReached()
-        .then(() => {
+      Promise.all(() => {
           setOwnClaps();
           getClaps();
         })
         .then(() => {
+          disableIfMaxClapsReached()
           giveGreenlight();
         });
     });
@@ -49,21 +49,24 @@ document.addEventListener("DOMContentLoaded", function (event) {
     });
   }
 
-  function checkIfMaxClapsReached() {
-    let query = clapsRef.where("fingerprint", "==", new Fingerprint().get());
-    return query.get().then(function (snap) {
-      if (snap.size >= MAX_CLAPS) maxClapsReached();
-    });
-  }
+
 
   // Other functions
   function giveGreenlight() {
     loading = false;
   }
+  function disableIfMaxClapsReached() {
+    if (ownClapCount >= MAX_CLAPS) maxClapsReached();
+  }
   function renderClaps(count) {
     clapCount = count;
     correctWording = clapCount > 1 ? `aplausos` : `aplauso`;
     clapPhrase = `${clapCount} ${correctWording}`;
+    if (ownClapCount == 1) {
+      clapPhrase += ` con el tuyo`
+    } else if (ownClapCount > 1) {
+      clapPhrase += ` con los tuyos`
+    }
     if (clapCount == 0) clapPhrase = `Dale el primer aplauso!`;
     clapCounter.textContent = clapPhrase;
   }
@@ -100,7 +103,7 @@ document.addEventListener("DOMContentLoaded", function (event) {
   clap.onclick = () => {
     if (clapped || loading) return;
     incrementClap();
-    if (ownClapCount >= MAX_CLAPS) maxClapsReached();
+    disableIfMaxClapsReached();
   };
 
   // Decoration explosion on click
