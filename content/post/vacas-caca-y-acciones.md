@@ -25,17 +25,17 @@ Los corredores de bolsa aplicaron su conocimiento y eligieron acciones de grande
 
 Las vacas —literalmente— se cagaron en sus acciones, o más bien, en la elección de sus acciones:
 
-![Las vacas dejándose llevar por su digestión: donde caía la caca definía cual acción se elegía.](/uploads/caca.jpeg)_Las vacas dejándose llevar por su digestión: donde caía la caca definía cual acción se elegía._
+![Las vacas dejándose llevar por su digestión: donde caía la caca definía cual acción se elegía.](/uploads/caca.jpeg)_Las vacas dejándose llevar por su digestión: la caca definía cual acción se elegía._
 
 #### 
 
-Los resultados
+#### Los resultados
 
 Después de 3 meses, las 25 acciones del OBX de Noruega, el índice de referencia, rentaron 5%.
 
 El astrólogo, colega de Pedro Engel, no logró superar al índice y fue el peor de los concursantes.
 
-Los corredores de bolsa, un tanto incómodos con el concurso, le ganaron al índice y rentaron 7,28%, superando por muy poquito al 7,26% de las vacas y su caca. Shocking.
+Los corredores de bolsa, un tanto incómodos con el concurso, le ganaron al índice y rentaron 7,28%, superando por muy poquito al 7,26% de las vacas y su caca. 
 
 Los mejores fueron los _beauty bloggers_ con un 10% de rentabilidad. A puro _achunte_.
 
