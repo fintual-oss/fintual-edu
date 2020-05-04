@@ -93,7 +93,7 @@ Como asumimos que no tenemos poderes mágicos de predicción, y no sabemos cómo
 
 <li>Si crees que va a subir de precio de forma más acelerada, pero no tanto como los últimos años, depende mucho de los gastos de arreglo, el valor de la propiedad, las tasas de interés, el pie inicial, etc.</li>
 
-<li>Si crees que el precio de la propiedad seguirán subiendo como lo han hecho, o al menos la plusvalía será sobre 3% año por año, en la mayoría de los casos conviene comprar.</li></ol>
+<li>Si crees que el precio de la propiedad seguirá subiendo como lo han hecho, o al menos la plusvalía será sobre 3% año por año, en la mayoría de los casos conviene comprar.</li></ol>
 
 Ahora, **si uno cree que la plusvalía va a ser así de buena, es cierto que puede convenir comprar varias propiedades chicas en vez de una sola más grande y arrendar la propiedad donde uno vive.** Esto es financieramente sostenible en la medida que el costo de los metros cuadrado que compras tenga mejor retorno que el costo de los metros cuadrado que arriendas para vivir.
 
