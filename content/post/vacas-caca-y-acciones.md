@@ -24,4 +24,8 @@ Cada equipo recibió el mismo presupuesto para invertir en acciones del índice 
 
 Los corredores de bolsa aplicaron su conocimiento y eligieron acciones de grandes industrias: salmoneras, bancos y cruceros. Los _influencers_ fueron bien honestos y admitieron que no cachaban ninguna de las compañías que tenían para elegir, así que se fueron por marcas que asociaron con vacaciones y una vida de lujo. El astrólogo aplicó las milenarias predicciones del calendario chino y el año de la cabra. Según mi rápida búsqueda en Google se asocia con familia y amistad. Plop.
 
+  
 Las vacas —literalmente— se cagaron en sus acciones, o más bien, en la elección de sus acciones:
+
+![](/uploads/caca.jpeg)  
+_Las vacas dejándose llevar por su digestión: donde caía la caca definía cual acción se elegía._
