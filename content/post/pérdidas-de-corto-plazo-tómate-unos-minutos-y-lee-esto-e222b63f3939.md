@@ -39,7 +39,7 @@ La historia ha mostrado que casi siempre pierdes en este juego. Incluso, hay un 
 
 Es algo bien estudiado por expertos. Numerosos estudios han demostrado la inutilidad de tratar de ganarle de esa forma al mercado. Una de los más famosos <i>“Likely Gains From Market Timing”</i>, realizado por el premio Nobel William F. Sharpe, concluye que necesitas estar en lo correcto 74% de las veces para ganarle a un portafolio de referencia que no hace nada más que seguir el mercado (un índice financiero, por ejemplo). Y en otro estudio, realizado por Morningstar, estiman que los portafolios que se mueven activamente, saliendo y entrando del mercado entre el 2004 y el 2014, retornaron 1,5% menos que un portafolio pasivo, que no hizo nada más que seguir al mercado en ese intervalo de tiempo.
 
-Ahora, vamos un ejemplo usando un ETF (fondo transado en bolsa, por sus siglas en inglés) que replica al índice de acciones en Estados Unidos S&P 500: el SPY, un ETF que transa en bolsa desde enero de 1993. Elegimos este ETF por la cantidad de años que tiene de historia y por lo simple que es. Los precios están en dólares, no hay reinversión de dividendos de las acciones, ni tampoco se puede invertir en algo de muy bajo riesgo cuando saliste de una inversión, todo por simplicidad, el resultado es básicamente el mismo.
+Ahora, veamos un ejemplo usando un ETF (fondo transado en bolsa, por sus siglas en inglés) que replica al índice de acciones en Estados Unidos S&P 500: el SPY, un ETF que transa en bolsa desde enero de 1993. Elegimos este ETF por la cantidad de años que tiene de historia y por lo simple que es. Los precios están en dólares, no hay reinversión de dividendos de las acciones, ni tampoco se puede invertir en algo de muy bajo riesgo cuando saliste de una inversión, todo por simplicidad, el resultado es básicamente el mismo.
 
 Imaginemos que estás invirtiendo en este ETF. Tus inversiones deberían crecer como este gráfico:
 
@@ -79,7 +79,7 @@ Tomar más riesgo del que te sientes cómodo para un plan de inversión determin
 
 Por otro lado, tomar demasiado poco riesgo significa que estás dejando potenciales ganancias sobre la mesa, especialmente en horizontes de largo plazo.
 
-Una vez que eliges tu plan de inversiones de forma adecuada, trata de respetar bien el horizontes de inversiones. Por ejemplo, si tu plazo de inversiones es de 5 años, y te enfrentas pérdidas de 3 o 4 meses, la mejor decisión en este caso puede ser la más difícil: **no hacer nada, y continuar con tu plan de inversión**, tranquilamente, sin disminuir o aumentar el nivel de riesgo a cada rato, tratando de evitar (o ganar) algo en la pasada.
+Una vez que eliges tu plan de inversiones de forma adecuada, trata de respetar bien el horizontes de inversiones. Por ejemplo, si tu plazo de inversiones es de 5 años, y te enfrentas a pérdidas de 3 o 4 meses, la mejor decisión en este caso puede ser la más difícil: **no hacer nada, y continuar con tu plan de inversión**, tranquilamente, sin disminuir o aumentar el nivel de riesgo a cada rato, tratando de evitar (o ganar) algo en la pasada.
 
 {{% prueba_fintual
 utmcontent="perdidas_de_corto_plazo"

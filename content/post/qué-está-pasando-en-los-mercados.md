@@ -18,10 +18,10 @@ Las inversiones más afectadas han sido objetivos con riesgo moderado y alto. Lo
 
 Este lunes 9 de marzo los mercados amanecieron con fuertes bajas de precio, principalmente por los siguientes motivos:
 
-* **Un sorpresivo desacuerdo de los productores de petróleo generó una caída de más de 25% del precio del petróleo WTI**, la mayor caída desde la Guerra del Golfo Pérsico en 1991, que es el cual nos basamos en el país para establecer los precios de los combustibles. El desacuerdo se produce luego de que Rusia se negara a continuar un pacto de 3 años con Arabia Saudita, con lo cual ninguno de los dos cedió a cortar producción.
+* **Un sorpresivo desacuerdo de los productores de petróleo generó una caída de más de 25% del precio del petróleo WTI**, la mayor caída desde la Guerra del Golfo Pérsico en 1991, que es en el cual nos basamos en el país para establecer los precios de los combustibles. El desacuerdo se produce luego de que Rusia se negara a continuar un pacto de 3 años con Arabia Saudita, con lo cual ninguno de los dos cedió a cortar producción.
 * **El coronavirus continúa afectando directa o indirectamente la economía global,** generando alta incertidumbre global y afectando rápidamente a industrias como la turística y aeronáutica.
 
-#### 
+####
 
 #### ¿Cuánto bajaron los principales índices de acciones?
 
@@ -31,7 +31,7 @@ También se vieron afectados los mercados desarrollados: -7,94% para el DAX de A
 
 #### ¿Por qué el dólar subió?
 
-El precio del tipo de cambio USD/CLP (dólar contra peso) aumentó un 1,87% el mismo día, llegando a $841,95. El motivo detrás está principalmente la baja de precios global de _commodities_ (como el cobre) y la baja de monedas de países emergentes.
+El precio del tipo de cambio USD/CLP (dólar contra peso) aumentó un 1,87% el mismo día, llegando a $841,95. El motivo detrás está principalmente en la baja de precios globales de _commodities_ (como el cobre) y la baja de monedas de países emergentes.
 
 La guerra de precios entre productores de petróleo: mal para el corto plazo, bien para el largo plazo
 

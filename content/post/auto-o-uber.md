@@ -50,7 +50,7 @@ Este fue el resultado:
 
 > _CUATRO PALOS CIENTO NOVENTA LUCAS. Más plata que la ..._
 >
->                                                  Matías Hurtado, octubre 2019.
+> Matías Hurtado, octubre 2019.
 
 <div style="text-align:center">
 <figure>
