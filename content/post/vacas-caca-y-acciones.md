@@ -39,7 +39,7 @@ Los corredores de bolsa, un tanto incómodos con el concurso, le ganaron al índ
 
 Los mejores fueron los _beauty bloggers_ con un 10% de rentabilidad. A puro _achunte_.
 
-![Fuente: Jan-Ole Hesselberg](/uploads/Gráfico.jpg)_Fuente: Jan-Ole Hesselberg_
+![Fuente: Jan-Ole Hesselberg](/uploads/coronas.jpg)_Fuente: Jan-Ole Hesselberg_
 
 #### La sorpresa
 
