@@ -23,13 +23,12 @@ Cada equipo recibió el mismo presupuesto para invertir en acciones del índice 
 
 Los corredores de bolsa aplicaron su conocimiento y eligieron acciones de grandes industrias: salmoneras, bancos y cruceros. Los _influencers_ fueron bien honestos y admitieron que no cachaban ninguna de las compañías que tenían para elegir, así que se fueron por marcas que asociaron con vacaciones y una vida de lujo. El astrólogo aplicó las milenarias predicciones del calendario chino y el año de la cabra. Según mi rápida búsqueda en Google se asocia con familia y amistad. Plop.
 
-  
 Las vacas —literalmente— se cagaron en sus acciones, o más bien, en la elección de sus acciones:
 
-![](/uploads/caca.jpeg)  
-_Las vacas dejándose llevar por su digestión: donde caía la caca definía cual acción se elegía._
+![Las vacas dejándose llevar por su digestión: donde caía la caca definía cual acción se elegía.](/uploads/caca.jpeg)_Las vacas dejándose llevar por su digestión: donde caía la caca definía cual acción se elegía._
 
-####   
+#### 
+
 Los resultados
 
 Después de 3 meses, las 25 acciones del OBX de Noruega, el índice de referencia, rentaron 5%.
@@ -40,7 +39,7 @@ Los corredores de bolsa, un tanto incómodos con el concurso, le ganaron al índ
 
 Los mejores fueron los _beauty bloggers_ con un 10% de rentabilidad. A puro _achunte_.
 
-![](/uploads/Gráfico.jpg)Fuente: Jan-Ole Hesselberg
+![Fuente: Jan-Ole Hesselberg](/uploads/Gráfico.jpg)_Fuente: Jan-Ole Hesselberg_
 
 #### La sorpresa
 
@@ -48,12 +47,11 @@ El experimento intentó demostrar lo difícil que es 1) superar a los mercados y
 
 Yo pensé que los _influencers_ eran la sorpresa, pero al final del programa los presentadores se robaron el show cuando mostraron que tenían un portafolio que rentó casi 24%:
 
-![](/uploads/g1.jpeg)
+![Sospechoso ese 23,8%](/uploads/g1.jpeg)_Sospechoso ese 23,8%_
 
 ¿Dónde está la trampa? Fácil. Eligieron de antemano 20 combinaciones diferentes y convenientemente mostraron sólo la mejor, ejemplificando así algo que se conoce como **sesgo de supervivencia**.
 
-  
-![](/uploads/g2.jpeg)
+![No cachaba que el noruego era tan ilegible.](/uploads/g2.jpeg)_No cachaba que el noruego era tan ilegible._
 
 Y este sesgo existe en la industria financiera.
 
@@ -61,9 +59,9 @@ Muchos fondos se cierran después de unos primeros años _reguleques_. Esto perm
 
 Si bien este _ganado ganador_ suena atractivo, dejarse llevar por la sólida carrera de las vacas inversionistas podría ser un error. El experimento noruego es una forma divertida de demostrar que a veces se hacen elecciones por azar que le pueden ganar al mercado. Sin embargo, ganarle al mercado de forma consistente es muy difícil.
 
-  
-Quizás lo hagamos con palomas en la Plaza de Armas de Santiago. 
+Quizás lo hagamos con palomas en la Plaza de Armas de Santiago.
 
-![](/uploads/palomas.gif)
+<div style="text-align:center"> <figure> <img src="/uploads/palomas.gif"> <figcaption>
+ </figcaption> </figure> </div>
 
 O quizás no.
