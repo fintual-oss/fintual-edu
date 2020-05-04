@@ -32,9 +32,7 @@ Justamente por eso el timing de los mercados es tan difícil, es imposible hacer
 
 **Pasa algo parecido con cambiarse de pista en un taco.** Justo después de que te cambias, la pista en la que estabas se vuelve rápida, porque muchos vieron que la pista a la que te cambiaste era más rápida e hicieron el mismo ajuste que tú. Los que se quedaron en la pista se ven beneficiados, mientras que los que se van cambiando lo pagan caro, porque absorben la mayoría de las pérdidas (de tiempo en este caso). Tiende a pasar que cuando todos tienen la misma información, como ocurre en los mercados serios como el chileno o el de EEUU, es mejor quedarse en una pista.
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/jSRrAzktx5yrC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
-
-<p></p>
+<div style="text-align:center"> <figure> <img src="/uploads/trafficjam.gif"> <figcaption><i>Ojalá no en la del medio</i></figcaption> </figure> </div>
 
 Esto lo ha demostrado la experiencia en muchas ocasiones. Por ejemplo, **en EEUU, varios estudios han concluido que los fondos mutuos accionarios de aquel país no le ganan al S&P 500 en forma consistente en la gran mayoría de los casos.** Warren Buffett incluso le dijo a su señora que si él se moría pusiera la mayor cantidad de su fortuna en fondos pasivos que siguen a índices y no intentan ganarle al mercado, porque era lo que mejor funcionaba.
 
