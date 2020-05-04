@@ -35,7 +35,7 @@ Después de 3 meses, las 25 acciones del OBX de Noruega, el índice de referenci
 
 El astrólogo, colega de Pedro Engel, no logró superar al índice y fue el peor de los concursantes.
 
-Los corredores de bolsa, un tanto incómodos con el concurso, le ganaron al índice y rentaron 7,28%, superando por muy poquito al 7,26% de las vacas y su caca. 
+Los corredores de bolsa, un tanto incómodos con el concurso, le ganaron al índice y rentaron 7,28%, superando por muy poquito al 7,26% de las vacas y su caca.
 
 Los mejores fueron los _beauty bloggers_ con un 10% de rentabilidad. A puro _achunte_.
 
@@ -57,7 +57,11 @@ Y este sesgo existe en la industria financiera.
 
 Muchos fondos se cierran después de unos primeros años _reguleques_. Esto permite que los administradores de activos se jacten de los sobrevivientes: una atractiva lista de fondos superiores al mercado. Y esto no termina ahí: un argumento súper utilizado para vender inversiones es mostrar los retornos pasados de solo algunas estrategias entre decenas de estrategias de carteras recomendadas o fondos mutuos. Si, por ejemplo, una administradora bancaria gigante tiene 50 tipos de fondos mutuos distintos, es fácil que unas pocas les vaya muy bien en el último año y por lo tanto sean estas las que se venden mejor el próximo año bajo este discurso de venta.
 
-Si bien este _ganado ganador_ suena atractivo, dejarse llevar por la sólida carrera de las vacas inversionistas podría ser un error. El experimento noruego es una forma divertida de demostrar que a veces se hacen elecciones por azar que le pueden ganar al mercado. Sin embargo, ganarle al mercado de forma consistente es muy difícil.
+Si bien este _ganado ganador_ suena atractivo, dejarse llevar por la sólida carrera de las vacas inversionistas podría ser un error. 
+
+> Este experimento es una forma divertida de demostrar que a veces se hacen elecciones por azar que le pueden ganar al mercado. 
+
+Sin embargo, ganarle al mercado de forma consistente es muy difícil.
 
 Quizás lo hagamos con palomas en la Plaza de Armas de Santiago.
 
