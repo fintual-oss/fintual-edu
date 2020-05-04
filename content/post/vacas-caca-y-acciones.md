@@ -55,13 +55,15 @@ Yo pensé que los _influencers_ eran la sorpresa, pero al final del programa los
 
 Y este sesgo existe en la industria financiera.
 
-Muchos fondos se cierran después de unos primeros años _reguleques_. Esto permite que los administradores de activos se jacten de los sobrevivientes: una atractiva lista de fondos superiores al mercado. Y esto no termina ahí: un argumento súper utilizado para vender inversiones es mostrar los retornos pasados de solo algunas estrategias entre decenas de estrategias de carteras recomendadas o fondos mutuos. Si, por ejemplo, una administradora bancaria gigante tiene 50 tipos de fondos mutuos distintos, es fácil que unas pocas les vaya muy bien en el último año y por lo tanto sean estas las que se venden mejor el próximo año bajo este discurso de venta.
+Muchos fondos se cierran después de unos primeros años _reguleques_. Esto permite que los administradores de activos se jacten de los sobrevivientes: una atractiva lista de fondos superiores al mercado. 
+
+Y esto no termina ahí: un argumento súper utilizado para vender inversiones es mostrar los retornos pasados de solo algunas estrategias entre decenas de estrategias de carteras recomendadas o fondos mutuos. Si, por ejemplo, una administradora bancaria gigante tiene 50 fondos mutuos distintos, es fácil que unas pocas les vaya muy bien en el último año y por lo tanto sean estas las que se venden mejor el año siguiente bajo este discurso de venta. Chanta igual.
+
+#### Volviendo a las vacas 🐄
 
 Si bien este _ganado ganador_ suena atractivo, dejarse llevar por la sólida carrera de las vacas inversionistas podría ser un error. 
 
-> Este experimento es una forma divertida de demostrar que a veces se hacen elecciones por azar que le pueden ganar al mercado. 
-
-Sin embargo, ganarle al mercado de forma consistente es muy difícil.
+Este experimento es una forma divertida de demostrar que a veces se hacen elecciones por azar que le pueden ganar al mercado. Sin embargo, ganarle al mercado de forma consistente es muy difícil. 
 
 Quizás lo hagamos con palomas en la Plaza de Armas de Santiago.
 
