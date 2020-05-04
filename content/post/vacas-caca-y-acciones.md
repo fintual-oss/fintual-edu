@@ -49,7 +49,9 @@ Yo pensé que los _influencers_ eran la sorpresa, pero al final del programa los
 
 ![Sospechoso ese 23,8%](/uploads/g1.jpeg)_Sospechoso ese 23,8%_
 
-¿Dónde está la trampa? Fácil. Eligieron de antemano 20 combinaciones diferentes y convenientemente mostraron sólo la mejor, ejemplificando así algo que se conoce como **sesgo de supervivencia**.
+#### La trampa
+
+¿Cómo lograron esa rentabilidad tan superior al resto? Fácil. Eligieron de antemano 20 combinaciones diferentes y convenientemente mostraron sólo la mejor, ejemplificando así algo que se conoce como **sesgo de supervivencia**.
 
 ![No cachaba que el noruego era tan ilegible.](/uploads/g2.jpeg)_No cachaba que el noruego era tan ilegible._
 
@@ -63,11 +65,11 @@ Y esto no termina ahí: un argumento súper utilizado para vender inversiones es
 
 Si bien este _ganado ganador_ suena atractivo, dejarse llevar por la sólida carrera de las vacas inversionistas podría ser un error. 
 
-Este experimento es una forma divertida de demostrar que a veces se hacen elecciones por azar que le pueden ganar al mercado. 
+> Este experimento es una forma divertida de demostrar que a veces se hacen elecciones por azar que le pueden ganar al mercado. 
 
-Sin embargo, este ejercicio analizó los resultados después de apenas 3 meses invirtiendo. Ganarle al mercado [de forma consistente](https://edu.fintual.cl/ganarle-al-mercado/) en el tiempo es muy difícil. 
+Sin embargo, acá se analizaron los resultados después de apenas 3 meses invirtiendo. Ganarle al mercado [de forma consistente](https://edu.fintual.cl/ganarle-al-mercado/) en el tiempo es muy difícil. 
 
-Quizás lo hagamos con palomas en la Plaza de Armas de Santiago.
+Igual nos gustó el experimento. Quizás lo hagamos con palomas en la Plaza de Armas de Santiago.
 
 <div style="text-align:center"> <figure> <img src="/uploads/palomas.gif"> <figcaption>
 </figcaption> </figure> </div>
