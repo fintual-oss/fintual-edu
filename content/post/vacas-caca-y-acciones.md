@@ -61,13 +61,15 @@ Muchos fondos se cierran después de unos primeros años _reguleques_. Esto perm
 
 Y esto no termina ahí: un argumento súper utilizado para vender inversiones es mostrar los retornos pasados de solo algunas estrategias entre decenas de estrategias de carteras recomendadas o fondos mutuos. Si, por ejemplo, una administradora bancaria gigante tiene 50 fondos mutuos distintos, es fácil que unas pocas les vaya muy bien en el último año y por lo tanto sean estas las que se venden mejor el año siguiente bajo este discurso de venta. Chanta igual.
 
-#### Volviendo a las vacas 🐄
+#### Volviendo a las vacas 
 
 Si bien este _ganado ganador_ suena atractivo, dejarse llevar por la sólida carrera de las vacas inversionistas podría ser un error. 
 
 > Este experimento es una forma divertida de demostrar que a veces se hacen elecciones por azar que le pueden ganar al mercado. 
 
-Sin embargo, acá se analizaron los resultados después de apenas 3 meses invirtiendo. Ganarle al mercado [de forma consistente](https://edu.fintual.cl/ganarle-al-mercado/) en el tiempo es muy difícil. 
+En este caso se analizaron los resultados **después de apenas 3 meses invirtiendo**. Ganarle al mercado [de forma consistente](https://edu.fintual.cl/ganarle-al-mercado/) en el tiempo es muy difícil. 
+
+Hacer _stock picking_ es tan aleatorio como unas 🐄 haciendo 💩
 
 Nos gustó el experimento. Quizás lo hagamos con palomas en la Plaza de Armas de Santiago.
 
