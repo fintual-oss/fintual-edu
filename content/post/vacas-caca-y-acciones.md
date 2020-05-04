@@ -69,7 +69,7 @@ Si bien este _ganado ganador_ suena atractivo, dejarse llevar por la sólida car
 
 Sin embargo, acá se analizaron los resultados después de apenas 3 meses invirtiendo. Ganarle al mercado [de forma consistente](https://edu.fintual.cl/ganarle-al-mercado/) en el tiempo es muy difícil. 
 
-Igual nos gustó el experimento. Quizás lo hagamos con palomas en la Plaza de Armas de Santiago.
+Nos gustó el experimento. Quizás lo hagamos con palomas en la Plaza de Armas de Santiago.
 
 <div style="text-align:center"> <figure> <img src="/uploads/palomas.gif"> <figcaption>
 </figcaption> </figure> </div>
