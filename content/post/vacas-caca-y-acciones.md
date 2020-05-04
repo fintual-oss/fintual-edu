@@ -41,6 +41,8 @@ Los corredores de bolsa, un tanto incómodos con el concurso, le ganaron al índ
 
 Los mejores fueron los _beauty bloggers_ con un 10% de rentabilidad. A puro _achunte_.
 
+![](/uploads/Gráfico.jpg)Fuente: Jan-Ole Hesselberg
+
 #### La sorpresa
 
 El experimento intentó demostrar lo difícil que es 1) superar a los mercados y 2) saber si quienes lo logran lo hacen porque cachan o porque tienen suerte.
