@@ -4,8 +4,7 @@ author = "Francesca Finaldi"
 categories = ["educación financiera"]
 date = 2020-05-04T15:05:58Z
 description = ""
-draft = true
-hide = false
+hide = true
 image = "/uploads/cow.jpeg"
 title = "Vacas, caca y acciones"
 url = "/vacas-caca-y-acciones"
@@ -48,3 +47,23 @@ Los mejores fueron los _beauty bloggers_ con un 10% de rentabilidad. A puro _ach
 El experimento intentó demostrar lo difícil que es 1) superar a los mercados y 2) saber si quienes lo logran lo hacen porque cachan o porque tienen suerte.
 
 Yo pensé que los _influencers_ eran la sorpresa, pero al final del programa los presentadores se robaron el show cuando mostraron que tenían un portafolio que rentó casi 24%:
+
+![](/uploads/g1.jpeg)
+
+¿Dónde está la trampa? Fácil. Eligieron de antemano 20 combinaciones diferentes y convenientemente mostraron sólo la mejor, ejemplificando así algo que se conoce como **sesgo de supervivencia**.
+
+  
+![](/uploads/g2.jpeg)
+
+Y este sesgo existe en la industria financiera.
+
+Muchos fondos se cierran después de unos primeros años _reguleques_. Esto permite que los administradores de activos se jacten de los sobrevivientes: una atractiva lista de fondos superiores al mercado. Y esto no termina ahí: un argumento súper utilizado para vender inversiones es mostrar los retornos pasados de solo algunas estrategias entre decenas de estrategias de carteras recomendadas o fondos mutuos. Si, por ejemplo, una administradora bancaria gigante tiene 50 tipos de fondos mutuos distintos, es fácil que unas pocas les vaya muy bien en el último año y por lo tanto sean estas las que se venden mejor el próximo año bajo este discurso de venta.
+
+Si bien este _ganado ganador_ suena atractivo, dejarse llevar por la sólida carrera de las vacas inversionistas podría ser un error. El experimento noruego es una forma divertida de demostrar que a veces se hacen elecciones por azar que le pueden ganar al mercado. Sin embargo, ganarle al mercado de forma consistente es muy difícil.
+
+  
+Quizás lo hagamos con palomas en la Plaza de Armas de Santiago. 
+
+![](/uploads/palomas.gif)
+
+O quizás no.
