@@ -62,6 +62,15 @@ Si bien este _ganado ganador_ suena atractivo, dejarse llevar por la sólida car
 Quizás lo hagamos con palomas en la Plaza de Armas de Santiago.
 
 <div style="text-align:center"> <figure> <img src="/uploads/palomas.gif"> <figcaption>
- </figcaption> </figure> </div>
+</figcaption> </figure> </div>
 
 O quizás no.
+
+{{% prueba_fintual
+utmcontent="vacas_y_caca"
+card_title="Prueba Fintual"
+card_button="Empezar" %}}
+
+Más inteligente que tratar de ganarle al mercado.
+
+{{% /prueba_fintual %}}
