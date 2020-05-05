@@ -51,6 +51,8 @@ Yo pensé que los _influencers_ eran la sorpresa, pero al final del programa los
 
 ¿Cómo lograron esa rentabilidad tan superior al resto? Fácil. Eligieron de antemano 20 combinaciones diferentes y convenientemente mostraron sólo la mejor, ejemplificando así algo que se conoce como **sesgo de supervivencia**.
 
+De hecho, la mitad de los fondos noruegos cierra a los 5 años. A los 10 años, el 80% de los fondos no existe:
+
 ![No cachaba que el noruego era tan ilegible.](/uploads/g2.jpeg)_No cachaba que el noruego era tan ilegible._
 
 Y este sesgo existe en la industria financiera.
@@ -63,9 +65,9 @@ Y esto no termina ahí: un argumento súper utilizado para vender inversiones es
 
 Si bien este _ganado ganador_ suena atractivo, dejarse llevar por la sólida carrera de las vacas inversionistas podría ser un error.
 
-En este caso se analizaron los resultados **después de apenas 3 meses invirtiendo**. Ganarle al mercado [de forma consistente](https://edu.fintual.cl/ganarle-al-mercado/) en el tiempo es muy difícil.
+En este caso se analizaron los resultados **después de apenas 3 meses invirtiendo**. Ganarle al mercado [de forma consistente](https://edu.fintual.cl/ganarle-al-mercado/) en el tiempo es muy difícil. Hacer _stock picking_ es tan aleatorio como unas 🐄 haciendo 💩
 
-> Este experimento es una forma divertida de demostrar que a veces se hacen elecciones por azar que le pueden ganar al mercado. Hacer _stock picking_ es tan aleatorio como unas 🐄 haciendo 💩
+> Este simpático experimento sirve para demostrar que a veces se hacen elecciones al azar que le pueden ganar al mercado. Además, hay que observar con cuidado las estrategias _ganadoras_. 
 
 Nos gustó el experimento. Quizás lo hagamos con palomas en la Plaza de Armas de Santiago.
 
