@@ -15,6 +15,7 @@ A menudo, los inversionistas –tanto profesionales como personas común y corri
 
 #### Sin embargo, reaccionar a las bajas de mercado terminan siendo, en la mayor parte de los casos, una mala estrategia de inversiones.
 
+
 Cada vez que digo que en el corto plazo es muy probable que existan pérdidas en Fintual, me miran con cara de espanto. Y no se trata de que sea pesimista ni sádico, es sólo una perspectiva basada en haber estudiado y experimentado el mercado financiero por años.
 
 Y claro, en estos años he aprendido que experimentar pérdidas de corto plazo es de lo más común, y que afortunadamente son fugaces y benignas en la medida que estás invirtiendo de forma apropiada y esperando el tiempo apropiado, en vez de sólo reaccionar a cada variación de precios que te asuste lo suficiente para liquidar tus inversiones.
