@@ -15,7 +15,6 @@ A menudo, los inversionistas –tanto profesionales como personas común y corri
 
 #### Sin embargo, reaccionar a las bajas de mercado terminan siendo, en la mayor parte de los casos, una mala estrategia de inversiones.
 
-
 Cada vez que digo que en el corto plazo es muy probable que existan pérdidas en Fintual, me miran con cara de espanto. Y no se trata de que sea pesimista ni sádico, es sólo una perspectiva basada en haber estudiado y experimentado el mercado financiero por años.
 
 Y claro, en estos años he aprendido que experimentar pérdidas de corto plazo es de lo más común, y que afortunadamente son fugaces y benignas en la medida que estás invirtiendo de forma apropiada y esperando el tiempo apropiado, en vez de sólo reaccionar a cada variación de precios que te asuste lo suficiente para liquidar tus inversiones.
@@ -71,12 +70,7 @@ Si miras la tabla de a continuación, que muestra qué porcentaje necesitas rent
 
 Volvamos nuevamente al ejemplo del SPY. Si miras como ha rentado su precio considerando ventanas de 10 años de duración verás algo como el siguiente gráfico:
 
-<div style="text-align:center">
-<figure>
-<img src="/uploads/pérdidas-de-c5802.png">
-<figcaption><i>Retorno de 10 años según la fecha de término del periodo, no considera reinversión de dividendos (si no, serían retornos aún mejores). Retornos expresados en dólares de Estados Unidos.</i></figcaption>
-</figure>
-</div>
+![Retorno de 10 años según la fecha de término del periodo, no considera reinversión de dividendos (si no, serían retornos aún mejores). Retornos expresados en dólares de Estados Unidos.](/uploads/pérdidas-de-c5802.png)_Retorno de 10 años según la fecha de término del periodo, no considera reinversión de dividendos (si no, serían retornos aún mejores). Retornos expresados en dólares de Estados Unidos._
 
 Si miran con atención, los años entre el 2012 al 2018 tienen periodos completos de buenos desempeños pese a haber incluido la crisis subprime del 2008. Considera además que en periodos más largos los retornos son aún más estables.
 
