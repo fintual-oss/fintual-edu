@@ -10,9 +10,9 @@ title = "Vacas, caca y acciones"
 url = "/vacas-caca-y-acciones"
 
 +++
-Algunos creen que les conviene invertir comprando acciones en la bolsa, pero es **muy** difícil que le ganen consistentemente a la simple inversión en un índice. O a veces, como en este caso, a la simple elección de la caca de un rebaño de vacas.
+Hay gente que cree que puede adivinar cuáles son las acciones que conviene comprar en la bolsa, pero aunque aciertes una vez, la verdad es que es muy difícil ganarle consistentemente al mercado. O a veces, como en este caso, a la simple elección de la caca de un rebaño de vacas.
 
-Un programa de la TV noruega hizo competir a:
+De hecho, un programa de la TV noruega hizo competir a:
 
 * Dos corredores de bolsa
 * Un astrólogo
