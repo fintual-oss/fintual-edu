@@ -5,7 +5,7 @@ categories = ["educación financiera"]
 date = 2020-05-04T15:05:58Z
 description = "Un experimento de tv noruega mostró que hacer stock picking es tan aleatorio como unas vacas haciendo caca"
 hide = false
-image = "/uploads/cow.jpeg"
+image = "/uploads/vacaca.png"
 title = "Vacas, caca y acciones"
 url = "/vacas-caca-y-acciones"
 
