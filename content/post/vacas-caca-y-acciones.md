@@ -3,8 +3,8 @@ aliases = []
 author = "Francesca Finaldi"
 categories = ["educación financiera"]
 date = 2020-05-04T15:05:58Z
-description = ""
-hide = true
+description = "Un experimento de tv noruega mostró que hacer stock picking es tan aleatorio como unas vacas haciendo caca"
+hide = false
 image = "/uploads/cow.jpeg"
 title = "Vacas, caca y acciones"
 url = "/vacas-caca-y-acciones"
@@ -26,8 +26,6 @@ Los corredores de bolsa aplicaron su conocimiento y eligieron acciones de grande
 Las vacas —literalmente— se cagaron en sus acciones, o más bien, en la elección de sus acciones:
 
 ![Las vacas dejándose llevar por su digestión: donde caía la caca definía cual acción se elegía.](/uploads/caca.jpeg)_Las vacas dejándose llevar por su digestión: la caca definía cual acción se elegía._
-
-#### 
 
 #### Los resultados
 
