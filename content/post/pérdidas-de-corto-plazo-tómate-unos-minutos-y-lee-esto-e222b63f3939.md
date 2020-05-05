@@ -49,16 +49,9 @@ La segunda “gran caída” es la crisis financiera del 2008 (conocida también
 
 ![Así te sientes probablemente al salir durante la crisis, y poder volver a entrar cuando todo está mucho más tranquilo.](/uploads/VALOR SPY 2.jpg)_Así te sientes probablemente al salir durante la crisis, y poder volver a entrar cuando todo está mucho más tranquilo._
 
-Al parecer, sientes que lo hiciste bien, que te salvaste de la caída total. Saliste justo antes que todo llegara más abajo, y volviste a entrar 5 años después, cuando ya no quedaba indicios de la crisis, el 4 de noviembre del 2013, ya todo muy tranquilo y las bolsas en todos lados subiendo. Que alivio. Pero no. Si revisas con cuidado, lo que realmente le pasó a tus inversiones fue algo como esto:
+Al parecer, sientes que lo hiciste bien, que te salvaste de la caída total. Saliste justo antes que todo llegara más abajo, y volviste a entrar 5 años después, cuando ya no quedaba indicios de la crisis, el 4 de noviembre del 2013, ya todo muy tranquilo y las bolsas en todos lados subiendo. Que alivio. Pero no. Si revisas con cuidado, lo que realmente le pasó a tus inversiones si te retiraste en medio de una caída fue algo como esto:
 
-
-
-<div style="text-align:center">
-<figure>
-<img src="/uploads/pérdidas-de-c6329.png">
-<figcaption><i>La línea roja muestra realmente lo que pasó con tu inversión si te retiraste en medio de una caída.</i></figcaption>
-</figure>
-</div>
+![](/uploads/Twitter (2).png)
 
 Como moraleja, lo que hay que tratar de hacer bien es elegir el instrumento y grado de riesgo adecuado para el horizonte de inversión y plan de inversión determinado. Seguramente para invertir por 6 meses no tiene ningún sentido hacerlo usando acciones, pero si vas a invertir desde un par de años en adelante, vale la pena considerarlos.
 
