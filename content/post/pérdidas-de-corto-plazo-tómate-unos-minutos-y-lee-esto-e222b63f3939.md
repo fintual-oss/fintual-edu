@@ -57,14 +57,11 @@ Como moraleja, lo que hay que tratar de hacer bien es elegir el instrumento y gr
 
 ## 3. Alcanzar los retornos necesarios para recuperarse de una caída del mercado es más difícil de lo que crees
 
-Si miras la tabla de a continuación, que muestra qué porcentaje necesitas rentar para poder compensar una caída, te darás cuenta que necesitarás mucho más retorno en tus inversiones para alcanzar el mismo nivel de inversión que tenías antes de una gran caída:
+Si miras la tabla de a continuación, que muestra qué porcentaje necesitas rentar para poder compensar una caída, te darás cuenta que necesitarás mucho más retorno en tus inversiones para alcanzar el mismo nivel de inversión que tenías antes de una gran caída:.
 
-<div style="text-align:center">
-<figure>
-<img src="/uploads/pérdidas-de-c3216.png">
-<figcaption><i>Lo que necesitas volver a rentar (columna derecha) para volver al mismo nivel, después de enfrentar una pérdida (columna izquierda).</i></figcaption>
-</figure>
-</div>
+En la columna derecha está lo que necesitas volver a rentar para volver al mismo nivel después de enfrentar una pérdida (columna izquierda):
+
+<div style="text-align:center"> <figure> <img src="/uploads/pérdidas-de-c3216.png"> <figcaption></figcaption> </figure> </div>
 
 ## 4. Buenos periodos de rentabilidad generalmente contienen años completos de rendimientos negativos o crisis
 
