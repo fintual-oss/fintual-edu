@@ -9,9 +9,9 @@ image: "/uploads/don-ross-iii-187427-unsplash.jpg"
 url: "/pérdidas-de-corto-plazo-tómate-unos-minutos-y-lee-esto-e222b63f3939/"
 
 ---
-Es más común de lo que se piensa, pero las bajas del mercado son la parte más normal de una cartera de inversiones de buen retorno. 
+Es más común de lo que se piensa, pero las bajas del mercado son la parte más normal de una cartera de inversiones de buen retorno.
 
-A menudo, los inversionistas –tanto profesionales como personas común y corrientes– tienden a sobrerreaccionar con pánico en respuesta a bajas de mercado, incluso sabiendo que están invirtiendo de forma apropiada y en un plan de largo plazo. 
+A menudo, los inversionistas –tanto profesionales como personas común y corrientes– tienden a sobrerreaccionar con pánico en respuesta a bajas de mercado, incluso sabiendo que están invirtiendo de forma apropiada y en un plan de largo plazo.
 
 #### Sin embargo, reaccionar a las bajas de mercado terminan siendo, en la mayor parte de los casos, una mala estrategia de inversiones.
 
@@ -25,12 +25,7 @@ A continuación voy a tratar de mostrar que es casi imposible alcanzar un nivel 
 
 La prensa y las redes sociales en general suelen estar llenos de “gurús” de las inversiones, anticipando cuándo va a ser la próxima crisis financiera mundial. Sin embargo, la historia muestra que un evento tan particular como una crisis financiera global es muy difícil de predecir, casi imposible.
 
-<div style="text-align:center">
-<figure>
-<img src="/uploads/pérdidas-de-c8529.jpeg">
-<figcaption><i>Cuando los europeos llegaron a Australia no podían creer la existencia de cisnes negros: hasta entonces, habían vivido sumergidos en un mundo donde era imposible que existieran. Ahora que viste la foto, te parece obvio que existen.</i></figcaption>
-</figure>
-</div>
+<div style="text-align:center"> <figure> <img src="/uploads/pérdidas-de-c8529.jpeg"> <figcaption><i>Cuando los europeos llegaron a Australia no podían creer la existencia de cisnes negros: hasta entonces, habían vivido sumergidos en un mundo donde era imposible que existieran. Ahora que viste la foto, te parece obvio que existen</i></figcaption> </figure> </div>
 
 Explicado por Nassim Nicholas Taleb en sus libros <i>“Fooled by Randomness”</i> y <i>“The Black Swan”</i>, las grandes crisis financieras son parte de eventos altamente aleatorios e impredecibles, los cuales una vez sucedidos, se suelen tratar de explicar y racionalizar, pensando que se podría haber anticipado si sucediesen nuevamente, y de este modo generando la falsa ilusión que se podrá hacer con la siguiente crisis que aparezca en el futuro. Sin embargo, la historia ha demostrado que eventos tan altamente aleatorios e improbables como una crisis financiera global están lejos de ser predecibles.
 
@@ -48,12 +43,7 @@ Ahora, vamos un ejemplo usando un ETF (fondo transado en bolsa, por sus siglas e
 
 Imaginemos que estás invirtiendo en este ETF. Tus inversiones deberían crecer como este gráfico:
 
-<div style="text-align:center">
-<figure>
-<img src="/uploads/pérdidas-de-c8163.png">
-<figcaption><i>Precio del SPY desde enero de 1993. No incluye reinversión de dividendos.</i></figcaption>
-</figure>
-</div>
+![Precio del SPY desde enero de 1993. No incluye reinversión de dividendos.](/uploads/VALOR SPY 1.jpg)_Precio del SPY desde enero de 1993. No incluye reinversión de dividendos._
 
 La segunda “gran caída” es la crisis financiera del 2008 (conocida también como crisis <i>“subprime”</i>). Imagínate que, en medio de la crisis, se te ocurre salir el 4 de noviembre del 2008, cuando todos los titulares de las noticias hablaban de la crisis, y volviste a entrar 5 años después.
 
