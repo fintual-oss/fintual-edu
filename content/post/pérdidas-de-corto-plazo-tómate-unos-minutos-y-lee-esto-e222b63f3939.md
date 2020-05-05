@@ -47,14 +47,11 @@ Imaginemos que estás invirtiendo en este ETF. Tus inversiones deberían crecer 
 
 La segunda “gran caída” es la crisis financiera del 2008 (conocida también como crisis <i>“subprime”</i>). Imagínate que, en medio de la crisis, se te ocurre salir el 4 de noviembre del 2008, cuando todos los titulares de las noticias hablaban de la crisis, y volviste a entrar 5 años después.
 
-<div style="text-align:center">
-<figure>
-<img src="/uploads/pérdidas-de-c6643.png">
-<figcaption><i>Así te sientes probablemente al salir durante la crisis, y poder volver a entrar cuando todo está mucho más tranquilo.</i></figcaption>
-</figure>
-</div>
+![Así te sientes probablemente al salir durante la crisis, y poder volver a entrar cuando todo está mucho más tranquilo.](/uploads/VALOR SPY 2.jpg)_Así te sientes probablemente al salir durante la crisis, y poder volver a entrar cuando todo está mucho más tranquilo._
 
 Al parecer, sientes que lo hiciste bien, que te salvaste de la caída total. Saliste justo antes que todo llegara más abajo, y volviste a entrar 5 años después, cuando ya no quedaba indicios de la crisis, el 4 de noviembre del 2013, ya todo muy tranquilo y las bolsas en todos lados subiendo. Que alivio. Pero no. Si revisas con cuidado, lo que realmente le pasó a tus inversiones fue algo como esto:
+
+
 
 <div style="text-align:center">
 <figure>
