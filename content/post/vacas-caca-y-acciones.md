@@ -45,7 +45,7 @@ Los mejores fueron los _beauty bloggers_ con un 10% de rentabilidad. A puro _ach
 
 El experimento intentó demostrar lo difícil que es 1) superar a los mercados y 2) saber si quienes lo logran lo hacen porque cachan o porque tienen suerte.
 
-Yo pensé que los _influencers_ eran la sorpresa, pero al final del programa los presentadores se robaron el show cuando mostraron que tenían un portafolio que rentó casi 24%:
+Yo pensé que los _influencers_ eran la sorpresa, pero al final del programa los presentadores del show mostraron que ellos habían participado en secreto y tenían un portafolio que rentó casi 24%:
 
 ![Sospechoso ese 23,8%](/uploads/g1.jpeg)_Sospechoso ese 23,8%_
 
