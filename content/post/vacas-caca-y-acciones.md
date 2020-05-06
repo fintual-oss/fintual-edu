@@ -10,18 +10,18 @@ title = "Vacas, caca y acciones"
 url = "/vacas-caca-y-acciones"
 
 +++
-Hay gente que cree que puede adivinar cuáles son las acciones que conviene comprar en la bolsa, pero aunque aciertes una vez, la verdad es que es muy difícil ganarle consistentemente al mercado. O a veces, como en este caso, a la simple elección de la caca de un rebaño de vacas.
+Hay gente que cree que puede adivinar cuáles son las acciones que conviene comprar en la bolsa, pero aunque aciertes una vez, la verdad es que es muy difícil ganarle **consistentemente** al mercado. O a veces, como en este caso, a la simple elección de la caca de un rebaño de vacas.
 
-De hecho, un programa de la TV noruega hizo competir a:
+Hablando de consistencia, un programa de la TV noruega hizo competir a:
 
 * Dos corredores de bolsa
 * Un astrólogo
 * Dos _beauty bloggers_ (“_bloggers_ de belleza”)
 * Un pequeño rebaño de vacas
 
-Para ver quién obtenía mejor rentabilidad al invertir en acciones en la bolsa de Oslo. Cada equipo recibió el mismo presupuesto para invertir en acciones del índice de Oslo.
+Cada equipo recibió el mismo presupuesto para invertir. "A ver quién obtiene mejor rentabilidad invirtiendo en acciones de la bolsa de Oslo".
 
-Los corredores de bolsa aplicaron su conocimiento y eligieron acciones de grandes industrias: salmoneras, bancos y cruceros. Los _influencers_ fueron bien honestos y admitieron que no cachaban ninguna de las compañías que tenían para elegir, así que se fueron por marcas que asociaron con vacaciones y una vida de lujo. El astrólogo aplicó las milenarias predicciones del calendario chino y el año de la cabra. Según mi rápida búsqueda en Google se asocia con familia y amistad. Plop.
+Los corredores de bolsa se afirmaron la corbata y eligieron acciones de grandes industrias: salmoneras, bancos y cruceros. Los _influencers_ fueron bien honestos y admitieron que no cachaban ninguna de las compañías que tenían para elegir, así que se fueron por marcas que les sonaban a vacaciones y una vida de lujo (buena estrategia igual). El astrólogo contempló las predicciones del calendario chino y el año de la cabra, que según una búsqueda rápida en Google está asociada con familia y amistad 🤔
 
 Las vacas —literalmente— se cagaron en sus acciones, o más bien, en la elección de sus acciones:
 
@@ -67,7 +67,7 @@ Si bien este _ganado ganador_ suena atractivo, dejarse llevar por la sólida car
 
 En este caso se analizaron los resultados **después de apenas 3 meses invirtiendo**. Ganarle al mercado [de forma consistente](https://edu.fintual.cl/ganarle-al-mercado/) en el tiempo es muy difícil. Hacer _stock picking_ es tan aleatorio como unas 🐄 haciendo 💩
 
-> Este simpático experimento sirve para demostrar que a veces se hacen elecciones al azar que le pueden ganar al mercado. Además, hay que observar con cuidado las estrategias _ganadoras_. 
+> Este simpático experimento sirve para demostrar que a veces se hacen elecciones al azar que le pueden ganar al mercado. Además, hay que observar con cuidado las estrategias _ganadoras_.
 
 Nos gustó el experimento. Quizás lo hagamos con palomas en la Plaza de Armas de Santiago.
 
