@@ -9,7 +9,7 @@ url: "/qué-está-pasando-últimamente-con-mis-carteras-a12e6bff5c6d/"
 ---
 ### Las carteras de Fintual tienen exposición a acciones, lo que las hace razonables para un plazo de inversión de un año o más. En particular, hoy las carteras tienen exposición a acciones de empresas globales listadas en Estados Unidos, las cuales desde octubre de este año han rentado mal, principalmente por miedos relacionados a la economía global, riesgos políticos y el alza de tasas de interés en Estados Unidos. No siendo una crisis económica, es un momento de turbulencia que se retroalimenta debido a los pocos días para finalizar el año. Son varios los argumentos para pensar que a principios del próximo año se deberían ver mejoras en los precios de estos activos.
 
-### Puedes ver cómo les ha ido a nuestros fondos [en este link](https://www.fintual-charts.oscarestay.dev/). Si quieres una explicación más detallada, puedes continuar leyendo la siguiente explicación en extenso.
+### Puedes ver cómo les ha ido a nuestros fondos [en este link](https://rentabilidad.fintual.com/). Si quieres una explicación más detallada, puedes continuar leyendo la siguiente explicación en extenso.
 
 ### En extenso…
 
