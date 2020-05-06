@@ -9,7 +9,7 @@ url: "/-en-que-invertir-el-bono-del-trabajo-/"
 
 
 ---
-¿Recibiste un bono en tu trabajo? Aparte de envidiarte, te recomendamos que lo inviertas.
+¿Recibiste un bono en tu trabajo? Aparte de envidiarte, te recomendamos que lo inviertas. 
 
 Las alternativas que tienes en Chile son las siguientes:
 
