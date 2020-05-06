@@ -12,7 +12,7 @@ url = "/capital-de-riesgo-en-chile"
 +++
 En el país falta un empuje desde los inversionistas institucionales de largo plazo, en particular, desde las AFP.
 
-La primera compañía pública listada en la bolsa en la historia tendría hoy una capitalización bursátil de aproximadamente US$ 7,9 billones, unas 270 veces el PIB de Chile. Se trata de la Compañía Neerlandesa de las Indias Orientales, una de las firmas más grandes alguna vez registradas, que logró levantar capital proveniente desde la mayor cantidad de inversionistas posibles, garantizando de esa forma financiamiento de su extraordinario crecimiento y al mismo tiempo compartiendo las ganancias entre sus accionistas.
+La primera compañía pública listada en bolsa en la historia tendría hoy una capitalización bursátil de aproximadamente US$ 7,9 billones, unas 270 veces el PIB de Chile. Se trata de la Compañía Neerlandesa de las Indias Orientales, una de las firmas más grandes alguna vez registradas, que logró levantar capital proveniente desde la mayor cantidad de inversionistas posibles, garantizando de esa forma financiamiento de su extraordinario crecimiento y al mismo tiempo compartiendo las ganancias entre sus accionistas.
 
 Y es que las empresas de capital público han marcado la historia del desarrollo corporativo y de mercados de capitales a nivel global. Hasta el día de hoy, las compañías más grandes y famosas del mundo están listadas: Google, Apple, Amazon, y un largo etcétera.
 
