@@ -27,7 +27,7 @@ Es harto.
 
 ¿Y a los clientes de Fintual?
 
-Eso lo pueden ver aquí: [gráficos](https://www.fintual-charts.oscarestay.dev/)
+Eso lo pueden ver aquí: [gráficos](https://rentabilidad.fintual.com/)
 
 :)
 

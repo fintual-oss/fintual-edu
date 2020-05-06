@@ -21,7 +21,7 @@ Las combinaciones de fondos que recomendamos a nuestros clientes en Fintual en g
 
 Si tu plan de inversión lo creaste a un plazo de inversión y un nivel de riesgo que te acomodan, entonces **no deberías hacer cambios a tu inversión actual** porque ya están considerados los altibajos.
 
-Puedes ver cómo les ha ido a nuestros fondos en [este link](https://www.fintual-charts.oscarestay.dev/).
+Puedes ver cómo les ha ido a nuestros fondos en [este link](https://rentabilidad.fintual.com/).
 
 ### Con más detalle
 

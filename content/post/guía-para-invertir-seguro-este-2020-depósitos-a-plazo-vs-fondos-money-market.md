@@ -62,7 +62,7 @@ Desde horizontes de inversión de un año o más recomendamos al menos revisar o
 
 #### **Oye, ¿y Fintual tiene un _money market_?**
 
-Sí, se llama **Very Conservative Streep** y de cariño le decimos "Bajo el Colchón". Puedes encontrar más información de nuestros fondos y su rentabilidad [acá](https://www.fintual-charts.oscarestay.dev/).
+Sí, se llama **Very Conservative Streep** y de cariño le decimos "Bajo el Colchón". Puedes encontrar más información de nuestros fondos y su rentabilidad [acá](https://rentabilidad.fintual.com/).
 
 {{% prueba_fintual
 utmcontent="dap_vs_mm"

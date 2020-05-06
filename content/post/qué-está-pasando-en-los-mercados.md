@@ -12,7 +12,7 @@ url = "/que-esta-pasando-en-los-mercados"
 +++
 Varios activos globales, especialmente las acciones, sufrieron fuertes caídas de precio este lunes 9 de marzo. Entre las causas están una pronunciada baja en los precios del petróleo y un aumento de la percepción sobre las consecuencias del coronavirus en la economía global.
 
-Las inversiones más afectadas han sido objetivos con riesgo moderado y alto. Los objetivos más conservadores se han visto marginalmente afectados. Puedes ver cómo les ha ido a nuestros fondos [acá](https://www.fintual-charts.oscarestay.dev/).
+Las inversiones más afectadas han sido objetivos con riesgo moderado y alto. Los objetivos más conservadores se han visto marginalmente afectados. Puedes ver cómo les ha ido a nuestros fondos [acá](https://rentabilidad.fintual.com/).
 
 #### Si creaste tu plan de inversión con plazos y un nivel de riesgo que te acomoda, no deberías hacer cambios a tu inversión actual. Lo más importante es mantener la calma y no cambiar los planes que te propusiste inicialmente.
 
