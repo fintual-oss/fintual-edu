@@ -51,7 +51,7 @@ Yo pensé que los _influencers_ eran la sorpresa, pero al final del programa los
 
 ¿Cómo lograron esa rentabilidad tan superior al resto? Fácil. Eligieron de antemano 20 combinaciones diferentes y convenientemente mostraron sólo la mejor, ejemplificando así algo que se conoce como **sesgo de supervivencia**.
 
-De hecho, la mitad de los fondos noruegos cierra a los 5 años. A los 10 años, el 80% de los fondos no existe:
+De hecho, la mitad de los fondos noruegos cierra a los 5 años. A los 10 años, el 80% de los fondos ya no existe. Los hacen desaparecer porque simplemente no le estaban _achuntando_.
 
 ![No cachaba que el noruego era tan ilegible.](/uploads/g2.jpeg)_No cachaba que el noruego era tan ilegible._
 
