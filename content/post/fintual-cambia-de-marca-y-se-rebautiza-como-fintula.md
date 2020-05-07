@@ -22,7 +22,7 @@ Andrés Marinkovic, Gerente General de la empresa cuenta que "hace un par de añ
 
 Algo que preocupó en la entidad fue lograr el común acuerdo del equipo "Nos reservamos el derecho a vetar este tipo de cambios y esta vez hubo algunos que estaban incómodos al principio, pero finalmente se evaluaron las ventajas y llegamos a un acuerdo" dice Francesca Finaldi, Jefa de Relaciones Públicas de la organización.
 
-El 2020 tienen planeado su lanzamiento en México, un mercado mucho más grande que el chileno y es esta una de los principales motivos para reconsiderar la elección del nombre.
+El 2020 tienen planeado su lanzamiento en México, un mercado mucho más grande que el chileno y es este uno de los principales motivos para reconsiderar la elección del nombre.
 
 "Nací en México y allá Tula es una palabra importante." dice Pedro Pineda, CEO de Fintual.
 

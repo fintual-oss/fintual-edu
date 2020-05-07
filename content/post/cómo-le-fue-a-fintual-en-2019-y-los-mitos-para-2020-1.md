@@ -18,8 +18,8 @@ Estas son las buenas noticias que nos tienen felices:
 * **Moderate Pitt** rentó 19,08% en el año.
 * **Conservative Clooney** rentó 4,81% en 2019.
 
-**Todas las rentabilidades ya tienen descontada la comisión.**   
-  
+**Todas las rentabilidades ya tienen descontada la comisión.**
+
 Y cuando se trata de ahorros previsionales, las rentabilidades son un poquito mejores porque [**cobramos un poquito menos en nuestras series APV**](https://fintual.cl/apv) (0,49%). Como confiamos que tus inversiones estarán muuuchos años con nosotros (son para la jubilación, ¿o no?), hicimos el esfuerzo de tener [**el APV más barato de la industria de fondos según El Mercurio Inversiones**](https://www.elmercurio.com/Inversiones/Noticias/Analisis/2019/01/25/Nueva-serie-APV-de-fondos-mutuos-de-Fintual-es-la-mas-barata-del-mercado.aspx).
 
 Así les ha ido a los fondos Fintual desde su creación en febrero de 2018 después de todas las comisiones:
@@ -68,7 +68,7 @@ Nuevamente, hay muchos analistas que tienen sus proyecciones, pero es poco o nad
 
 ##### #5: _Tienen muchas inversiones en Estados Unidos, eso quiere decir que no están bien diversificados_ - Falso
 
-**Otro mito,** porque **las acciones listadas en Estados Unidos representan aproximadamente el 43% del mercado de las acciones a nivel global** según Nasdaq, y los ingresos de empresas en Estados Unidos provienen casi un tercio de países distintos de Estados Unidos (de hecho, en el caso de un índice como el S&P500, [29% para ser precisos](https://www.spglobal.com/en/research-insights/articles/2019-review-recession-war-nonchalance-deficits-and-brexit-the-year-in-5-charts)).
+**Otro mito,** porque **las acciones listadas en Estados Unidos representan aproximadamente el 43% del mercado de las acciones a nivel global** según Nasdaq, y los ingresos de empresas en Estados Unidos provienen, casi un tercio, de países distintos de Estados Unidos (de hecho, en el caso de un índice como el S&P500, [29% para ser precisos](https://www.spglobal.com/en/research-insights/articles/2019-review-recession-war-nonchalance-deficits-and-brexit-the-year-in-5-charts)).
 
 Por lo tanto, es falso decir que no representan a las acciones globales o que no tienen ningún grado de diversificación geográfica en sus utilidades. Además, la diversificación por empresas o por compañías es altísima: **tanto Pitt como Norris tienen más de 3.500 empresas distintas como subyacentes.** El daño es bastante bajo si llegara a quebrar una de esas empresas.
 
@@ -84,10 +84,10 @@ Si llegaste hasta acá fue porque te interesó lo que hicimos en 2019. Sé parte
 
 {{< /prueba_fintual >}}
 
-Finalmente, y como somos una entidad regulada, tenemos que agregar estos disclaimers fomes, pero que siempre es útil tener presente:  
-_- Las rentabilidades nominales corresponden a la serie A de cada fondo, que al cierre de diciembre/2019 son:  
-Conservative Clooney 1,09% para el mes, -1,75% últimos tres meses, 4,81% último año  
-Moderate Pitt -1,85% para el mes, 4,21% últimos tres meses, 19,08% último año  
-Risky Norris -5,29% para el mes,10,69% últimos tres meses, 37,52% último año  
-\- La rentabilidad o ganancia obtenida en el pasado por este fondo, no garantiza que ella se repita en el futuro. Los valores de las cuotas de los fondos mutuos son variables.  
+Finalmente, y como somos una entidad regulada, tenemos que agregar estos disclaimers fomes, pero que siempre es útil tener presente:
+_- Las rentabilidades nominales corresponden a la serie A de cada fondo, que al cierre de diciembre/2019 son:
+Conservative Clooney 1,09% para el mes, -1,75% últimos tres meses, 4,81% último año
+Moderate Pitt -1,85% para el mes, 4,21% últimos tres meses, 19,08% último año
+Risky Norris -5,29% para el mes,10,69% últimos tres meses, 37,52% último año
+\- La rentabilidad o ganancia obtenida en el pasado por este fondo, no garantiza que ella se repita en el futuro. Los valores de las cuotas de los fondos mutuos son variables.
 \- Infórmese de las características esenciales de la inversión en este fondo mutuo, las que se encuentran contenidas en su reglamento interno y contrato de suscripción de cuotas._
