@@ -20,7 +20,7 @@ Entonces, la idea es simple: _invirtamos en empresas verdes._ Pero, ¿qué signi
 
 #### Definiendo _inversiones verdes_
 
-Digamos que las “inversiones verdes” son inversiones con **impacto social y ambiental,** llamado también **inversiones socialmente responsables o SRI,** por sus siglas en inglés.
+Digamos que las “inversiones verdes” son inversiones con **impacto social y ambiental,** llamadas también **inversiones socialmente responsables o SRI,** por sus siglas en inglés.
 
 La definición de inversiones socialmente responsables aún es controversial y continúa evolucionando. La idea inicial tenía que ver con invertir en la “base de la pirámide”, es decir, crear negocios que beneficien a los más pobres, como por ejemplo, programas de microfinanciamiento en los años 60s y 70s, casi siempre con apoyo gubernamental o filantrópico, que ayudaban a financiar programas de desarrollo a familias pobres.
 

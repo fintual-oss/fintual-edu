@@ -49,7 +49,7 @@ Por ejemplo: tu sueldo mensual es de $1.000.000, pero en julio y diciembre ganas
 * Sumas el total que ganaste en el año, $22.000.000.
 * Según ese monto, pagas una tasa máxima anual de 8%.
 * **En total, pagas $779.225 en impuestos al año.** Así, la diferencia en impuestos sólo por reliquidar es de $1.291.895.
-* Al invertir en fondos mutuos (aunque sea $1 en Fintual) el SII aplicará automáticamente esta reliquidación anual, posiblemente ahorrándote muchos impuestos.  
+* Al invertir en fondos mutuos (aunque sea $1 en Fintual) el SII aplicará automáticamente esta reliquidación anual, posiblemente ahorrándote muchos impuestos.
   \*Las cifras anteriores son aproximadas y calculadas a mayo 2019.
 
 #### **4. APV**
@@ -58,7 +58,7 @@ Los planes de **Ahorro Previsional Voluntario** (APV) tienen un beneficio especi
 
 **Régimen A**: El Estado te regala hasta un 15% de lo que ahorres en el año, con un tope de 6 UTM anual, unos $290.000 aproximados. Esto significa que recibes el máximo beneficio si ahorras $1.933.333 al año en tu APV-A.
 
-**Régimen B**: Este beneficio es complementario al A y sirve para que deduzcan esos ahorros de tu sueldo antes de impuestos. Está pensando para disminuir la carga tributaria de personas con ingresos altos.
+**Régimen B**: Este beneficio es complementario al A y sirve para que deduzcan esos ahorros de tu sueldo antes de impuestos. Está pensado para disminuir la carga tributaria de personas con ingresos altos.
 
 Más info en [www.fintual.com/apv](https://fintual.cl/apv/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=edu+beneficios+tributarios+fintual-280).
 

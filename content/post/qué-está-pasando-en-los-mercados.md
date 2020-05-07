@@ -12,16 +12,16 @@ url = "/que-esta-pasando-en-los-mercados"
 +++
 Varios activos globales, especialmente las acciones, sufrieron fuertes caídas de precio este lunes 9 de marzo. Entre las causas están una pronunciada baja en los precios del petróleo y un aumento de la percepción sobre las consecuencias del coronavirus en la economía global.
 
-Las inversiones más afectadas han sido objetivos con riesgo moderado y alto. Los objetivos más conservadores se han visto marginalmente afectados. Puedes ver cómo les ha ido a nuestros fondos [acá](https://www.fintual-charts.oscarestay.dev/).
+Las inversiones más afectadas han sido objetivos con riesgo moderado y alto. Los objetivos más conservadores se han visto marginalmente afectados. Puedes ver cómo les ha ido a nuestros fondos [acá](https://rentabilidad.fintual.com/).
 
 #### Si creaste tu plan de inversión con plazos y un nivel de riesgo que te acomoda, no deberías hacer cambios a tu inversión actual. Lo más importante es mantener la calma y no cambiar los planes que te propusiste inicialmente.
 
 Este lunes 9 de marzo los mercados amanecieron con fuertes bajas de precio, principalmente por los siguientes motivos:
 
-* **Un sorpresivo desacuerdo de los productores de petróleo generó una caída de más de 25% del precio del petróleo WTI**, la mayor caída desde la Guerra del Golfo Pérsico en 1991, que es el cual nos basamos en el país para establecer los precios de los combustibles. El desacuerdo se produce luego de que Rusia se negara a continuar un pacto de 3 años con Arabia Saudita, con lo cual ninguno de los dos cedió a cortar producción.
+* **Un sorpresivo desacuerdo de los productores de petróleo generó una caída de más de 25% del precio del petróleo WTI**, la mayor caída desde la Guerra del Golfo Pérsico en 1991, que es en el cual nos basamos en el país para establecer los precios de los combustibles. El desacuerdo se produce luego de que Rusia se negara a continuar un pacto de 3 años con Arabia Saudita, con lo cual ninguno de los dos cedió a cortar producción.
 * **El coronavirus continúa afectando directa o indirectamente la economía global,** generando alta incertidumbre global y afectando rápidamente a industrias como la turística y aeronáutica.
 
-#### 
+####
 
 #### ¿Cuánto bajaron los principales índices de acciones?
 
@@ -31,7 +31,7 @@ También se vieron afectados los mercados desarrollados: -7,94% para el DAX de A
 
 #### ¿Por qué el dólar subió?
 
-El precio del tipo de cambio USD/CLP (dólar contra peso) aumentó un 1,87% el mismo día, llegando a $841,95. El motivo detrás está principalmente la baja de precios global de _commodities_ (como el cobre) y la baja de monedas de países emergentes.
+El precio del tipo de cambio USD/CLP (dólar contra peso) aumentó un 1,87% el mismo día, llegando a $841,95. El motivo detrás está principalmente en la baja de precios globales de _commodities_ (como el cobre) y la baja de monedas de países emergentes.
 
 La guerra de precios entre productores de petróleo: mal para el corto plazo, bien para el largo plazo
 
