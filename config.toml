@@ -30,6 +30,10 @@ sharingicons = false
     name = "Andrés Marinkovic"
     description = "Ingeniero Civil Electricista de la Chile ⚡️"
     thumbnail = "/uploads/andres.jpg"
+    [params.writers."Ignacio Soffia"]
+    name = "Ignacio Soffia"
+    description = "Dsgnr en Fintual. Sospechamos que Steve Jobs vive en él"
+    thumbnail = "/uploads/soffia.jpg"
     [params.writers."Omar Larré"]
     name = "Omar Larré"
     description = "Ingeniero Matemático de la Chile y experto en finanzas. Dicen que es un genio"
