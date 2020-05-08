@@ -44,8 +44,7 @@ Aquí están los 20 seleccionados:
 <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Álvaro Ardiles, Chile: <a target="_blank" href="https://alvaroardiles.cl/">Web</a></i></figcaption>
 </figure>
 </div>
-
-
+<br>
 <div style="text-align:center">
 <figure>
 <img src="/uploads/alvarotorrens.png">
