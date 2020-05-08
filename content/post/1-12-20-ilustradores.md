@@ -95,13 +95,21 @@ Aquí están los 20 seleccionados:
 </figure>
 </div>
 
+<div style="text-align:center">
+<figure>
+<img src="/uploads/ludmiladrago.png">
+<figcaption style="display:block;text-align:center;font-size:.8rem"><i>Ludmila Drago, Argentina. <a target="_blank" href="https://www.instagram.com/ludmiladragoart/?hl=es-la">Instagram</a></i></figcaption>
+</figure>
+</div>
 
+<div style="text-align:center">
+<figure>
+<img src="/uploads/esg.png">
+<figcaption style="display:block;text-align:center;font-size:.8rem"><i>AMichelle Nomás, Chile. <a target="_blank" href="https://www.tradefinanceglobal.com/posts/sustainable-finance">Trade Finance Global</a></i></figcaption>
+</figure>
+</div>
 
-**Ludmila Drago, Argentina:** [**instagram**](https://www.instagram.com/ludmiladragoart/?hl=es-la)
-
-![](/uploads/ludmiladrago.png)
-
-**Michelle Nomás, Chile:** [**instagram**](https://www.instagram.com/michellenomas/)
+**:** [**instagram**](https://www.instagram.com/michellenomas/)
 
 ![](/uploads/michellenomas.png)
 
