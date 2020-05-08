@@ -7,10 +7,9 @@ description = ""
 hide = true
 image = ""
 title = "Informe del 24 de febrero"
-url = "informe-24-febrero-2020"
+url = "/informe-24-febrero-2020"
 
 +++
-
 > "En momentos de alta volatilidad sistémica a veces lo más difícil es hacer nada y simplemente esperar."
 
 ### En resumen
@@ -51,4 +50,3 @@ En cambio, los impactos en el mercado tienden a ser de corto plazo y altamente e
 ![](/uploads/tabla_epidemias.png)
 
 Replicando este ejercicio con un índice de acciones globales, como el MSCI World Index, llegamos a resultados parecidos, es decir, el efecto sobre el mercado es de corto plazo y luego de 6 meses ya parecen no ser relevantes.
-
