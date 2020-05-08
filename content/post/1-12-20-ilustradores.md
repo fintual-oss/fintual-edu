@@ -74,10 +74,13 @@ Aquí están los 20 seleccionados:
 </figure>
 </div>
 
+<div style="text-align:center">
+<figure>
+<img src="/uploads/hectoralvarez.png">
+<figcaption style="display:block;text-align:center;font-size:.8rem"><i>Hector Álvarez, Chile. <a target="_blank" href="https://www.instagram.com/eto2d/">Instagram</a></i></figcaption>
+</figure>
+</div>
 
-**Hector Álvarez, Chile:** [**instagram**](https://www.instagram.com/eto2d/)
-
-![](/uploads/hectoralvarez.png)
 
 **José Utreras (Planeta Errante), Chile:** [**instagram**](https://www.instagram.com/elplanetaerrante/)
 
