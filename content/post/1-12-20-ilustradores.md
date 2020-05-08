@@ -21,8 +21,14 @@ url = "/1-12-20-ilustraciones"
 
  ![](/uploads/danielhache.png)
 
+**Daniela Quintana, España:** [**instagram**](https://www.instagram.com/ladaniquin/)
+
 ![](/uploads/danielaquintana.png)
 
+
+
 ![](/uploads/gestrudisshaw.png)
+
+
 
 ![](/uploads/hectoralvarez.png)
