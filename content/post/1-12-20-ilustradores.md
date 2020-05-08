@@ -147,58 +147,38 @@ Aquí están los 20 seleccionados:
 
 <div style="text-align:center">
 <figure>
-<img src="/uploads/esg.png">
-<figcaption style="display:block;text-align:center;font-size:.8rem"><i>Algunos principios ESG. Fuente: <a target="_blank" href="https://www.tradefinanceglobal.com/posts/sustainable-finance">Trade Finance Global</a></i></figcaption>
+<img src="/uploads/raulsaldaña.png">
+<figcaption style="display:block;text-align:center;font-size:.8rem"><i>Raúl Saldaña, México: <a target="_blank" href="https://www.instagram.com/soyraulitoo/?hl=es-la">Instagram</a></i></figcaption>
 </figure>
 </div>
-**Raúl Saldaña, México:** [**instagram**](https://www.instagram.com/soyraulitoo/?hl=es-la)
-
-![](/uploads/raulsaldaña.png)
-
 
 <div style="text-align:center">
 <figure>
-<img src="/uploads/esg.png">
-<figcaption style="display:block;text-align:center;font-size:.8rem"><i>Algunos principios ESG. Fuente: <a target="_blank" href="https://www.tradefinanceglobal.com/posts/sustainable-finance">Trade Finance Global</a></i></figcaption>
+<img src="/uploads/sandrinneanne.png">
+<figcaption style="display:block;text-align:center;font-size:.8rem"><i>Sandrinne Anne, Chile: <a target="_blank" href="https://www.instagram.com/sandrine_anne/">Trade Finance Global</a></i></figcaption>
 </figure>
 </div>
-
-
-**Sandrinne Anne, Chile:** [**instagram**](https://www.instagram.com/sandrine_anne/)
-
-![](/uploads/sandrinneanne.png)
-
 
 <div style="text-align:center">
 <figure>
-<img src="/uploads/esg.png">
-<figcaption style="display:block;text-align:center;font-size:.8rem"><i>Algunos principios ESG. Fuente: <a target="_blank" href="https://www.tradefinanceglobal.com/posts/sustainable-finance">Trade Finance Global</a></i></figcaption>
+<img src="/uploads/sergioedwards.png">
+<figcaption style="display:block;text-align:center;font-size:.8rem"><i>Sergio Edwards, Chile: <a target="_blank" href="https://www.behance.net/sergioedwards">Behance</a></i></figcaption>
 </figure>
 </div>
-**Sergio Edwards, Chile:** [**behance**](https://www.behance.net/sergioedwards)
-
-![](/uploads/sergioedwards.png)
 
 <div style="text-align:center">
 <figure>
-<img src="/uploads/esg.png">
-<figcaption style="display:block;text-align:center;font-size:.8rem"><i>Algunos principios ESG. Fuente: <a target="_blank" href="https://www.tradefinanceglobal.com/posts/sustainable-finance">Trade Finance Global</a></i></figcaption>
+<img src="/uploads/shermanfuchs.png">
+<figcaption style="display:block;text-align:center;font-size:.8rem"><i>Sherman Fuchs, Argentina: <a target="_blank" href="https://www.behance.net/sher">Behance</a></i></figcaption>
 </figure>
 </div>
-
-**Sherman Fuchs, Argentina:** [**behance**](https://www.behance.net/sher)
-
-![](/uploads/shermanfuchs.png)
 
 <div style="text-align:center">
 <figure>
-<img src="/uploads/esg.png">
-<figcaption style="display:block;text-align:center;font-size:.8rem"><i>Algunos principios ESG. Fuente: <a target="_blank" href="https://www.tradefinanceglobal.com/posts/sustainable-finance">Trade Finance Global</a></i></figcaption>
+<img src="/uploads/valentinapalma.png">
+<figcaption style="display:block;text-align:center;font-size:.8rem"><i>Valentina Palma, Chile: no tiene portafolio online</i></figcaption>
 </figure>
 </div>
-**Valentina Palma, Chile: no tiene portafolio online.**
-
-![](/uploads/valentinapalma.png)
 
 Gracias a todos los participantes!!! Fue bacán ver su trabajo. Y ojo, seguimos escribiendo posts todos los meses así que probablemente nos contactemos de a poco con los demás.
 
