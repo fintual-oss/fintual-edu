@@ -36,7 +36,7 @@ Los planes de **Ahorro Previsional Voluntario** (APV) tienen un beneficio especi
 
 **Régimen A**: El Estado te regala hasta un 15% de lo que ahorres en el año, con un tope de 6 UTM anual, unos $290.000 aproximados. Esto significa que recibes el máximo beneficio si ahorras $1.933.333 al año en tu APV-A.
 
-**Régimen B**: Este beneficio es complementario al A y sirve para que deduzcan esos ahorros de tu sueldo antes de impuestos. Está pensado para disminuir la carga tributaria de personas con ingresos altos. En algunos casos, incluso te pueden hacer una devolución de impuestos
+**Régimen B**: Este beneficio es complementario al A y sirve para que deduzcan esos ahorros de tu sueldo antes de impuestos. Está pensado para disminuir la carga tributaria de personas con ingresos altos. En algunos casos, incluso te pueden llegar a devolver impuestos.
 
 Más info en [www.fintual.com/apv](https://fintual.cl/apv/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=edu+beneficios+tributarios+fintual-280).
 
