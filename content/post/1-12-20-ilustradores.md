@@ -35,7 +35,7 @@ Ahora tocaba la parte más difícil: pasar de 300 a 12. Junto a [Nicole](https:/
 
 A filtrar.
 
-1. Ambos vimos cada portafolio y cada uno seleccionó 20 consideráramos sobresalientes. 
+1. Ambos vimos cada portafolio y cada uno seleccionó 20 consideráramos sobresalientes.
 2. Llegamos a un grupo final de 32 (calzamos en 8).
 3. Descartamos en base al _fit_ que veíamos con Fintual y la originalidad en su técnica. No fuimos capaces de reducir la lista a 12, así que decidimos agregar cupos y cerrar la convocatoria en 20.
 
@@ -184,9 +184,9 @@ Aquí están los 20 seleccionados:
 
 Gracias a todos los participantes!!! Fue bacán ver su trabajo. Y ojo, seguimos escribiendo posts todos los meses así que probablemente nos contactemos de a poco con los demás.
 
-Acá dejamos el portafolio de todas las personas que participaron. Hay material muy muy bueno :)
-
 Ahora manos a la obra! Esperemos tener un blog renovado dentro de poco.
+
+Acá dejamos el portafolio de todas las personas que participaron. Hay material muy muy bueno :)
 
 [https://www.behance.net/mscohete](https://www.behance.net/mscohete "https://www.behance.net/mscohete")
 
