@@ -35,7 +35,7 @@ Ahora tocaba la parte más difícil: pasar de 300 a 12. Junto a [Nicole](https:/
 
 A filtrar.
 
-1. Ambos vimos cada portafolio y cada uno seleccionó 20 consideráramos sobresalientes.
+1. Ambos vimos cada portafolio y cada uno seleccionó 20 que consideramos sobresalientes.
 2. Llegamos a un grupo final de 32 (calzamos en 8).
 3. Descartamos en base al _fit_ que veíamos con Fintual y la originalidad en su técnica. No fuimos capaces de reducir la lista a 12, así que decidimos agregar cupos y cerrar la convocatoria en 20.
 
