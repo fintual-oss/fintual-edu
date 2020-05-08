@@ -64,3 +64,7 @@ url = "/1-12-20-ilustraciones"
 **Paula Irarrázaval, Chile:** [**instagram**](https://www.instagram.com/paula.irarrazaval/)
 
 ![](/uploads/paulairarrazaval.png)
+
+**Pau Braw, Chile:** [**instagram**](https://www.instagram.com/paubraw.arts/)
+
+![](/uploads/paubraw.png)
