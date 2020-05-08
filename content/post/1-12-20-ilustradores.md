@@ -36,3 +36,17 @@ url = "/1-12-20-ilustraciones"
 **José Utreras (Planeta Errante), Chile:** [**instagram**](https://www.instagram.com/elplanetaerrante/)
 
 ![](/uploads/joseutreras.png)
+
+**Juan de Dios Urrutia, Chile:** [**behance**](https://www.behance.net/JuandeDiosUrrutia)
+
+![](/uploads/Juandediosurrutia.png)
+
+**Ludmila Drago, Argentina:** [**instagram**](https://www.instagram.com/ludmiladragoart/?hl=es-la)
+
+![](/uploads/ludmiladrago.png)
+
+**Michelle Nomás, Chile:** [**instagram**](https://www.instagram.com/michellenomas/)
+
+![](/uploads/michellenomas.png)
+
+**Michi González, Guatemala:** [**instagram**](https://www.instagram.com/michi.gg/?hl=es%20https://michigonzalez.myportfolio.com/)
