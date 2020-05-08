@@ -46,7 +46,7 @@ Más info en [www.fintual.com/apv](https://fintual.cl/apv/?utm_source=edu&utm_me
 
 Si eres un **trabajador dependiente con un sólo empleador** y tienes un sueldo que varía todos los meses (por ejemplo, por comisiones o bonos) puede que se te haya aplicado una tasa de impuestos más alta que la que te corresponde —por los meses que más ganaste— considerando la totalidad de tus ingresos durante el año.  
   
-Con la reliquidación de sueldo puedes obtener la devolución de los impuestos pagados. Para que se te aplique automáticamente, debes hacer tu declaración de impuestos aunque no estés obligado a hacerla.
+Con la reliquidación de sueldo puedes obtener la devolución de los impuestos pagados. **Para que se te aplique automáticamente, debes hacer tu declaración de impuestos** aunque no estés obligado a ello.
 
 Por ejemplo: tu sueldo mensual es de $1.000.000, pero en julio y diciembre ganaste un bono de $5.000.000.
 
@@ -60,8 +60,7 @@ Por ejemplo: tu sueldo mensual es de $1.000.000, pero en julio y diciembre ganas
 
 * Sumas el total que ganaste en el año, $22.000.000.
 * Según ese monto, pagas una tasa máxima anual de 8%.
-* **En total, pagas $779.225 en impuestos al año.** Así, la diferencia en impuestos sólo por reliquidar es de $1.291.895.
-* Al invertir en fondos mutuos (aunque sea $1 en Fintual) el SII aplicará automáticamente esta reliquidación anual, posiblemente ahorrándote muchos impuestos.   
+* **En total, pagas $779.225 en impuestos al año.** Así, la diferencia en impuestos sólo por reliquidar es de $1.291.895.  
   \*Las cifras anteriores son aproximadas y calculadas a mayo 2019.
 
 Usar algunos de estos beneficios ahora depende de ti, ya tú sae' 😏
