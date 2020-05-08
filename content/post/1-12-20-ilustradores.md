@@ -10,7 +10,9 @@ title = "300 ilustradores de Latinoamérica y nuestros 20 favoritos"
 url = "/300-ilustradores-de-latinoamerica"
 
 +++
-Participar era simple: tenías que enviar un correo a design@fintual.com con links a tus portafolio o RRSS y ser de Latinoamérica. Publicamos y en cuestión de días explotó. En menos de dos semanas llegaron más de 300 postulantes de 8 países.
+Publicamos y en cuestión de días explotó. 
+
+En menos de dos semanas postularon más de 300 ilustradores de 8 países.
 
 Fintual ayuda a las personas que no saben de inversiones a invertir fácil. Parte del proceso trasciende la herramienta _per se_, y se hace cargo de educar financieramente a nuestros clientes.
 
