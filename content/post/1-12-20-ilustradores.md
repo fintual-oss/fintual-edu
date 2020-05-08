@@ -5,12 +5,12 @@ categories = ["noticias"]
 date = 2020-05-08T00:17:31Z
 description = "Teníamos que ilustrar nuestro blog de educación financiera. En vez de escoger a una sola mano, escogimos 20."
 hide = true
-image = ""
+image = "/uploads/post ganadores fintual art.jpg"
 title = "300 ilustradores de Latinoamérica y nuestros 20 favoritos"
 url = "/300-ilustradores-de-latinoamerica"
 
 +++
-Publicamos y en cuestión de días explotó. 
+Publicamos y en cuestión de días explotó.
 
 En menos de dos semanas postularon más de 300 ilustradores de 8 países.
 
@@ -36,7 +36,9 @@ Ahora tocaba la parte más difícil: pasar de 300 a 12. Junto a [Nicole](https:/
 
 A filtrar.
 
-Ambos teníamos que ver sí o sí cada portafolio y seleccionar 20 que consideráramos sobresalientes. Llegamos a un grupo final de 32 (calzamos en 8). Después tuvimos que ir descartando en base al _fit_ que veíamos con Fintual y la originalidad en su técnica. No fuimos capaces de reducir la lista a 12, así que decidimos agregar cupos y cerrar la convocatoria en 20.
+1. Ambos vimos cada portafolio y cada uno seleccionó 20 consideráramos sobresalientes. 
+2. Llegamos a un grupo final de 32 (calzamos en 8).
+3. Descartamos en base al _fit_ que veíamos con Fintual y la originalidad en su técnica. No fuimos capaces de reducir la lista a 12, así que decidimos agregar cupos y cerrar la convocatoria en 20.
 
 Aquí están los 20 seleccionados:
 
@@ -183,7 +185,9 @@ Aquí están los 20 seleccionados:
 
 Gracias a todos los participantes!!! Fue bacán ver su trabajo. Y ojo, seguimos escribiendo posts todos los meses así que probablemente nos contactemos de a poco con los demás.
 
-Ahora manos a la obra y esperemos tener un renovado blog dentro de poco :)
+Acá dejamos el portafolio de todas las personas que participaron. Hay material muy muy bueno :)
+
+Ahora manos a la obra! Esperemos tener un blog renovado dentro de poco.
 
 [https://www.behance.net/mscohete](https://www.behance.net/mscohete "https://www.behance.net/mscohete")
 
