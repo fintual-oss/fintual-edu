@@ -50,3 +50,9 @@ url = "/1-12-20-ilustraciones"
 ![](/uploads/michellenomas.png)
 
 **Michi González, Guatemala:** [**instagram**](https://www.instagram.com/michi.gg/?hl=es%20https://michigonzalez.myportfolio.com/)
+
+![](/uploads/michigonzalez.png)
+
+**Pascale Gonczanski, Chile:** [**instagram**](https://www.instagram.com/pascalasca/)
+
+![](/uploads/pascalegonczanski.png)
