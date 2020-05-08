@@ -104,14 +104,12 @@ Aquí están los 20 seleccionados:
 
 <div style="text-align:center">
 <figure>
-<img src="/uploads/esg.png">
-<figcaption style="display:block;text-align:center;font-size:.8rem"><i>AMichelle Nomás, Chile. <a target="_blank" href="https://www.tradefinanceglobal.com/posts/sustainable-finance">Trade Finance Global</a></i></figcaption>
+<img src="/uploads/michellenomas.png">
+<figcaption style="display:block;text-align:center;font-size:.8rem"><i>Michelle Nomás, Chile. <a target="_blank" href="https://www.instagram.com/michellenomas/">Instagram</a></i></figcaption>
 </figure>
 </div>
 
-**:** [**instagram**](https://www.instagram.com/michellenomas/)
 
-![](/uploads/michellenomas.png)
 
 **Michi González, Guatemala:** [**instagram**](https://www.instagram.com/michi.gg/?hl=es%20https://michigonzalez.myportfolio.com/)
 
