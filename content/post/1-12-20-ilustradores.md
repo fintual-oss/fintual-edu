@@ -45,12 +45,14 @@ Aquí están los 20 seleccionados:
 </figure>
 </div>
 
+
 <div style="text-align:center">
 <figure>
 <img src="/uploads/alvarotorrens.png">
 <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Álvaro Torrens, Colombia: <a target="_blank" href="https://www.behance.net/drawalv">Behance</a></i></figcaption>
 </figure>
 </div>
+
 
 <div style="text-align:center">
 <figure>
@@ -59,12 +61,14 @@ Aquí están los 20 seleccionados:
 </figure>
 </div>
 
+
 <div style="text-align:center">
 <figure>
 <img src="/uploads/danielaquintana.png">
 <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Daniela Quintana, España: <a target="_blank" href="https://www.instagram.com/ladaniquin/">Instagram</a></i></figcaption>
 </figure>
 </div>
+
 
 <div style="text-align:center">
 <figure>
@@ -73,12 +77,14 @@ Aquí están los 20 seleccionados:
 </figure>
 </div>
 
+
 <div style="text-align:center">
 <figure>
 <img src="/uploads/hectoralvarez.png">
 <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Hector Álvarez, Chile: <a target="_blank" href="https://www.instagram.com/eto2d/">Instagram</a></i></figcaption>
 </figure>
 </div>
+
 
 <div style="text-align:center">
 <figure>
@@ -87,12 +93,14 @@ Aquí están los 20 seleccionados:
 </figure>
 </div>
 
+
 <div style="text-align:center">
 <figure>
 <img src="/uploads/Juandediosurrutia.png">
 <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Juan de Dios Urrutia, Chile: <a target="_blank" href="https://www.behance.net/JuandeDiosUrrutia">Behance</a></i></figcaption>
 </figure>
 </div>
+
 
 <div style="text-align:center">
 <figure>
@@ -101,6 +109,7 @@ Aquí están los 20 seleccionados:
 </figure>
 </div>
 
+
 <div style="text-align:center">
 <figure>
 <img src="/uploads/michellenomas.png">
@@ -108,12 +117,14 @@ Aquí están los 20 seleccionados:
 </figure>
 </div>
 
+
 <div style="text-align:center">
 <figure>
 <img src="/uploads/michigonzalez.png">
 <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Michi González, Guatemala: <a target="_blank" href="https://www.instagram.com/michi.gg/?hl=es%20https://michigonzalez.myportfolio.com/">Instagram</a></i></figcaption>
 </figure>
 </div>
+
 
 <div style="text-align:center">
 <figure>
@@ -130,12 +141,14 @@ Aquí están los 20 seleccionados:
 </figure>
 </div>
 
+
 <div style="text-align:center">
 <figure>
 <img src="/uploads/paulairarrazaval.png">
 <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Paula Irarrázaval, Chile: <a target="_blank" href="https://www.instagram.com/paula.irarrazaval">Instagram</a></i></figcaption>
 </figure>
 </div>
+
 
 <div style="text-align:center">
 <figure>
@@ -144,6 +157,7 @@ Aquí están los 20 seleccionados:
 </figure>
 </div>
 
+
 <div style="text-align:center">
 <figure>
 <img src="/uploads/raulsaldaña.png">
@@ -151,12 +165,14 @@ Aquí están los 20 seleccionados:
 </figure>
 </div>
 
+
 <div style="text-align:center">
 <figure>
 <img src="/uploads/sandrinneanne.png">
-<figcaption style="display:block;text-align:center;font-size:.8rem"><i>Sandrinne Anne, Chile: <a target="_blank" href="https://www.instagram.com/sandrine_anne/">Trade Finance Global</a></i></figcaption>
+<figcaption style="display:block;text-align:center;font-size:.8rem"><i>Sandrinne Anne, Chile: <a target="_blank" href="https://www.instagram.com/sandrine_anne/">Instagram</a></i></figcaption>
 </figure>
 </div>
+
 
 <div style="text-align:center">
 <figure>
@@ -165,6 +181,7 @@ Aquí están los 20 seleccionados:
 </figure>
 </div>
 
+
 <div style="text-align:center">
 <figure>
 <img src="/uploads/shermanfuchs.png">
@@ -172,12 +189,14 @@ Aquí están los 20 seleccionados:
 </figure>
 </div>
 
+
 <div style="text-align:center">
 <figure>
 <img src="/uploads/valentinapalma.png">
 <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Valentina Palma, Chile: no tiene portafolio online</i></figcaption>
 </figure>
 </div>
+
 
 Gracias a todos los participantes!!! Fue bacán ver su trabajo. Y ojo, seguimos escribiendo posts todos los meses así que probablemente nos contactemos de a poco con los demás.
 
