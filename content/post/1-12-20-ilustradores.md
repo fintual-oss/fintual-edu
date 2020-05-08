@@ -53,15 +53,21 @@ Aquí están los 20 seleccionados:
 </figure>
 </div>
 
+<div style="text-align:center">
+<figure>
+<img src="/uploads/danielhache.png">
+<figcaption style="display:block;text-align:center;font-size:.8rem"><i>Daniel Hache, México. <a target="_blank" href="https://www.behance.net/gallery/92791653/Book-Ilustracion-diseno">Behance</a></i></figcaption>
+</figure>
+</div>
+
+<div style="text-align:center">
+<figure>
+<img src="/uploads/danielaquintana.png">
+<figcaption style="display:block;text-align:center;font-size:.8rem"><i>Daniela Quintana, España. <a target="_blank" href="https://www.instagram.com/ladaniquin/">Instagram</a></i></figcaption>
+</figure>
+</div>
 
 
-**Daniel Hache, México:** [**Behance**](https://www.behance.net/gallery/92791653/Book-Ilustracion-diseno)
-
-![](/uploads/danielhache.png)
-
-**Daniela Quintana, España:** [**instagram**](https://www.instagram.com/ladaniquin/)
-
-![](/uploads/danielaquintana.png)
 
 **Gertrudis Shaw, Chile:** [**behance**](http://gertrudisshaw.com/)
 
