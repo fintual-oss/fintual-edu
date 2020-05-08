@@ -13,3 +13,7 @@ url = "/1-12-20-ilustraciones"
 ![](/uploads/alvaroardiles.png)
 
 ![](/uploads/alvarotorrens.png)![](/uploads/danielhache.png)![](/uploads/danielaquintana.png)
+
+![](/uploads/gestrudisshaw.png)
+
+![](/uploads/hectoralvarez.png)
