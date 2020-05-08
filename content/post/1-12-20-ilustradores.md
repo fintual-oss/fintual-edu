@@ -109,43 +109,106 @@ Aquí están los 20 seleccionados:
 </figure>
 </div>
 
+<div style="text-align:center">
+<figure>
+<img src="/uploads/michigonzalez.png">
+<figcaption style="display:block;text-align:center;font-size:.8rem"><i>Michi González, Guatemala. <a target="_blank" href="https://www.instagram.com/michi.gg/?hl=es%20https://michigonzalez.myportfolio.com/">Instagram</a></i></figcaption>
+</figure>
+</div>
+
+<div style="text-align:center">
+<figure>
+<img src="/uploads/pascalegonczanski.png">
+<figcaption style="display:block;text-align:center;font-size:.8rem"><i>Pascale Gonczanski, Chile. <a target="_blank" href="https://www.instagram.com/pascalasca/">Instagram</a></i></figcaption>
+</figure>
+</div>
 
 
-**Michi González, Guatemala:** [**instagram**](https://www.instagram.com/michi.gg/?hl=es%20https://michigonzalez.myportfolio.com/)
-
-![](/uploads/michigonzalez.png)
-
-**Pascale Gonczanski, Chile:** [**instagram**](https://www.instagram.com/pascalasca/)
-
-![](/uploads/pascalegonczanski.png)
+<div style="text-align:center">
+<figure>
+<img src="/uploads/esg.png">
+<figcaption style="display:block;text-align:center;font-size:.8rem"><i>Algunos principios ESG. Fuente: <a target="_blank" href="https://www.tradefinanceglobal.com/posts/sustainable-finance">Trade Finance Global</a></i></figcaption>
+</figure>
+</div>
 
 **Marcelo Pérez (perezfecto), Chile:** [**web**](https://perezfecto.com/)
 
 ![](/uploads/marceloperez.png)
 
+
+<div style="text-align:center">
+<figure>
+<img src="/uploads/esg.png">
+<figcaption style="display:block;text-align:center;font-size:.8rem"><i>Algunos principios ESG. Fuente: <a target="_blank" href="https://www.tradefinanceglobal.com/posts/sustainable-finance">Trade Finance Global</a></i></figcaption>
+</figure>
+</div>
 **Paula Irarrázaval, Chile:** [**instagram**](https://www.instagram.com/paula.irarrazaval/)
 
 ![](/uploads/paulairarrazaval.png)
 
+
+<div style="text-align:center">
+<figure>
+<img src="/uploads/esg.png">
+<figcaption style="display:block;text-align:center;font-size:.8rem"><i>Algunos principios ESG. Fuente: <a target="_blank" href="https://www.tradefinanceglobal.com/posts/sustainable-finance">Trade Finance Global</a></i></figcaption>
+</figure>
+</div>
 **Pau Braw, Chile:** [**instagram**](https://www.instagram.com/paubraw.arts/)
 
 ![](/uploads/paubraw.png)  
+
+
+<div style="text-align:center">
+<figure>
+<img src="/uploads/esg.png">
+<figcaption style="display:block;text-align:center;font-size:.8rem"><i>Algunos principios ESG. Fuente: <a target="_blank" href="https://www.tradefinanceglobal.com/posts/sustainable-finance">Trade Finance Global</a></i></figcaption>
+</figure>
+</div>
 **Raúl Saldaña, México:** [**instagram**](https://www.instagram.com/soyraulitoo/?hl=es-la)
 
 ![](/uploads/raulsaldaña.png)
+
+
+<div style="text-align:center">
+<figure>
+<img src="/uploads/esg.png">
+<figcaption style="display:block;text-align:center;font-size:.8rem"><i>Algunos principios ESG. Fuente: <a target="_blank" href="https://www.tradefinanceglobal.com/posts/sustainable-finance">Trade Finance Global</a></i></figcaption>
+</figure>
+</div>
+
 
 **Sandrinne Anne, Chile:** [**instagram**](https://www.instagram.com/sandrine_anne/)
 
 ![](/uploads/sandrinneanne.png)
 
+
+<div style="text-align:center">
+<figure>
+<img src="/uploads/esg.png">
+<figcaption style="display:block;text-align:center;font-size:.8rem"><i>Algunos principios ESG. Fuente: <a target="_blank" href="https://www.tradefinanceglobal.com/posts/sustainable-finance">Trade Finance Global</a></i></figcaption>
+</figure>
+</div>
 **Sergio Edwards, Chile:** [**behance**](https://www.behance.net/sergioedwards)
 
 ![](/uploads/sergioedwards.png)
+
+<div style="text-align:center">
+<figure>
+<img src="/uploads/esg.png">
+<figcaption style="display:block;text-align:center;font-size:.8rem"><i>Algunos principios ESG. Fuente: <a target="_blank" href="https://www.tradefinanceglobal.com/posts/sustainable-finance">Trade Finance Global</a></i></figcaption>
+</figure>
+</div>
 
 **Sherman Fuchs, Argentina:** [**behance**](https://www.behance.net/sher)
 
 ![](/uploads/shermanfuchs.png)
 
+<div style="text-align:center">
+<figure>
+<img src="/uploads/esg.png">
+<figcaption style="display:block;text-align:center;font-size:.8rem"><i>Algunos principios ESG. Fuente: <a target="_blank" href="https://www.tradefinanceglobal.com/posts/sustainable-finance">Trade Finance Global</a></i></figcaption>
+</figure>
+</div>
 **Valentina Palma, Chile: no tiene portafolio online.**
 
 ![](/uploads/valentinapalma.png)
