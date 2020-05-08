@@ -19,16 +19,16 @@ url = "/1-12-20-ilustraciones"
 
 **Daniel Hache, México:** [**Behance**](https://www.behance.net/gallery/92791653/Book-Ilustracion-diseno)
 
- ![](/uploads/danielhache.png)
+![](/uploads/danielhache.png)
 
 **Daniela Quintana, España:** [**instagram**](https://www.instagram.com/ladaniquin/)
 
 ![](/uploads/danielaquintana.png)
 
-
+**Gertrudis Shaw, Chile:** [**behance**](http://gertrudisshaw.com/)
 
 ![](/uploads/gestrudisshaw.png)
 
-
+**Hector Álvarez, Chile:** [**instagram**](https://www.instagram.com/eto2d/)
 
 ![](/uploads/hectoralvarez.png)
