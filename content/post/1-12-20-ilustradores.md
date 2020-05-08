@@ -11,3 +11,4 @@ title = "1, 12, 20 ilustradores"
 url = "/1-12-20-ilustraciones"
 
 +++
+![](/uploads/alvaroardiles.png)
