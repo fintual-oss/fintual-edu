@@ -5,7 +5,7 @@ categories = ["noticias"]
 date = 2020-02-24T18:21:09Z
 description = ""
 hide = true
-image = ""
+image = "/uploads/coronav.jpeg"
 title = "Informe del 24 de febrero"
 url = "/informe-24-febrero-2020"
 
@@ -31,7 +31,7 @@ En el Medio Oriente, Kuwait, Bahrein, Omán, Afganistán e Irak reportaron las p
 En Europa el mayor brote se registró en Italia, con más de 150 infecciones y 6 muertos.
 
 ![](/uploads/coronavirus.png)
-*Mapa de países que reportan infecciones del COVID-19, al 24 de febrero son más de 79 mil los casos confirmados. Fuente: Reuters*
+_Mapa de países que reportan infecciones del COVID-19, al 24 de febrero son más de 79 mil los casos confirmados. Fuente: Reuters_
 
 El impacto en los índices de acciones ha sido considerable el lunes 24 de febrero. En Italia, la bolsa de Milán cayó un 5,4%, su peor día desde el año 2016, mientras que el índice europeo European STOXX 600 cayó un 3,8%. En Estados Unidos, el índice S&P 500 cayó un 3,35%, mientras que el Nasdaq Composite cayó un 3,71%. En Chile el IPSA cae un 2,25%.
 
