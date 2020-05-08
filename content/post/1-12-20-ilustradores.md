@@ -7,10 +7,28 @@ description = "Teníamos que ilustrar nuestro blog de educación financiera. En 
 draft = true
 hide = true
 image = ""
-title = "1, 12, 20 ilustradores"
+title = "300 ilustradores de Latinoamérica y nuestros 20 favoritos"
 url = "/1-12-20-ilustraciones"
 
 +++
+Participar era simple: tenías que enviar un correo a design@fintual.com con links a tus portafolio o RRSS y ser de Latinoamérica. Publicamos y en cuestión de días explotó. En menos de dos semanas llegaron más de 300 postulantes de 8 países.
+
+Fintual ayuda a las personas que no saben de inversiones a invertir fácil. Parte del proceso trasciende la herramienta _per se_, y se hace cargo de educar financieramente a nuestros clientes.
+
+Por esto hicimos [Fintual Edu](https://edu.fintual.cl/post/index.html), un espacio donde aprender de inversiones es fácil y (ojalá) entretenido. Intentamos responder cosas como _¿Me conviene comprar o arrendar? ¿Cómo entender lo que está pasando en los mercados? o ¿Cómo elegir el riesgo de tu inversión?_ con peras y manzanas. Nuestros usuarios saben que ésta es una de las cosas que hace a Fintual diferente y lo agradecen mucho.
+
+A pesar de lo sintético y claro de nuestro contenido, creemos que siempre se puede mejorar para que nuestras publicaciones sean aún más fáciles de entender por cualquiera.
+
+![](/uploads/edufeo.png)
+
+Una de las cosas que hacíamos hasta ahora, era buscar alguna imagen que hiciera sentido con cada artículo. En algunos casos (como las tasas) funciona muy bien. En otros en cambio (como las amigas conversando) el resultado es menos atractivo.
+
+Pensamos que ilustrar a medida cada uno de nuestros posts podía ser una buena solución. Así tendríamos mayor control sobre lo que queremos comunicar y como bonus, un blog más lindo.
+
+Para empezar, sabíamos que necesitábamos por lo menos 12 ilustraciones, porque 12 es el número de artículos que se muestran por página al entrar a [Edu](https://edu.fintual.cl/post/index.html). Lo más obvio hubiera sido buscar algún ilustrador o ilustradora de nuestro gusto y contratarle para que nos ayudara con los posts.
+
+Pero entonces… Vimos una oportunidad. Se nos ocurrió que en vez de una persona para 12 ilustraciones, podíamos probar 12 artistas para 12 ilustraciones. Así podríamos aprovechar una amplia gama de talento y servir como galería para exponer a artistas/ilustradores locales. Armamos una convocatoria pública que tendría por objetivo encontrar a nuestros 12 Warhols y fijamos un valor de $100 dólares por ilustración.
+
 **Álvaro Ardiles, Chile:** [**Web**](https://alvaroardiles.cl/)
 
 ![](/uploads/alvaroardiles.png "Álvaro Ardiles, Chile")
