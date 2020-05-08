@@ -14,11 +14,12 @@ url = "/1-12-20-ilustraciones"
 
 ![](/uploads/alvaroardiles.png "Álvaro Ardiles, Chile")
 
-Álvaro Torrens, Colombia: Behance
+**Álvaro Torrens, Colombia:** [**Behance**](https://www.behance.net/drawalv)  
 ![](/uploads/alvarotorrens.png)
 
-Daniel Hache, México: Behance
-![](/uploads/danielhache.png)
+**Daniel Hache, México:** [**Behance**](https://www.behance.net/gallery/92791653/Book-Ilustracion-diseno)
+
+ ![](/uploads/danielhache.png)
 
 ![](/uploads/danielaquintana.png)
 
