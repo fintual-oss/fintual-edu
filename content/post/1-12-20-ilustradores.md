@@ -7,7 +7,7 @@ description = "Teníamos que ilustrar nuestro blog de educación financiera. En 
 hide = true
 image = ""
 title = "300 ilustradores de Latinoamérica y nuestros 20 favoritos"
-url = "/1-12-20-ilustraciones"
+url = "/ilustradores-de-latinoamerica"
 
 +++
 Participar era simple: tenías que enviar un correo a design@fintual.com con links a tus portafolio o RRSS y ser de Latinoamérica. Publicamos y en cuestión de días explotó. En menos de dos semanas llegaron más de 300 postulantes de 8 países.
