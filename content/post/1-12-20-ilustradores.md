@@ -67,11 +67,13 @@ Aquí están los 20 seleccionados:
 </figure>
 </div>
 
+<div style="text-align:center">
+<figure>
+<img src="/uploads/gestrudisshaw.png">
+<figcaption style="display:block;text-align:center;font-size:.8rem"><i>Gertrudis Shaw, Chile. <a target="_blank" href="http://gertrudisshaw.com/">Behance</a></i></figcaption>
+</figure>
+</div>
 
-
-**Gertrudis Shaw, Chile:** [**behance**](http://gertrudisshaw.com/)
-
-![](/uploads/gestrudisshaw.png)
 
 **Hector Álvarez, Chile:** [**instagram**](https://www.instagram.com/eto2d/)
 
