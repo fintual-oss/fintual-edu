@@ -39,12 +39,21 @@ Ambos teníamos que ver sí o sí cada portafolio y seleccionar 20 que consider�
 
 Aquí están los 20 seleccionados:
 
-**Álvaro Ardiles, Chile:** [**Web**](https://alvaroardiles.cl/)
+<div style="text-align:center">
+<figure>
+<img src="/uploads/alvaroardiles.png">
+<figcaption style="display:block;text-align:center;font-size:.8rem"><i>Álvaro Ardiles, Chile. <a target="_blank" href="https://alvaroardiles.cl/">Web</a></i></figcaption>
+</figure>
+</div>
 
-![](/uploads/alvaroardiles.png "Álvaro Ardiles, Chile")
+<div style="text-align:center">
+<figure>
+<img src="/uploads/alvarotorrens.png">
+<figcaption style="display:block;text-align:center;font-size:.8rem"><i>Álvaro Torrens, Colombia. <a target="_blank" href="https://www.behance.net/drawalv">Behance</a></i></figcaption>
+</figure>
+</div>
 
-**Álvaro Torrens, Colombia:** [**Behance**](https://www.behance.net/drawalv)  
-![](/uploads/alvarotorrens.png)
+
 
 **Daniel Hache, México:** [**Behance**](https://www.behance.net/gallery/92791653/Book-Ilustracion-diseno)
 
