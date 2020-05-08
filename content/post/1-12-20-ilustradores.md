@@ -29,6 +29,16 @@ Para empezar, sabíamos que necesitábamos por lo menos 12 ilustraciones, porque
 
 Pero entonces… Vimos una oportunidad. Se nos ocurrió que en vez de una persona para 12 ilustraciones, podíamos probar 12 artistas para 12 ilustraciones. Así podríamos aprovechar una amplia gama de talento y servir como galería para exponer a artistas/ilustradores locales. Armamos una convocatoria pública que tendría por objetivo encontrar a nuestros 12 Warhols y fijamos un valor de $100 dólares por ilustración.
 
+![](/uploads/convocatoria ig.png)
+
+Ahora tocaba la parte más difícil: pasar de 300 a 12. Junto a [Nicole](https://www.linkedin.com/in/nsotoaguilar/) (product Designer e ilustradora en Fintual) nos dimos el tiempo de ver cada postulación en detalle. Quedamos plop. Si hubiéramos tenido cupo para 200, los llenábamos. Nos alegra mucho saber la cantidad de talentos que hay en la región, con técnicas y estilos de lo más variados. Si estás buscando a alguien para tu proyecto, dejamos la lista completa al final de este post :)
+
+A filtrar.
+
+Ambos teníamos que ver sí o sí cada portafolio y seleccionar 20 que consideráramos sobresalientes. Llegamos a un grupo final de 32 (calzamos en 8). Después tuvimos que ir descartando en base al _fit_ que veíamos con Fintual y la originalidad en su técnica. No fuimos capaces de reducir la lista a 12, así que decidimos agregar cupos y cerrar la convocatoria en 20.
+
+Aquí están los 20 seleccionados:
+
 **Álvaro Ardiles, Chile:** [**Web**](https://alvaroardiles.cl/)
 
 ![](/uploads/alvaroardiles.png "Álvaro Ardiles, Chile")
