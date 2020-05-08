@@ -81,10 +81,13 @@ Aquí están los 20 seleccionados:
 </figure>
 </div>
 
+<div style="text-align:center">
+<figure>
+<img src="/uploads/joseutreras.png">
+<figcaption style="display:block;text-align:center;font-size:.8rem"><i>José Utreras (Planeta Errante), Chile. <a target="_blank" href="https://www.instagram.com/elplanetaerrante/">Instagram</a></i></figcaption>
+</figure>
+</div>
 
-**José Utreras (Planeta Errante), Chile:** [**instagram**](https://www.instagram.com/elplanetaerrante/)
-
-![](/uploads/joseutreras.png)
 
 **Juan de Dios Urrutia, Chile:** [**behance**](https://www.behance.net/JuandeDiosUrrutia)
 
