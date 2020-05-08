@@ -67,4 +67,17 @@ url = "/1-12-20-ilustraciones"
 
 **Pau Braw, Chile:** [**instagram**](https://www.instagram.com/paubraw.arts/)
 
-![](/uploads/paubraw.png)
+![](/uploads/paubraw.png)  
+**Raúl Saldaña, México:** [**instagram**](https://www.instagram.com/soyraulitoo/?hl=es-la)
+
+![](/uploads/raulsaldaña.png)
+
+**Sandrinne Anne, Chile:** [**instagram**](https://www.instagram.com/sandrine_anne/)
+
+![](/uploads/sandrinneanne.png)
+
+**Sergio Edwards, Chile:** [**behance**](https://www.behance.net/sergioedwards)
+
+![](/uploads/sergioedwards.png)
+
+**Sherman Fuchs, Argentina:** [**behance**](https://www.behance.net/sher)
