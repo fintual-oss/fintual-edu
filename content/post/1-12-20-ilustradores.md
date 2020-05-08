@@ -10,7 +10,9 @@ title = "1, 12, 20 ilustradores"
 url = "/1-12-20-ilustraciones"
 
 +++
-![](/uploads/alvaroardiles.png)
+**Álvaro Ardiles, Chile:** [**Web**](https://alvaroardiles.cl/)
+
+![](/uploads/alvaroardiles.png "Álvaro Ardiles, Chile")
 
 ![](/uploads/alvarotorrens.png)![](/uploads/danielhache.png)![](/uploads/danielaquintana.png)
 
