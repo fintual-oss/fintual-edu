@@ -88,10 +88,14 @@ Aquí están los 20 seleccionados:
 </figure>
 </div>
 
+<div style="text-align:center">
+<figure>
+<img src="/uploads/Juandediosurrutia.png">
+<figcaption style="display:block;text-align:center;font-size:.8rem"><i>Juan de Dios Urrutia, Chile. <a target="_blank" href="https://www.behance.net/JuandeDiosUrrutia">Behance</a></i></figcaption>
+</figure>
+</div>
 
-**Juan de Dios Urrutia, Chile:** [**behance**](https://www.behance.net/JuandeDiosUrrutia)
 
-![](/uploads/Juandediosurrutia.png)
 
 **Ludmila Drago, Argentina:** [**instagram**](https://www.instagram.com/ludmiladragoart/?hl=es-la)
 
