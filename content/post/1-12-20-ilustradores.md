@@ -56,3 +56,11 @@ url = "/1-12-20-ilustraciones"
 **Pascale Gonczanski, Chile:** [**instagram**](https://www.instagram.com/pascalasca/)
 
 ![](/uploads/pascalegonczanski.png)
+
+**Marcelo Pérez (perezfecto), Chile:** [**web**](https://perezfecto.com/)
+
+![](/uploads/marceloperez.png)
+
+**Paula Irarrázaval, Chile:** [**instagram**](https://www.instagram.com/paula.irarrazaval/)
+
+![](/uploads/paulairarrazaval.png)
