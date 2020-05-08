@@ -5,7 +5,7 @@ categories = ["noticias"]
 date = 2020-05-08T00:17:31Z
 description = "Teníamos que ilustrar nuestro blog de educación financiera. En vez de escoger a una sola mano, escogimos 20."
 hide = false
-image = "/uploads/post ganadores fintual art.jpg"
+image = "/uploads/300ilu.jpg"
 title = "300 ilustradores de Latinoamérica y nuestros 20 favoritos"
 url = "/300-ilustradores-de-latinoamerica"
 
