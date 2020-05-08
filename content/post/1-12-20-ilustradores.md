@@ -81,3 +81,9 @@ url = "/1-12-20-ilustraciones"
 ![](/uploads/sergioedwards.png)
 
 **Sherman Fuchs, Argentina:** [**behance**](https://www.behance.net/sher)
+
+![](/uploads/shermanfuchs.png)
+
+**Valentina Palma, Chile: no tiene portafolio online.**
+
+![](/uploads/valentinapalma.png)
