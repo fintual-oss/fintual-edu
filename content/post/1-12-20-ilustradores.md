@@ -51,151 +51,133 @@ Aquí están los 20 seleccionados:
 <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Álvaro Torrens, Colombia: <a target="_blank" href="https://www.behance.net/drawalv">Behance</a></i></figcaption>
 </figure>
 </div>
-
-
+<br>
 <div style="text-align:center">
 <figure>
 <img src="/uploads/danielhache.png">
 <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Daniel Hache, México: <a target="_blank" href="https://www.behance.net/gallery/92791653/Book-Ilustracion-diseno">Behance</a></i></figcaption>
 </figure>
 </div>
-
-
+<br>
 <div style="text-align:center">
 <figure>
 <img src="/uploads/danielaquintana.png">
 <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Daniela Quintana, España: <a target="_blank" href="https://www.instagram.com/ladaniquin/">Instagram</a></i></figcaption>
 </figure>
 </div>
-
-
+<br>
 <div style="text-align:center">
 <figure>
 <img src="/uploads/gestrudisshaw.png">
 <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Gertrudis Shaw, Chile: <a target="_blank" href="http://gertrudisshaw.com/">Behance</a></i></figcaption>
 </figure>
 </div>
-
-
+<br>
 <div style="text-align:center">
 <figure>
 <img src="/uploads/hectoralvarez.png">
 <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Hector Álvarez, Chile: <a target="_blank" href="https://www.instagram.com/eto2d/">Instagram</a></i></figcaption>
 </figure>
 </div>
-
-
+<br>
 <div style="text-align:center">
 <figure>
 <img src="/uploads/joseutreras.png">
 <figcaption style="display:block;text-align:center;font-size:.8rem"><i>José Utreras (Planeta Errante), Chile: <a target="_blank" href="https://www.instagram.com/elplanetaerrante/">Instagram</a></i></figcaption>
 </figure>
 </div>
-
-
+<br>
 <div style="text-align:center">
 <figure>
 <img src="/uploads/Juandediosurrutia.png">
 <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Juan de Dios Urrutia, Chile: <a target="_blank" href="https://www.behance.net/JuandeDiosUrrutia">Behance</a></i></figcaption>
 </figure>
 </div>
-
-
+<br>
 <div style="text-align:center">
 <figure>
 <img src="/uploads/ludmiladrago.png">
 <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Ludmila Drago, Argentina: <a target="_blank" href="https://www.instagram.com/ludmiladragoart/?hl=es-la">Instagram</a></i></figcaption>
 </figure>
 </div>
-
-
+<br>
 <div style="text-align:center">
 <figure>
 <img src="/uploads/michellenomas.png">
 <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Michelle Nomás, Chile: <a target="_blank" href="https://www.instagram.com/michellenomas/">Instagram</a></i></figcaption>
 </figure>
 </div>
-
-
+<br>
 <div style="text-align:center">
 <figure>
 <img src="/uploads/michigonzalez.png">
 <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Michi González, Guatemala: <a target="_blank" href="https://www.instagram.com/michi.gg/?hl=es%20https://michigonzalez.myportfolio.com/">Instagram</a></i></figcaption>
 </figure>
 </div>
-
-
+<br>
 <div style="text-align:center">
 <figure>
 <img src="/uploads/pascalegonczanski.png">
 <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Pascale Gonczanski, Chile: <a target="_blank" href="https://www.instagram.com/pascalasca/">Instagram</a></i></figcaption>
 </figure>
 </div>
-
-
+<br>
 <div style="text-align:center">
 <figure>
 <img src="/uploads/marceloperez.png">
 <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Marcelo Pérez (perezfecto), Chile: <a target="_blank" href="https://perezfecto.com/">Web</a></i></figcaption>
 </figure>
 </div>
-
-
+<br>
 <div style="text-align:center">
 <figure>
 <img src="/uploads/paulairarrazaval.png">
 <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Paula Irarrázaval, Chile: <a target="_blank" href="https://www.instagram.com/paula.irarrazaval">Instagram</a></i></figcaption>
 </figure>
 </div>
-
-
+<br>
 <div style="text-align:center">
 <figure>
 <img src="/uploads/paubraw.png">
 <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Pau Braw, Chile: <a target="_blank" href="https://www.instagram.com/paubraw.arts/">Instagram</a></i></figcaption>
 </figure>
 </div>
-
-
+<br>
 <div style="text-align:center">
 <figure>
 <img src="/uploads/raulsaldaña.png">
 <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Raúl Saldaña, México: <a target="_blank" href="https://www.instagram.com/soyraulitoo/?hl=es-la">Instagram</a></i></figcaption>
 </figure>
 </div>
-
-
+<br>
 <div style="text-align:center">
 <figure>
 <img src="/uploads/sandrinneanne.png">
 <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Sandrinne Anne, Chile: <a target="_blank" href="https://www.instagram.com/sandrine_anne/">Instagram</a></i></figcaption>
 </figure>
 </div>
-
-
+<br>
 <div style="text-align:center">
 <figure>
 <img src="/uploads/sergioedwards.png">
 <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Sergio Edwards, Chile: <a target="_blank" href="https://www.behance.net/sergioedwards">Behance</a></i></figcaption>
 </figure>
 </div>
-
-
+<br>
 <div style="text-align:center">
 <figure>
 <img src="/uploads/shermanfuchs.png">
 <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Sherman Fuchs, Argentina: <a target="_blank" href="https://www.behance.net/sher">Behance</a></i></figcaption>
 </figure>
 </div>
-
-
+<br>
 <div style="text-align:center">
 <figure>
 <img src="/uploads/valentinapalma.png">
 <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Valentina Palma, Chile: no tiene portafolio online</i></figcaption>
 </figure>
 </div>
-
+<br>
 
 Gracias a todos los participantes!!! Fue bacán ver su trabajo. Y ojo, seguimos escribiendo posts todos los meses así que probablemente nos contactemos de a poco con los demás.
 
