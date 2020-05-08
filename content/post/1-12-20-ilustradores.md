@@ -4,7 +4,7 @@ author = "Ignacio Soffia"
 categories = ["noticias"]
 date = 2020-05-08T00:17:31Z
 description = "Teníamos que ilustrar nuestro blog de educación financiera. En vez de escoger a una sola mano, escogimos 20."
-hide = true
+hide = false
 image = ""
 title = "1, 12, 20 ilustradores"
 url = "/1-12-20-ilustraciones"
@@ -14,7 +14,13 @@ url = "/1-12-20-ilustraciones"
 
 ![](/uploads/alvaroardiles.png "Álvaro Ardiles, Chile")
 
-![](/uploads/alvarotorrens.png)![](/uploads/danielhache.png)![](/uploads/danielaquintana.png)
+Álvaro Torrens, Colombia: Behance
+![](/uploads/alvarotorrens.png)
+
+Daniel Hache, México: Behance
+![](/uploads/danielhache.png)
+
+![](/uploads/danielaquintana.png)
 
 ![](/uploads/gestrudisshaw.png)
 
