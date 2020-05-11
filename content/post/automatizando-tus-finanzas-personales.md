@@ -125,7 +125,7 @@ Esta es **mi configuración para las transferencias automáticas**:
 
 Encuentro bacán usar Fintual para mi sistema porque es muy fácil ir viendo cómo están todas mis inversiones ordenadas, actualizadas, creadas con un plazo y nivel de riesgo adecuado.
 
-![](/uploads/IMG_6226.PNG)
+![](/uploads/screenshot chico.png)
 
 Cuando haces una transferencia automática a Fintual te va a llegar un mail preguntándote a qué objetivo la quieres asignar. También puedes configurar que la asignación se haga automáticamente, diciéndole de antemano a Fintual qué tiene que hacer. Muy fácil.  
 ![](/uploads/Screen Shot 2020-05-11 at 16.47.33.png "donde-asignamos")
