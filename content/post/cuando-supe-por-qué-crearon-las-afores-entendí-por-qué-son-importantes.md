@@ -23,7 +23,7 @@ Y sobre todo, de dónde vienen. Recientemente se han implementado algunos cambio
 
 Las personas irían cambiando de SIEFORE conforme fueran envejeciendo.
 
-`<div style="text-align:center"> <figure> <img src="/uploads/Envejecer.gif"> <figcaption><i>Homo ergaster cazando en la sabana africana hace unos 1.7 millones de años atrás. Impresión artística de Mauricio Anton.</i></figcaption> </figure> </div>`
+<div style="text-align:center"> <figure> <img src="/uploads/Envejecer.gif"> </figure> </div>
 
 Este sistema permitiría que cada SIEFORE, gestionada por una AFORE, **conformaría la mejor mezcla posible de activos de inversión** para tu horizonte de ahorro.
 
@@ -35,7 +35,7 @@ Tras la crisis de 1995 el gobierno mexicano se dio cuenta que el sistema solidar
 
 En aquel entonces, las pensiones eran pagadas por los jóvenes de esa generación. Pero cuando la pirámide poblacional comienza a invertirse, es decir, **cuando hay más abuelos que nietos, el sistema es insostenible**.
 
-<div style="text-align:center"> <figure> <img src="/uploads/giphy (6).gif"> </figure> </div>
+<div style="text-align:center"> <figure> <img src="/uploads/giphy (6)-2.gif"> </figure> </div>
 
 En aquel tiempo, el IMSS era el responsable de pagar las pensiones. Las prácticas contables le obligaban a crear provisiones para afrontar este compromiso futuro.
 
