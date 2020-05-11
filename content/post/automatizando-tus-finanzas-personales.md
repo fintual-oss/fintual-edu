@@ -85,7 +85,7 @@ Hechos los descuentos, **te debería llegar el sueldo líquido a tu cuenta corri
 
 Una forma de facilitarte la vida es automatizando las transferencias: **tu sueldo va a fluir sin esfuerzo a tus distintos gastos, ahorros e inversiones** y reducirás el tiempo que pasas lidiando con datos, digipasses y confirmaciones.
 
-[La mayoría de los bancos te permiten programar transferencias de forma online.](https://ayuda.fintual.cl/es/articles/3195558-como-automatizar-mis-inversiones ) Configúralas para que se hagan 2 o 3 días después de la fecha normal de pago de tu sueldo (si tu empleador es muy cumplidor, puede ser para 1 día después incluso).
+[La mayoría de los bancos te permiten programar transferencias de forma online.](https://ayuda.fintual.cl/es/articles/3195558-como-automatizar-mis-inversiones) Configúralas para que se hagan 2 o 3 días después de la fecha normal de pago de tu sueldo (si tu empleador es muy cumplidor, puede ser para 1 día después incluso).
 
 ![como-programar-transferencias-automaticas-banco](/uploads/transferencias-programadas.png "programar-transferencias")
 
