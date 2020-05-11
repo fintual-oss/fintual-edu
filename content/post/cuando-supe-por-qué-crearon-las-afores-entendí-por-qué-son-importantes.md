@@ -23,6 +23,8 @@ Y sobre todo, de dónde vienen. Recientemente se han implementado algunos cambio
 
 Las personas irían cambiando de SIEFORE conforme fueran envejeciendo.
 
+![](/uploads/giphy-downsized.gif)
+
 Este sistema permitiría que cada SIEFORE, gestionada por una AFORE, **conformaría la mejor mezcla posible de activos de inversión** para tu horizonte de ahorro.
 
 Después de 23 años, las AFORES se han ido profesionalizando y también abaratando, pero, ¿por qué existen y de dónde vienen?
@@ -38,8 +40,6 @@ En aquel tiempo, el IMSS era el responsable de pagar las pensiones. Las práctic
 En los **90’s había 10.6 abuelos por cada 100 jóvenes** en México. En **2030** se espera que haya **1 abuelo por cada dos jóvenes**.
 
 Y en el **2050** se invertirá totalmente y tendremos que **cada joven tendría que mantener a más de una persona** en retiro.
-
-![](/uploads/giphy-downsized.gif)
 
 Al hacer los cálculos de que la gente viviría más años y que la pirámide se invertiría, los compromisos financieros se disparaban.
 
