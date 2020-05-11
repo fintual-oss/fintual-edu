@@ -65,8 +65,8 @@ Esta etapa se trata de separar tus **ingresos mensuales** en 4 categorías disti
 
 ***
 
-La primera vez que hagas esto puede ser medio latero, porque vas a tener que entrar en el detalle de los distintos gastos. Pero **una vez que lo tengas listo, actualizarlo no cuesta nada.** [Para hacerte la pega más fácil creamos esta planilla*. ](https://docs.google.com/spreadsheets/d/12o2t2CQb6pl9_E3lw-OfqNS3iH9Hp44DpVY6fw8HeZs/copy?usp=sharing)  
-  
+La primera vez que hagas esto puede ser medio latero, porque vas a tener que entrar en el detalle de los distintos gastos. Pero **una vez que lo tengas listo, actualizarlo no cuesta nada.** [Para hacerte la pega más fácil creamos esta planilla*. ](https://docs.google.com/spreadsheets/d/12o2t2CQb6pl9_E3lw-OfqNS3iH9Hp44DpVY6fw8HeZs/copy?usp=sharing)
+
 \*_Tienes que seguir las instrucciones y bajar una copia del documento a tu Google Drive._
 
 _**La planilla está hecha en base a tu sueldo bruto porque en Chile los trabajadores dependientes están obligados a ahorrar para la jubilación en una AFP, pagar un plan de salud y otras cosas que pertenecen a categorías distintas._
@@ -93,7 +93,7 @@ Esta es **mi configuración para las transferencias automáticas**:
 
 > #### **Gastos fijos**
 >
-> El monto total de la planilla (que ya tiene un 15% extra) **sale de mi cuenta personal y va una cuenta que comparto con mi señora** (que es distinta de su cuenta personal). 
+> El monto total de la planilla (que ya tiene un 15% extra) **sale de mi cuenta personal y va una cuenta que comparto con mi señora** (que es distinta de su cuenta personal).
 >
 > _Tener cuentas separadas da sanidad mental al evitar tener que andar revisando qué gastos pertenecen a qué._
 
@@ -125,7 +125,7 @@ Esta es **mi configuración para las transferencias automáticas**:
 
 Encuentro bacán usar Fintual para mi sistema porque es muy fácil ir viendo cómo están todas mis inversiones ordenadas, actualizadas, creadas con un plazo y nivel de riesgo adecuado.
 
-![](/uploads/screenshot chico.png)
+![](/uploads/IMG_6226 (1).PNG)
 
 Cuando haces una transferencia automática a Fintual te va a llegar un mail preguntándote a qué objetivo la quieres asignar. También puedes configurar que la asignación se haga automáticamente, diciéndole de antemano a Fintual qué tiene que hacer. Muy fácil.  
 ![](/uploads/Screen Shot 2020-05-11 at 16.47.33.png "donde-asignamos")
