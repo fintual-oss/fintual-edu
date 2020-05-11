@@ -13,9 +13,9 @@ url = "/como-ordeno-mis-finanzas-dedicandole-solo-dos-horas-al-mes"
 +++
 _Esta es una guía personal sobre cómo ordeno mis finanzas sin dedicarle más que un par de horas al mes._
 
-**Sacar cuentas me pone mal genio.**
+**"Me gustaría pasar más tiempo sacándo cuentas" dijo nadie, nunca.**
 
-Al mismo tiempo, sé que es súper importante cuidar mi plata y preocuparme de que esté ordenada y creciendo en el tiempo.
+Pero sé que es súper importante cuidar mi plata y preocuparme de que esté ordenada y creciendo en el tiempo.
 
 Mi sueño es poder pasarle el problema a un ser súper inteligente para que me lo resuelva. Pero como eso todavía no existe, **he desarrollado una serie de _hacks_ para automatizar el proceso y no tener que hacerlo yo.**
 
@@ -65,7 +65,7 @@ Esta etapa se trata de separar tus **ingresos mensuales** en 4 categorías disti
 
 ***
 
-La primera vez que hagas esto puede ser medio latero, porque vas a tener que entrar en el detalle de los distintos gastos. Pero **una vez que lo tengas listo, actualizarlo no cuesta nada.** [Para hacerte la pega más fácil creamos esta planilla. ](http://bit.do/estoy-invirtiendo-lo-suficiente)*_Tienes que seguir las instrucciones y bajar una copia del documento a tu Drive._
+La primera vez que hagas esto puede ser medio latero, porque vas a tener que entrar en el detalle de los distintos gastos. Pero **una vez que lo tengas listo, actualizarlo no cuesta nada.** [Para hacerte la pega más fácil creamos esta planilla. ](https://docs.google.com/spreadsheets/d/12o2t2CQb6pl9_E3lw-OfqNS3iH9Hp44DpVY6fw8HeZs/copy?usp=sharing)*_Tienes que seguir las instrucciones y bajar una copia del documento a tu Google Drive._
 
 _**La planilla está hecha en base a tu sueldo bruto porque en Chile los trabajadores dependientes están obligados a ahorrar para la jubilación en una AFP, pagar un plan de salud y otras cosas que pertenecen a categorías distintas._
 
@@ -73,19 +73,15 @@ _**La planilla está hecha en base a tu sueldo bruto porque en Chile los trabaja
 
 Hay **ciertos descuentos que hace tu empleador de tu sueldo bruto antes de pagarte el líquido**, como tu AFP, isapre, impuestos y el seguro de cesantía.
 
-En general de esta fase ni nos enteramos, pero lo inteligente es chequear si te las pagaron. Para ayudar, **creamos una nueva función en Fintual para que puedas ver tu saldo actualizado en la AFP** junto con el resto de tus objetivos.
+En general de esta fase ni nos enteramos, pero es bueno chequear si te las pagaron.
 
-Actualmente está habilitado para Modelo y Habitat, pronto estarán las demás.
-
-![agrega-tu-afp-en-mis-objetivos](/uploads/agregar-afp.jpg "agrega-tu-afp-fintual")
-
-Tu empleador también te puede **descontar por planilla tu APV. Normalmente esto se hace con APV-B** **cuyo beneficio es bajar tus impuestos.** Normalmente empieza a ser conveniente para personas que ganan $3MM o más.
+Tu empleador también te puede **descontar por planilla tu APV. Normalmente esto se hace con APV-B** **cuyo beneficio es bajar tus impuestos.** Normalmente empieza a ser conveniente para personas que ganan $3,3MM o más.
 
 Hechos los descuentos, **te debería llegar el sueldo líquido a tu cuenta corriente.**
 
 #### **3. Transferencias automáticas**
 
-Qué lata las transferencias, con sus digipasses, claves y mensajes de confirmación. Lo mejor es automatizarlas: **tu sueldo va a fluir sin esfuerzo a tus distintos gastos, ahorros e inversiones.**
+Una forma de facilitarte la vida es automatizando las transferencias: **tu sueldo va a fluir sin esfuerzo a tus distintos gastos, ahorros e inversiones** y reducirás el tiempo que pasas lidiando con datos, digipasses y confirmaciones.
 
 **La mayoría de los bancos te permiten programar transferencias de forma online.** Configurarlas para que se hagan 2 o 3 días después de la fecha normal de pago de tu sueldo (si tu empleador es muy cumplidor, puede ser para 1 día después incluso).
 
@@ -95,15 +91,15 @@ Esta es **mi configuración para las transferencias automáticas**:
 
 > #### **Gastos fijos**
 >
-> El monto total de la planilla (que ya tiene un 15% extra) **sale de mi cuenta personal y va una cuenta que comparto con mi señora** (que es distinta de su cuenta personal).
+> El monto total de la planilla (que ya tiene un 15% extra) **sale de mi cuenta personal y va una cuenta que comparto con mi señora** (que es distinta de su cuenta personal). 
 >
-> _Tener cuentas separadas nos da sanidad mental al evitar tener que andar revisando qué gastos pertenecen a qué. El objetivo es evitar pasar tiempo en latas. Así ando más simpático_ :)
+> _Tener cuentas separadas da sanidad mental al evitar tener que andar revisando qué gastos pertenecen a qué._
 
 ***
 
 > #### **Ahorro**
 >
-> Tengo programada **dos transferencias automáticas a Fintual, una para mi fondo de emergencia y otra para mis vacaciones**. Un fondo de emergencia no debería exceder de 1,5x tu sueldo mensual. Pero no tienes por qué limitarte a sólo dos objetivos: **puedes crear objetivos para todas las cosas puntuales** **que quieras,** como la matrícula de colegio de tu hijo/a.
+> Tengo programada **dos transferencias automáticas a Fintual, una para mi fondo de emergencia y otra para mis vacaciones**. Un fondo de emergencia podría ser el 1,5 a 6 veces tu sueldo mensual. Pero no tienes por qué limitarte a sólo dos objetivos: **puedes crear objetivos para todas las cosas puntuales** **que quieras,** como la matrícula de colegio de tu hijo/a.
 >
 > _En inversiones a plazos más cortos, es mejor elegir niveles de riesgo más bajos. Cuando eliges el plazo de tu objetivo en Fintual, el simulador te ayuda a tomar una buena decisión. Para mi colchón de emergencia, me gusta usar el fondo más conservador de Fintual (Streep). Lo encuentro mejor que un DAP_ porque no tiene restricciones de tiempo para sacar la plata, que es clave para urgencias.
 
@@ -111,9 +107,9 @@ Esta es **mi configuración para las transferencias automáticas**:
 
 > #### **Inversiones**
 >
-> Tengo un APV-A en Fintual para mi jubilación con transferencia automática.
+> Tengo un APV-A en Fintual para mi jubilación con transferencia automática y otro objetivo con un plazo de 10 años.
 >
-> _Aquí puedes asumir más riesgos. Para mi jubilación tengo full Risky Norris porque el plazo es muy largo. El beneficio tributario del APV-A es buenísimo: el Estado te regala un 15% de lo que ahorras cada año, con un tope de 6 UTM. No sea pavo ;)_
+> _Aquí puedes asumir más riesgos. Yo elegí full Risky Norris porque los plazos son muy largos. El beneficio tributario del APV-A es buenísimo: el Estado te regala un 15% de lo que ahorras cada año, con un tope de 6 UTM._
 
 ***
 
@@ -121,7 +117,7 @@ Esta es **mi configuración para las transferencias automáticas**:
 >
 > Esto lo dejo en mi cuenta corriente personal.
 >
-> _Hoy en día solamente llevo un registro de estos gastos. Antes usaba Fintonic para todo, pero con mi nuevo sistema no lo necesito y anoto estos gastos en iNotes para no pasarme._
+> _Hoy en día solamente llevo un registro de estos gastos para no pasarme. Antes usaba Fintonic, pero ahora solamente anoto esto en iNotes._
 
 ***
 
@@ -145,11 +141,11 @@ Tal como hay gastos inesperados, a veces toca recibir plata extra. Como soy jove
 
 Armar este sistema automático va a ser un poco de pega. Vas a tener que llenar la planilla, ver tus liquidaciones de sueldo, programar varias transferencias e incluso puede que tengas que abrir otra cuenta en el banco. No dejes que eso te desanime.
 
-**Una vez que tengas todo el _set-up listo_, con un par de horas al mes deberías poder mantenerlo y sentirte tranquilo con tus finanzas.**
+**Una vez que tengas todo configurado, con un par de horas al mes deberías poder mantenerlo y sentirte tranquilo con tus finanzas.**
 
 Las **cosas típicas a fijarse en las revisiones** mensuales son:
 
-* modificaciones importantes en tus gastos fijos (la cosa chica no interesa mucho, para eso está el 15% extra)
+* modificaciones importantes en tus gastos fijos (trato de mirar sólo el total gastado y no el detalle. la cosa chica no interesa mucho, para eso está el 15% extra)
 * el uso de tus ahorros (especialmente los inesperados)
 * que no te estés pasando en tus gastos chao culpa
 * y definir qué vas a invertir/gastar tus ingresos extras
