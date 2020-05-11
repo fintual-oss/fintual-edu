@@ -23,7 +23,9 @@ Y sobre todo, de dónde vienen. Recientemente se han implementado algunos cambio
 
 Las personas irían cambiando de SIEFORE conforme fueran envejeciendo.
 
-<div style="text-align:center"> <figure> <img src="/uploads/giphy-downsized.gif"> </figure> </div>
+![](/uploads/Envejecer.gif)
+
+<div style="text-align:center"> <figure> <img src="/uploads/Envejecer.gif"> </figure> </div>
 
 Este sistema permitiría que cada SIEFORE, gestionada por una AFORE, **conformaría la mejor mezcla posible de activos de inversión** para tu horizonte de ahorro.
 
@@ -53,7 +55,7 @@ Bajo este esquema cada persona iría creando sus ahorros para poderse pensionar.
 
 **Cada mes estos ahorros serían canalizados para invertir** en comprar empresas (acciones), deuda corporativa y principalmente deuda del gobierno**.** Así, **el dinero ahorrado (tu dinero) iría generando ganancias.**
 
-Tu como trabajador destinarías el 1.125% de tu sueldo. Tu empleador pondría el 5.15% y el gobierno, 0.25%.
+Tú como trabajador destinarías el 1.125% de tu sueldo. Tu empleador pondría el 5.15% y el gobierno, 0.25%.
 
 Este monto sería gestionado por instituciones financieras privadas llamadas Administradoras de Fondos para el Retiro.
 
@@ -89,4 +91,4 @@ También, se introduce un nuevo esquema de comisiones en el cual no cobrarán s�
 
 En fin, el sistema de ahorro para el retiro ha evolucionado mucho desde 1997 y también tiene muchos retos de frente.
 
-Y aunque estoy convencido que no todo podrá ser resuelto únicamente por este sistema de pensiones, creo que conocerlo es un buen vehículo por dónde iniciar a construir un retiro cómodo.![](/uploads/giphy (6)-1.gif)
+Y aunque estoy convencido que no todo podrá ser resuelto únicamente por este sistema de pensiones, creo que conocerlo es un buen vehículo por dónde iniciar a construir un retiro cómodo.
