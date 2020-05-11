@@ -51,7 +51,7 @@ Bajo este esquema cada persona iría creando sus ahorros para poderse pensionar.
 
 **Cada mes estos ahorros serían canalizados para invertir** en comprar empresas (acciones), deuda corporativa y principalmente deuda del gobierno**.** Así, **el dinero ahorrado (tu dinero) iría generando ganancias.**
 
-El trabajador destinaría el 1.125% de su sueldo. El empleador pondría el 5.15% y el gobierno, 0.25%. 
+Tu como trabajador destinarías el 1.125% de tu sueldo. Tu empleador pondría el 5.15% y el gobierno, 0.25%. 
 
 Este monto sería gestionado por instituciones financieras privadas llamadas Administradoras de Fondos para el Retiro.
 
