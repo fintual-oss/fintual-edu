@@ -65,7 +65,9 @@ Esta etapa se trata de separar tus **ingresos mensuales** en 4 categorías disti
 
 ***
 
-La primera vez que hagas esto puede ser medio latero, porque vas a tener que entrar en el detalle de los distintos gastos. Pero **una vez que lo tengas listo, actualizarlo no cuesta nada.** [Para hacerte la pega más fácil creamos esta planilla. ](https://docs.google.com/spreadsheets/d/12o2t2CQb6pl9_E3lw-OfqNS3iH9Hp44DpVY6fw8HeZs/copy?usp=sharing)*_Tienes que seguir las instrucciones y bajar una copia del documento a tu Google Drive._
+La primera vez que hagas esto puede ser medio latero, porque vas a tener que entrar en el detalle de los distintos gastos. Pero **una vez que lo tengas listo, actualizarlo no cuesta nada.** [Para hacerte la pega más fácil creamos esta planilla*. ](https://docs.google.com/spreadsheets/d/12o2t2CQb6pl9_E3lw-OfqNS3iH9Hp44DpVY6fw8HeZs/copy?usp=sharing)  
+  
+\*_Tienes que seguir las instrucciones y bajar una copia del documento a tu Google Drive._
 
 _**La planilla está hecha en base a tu sueldo bruto porque en Chile los trabajadores dependientes están obligados a ahorrar para la jubilación en una AFP, pagar un plan de salud y otras cosas que pertenecen a categorías distintas._
 
@@ -146,7 +148,7 @@ Armar este sistema automático va a ser un poco de pega. Vas a tener que llenar 
 
 Las **cosas típicas a fijarse en las revisiones** mensuales son:
 
-* modificaciones importantes en tus gastos fijos (trato de mirar sólo el total gastado y no el detalle. la cosa chica no interesa mucho, para eso está el 15% extra)
+* modificaciones importantes en tus gastos fijos (trato de mirar sólo que calce el total gastado y no meterme en el detalle)
 * el uso de tus ahorros (especialmente los inesperados)
 * que no te estés pasando en tus gastos chao culpa
 * y definir qué vas a invertir/gastar tus ingresos extras
