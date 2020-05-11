@@ -6,7 +6,7 @@ date = 2020-05-11T16:39:37Z
 description = "Recientemente se han implementado algunos cambios en la gestión de las AFORES que podrían interesarte."
 draft = true
 hide = false
-image = ""
+image = "/uploads/conspiracy-keanu.jpg"
 title = "Tres cambios en tu AFORE que te gustaría saber"
 url = "/cambios-en-tu-afore"
 
@@ -35,6 +35,8 @@ Tras la crisis de 1995 el gobierno mexicano se dio cuenta que el sistema solidar
 
 En aquel entonces, las pensiones eran pagadas por los jóvenes de esa generación. Pero cuando la pirámide poblacional comienza a invertirse, es decir, **cuando hay más abuelos que nietos, el sistema es insostenible**.
 
+![](/uploads/giphy (6).gif)
+
 En aquel tiempo, el IMSS era el responsable de pagar las pensiones. Las prácticas contables le obligaban a crear provisiones para afrontar este compromiso futuro.
 
 En los **90’s había 10.6 abuelos por cada 100 jóvenes** en México. En **2030** se espera que haya **1 abuelo por cada dos jóvenes**.
@@ -51,7 +53,7 @@ Bajo este esquema cada persona iría creando sus ahorros para poderse pensionar.
 
 **Cada mes estos ahorros serían canalizados para invertir** en comprar empresas (acciones), deuda corporativa y principalmente deuda del gobierno**.** Así, **el dinero ahorrado (tu dinero) iría generando ganancias.**
 
-Tu como trabajador destinarías el 1.125% de tu sueldo. Tu empleador pondría el 5.15% y el gobierno, 0.25%. 
+Tu como trabajador destinarías el 1.125% de tu sueldo. Tu empleador pondría el 5.15% y el gobierno, 0.25%.
 
 Este monto sería gestionado por instituciones financieras privadas llamadas Administradoras de Fondos para el Retiro.
 
@@ -63,7 +65,7 @@ Con este plan, y después de 1,250 semanas trabajadas formalmente  y con una eda
 
 Desde hace un par de años, se profesionalizó la venta, se pusieron restricciones a los traspasos, se obligó a revelar más información y a tener mayor claridad.
 
-También se diversificó la cartera permitiendo invertir en el extranjero, en _commodities_, startups, etc. 
+También se diversificó la cartera permitiendo invertir en el extranjero, en _commodities_, startups, etc.
 
 Y de igual forma, se les obligó a profesionalizar su administración de riesgos.
 
