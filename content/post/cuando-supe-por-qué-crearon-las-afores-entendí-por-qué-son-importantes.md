@@ -23,9 +23,7 @@ Y sobre todo, de dónde vienen. Recientemente se han implementado algunos cambio
 
 Las personas irían cambiando de SIEFORE conforme fueran envejeciendo.
 
-![](/uploads/Envejecer.gif)
-
-<div style="text-align:center"> <figure> <img src="/uploads/Envejecer.gif"> </figure> </div>
+`<div style="text-align:center"> <figure> <img src="/uploads/Envejecer.gif"> <figcaption><i>Homo ergaster cazando en la sabana africana hace unos 1.7 millones de años atrás. Impresión artística de Mauricio Anton.</i></figcaption> </figure> </div>`
 
 Este sistema permitiría que cada SIEFORE, gestionada por una AFORE, **conformaría la mejor mezcla posible de activos de inversión** para tu horizonte de ahorro.
 
