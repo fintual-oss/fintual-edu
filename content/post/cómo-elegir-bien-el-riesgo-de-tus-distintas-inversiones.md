@@ -78,11 +78,7 @@ En otras palabras, tu riesgo se mitiga por el paso del tiempo. Entonces tus inve
 
 Una función muy útil de Fintual es que puedes tener varios objetivos al mismo tiempo, manteniendo las platas separadas en “bolsas” con el nivel de riesgo adecuada a cada una. Otra cosa bacán es que no hay límites a la cantidad de objetivos que puedes tener:
 
-<div style="text-align:center">
-<figure>
-<img src="/uploads/mis-objetivos-1.jpg">
-</figure>
-</div>
+![](/uploads/phone-goals@2x-min.png)
 
 #### **3. No pongas tus huevos en una sola canasta**
 
