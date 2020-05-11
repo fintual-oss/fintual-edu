@@ -25,7 +25,6 @@ Las personas irían cambiando de SIEFORE conforme fueran envejeciendo.
 
 <div style="text-align:center"> <figure> <img src="/uploads/giphy-downsized.gif"> </figure> </div>
 
-
 Este sistema permitiría que cada SIEFORE, gestionada por una AFORE, **conformaría la mejor mezcla posible de activos de inversión** para tu horizonte de ahorro.
 
 Después de 23 años, las AFORES se han ido profesionalizando y también abaratando, pero, ¿por qué existen y de dónde vienen?
@@ -37,8 +36,6 @@ Tras la crisis de 1995 el gobierno mexicano se dio cuenta que el sistema solidar
 En aquel entonces, las pensiones eran pagadas por los jóvenes de esa generación. Pero cuando la pirámide poblacional comienza a invertirse, es decir, **cuando hay más abuelos que nietos, el sistema es insostenible**.
 
 <div style="text-align:center"> <figure> <img src="/uploads/giphy (6).gif"> </figure> </div>
-
-![](/uploads/giphy (6).gif)
 
 En aquel tiempo, el IMSS era el responsable de pagar las pensiones. Las prácticas contables le obligaban a crear provisiones para afrontar este compromiso futuro.
 
@@ -92,4 +89,4 @@ También, se introduce un nuevo esquema de comisiones en el cual no cobrarán s�
 
 En fin, el sistema de ahorro para el retiro ha evolucionado mucho desde 1997 y también tiene muchos retos de frente.
 
-Y aunque estoy convencido que no todo podrá ser resuelto únicamente por este sistema de pensiones, creo que conocerlo es un buen vehículo por dónde iniciar a construir un retiro cómodo.
+Y aunque estoy convencido que no todo podrá ser resuelto únicamente por este sistema de pensiones, creo que conocerlo es un buen vehículo por dónde iniciar a construir un retiro cómodo.![](/uploads/giphy (6)-1.gif)
