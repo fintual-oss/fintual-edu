@@ -7,7 +7,7 @@ description = "Recientemente se han implementado algunos cambios en la gestión 
 draft = true
 hide = false
 image = "/uploads/conspiracy-keanu.jpg"
-title = "Tres cambios en tu AFORE que te gustaría saber"
+title = "3 cambios en tu AFORE que te gustaría saber"
 url = "/cambios-en-tu-afore"
 
 +++
@@ -23,7 +23,7 @@ Y sobre todo, de dónde vienen. Recientemente se han implementado algunos cambio
 
 Las personas irían cambiando de SIEFORE conforme fueran envejeciendo.
 
-![](/uploads/giphy-downsized.gif)
+<div style="text-align:center"> <figure> <img src="/uploads/giphy-downsized.gif"> </figure> </div>
 
 Este sistema permitiría que cada SIEFORE, gestionada por una AFORE, **conformaría la mejor mezcla posible de activos de inversión** para tu horizonte de ahorro.
 
