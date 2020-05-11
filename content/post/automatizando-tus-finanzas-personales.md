@@ -85,7 +85,7 @@ Hechos los descuentos, **te debería llegar el sueldo líquido a tu cuenta corri
 
 Una forma de facilitarte la vida es automatizando las transferencias: **tu sueldo va a fluir sin esfuerzo a tus distintos gastos, ahorros e inversiones** y reducirás el tiempo que pasas lidiando con datos, digipasses y confirmaciones.
 
-**La mayoría de los bancos te permiten programar transferencias de forma online.** Configurarlas para que se hagan 2 o 3 días después de la fecha normal de pago de tu sueldo (si tu empleador es muy cumplidor, puede ser para 1 día después incluso).
+[La mayoría de los bancos te permiten programar transferencias de forma online.](https://ayuda.fintual.cl/es/articles/3195558-como-automatizar-mis-inversiones ) Configúralas para que se hagan 2 o 3 días después de la fecha normal de pago de tu sueldo (si tu empleador es muy cumplidor, puede ser para 1 día después incluso).
 
 ![como-programar-transferencias-automaticas-banco](/uploads/transferencias-programadas.png "programar-transferencias")
 
@@ -125,9 +125,9 @@ Esta es **mi configuración para las transferencias automáticas**:
 
 Encuentro bacán usar Fintual para mi sistema porque es muy fácil ir viendo cómo están todas mis inversiones ordenadas, actualizadas, creadas con un plazo y nivel de riesgo adecuado.
 
-_Ejemplo:_
+![](/uploads/IMG_6226.PNG)
 
-![](/uploads/phone-goals@2x-min.png "mis-objetivos")Cuando haces una transferencia automática a Fintual te va a llegar un mail preguntándote a qué objetivo la quieres asignar. También puedes configurar que la asignación se haga automáticamente, diciéndole de antemano a Fintual qué tiene que hacer. Muy fácil.  
+Cuando haces una transferencia automática a Fintual te va a llegar un mail preguntándote a qué objetivo la quieres asignar. También puedes configurar que la asignación se haga automáticamente, diciéndole de antemano a Fintual qué tiene que hacer. Muy fácil.  
 ![](/uploads/Screen Shot 2020-05-11 at 16.47.33.png "donde-asignamos")
 
 ![](/uploads/Screen Shot 2020-05-11 at 16.51.13.png)
