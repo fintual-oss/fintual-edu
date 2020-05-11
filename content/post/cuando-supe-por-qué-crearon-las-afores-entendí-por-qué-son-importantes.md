@@ -25,6 +25,7 @@ Las personas irían cambiando de SIEFORE conforme fueran envejeciendo.
 
 <div style="text-align:center"> <figure> <img src="/uploads/giphy-downsized.gif"> </figure> </div>
 
+
 Este sistema permitiría que cada SIEFORE, gestionada por una AFORE, **conformaría la mejor mezcla posible de activos de inversión** para tu horizonte de ahorro.
 
 Después de 23 años, las AFORES se han ido profesionalizando y también abaratando, pero, ¿por qué existen y de dónde vienen?
@@ -34,6 +35,8 @@ Después de 23 años, las AFORES se han ido profesionalizando y también abarata
 Tras la crisis de 1995 el gobierno mexicano se dio cuenta que el sistema solidario de pensiones se traduciría en un crecimiento de la deuda pública imposible de sustentar e implicaría la quiebra del Instituto Mexicano del Seguro Social (IMSS).
 
 En aquel entonces, las pensiones eran pagadas por los jóvenes de esa generación. Pero cuando la pirámide poblacional comienza a invertirse, es decir, **cuando hay más abuelos que nietos, el sistema es insostenible**.
+
+<div style="text-align:center"> <figure> <img src="/uploads/giphy (6).gif"> </figure> </div>
 
 ![](/uploads/giphy (6).gif)
 
