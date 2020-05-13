@@ -3,11 +3,11 @@ aliases = []
 author = "Victor Hugo Flores"
 categories = ["educación financiera"]
 date = 2020-05-11T16:39:37Z
-description = "Recientemente se han implementado algunos cambios en la gestión de las AFORES que podrían interesarte."
+description = "Recientemente se han hecho algunos cambios en la gestión de las AFORES que podrían interesarte."
 draft = true
-hide = false
+hide = true
 image = "/uploads/conspiracy-keanu.jpg"
-title = "3 cambios en tu AFORE que te gustaría saber"
+title = "3 cambios en tu AFORE que tienes que saber"
 url = "/cambios-en-tu-afore"
 
 +++
@@ -90,3 +90,12 @@ También, se introduce un nuevo esquema de comisiones en el cual no cobrarán s�
 En fin, el sistema de ahorro para el retiro ha evolucionado mucho desde 1997 y también tiene muchos retos de frente.
 
 Y aunque estoy convencido que no todo podrá ser resuelto únicamente por este sistema de pensiones, creo que conocerlo es un buen vehículo por dónde iniciar a construir un retiro cómodo.
+
+{{% prueba_fintual
+utmcontent="write_here_the_utm_tag"
+card_title="Prueba Fintual"
+card_button="Empezar" %}}
+
+Más inteligente que dejar su dinero en el banco.
+
+{{% /prueba_fintual %}}
