@@ -96,6 +96,6 @@ utmcontent="cambiosentuafore"
 card_title="Únete a nuestra newsletter"
 _card_button="Regístrame" %}}
 
-Recibe info sobre estos temas, y más
+Recibe info sobre estos temas y más.
 
 {{% /prueba_fintual %}}
