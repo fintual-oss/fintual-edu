@@ -5,7 +5,7 @@ categories = ["educación financiera"]
 date = 2020-05-11T16:39:37Z
 description = "Recientemente se han hecho algunos cambios en la gestión de las AFORES que podrían interesarte."
 hide = false
-image = "/uploads/Cambiosafore-1.png"
+image = "/uploads/Copia de Sin título.png"
 title = "3 cambios en tu AFORE que tienes que saber"
 url = "/cambios-en-tu-afore"
 
