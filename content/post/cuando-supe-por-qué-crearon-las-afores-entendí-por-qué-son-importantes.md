@@ -92,10 +92,10 @@ En fin, el sistema de ahorro para el retiro ha evolucionado mucho desde 1997 y t
 Y aunque estoy convencido que no todo podrá ser resuelto únicamente por este sistema de pensiones, creo que conocerlo es un buen vehículo por dónde iniciar a construir un retiro cómodo.
 
 {{% prueba_fintual
-utmcontent="write_here_the_utm_tag"
-card_title="Prueba Fintual"
-card_button="Empezar" %}}
+utmcontent="cambiosentuafore"
+card_title="Únete a nuestra newsletter"
+_card_button="Registrame" %}}
 
-Más inteligente que dejar su dinero en el banco.
+Recibe info sobre estos temas, y más
 
 {{% /prueba_fintual %}}
