@@ -4,7 +4,6 @@ author = "Victor Hugo Flores"
 categories = ["educación financiera"]
 date = 2020-05-11T16:39:37Z
 description = "Recientemente se han hecho algunos cambios en la gestión de las AFORES que podrían interesarte."
-draft = true
 hide = true
 image = "/uploads/conspiracy-keanu.jpg"
 title = "3 cambios en tu AFORE que tienes que saber"
