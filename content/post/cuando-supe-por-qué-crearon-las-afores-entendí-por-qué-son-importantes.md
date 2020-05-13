@@ -94,7 +94,7 @@ Y aunque estoy convencido que no todo podrá ser resuelto únicamente por este s
 {{% prueba_fintual
 utmcontent="cambiosentuafore"
 card_title="Únete a nuestra newsletter"
-_card_button="Regístrame" %}}
+card_button="Regístrame" %}}
 
 Recibe info sobre estos temas y más.
 
