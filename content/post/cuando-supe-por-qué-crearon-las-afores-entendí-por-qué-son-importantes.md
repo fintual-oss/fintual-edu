@@ -96,6 +96,6 @@ utmcontent="cambiosentuafore"
 card_title="Únete a nuestra newsletter"
 card_button="Regístrame" %}}
 
-Recibe info sobre estos temas y más.
+Recibe más info sobre este tema, ahorro y cómo cuidar tu dinero.
 
 {{% /prueba_fintual %}}
