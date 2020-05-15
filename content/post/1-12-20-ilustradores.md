@@ -258,7 +258,7 @@ Acá dejamos el portafolio de todas las personas que participaron. Hay material 
 
 [https://www.behance.net/davidurzuaa](https://www.behance.net/davidurzuaa "https://www.behance.net/davidurzuaa")
 
-[https://www.instagram.com/dominiquepinochet/](https://www.instagram.com/dominiquepinochet/ "https://www.instagram.com/dominiquepinochet/")
+[https://www.instagram.com/domi.deline/](https://www.instagram.com/domi.deline/ "https://www.instagram.com/domi.deline/")
 
 [https://www.behance.net/pleytonp](https://www.behance.net/pleytonp "https://www.behance.net/pleytonp")
 
