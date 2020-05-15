@@ -308,7 +308,7 @@ Acá dejamos el portafolio de todas las personas que participaron. Hay material 
 
 [https://www.behance.net/le_zama](https://www.behance.net/le_zama "https://www.behance.net/le_zama")
 
-[https://www.instagram.com/franidays_ilustracion/](https://www.instagram.com/franidays_ilustracion/ "https://www.instagram.com/franidays_ilustracion/")
+[https://www.instagram.com/franidays/](https://www.instagram.com/franidays/ "https://www.instagram.com/franidays/")
 
 [http://www.panchulei.com/](http://www.panchulei.com/ "http://www.panchulei.com/")
 
