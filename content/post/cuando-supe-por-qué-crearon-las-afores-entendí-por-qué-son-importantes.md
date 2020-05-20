@@ -56,10 +56,10 @@ Otro de los cambios es la forma en la que pagas ese servicio. Hoy se te cobra po
 Como puedes leer, este sistema de ahorro para el retiro ha evolucionado mucho desde que lo crearon y también enfrenta muchos retos que me gustaría discutir en próximos artículos.
 
 {{% prueba_fintual
-utmcontent="cambiosentuafore"
-card_title="Únete a nuestra newsletter"
-card_button="Regístrame" %}}
+utmcontent="lee_esto_antes"
+card_t_itle="Suscríbete"
+card_button="Aquí" %}}
 
-Recibe más info sobre ahorros ![](/uploads/lee-esto.jpg), ahorro y cómo cuidar tu dinero.
+Recibe más info sobre este tema y cómo administrar tu dinero.
 
 {{% /prueba_fintual %}}
