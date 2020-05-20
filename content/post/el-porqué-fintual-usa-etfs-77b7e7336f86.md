@@ -1,6 +1,6 @@
 ---
 author: Omar Larré
-author_thumbnail: "/uploads/omar_larre.jpeg"
+author_thumbnail: "/uploads/pascale.jpg"
 title: "¿Qué es un ETF?"
 date: 2018-02-07T00:00:00.000+00:00
 image: "/uploads/matt-nelson-222308-unsplash.jpg"
@@ -9,13 +9,21 @@ categories:
 url: "/el-porqué-fintual-usa-etfs-77b7e7336f86/"
 
 ---
-Los ETFs entregan el mejor nivel de acceso a activos globales, flexibilidad y bajos costos. Pero ¿qué son? ¿Y por qué son lo indicado para ti?
+Los ETF entregan el mejor nivel de acceso a activos globales, flexibilidad y bajos costos. 
 
-![ETF?](/uploads/el-porqué-fin6323.png)_ETF? WTF?_
+Pero, ¿qué son? ¿Y por qué son lo indicado para ti?
 
-Después de largos meses de trabajo junto a mis socios, creamos Fintual con la idea de entregar el mejor portafolio posible para alguien común y corriente, y de la forma más fácil posible. Para hacer esto, teníamos que tener en consideración el costo total del producto financiero (la suma de todas las comisiones y cobros finales), la rentabilidad del portafolio, y cómo hacer llegar esto de forma fácil y simple a cada persona.
+<div style="text-align:center">
+<figure>
+<img src="/uploads/pascale.jpg">
+<figcaption style="display:block;text-align:center;font-size:.8rem"><i>Ilustración de <a target="_blank" href="https://www.instagram.com/pascalasca/">Pascale</a></i></figcaption>
+</figure>
+</div>
 
-Dado todas estas necesidades, no es coincidencia de que los _exchange-traded funds_ o ETFs (que en sus siglas en inglés significa “fondos cotizados en bolsa”) sean parte fundamental de cada una de los portafolios que Fintual ofrece a sus clientes. Los ETFs, que fueron desarrollados a principios de los años 1990s, representan más de US$1.7 *_rillion*_en activos (es decir, más de 1.700.000.000.000 dólares) sólo en Estados Unidos, y en Chile comenzaron a operar en bolsa hace ya unos años. Lo que hacemos en Fintual es elegir los ETFs apropiados, en las cantidades apropiadas, para cada uno de los portafolios de inversiones de cada uno de los planes de cada persona.
+
+Después de muchos meses de trabajo junto a mis socios, creamos Fintual con la idea de entregar el mejor portafolio posible para alguien común y corriente, y de la forma más fácil posible. Para hacer esto, teníamos que tener en consideración el costo total del producto financiero (la suma de todas las comisiones y cobros finales), la rentabilidad del portafolio, y cómo hacer llegar esto de forma fácil y simple a cada persona.
+
+Dado todas estas necesidades, no es coincidencia de que los _exchange-traded funds_ o ETFs (que en sus siglas en inglés significa “fondos cotizados en bolsa”) sean parte fundamental de cada una de los portafolios que Fintual ofrece a sus clientes. Los ETFs, que fueron desarrollados a principios de los años 1990s, representan más de US$1.7 __rillion__en activos (es decir, más de 1.700.000.000.000 dólares) sólo en Estados Unidos, y en Chile comenzaron a operar en bolsa hace ya unos años. Lo que hacemos en Fintual es elegir los ETFs apropiados, en las cantidades apropiadas, para cada uno de los portafolios de inversiones de cada uno de los planes de cada persona.
 
 Durante décadas los ejecutivos de bancos o compañías financieras han ofrecido a sus clientes carteras de inversión de fondos mutuos de su propia compañía, en cambio, lo que hacemos en Fintual es ofrecer portfolios a base de ETFs y cuotas de fondos que son administrados por otras grandes compañías, a través de una estructura llamada “fondo de fondos”, el cual tiene un cascarón operativo y legal de fondo mutuo, pero tiene todas las ventajas que tiene una cartera de ETFs personalizada y elegida de forma independiente, ya que no ganamos nada por recomendar un ETF o un fondo particular sobre otro. Y bueno, al mismo tiempo, rescatamos dos características importantes de los fondos mutuos: la seguridad que entrega el hecho que un fondo mutuo sea regulado, además de los beneficios tributarios que tienen los fondos mutuos bajo la legislación chilena.
 
