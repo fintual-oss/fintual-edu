@@ -6,7 +6,7 @@ date = 2020-05-11T16:39:37Z
 description = "Conoce por qué tenemos un sistema de ahorro para el retiro y por qué es importante conservarlo."
 draft = true
 hide = false
-image = "/uploads/Copia de Sin título.png"
+image = "/uploads/lee-esto.jpg"
 title = "Lee esto antes de retirar dinero de tu AFORE"
 url = "/cambios-en-tu-afore"
 
@@ -60,6 +60,6 @@ utmcontent="cambiosentuafore"
 card_title="Únete a nuestra newsletter"
 card_button="Regístrame" %}}
 
-Recibe más info sobre ahorros , ahorro y cómo cuidar tu dinero.
+Recibe más info sobre ahorros ![](/uploads/lee-esto.jpg), ahorro y cómo cuidar tu dinero.
 
 {{% /prueba_fintual %}}
