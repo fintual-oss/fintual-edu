@@ -1,9 +1,9 @@
 ---
 author: Omar Larré
-author_thumbnail: "/uploads/pascale.jpg"
+author_thumbnail: "/uploads/omar_larre.jpeg"
 title: "¿Qué es un ETF?"
 date: 2020-05-21T01:00:00+00:00
-image: "/uploads/matt-nelson-222308-unsplash.jpg"
+image: "/uploads/pascale.jpg"
 categories:
 - educación financiera
 url: "/el-porqué-fintual-usa-etfs-77b7e7336f86/"
@@ -78,7 +78,7 @@ Además, son utilizados en mucho más que simplemente exposición directa al act
 
 Los ETF tienen la ventaja de contener décadas de desarrollos tecnológicos en torno a compra, venta, valorización y manejo de activos.
 
-Dato: Hace poco incorporamos ETF verdes a nuestros portafolios.
+Dato Hace poco incorporamos ETF verdes a nuestros portafolios.
 
 {{% prueba_fintual
 utmcontent="que_es_un_etf"
