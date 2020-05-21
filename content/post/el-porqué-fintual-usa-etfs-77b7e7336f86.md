@@ -36,21 +36,27 @@ Lo que hacemos en Fintual es elegir los ETF apropiados, en las cantidades apropi
 
 Durante décadas los ejecutivos de bancos o compañías financieras han ofrecido a sus clientes carteras de inversión de fondos mutuos de su propia compañía. 
 
-Lo que hacemos en Fintual, en cambio, es ofrecer portafolios a base de ETF y cuotas de fondos que son administrados por otras grandes compañías a través de una estructura llamada fondo de fondos.
+Lo que hacemos en Fintual, en cambio, es ofrecer portafolios compuestos por ETF y cuotas de fondos administrados por grandes compañías a través de una estructura llamada fondo de fondos.
 
-Esta estructura tiene un cascarón operativo y legal de fondo mutuo, pero tiene todas las ventajas que tiene una cartera de ETF personalizada y elegida de forma independiente, ya que no ganamos nada por recomendar un ETF o un fondo particular sobre otro.
+Esta estructura tiene el cascarón operativo y legal de un fondo mutuo, pero tiene todas las ventajas de una cartera de ETF personalizada y elegida de forma independiente, ya que no ganamos nada por recomendar un ETF o un fondo particular sobre otro.
 
-Y, al mismo tiempo, rescatamos dos características importantes de los fondos mutuos: la seguridad que entrega un fondo mutuo sea regulado, además de los beneficios tributarios que tienen los fondos mutuos bajo la legislación chilena.
+Y, al mismo tiempo, rescatamos dos características importantes de los fondos mutuos: la **seguridad** que entrega un fondo mutuo regulado, además de los [**beneficios tributarios **](https://edu.fintual.cl/4-beneficios-tributarios-si-usas-fintual/)que tienen los fondos mutuos bajo la legislación chilena.
 
-> En pocas palabras, [Fintual](https://fintual.cl/) es nuestro máximo esfuerzo para que goces de las ventajas de un portafolio diversificado y global de ETF, sin todas las complejidades operativas y financieras que podrías tener si tú eligieras el mismo portafolio. A esto le sumamos transparencia, independencia y beneficios tributarios.
+> En pocas palabras, [Fintual](https://fintual.cl/) es nuestro máximo esfuerzo para que goces de las ventajas de un portafolio diversificado y global de ETF, sin todas las complejidades operativas y financieras que tendrías si tú eligieras el mismo portafolio. A esto le sumamos transparencia, independencia y beneficios tributarios.
 
 #### Bajos costos
 
-Estos fondos no tienen _managers_ que son pagados para obtener retornos sobre el mercado, lo que también se llama “entregar alfa”. En vez de eso, los _portfolio managers_ de estos fondos son expertos cuantitativos en seguir el índice, casi con precisión láser. El costo de un ETF cubre la licencia del índice público que siguen, los gastos administrativos propios de un fondo (abogados, custodios, gastos de bolsa, etc) y el sueldo de los managers, que tienden a trabajar en la administración de varios ETFs a la vez. Todo esto entra en los costos totales.
+Al ser indexados, estos fondos no tienen _managers_ al que se les paga para ganarle al mercado, algo que se llama entregar “alfa”. 
 
-En contraste, muchos fondos mutuos — particularmente aquellos que son manejados de forma activa, es decir, tratando de ganarle al mercado, buscando “alfa”— añaden costos de distribución de sus fondos, con los cuales pagan a los ejecutivos que te venden los fondos, pagan las oficinas donde te atienden — mucho ojo si entras a una oficina llena de cristal, madera y mármol — , además de los costos extras que implica manejar un fondo que presume ganarle al mercado: un pesado equipo de operaciones, un pesado equipo de analistas, compensaciones mayores a sus _managers_, etc. Con los ETFs, varios de esos pasos son obviados, permitiendo mayores beneficios al inversionista final: TÚ.
+En vez de eso, los _portfolio managers_ de estos fondos son expertos cuantitativos en seguir el índice, casi con precisión láser. El costo de un ETF cubre la licencia del índice público que sigue, los gastos administrativos propios de un fondo (abogados, custodios, gastos de bolsa, etc) y el sueldo de los managers, que tienden a trabajar en la administración de varios ETF a la vez. Todo esto entra en los costos totales.
 
-Por todo esto, una cartera básica de ETFs tiende a ser mucho más barata que una cartera equivalente de fondos mutuos. Por ejemplo, el ETF [Vanguard Total Stock Market ETF (VTI)](https://personal.vanguard.com/us/funds/snapshot?FundId=0970&FundIntExt=INT&ps_disable_redirect=true&funds_disable_redirect=true), que básicamente sigue a un índice de acciones de Estados Unidos, tiene un costo de 0,04% al año, es decir, por cada mil dólares administrados en este ETF, 40 centavos de dólar se cobran al año por concepto de administración.
+En contraste, muchos fondos mutuos —particularmente aquellos que son manejados de forma activa, es decir, para conseguir retornos sobre el mercado en busca de “alfa”— añaden costos de distribución de sus fondos.
+
+Con eso se pagan los ejecutivos que te venden los fondos, las oficinas donde te atienden —ojo si entras a una oficina _fancy_ llena de cristal y mármol—, además de los costos extras que implica manejar un fondo que presume ganarle al mercado: un pesado equipo de operaciones, un selecto equipo de analistas, compensaciones mayores a sus _managers_, etc. 
+
+> Con ETF, varios de esos pasos son obviados, permitiendo mayores beneficios al inversionista final: tú.
+
+Por esto, una cartera básica de ETF tiende a ser mucho más barata que una cartera equivalente de fondos mutuos. Por ejemplo, el ETF [Vanguard Total Stock Market ETF (VTI)](https://personal.vanguard.com/us/funds/snapshot?FundId=0970&FundIntExt=INT&ps_disable_redirect=true&funds_disable_redirect=true), que básicamente sigue a un índice de acciones de Estados Unidos, tiene un costo de 0,04% al año, es decir, por cada mil dólares administrados en este ETF, 40 centavos de dólar se cobran al año por concepto de administración.
 
 #### Diversificación
 
