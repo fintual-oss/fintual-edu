@@ -70,11 +70,13 @@ Por ejemplo —volviendo al ejemplo anterior — Vanguard Total Stock Market ETF
 
 #### Flexibilidad
 
-Los ETF son utilizados por todo tipo de inversionistas: pequeños, medianos, grandes, institucionales, etc. A cada uno de ellos les permiten tener una exposición fácil y rápida a clases de activos determinados. Además, son utilizados en mucho más que simplemente exposición directa al activo, convirtiéndose en una herramienta esencial en casi todo tipo de inversionistas, ya sean _traders_ de corto plazo o inversionistas de largo plazo.
+Los ETF son utilizados por todo tipo de inversionistas: pequeños, medianos, grandes, institucionales, etc. A cada uno de ellos les entrega una exposición fácil y rápida a clases de activos determinados. 
+
+Además, son utilizados en mucho más que simplemente exposición directa al activo, convirtiéndose en una herramienta esencial en casi todo tipo de inversionistas, ya sean _traders_ de corto plazo o inversionistas de largo plazo.
 
 #### Sofisticación
 
-Los ETFs tienen la ventaja de contener décadas de desarrollos tecnológicos en torno a compra, venta, valorización y manejo de activos.
+Los ETF tienen la ventaja de contener décadas de desarrollos tecnológicos en torno a compra, venta, valorización y manejo de activos.
 
 {{% prueba_fintual
 utmcontent="que_es_un_etf"
