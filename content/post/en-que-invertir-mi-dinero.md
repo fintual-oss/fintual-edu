@@ -6,7 +6,7 @@ date = 2020-05-21T19:14:26Z
 description = ""
 draft = true
 hide = false
-image = ""
+image = "/uploads/en-que-invertir.jpg"
 title = "En qué invertir mi dinero"
 url = "/en-que-invertir-mi-dinero"
 
