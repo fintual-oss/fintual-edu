@@ -78,6 +78,8 @@ Además, son utilizados en mucho más que simplemente exposición directa al act
 
 Los ETF tienen la ventaja de contener décadas de desarrollos tecnológicos en torno a compra, venta, valorización y manejo de activos.
 
+Dato: Hace poco incorporamos ETF verdes a nuestros portafolios.
+
 {{% prueba_fintual
 utmcontent="que_es_un_etf"
 card_title="Prueba Fintual"
