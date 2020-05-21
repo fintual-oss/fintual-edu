@@ -59,6 +59,6 @@ utmcontent_"lee_esto_antes"
 card_title="Suscríbete"
 card_button="Aquí" %}}
 
-Recibe más info sobre este tema y cómo administrar tu dinero.
+Aprende de finanzas e inversiones, con ideas de negocio, tips para ahorrar y mucho más.
 
 {{% /prueba_fintual %}}
