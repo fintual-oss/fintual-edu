@@ -46,7 +46,7 @@ Y, al mismo tiempo, rescatamos dos características importantes de los fondos mu
 
 #### Bajos costos
 
-Al ser indexados, estos fondos no tienen _managers_ al que se les paga para ganarle al mercado, algo que se llama entregar “alfa”. 
+Al ser indexados, estos fondos no tienen _managers_ al que se les paga para ganarle al mercado, algo conocido como entregar “alfa”. 
 
 En vez de eso, los _portfolio managers_ de estos fondos son expertos cuantitativos en seguir el índice, casi con precisión láser. El costo de un ETF cubre la licencia del índice público que sigue, los gastos administrativos propios de un fondo (abogados, custodios, gastos de bolsa, etc) y el sueldo de los managers, que tienden a trabajar en la administración de varios ETF a la vez. Todo esto entra en los costos totales.
 
@@ -56,17 +56,21 @@ Con eso se pagan los ejecutivos que te venden los fondos, las oficinas donde te 
 
 > Con ETF, varios de esos pasos son obviados, permitiendo mayores beneficios al inversionista final: tú.
 
-Por esto, una cartera básica de ETF tiende a ser mucho más barata que una cartera equivalente de fondos mutuos. Por ejemplo, el ETF [Vanguard Total Stock Market ETF (VTI)](https://personal.vanguard.com/us/funds/snapshot?FundId=0970&FundIntExt=INT&ps_disable_redirect=true&funds_disable_redirect=true), que básicamente sigue a un índice de acciones de Estados Unidos, tiene un costo de 0,04% al año, es decir, por cada mil dólares administrados en este ETF, 40 centavos de dólar se cobran al año por concepto de administración.
+Por esto, una cartera básica de ETF tiende a ser mucho más barata que una cartera equivalente de fondos mutuos. Por ejemplo, el ETF [Vanguard Total Stock Market ETF (VTI)](https://personal.vanguard.com/us/funds/snapshot?FundId=0970&FundIntExt=INT&ps_disable_redirect=true&funds_disable_redirect=true), que básicamente sigue a un índice de acciones de Estados Unidos, tiene un costo de 0,04% al año. O sea, por cada mil dólares administrados en este ETF, se cobran apenas 40 centavos de dólar al año por concepto de administración.
 
 #### Diversificación
 
-También conocido por “no pongas todos tus huevos en la misma canasta”, la diversificación tienen un efecto positivo en cualquier cartera de inversiones, y es parte central de la teoría moderna de portafolios. Esto es lo que explica el foco de Fintual en entregar carteras adecuadas y bien diversificadas, de forma tal de asegurar que los portafolios recomendados no están sobre-expuestos a una acción, compañía o sector particular.
+También conocido como “no poner todos los huevos en la misma canasta”. La diversificación tiene un efecto positivo en cualquier cartera de inversiones y es parte central de la teoría moderna de portafolios. 
 
-La mayoría de los ETFs tienen reglas específicas de diversificación. Por ejemplo —volviendo al ejemplo anterior — Vanguard Total Stock Market ETF se constituyó [bajo las leyes de Estados Unidos](https://www.ecfr.gov/cgi-bin/text-idx?SID=401092c41617daf5bf6114630b6ca8da&mc=true&node=pt17.4.270&rgn=div5) como un fondo diversificado, con reglas claras y estrictas que lo obligan o no tener una exposición alta a ninguna empresa o compañía en particular. Dentro de este ETF hay más de 1400 acciones distintas: no estás comprando una única acción, ni por cerca!
+Esto es lo que explica el foco de Fintual en entregar carteras adecuadas y bien diversificadas. Así aseguramos que los portafolios recomendados no estén sobre-expuestos a una acción, compañía o sector particular.
+
+La mayoría de los ETF tienen reglas específicas de diversificación. 
+
+Por ejemplo —volviendo al ejemplo anterior — Vanguard Total Stock Market ETF se constituyó [bajo las leyes de Estados Unidos](https://www.ecfr.gov/cgi-bin/text-idx?SID=401092c41617daf5bf6114630b6ca8da&mc=true&node=pt17.4.270&rgn=div5) como un fondo diversificado, con reglas claras y estrictas que lo obligan o no tener una exposición alta a ninguna empresa o compañía en particular. Dentro de este ETF hay más de 1400 acciones distintas: no estás ni cerca de comprar una única acción.
 
 #### Flexibilidad
 
-Los ETFs son utilizados por todo tipo de inversionistas: pequeños, medianos, grandes, institucionales, etc. A cada uno de ellos les permiten tener una exposición fácil y rápida a clases de activos determinados. Además, son utilizados en mucho más que simplemente exposición directa al activo, convirtiéndose en una herramienta esencial en casi todo tipo de inversionistas, ya sean _traders_ de corto plazo o inversionistas de largo plazo.
+Los ETF son utilizados por todo tipo de inversionistas: pequeños, medianos, grandes, institucionales, etc. A cada uno de ellos les permiten tener una exposición fácil y rápida a clases de activos determinados. Además, son utilizados en mucho más que simplemente exposición directa al activo, convirtiéndose en una herramienta esencial en casi todo tipo de inversionistas, ya sean _traders_ de corto plazo o inversionistas de largo plazo.
 
 #### Sofisticación
 
