@@ -28,15 +28,11 @@ Al buscar en qué invertir, esta es de las opciones en la que más puedes perder
 Peeero:
 
 * **Se necesita un intermediario**: las Casas de Bolsa. Cada transacción tiene un costo y los clientes con montos más pequeños (las personas comunes y corrientes) salen perjudicados. Cuando inviertes en acciones pagas, dependiendo de la corredora, un 0.5% de comisión al comprar y otro 0.5% al vender. Suba o baje la acción, ya tienes un 1% (más I.V.A.) menos de tu dinero.
-
-
 * **Es muy difícil ganarle consistentemente al mercado** y predecir qué va a pasar en el futuro. Tan impredecible como una caída de 6% en una acción luego de que el [CEO de la compañía fume marihuana en un programa de radio](https://www.cnbc.com/2018/09/07/tesla-sinks-8percent-after-bizarre-musk-podcast-appearance-cao-exit.html).
 
   Todos los economistas y analistas dicen lo que creen, o incluso lo que les conviene decir, pero se equivocan muy seguido. Y cuando se equivoquen, aparecerán al día siguiente explicando porqué pasó lo contrario. _“China salió a comprar divisas inesperadamente”_ o cualquier otra explicación enredada que en retrospectiva se puede entender: después de la guerra somos todos generales.
 
   **Lo único que es 100% seguro son las comisiones que te van a cobrar.** En el largo plazo, en promedio, las acciones suben. En el corto plazo, nadie (o por lo menos tú, no, probablemente) tiene idea de lo que va a pasar.
-
-
 * **¿Qué acciones comprar?** Ni idea. Para no poner todos los huevos en la misma canasta siempre se recomienda armar un portafolio de varias acciones, pero el mercado mexicano es muy pequeño y probablemente no estés en los círculos de información privilegiada (algunos peleados con la ley), por lo que las recomendaciones que te lleguen serán de amigos que entiendan del tema o de ejecutivos que tienen metas de ventas.  
   **Los ejecutivos te venderán lo que les conviene a ellos, incluso por sobre tus intereses**. La ley no lo permite, la CNBV dicta lo contrario en sus normativas, pero esto sigue siendo así y no creemos que vaya a cambiar. Si quieres hacerlo por tu cuenta, tienes que dedicar tu tiempo a leer seguido noticias financieras (y probablemente vas a llegar tarde igual).
 
@@ -64,7 +60,8 @@ Sí.
 
 Todos.
 
-(IMAGEN DINERO)
+<div style="text-align:center"> <figure> <img src="/uploads/coins-1523383_1280.jpg"> </figure> </div>
+
 
 Cuando te das de alta, tu AFORE lo administra a través de Sociedades de Inversión “Siefores” en donde se acumulan las aportaciones que se hacen mes a mes entre el gobierno, tú y la empresa para la que trabajas (solo en el tiempo en el que tienes un empleo formal)
 
@@ -104,7 +101,7 @@ Imagínate que existiera un ETF que se llamara ETF México, en el cual hay una a
 
 De hecho, existe algo más o menos así que se llama **NAFTRAC** , que incluye las 35 acciones del **S&P/BMV IPC** (o las que tienen mayor presencia en el mercado mexicano). Este ETF lo puedes comprar a través de cualquier Casa de Bolsa donde abras una cuenta.
 
-Los ETFs son comunes en México y una de las características que tienen es que sean de alta liquidez (que sea muy fácil transformarlos en efectivo, es decir venderlos o comprarlos rápidamente), algo muy apreciado para el pequeño inversionista. 
+Los ETFs son comunes en México y una de las características que tienen es que sean de alta liquidez (que sea muy fácil transformarlos en efectivo, es decir venderlos o comprarlos rápidamente), algo muy apreciado para el pequeño inversionista.
 
 Además, se tiene la gran ventaja de tener el Sistema Internacional de Cotizaciones (SIC) que permite comprar una diversidad de ETF y acciones que cotizan en los mercados extranjeros desde las Bolsas Mexicanas. Esto abre de forma abismal la cantidad de opciones de inversión.
 
