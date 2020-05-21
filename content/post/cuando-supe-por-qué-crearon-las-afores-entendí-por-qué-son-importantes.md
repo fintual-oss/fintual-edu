@@ -12,7 +12,7 @@ url = "/lee-esto-antes"
 +++
 Hay muchos abuelos. Cada vez más.
 
-Si en los **90’s en México había 10 abuelos por cada 100 jóvenes**, en tan solo 10 años más habrán 50.
+Si en los **90’s en México había 10 abuelos por cada 100 jóvenes**, en tan solo 10 años más, habrán 50.
 
 Nuestros padres y abuelos tuvieron la oportunidad de jubilarse con recursos administrados por el gobierno porque las pensiones eran pagadas por los jóvenes de esa generación.
 
@@ -56,7 +56,7 @@ Como puedes leer, este sistema de ahorro para el retiro ha evolucionado mucho de
 
 {{% prueba_fintual
 utmcontent_"lee_esto_antes"
-card_title="Suscríbete_"
+card_title="Suscríbete"
 card_button="Aquí" %}}
 
 Recibe más info sobre este tema y cómo administrar tu dinero.
