@@ -83,6 +83,6 @@ utmcontent="que_es_un_etf"
 card_title="Prueba Fintual"
 card_button="Empezar" %}}
 
-Y empieza a invertir en ETF.
+Y empieza a invertir en ETF
 
 {{% /prueba_fintual %}}
