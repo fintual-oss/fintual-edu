@@ -4,6 +4,7 @@ author = "Pedro Pineda"
 categories = []
 date = 2020-05-21T19:14:26Z
 description = ""
+draft = true
 hide = false
 image = "/uploads/en-que-invertir.jpg"
 title = "En qué invertir mi dinero"
