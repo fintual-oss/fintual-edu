@@ -52,7 +52,7 @@ En contraste, muchos fondos mutuos —particularmente aquellos que son manejados
 
 Con eso se pagan los ejecutivos que te venden los fondos, las oficinas donde te atienden —ojo si entras a una oficina _fancy_ llena de cristal y mármol—, además de los costos extras que implica manejar un fondo que presume ganarle al mercado: un pesado equipo de operaciones, un selecto equipo de analistas, compensaciones mayores a sus _managers_, etc.
 
-> Con ETF, varios de esos pasos son obviados, permitiendo mayores beneficios al inversionista final: tú.
+> Varios de esos pasos son obviados al usar ETF, permitiendo mayores beneficios al inversionista final: tú.
 
 Por esto, una cartera básica de ETF tiende a ser mucho más barata que una cartera equivalente de fondos mutuos. Por ejemplo, el ETF [Vanguard Total Stock Market ETF (VTI)](https://personal.vanguard.com/us/funds/snapshot?FundId=0970&FundIntExt=INT&ps_disable_redirect=true&funds_disable_redirect=true), que básicamente sigue a un índice de acciones de Estados Unidos, tiene un costo de 0,04% al año. O sea, por cada mil dólares administrados en este ETF, se cobran apenas 40 centavos de dólar al año por concepto de administración.
 
