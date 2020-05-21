@@ -4,8 +4,8 @@ author = "Victor Hugo Flores"
 categories = ["educación financiera"]
 date = 2020-05-11T16:39:37Z
 description = "Conoce por qué tenemos un sistema de ahorro para el retiro y por qué es importante conservarlo."
-hide = true
-image = "/uploads/lee-esto.jpg"
+hide = false
+image = "/uploads/Copia de Sin título.png"
 title = "Lee esto antes de retirar dinero de tu AFORE"
 url = "/lee-esto-antes"
 
