@@ -11,7 +11,7 @@ url: "/el-porqué-fintual-usa-etfs-77b7e7336f86/"
 ---
 Los ETF entregan el mejor nivel de acceso a activos globales gracias a su flexibilidad, diversificación y bajos costos.
 
-Pero, ¿qué son? ¿Y por qué son lo indicado para ti?
+Pero, ¿qué son? ¿Y por qué te convienen?
 
 <div style="text-align:center">
 <figure>
@@ -83,6 +83,6 @@ utmcontent="que_es_un_etf"
 card_title="Prueba Fintual"
 card_button="Empezar" %}}
 
-Y empieza a invertir inteligente.
+Y empieza a invertir en ETF.
 
 {{% /prueba_fintual %}}
