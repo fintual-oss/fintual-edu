@@ -1,7 +1,7 @@
 +++
 aliases = []
 author = "Omar Larré"
-categories = ["noticias"]
+categories = ["educación financiera"]
 date = 2020-01-22T13:17:00Z
 description = "Qué significan las inversiones verdes, cuáles son sus criterios y el mito del impacto negativo en la rentabilidad"
 hide = false
@@ -14,7 +14,7 @@ Desde los inicios de Fintual quisimos tener alternativas de inversión con impac
 
 Y es que es fácil olvidarlo, pero el poder del dinero —o más bien, del flujo de dinero de la economía global— es la principal herramienta para determinar el curso de las industrias que se quieren fomentar o desincentivar.
 
-> **El dinero funciona como el “torrente sanguíneo” de la economía: comprar acciones o bonos de ciertas empresas (es decir, entregarle financiamiento para que puedan desarrollarse), es similar a entregar nutrientes y oxígeno para que crezcan.**
+> El dinero funciona como el “torrente sanguíneo” de la economía: comprar acciones o bonos de ciertas empresas (es decir, entregarle financiamiento para que puedan desarrollarse), es similar a entregar nutrientes y oxígeno para que crezcan.
 
 Entonces, la idea es simple: _invirtamos en empresas verdes._ Pero, ¿qué significan exactamente estas “inversiones o empresas verdes”? ¿Van a ser menos rentables? ¿Es necesario hacer un “fondo verde” nuevo o usar los mismos fondos actuales? Aparecieron muchas preguntas y tratamos de resolverlas en un recorrido de más de 2 años que ya está tomando forma.
 
