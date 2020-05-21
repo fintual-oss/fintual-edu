@@ -38,7 +38,9 @@ Peeero:
 
   Para invertir en acciones y dormir tranquilo, la única estrategia que me atrevo a recomendar –y que históricamente ha dado resultado– es invertir de forma pasiva (siguiendo un índice o al promedio de un mercado).
 
-(Imagen de Paul Colgan)
+![](/uploads/captura-de-pantalla-2020-05-21-a-la-s-16-47-35.png)
+
+<div style="text-align:center"> <figure> <img src="/uploads/captura-de-pantalla-2020-05-21-a-la-s-16-47-35.png"> <figcaption><i>Imagen de Paul Colgan.</i></figcaption> </figure> </div>
 
 ### **3. Fondos de Inversión**
 
@@ -62,16 +64,15 @@ Todos.
 
 <div style="text-align:center"> <figure> <img src="/uploads/coins-1523383_1280.jpg"> </figure> </div>
 
-
 Cuando te das de alta, tu AFORE lo administra a través de Sociedades de Inversión “Siefores” en donde se acumulan las aportaciones que se hacen mes a mes entre el gobierno, tú y la empresa para la que trabajas (solo en el tiempo en el que tienes un empleo formal)
 
 Como en realidad es muy poco (6.5% de tu salario bruto) puedes hacer aportaciones adicionales a través de la CONSAR: dinero del que puedes disponer cada 2 y 6 meses, y además es deducible.
 
-### **5. CETES DIRECTO**
+### **5. CETES directo**
 
 El gobierno mexicano emite documentos de deuda pública (como un pagaré), y ese dinero que le “prestas” te lo devuelve con un interés bajo (entre 5% y 6% anual, menos impuesto de 1.45%).
 
-Para poderlos adquirir y sin intermediarios, el gobierno creó Cetes Directo, que es una plataforma digital, operada por Nacional Financiera. Puedes hacerlo desde $100 pesos, designar el plazo al que quieres guardar tu dinero (un mes, tres, seis o hasta un año) y puedes programar ahorros automáticos desde una cuenta a tu nombre.
+Para poderlos adquirir y sin intermediarios, el gobierno creó [Cetes Directo](https://www.cetesdirecto.com/sites/portal/inicio), que es una plataforma digital, operada por Nacional Financiera. Puedes hacerlo desde $100 pesos, designar el plazo al que quieres guardar tu dinero (un mes, tres, seis o hasta un año) y puedes programar ahorros automáticos desde una cuenta a tu nombre.
 
 Es una buena opción para empezar a ahorrar. Pero no esperes grandes rendimientos.
 
@@ -103,7 +104,7 @@ De hecho, existe algo más o menos así que se llama **NAFTRAC** , que incluye l
 
 Los ETFs son comunes en México y una de las características que tienen es que sean de alta liquidez (que sea muy fácil transformarlos en efectivo, es decir venderlos o comprarlos rápidamente), algo muy apreciado para el pequeño inversionista.
 
-Además, se tiene la gran ventaja de tener el Sistema Internacional de Cotizaciones (SIC) que permite comprar una diversidad de ETF y acciones que cotizan en los mercados extranjeros desde las Bolsas Mexicanas. Esto abre de forma abismal la cantidad de opciones de inversión.
+Además se tiene la gran ventaja de tener el Sistema Internacional de Cotizaciones (SIC) que permite comprar una diversidad de ETF y acciones que cotizan en los mercados extranjeros desde las Bolsas Mexicanas. Esto abre de forma abismal la cantidad de opciones de inversión.
 
 ### **8. Préstamos persona a persona (o empresa).**
 
