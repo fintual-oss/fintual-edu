@@ -22,9 +22,7 @@ Pero, ¿qué son? ¿y por qué te convienen?
 
 Después de mucho trabajo, con mis socios creamos Fintual convencidos de entregar el mejor portafolio posible para alguien común y corriente, y de la forma más fácil posible.
 
-Para hacerlo teníamos que considerar **el costo total** del producto financiero (la suma de todas las comisiones y cobros finales), **la rentabilidad** del portafolio y cómo hacerlo **fácil y simple** para los usuarios.
-
-Según todas estas necesidades se hizo evidente que los _exchange-traded funds_ (o “fondos cotizados en bolsa”) iban a ser parte fundamental de los portafolios de Fintual.
+Para hacerlo teníamos que considerar **el costo total** del producto financiero (la suma de todas las comisiones y cobros finales), **la rentabilidad** del portafolio y cómo hacerlo **fácil y simple** para los usuarios. Según todas estas necesidades se hizo evidente que los **_exchange-traded funds_** (o “fondos cotizados en bolsa”) iban a ser parte fundamental de los portafolios de Fintual.
 
 La mayoría de los ETF son **fondos indexados**, es decir, son fondos que tratan de entregar la rentabilidad de un índice financiero, ya sea un índice de acciones, bonos o _commodities_, menos una comisión por hacer tal trabajo. Nada más, nada menos.
 
