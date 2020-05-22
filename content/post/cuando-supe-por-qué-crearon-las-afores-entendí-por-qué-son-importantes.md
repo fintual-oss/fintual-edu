@@ -55,7 +55,7 @@ Otro de los cambios es la forma en la que pagas ese servicio. Hoy se te cobra po
 Como puedes leer, este sistema de ahorro para el retiro ha evolucionado mucho desde que lo crearon y también enfrenta muchos retos que me gustaría discutir en próximos artículos.
 
 {{% prueba_fintual
-utmcontent_"lee_esto_antes"
+utmcontent="lee_esto_antes"
 card_title="Suscríbete"
 card_button="Aquí" %}}
 
