@@ -15,13 +15,13 @@ url = "/en-que-invertir-mi-dinero"
 
 _Menciono algunas instituciones financieras y empresas, pero aparte de Fintual no tengo ninguna relación ni intereses con ninguna._
 
-### **1. Depósitos a plazo**
+### 1. Depósitos a plazo
 
 Depósito a plazo es meter dinero en el banco por un retorno tan seguro como pequeño: un 2% anual aprox.
 
 Es una solución cómoda y simple cuando necesitas gastarte ese dinero en 30 días y hasta 6 meses, aunque es un error para inversiones de largo plazo: los intereses que se generan son tan bajos que no superan a la inflación la mayor parte de las veces.
 
-### **2. Acciones**
+### 2. Acciones
 
 Al buscar en qué invertir, esta es de las opciones en la que más puedes perder si no sabes cómo hacerlo. En palabras simples, la lógica de invertir en acciones consiste en comprar una pequeña parte de una empresa –o acción– y venderla cuando suba de precio.
 
@@ -38,11 +38,9 @@ Peeero:
 
   Para invertir en acciones y dormir tranquilo, la única estrategia que me atrevo a recomendar –y que históricamente ha dado resultado– es invertir de forma pasiva (siguiendo un índice o al promedio de un mercado).
 
-![](/uploads/captura-de-pantalla-2020-05-21-a-la-s-16-47-35.png)
-
 <div style="text-align:center"> <figure> <img src="/uploads/captura-de-pantalla-2020-05-21-a-la-s-16-47-35.png"> <figcaption><i>Imagen de Paul Colgan.</i></figcaption> </figure> </div>
 
-### **3. Fondos de Inversión**
+### 3. Fondos de Inversión
 
 Un fondo de inversión es dinero de mucha gente reunida (algo así como hacer una “vaquita”) para invertir en acciones e índices de forma diversificada. La operadora hace el trabajo “por mí y por todos mis compañeros” y arma un portafolio diversificado de acciones, ETF y acciones de otros fondos.
 
@@ -54,7 +52,7 @@ Eso pasa y mucho. **Especialmente porque la gran mayoría de la gente no tiene n
 
 Acá puedes saber [cuánto te cobra tu fondo mutuo](https://www.morningstar.com.mx/mx/screener/fund.aspx#?filtersSelectedValue=%7B%7D&page=1&sortField=legalName&sortOrder=asc).
 
-### **4. Ahorro voluntario en tu AFORE**
+### 4. Ahorro voluntario en tu AFORE
 
 Quienes han tenido un trabajo formal tienen AFORE, es decir, un plan de ahorro para el retiro.
 
@@ -68,7 +66,7 @@ Cuando te das de alta, tu AFORE lo administra a través de Sociedades de Inversi
 
 Como en realidad es muy poco (6.5% de tu salario bruto) puedes hacer aportaciones adicionales a través de la CONSAR: dinero del que puedes disponer cada 2 y 6 meses, y además es deducible.
 
-### **5. CETES directo**
+### 5. CETES directo
 
 El gobierno mexicano emite documentos de deuda pública (como un pagaré), y ese dinero que le “prestas” te lo devuelve con un interés bajo (entre 5% y 6% anual, menos impuesto de 1.45%).
 
@@ -76,7 +74,7 @@ Para poderlos adquirir y sin intermediarios, el gobierno creó [Cetes Directo](h
 
 Es una buena opción para empezar a ahorrar. Pero no esperes grandes rendimientos.
 
-### **6. Renta Inmobiliaria**
+### 6. Renta Inmobiliaria
 
 Es como tener un depto y ponerlo en renta, pero sin tenerlo realmente.
 
@@ -92,7 +90,7 @@ También hay emprendimientos en internet que permiten invertir desde $1,000, hac
 
 Si te decides por esta opción, fíjate en los dividendos que entrega: ¿son mensuales o trimestrales?
 
-### **7. ETFs**
+### 7. ETFs
 
 El ETF es una mezcla entre fondos y acciones, porque es un fondo barato diversificado que se puede comprar y vender como si fuera una acción.
 
@@ -106,10 +104,19 @@ Los ETFs son comunes en México y una de las características que tienen es que 
 
 Además se tiene la gran ventaja de tener el Sistema Internacional de Cotizaciones (SIC) que permite comprar una diversidad de ETF y acciones que cotizan en los mercados extranjeros desde las Bolsas Mexicanas. Esto abre de forma abismal la cantidad de opciones de inversión.
 
-### **8. Préstamos persona a persona (o empresa).**
+### 8. Préstamos persona a persona (o empresa).
 
 Los bancos usan tu dinero del depósito a plazo para prestársela a otras personas a una tasa más alta. Te pagan a ti un interés mínimo y se quedan con la diferencia.
 
 ¿Y si fuera uno el que directamente le prestara el dinero a esa persona? Podría ganar más de lo que gano actualmente y la otra persona pagar menos por el préstamo.
 
 Eso es lo que hacen en México algunas empresas como Cumplo, Kubo Financiero o Prestadero, cuyas plataformas online permiten que uno le preste dinero a otra persona o empresa.
+
+{{% prueba_fintual
+utmcontent="en_que_invertir"
+card_title="Fintual llega a México"
+card_button="Regístrame" %}}
+
+Únete a nuestra lista de espera y sé uno de los primeros usuarios
+
+{{% /prueba_fintual %}}
