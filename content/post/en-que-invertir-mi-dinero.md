@@ -33,10 +33,12 @@ Peeero:
   Todos los economistas y analistas dicen lo que creen, o incluso lo que les conviene decir, pero se equivocan muy seguido. Y cuando se equivoquen, aparecerán al día siguiente explicando porqué pasó lo contrario. _“China salió a comprar divisas inesperadamente”_ o cualquier otra explicación enredada que en retrospectiva se puede entender: después de la guerra somos todos generales.
 
   **Lo único que es 100% seguro son las comisiones que te van a cobrar.** En el largo plazo, en promedio, las acciones suben. En el corto plazo, nadie (o por lo menos tú, no, probablemente) tiene idea de lo que va a pasar.
+
+
 * **¿Qué acciones comprar?** Ni idea. Para no poner todos los huevos en la misma canasta siempre se recomienda armar un portafolio de varias acciones, pero el mercado mexicano es muy pequeño y probablemente no estés en los círculos de información privilegiada (algunos peleados con la ley), por lo que las recomendaciones que te lleguen serán de amigos que entiendan del tema o de ejecutivos que tienen metas de ventas.  
   **Los ejecutivos te venderán lo que les conviene a ellos, incluso por sobre tus intereses**. La ley no lo permite, la CNBV dicta lo contrario en sus normativas, pero esto sigue siendo así y no creemos que vaya a cambiar. Si quieres hacerlo por tu cuenta, tienes que dedicar tu tiempo a leer seguido noticias financieras (y probablemente vas a llegar tarde igual).
 
-  Para invertir en acciones y dormir tranquilo, la única estrategia que me atrevo a recomendar –y que históricamente ha dado resultado– es invertir de forma pasiva (siguiendo un índice o al promedio de un mercado).
+Para invertir en acciones y dormir tranquilo, la única estrategia que me atrevo a recomendar –y que históricamente ha dado resultado– es invertir de forma pasiva (siguiendo un índice o al promedio de un mercado).
 
 <div style="text-align:center"> <figure> <img src="/uploads/captura-de-pantalla-2020-05-21-a-la-s-16-47-35.png"> <figcaption><i>Imagen de Paul Colgan.</i></figcaption> </figure> </div>
 
