@@ -5,7 +5,7 @@ categories = ["educación financiera"]
 date = 2020-01-22T13:17:00Z
 description = "Qué significan las inversiones verdes, cuáles son sus criterios y el mito del impacto negativo en la rentabilidad"
 hide = false
-image = "/uploads/fintual-verde.png"
+image = "/uploads/fintual-verde-paula-g.png"
 title = "Fintual, verde"
 url = "/inversiones-verdes-en-fintual"
 
