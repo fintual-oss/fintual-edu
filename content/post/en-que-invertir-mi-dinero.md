@@ -4,7 +4,6 @@ author = "Pedro Pineda"
 categories = ["educación financiera"]
 date = 2020-05-21T19:14:26Z
 description = "Nuestro CEO enlista y explica en qué consisten las opciones en México para invertir tu dinero."
-draft = true
 hide = false
 image = "/uploads/en-que-invertir.jpg"
 title = "En qué invertir mi dinero"
