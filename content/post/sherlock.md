@@ -32,7 +32,7 @@ Para poder comparar tienes que ir a la sección [**Otras platas**](https://fintu
 </figure>
 </div>
 
-Es importante que sepas los datos de tu fondo mutuo. Puedes revisarlo en tu cartola.
+Es importante que sepas los datos de tu fondo mutuo. Puedes revisarlos en tu cartola.
 
 <div style="text-align:center">
 <figure>
