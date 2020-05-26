@@ -13,7 +13,12 @@ aliases: []
 hide: false
 
 ---
-<div style="text-align:center"> <figure> <img src="/uploads/sherlock2.jpg"> <figcaption><i>Analizando tus fondos mutuos (pero sin corbata)</i></figcaption> </figure> </div>
+<div style="text-align:center">
+<figure>
+<img src="/uploads/sherlock2.jpg">
+<figcaption style="display:block;text-align:center;font-size:.8rem"><i>Analizando tus fondos mutuos (pero sin corbata)</i></figcaption>
+</figure>
+</div>
 
 #### 1. Los fondos mutuos no son gratis.
 
