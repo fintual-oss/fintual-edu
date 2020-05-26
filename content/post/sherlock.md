@@ -28,7 +28,7 @@ Para poder comparar tienes que ir a la sección [**Otras platas**](https://fintu
 <div style="text-align:center">
 <figure>
 <img src="/uploads/otrasplatas.png">
-<figcaption style="display:block;text-align:center;font-size:.8rem"><i>Búscalo al final de tu cuenta</i></figcaption>
+<figcaption style="display:block;text-align:center;font-size:.8rem"></figcaption>
 </figure>
 </div>
 
@@ -37,7 +37,7 @@ Es importante que sepas los datos de tu fondo mutuo. Puedes revisarlos en tu car
 <div style="text-align:center">
 <figure>
 <img src="/uploads/eligeadministradora.png">
-<figcaption style="display:block;text-align:center;font-size:.8rem"><i>Busca tu (ex) administradora</i></figcaption>
+<figcaption style="display:block;text-align:center;font-size:.8rem"></figcaption>
 </figure>
 </div>
 
@@ -51,7 +51,7 @@ Si decides mover tus fondos mutuos a Fintual lo puedes hacer con un click:
 <div style="text-align:center">
 <figure>
 <img src="/uploads/cambiateafintual.png">
-<figcaption style="display:block;text-align:center;font-size:.8rem"><i>Paso final</i></figcaption>
+<figcaption style="display:block;text-align:center;font-size:.8rem"></figcaption>
 </figure>
 </div>
 
