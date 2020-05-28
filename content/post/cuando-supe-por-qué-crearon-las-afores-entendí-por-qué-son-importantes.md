@@ -40,7 +40,7 @@ Pero si haces retiros de tu ahorro en tu AFORE y no tienes alguna otra inversió
 
 Para cada una de las AFORES se crearon distintos “vehículos colectivos de inversión” llamados SIEFORES. (Como si fueran camiones a los que te subes).
 
-En un inicio te irías cambiando de camión conforme envejecieras. Con el fin de que tu dinero estuviera avanzando a cierta velocidad ( y riesgo) de acuerdo a tu perfil = mezcla de activos de inversión.
+En un inicio te irías cambiando de camión conforme envejecieras. Con el fin de que tu dinero estuviera avanzando a cierta velocidad (y riesgo) de acuerdo a tu perfil = mezcla de activos de inversión.
 
 Pero desde el año pasado, las SIEFORES pasaron de ser 5 (dependiendo tu rango de edad) a 10, dependiendo el año en el que naciste.
 
