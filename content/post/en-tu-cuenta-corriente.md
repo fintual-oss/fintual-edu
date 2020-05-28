@@ -2,15 +2,15 @@
 aliases = []
 author = "Valentin Jadot"
 categories = ["educación financiera"]
-date = 2020-02-05T19:24:43Z
+date = 2020-05-28T20:24:43Z
 description = "El dinero pierde valor por la inflación con el tiempo. Mejor inviértela en Fintual 😉"
 hide = false
-image = "/uploads/tacataca.jpeg"
+image = "/uploads/en-tu-cuenta-corriente-sergio-edwards.png"
 title = "¿En tu cuenta corriente?"
 url = "/en-mi-cuenta-corriente"
 
 +++
-Tener tu plata en la cuenta del banco es como dejar a Gary Medel en la banca. No tiene mucho sentido.
+Tener tu plata en la cuenta del banco es como dejar a Gary Medel en la banca.
 
 <div style="text-align:center">  
 <figure>  
@@ -18,6 +18,17 @@ Tener tu plata en la cuenta del banco es como dejar a Gary Medel en la banca. No
 <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Créditos: YouTube</i></figcaption>
 </figure>  
 </div>
+
+O como dejar a la Mona Lisa en el backstage. 
+
+<div style="text-align:center">
+<figure>
+<img src="/uploads/en-tu-cuenta-corriente-sergio-edwards.png">
+<figcaption style="display:block;text-align:center;font-size:.8rem"><i>Ilustración de <a target="_blank" href="https://www.behance.net/sergioedwards">Sergio Edwards</a></i></figcaption>
+</figure>
+</div>
+
+No tiene mucho sentido.
 
 ### **¿Por qué?**
 
@@ -40,12 +51,6 @@ Esto significa que si tenías $1.000.000 en tu cuenta corriente al 1 de enero de
 **$850.000!**
 
 O sea, tienes una **rentabilidad de** -**15%** 😩
-
-<div style="text-align:center">  
-<figure>  
-<img src="/uploads/confused.webp">  
-</figure>  
-</div>
 
 Horror.
 
