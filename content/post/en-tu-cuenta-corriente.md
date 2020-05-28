@@ -2,7 +2,7 @@
 aliases = []
 author = "Valentin Jadot"
 categories = ["educación financiera"]
-date = 2020-05-28T20:24:43Z
+date = 2020-05-27T20:24:43Z
 description = "El dinero pierde valor por la inflación con el tiempo. Mejor inviértela en Fintual 😉"
 hide = false
 image = "/uploads/en-tu-cuenta-corriente-sergio-edwards.png"
