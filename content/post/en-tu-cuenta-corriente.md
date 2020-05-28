@@ -19,7 +19,7 @@ Tener tu plata en la cuenta del banco es como dejar a Gary Medel en la banca.
 </figure>  
 </div>
 
-O como dejar a la Mona Lisa en el backstage. 
+O como dejar a la Mona Lisa en el backstage.
 
 <div style="text-align:center">
 <figure>
