@@ -27,7 +27,7 @@ Alguien te recomendó invertir, pero ¿en dónde? Saber más cómo funcionan las
 </figure>  
 </div>
 
-Por todo ello, existe [Fintual](https://fintual.mx/?utm_source=edu&utm_medium=edu&utm_campaign=waiting_list_mx&utm_content=-341). Desarrollamos una solución a través de cual puedes invertir ese ahorro, de poco en poco, sin tener que preocuparte cuáles empresas o fondos elegir, tampoco en montos mínimos o depósitos forzosos.
+Por todo ello, existe [Fintual](https://fintual.mx/?utm_source=edu&utm_medium=edu&utm_campaign=waiting_list_mx&utm_content=-341). Desarrollamos una solución a través de la cual puedes invertir ese ahorro, de poco en poco, sin tener que preocuparte cuáles empresas o fondos elegir, tampoco en montos mínimos o depósitos forzosos.
 
 #### ¿Cómo lo hacemos?
 
