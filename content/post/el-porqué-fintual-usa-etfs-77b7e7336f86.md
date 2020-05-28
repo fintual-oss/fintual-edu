@@ -2,8 +2,8 @@
 author: Omar Larré
 author_thumbnail: "/uploads/omar_larre.jpeg"
 title: "¿Qué es un ETF?"
-date: 2020-05-21T01:00:00+00:00
-image: "/uploads/pascale.jpg"
+date: 2020-05-21T01:00:00.000+00:00
+image: "/uploads/que-es-un-etf-pascale.png"
 categories:
 - educación financiera
 url: "/el-porqué-fintual-usa-etfs-77b7e7336f86/"
@@ -15,7 +15,7 @@ Pero, ¿qué son? ¿y por qué te convienen?
 
 <div style="text-align:center">
 <figure>
-<img src="/uploads/pascale.jpg">
+<img src="/uploads/que-es-un-etf-pascale.png">
 <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Ilustración de <a target="_blank" href="https://www.instagram.com/pascalasca/">Pascale</a></i></figcaption>
 </figure>
 </div>
