@@ -35,7 +35,7 @@ Operamos como una distribuidora de fondos de inversión, regulados por la Comisi
 
 #### ¿Cuál es nuestra historia?
 
-Estamos constituidos en Estados Unidos, e iniciamos operaciones en Chile. Gestionamos el ahorro de más de 9 mil personas, y estamos regulados por el equivalente de la CNBV en Chile.
+Estamos constituidos en Estados Unidos, e iniciamos operaciones en Chile. Gestionamos el ahorro de más de 10 mil personas, y estamos regulados por el equivalente de la CNBV en Chile.
 
 Somos reconocidos como una de las startups más prometedoras de América Latina y fuimos parte de una de las aceleradoras más importantes: [Y Combinator](https://www.ycombinator.com/), en la que también estuvieron grandes empresas tecnológicas como Dropbox y Airbnb cuando eran como nosotros.
 
