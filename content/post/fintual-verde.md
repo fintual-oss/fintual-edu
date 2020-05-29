@@ -5,7 +5,7 @@ categories = ["educación financiera"]
 date = 2020-05-22T14:17:00Z
 description = "Qué significan las inversiones verdes, cuáles son sus criterios y el mito del impacto negativo en la rentabilidad"
 hide = false
-image = "/uploads/fintual-verde-paula-g.png"
+image = "/uploads/fintual-verde-paula-g-min.png"
 title = "Fintual, verde"
 url = "/inversiones-verdes-en-fintual"
 
@@ -18,7 +18,8 @@ Y es que es fácil olvidarlo, pero el poder del dinero —o más bien, del flujo
 
 Entonces, la idea es simple: _invirtamos en empresas verdes._ Pero, ¿qué significan exactamente estas “inversiones o empresas verdes”? ¿Van a ser menos rentables? ¿Es necesario hacer un “fondo verde” nuevo o usar los mismos fondos actuales? Aparecieron muchas preguntas y tratamos de resolverlas en un recorrido de más de 2 años que ya está tomando forma.
 
-<div style="text-align:center"> <figure> <img src="/uploads/fintual-verde.png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Ilustración de <a target="_blank" href="https://www.instagram.com/paubraw.arts/">Paula Guajardo</a></i></figcaption> </figure> </div>
+<div style="text-align:center"> <figure> <img src="/uploads/fintual-verde-paula-g-min.png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Ilustración de <a target="_blank" href="https://www.instagram.com/paubraw.arts/">Paula Guajardo</a></i></figcaption> </figure> </div>
+
 
 #### Definiendo _inversiones verdes_
 
