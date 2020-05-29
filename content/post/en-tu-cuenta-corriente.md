@@ -5,7 +5,7 @@ categories = ["educación financiera"]
 date = 2020-05-27T20:24:43Z
 description = "El dinero pierde valor por la inflación con el tiempo. Mejor inviértela en Fintual 😉"
 hide = false
-image = "/uploads/cuentacorrienteedwards.png"
+image = "/uploads/en-tu-cuenta-corriente-sergio-edwards-min.png"
 title = "¿En tu cuenta corriente?"
 url = "/en-mi-cuenta-corriente"
 
@@ -23,10 +23,11 @@ O como dejar a la Mona Lisa en el backstage.
 
 <div style="text-align:center">
 <figure>
-<img src="/uploads/cuentacorrienteedwards.png">
+<img src="/uploads/en-tu-cuenta-corriente-sergio-edwards-min.png">
 <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Ilustración de <a target="_blank" href="https://www.behance.net/sergioedwards">Sergio Edwards</a></i></figcaption>
 </figure>
 </div>
+
 
 No tiene mucho sentido.
 
