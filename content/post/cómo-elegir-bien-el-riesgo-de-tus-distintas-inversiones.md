@@ -5,7 +5,7 @@ categories = ["educación financiera"]
 date = 2019-09-24T20:29:04Z
 description = "Creamos una (mini) guía sobre cómo elegir bien el riesgo de tus diferentes inversiones."
 hide = false
-image = "/uploads/Diseño sin título (1).png"
+image = "/uploads/riesgo-juan-de-dios-u-min.png"
 title = "Cómo elegir bien el riesgo de tus distintas inversiones"
 url = "/como-elegir-riesgo-inversion"
 
@@ -32,7 +32,8 @@ Divide tu plata en partes y pregúntate ¿Qué parte de esta plata voy a necesit
 
 <div style="text-align:center">
 <figure>
-<img src="/uploads/photo-1432888498266-38ffec3eaf0a.png">
+<img src="/uploads/riesgo-juan-de-dios-u-min.png">
+<figcaption style="display:block;text-align:center;font-size:.8rem"><i>Ilustración de <a target="_blank" href="https://www.behance.net/JuandeDiosUrrutia">Juan de Dios Urrutia</a></i></figcaption>
 </figure>
 </div>
 
