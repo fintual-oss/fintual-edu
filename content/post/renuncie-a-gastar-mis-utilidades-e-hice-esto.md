@@ -3,10 +3,10 @@ aliases = []
 author = "Montserrat Bonilla"
 categories = ["educación financiera"]
 date = 2020-06-01T18:07:46Z
-description = "Te contamos sobre dos opciones para ahorrar tus utilidades este año."
+description = "Te contamos dos opciones para ahorrar tus utilidades este año."
 draft = true
 hide = false
-image = ""
+image = "/uploads/untitled-design.png"
 title = "Renuncié a gastar mis utilidades, e hice esto"
 url = "/invertir-tus-utilidades"
 
@@ -23,9 +23,8 @@ El mensaje y el ingreso extra me tomaron por sorpresa.
 
 ¡Venga ese Pinterest! Por fin tenía el dinero para pintar y remodelar la cocina y hasta la sala.
 
-<div style="text-align:center"> <figure> <img src="/uploads/captura-de-pantalla-2020-05-27-a-la-s-11-58-38.png"> </figure> </div>
 
-<div style="text-align:center"> <figure> <img src="/uploads/captura-de-pantalla-2020-05-27-a-la-s-11-58-38.png"> <figcaption><i>_Armé un tablero de Pinterest con ideas_.</i></figcaption> </figure> </div>
+<div style="text-align:center"> <figure> <img src="/uploads/captura-de-pantalla-2020-05-27-a-la-s-11-58-38.png"> <figcaption><i>Armé un tablero de Pinterest con ideas.</i></figcaption> </figure> </div>
 
 Hice un tablero Pinterest muy bonito y mientras lo hacía comencé a tener cierto pesar. Me acordé de mensajes de amigos contándome de bajas de sueldo, despidos, licencias sin goce de sueldo.
 
@@ -58,7 +57,7 @@ Muchos bancos tienen esta opción de ahorro que funciona como una especie de fon
 
 Normalmente no cobran alguna comisión directa porque ya la pagas con otros servicios (saldo o transacciones mínimas de tu cuenta original, por ejemplo) y también puede que tengas un límite de fondos u otras restricciones.
 
-<div style="text-align:center"> <figure> <img src="/uploads/captura-de-pantalla-2020-06-01-a-la-s-12-12-45.png"> <figcaption><i>_Estas son algunas de las condiciones de una cuenta de este tipo_.</i></figcaption> </figure> </div>
+<div style="text-align:center"> <figure> <img src="/uploads/captura-de-pantalla-2020-06-01-a-la-s-12-12-45.png"> <figcaption><i>Estas son algunas de las condiciones de una cuenta de este tipo.</i></figcaption> </figure> </div>
 
 Las principales desventajas es que ofrecen un rendimiento muy bajo (en mi caso 0.68% anual) y al estar tan accesible y fácil transferir entre tus cuentas, podrías “tomar prestado” ese dinero y no reponerlo.
 
