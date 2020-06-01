@@ -25,7 +25,7 @@ El mensaje y el ingreso extra me tomaron por sorpresa.
 
 <div style="text-align:center"> <figure> <img src="/uploads/captura-de-pantalla-2020-05-27-a-la-s-11-58-38.png"> </figure> </div>
 
-Hice un tablero Pinterest muy bonito y mientras lo hacía comencé a tener cierto pesar. Me acordé de mensajes de amigos contándome de bajas de sueldo, despidos, licencias sin goce de sueldo. 
+Hice un tablero Pinterest muy bonito y mientras lo hacía comencé a tener cierto pesar. Me acordé de mensajes de amigos contándome de bajas de sueldo, despidos, licencias sin goce de sueldo.
 
 ¡Qué carajos estoy haciendo arreglando la sala!
 
@@ -37,9 +37,9 @@ También pensé en qué haría si mis padres o hermanos se enferman al cambiar d
 
 <div style="text-align:center"> <figure> <img src="//uploads/giphy-6-3.gif"> </figure> </div>
 
-¡Necesito un fondo de emergencia!
+##### ¡Necesito un fondo de emergencia!
 
-Un ahorro de por lo menos tres meses de mis gastos fijos que me dé un poco de tranquilidad, y que debería cumplir con solo dos condiciones:
+Un ahorro de por lo menos tres meses de mis gastos fijos que me dé un poco de tranquilidad, y que cumpla con solo dos condiciones:
 
 * Invertido, no debajo del colchón, ni en mi cuenta donde pierde valor día con día con la inflación.
 * Sea fácil de disponer para cualquier emergencia.
@@ -52,13 +52,11 @@ Investigué las opciones que tenía a la mano y encontré dos servicios que tamb
 
 #### Cuenta de inversión disponible
 
-Muchos bancos tienen esta opción de ahorro que funciona como una especie de fondo “oculto” de tu cuenta de nómina o débito. Tu dinero siempre está disponible y puedes programar transferencias recurrentes.
+Muchos bancos tienen esta opción de ahorro que funciona como una especie de fondo “oculto” de tu cuenta de nómina o débito. Tu dinero siempre está disponible, además de que puedes programar transferencias quincenales o mensuales.
 
 Normalmente no cobran alguna comisión directa porque ya la pagas con otros servicios (saldo o transacciones mínimas de tu cuenta original, por ejemplo) y también puede que tengas un límite de fondos u otras restricciones.
 
-(IMAGEN)
-
-![](/uploads/captura-de-pantalla-2020-06-01-a-la-s-12-12-45.png)
+<div style="text-align:center"> <figure> <img src="/uploads/captura-de-pantalla-2020-06-01-a-la-s-12-12-45.png"> <figcaption><i>Estas son algunas de las condiciones de una cuenta de este tipo.</i></figcaption> </figure> </div>
 
 Las principales desventajas es que ofrecen un rendimiento muy bajo (en mi caso 0.68% anual) y al estar tan accesible y fácil transferir entre tus cuentas, podrías “tomar prestado” ese dinero y no reponerlo.
 
@@ -72,18 +70,14 @@ El rendimiento o interés que obtienes depende del tiempo en el que lo tienes in
 
 Los rendimientos de CETES se ven más o menos así:
 
-(IMAGEN)
-
-![](/uploads/captura-de-pantalla-2020-05-27-a-la-s-15-23-48.png)
+<div style="text-align:center"> <figure> <img src="/uploads/captura-de-pantalla-2020-05-27-a-la-s-15-23-48.png"> </figure> </div>
 
 Otra cosa es que la disponibilidad de tu dinero no es tan flexible. Cuando automatizas la reinversión de tus fondos (que es lo más cómodo) solo una proporción de tus rendimientos es el saldo disponible.
 
 Si tuvieras una emergencia y necesitaras todo tu dinero quizá tendrías que esperar unas semanas.
 
-(IMAGEN)
-
-![](/uploads/untitled-design-4.png)
+<div style="text-align:center"> <figure> <img src="/uploads/untitled-design-4.png"> <figcaption><i>Si quisiera sacar todo mi dinero hoy, sólo podría disponer $97.25 pesos.</i></figcaption> </figure> </div>
 
 Cetes Directo es una solución fácil de usar porque es en línea, es segura, pero limitada en sus rendimientos y disposición.
 
-En Fintual buscamos ser otra opción con mejores rendimientos. Te registras en línea, puedes ver y entender cómo va tu inversión, disponer de tu dinero si lo necesitas, y tener varios objetivos de ahorro al mismo tiempo. Nuestra lista de espera para México está disponible [aquí.](http://www.fintual.mx)
+En Fintual buscamos ser otra opción con mejores rendimientos. Te registras en línea, puedes ver y entender cómo va tu inversión, disponer de tu dinero si lo necesitas, y tener varios objetivos de ahorro al mismo tiempo. Nuestra lista de espera para México está disponible [aquí.](	https://fintu.al/p8Z2)
