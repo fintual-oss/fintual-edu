@@ -2,7 +2,7 @@
 aliases = []
 author = "Agustín Feuerhake"
 categories = ["educación financiera"]
-date = 2019-09-24T20:29:04Z
+date = 2020-05-31T21:29:04Z
 description = "Creamos una (mini) guía sobre cómo elegir bien el riesgo de tus diferentes inversiones."
 hide = false
 image = "/uploads/riesgo-juan-de-dios-u-min.png"
