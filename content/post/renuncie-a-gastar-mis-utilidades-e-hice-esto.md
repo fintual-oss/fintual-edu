@@ -77,7 +77,7 @@ Otra cosa es que la disponibilidad de tu dinero no es tan flexible. Cuando autom
 
 Si tuvieras una emergencia y necesitaras todo tu dinero quizá tendrías que esperar unas semanas.
 
-<div style="text-align:center"> <figure> <img src="/uploads/untitled-design-4.png"> <figcaption><i>_Si quisiera sacar todo mi dinero hoy, sólo podría disponer $97.25 pesos_.</i></figcaption> </figure> </div>
+<div style="text-align:center"> <figure> <img src="/uploads/untitled-design-4.png"> <figcaption><i>Si quisiera sacar todo mi dinero hoy, sólo podría disponer $97.25 pesos.</i></figcaption> </figure> </div>
 
 Cetes Directo es una solución fácil de usar porque es en línea, es segura, pero limitada en sus rendimientos y disposición.
 
