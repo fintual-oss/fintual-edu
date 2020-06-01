@@ -12,9 +12,9 @@ url = "/invertir-tus-utilidades"
 
 +++
 Hace unos días la gerente de administración de mi antiguo trabajo me escribió lo siguiente:
-
-(IMAGEN)
-
+  
+<div style="text-align:center"> <figure> <img src="/uploads/captura-de-pantalla-2020-05-27-a-la-s-11-22-31.png"></figure> </div>
+  
 Sí, PTU: Participación de los Trabajadores en las Utilidades.
 
 O lo que conocemos como “reparto de utilidades”: una prestación por ley que obliga año con año a todas las empresas en México a repartir un porcentaje de sus ganancias con quienes colaboraron en su equipo por lo menos sesenta días.
@@ -23,7 +23,9 @@ El mensaje y el ingreso extra me tomaron por sorpresa.
 
 ¡Venga ese Pinterest! Por fin tenía el dinero para pintar y remodelar la cocina y hasta la sala.
 
-(IMAGEN)
+<div style="text-align:center"> <figure> <img src="/uploads/captura-de-pantalla-2020-05-27-a-la-s-11-58-38.png"> </figure> </div>
+
+<div style="text-align:center"> <figure> <img src="//uploads/giphy-6-3.gif"> <figcaption><i>Homo ergaster cazando en la sabana africana hace unos 1.7 millones de años atrás. Impresión artística de Mauricio Anton.</i></figcaption> </figure> </div>
 
 Hice un tablero Pinterest muy bonito y mientras lo hacía comencé a tener cierto pesar. Me acordé de mensajes de amigos contándome de bajas de sueldo, despidos, licencias sin goce de sueldo. ¡Qué carajos estoy haciendo arreglando la sala!
 
@@ -35,6 +37,8 @@ También pensé en qué haría si mis padres o hermanos se enferman al cambiar d
 
 (GIF)
 
+<div style="text-align:center"> <figure> <img src="//uploads/giphy-6-3.gif"> <figcaption><i>Homo ergaster cazando en la sabana africana hace unos 1.7 millones de años atrás. Impresión artística de Mauricio Anton.</i></figcaption> </figure> </div>
+
 ¡Necesito un fondo de emergencia!
 
 Un ahorro de por lo menos tres meses de mis gastos fijos que me dé un poco de tranquilidad, y que debería cumplir con solo dos condiciones:
@@ -44,11 +48,11 @@ Un ahorro de por lo menos tres meses de mis gastos fijos que me dé un poco de t
 
 Así que pensé que esos cambios podrían esperar un par de meses, y esas utilidades convertirlas en el primer abono de un fondo de emergencia.
 
-**Pimp my _utilidades_**
+### **Pimp my _utilidades_**
 
 Investigué las opciones que tenía a la mano y encontré dos servicios que también podrían funcionarte para empezar a ahorrar en un fondo de emergencia.
 
-* Cuenta de inversión disponible
+#### Cuenta de inversión disponible
 
 Muchos bancos tienen esta opción de ahorro que funciona como una especie de fondo “oculto” de tu cuenta de nómina o débito. Tu dinero siempre está disponible y puedes programar transferencias recurrentes.
 
@@ -56,9 +60,11 @@ Normalmente no cobran alguna comisión directa porque ya la pagas con otros serv
 
 (IMAGEN)
 
+![](/uploads/captura-de-pantalla-2020-06-01-a-la-s-12-12-45.png)
+
 Las principales desventajas es que ofrecen un rendimiento muy bajo (en mi caso 0.68% anual) y al estar tan accesible y fácil transferir entre tus cuentas, podrías “tomar prestado” ese dinero y no reponerlo.
 
-* Cetes Directo
+#### Cetes Directo
 
 Si eres mayor de edad, residente en México y tienes una cuenta bancaria a tu nombre puedes adquirir documentos de deuda pública a través de [Cetes Directo](http://cetesdirecto.com).
 
@@ -70,11 +76,15 @@ Los rendimientos de CETES se ven más o menos así:
 
 (IMAGEN)
 
+![](/uploads/captura-de-pantalla-2020-05-27-a-la-s-15-23-48.png)
+
 Otra cosa es que la disponibilidad de tu dinero no es tan flexible. Cuando automatizas la reinversión de tus fondos (que es lo más cómodo) solo una proporción de tus rendimientos es el saldo disponible.
 
 Si tuvieras una emergencia y necesitaras todo tu dinero quizá tendrías que esperar unas semanas.
 
 (IMAGEN)
+
+![](/uploads/untitled-design-4.png)
 
 Cetes Directo es una solución fácil de usar porque es en línea, es segura, pero limitada en sus rendimientos y disposición.
 
