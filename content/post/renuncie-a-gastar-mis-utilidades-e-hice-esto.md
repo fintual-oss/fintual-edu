@@ -3,7 +3,7 @@ aliases = []
 author = "Montserrat Bonilla"
 categories = ["educación financiera"]
 date = 2020-06-01T18:07:46Z
-description = ""
+description = "Te contamos sobre dos opciones para ahorrar tus utilidades este año."
 draft = true
 hide = false
 image = ""
@@ -89,6 +89,6 @@ utmcontent="invertir-tus-utilidades"
 card_title="Únete a Fintual"
 card_button="Aquí!" %}}
 
-Registra a la lista de espera para México con solo un correo.
+Regístratre a la lista de espera en México con solo un correo.
 
 {{% /prueba_fintual %}}
