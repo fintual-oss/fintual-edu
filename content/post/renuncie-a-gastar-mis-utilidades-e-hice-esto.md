@@ -25,6 +25,8 @@ El mensaje y el ingreso extra me tomaron por sorpresa.
 
 <div style="text-align:center"> <figure> <img src="/uploads/captura-de-pantalla-2020-05-27-a-la-s-11-58-38.png"> </figure> </div>
 
+<div style="text-align:center"> <figure> <img src="/uploads/captura-de-pantalla-2020-05-27-a-la-s-11-58-38.png"> <figcaption><i>_Armé un tablero de Pinterest con ideas_.</i></figcaption> </figure> </div>
+
 Hice un tablero Pinterest muy bonito y mientras lo hacía comencé a tener cierto pesar. Me acordé de mensajes de amigos contándome de bajas de sueldo, despidos, licencias sin goce de sueldo.
 
 ¡Qué carajos estoy haciendo arreglando la sala!
@@ -56,7 +58,7 @@ Muchos bancos tienen esta opción de ahorro que funciona como una especie de fon
 
 Normalmente no cobran alguna comisión directa porque ya la pagas con otros servicios (saldo o transacciones mínimas de tu cuenta original, por ejemplo) y también puede que tengas un límite de fondos u otras restricciones.
 
-<div style="text-align:center"> <figure> <img src="/uploads/captura-de-pantalla-2020-06-01-a-la-s-12-12-45.png"> <figcaption><i>Estas son algunas de las condiciones de una cuenta de este tipo.</i></figcaption> </figure> </div>
+<div style="text-align:center"> <figure> <img src="/uploads/captura-de-pantalla-2020-06-01-a-la-s-12-12-45.png"> <figcaption><i>_Estas son algunas de las condiciones de una cuenta de este tipo_.</i></figcaption> </figure> </div>
 
 Las principales desventajas es que ofrecen un rendimiento muy bajo (en mi caso 0.68% anual) y al estar tan accesible y fácil transferir entre tus cuentas, podrías “tomar prestado” ese dinero y no reponerlo.
 
@@ -76,7 +78,7 @@ Otra cosa es que la disponibilidad de tu dinero no es tan flexible. Cuando autom
 
 Si tuvieras una emergencia y necesitaras todo tu dinero quizá tendrías que esperar unas semanas.
 
-<div style="text-align:center"> <figure> <img src="/uploads/untitled-design-4.png"> <figcaption><i>Si quisiera sacar todo mi dinero hoy, sólo podría disponer $97.25 pesos.</i></figcaption> </figure> </div>
+<div style="text-align:center"> <figure> <img src="/uploads/untitled-design-4.png"> <figcaption><i>_Si quisiera sacar todo mi dinero hoy, sólo podría disponer $97.25 pesos_.</i></figcaption> </figure> </div>
 
 Cetes Directo es una solución fácil de usar porque es en línea, es segura, pero limitada en sus rendimientos y disposición.
 
