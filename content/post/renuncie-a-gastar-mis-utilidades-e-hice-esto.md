@@ -12,12 +12,12 @@ url = "/invertir-tus-utilidades"
 
 +++
 Hace unos días la gerente de administración de mi antiguo trabajo me escribió lo siguiente:
-  
-<div style="text-align:center"> <figure> <img src="/uploads/captura-de-pantalla-2020-05-27-a-la-s-11-22-31.png"></figure> </div>
-  
-Sí, PTU: Participación de los Trabajadores en las Utilidades.
 
-O lo que conocemos como “reparto de utilidades”: una prestación por ley que obliga año con año a todas las empresas en México a repartir un porcentaje de sus ganancias con quienes colaboraron en su equipo por lo menos sesenta días.
+<div style="text-align:center"> <figure> <img src="/uploads/captura-de-pantalla-2020-05-27-a-la-s-11-22-31.png"></figure> </div>
+
+Sí, **PTU: Participación de los Trabajadores en las Utilidades**.
+
+O lo que conocemos como “reparto de utilidades”: una prestación por ley que obliga a todas las empresas en México a repartir un porcentaje de sus ganancias con quienes colaboraron en su equipo por lo menos sesenta días durante el año fiscal anterior.
 
 El mensaje y el ingreso extra me tomaron por sorpresa.
 
@@ -25,9 +25,9 @@ El mensaje y el ingreso extra me tomaron por sorpresa.
 
 <div style="text-align:center"> <figure> <img src="/uploads/captura-de-pantalla-2020-05-27-a-la-s-11-58-38.png"> </figure> </div>
 
-<div style="text-align:center"> <figure> <img src="//uploads/giphy-6-3.gif"> <figcaption><i>Homo ergaster cazando en la sabana africana hace unos 1.7 millones de años atrás. Impresión artística de Mauricio Anton.</i></figcaption> </figure> </div>
+Hice un tablero Pinterest muy bonito y mientras lo hacía comencé a tener cierto pesar. Me acordé de mensajes de amigos contándome de bajas de sueldo, despidos, licencias sin goce de sueldo. 
 
-Hice un tablero Pinterest muy bonito y mientras lo hacía comencé a tener cierto pesar. Me acordé de mensajes de amigos contándome de bajas de sueldo, despidos, licencias sin goce de sueldo. ¡Qué carajos estoy haciendo arreglando la sala!
+¡Qué carajos estoy haciendo arreglando la sala!
 
 Todos esos recuerdos conectaron con la cruda realidad de que si algo así (o peor) me pasara, yo no tendría dinero para enfrentarlo.
 
@@ -35,9 +35,7 @@ Incluso podría tener que enfrentar más gastos en el depa que comparto con dos 
 
 También pensé en qué haría si mis padres o hermanos se enferman al cambiar de hábitos en esta cuarentena.
 
-(GIF)
-
-<div style="text-align:center"> <figure> <img src="//uploads/giphy-6-3.gif"> <figcaption><i>Homo ergaster cazando en la sabana africana hace unos 1.7 millones de años atrás. Impresión artística de Mauricio Anton.</i></figcaption> </figure> </div>
+<div style="text-align:center"> <figure> <img src="//uploads/giphy-6-3.gif"> </figure> </div>
 
 ¡Necesito un fondo de emergencia!
 
