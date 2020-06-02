@@ -28,7 +28,6 @@ O como dejar a la Mona Lisa en el backstage.
 </figure>
 </div>
 
-
 No tiene mucho sentido.
 
 ### **¿Por qué?**
@@ -73,7 +72,7 @@ Y como no es lo mismo ahorrar para tu jubilación que para una casa nueva, te ar
 </figure>  
 </div>
 
-Estamos regulados por la Comisión para el Mercado Financiero y ya administramos más de **US$55 millones de 8.800 clientes.**
+Estamos regulados por la Comisión para el Mercado Financiero y ya administramos más de **US $80 millones de 12.000 clientes** (al 31/05/2020).
 
 <p align="center"> <img src="/uploads/cmf.png"> </p>
 
