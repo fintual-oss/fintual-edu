@@ -113,7 +113,7 @@ Las inversiones son como un buen asado: _no hay que andar moviendo la carne cada
 
 Si definiste bien cuándo vas a necesitar tu plata y -de acuerdo a eso- su nivel de riesgo, déjala estar. Ten en cuenta que, si es una inversión de más de seis meses, es normal que hayan caídas.
 
-**Históricamente, después de toda gran baja viene una gran alza.** No corras el riesgo de perderte esas subidas, son claves para la rentabilidad de tus inversión.
+**Históricamente, después de toda gran baja viene una gran alza.** No corras el riesgo de perderte esas subidas, son claves para la rentabilidad de tus inversiones.
 
 Así que tranquilo y créenos, así va a quedar más rica la punta de ganso, bah!... van a andar mejor tus inversiones.
 
