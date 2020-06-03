@@ -35,7 +35,6 @@ Incluso podría tener que enfrentar más gastos en el depa que comparto con dos 
 
 También pensé en qué haría si mis padres o hermanos se enferman al cambiar de hábitos en esta cuarentena.
 
-<div style="text-align:center"> <figure> <img src="//uploads/giphy-6-3.gif"> </figure> </div>
 
 ##### ¡Necesito un fondo de emergencia!
 
