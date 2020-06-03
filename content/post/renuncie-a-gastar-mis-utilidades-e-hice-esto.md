@@ -4,9 +4,8 @@ author = "Montserrat Bonilla"
 categories = ["educación financiera"]
 date = 2020-06-01T18:07:46Z
 description = "Te contamos dos opciones para ahorrar tus utilidades este año."
-draft = true
 hide = false
-image = "/uploads/untitled-design.png"
+image = "/uploads/untitled-design-3.png"
 title = "Renuncié a gastar mis utilidades, e hice esto"
 url = "/invertir-tus-utilidades"
 
