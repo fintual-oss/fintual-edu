@@ -2,7 +2,7 @@
 aliases = []
 author = "Gonzalo Enei"
 categories = ["educación financiera"]
-date = 2019-09-25T16:22:00Z
+date = 2020-06-03T17:22:00Z
 description = "Hay beneficios tributarios que todos los usuarios de Fintual podrían aprovechar."
 hide = false
 image = "/uploads/4-beneficios-perezfecto-min.png"
