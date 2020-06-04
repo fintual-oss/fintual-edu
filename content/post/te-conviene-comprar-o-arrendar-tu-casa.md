@@ -2,10 +2,10 @@
 aliases = []
 author = "Gonzalo Enei"
 categories = ["educación financiera"]
-date = 2020-02-04T20:55:47Z
-description = ""
+date = 2020-06-01T21:55:47Z
+description = "Para decidir entre “comprar vs arrendar” lo esencial es evaluar todos los costos posibles. Para el arriendo quizás es más fácil evaluar los costos. Pero al comprar es difícil."
 hide = false
-image = "/uploads/Blog-1.png"
+image = "/uploads/comprar-vs-arrendar-ludmila-drago-min.png"
 title = "¿Te conviene comprar o arrendar tu casa?"
 url = "/comprar-vs-arrendar"
 
@@ -46,6 +46,14 @@ Pero tengo varios argumentos para defender mi postura de que es mejor arrendar q
 <li><b>Es mejor comprar varias propiedades chicas que una sola grande.</b> Dada la relación inversamente proporcional entre el valor de una propiedad y su arriendo, en vez de comprar una propiedad de UF 5.000 para vivir, sería mejor arrendar una propiedad equivalente a UF 5.000, pero comprar dos propiedades de UF 2.500 o -mejor aún- tres de UF 1.666 🤘 y arrendarlas. </li>
 
 </ol>
+<div style="text-align:center">
+<figure>
+<img src="/uploads/comprar-vs-arrendar-ludmila-drago-min.png">
+<figcaption style="display:block;text-align:center;font-size:.8rem"><i>Ilustración de <a target="_blank" href="https://www.instagram.com/ludmiladragoart/">Ludmila Drago</a></i></figcaption>
+</figure>
+</div>
+
+![](/uploads/comprar-vs-arrendar-ludmila-drago-min.png)
 
 ### **Ahora, vamos a los números!**
 
