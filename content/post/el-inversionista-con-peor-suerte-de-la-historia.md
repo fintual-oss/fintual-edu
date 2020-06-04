@@ -2,10 +2,10 @@
 aliases = []
 author = "Gonzalo Enei"
 categories = ["educación financiera"]
-date = 2020-03-16T22:45:29Z
+date = 2020-06-02T23:45:29Z
 description = "La primera vez que Vicente invirtió fue al principio de 1973, cuando puso $6.000.000 en el S&P 500, justo antes de una baja del 48%. "
 hide = false
-image = "/uploads/gatito.png"
+image = "/uploads/fintual-alvaro-ardiles-azul-min.jpg"
 title = "El inversionista con peor suerte de la historia"
 url = "/el-inversionista-con-peor-suerte-de-la-historia"
 
@@ -40,6 +40,14 @@ En 2013, Vicente jubiló. Al fin tendría tiempo para completar su colección de
 A pesar de haber invertido justo antes de las caídas más grandes de los últimos tiempos, las inversiones de Vicente rentaron un \~9% anual (_money-weighted_). **El secreto es haber mantenido a pesar de las bajas y pensar en el largo plazo, donde el mercado históricamente ha subido.**
 
 De todos modos, a Vicente le podría haber ido aún mejor si hubiese invertido más regularmente, en vez de una vez cada década. En ese caso, hubiese terminado con más de $2.000 millones!
+
+<div style="text-align:center">
+<figure>
+<img src="/uploads/fintual-alvaro-ardiles-azul-min.jpg">
+<figcaption style="display:block;text-align:center;font-size:.8rem"><i>Ilustración de <a target="_blank" href="https://www.instagram.com/alv.ardiles/">Álvaro Ardiles</a></i></figcaption>
+</figure>
+</div>
+
 
 Shh… no le digan si lo ven.
 
