@@ -2,10 +2,10 @@
 aliases = []
 author = "Agustín Feuerhake"
 categories = ["educación financiera"]
-date = 2020-04-08T19:09:37Z
+date = 2020-04-09T19:09:37Z
 description = "Es quizás uno de los errores más comunes. "
 hide = false
-image = "/uploads/waiting.jpeg"
+image = "/uploads/prefiero-esperar-daniela-q-min.png"
 title = "Por qué \"Prefiero esperar a que se calme la cosa antes de volver a invertir\" es un error"
 url = "/prefiero-esperar-para-volver-a-invertir"
 
@@ -34,15 +34,23 @@ Eso nadie lo sabe.
 
 #### **Proyecciones y predicciones**
 
-Todos los días el mercado hace su mejor estimación de cómo se viene el futuro y los precios en la bolsa reflejan eso. 
+Todos los días el mercado hace su mejor estimación de cómo se viene el futuro y los precios en la bolsa reflejan eso.
 
 Si piensas que “seguirá bajando” no estás diciendo que luego de la pandemia se vienen tiempos difíciles para la economía, con mucho desempleo y empresas quebrando, eso lo sabemos todos (y el mercado ya lo consideró).
 
-Cuando dices que _seguirá bajando_ lo que en realidad estás diciendo es que más adelante el mercado será aún más pesimista sobre el futuro de lo que es hoy. ¿Se entiende la diferencia? 
+Cuando dices que _seguirá bajando_ lo que en realidad estás diciendo es que más adelante el mercado será aún más pesimista sobre el futuro de lo que es hoy. ¿Se entiende la diferencia?
 
 **El mercado ya tomó en cuenta los titulares terribles de los diarios y las cifras de desempleo que viste.**
 
 Si quieres esperar a que “se calme la cosa”, ¿cómo vas a saber cuándo entrar de vuelta?
+
+
+<div style="text-align:center">
+<figure>
+<img src="/uploads/prefiero-esperar-daniela-q-min.png">
+<figcaption style="display:block;text-align:center;font-size:.8rem"><i>Ilustración de <a target="_blank" href="https://www.instagram.com/ladaniquin/">Daniela Quintana</a></i></figcaption>
+</figure>
+</div>
 
 Mira, es más, un estudio de Putnam Investments muestra que alguien que mantuvo su inversión durante los últimos 15 años ganó el doble que alguien que se perdió sólo los 10 mejores días:
 
@@ -63,7 +71,7 @@ No sabemos si vendrán otras caídas o si ya tocamos el piso. Nadie sabe eso. El
 
 #### **Tratar de _achuntarle_ al momento justo no funciona**
 
-Y te puede salir muy caro intentarlo. Si realmente crees que puedes ganarle al mercado consistentemente podrías dedicarte a ser trader. Lo divertido es que los [estudios muestran](https://us.spindices.com/spiva/#/reports) que incluso los traders e inversionistas profesionales **pierden contra la estrategia de mantenerse**. 
+Y te puede salir muy caro intentarlo. Si realmente crees que puedes ganarle al mercado consistentemente podrías dedicarte a ser trader. Lo divertido es que los [estudios muestran](https://us.spindices.com/spiva/#/reports) que incluso los traders e inversionistas profesionales **pierden contra la estrategia de mantenerse**.
 
 Perderse unos pocos días clave puede tener un impacto muy negativo en tus retornos, así que en lugar de tratar de _achuntarle_ al momento justo de entrar o salir debieras enfocarte en las cosas que sí puedes controlar: **minimizar las comisiones y maximizar la diversificación**. Estamos en un momento muy volátil y es cuando es más necesario mantener la calma, ignorar las noticias e invertir pensando en el largo plazo.
 
