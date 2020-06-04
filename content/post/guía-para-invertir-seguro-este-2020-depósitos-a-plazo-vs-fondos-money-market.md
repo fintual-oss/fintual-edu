@@ -2,10 +2,10 @@
 aliases = []
 author = "Omar Larré"
 categories = ["educación financiera"]
-date = 2020-04-15T04:29:15Z
+date = 2020-06-03T04:29:15Z
 description = "Por si andas con ganas de guardar tu plata debajo del colchón."
 hide = false
-image = "/uploads/colchonpesadilla.png"
+image = "/uploads/guia-2020-alvaro-torrens-min.png"
 title = "Guía para invertir seguro este 2020: depósitos a plazo vs fondos money market"
 url = "/dap-vs-mm"
 
@@ -32,6 +32,14 @@ Un efecto secundario de la baja de la TPM es que los depósitos a plazo de los b
 
 Esto es aún más notorio en los bancos grandes de “buena clasificación crediticia”, es decir los bancos “más grandes y seguros”, que suelen tener tasas de depósitos menores.
 
+<div style="text-align:center">
+<figure>
+<img src="/uploads/guia-2020-alvaro-torrens-min.png">
+<figcaption style="display:block;text-align:center;font-size:.8rem"><i>Ilustración de <a target="_blank" href="https://www.behance.net/drawalv">Álvaro Torrens</a></i></figcaption>
+</figure>
+</div>
+
+
 #### **Una alternativa a los depósitos a plazo: los fondos _money market_**
 
 Los fondos _money market_ son fondos de muy bajo riesgo, cuya cartera se compone principalmente por depósitos a plazos de varios bancos, y algunas veces uno que otro bono de empresa o bono bancario de muy corta duración.
@@ -56,7 +64,7 @@ Sabemos que hay otras combinaciones de plazos, pero estos casos sirven para resu
 
 En inversiones no existen las recetas mágicas ni las balas de plata. Así que si algo renta mucho más que un depósito a plazo o un fondo _money market_, **de seguro no es seguro y contiene riesgos mayores que estos**.
 
-Para plazos mayores a seis meses ya es necesario comenzar a pensar si vale la pena tener inversiones tan conservadoras como este tipo. 
+Para plazos mayores a seis meses ya es necesario comenzar a pensar si vale la pena tener inversiones tan conservadoras como este tipo.
 
 Desde horizontes de inversión de un año o más recomendamos al menos revisar otro tipo de fondos con algo más de riesgo.
 
