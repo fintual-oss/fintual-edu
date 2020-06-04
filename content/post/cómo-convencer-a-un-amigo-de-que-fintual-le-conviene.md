@@ -3,10 +3,10 @@ aliases = []
 author = "Agustín Feuerhake"
 author_thumbnail = "/uploads/agustincuadrado.jpg"
 categories = []
-date = 2019-06-15T04:00:00Z
+date = 2020-06-01T04:00:00Z
 description = "Tus amigos son todos animales distintos. Aquí te damos recomendaciones según la especie de cada uno."
 hide = false
-image = "/uploads/andrea-tummons-450846-unsplash.jpg"
+image = "/uploads/fintual_michig-min.png"
 title = "¿Cómo convencer a un amigo de que Fintual es la opción?"
 url = "/como-convencer-a-un-amigo-de-que-fintual-le-conviene/"
 
@@ -62,6 +62,14 @@ Cuéntale que Fintual puede cobrar menos porque automatizamos el proceso de inve
 Le gustará saber que por fin podrá ver cuánto tiene en una sola página simple y directa.
 
 Te preguntará si puede cambiarse a Fintual “por dentro”, es decir, sin hacer retiro de su capital del otro fondo (lo que le afectaría tributariamente), la respuesta es sí. Nos tiene que decir por chat y nosotros hacemos el resto.
+
+<div style="text-align:center">
+<figure>
+<img src="/uploads/fintual_michig-min.png">
+<figcaption style="display:block;text-align:center;font-size:.8rem"><i>Ilustración de <a target="_blank" href="https://www.instagram.com/michi.gg/">Michi González</a></i></figcaption>
+</figure>
+</div>
+
 
 **Tu amigo invierte en plataformas forex y jura que cacha**
 
