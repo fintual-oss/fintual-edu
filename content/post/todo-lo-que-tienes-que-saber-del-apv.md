@@ -2,7 +2,7 @@
 aliases = []
 author = "Francesca Finaldi"
 categories = ["educación financiera"]
-date = 2020-05-30T19:34:54Z
+date = 2020-06-02T19:34:54Z
 description = "El ABC del APV fue lo más creativo que se nos ocurrió para esta descripción."
 hide = false
 image = "/uploads/apv-valentina-p-min.png"
@@ -81,10 +81,7 @@ Al hacer el aporte mediante descuento por planilla te ahorrarás parte del impue
 En varias instituciones reguladas: AFPs, corredoras, administradoras, entre ellas **Fintual** :)
 Tenemos una comisión anual de 0,49%, la más baja del mercado según [El Mercurio Inversiones](http://www.elmercurio.com/Inversiones/Noticias/Analisis/2019/01/25/Nueva-serie-APV-de-fondos-mutuos-de-Fintual-es-la-mas-barata-del-mercado.aspx) y atendemos con mucha buena onda.
 
-<div style="text-align:center">
-<figure>
-<img src="/uuploads/apv-valentina-p-min.png">
-<figcaption style="display:block;text-align:center;font-size:.8rem"><i>Ilustración de <a target="_blank" href="https://drive.google.com/file/d/1VR52-6qA6v59iPxJMiCcEJzqcpk2L45_/view">Valentina Palma</a></i></figcaption>
+<div style="text-align:center"> <figure> <img src="/uploads/apv-valentina-p-min.png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Ilustración de <a target="_blank" href="https://drive.google.com/file/d/1VR52-6qA6v59iPxJMiCcEJzqcpk2L45_/view">Valentina Palma</a></i></figcaption>
 </figure>
 </div>
 
