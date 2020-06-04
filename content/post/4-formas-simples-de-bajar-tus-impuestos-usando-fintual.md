@@ -5,7 +5,7 @@ categories = ["educación financiera"]
 date = 2019-09-25T16:22:00Z
 description = "Hay beneficios tributarios que todos los usuarios de Fintual podrían aprovechar."
 hide = false
-image = "/uploads/Post Edu Impuestos.png"
+image = "/uploads/4-beneficios-perezfecto-min.png"
 title = "4 beneficios tributarios que puedes aprovechar si usas Fintual"
 url = "/4-beneficios-tributarios-si-usas-fintual"
 
@@ -22,8 +22,8 @@ Hay **beneficios tributarios** que todos los usuarios de Fintual podrían aprove
 
 Si **rescatas** y tus ganancias en fondos mutuos son menores a 30 UTM al año —aproximadamente $1.460.000— están exentas del impuesto a la renta. Este beneficio es conocido como 57 LIR y aplica a la suma de todos los rescates de los fondos mutuos que tengas.
 
-**Por ejemplo**: Si inviertes $14.600.000 y ganas $1.430.000, puedes retirar ese monto inicial + la rentabilidad (un total de $16.030.000) libre de impuesto a la renta.  
-  
+**Por ejemplo**: Si inviertes $14.600.000 y ganas $1.430.000, puedes retirar ese monto inicial + la rentabilidad (un total de $16.030.000) libre de impuesto a la renta.
+
 Cuidado que este beneficio no aplica si emitiste una boleta de honorarios durante el año 🙁
 
 #### **2. Cambios entre FFMM**
@@ -42,10 +42,17 @@ Los planes de **Ahorro Previsional Voluntario** (APV) tienen un beneficio especi
 
 Más info en [www.fintual.com/apv](https://fintual.cl/apv/?utm_source=edu&utm_medium=edu&utm_campaign=conversion&utm_content=edu+beneficios+tributarios+fintual-280).
 
+<div style="text-align:center">
+<figure>
+<img src="/uploads/4-beneficios-perezfecto-min.png">
+<figcaption style="display:block;text-align:center;font-size:.8rem"><i>Ilustración de <a target="_blank" href="https://perezfecto.com/">Perezfecto</a></i></figcaption>
+</figure>
+</div>
+
 #### **BONUS: Reliquidación de sueldo**
 
-Si eres un **trabajador dependiente con un sólo empleador** y tienes un sueldo que varía todos los meses (por ejemplo, por comisiones o bonos) puede que se te haya aplicado una tasa de impuestos más alta que la que te corresponde —por los meses que más ganaste— considerando la totalidad de tus ingresos durante el año.  
-  
+Si eres un **trabajador dependiente con un sólo empleador** y tienes un sueldo que varía todos los meses (por ejemplo, por comisiones o bonos) puede que se te haya aplicado una tasa de impuestos más alta que la que te corresponde —por los meses que más ganaste— considerando la totalidad de tus ingresos durante el año.
+
 Con la reliquidación de sueldo puedes obtener la devolución de los impuestos pagados. **Para que se te aplique automáticamente, debes hacer tu declaración de impuestos** aunque no estés obligado a ello.
 
 Por ejemplo: tu sueldo mensual es de $1.000.000, pero en julio y diciembre ganaste un bono de $5.000.000.
