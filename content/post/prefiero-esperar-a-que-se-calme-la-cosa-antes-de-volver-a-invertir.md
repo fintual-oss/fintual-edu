@@ -2,7 +2,7 @@
 aliases = []
 author = "Agustín Feuerhake"
 categories = ["educación financiera"]
-date = 2020-04-09T19:09:37Z
+date = 2020-04-07T19:09:37Z
 description = "Es quizás uno de los errores más comunes. "
 hide = false
 image = "/uploads/prefiero-esperar-daniela-q-min.png"
