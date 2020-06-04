@@ -51,6 +51,8 @@ Este es ingenuo y buena onda. Algo averiguó, siente que hizo la pega, le pregun
 
 No le gustará mucho saber que se lo han estado paseando por mucho tiempo. Acurrúcalo un poco.
 
+<div style="text-align:center"> <figure> <img src="/uploads/fintual_michig-min.png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Ilustración de <a target="_blank" href="[https://www.instagram.com/michi.gg/](https://www.instagram.com/michi.gg/ "https://www.instagram.com/michi.gg/")">Michi González</a></i></figcaption> </figure> </div>
+
 Sí le gustará saber que Fintual está bajo la misma regulación y autoridad que los fondos mutuos que ofrece su banco.
 
 Te preguntará “qué pasa si Fintual quiebra”: la respuesta es que la plata de los que invierten está siempre separada del patrimonio de Fintual, así que si quebráramos, la CMF se encargaría de traspasar sus platas a otra administradora de fondos.
@@ -62,14 +64,6 @@ Cuéntale que Fintual puede cobrar menos porque automatizamos el proceso de inve
 Le gustará saber que por fin podrá ver cuánto tiene en una sola página simple y directa.
 
 Te preguntará si puede cambiarse a Fintual “por dentro”, es decir, sin hacer retiro de su capital del otro fondo (lo que le afectaría tributariamente), la respuesta es sí. Nos tiene que decir por chat y nosotros hacemos el resto.
-
-<div style="text-align:center">
-<figure>
-<img src="/uploads/fintual_michig-min.png">
-<figcaption style="display:block;text-align:center;font-size:.8rem"><i>Ilustración de <a target="_blank" href="https://www.instagram.com/michi.gg/">Michi González</a></i></figcaption>
-</figure>
-</div>
-
 
 **Tu amigo invierte en plataformas forex y jura que cacha**
 
