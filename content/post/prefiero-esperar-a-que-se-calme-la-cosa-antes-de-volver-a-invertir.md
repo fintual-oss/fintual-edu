@@ -38,19 +38,13 @@ Todos los días el mercado hace su mejor estimación de cómo se viene el futuro
 
 Si piensas que “seguirá bajando” no estás diciendo que luego de la pandemia se vienen tiempos difíciles para la economía, con mucho desempleo y empresas quebrando, eso lo sabemos todos (y el mercado ya lo consideró).
 
+<div style="text-align:center"> <figure> <img src="/uploads/prefiero-esperar-daniela-q-min.png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Ilustración de <a target="_blank" href="[https://www.instagram.com/ladaniquin/](https://www.instagram.com/ladaniquin/ "https://www.instagram.com/ladaniquin/")">Daniela Quintana</a></i></figcaption> </figure> </div>
+
 Cuando dices que _seguirá bajando_ lo que en realidad estás diciendo es que más adelante el mercado será aún más pesimista sobre el futuro de lo que es hoy. ¿Se entiende la diferencia?
 
 **El mercado ya tomó en cuenta los titulares terribles de los diarios y las cifras de desempleo que viste.**
 
 Si quieres esperar a que “se calme la cosa”, ¿cómo vas a saber cuándo entrar de vuelta?
-
-
-<div style="text-align:center">
-<figure>
-<img src="/uploads/prefiero-esperar-daniela-q-min.png">
-<figcaption style="display:block;text-align:center;font-size:.8rem"><i>Ilustración de <a target="_blank" href="https://www.instagram.com/ladaniquin/">Daniela Quintana</a></i></figcaption>
-</figure>
-</div>
 
 Mira, es más, un estudio de Putnam Investments muestra que alguien que mantuvo su inversión durante los últimos 15 años ganó el doble que alguien que se perdió sólo los 10 mejores días:
 
