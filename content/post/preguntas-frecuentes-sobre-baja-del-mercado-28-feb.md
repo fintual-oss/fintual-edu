@@ -2,10 +2,10 @@
 aliases = []
 author = "Gonzalo Enei"
 categories = ["educación financiera"]
-date = 2020-03-09T14:06:47Z
+date = 2020-06-03T15:06:47Z
 description = " Lo más importante es mantener la calma y no dejar que esa sensación te haga cambiar los planes que te propusiste inicialmente."
 hide = false
-image = "/uploads/portadaedu.png"
+image = "/uploads/cae-tu-inversion-daniel-hache-min.png"
 title = "Qué hacer cuando cae tu inversión"
 url = "/que-hacer-cuando-cae-tu-inversion"
 
@@ -34,6 +34,14 @@ Los únicos casos donde recomendamos sacar tu plata son:
 #### **¿Espero a que el mercado se estabilice antes de invertir más?**
 
 Como no podemos ver el futuro, la recomendación es invertir regularmente sin tratar de adivinar lo que va a pasar. Si tienes plata para invertir hoy, hazlo. Nadie sabe si mañana va a estar más caro o barato el mercado. Históricamente, los que han sido consistentes en el tiempo han tenido buenos resultados.
+
+<div style="text-align:center">
+<figure>
+<img src="/uploads/cae-tu-inversion-daniel-hache-min.png">
+<figcaption style="display:block;text-align:center;font-size:.8rem"><i>Ilustración de <a target="_blank" href="https://www.behance.net/gallery/92791653/Book-Ilustracion-diseno">Daniel Hache</a></i></figcaption>
+</figure>
+</div>
+
 
 #### **¿Invierto más ahora que el mercado está “barato”?**
 
