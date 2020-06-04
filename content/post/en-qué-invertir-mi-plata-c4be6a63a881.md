@@ -3,13 +3,13 @@ author: Pedro Pineda
 author_thumbnail: "/uploads/pedro_pineda.png"
 title: En qué invertir mi plata
 date: 2018-11-10T00:00:00.000+00:00
-image: "/uploads/amazon.jpg"
+image: "/uploads/en-que-invertir-sandrineanne-min.png"
 categories:
 - educación financiera
 url: "/en-qué-invertir-mi-plata-c4be6a63a881/"
 
 ---
-### Una guía para personas que no saben invertir.
+### Una guía para personas que no saben invertir
 
 _Menciono algunas instituciones financieras y empresas, pero aparte de_ [_Fintual_](http://www.fintual.com) _no tengo ninguna relación ni intereses con ninguna._
 
@@ -55,13 +55,18 @@ No, no es el bono marzo.
 
 Esto es para cualquier persona.
 
-![](/uploads/deposito-a-plazo-malo-1200x630.png)
-
 [El Estado te regala hasta $297.000 al año,](http://www.svs.cl/educa/602/w3-article-1721.html) todos los años, si logras ahorrar el equivalente a $165.000 mensuales.
 
 Si ahorras menos, el bono es proporcionalmente menos.
 
 La condición es que saques ese ahorro cuando te jubiles. Puedes sacarlo antes (es tu plata), pero pierdes el beneficio tributario y tienes que devolver la parte que el Estado te dio.
+
+<div style="text-align:center">
+<figure>
+<img src="/uploads/en-que-invertir-sandrineanne-min.png">
+<figcaption style="display:block;text-align:center;font-size:.8rem"><i>Ilustración de <a target="_blank" href="https://www.instagram.com/sandrine_anne/">Sandrine Anne</a></i></figcaption>
+</figure>
+</div>
 
 ### 5. Cuenta 2 de la AFP
 
@@ -123,7 +128,6 @@ Prueba sin costo nuestro simulador online para recibir una recomendación de inv
 
 _Infórmese de las características esenciales de la inversión en estos fondos mutuos, los que se encuentran contenidos en sus reglamentos internos y contratos de suscripción de cuotas._
 
-_Las rentabilidades o ganancias obtenidas en el pasado por estos fondos, no garantizan que ellas se repitan en el futuro. Los valores de las cuotas de los fondos mutuos son variables._ 
-
+_Las rentabilidades o ganancias obtenidas en el pasado por estos fondos, no garantizan que ellas se repitan en el futuro. Los valores de las cuotas de los fondos mutuos son variables._
 
 {{< newsletter_signup >}}
