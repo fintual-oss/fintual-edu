@@ -22,7 +22,6 @@ El mensaje y el ingreso extra me tomaron por sorpresa.
 
 ¡Venga ese Pinterest! Por fin tenía el dinero para pintar y remodelar la cocina y hasta la sala.
 
-
 <div style="text-align:center"> <figure> <img src="/uploads/captura-de-pantalla-2020-05-27-a-la-s-11-58-38.png"> <figcaption><i>Armé un tablero de Pinterest con ideas.</i></figcaption> </figure> </div>
 
 Hice un tablero Pinterest muy bonito y mientras lo hacía comencé a tener cierto pesar. Me acordé de mensajes de amigos contándome de bajas de sueldo, despidos, licencias sin goce de sueldo.
@@ -34,7 +33,6 @@ Todos esos recuerdos conectaron con la cruda realidad de que si algo así (o peo
 Incluso podría tener que enfrentar más gastos en el depa que comparto con dos roomies, si ambos prefieren trabajar desde casa de sus padres en los próximos meses.
 
 También pensé en qué haría si mis padres o hermanos se enferman al cambiar de hábitos en esta cuarentena.
-
 
 ##### ¡Necesito un fondo de emergencia!
 
@@ -79,15 +77,15 @@ Si tuvieras una emergencia y necesitaras todo tu dinero quizá tendrías que esp
 
 Cetes Directo es una solución fácil de usar porque es en línea, es segura, pero limitada en sus rendimientos y disposición.
 
-En Fintual buscamos ser otra opción con mejores rendimientos. Te registras en línea, puedes ver y entender cómo va tu inversión, disponer de tu dinero si lo necesitas, y tener varios objetivos de ahorro al mismo tiempo. 
+En Fintual buscamos ser otra opción con mejores rendimientos. Te registras en línea, puedes ver y entender cómo va tu inversión, disponer de tu dinero si lo necesitas, y tener varios objetivos de ahorro al mismo tiempo.
 
-Nuestra lista de espera para México está disponible [aquí.](	https://fintu.al/p8Z2)
+Nuestra lista de espera para México está disponible [aquí.](https://fintu.al/p8Z2)
 
 {{% prueba_fintual
 utmcontent="invertir-tus-utilidades"
 card_title="Únete a Fintual"
 card_button="Aquí!" %}}
 
-Regístratre a la lista de espera en México con solo un correo.
+Regístrate a la lista de espera en México con solo un correo.
 
 {{% /prueba_fintual %}}
