@@ -4,7 +4,7 @@
         <div class="maxthumb">
             <a href="{{ .URL | absURL }}">
                 {{with .Params.image}}
-                    <img class="img-fluid" src="{{ . | relURL }}" alt="A thumbnail image">
+                <img class="img-fluid" src="{{ . | relURL }}" alt="A thumbnail image">
                 {{end}}
             </a>
         </div>
@@ -16,20 +16,20 @@
             <div class="wrapfooter">
                 {{ $scratch := newScratch }}
                 {{ if .Site.Params.writers }}
-                  {{ $scratch.Set "writer" (index .Site.Params.writers (lower .Params.author) | default dict) }}
+                {{ $scratch.Set "writer" (index .Site.Params.writers (lower .Params.author) | default dict) }}
                 {{ else }}
-                  {{ $scratch.Set "writer" .Site.Params.social | default dict }}
+                {{ $scratch.Set "writer" .Site.Params.social | default dict }}
                 {{ end }}
                 {{ $writer := $scratch.Get "writer" }}
 
                 {{if $writer}}
-                    <span class="meta-footer-thumb">
+                <span class="meta-footer-thumb">
                     <img class="author-thumb" src="{{ $writer.thumbnail | urlize | relURL  }}" alt="{{ $writer.name }}">
-                    </span>
-                    <span class="author-meta">
-                    <span class="post-name">{{ $writer.name }}</a></span><br/>
-                {{end}}
-                <span class="post-date">{{ dateFormat "2 Jan, 2006" .PublishDate }} - lectura de {{ .ReadingTime }} min </span>
+                </span>
+                <span class="author-meta">
+                    <span class="post-name">{{ $writer.name }}</a></span><br />
+                    {{end}}
+                    <span class="post-date">lectura de {{ .ReadingTime }} min </span>
                 </span>
 
                 <div class="clearfix"></div>
