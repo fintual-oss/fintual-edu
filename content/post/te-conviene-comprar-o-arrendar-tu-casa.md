@@ -53,8 +53,6 @@ Pero tengo varios argumentos para defender mi postura de que es mejor arrendar q
 </figure>
 </div>
 
-![](/uploads/comprar-vs-arrendar-ludmila-drago-min.png)
-
 ### **Ahora, vamos a los números!**
 
 _Gracias a Omar Larré, co-fundador de Fintual y Profesor de Finanzas Aplicadas de la U. Chile, por este análisis._
