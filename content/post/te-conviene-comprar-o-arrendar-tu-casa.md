@@ -22,9 +22,7 @@ También pienso que para los completos es mejor poner la palta, tomate y mayo DE
 <picture>
 <img src="/uploads/completo.webp" alt="Alt Text!">
 </picture>
-</div>
-
-<p></p>
+</div><p></p>
 
 Pero tengo varios argumentos para defender mi postura de que es mejor arrendar que comprar el lugar donde vives. Después veremos si aguantan mis cálculos de servilleta. <p></p>
 
