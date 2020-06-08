@@ -13,7 +13,7 @@ Es más común de lo que se piensa, pero las bajas del mercado son la parte más
 
 A menudo, los inversionistas –tanto profesionales como personas común y corrientes– tienden a sobrerreaccionar con pánico en respuesta a bajas de mercado, incluso sabiendo que están invirtiendo de forma apropiada y en un plan de largo plazo.
 
-> #### Sin embargo, reaccionar a las bajas de mercado terminan siendo, en la mayor parte de los casos, una mala estrategia de inversiones.
+> Sin embargo, reaccionar a las bajas de mercado terminan siendo, en la mayor parte de los casos, una mala estrategia de inversiones.
 
 Cada vez que digo que en el corto plazo es muy probable que existan pérdidas en Fintual, me miran con cara de espanto. **Y no se trata de que sea pesimista ni sádico, es sólo una perspectiva basada en haber estudiado y experimentado el mercado financiero por años.**
 
