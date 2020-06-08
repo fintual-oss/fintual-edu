@@ -1,9 +1,9 @@
 ---
 author: Pedro Pineda
 author_thumbnail: "/uploads/pedro_pineda.png"
-date: 2018-12-13T13:01:29.000+00:00
+date: 2020-06-07T14:01:29+00:00
 description: Para que pienses en ello cuando estés tomándote un café.
-image: "/uploads/cafe-1200x630.png"
+image: "/uploads/2020-06-08/cafe-michelle-nomas-min.png"
 title: Cómo un café menos al día podría darte más de $100.000.000
 categories:
 - educación financiera
@@ -23,17 +23,19 @@ Supongamos que tienes 30 años, significa que te quedan 30-35 años para jubilar
 
 Invirtiendo diariamente durante 30 años esos $2.700 en un fondo muy arriesgado (que es lo que uno debiera hacer cuando invierte a tan largo plazo) uno podría esperar una rentabilidad de 10% al año.
 
-<div class="image-wrapper">
-
-<img src="/uploads/cafe-1200x630.png" alt="cafe-millonario">
-
-</div>
-
 Si haces el cálculo con todos estos supuestos, **el día que te jubiles tendrás unos $122.000.000 adicionales** y eso que ni hemos considerado el beneficio tributario que hay al hacer esto.
 
 Sólo por ahorrar en un café diario.
 
 Ése es el poder del ahorro sistemático.
+
+<div style="text-align:center">
+<figure>
+<img src="/uploads/2020-06-08/cafe-michelle-nomas-min.png">
+<figcaption style="display:block;text-align:center;font-size:.8rem"><i>Ilustración de <a target="_blank" href="https://www.instagram.com/michellenomas/">Michelle Nomas</a></i></figcaption>
+</figure>
+</div>
+
 
 Para que pienses en ello cuando estés tomándote un café.
 
@@ -48,6 +50,6 @@ Más inteligente que dejar tu plata en el banco.
 
 {{% /prueba_fintual %}}
 
-_Infórmate de las características esenciales de la inversión en estos fondos mutuos. Están en sus reglamentos internos, que puedes ver en la CMF y en_ [_fintual.cl/docs_](http://fintual.cl/docs).  
-  
+_Infórmate de las características esenciales de la inversión en estos fondos mutuos. Están en sus reglamentos internos, que puedes ver en la CMF y en_ [_fintual.cl/docs_](http://fintual.cl/docs).
+
 _La rentabilidad o ganancia obtenida en el pasado no garantiza que se repita en el futuro. Los valores de las cuotas de los fondos mutuos son variables._
