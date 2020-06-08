@@ -13,9 +13,9 @@ Es más común de lo que se piensa, pero las bajas del mercado son la parte más
 
 A menudo, los inversionistas –tanto profesionales como personas común y corrientes– tienden a sobrerreaccionar con pánico en respuesta a bajas de mercado, incluso sabiendo que están invirtiendo de forma apropiada y en un plan de largo plazo.
 
-##### Sin embargo, reaccionar a las bajas de mercado terminan siendo, en la mayor parte de los casos, una mala estrategia de inversiones.
+> #### Sin embargo, reaccionar a las bajas de mercado terminan siendo, en la mayor parte de los casos, una mala estrategia de inversiones.
 
-Cada vez que digo que en el corto plazo es muy probable que existan pérdidas en Fintual, me miran con cara de espanto. Y no se trata de que sea pesimista ni sádico, es sólo una perspectiva basada en haber estudiado y experimentado el mercado financiero por años.
+Cada vez que digo que en el corto plazo es muy probable que existan pérdidas en Fintual, me miran con cara de espanto. **Y no se trata de que sea pesimista ni sádico, es sólo una perspectiva basada en haber estudiado y experimentado el mercado financiero por años.**
 
 Y claro, en estos años he aprendido que experimentar pérdidas de corto plazo es de lo más común, y que afortunadamente son fugaces y benignas en la medida que estás invirtiendo de forma apropiada y esperando el tiempo apropiado, en vez de sólo reaccionar a cada variación de precios que te asuste lo suficiente para liquidar tus inversiones.
 
@@ -31,7 +31,7 @@ Explicado por Nassim Nicholas Taleb en sus libros <i>“Fooled by Randomness”<
 
 Ahora, olvidando todo este punto y asumiendo que alguien pudiese adivinar una crisis, el problema aún más difícil es saber cómo actuar bien en medio de una, que es el tema del punto siguiente.
 
-## 2. Tratar de salir cuando el mercado está cayendo, y luego entrar cuando volvió a estar todo más tranquilo, en la práctica es una pésima estrategia
+#### 2. Tratar de salir cuando el mercado está cayendo, y luego entrar cuando volvió a estar todo más tranquilo, en la práctica es una pésima estrategia
 
 ¿Piensas que puedes ganarle al mercado? ¿Comprando cuando está abajo, vendiendo cuando está arriba, esquivando las bajadas? ¿De veras?
 
@@ -55,7 +55,7 @@ Al parecer, sientes que lo hiciste bien, que te salvaste de la caída total. Sal
 
 Como moraleja, lo que hay que tratar de hacer bien es elegir el instrumento y grado de riesgo adecuado para el horizonte de inversión y plan de inversión determinado. Seguramente para invertir por 6 meses no tiene ningún sentido hacerlo usando acciones, pero si vas a invertir desde un par de años en adelante, vale la pena considerarlos.
 
-## 3. Alcanzar los retornos necesarios para recuperarse de una caída del mercado es más difícil de lo que crees
+#### 3. Alcanzar los retornos necesarios para recuperarse de una caída del mercado es más difícil de lo que crees
 
 Si miras la tabla de a continuación, que muestra qué porcentaje necesitas rentar para poder compensar una caída, te darás cuenta que necesitarás mucho más retorno en tus inversiones para alcanzar el mismo nivel de inversión que tenías antes de una gran caída:.
 
@@ -63,7 +63,7 @@ En la columna derecha está lo que necesitas volver a rentar para volver al mism
 
 <div style="text-align:center"> <figure> <img src="/uploads/pérdidas-de-c3216.png"> <figcaption></figcaption> </figure> </div>
 
-## 4. Buenos periodos de rentabilidad generalmente contienen años completos de rendimientos negativos o crisis
+#### 4. Buenos periodos de rentabilidad generalmente contienen años completos de rendimientos negativos o crisis
 
 Volvamos nuevamente al ejemplo del SPY. Si miras como ha rentado su precio considerando ventanas de 10 años de duración verás algo como el siguiente gráfico:
 
@@ -71,7 +71,7 @@ Volvamos nuevamente al ejemplo del SPY. Si miras como ha rentado su precio consi
 
 Si miran con atención, los años entre el 2012 al 2018 tienen periodos completos de buenos desempeños pese a haber incluido la crisis subprime del 2008. Considera además que en periodos más largos los retornos son aún más estables.
 
-## ¿Y qué pasa en Fintual?
+#### ¿Y qué pasa en Fintual?
 
 Estar invirtiendo apropiadamente en Fintual significa estar tomando niveles de riesgo acorde al horizonte de inversión y a cuán cómodo te sientes con ese nivel de riesgo, y haciendo esto para cada uno de tus diferentes planes de inversiones. Las recomendaciones de Fintual limitan la cantidad de porcentaje de activos riesgosos en función del plazo de inversión —a menor plazo, menos activos riesgosos son recomendados para cada plan— , y sólo después de considerar estas limitaciones, Fintual te entrega 5 opciones de carteras, cada una con niveles de riesgo distinto para que puedas elegir. Y puedes tomar distintos planes de inversión, cada uno con distintos niveles de riesgo, ya que sabemos que no es lo mismo invertir para tu jubilación, que para un pie de una casa, o que para comprar un auto.
 
@@ -86,7 +86,7 @@ Tomar más riesgo del que te sientes cómodo para un plan de inversión determin
 
 Por otro lado, tomar demasiado poco riesgo significa que estás dejando potenciales ganancias sobre la mesa, especialmente en horizontes de largo plazo.
 
-Una vez que eliges tu plan de inversiones de forma adecuada, trata de respetar bien el horizontes de inversiones. Por ejemplo, si tu plazo de inversiones es de 5 años, y te enfrentas a pérdidas de 3 o 4 meses, la mejor decisión en este caso puede ser la más difícil: **no hacer nada, y continuar con tu plan de inversión**, tranquilamente, sin disminuir o aumentar el nivel de riesgo a cada rato, tratando de evitar (o ganar) algo en la pasada.
+Una vez que eliges tu plan de inversiones de forma adecuada, trata de respetar bien los horizontes de inversión. Por ejemplo, si tu plazo de inversiones es de 5 años, y te enfrentas a pérdidas de 3 o 4 meses, la mejor decisión en este caso puede ser la más difícil: **no hacer nada, y continuar con tu plan de inversión**, tranquilamente, sin disminuir o aumentar el nivel de riesgo a cada rato, tratando de evitar (o ganar) algo en la pasada.
 
 {{% prueba_fintual
 utmcontent="perdidas_de_corto_plazo"
