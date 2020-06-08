@@ -6,7 +6,7 @@ categories = ["educación financiera"]
 date = 2019-08-01T04:00:00Z
 description = "Esta es una guía personal sobre cómo ordeno mis finanzas sin dedicarle más que un par de horas al mes."
 hide = false
-image = "/uploads/austin-distel-nGc5RT2HmF0-unsplash.jpg"
+image = "/uploads/2020-06-08/como-ordeno-mis-finanzas-raul-min.png"
 title = "Cómo ordeno mis finanzas dedicándole sólo dos horas al mes"
 url = "/como-ordeno-mis-finanzas-dedicandole-solo-dos-horas-al-mes"
 
@@ -70,6 +70,13 @@ La primera vez que hagas esto puede ser medio latero, porque vas a tener que ent
 \*_Tienes que seguir las instrucciones y bajar una copia del documento a tu Google Drive._
 
 _**La planilla está hecha en base a tu sueldo bruto porque en Chile los trabajadores dependientes están obligados a ahorrar para la jubilación en una AFP, pagar un plan de salud y otras cosas que pertenecen a categorías distintas._
+
+<div style="text-align:center">
+<figure>
+<img src="/uploads/2020-06-08/como-ordeno-mis-finanzas-raul-min.png">
+<figcaption style="display:block;text-align:center;font-size:.8rem"><i>Ilustración de <a target="_blank" href="https://www.instagram.com/soyraulitoo/">Soy Raulitoo</a></i></figcaption>
+</figure>
+</div>
 
 #### **2. Descuentos y pagos de tu sueldo**
 
