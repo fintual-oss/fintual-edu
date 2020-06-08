@@ -79,6 +79,7 @@ Cetes Directo es una solución fácil de usar porque es en línea, es segura, pe
 
 En Fintual buscamos ser otra opción con mejores rendimientos. Te registras en línea, puedes ver y entender cómo va tu inversión, disponer de tu dinero si lo necesitas, y tener varios objetivos de ahorro al mismo tiempo.
 
+
 {{% prueba_fintual
 utmcontent="invertir-tus-utilidades"
 card_title="Únete a Fintual"
