@@ -2,10 +2,10 @@
 author: Omar Larré
 author_thumbnail: "/uploads/omar_larre.jpeg"
 title: Pérdidas de corto plazo
-date: 2018-03-23T00:00:00.000+00:00
+date: 2020-06-07T01:00:00+00:00
 categories:
 - educación financiera
-image: "/uploads/don-ross-iii-187427-unsplash.jpg"
+image: "/uploads/2020-06-08/perdida-de-corto-plazo-eto-min.png"
 url: "/pérdidas-de-corto-plazo-tómate-unos-minutos-y-lee-esto-e222b63f3939/"
 
 ---
@@ -74,6 +74,14 @@ Si miran con atención, los años entre el 2012 al 2018 tienen periodos completo
 ## ¿Y qué pasa en Fintual?
 
 Estar invirtiendo apropiadamente en Fintual significa estar tomando niveles de riesgo acorde al horizonte de inversión y a cuán cómodo te sientes con ese nivel de riesgo, y haciendo esto para cada uno de tus diferentes planes de inversiones. Las recomendaciones de Fintual limitan la cantidad de porcentaje de activos riesgosos en función del plazo de inversión —a menor plazo, menos activos riesgosos son recomendados para cada plan— , y sólo después de considerar estas limitaciones, Fintual te entrega 5 opciones de carteras, cada una con niveles de riesgo distinto para que puedas elegir. Y puedes tomar distintos planes de inversión, cada uno con distintos niveles de riesgo, ya que sabemos que no es lo mismo invertir para tu jubilación, que para un pie de una casa, o que para comprar un auto.
+
+<div style="text-align:center">
+<figure>
+<img src="/uploads/2020-06-08/perdida-de-corto-plazo-eto-min.png">
+<figcaption style="display:block;text-align:center;font-size:.8rem"><i>Ilustración de <a target="_blank" href="https://www.instagram.com/eto2d/">Héctor Álvarez</a></i></figcaption>
+</figure>
+</div>
+
 
 Tomar más riesgo del que te sientes cómodo para un plan de inversión determinado significa que estás arriesgando más porcentaje de tu inversión en caso de una caída de precios del mercado, lo que podría causar que no alcances tus metas en los malos escenarios, y que de seguro causará que estés constantemente preocupado de cómo va tu inversión, mirando a cada rato en Fintual.com tu estado de cuenta. En este caso, seguro que te vas a sentir más mal que bien: en general, como personas nos tendemos a sentir mucho peor con una pérdida que lo bien que nos sentimos por una ganancia del mismo monto. Es por eso que te recomendamos utilizar el simulador de inversiones de Fintual.com, donde podrás ver un caso estimado en un escenario pesimista (definido por medio del 2,5% de los peores casos históricos), y ver si es que esto no te hace sentir incómodo.
 
