@@ -13,7 +13,7 @@ Es más común de lo que se piensa, pero las bajas del mercado son la parte más
 
 A menudo, los inversionistas –tanto profesionales como personas común y corrientes– tienden a sobrerreaccionar con pánico en respuesta a bajas de mercado, incluso sabiendo que están invirtiendo de forma apropiada y en un plan de largo plazo.
 
-#### Sin embargo, reaccionar a las bajas de mercado terminan siendo, en la mayor parte de los casos, una mala estrategia de inversiones.
+##### Sin embargo, reaccionar a las bajas de mercado terminan siendo, en la mayor parte de los casos, una mala estrategia de inversiones.
 
 Cada vez que digo que en el corto plazo es muy probable que existan pérdidas en Fintual, me miran con cara de espanto. Y no se trata de que sea pesimista ni sádico, es sólo una perspectiva basada en haber estudiado y experimentado el mercado financiero por años.
 
@@ -21,11 +21,11 @@ Y claro, en estos años he aprendido que experimentar pérdidas de corto plazo e
 
 A continuación voy a tratar de mostrar que es casi imposible alcanzar un nivel interesante de retornos sin pasar por algunas caídas significativas del mercado.
 
-## 1. Es casi imposible anticipar una gran caída en los precios, como una crisis financiera global
+#### 1. Es casi imposible anticipar una gran caída en los precios, como una crisis financiera global
 
 La prensa y las redes sociales en general suelen estar llenos de “gurús” de las inversiones, anticipando cuándo va a ser la próxima crisis financiera mundial. Sin embargo, la historia muestra que un evento tan particular como una crisis financiera global es muy difícil de predecir, casi imposible.
 
-![Cuando los europeos llegaron a Australia no podían creer la existencia de cisnes negros: hasta entonces, habían vivido sumergidos en un mundo donde era imposible que existieran. Ahora que viste la foto, te parece obvio que existen](/uploads/pérdidas-de-c5766.jpeg)_Cuando los europeos llegaron a Australia no podían creer la existencia de cisnes negros: hasta entonces, habían vivido sumergidos en un mundo donde era imposible que existieran. Ahora que viste la foto, te parece obvio que existen_
+<div style="text-align:center"> <figure> <img src="/uploads/pérdidas-de-c5766.jpeg"> <figcaption><i>Cuando los europeos llegaron a Australia no podían creer la existencia de cisnes negros: hasta entonces, habían vivido sumergidos en un mundo donde era imposible que existieran. Ahora que viste la foto, te parece obvio que existen</i></figcaption> </figure> </div>
 
 Explicado por Nassim Nicholas Taleb en sus libros <i>“Fooled by Randomness”</i> y <i>“The Black Swan”</i>, las grandes crisis financieras son parte de eventos altamente aleatorios e impredecibles, los cuales una vez sucedidos, se suelen tratar de explicar y racionalizar, pensando que se podría haber anticipado si sucediesen nuevamente, y de este modo generando la falsa ilusión que se podrá hacer con la siguiente crisis que aparezca en el futuro. Sin embargo, la historia ha demostrado que eventos tan altamente aleatorios e improbables como una crisis financiera global están lejos de ser predecibles.
 
@@ -81,7 +81,6 @@ Estar invirtiendo apropiadamente en Fintual significa estar tomando niveles de r
 <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Ilustración de <a target="_blank" href="https://www.instagram.com/eto2d/">Héctor Álvarez</a></i></figcaption>
 </figure>
 </div>
-
 
 Tomar más riesgo del que te sientes cómodo para un plan de inversión determinado significa que estás arriesgando más porcentaje de tu inversión en caso de una caída de precios del mercado, lo que podría causar que no alcances tus metas en los malos escenarios, y que de seguro causará que estés constantemente preocupado de cómo va tu inversión, mirando a cada rato en Fintual.com tu estado de cuenta. En este caso, seguro que te vas a sentir más mal que bien: en general, como personas nos tendemos a sentir mucho peor con una pérdida que lo bien que nos sentimos por una ganancia del mismo monto. Es por eso que te recomendamos utilizar el simulador de inversiones de Fintual.com, donde podrás ver un caso estimado en un escenario pesimista (definido por medio del 2,5% de los peores casos históricos), y ver si es que esto no te hace sentir incómodo.
 
