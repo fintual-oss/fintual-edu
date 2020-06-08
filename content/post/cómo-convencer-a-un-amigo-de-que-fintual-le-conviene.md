@@ -51,7 +51,12 @@ Este es ingenuo y buena onda. Algo averiguó, siente que hizo la pega, le pregun
 
 No le gustará mucho saber que se lo han estado paseando por mucho tiempo. Acurrúcalo un poco.
 
-<div style="text-align:center"> <figure> <img src="/uploads/fintual_michig-min.png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Ilustración de <a target="_blank" href="[https://www.instagram.com/michi.gg/](https://www.instagram.com/michi.gg/ "https://www.instagram.com/michi.gg/")">Michi González</a></i></figcaption> </figure> </div>
+<div style="text-align:center">
+<figure>
+<img src="/uploads/fintual_michig-min.png">
+<figcaption style="display:block;text-align:center;font-size:.8rem"><i>Ilustración de <a target="_blank" href="https://www.instagram.com/michi.gg/">Michi González</a></i></figcaption>
+</figure>
+</div>
 
 Sí le gustará saber que Fintual está bajo la misma regulación y autoridad que los fondos mutuos que ofrece su banco.
 
