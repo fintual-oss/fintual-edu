@@ -2,7 +2,7 @@
 aliases = []
 author = "Montserrat Bonilla"
 categories = ["educación financiera"]
-date = 2020-06-01T18:07:46Z
+date = 2020-06-05T18:07:46Z
 description = "Te contamos dos opciones para ahorrar tus utilidades este año."
 hide = false
 image = "/uploads/untitled-design-3.png"
