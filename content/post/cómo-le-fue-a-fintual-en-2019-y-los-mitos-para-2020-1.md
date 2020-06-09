@@ -42,7 +42,7 @@ Muchas de las preguntas que nos llegan al chat tienen parte de mito y parte real
 
 **Es un mito** porque el dólar observado del Banco Central de Chile efectivamente subió el año 2019, pero sólo un 7,77%. **Si bien ayudó a la rentabilidad de Risky Norris, es apenas una parte del 37,52% de retorno en el año.**
 
-![El argumento del dólar era finalmente un mito. Fuente: Mythbusters](/uploads/mythbusters.jpg)_El argumento del dólar era finalmente un mito. Fuente: Mythbusters_
+<div style="text-align:center"> <figure> <img src="/uploads/mythbusters.jpg"> <figcaption><i>El argumento del dólar era finalmente un mito. Fuente: Mythbusters</i></figcaption> </figure> </div>
 
 ##### **#2:** _Las rentabilidades fueron muy buenas, eso quiere decir que este año van a ser malas_ - Falso
 
