@@ -64,7 +64,7 @@ Hay muchos analistas que tienen sus proyecciones, pero es poco o nada el poder p
 
 Nuevamente, hay muchos analistas que tienen sus proyecciones, pero es poco o nada el poder predictivo útil que tienen para, por ejemplo, poder ganar dinero realmente.
 
-<div style="text-align:center"> <figure> <img src="/uploads/pedritoengel.jpg"> <figcaption><i>Creemos que ni siquiera Pedro Engel puede saber cómo le irá al dólar el 2020, el año de la rata de metal. Fuente: elfiltrador.com</i></figcaption> </figure> </div>
+<div style="text-align:center"> <figure> <img src="/uploads/pedritoengel.jpg"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>ICreemos que ni siquiera Pedro Engel puede saber cómo le irá al dólar el 2020, el año de la rata de metal. Fuente: elfiltrador.com</i></figcaption> </figure> </div>
 
 ##### #5: _Tienen muchas inversiones en Estados Unidos, eso quiere decir que no están bien diversificados_ - Falso
 
@@ -91,7 +91,7 @@ Si llegaste hasta acá fue porque te interesó lo que hicimos en 2019. Sé parte
 
 {{< /prueba_fintual >}}
 
-Finalmente, y como somos una entidad regulada, tenemos que agregar estos disclaimers fomes, pero que siempre es útil tener presente:  
+Finalmente, y como somos una entidad regulada, tenemos que agregar estos disclaimers fomes, pero que siempre es útil tener presente:
 
 _- Las rentabilidades nominales corresponden a la serie A de cada fondo, que al cierre de diciembre/2019 son:
 Conservative Clooney 1,09% para el mes, -1,75% últimos tres meses, 4,81% último año
