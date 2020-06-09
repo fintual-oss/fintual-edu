@@ -42,7 +42,7 @@ Muchas de las preguntas que nos llegan al chat tienen parte de mito y parte real
 
 **Es un mito** porque el dólar observado del Banco Central de Chile efectivamente subió el año 2019, pero sólo un 7,77%. **Si bien ayudó a la rentabilidad de Risky Norris, es apenas una parte del 37,52% de retorno en el año.**
 
-<div style="text-align:center"> <figure> <img src="/uploads/mythbusters.jpg"> <figcaption><i>El argumento del dólar era finalmente un mito. Fuente: Mythbusters</i></figcaption> </figure> </div>
+<div style="text-align:center"> <figure> <img src="/uploads/mythbusters.jpg"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>El argumento del dólar era finalmente un mito. Fuente: Mythbusters</i></figcaption> </figure> </div>
 
 ##### **#2:** _Las rentabilidades fueron muy buenas, eso quiere decir que este año van a ser malas_ - Falso
 
@@ -64,7 +64,7 @@ Hay muchos analistas que tienen sus proyecciones, pero es poco o nada el poder p
 
 Nuevamente, hay muchos analistas que tienen sus proyecciones, pero es poco o nada el poder predictivo útil que tienen para, por ejemplo, poder ganar dinero realmente.
 
-<div style="text-align:center"> <figure> <img src="/uploads/pedritoengel.jpg"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>ICreemos que ni siquiera Pedro Engel puede saber cómo le irá al dólar el 2020, el año de la rata de metal. Fuente: elfiltrador.com</i></figcaption> </figure> </div>
+<div style="text-align:center"> <figure> <img src="/uploads/pedritoengel.jpg"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Creemos que ni siquiera Pedro Engel puede saber cómo le irá al dólar el 2020, el año de la rata de metal. Fuente: elfiltrador.com</i></figcaption> </figure> </div>
 
 ##### #5: _Tienen muchas inversiones en Estados Unidos, eso quiere decir que no están bien diversificados_ - Falso
 
