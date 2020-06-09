@@ -64,7 +64,7 @@ Hay muchos analistas que tienen sus proyecciones, pero es poco o nada el poder p
 
 Nuevamente, hay muchos analistas que tienen sus proyecciones, pero es poco o nada el poder predictivo útil que tienen para, por ejemplo, poder ganar dinero realmente.
 
-![Creemos que ni siquiera Pedro Engel puede saber cómo le irá al dólar el 2020, el año de la rata de metal. Fuente: elfiltrador.com](/uploads/pedritoengel.jpg)_Creemos que ni siquiera Pedro Engel puede saber cómo le irá al dólar el 2020, el año de la rata de metal. Fuente: elfiltrador.com_
+<div style="text-align:center"> <figure> <img src="/uploads/pedritoengel.jpg"> <figcaption><i>Creemos que ni siquiera Pedro Engel puede saber cómo le irá al dólar el 2020, el año de la rata de metal. Fuente: elfiltrador.com</i></figcaption> </figure> </div>
 
 ##### #5: _Tienen muchas inversiones en Estados Unidos, eso quiere decir que no están bien diversificados_ - Falso
 
