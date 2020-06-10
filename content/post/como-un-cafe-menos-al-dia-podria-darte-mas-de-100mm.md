@@ -2,7 +2,7 @@
 author: Pedro Pineda
 author_thumbnail: "/uploads/pedro_pineda.png"
 date: 2020-06-07T14:01:29+00:00
-description: Para que pienses en ello cuando estés tomándote un café.
+description: Para que pienses en esto cuando estés tomándote un café.
 image: "/uploads/2020-06-08/cafe-michelle-nomas-min.png"
 title: Cómo un café menos al día podría darte más de $100.000.000
 categories:
