@@ -1,0 +1,22 @@
+{{ $apiKey := site.Params.marketing.apiKey | default "" }}
+{{ $projectId := site.Params.marketing.projectId | default "" }}
+{{ $messagingSenderId := site.Params.marketing.messagingSenderId | default "" }}
+{{ $appId := site.Params.marketing.appId | default "" }}
+{{ $measurementId := site.Params.marketing.measurementId | default "" }}
+
+<script>
+  var firebaseConfig = {
+    apiKey: '{{$apiKey}}',
+    authDomain: '{{$projectId}}.firebaseapp.com',
+    databaseURL: 'https://{{$projectId}}.firebaseio.com',
+    projectId: '{{$projectId}}',
+    storageBucket: '{{$projectId}}.appspot.com',
+    messagingSenderId: '{{$messagingSenderId}}',
+    appId: '{{$appId}}',
+    measurementId: '{{$measurementId}}'
+  };
+  firebase.initializeApp(firebaseConfig);
+  firebase.analytics();
+</script>
+
+<script src='{{ "js/clap.js" | absURL }}'></script>
