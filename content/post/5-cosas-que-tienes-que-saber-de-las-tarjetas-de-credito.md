@@ -15,18 +15,26 @@ Las tarjetas de crédito pueden ser un gran aliado o un dolor de cabeza. Aprende
 
 #### No uses la tarjeta para endeudarte y **siempre** paga el total, no el mínimo
 
-Los bancos ganan plata con las tarjetas de crédito cuando te endeudas. Los intereses son altísimos y las cartolas están hechas para confundirte. Si vas a sacar una tarjeta de crédito, no compres cosas sin tener plata para pagarlas (es decir, no la uses para comprar con crédito). Sólo úsala para aprovechar los beneficios.
+Los bancos ganan plata con las tarjetas de crédito cuando te endeudas. Los intereses son altísimos y las cartolas suelen ser difíciles de entender. 
 
-Este es un ejemplo de la cartola de mi tarjeta de crédito. Es difícil de entender y más difícil aún de explicar (acá [un ejemplo](https://ww3.bancochile.cl/wps/wcm/connect/nuestro-banco/portal/chile-abierto/productos/cartolas-claras/cartola-tarjeta-de-credito) del Banco de Chile intentando explicarla). Además, las tasas de interés son grandes y no reflejan el costo total del crédito (para ver el costo total hay que mirar el CAE, que incorpora otros gastos relacionados como comisiones, impuestos, multas y es mucho mayor a la tasa de interés mensual anualizada.
+**Si vas a sacar una tarjeta de crédito, no compres cosas sin tener plata para pagarlas** (es decir, no compres con crédito). Sólo úsala para aprovechar los beneficios.
 
-Lo importante:
-Si no pagas el total de tu tarjeta generarás interés rotativo.
-Si pagas en cuotas generarás interés por pago en cuotas. *
-Si sacas plata del cajero, generarás intereses por avance en efectivo.
+foto
 
-* A veces hay promociones de cuotas sin interés, pero de todas maneras generan cobros por comisiones e impuestos. Revisa el CAE de la promoción para ver el costo real.
+Este es un ejemplo de la cartola de mi tarjeta de crédito. Es difícil de entender y aún más difícil de explicar. Además, las tasas de interés son grandes y no reflejan el costo total del crédito. Para ver el costo total hay que mirar el CAE, que incorpora otros gastos relacionados como comisiones, impuestos, multas y es mucho mayor a la tasa de interés mensual anualizada.
 
-Tener un cupo bajo te ayuda a alcanzar más beneficios
+Lo importante: 
+
+* Si no pagas el total de tu tarjeta generarás interés rotativo (explicar). 
+* Si pagas en cuotas generarás interés por pago en cuotas. 
+* Si sacas plata del cajero, generarás intereses por avance en efectivo.
+
+Además, pagar el total es un buen ejercicio: si te cuesta pagarlo quizás estás gastando demasiado.
+
+**Ojo con las promociones de cuotas sin interés**. Pueden tener cobros por comisiones e impuestos. Revisa el CAE de la promoción para ver el costo real.
+
+#### Tener un cupo bajo te ayuda a alcanzar más beneficios
+
 Si bien, puede sonar como algo malo tener un cupo bajo, en realidad es bueno por dos razones. Primero, el tener un cupo bajo te va a ayudar a no endeudarse en montos altos si es que estás tentado de hacerlo. Y segundo, al tener cupos bajos vas a poder cumplir las metas de compra cuando estés trabajando que te entregarán beneficios extras más fácil. Si el problema es que gastas más que tu cupo, no importa, puedes prepagar la tarjeta para liberar cupo.
 
 Esto último es clave. Hoy mi tarjeta del Banco Santander conserva el cupo inicial, de $400.000. Ahora que estoy trabajando y recibo un sueldo, me han ofrecido subirlo, pero lo he rechazado. ¿Por qué? Porque con un cupo más bajo cumplo las metas de compra más fácil. Por ejemplo, el mes pasado, el Banco Santander lanzó una promoción, en donde te entregaban 10.000 millas LATAM extras si cumplías una meta de compra por 2 meses. Como mi cupo es de $400.000, mi meta de compra no podía superar ese monto. Gané 10.000 millas, lo que alcanza para un pasaje a cualquier parte de Chile. Completando 3 promociones de este tipo al año, estarías cerca de un pasaje a Estados Unidos.
