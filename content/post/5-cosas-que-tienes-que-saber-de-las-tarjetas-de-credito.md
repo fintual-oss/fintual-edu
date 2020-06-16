@@ -35,9 +35,19 @@ Además, pagar el total es un buen ejercicio: si te cuesta pagarlo quizás está
 
 #### Tener un cupo bajo te ayuda a alcanzar más beneficios
 
-Si bien, puede sonar como algo malo tener un cupo bajo, en realidad es bueno por dos razones. Primero, el tener un cupo bajo te va a ayudar a no endeudarse en montos altos si es que estás tentado de hacerlo. Y segundo, al tener cupos bajos vas a poder cumplir las metas de compra cuando estés trabajando que te entregarán beneficios extras más fácil. Si el problema es que gastas más que tu cupo, no importa, puedes prepagar la tarjeta para liberar cupo.
+Si bien tener un cupo bajo puede sonar poco atractivo, en realidad es una buena práctica. 
 
-Esto último es clave. Hoy mi tarjeta del Banco Santander conserva el cupo inicial, de $400.000. Ahora que estoy trabajando y recibo un sueldo, me han ofrecido subirlo, pero lo he rechazado. ¿Por qué? Porque con un cupo más bajo cumplo las metas de compra más fácil. Por ejemplo, el mes pasado, el Banco Santander lanzó una promoción, en donde te entregaban 10.000 millas LATAM extras si cumplías una meta de compra por 2 meses. Como mi cupo es de $400.000, mi meta de compra no podía superar ese monto. Gané 10.000 millas, lo que alcanza para un pasaje a cualquier parte de Chile. Completando 3 promociones de este tipo al año, estarías cerca de un pasaje a Estados Unidos.
+Primero, **tener un cupo bajo te va a ayudar a no endeudarte en montos altos** si es que estás tentado a hacerlo. 
+
+Y segundo, **al tener un cupo bajo vas a poder cumplir las metas de compra que te entregarán beneficios extras más fácil**. No importa si gastas más que tu cupo, puedes prepagar la tarjeta para liberar cupo.
+
+Esto último es clave. Hoy mi tarjeta del Banco Santander conserva el cupo inicial de $400.000 que me dieron cuando estaba en la universidad. 
+
+Ahora que estoy trabajando y recibo un sueldo me han ofrecido subir ese cupo varias veces, pero lo he rechazado. ¿Por qué? Porque con un cupo más bajo cumplo las metas de compra más fácil. 
+
+Por ejemplo, el mes pasado, el Banco Santander lanzó una promoción, en donde te entregaban 10.000 millas LATAM extras si cumplías una meta de compra por 2 meses. 
+
+Como mi cupo es de $400.000, mi meta de compra no podía superar ese monto. Gané 10.000 millas, lo que alcanza para un pasaje a cualquier parte de Chile. Completando 3 promociones de este tipo al año estarías cerca de un pasaje a Estados Unidos.
 
 Si vas a viajar, compra tus pasajes con tu tarjeta de crédito
 Una vez estaba en un crucero y me intoxiqué. Como estaba navegando y me sentía muy mal, la única alternativa que tenía era ir a la enfermería del barco. La consulta de 15 minutos me salió 300 dólares. Sí, 300 dólares, como 240 lucas. Salí de la consulta peor que cuando entré.
