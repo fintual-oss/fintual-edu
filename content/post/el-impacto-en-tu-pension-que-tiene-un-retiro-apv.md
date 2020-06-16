@@ -2,9 +2,8 @@
 aliases = []
 author = "Omar Larré"
 categories = ["educación financiera"]
-date = 2020-06-16T01:45:24Z
+date = 2019-01-01T00:45:24Z
 description = "El interés compuesto hace que un retiro "
-draft = true
 hide = false
 image = ""
 title = "El impacto en tu pensión que tiene un retiro APV"
