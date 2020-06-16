@@ -45,11 +45,12 @@ Esto último es clave. Hoy mi tarjeta del Banco Santander conserva el cupo inici
 
 Ahora que estoy trabajando y recibo un sueldo me han ofrecido subir ese cupo varias veces, pero lo he rechazado. ¿Por qué? Porque con un cupo más bajo cumplo las metas de compra más fácil. 
 
-Por ejemplo, el mes pasado, el Banco Santander lanzó una promoción, en donde te entregaban 10.000 millas LATAM extras si cumplías una meta de compra por 2 meses. 
+Por ejemplo, el mes pasado el Banco Santander lanzó una promoción en la que te daban 10.000 millas LATAM extras si cumplías una meta de compra por 2 meses. 
 
-Como mi cupo es de $400.000, mi meta de compra no podía superar ese monto. Gané 10.000 millas, lo que alcanza para un pasaje a cualquier parte de Chile. Completando 3 promociones de este tipo al año estarías cerca de un pasaje a Estados Unidos.
+Como mi cupo es de $400.000, mi meta de compra no podía superar ese monto. Gané 10.000 millas, que alcanzan para un pasaje a cualquier parte de Chile. Completando 3 promociones de este tipo al año estarías cerca de un pasaje a Estados Unidos.
 
-Si vas a viajar, compra tus pasajes con tu tarjeta de crédito
+#### Si vas a viajar, compra tus pasajes con tu tarjeta de crédito
+
 Una vez estaba en un crucero y me intoxiqué. Como estaba navegando y me sentía muy mal, la única alternativa que tenía era ir a la enfermería del barco. La consulta de 15 minutos me salió 300 dólares. Sí, 300 dólares, como 240 lucas. Salí de la consulta peor que cuando entré.
 
 Cuando llegué a Chile, intenté probar el seguro de mi tarjeta de crédito. Cuando viajo siempre pago los pasajes con tarjeta de crédito. Gracias a eso, es que puedo usar beneficios como el seguro médico, sin costo. Así que llené la solicitud y en 2 semanas me mandaron un cheque cubriendo todos los gastos. Espectacular!
