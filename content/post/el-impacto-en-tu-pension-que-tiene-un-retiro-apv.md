@@ -15,7 +15,7 @@ Hicimos un pequeño estudio usando como ejemplo a nuestro usuario promedio. Tien
 
 Vicente va a jubilar a los 65. Le quedan 31 años para que su inversión genere rentabilidad. O sea, tiene 31 años para aprovechar el efecto del _interés compuesto_, ese interés que permite que las inversiones crezcan exponencialmente en el tiempo.
 
-Pero ahora Vicente quiere sacar $1.000.000 de su APV. 
+Pero ahora Vicente quiere sacar $1.000.000 de su APV.
 
 Lo entendemos perfectamente.
 
@@ -29,8 +29,7 @@ Como se trata de una inversión de más de 5 años, Vicente debería tener su AP
 
 **Si Vicente hiciera un retiro por $1.000.000 de su APV ahora, tendría $30.996.000 menos cuando se jubile.**
 
-  
-![https://lh5.googleusercontent.com/IshXhK8Si1FnZ8lYtB0aD0o4SfT0BJpCy-vXPpCLafyH2ktQAE-dNqVKSriAraEdV6Exb42Y1-LdBJfatEksCXro7NcdZaZcvEskeu_0S8QkubeJvtqCY0AXMO2sIukbWJ34S7Rz](https://lh5.googleusercontent.com/IshXhK8Si1FnZ8lYtB0aD0o4SfT0BJpCy-vXPpCLafyH2ktQAE-dNqVKSriAraEdV6Exb42Y1-LdBJfatEksCXro7NcdZaZcvEskeu_0S8QkubeJvtqCY0AXMO2sIukbWJ34S7Rz)
+foto simulador nuevo
 
 Para este ejercicio incorporamos la inflación esperada en el cálculo, así que son efectivamente los mismos 124.000 Súper8 que puede comprar con $30,9 millones hoy.
 
@@ -40,7 +39,7 @@ Además, para estos supuestos consideramos el aporte de 15% que tiene el APV ré
 
 Haciendo este mismo ejercicio en una cartera moderada, ese retiro significaría tener $9.542.000 menos en la jubilación de Vicente.
 
-![https://lh4.googleusercontent.com/pSzBhZWRj-IqmjMbuHIQ5uesYMJrf_ZfE29t3p9npIjcrKmY70WoQBPqtV35ktCX3xjsDj5zjJxb4LML1oOIxMIuRkw4EyJLnrxlqMLwyIvLP8PW9HIPHCYQNIGYJNXPirrVTkFT](https://lh4.googleusercontent.com/pSzBhZWRj-IqmjMbuHIQ5uesYMJrf_ZfE29t3p9npIjcrKmY70WoQBPqtV35ktCX3xjsDj5zjJxb4LML1oOIxMIuRkw4EyJLnrxlqMLwyIvLP8PW9HIPHCYQNIGYJNXPirrVTkFT)
+foto simulador nuevo
 
 Pero también hay buenas noticias.
 
@@ -50,7 +49,7 @@ Al hacer un retiro APV en el régimen B se retiene un 15%.
 
 > Si invertiste en APV B y hoy tienes menos ingresos, ya sea porque tu sueldo bajó o porque actualmente no tienes ingresos, esa retención del 15% que se va al SII sirve para pagar impuestos.
 
-Los impuestos por retiro de un APV régimen B buscan que el retiro se sume a tu base imponible del año. 
+Los impuestos por retiro de un APV régimen B buscan que el retiro se sume a tu base imponible del año.
 
 Como esa base imponible es baja (o mínima) en estos casos, terminas pagando menos impuestos que los que te ahorraste en el pasado al hacer la inversión en APV régimen B. Incluso se podría generar una devolución desde el SII.
 
@@ -62,9 +61,3 @@ card_button="Empezar" %}}
 Más inteligente que dejar tu plata en el banco.
 
 {{% /prueba_fintual %}}
-
-Respaldo números simulaciones:
-
-![](https://lh4.googleusercontent.com/pSzBhZWRj-IqmjMbuHIQ5uesYMJrf_ZfE29t3p9npIjcrKmY70WoQBPqtV35ktCX3xjsDj5zjJxb4LML1oOIxMIuRkw4EyJLnrxlqMLwyIvLP8PW9HIPHCYQNIGYJNXPirrVTkFT =452x225)
-
-![](https://lh5.googleusercontent.com/IshXhK8Si1FnZ8lYtB0aD0o4SfT0BJpCy-vXPpCLafyH2ktQAE-dNqVKSriAraEdV6Exb42Y1-LdBJfatEksCXro7NcdZaZcvEskeu_0S8QkubeJvtqCY0AXMO2sIukbWJ34S7Rz =465x228)
