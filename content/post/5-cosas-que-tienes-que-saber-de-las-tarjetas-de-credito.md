@@ -13,7 +13,7 @@ url = "/cosas-que-tienes-que-saber-de-las-tarjetas-de-credito"
 +++
 Las tarjetas de crédito pueden ser un gran aliado o un dolor de cabeza. Aprende cómo ganarle al sistema sacándole provecho a los beneficios que tienen las tarjetas de crédito.
 
-#### No uses la tarjeta para endeudarte y **siempre** paga el total, no el mínimo
+#### No uses la tarjeta para endeudarte y paga siempre el total, no el mínimo
 
 Los bancos ganan plata con las tarjetas de crédito cuando te endeudas. Los intereses son altísimos y las cartolas suelen ser difíciles de entender. 
 
