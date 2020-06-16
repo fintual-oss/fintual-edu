@@ -33,6 +33,10 @@ Además, pagar el total es un buen ejercicio: si te cuesta pagarlo quizás está
 
 **Ojo con las promociones de cuotas sin interés**. Pueden tener cobros por comisiones e impuestos. Revisa el CAE de la promoción para ver el costo real.
 
+#### Paga todo lo que puedas con tu tarjeta 
+
+Las tarjetas de crédito, además de los beneficios de su sello (Mastercard o Visa), usualmente están asociadas a un programa de recompensas manejado por el Banco. Millas LATAM en el Santander, Dólares Premio en el Banco de Chile o Puntos CMR son algunos ejemplos. Pagar tus compras con tarjeta no tiene un costo adicional para ti (si eres ordenado con los pagos), ya que el costo lo asume el comercio. Por cada compra acumularás puntos y, si eres paciente, los vas a poder canjear por buenos productos. Si eres constante te puede alcanzar perfectamente para un pasaje a Estados Unidos o Europa al año.
+
 #### Tener un cupo bajo te ayuda a alcanzar más beneficios
 
 Si bien tener un cupo bajo puede sonar poco atractivo, en realidad es una buena práctica. 
@@ -55,15 +59,16 @@ Una vez estaba en un crucero y me intoxiqué. Como estaba navegando y me sentía
 
 gif
 
-Cuando llegué a Chile, intenté probar el seguro de mi tarjeta de crédito. Cuando viajo siempre pago los pasajes con tarjeta de crédito. Gracias a eso, es que puedo usar beneficios como el seguro médico, sin costo. Así que llené la solicitud y en 2 semanas me mandaron un cheque cubriendo todos los gastos. Espectacular!
+Cuando llegué a Chile intenté probar el seguro de mi tarjeta de crédito. Cuando compras los pasajes con tarjeta de crédito puedes usar beneficios como el seguro médico sin costo. 
 
-Otro seguro que siempre uso es el de arriendo del auto. Cuando arriendas un auto, en general no deberías arriesgarte a manejar sin seguro. Imagínate tienes un accidente en un país que no conoces, sería terrible. Si contratas el seguro con la compañía en la que arriendas, puedes pagar hasta un 50% en seguros según mi experiencia. La técnica es declinar e informar que tienes un seguro con tu tarjeta de crédito, que es sin costo para tí siempre que pagues los pasajes y el arriendo con la tarjeta.
+Llené la solicitud y en 2 semanas me mandaron un cheque cubriendo todos los gastos. Espectacular!
 
-Disclaimer: revisa con tu banco los seguros asociados a tu tarjeta y qué cupos tienes, para que no te lleves sorpresas si sigues estos consejos.
+Otro seguro que siempre uso es el de arriendo del auto. Cuando arriendas un auto, en general no deberías arriesgarte a manejar sin seguro. [Yo en general no tengo muy buena suerte con los autos](https://edu.fintual.cl/auto-o-uber/).
 
-Paga todo lo que puedas con tu tarjeta
-Las tarjetas de crédito, además de los beneficios de su sello (Mastercard o Visa), usualmente están asociadas a un programa de recompensas manejado por el Banco. Millas LATAM en el Santander, Dólares Premio en el Banco de Chile o Puntos CMR son algunos ejemplos.
-Pagar tus compras con tarjeta no tiene un costo adicional para ti (si eres ordenado con los pagos), ya que el costo lo asume el comercio. Por cada compra acumularás puntos y, si eres paciente, los vas a poder canjear por buenos productos. Si eres constante te puede alcanzar perfectamente para un pasaje a Estados Unidos o Europa al año.
+El rent a car te va a ofrecer un seguro. La técnica es declinar, porque ya tienes un seguro con tu tarjeta de crédito. Y es sin costo para ti siempre que pagues los pasajes y el arriendo con la tarjeta.
 
-Si te ofrecen una tarjeta en la universidad, tómala
+_Disclaimer: revisa con tu banco los seguros asociados a tu tarjeta y qué cupos tienes, para que no te lleves sorpresas si sigues estos consejos._
+
+#### Si te ofrecen una tarjeta en la universidad, tómala
+
 En la Universidad abrí cuenta en el Banco Santander, Banco de Chile y Banco BICE y me entregaron tarjetas de color negro, es decir, la con más beneficios, ¡y sin tener sueldo aún!. Abrir cuentas en la Universidad es una buena oportunidad para obtener estas tarjetas sin contar con un sueldo y sin pagar mantención. Si la quieres sacar al momento de trabajar, para optar por una tarjeta negra te pueden pedir un sueldo cercano a 2 millones líquidos y pagar comisiones mensuales.
