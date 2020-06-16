@@ -29,7 +29,7 @@ Como se trata de una inversión de más de 5 años, Vicente debería tener su AP
 
 **Si Vicente hiciera un retiro por $1.000.000 de su APV ahora, tendría $30.996.000 menos cuando se jubile.**
 
-foto simulador nuevo
+![](/uploads/2020-06-16/apv-muy-arriesgado.png)
 
 Para este ejercicio incorporamos la inflación esperada en el cálculo, así que son efectivamente los mismos 124.000 Súper8 que puede comprar con $30,9 millones hoy.
 
@@ -39,7 +39,7 @@ Además, para estos supuestos consideramos el aporte de 15% que tiene el APV ré
 
 Haciendo este mismo ejercicio en una cartera moderada, ese retiro significaría tener $9.542.000 menos en la jubilación de Vicente.
 
-foto simulador nuevo
+![](/uploads/2020-06-16/apv-moderado.png)
 
 Pero también hay buenas noticias.
 
