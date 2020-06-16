@@ -35,7 +35,13 @@ Además, pagar el total es un buen ejercicio: si te cuesta pagarlo quizás está
 
 #### Paga todo lo que puedas con tu tarjeta 
 
-Las tarjetas de crédito, además de los beneficios de su sello (Mastercard o Visa), usualmente están asociadas a un programa de recompensas manejado por el Banco. Millas LATAM en el Santander, Dólares Premio en el Banco de Chile o Puntos CMR son algunos ejemplos. Pagar tus compras con tarjeta no tiene un costo adicional para ti (si eres ordenado con los pagos), ya que el costo lo asume el comercio. Por cada compra acumularás puntos y, si eres paciente, los vas a poder canjear por buenos productos. Si eres constante te puede alcanzar perfectamente para un pasaje a Estados Unidos o Europa al año.
+Las tarjetas de crédito, además de los beneficios de su sello (Mastercard o Visa), usualmente están asociadas a un programa de recompensas manejado por el banco. 
+
+Millas LATAM en el Santander, Dólares Premio en el Banco de Chile o Puntos CMR son algunos ejemplos. 
+
+Pagar tus compras con tarjeta no tiene un costo adicional para ti (si eres ordenado con los pagos), ya que el costo lo asume el comercio. Por cada compra acumularás puntos y, si eres paciente, los vas a poder canjear por buenos productos. 
+
+Si eres constante te puede alcanzar perfectamente para un pasaje a Estados Unidos o Europa al año.
 
 #### Tener un cupo bajo te ayuda a alcanzar más beneficios
 
@@ -71,4 +77,8 @@ _Disclaimer: revisa con tu banco los seguros asociados a tu tarjeta y qué cupos
 
 #### Si te ofrecen una tarjeta en la universidad, tómala
 
-En la Universidad abrí cuenta en el Banco Santander, Banco de Chile y Banco BICE y me entregaron tarjetas de color negro, es decir, la con más beneficios, ¡y sin tener sueldo aún!. Abrir cuentas en la Universidad es una buena oportunidad para obtener estas tarjetas sin contar con un sueldo y sin pagar mantención. Si la quieres sacar al momento de trabajar, para optar por una tarjeta negra te pueden pedir un sueldo cercano a 2 millones líquidos y pagar comisiones mensuales.
+En la universidad abrí cuenta en el Banco Santander, Banco de Chile y Banco BICE. Me dieron tarjetas de color negro, la con más beneficios, y sin estar trabajando! 
+
+Abrir cuentas en la universidad es una buena oportunidad para obtener estas tarjetas sin contar con un sueldo y sin pagar mantención. 
+
+Si la quieres sacar al momento de trabajar, para optar por una tarjeta negra te pueden pedir un sueldo cercano a 2 millones líquidos y pagar comisiones mensuales.
