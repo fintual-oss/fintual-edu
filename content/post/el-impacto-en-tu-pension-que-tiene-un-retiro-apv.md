@@ -1,6 +1,6 @@
 +++
 aliases = []
-author = "Francesca Finaldi"
+author = "Omar Larré"
 categories = ["educación financiera"]
 date = 2020-06-16T01:45:24Z
 description = "El interés compuesto hace que un retiro "
@@ -33,7 +33,7 @@ Como se trata de una inversión de más de 5 años, Vicente debería tener su AP
 
 Para este ejercicio incorporamos la inflación esperada en el cálculo, así que son efectivamente los mismos 124.000 Súper8 que puede comprar con $30,9 millones hoy.
 
-Gif, ilustración o súper8
+<div style="text-align:center"> <figure> <img src="/uploads/2020-06-16/super8.gif"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Imagínate 124.000 de estos</i></figcaption> </figure> </div>
 
 Además, para estos supuestos consideramos el aporte de 15% que tiene el APV régimen A.
 
