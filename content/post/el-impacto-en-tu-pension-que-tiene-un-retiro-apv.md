@@ -55,11 +55,11 @@ Los impuestos por retiro de un APV régimen B buscan que el retiro se sume a tu 
 Como esa base imponible es baja (o mínima) en estos casos, terminas pagando menos impuestos que los que te ahorraste en el pasado al hacer la inversión en APV régimen B. Incluso se podría generar una devolución desde el SII.
 
 {{% prueba_fintual
-utmcontent="write_here_the_utm_tag"
+utmcontent="impacto_retiro_apv"
 card_title="Prueba Fintual"
 card_button="Empezar" %}}
 
-Más inteligente que dejar su plata en el banco.
+Más inteligente que dejar tu plata en el banco.
 
 {{% /prueba_fintual %}}
 
