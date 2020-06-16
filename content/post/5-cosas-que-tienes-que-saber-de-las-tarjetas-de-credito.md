@@ -23,7 +23,7 @@ foto
 
 Este es un ejemplo de la cartola de mi tarjeta de crédito. Es difícil de entender y aún más difícil de explicar. Además, las tasas de interés son grandes y no reflejan el costo total del crédito.
 
-Para ver el costo total hay que mirar el CAE (explicar?), que incorpora otros gastos relacionados como comisiones, impuestos, multas y es mucho mayor a la tasa de interés mensual anualizada.
+Para ver el costo total hay que mirar el CAE o Carga Anual Equivalente, que proyecta el crédito a un año e incorpora otros gastos relacionados como comisiones, impuestos, multas. Si te fijas, es mucho mayor a la tasa de interés mensual anualizada.
 
 Lo importante:
 
