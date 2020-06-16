@@ -2,9 +2,8 @@
 aliases = []
 author = "Matías Hurtado"
 categories = ["educación financiera"]
-date = 2020-06-15T20:36:40Z
+date = 2018-12-30T19:36:40Z
 description = "Aprende cómo ganarle al sistema sacándole provecho a los beneficios que tienen las tarjetas de crédito. "
-draft = true
 hide = false
 image = ""
 title = "5 cosas que tienes que saber de las tarjetas de crédito"
