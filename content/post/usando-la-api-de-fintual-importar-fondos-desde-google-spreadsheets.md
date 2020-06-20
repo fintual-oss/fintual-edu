@@ -19,8 +19,26 @@ La gracia de esto es que es fácil y vas a poder hacerlo incluso si no sabes pro
 
 ![](/uploads/2020-06-18/tutorial1.png)
 
-2. Antes de poder consumir la API tienes que solicitar tu token de usuario. Para esto tienes que ir a **Herramientas>Editor de Secuencia de Comandos.**
+2. Antes de poder consumir la API tienes que solicitar tu token de usuario. Para esto tienes que ir a **Herramientas → Editor de Secuencia de Comandos.  
+   ![](/uploads/2020-06-18/tutorial2.png)**
+3. Le pones un nombre al nuevo proyecto y copias este código remplazando el mail y contraseña tu usuario en Fintual:
 
+       function GetToken() {  
+         var url = "https://fintual.cl/api/access_tokens";
+         var data = {
+           "user": {
+             "email": "MAILREGISTRADOENFINTUAL",
+             "password": "CLAVEDEUSUARIO"
+           }
+         }
+         var options = {
+           'method' : 'post',
+           'contentType': 'application/json',
+           // Convert the JavaScript object to a JSON string.
+           'payload' : JSON.stringify(data)
+         }
+         var response = UrlFetchApp.fetch(url, options);
+         Logger.log(response.getContentText());
+       }
 
-1. ![](/uploads/2020-06-18/tutorial2.png)
-2. 
+   Debería verse así:
