@@ -15,20 +15,18 @@ Un cliente de Fintual, Tomás Campos, usa harto la API de Fintual y se motivó a
 
 La gracia de esto es que es fácil y vas a poder hacerlo incluso si no sabes programar :)
 
-1. Crea un nuevo libro en Google Spreadsheets
-
-![](/uploads/2020-06-18/tutorial1.png)
-
+1. Crea un nuevo libro en Google Spreadsheets. Hack: entra a tu cuenta Gmail, escribe **sheets.new** en el navegador y dale enter.  
+   ![](/uploads/2020-06-20/tutorials1.png)
 2. Antes de poder consumir la API tienes que solicitar tu token de usuario. Para esto tienes que ir a **Herramientas → Editor de Secuencia de Comandos.  
-   ![](/uploads/2020-06-18/tutorial2.png)**
+   ![](/uploads/2020-06-20/tutorials2.png)**
 3. Le pones un nombre al nuevo proyecto y copias este código remplazando el mail y contraseña tu usuario en Fintual:
 
        function GetToken() {  
          var url = "https://fintual.cl/api/access_tokens";
          var data = {
            "user": {
-             "email": "MAILREGISTRADOENFINTUAL",
-             "password": "CLAVEDEUSUARIO"
+             "email": "MailQueUsasEnFintual",
+             "password": "TuContraseñaMuySegura"
            }
          }
          var options = {
@@ -42,7 +40,10 @@ La gracia de esto es que es fácil y vas a poder hacerlo incluso si no sabes pro
        }
 
    Debería verse así:  
-   ![](/uploads/2020-06-20/tutorial3.png)
+   ![](/uploads/2020-06-20/tutorials3.png)  
+   4\.Haz clic en ► y te va a pedir los permisos necesarios para correr el código desde tu cuenta en Gmail. Si te sale un mensaje de alerta tienes que hacer clic en **Configuración Avanzada** y luego ir al **NombredeTuProyecto**
 
-   4\. Le das play ► y te va a pedir los permisos necesarios para correr el código desde tu cuenta en Gmail. Si te sale este mensaje tienes que hacer clic en **Configuración Avanzada** y luego ir al **NombredeTuProyecto  
-   ![](/uploads/2020-06-20/tutorial4.png)**
+   5\. Dale al botón ► de nuevo. Una vez ejecutado vas a **Ver → Registros** y vas a ver una ventana como esta con tu token:   
+     
+   Selecciona lo que está entre comillas.
+   6. 
