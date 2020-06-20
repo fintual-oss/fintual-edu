@@ -40,10 +40,35 @@ La gracia de esto es que es fácil y vas a poder hacerlo incluso si no sabes pro
        }
 
    Debería verse así:  
-   ![](/uploads/2020-06-20/tutorials3.png)  
-   
+   ![](/uploads/2020-06-20/tutorials3.png)
 4. Haz clic en ► y te va a pedir los permisos necesarios para correr el código desde tu cuenta en Gmail. Si te sale un mensaje de alerta tienes que hacer clic en **Configuración Avanzada** y luego ir al **NombredeTuProyecto**
 5. Dale al botón ► de nuevo. Una vez ejecutado vas a **Ver → Registros** y vas a ver una ventana como esta con tu token:
 
-Selecciona lo que está entre comillas.
-6\.
+![](/uploads/2020-06-20/tutorials4.png)  
+Selecciona lo que está entre comillas.  
+ 6. Una vez que tengas el token, vas a la función GetToken() y pegas este código, reemplazando el token y tu mail:
+
+    function GetFintualFunds() {  
+      var url = "https://fintual.cl/api/goals?user_token=PEGARTOKEN&user_email=REMPLAZARCONMAIL";
+      var response = UrlFetchApp.fetch(url);
+      var json = JSON.parse(response);
+      var date = new Date();
+      var ss = SpreadsheetApp.getActive().getSheetByName('FondosFintual');
+      
+      var oldTotal= ss.getRange('H2').getValue();
+      var newTotal = 0;
+      
+      for (var i in json.data) {
+        newTotal= newTotal + json.data[i].attributes['nav']
+      }
+    
+      if (newTotal!=oldTotal){
+        ss.insertRowBefore(2)
+        ss.getRange('3:3').copyTo(ss.getRange('2:2'))
+        ss.getRange('A2').setValue(date)
+        
+        for (var i in json.data) {
+          ss.getRange('B2:G2').getCell(1,Number(i)+1).setValue(json.data[i].attributes['nav'])
+        }
+      }
+    }
