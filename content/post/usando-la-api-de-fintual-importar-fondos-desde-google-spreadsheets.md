@@ -41,4 +41,8 @@ La gracia de esto es que es fácil y vas a poder hacerlo incluso si no sabes pro
          Logger.log(response.getContentText());
        }
 
-   Debería verse así:
+   Debería verse así:  
+   ![](/uploads/2020-06-20/tutorial3.png)
+
+   4\. Le das play ► y te va a pedir los permisos necesarios para correr el código desde tu cuenta en Gmail. Si te sale este mensaje tienes que hacer clic en **Configuración Avanzada** y luego ir al **NombredeTuProyecto  
+   ![](/uploads/2020-06-20/tutorial4.png)**
