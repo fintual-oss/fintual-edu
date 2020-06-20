@@ -41,9 +41,9 @@ La gracia de esto es que es fácil y vas a poder hacerlo incluso si no sabes pro
 
    Debería verse así:  
    ![](/uploads/2020-06-20/tutorials3.png)  
-   4\.Haz clic en ► y te va a pedir los permisos necesarios para correr el código desde tu cuenta en Gmail. Si te sale un mensaje de alerta tienes que hacer clic en **Configuración Avanzada** y luego ir al **NombredeTuProyecto**
+   
+4. Haz clic en ► y te va a pedir los permisos necesarios para correr el código desde tu cuenta en Gmail. Si te sale un mensaje de alerta tienes que hacer clic en **Configuración Avanzada** y luego ir al **NombredeTuProyecto**
+5. Dale al botón ► de nuevo. Una vez ejecutado vas a **Ver → Registros** y vas a ver una ventana como esta con tu token:
 
-   5\. Dale al botón ► de nuevo. Una vez ejecutado vas a **Ver → Registros** y vas a ver una ventana como esta con tu token:   
-     
-   Selecciona lo que está entre comillas.
-   6. 
+Selecciona lo que está entre comillas.
+6\.
