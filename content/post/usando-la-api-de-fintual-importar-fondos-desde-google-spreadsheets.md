@@ -15,11 +15,12 @@ Un cliente de Fintual, Tomás Campos, usa harto la API de Fintual y se motivó a
 
 La gracia de esto es que es fácil y vas a poder hacerlo incluso si no sabes programar :)
 
-1. Crea un nuevo libro en Google Spreadsheets 
+1. Crea un nuevo libro en Google Spreadsheets
 
 ![](/uploads/2020-06-18/tutorial1.png)
 
-2. Antes de poder consumir la API, debemos solicitar nuestro token de usuario. Para esto entramos a **Herramientas>Editor de Secuencia de Comandos.**
+2. Antes de poder consumir la API tienes que solicitar tu token de usuario. Para esto tienes que ir a **Herramientas>Editor de Secuencia de Comandos.**
 
-   ![](/uploads/2020-06-18/tutorial2.png)
-3. 
+
+1. ![](/uploads/2020-06-18/tutorial2.png)
+2. 
