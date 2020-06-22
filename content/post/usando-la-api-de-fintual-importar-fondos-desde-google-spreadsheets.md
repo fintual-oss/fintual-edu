@@ -46,7 +46,8 @@ La gracia de esto es que es fácil y vas a poder hacerlo incluso si no sabes pro
 
 ![](/uploads/2020-06-20/tutorials4.png)  
 Selecciona lo que está entre comillas.  
- 6. Una vez que tengas el token, vas a la función GetToken() y pegas este código, reemplazando el token y tu mail:
+  
+6\. Una vez que tengas el token, vas a la función GetToken() y pegas este código, reemplazando el token y tu mail:
 
     function GetFintualFunds() {  
       var url = "https://fintual.cl/api/goals?user_token=PEGARTOKEN&user_email=REMPLAZARCONMAIL";
@@ -72,3 +73,14 @@ Selecciona lo que está entre comillas.
         }
       }
     }
+
+Deberías ver esto:  
+![](/uploads/2020-06-20/tutorials5.png)
+
+7. De vuelta en tu planilla, creas una columna para la fecha y una por cada objetivo que tengas. En mi caso tengo 7:
+
+   ![](/uploads/2020-06-20/tutorials6.png)
+8. De vuelta al código. Selecciona GetFintualFunds() y le pones play ►  
+   Te va a volver a pedir los permisos que antes.  
+   ![](/uploads/2020-06-20/tutorials7.png)
+9. Si todo salió bien, de vuelta en nuestro archivo tendremos el valor actual en pesos para cada uno de los fondos:
