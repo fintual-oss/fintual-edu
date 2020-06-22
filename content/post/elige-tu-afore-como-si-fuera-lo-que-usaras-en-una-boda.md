@@ -42,6 +42,8 @@ Los administradores de cartera toman riesgo, si funciona comparten el buen desem
 
 La regla de no usar rayas en traje, camisa y corbata es la misma para inversiones a largo plazo. Entre menos diversificación, el riesgo es mayor.
 
+<div style="text-align:center"> <figure> <img src="/uploads/giphy-17.gif"> </figure> </div>
+
 Revisa [acá](https://www.gob.mx/consar/articulos/indice-de-diversificacion-de-riesgo-relativo) los indicadores de cada Afore. Recuerda, un indicador de 1 es el de mayor diversificación y 10 el de menor.
 
 #### **Sobre evitar verte “señor(a)” y las Siefores generacionales**
