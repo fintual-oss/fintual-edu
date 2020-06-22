@@ -83,15 +83,15 @@ Después pienso en las **comisiones**, y al final el **rendimiento desagregado**
 
 Otro consejo importante, ¡evita cambiar de Afore! Al hacerlo interrumpes la maduración de las estrategias de inversión lo que te reduce el rendimiento y solo pagas más de comisión. Hazlo cuando estás seguro y después de hacer un análisis como éste.
 
-También puedes revisar este otro [artículo](https://www.gob.mx/consar/articulos/nueve-indicadores-comparativos-para-elegir-afore-181253?idiom=es), o registrarte a nuestra newsletter para recibir recomendaciones como esta.
+También puedes revisar este otro [artículo](https://www.gob.mx/consar/articulos/nueve-indicadores-comparativos-para-elegir-afore-181253?idiom=es).
 
 Tal vez nadie se acuerde de cuando te vestiste super señor en esa boda, y además te moriste de frío, pero seguro que tú, en 25 años, sí recordarás el haberte equivocarte en elegir tu Afore.
 
 {{% prueba_fintual
 utmcontent="elegir_tu_afore"
-card_title="Regístrate a nuestra newsletter"
-card_button="Empezar" %}}
+card_t_itle="Únete a Fintual"
+card_button="Aquí!" %}}
 
-Más inteligente que dejar su dinero en el banco.
+Regístrate a la lista de espera en México con solo un correo.
 
 {{% /prueba_fintual %}}
