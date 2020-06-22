@@ -4,7 +4,6 @@ author = "Victor Hugo Flores"
 categories = ["educación financiera"]
 date = 2020-06-18T23:21:29Z
 description = "Quizá le has dedicado más tiempo a elegir la corbata y los zapatos que a decidir cuál Afore te conviene. Aquí una lista de parámetros a tomar en cuenta."
-draft = true
 hide = false
 image = "/uploads/elegir-tu-afore.jpg"
 title = "Elige tu Afore como si fuera lo que usarás en una boda"
