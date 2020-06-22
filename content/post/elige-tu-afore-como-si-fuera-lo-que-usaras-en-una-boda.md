@@ -56,7 +56,7 @@ El resultado de tu análisis del rendimiento y de las comisiones ahora puede var
 
 ¡Respira! Para esos casos hay que agregar un indicador: el rendimiento desagrado de las Afores.
 
-<div style="text-align:center"> <figure> <img src="//uploads/giphy-7.gif"> </figure> </div>
+<div style="text-align:center"> <figure> <img src="/uploads/giphy-7.gif"> </figure> </div>
 
 ¿Khá? Es el tipo de activo que genera una mayor ganancia a cada Afore. Entre más conservador eres o más cerca de retirarte estás, seleccionaría una Afore que se desempeñe mejor en un instrumento llamado Udibonos.
 
