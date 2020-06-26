@@ -10,12 +10,12 @@ title = "Nos vemos el martes a las 18:00"
 url = "/registered-for-fintual-live/"
 
 +++
-#### Ya tienes tu cupo reservado en el evento de Fintual!
+#### Ya tienes tu cupo reservado en el evento de Fintual
 
-![](/uploads/2020-06-08/cafe-michelle-nomas-min.png)
+![](/uploads/2020-06-08/cafe-michelle-nomas-min.png =300x)
 
 #### Cuando se acerque el momento te mandaremos un email con los datos para entrar.
 
 #### Si usas Google Calendar puedes anotarlo en tu calendario haciendo [clic aquí](https://fintual.cl/live-schedule).
 
-#### 
+####
