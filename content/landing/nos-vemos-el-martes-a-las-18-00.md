@@ -12,7 +12,7 @@ url = "/registered-for-fintual-live/"
 +++
 #### Ya tienes tu cupo reservado en el evento de Fintual
 
-![](/uploads/2020-06-08/cafe-michelle-nomas-min.png =300x)
+![](/uploads/2020-06-08/cafe-michelle-nomas-min.png)
 
 #### Cuando se acerque el momento te mandaremos un email con los datos para entrar.
 
