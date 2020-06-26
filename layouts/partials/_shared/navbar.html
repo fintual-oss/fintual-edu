@@ -13,29 +13,37 @@
         </a>
         <!-- End Logo -->
 
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMediumish" aria-controls="navbarSupportedContent"
-            aria-expanded="false" aria-label="Toggle navigation">
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMediumish" aria-controls="navbarSupportedContent"
-            aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggle__icon-bar navbar-toggle__icon-bar--first"></span>
-            <span class="navbar-toggle__icon-bar navbar-toggle__icon-bar--second"></span>
-            <span class="navbar-toggle__icon-bar navbar-toggle__icon-bar--third"></span>  
-            
-        </button>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMediumish"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMediumish"
+                aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggle__icon-bar navbar-toggle__icon-bar--first"></span>
+                <span class="navbar-toggle__icon-bar navbar-toggle__icon-bar--second"></span>
+                <span class="navbar-toggle__icon-bar navbar-toggle__icon-bar--third"></span>
+
+            </button>
         </button>
 
         <!-- Begin Menu -->
         <div class="collapse navbar-collapse" id="navbarMediumish">
             {{ $currentPage := . }}
             <ul class="navbar-nav ml-auto">
-              {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
+                {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
                 <li class="nav-item">
-                    <a class="nav-link" href="{{ "/categories/" | relLangURL }}{{ $name | urlize }}">{{ replace $name "-" " " }}</a>
+                    <a class="nav-link"
+                        href="{{ "/categories/" | relLangURL }}{{ $name | urlize }}">{{ replace $name "-" " " }}</a>
                 </li>
-              {{ end }}
-              <li class="nav-item nav-item--return">
-                  <a class="nav-link nav-link--return ftl-btn" href="https://fintual.cl">Ir a fintual</a>
-              </li>
+                {{ end }}
+                <li class="nav-item nav-item--discovery">
+                    <a class="nav-link" href="//discovery.fintual.cl">
+                        {{ partial "discovery-planets.html" . }}
+                        <span>Pruébalo</span>
+                        Discovery
+                    </a>
+                </li>
+                <li class="nav-item nav-item--return">
+                    <a class="nav-link nav-link--return ftl-btn" href="https://fintual.cl">Ir a fintual</a>
+                </li>
             </ul>
         </div>
         <!-- End Menu -->
