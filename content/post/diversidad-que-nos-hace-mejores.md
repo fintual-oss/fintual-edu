@@ -3,7 +3,7 @@ aliases = []
 author = "Pedro Pineda"
 categories = ["noticias"]
 date = 2020-06-28T15:05:26Z
-description = ""
+description = "Pride 2020: diversidad en Fintual."
 draft = true
 hide = false
 image = ""
@@ -21,8 +21,7 @@ En el caso de la población LGBTQ+, muchas personas [trans](https://otdchile.org
 
 De hecho, el 2019 fue el año más violento. Según el Movilh, las denuncias por homofobia y transfobia aumentaron un 58%. La categoría que más aumentó sus denuncias fue la laboral, [con un alza de 157,1%](http://www.movilh.cl/documentacion/2019/Informe-Anual-DDHH-2018-Movilh.pdf).
 
-####   
-Diversidad = win win
+#### Diversidad = win win
 
 Lograr un ambiente laboral amigable para las minorías tiene beneficios que van más allá de una justicia social necesaria en términos de derechos humanos.
 
