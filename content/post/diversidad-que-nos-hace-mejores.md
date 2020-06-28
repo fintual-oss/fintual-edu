@@ -1,6 +1,6 @@
 +++
 aliases = []
-author = "Pedro Pineda"
+author = "Nicole Soto-Aguilar"
 categories = ["noticias"]
 date = 2020-06-28T15:05:26Z
 description = "Pride 2020: diversidad en Fintual."
