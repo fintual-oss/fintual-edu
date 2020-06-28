@@ -4,7 +4,6 @@ author = "Nicole Soto-Aguilar"
 categories = ["noticias"]
 date = 2020-06-28T15:05:26Z
 description = "Pride 2020: diversidad en Fintual."
-draft = true
 hide = false
 image = "/uploads/2020-06-28/blog-1.png"
 title = "Diversidad que nos hace mejores"
@@ -17,9 +16,9 @@ En el ámbito laboral hay harto que hacer.
 
 Históricamente, la industria tecnológica a nivel mundial ha estado predominada por hombres heterosexuales. En Estados Unidos, la participación femenina en empresas de tecnología es de 20%, mientras que [en Chile alcanza apenas un 5%](https://www.latercera.com/tendencias/noticia/columna-genero-donde-estan-las-mujeres-computacion-tecnologia/289304/).
 
-En el caso de la población LGBTQ+, muchas personas [trans](https://otdchile.org/situacion-de-las-personas-trans-en-chile/), gay o lesbianas pasan por experiencias de discriminación y acoso que se traducen en despidos o en abandono por parte de los mismos trabajadores y, por consecuencia, en la precarización de este sector. 
+En el caso de la población LGBTQ+, muchas personas [trans](https://otdchile.org/situacion-de-las-personas-trans-en-chile/), gay o lesbianas pasan por experiencias de discriminación y acoso que se traducen en despidos o en abandono por parte de los mismos trabajadores y, por consecuencia, en la precarización de este sector.
 
-El año 2019 fue el año con más denuncias. Según el Movilh, las denuncias por homofobia y transfobia aumentaron un 58%. La categoría que más aumentó sus denuncias fue la laboral, [con un alza de 157,1%](http://www.movilh.cl/documentacion/2019/Informe-Anual-DDHH-2018-Movilh.pdf) 
+El año 2019 fue el año con más denuncias. Según el Movilh, las denuncias por homofobia y transfobia aumentaron un 58%. La categoría que más aumentó sus denuncias fue la laboral, [con un alza de 157,1%](http://www.movilh.cl/documentacion/2019/Informe-Anual-DDHH-2018-Movilh.pdf)
 
 #### Diversidad = win win
 
@@ -41,7 +40,8 @@ Las personas que son diferentes entre sí en raza, género y otras dimensiones a
 
 #### Emparejando la cancha
 
-![](/uploads/2020-06-28/rainbow.gif)
+<div style="text-align:center"> <figure> <img src="/uploads/2020-06-28/rainbow.gif"> <figcaption style="display:block;text-align:center;font-size:.8rem"></figcaption> </figure> </div>
+
 
 Algunas cosas que pueden hacer las empresas para lograr un ambiente laboral diverso e inclusivo:
 
