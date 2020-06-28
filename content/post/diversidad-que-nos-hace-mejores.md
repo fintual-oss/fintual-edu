@@ -25,6 +25,8 @@ De hecho, el 2019 fue el año más violento. Según el Movilh, las denuncias por
 
 Lograr un ambiente laboral amigable para las minorías tiene beneficios que van más allá de una justicia social necesaria en términos de derechos humanos.
 
+<div style="text-align:center"> <figure> <img src="/uploads/pedritoengel.jpg"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Creemos que ni siquiera Pedro Engel puede saber cómo le irá al dólar el 2020, el año de la rata de metal. Fuente: elfiltrador.com</i></figcaption> </figure> </div>
+
 [Katherine Phillips](https://www.youtube.com/watch?v=VYpTCinRTDg) mujer migrante y afrodescendiente y profesora de la escuela de negocios de Columbia, ha realizado numerosos estudios en materia de inclusión y diversidad en entornos de trabajo.
 
 > Sus estudios confirman que los equipos laborales socialmente diversos, es decir, aquellos con una diversidad de raza, etnia, discapacidad, género y orientación sexual, son más innovadores, más empáticos, más creativos y [financieramente más exitosos](https://www.mckinsey.com/business-functions/organization/our-insights/why-diversity-matters#) que los grupos homogéneos.
@@ -38,6 +40,8 @@ Cuando las personas se juntan para resolver problemas en grupo aportan informaci
 Las personas que son diferentes entre sí en raza, género y otras dimensiones aportan información y experiencias únicas para una tarea en cuestión. Por ejemplo, en la industria tecnológica, mujeres y disidencias, que suelen ser víctimas de violencia, tienden a ser más conscientes de la importancia en materias de seguridad digital que hombres.
 
 #### Emparejando la cancha
+
+![](/uploads/2020-06-28/rainbow.gif)
 
 Algunas cosas que pueden hacer las empresas para lograr un ambiente laboral diverso e inclusivo:
 
