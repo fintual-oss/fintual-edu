@@ -17,7 +17,9 @@ En el ámbito laboral hay harto que hacer.
 
 Históricamente, la industria tecnológica a nivel mundial ha estado predominada por hombres heterosexuales. En Estados Unidos, la participación femenina en empresas de tecnología es de 20%, mientras que [en Chile alcanza apenas un 5%](https://www.latercera.com/tendencias/noticia/columna-genero-donde-estan-las-mujeres-computacion-tecnologia/289304/).
 
-En el caso de la población LGBTQ+, muchas personas [trans](https://otdchile.org/situacion-de-las-personas-trans-en-chile/), gay o lesbianas pasan por experiencias de discriminación y acoso que se traducen en despidos o en abandono por parte de los mismos trabajadores y, por consecuencia, en la precarización de este sector. Según el Movilh, las denuncias por homofobia y transfobia aumentaron un 58% el año 2019. La categoría que más aumentó sus denuncias fue la laboral, [con un alza de 157,1%](http://www.movilh.cl/documentacion/2019/Informe-Anual-DDHH-2018-Movilh.pdf) (ojalá este aumento sea porque cada vez se tolera menos, pero no somos tan optimistas).
+En el caso de la población LGBTQ+, muchas personas [trans](https://otdchile.org/situacion-de-las-personas-trans-en-chile/), gay o lesbianas pasan por experiencias de discriminación y acoso que se traducen en despidos o en abandono por parte de los mismos trabajadores y, por consecuencia, en la precarización de este sector. 
+
+El año 2019 fue el año con más denuncias. Según el Movilh, las denuncias por homofobia y transfobia aumentaron un 58%. La categoría que más aumentó sus denuncias fue la laboral, [con un alza de 157,1%](http://www.movilh.cl/documentacion/2019/Informe-Anual-DDHH-2018-Movilh.pdf) 
 
 #### Diversidad = win win
 
