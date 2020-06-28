@@ -27,7 +27,7 @@ Lograr un ambiente laboral amigable para las minorías tiene beneficios que van 
 
 [Katherine Phillips](https://www.youtube.com/watch?v=VYpTCinRTDg) mujer migrante y afrodescendiente y profesora de la escuela de negocios de Columbia, ha realizado numerosos estudios en materia de inclusión y diversidad en entornos de trabajo.
 
-> Los equipos laborales socialmente diversos, es decir, aquellos con una diversidad de raza, etnia, discapacidad, género y orientación sexual, son más innovadores, más empáticos, más creativos y [financieramente más exitosos](https://www.mckinsey.com/business-functions/organization/our-insights/why-diversity-matters#) que los grupos homogéneos.
+> Sus estudios confirman que los equipos laborales socialmente diversos, es decir, aquellos con una diversidad de raza, etnia, discapacidad, género y orientación sexual, son más innovadores, más empáticos, más creativos y [financieramente más exitosos](https://www.mckinsey.com/business-functions/organization/our-insights/why-diversity-matters#) que los grupos homogéneos.
 
 La clave para comprender la influencia positiva de la diversidad es el concepto de **diversidad informativa**.
 
@@ -52,7 +52,7 @@ Desde los inicios de Fintual siempre estuvo la idea de crear un espacio de traba
 
 A medida que hemos ido creciendo y necesitando ampliar el equipo, ha sido necesario reflexionar en cómo nos hacemos cargo de la brecha en la industria.
 
-Pese a que nos falta mucho, podemos decir con orgullo que somos una de las pocas startups de tecnología que tiene un X% de mujeres en el equipo de desarrollo (6 actualmente). También está Loreto, que tiene discapacidad auditiva y yo misma, que soy una persona lesbianx no binaria.
+Pese a que nos falta mucho, podemos decir con orgullo que somos una de las pocas startups de tecnología que tiene 6 de mujeres en el equipo de desarrollo. También está Loreto, que tiene discapacidad auditiva y yo misma, que soy una persona lesbianx no binaria.
 
 Los jueves en la mañana todo Fintual se reúne a conversar sobre temas de cultura interna y diversidad en pos de dejar por escrito un código o manual de cultura interna.
 
