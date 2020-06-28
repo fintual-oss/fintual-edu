@@ -6,7 +6,7 @@ date = 2020-06-28T15:05:26Z
 description = "Pride 2020: diversidad en Fintual."
 draft = true
 hide = false
-image = ""
+image = "/uploads/2020-06-28/blog-1.png"
 title = "Diversidad que nos hace mejores"
 url = "/pride-2020-diversidad-en-fintual"
 
