@@ -25,7 +25,7 @@ De hecho, el 2019 fue el año más violento. Según el Movilh, las denuncias por
 
 Lograr un ambiente laboral amigable para las minorías tiene beneficios que van más allá de una justicia social necesaria en términos de derechos humanos.
 
-<div style="text-align:center"> <figure> <img src="/uploads/pedritoengel.jpg"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Creemos que ni siquiera Pedro Engel puede saber cómo le irá al dólar el 2020, el año de la rata de metal. Fuente: elfiltrador.com</i></figcaption> </figure> </div>
+<div style="text-align:center"> <figure> <img src="/uploads/2020-06-28/diversity.gif"> <figcaption style="display:block;text-align:center;font-size:.8rem"></figcaption> </figure> </div>
 
 [Katherine Phillips](https://www.youtube.com/watch?v=VYpTCinRTDg) mujer migrante y afrodescendiente y profesora de la escuela de negocios de Columbia, ha realizado numerosos estudios en materia de inclusión y diversidad en entornos de trabajo.
 
