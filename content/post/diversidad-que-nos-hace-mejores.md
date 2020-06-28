@@ -56,7 +56,7 @@ Desde los inicios de Fintual siempre estuvo la idea de crear un espacio de traba
 
 A medida que hemos ido creciendo y necesitando ampliar el equipo, ha sido necesario reflexionar en cómo nos hacemos cargo de la brecha en la industria.
 
-Pese a que nos falta mucho, podemos decir con orgullo que somos una de las pocas startups de tecnología que tiene un 33% de mujeres en el equipo de desarrollo. En total somos 61,1% hombres, 36,11% mujeres y 2.78% no binarix.
+Pese a que nos falta mucho, podemos decir con orgullo que somos una de las pocas startups de tecnología que tiene un 33% de mujeres en el equipo de desarrollo. En total somos 61,1% hombres, 36,11% mujeres y 2,78% no binarix.
 
 También está Loreto, que tiene discapacidad auditiva y yo misma, que soy una persona lesbianx no binaria.
 
