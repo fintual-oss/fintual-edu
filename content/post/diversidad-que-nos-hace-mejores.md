@@ -70,4 +70,4 @@ Estamos entendiendo que venimos de lugares distintos y mediante estas iniciativa
 
 Aún queda muchísimo por hacer.
 
-Hoy en día la diversidad es una meta que nos ponemos al momento de contratar y crecer. Si crees que nos puedes ayudar con prácticas que hayan funcionado en tu empresa o quieres que te digamos algo de lo que hayamos hecho, escríbenos por favor. Lo importante es que más empresas y personas nos hagamos cargo de esto que finalmente nos beneficia a todes como sociedad.
+Hoy en día la diversidad es una meta que nos ponemos al momento de contratar y crecer. Si crees que nos puedes ayudar con prácticas que hayan funcionado en tu empresa o quieres que te digamos algo de lo que poco que ya hemos hecho, escríbenos por favor. Lo importante es que más empresas y personas nos hagamos cargo de esto que finalmente nos beneficia a todes como sociedad.
