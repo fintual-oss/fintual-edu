@@ -55,7 +55,7 @@ En algún momento aprendimos (algo) de matemáticas en el colegio. ¿Cómo es qu
 
 Después de titularme entré a estudiar un magíster del tema. **Me daba vergüenza ser un abogado que no entendía absolutamente nada sobre economía.** Me sentí intimidado. Sentía que siempre me iba a faltar algo como profesional, ciudadano, hasta como _ahorrador_ (porque en ese tiempo no me podía llamar inversionista).
 
-Pero esa no puede ser la solución. Un magíster no debería ser necesario para entender lo básico!
+Pero esa no puede ser la solución. Un magíster no debería ser necesario para entender lo básico.
 
 La verdadera barrera entre sentirse intimidado y sentirse empoderado es bastante más simple.
 
