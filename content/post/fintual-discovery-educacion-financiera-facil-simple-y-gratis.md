@@ -53,6 +53,8 @@ Y eso es suuuper común con las finanzas. Por alguna razón suelen parecer oscur
 
 > Guess what: it's not rocket science. No estamos lanzando nuestros ahorros a Marte. La mayoría de las finanzas que nos interesan son fáciles.
 
+![](/uploads/2020-06-30/frame-9-1.png)
+
 En algún momento aprendimos (algo) de matemáticas en el colegio. ¿Cómo es que ahora, en la adultez, a muchos de nosotros nos complica hablar sobre plata sin sentir miedo, vergüenza o culpa?
 
 Después de titularme entré a estudiar un magíster del tema. **Me daba vergüenza ser un abogado que no entendía absolutamente nada sobre economía.** Me sentí intimidado. Sentía que siempre me iba a faltar algo como profesional, ciudadano, hasta como _ahorrador_ (porque en ese tiempo no me podía llamar inversionista).
@@ -83,7 +85,9 @@ Por estas cosas las personas que trabajamos en Fintual nos tomamos el tiempo de 
 
 Todo el equipo se turna para responder el chat dos horas a la semana. Hacemos cosas como La Cuarentena Fintual, hacemos webinars de finanzas personales todos los martes a las 6pm, escribimos posts en el blog, etc.
 
-Todo para que las personas puedan tomar sus propias decisiones sobre qué hacer con su plata. Al educar empoderamos. Las personas empoderadas toman decisiones inteligentes con respecto a su plata y, naturalmente, vienen a Fintual porque se dan cuenta de lo bueno que es el servicio que ofrecemos. Nuestros incentivos están alineados con nuestra misión de educar.
+Todo para que las personas puedan tomar sus propias decisiones sobre qué hacer con su plata. Al educar empoderamos. Las personas empoderadas toman decisiones inteligentes con respecto a su plata y, naturalmente, vienen a Fintual porque se dan cuenta de lo bueno que es el servicio que ofrecemos. 
+
+Nuestros incentivos están alineados con nuestra misión de educar.
 
 #### Más allá de Fintual Edu
 
@@ -112,9 +116,9 @@ Pero no me convencía la idea:
 * Generalmente los posts son largos
 * La información suele presentarse de manera lineal
 * Es una experiencia de usuario muy pasiva (desplázate lentamente hacia abajo mientras lees, exactamente como lo estás haciendo ahora)
-* Están fuera de Fintual
+* El contenido está _fuera_ de Fintual
 
-El desafío era:
+Entonces, el desafío era:
 
 * Explicar finanzas personales y macroeconomía de una manera más "digerible" (no un muro de texto)
 * Buscar una manera más interactiva que un scroll down
