@@ -129,3 +129,5 @@ After 5 years spent complaining on how they teach, I had a revenge to take. Teac
 One of the big problem I identified is what I would call the "deep chapter syndrom".
 
 A class would be structured as follow:
+
+![](/uploads/2020-06-30/lawschool.png)
