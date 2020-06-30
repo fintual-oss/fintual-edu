@@ -12,7 +12,7 @@ url = "/fintual-discovery"
 +++
 Hoy lanzamos [Fintual Discovery](https://fintu.al/Go5n), una plataforma bacán para aprender las cosas que tienes que saber de inversiones y finanzas.
 
-<div style="text-align:center">
+<div style="flex-direction: column; align-items: center; display: flex;">
 <blockquote class="twitter-tweet"><p lang="es" dir="ltr">Discovery, de <a href="https://twitter.com/fintual?ref_src=twsrc%5Etfw">@fintual</a>, debiese ser lectura obligatoria en todos los colegios y universidades.</p>— Salomón (@salomonprophet) <a href="https://twitter.com/salomonprophet/status/1276606930316922880?ref_src=twsrc%5Etfw">June 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
@@ -94,7 +94,7 @@ Nuestros incentivos están alineados con nuestra misión de educar.
 
 Esto que estás leyendo es parte de Edu, nuestro blog de educación financiera, noticias, actualizaciones de mercado, etc. Generalmente recibimos buen feedback:
 
-<div style="text-align:center">
+<div style="flex-direction: column; align-items: center; display: flex;">
 <blockquote class="twitter-tweet"><p lang="es" dir="ltr">Los <a href="[https://twitter.com/fintual?ref_src=twsrc%5Etfw](https://twitter.com/fintual?ref_src=twsrc%5Etfw "https://twitter.com/fintual?ref_src=twsrc%5Etfw")">@fintual</a> son tan bacanos que cuando te va mal o bien en las inversiones te explican las razones y te educan. Ojalá la superintendencia de pensiones y afps tuvieran un 1% de esa forma de hacer las cosas.</p>— Javier I. (@jailabab) <a href="[https://twitter.com/jailabab/status/1201623918043422725?ref_src=twsrc%5Etfw](https://twitter.com/jailabab/status/1201623918043422725?ref_src=twsrc%5Etfw "https://twitter.com/jailabab/status/1201623918043422725?ref_src=twsrc%5Etfw")">December 2, 2019</a></blockquote> <script async src="[https://platform.twitter.com/widgets.js](https://platform.twitter.com/widgets.js "https://platform.twitter.com/widgets.js")" charset="utf-8"></script>
 </div>
 
@@ -176,4 +176,4 @@ Por eso los juegos parten con lo mínimo y la complejidad aumenta a medida que j
 
 Si Discovery se siente como un juego en el que exploras el universo financiero podríamos decir:
 
-Misión cumplida 👨‍🚀👨‍🚀🚀
+Misión cumplida 👩‍🚀👨‍🚀🚀
