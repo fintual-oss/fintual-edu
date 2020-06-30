@@ -12,7 +12,9 @@ url = "/fintual-discovery"
 +++
 Hoy lanzamos [Fintual Discovery](https://fintu.al/Go5n), una plataforma bacán para aprender las cosas que tienes que saber de inversiones y finanzas.
 
+<div style="text-align:center">
 <blockquote class="twitter-tweet"><p lang="es" dir="ltr">Discovery, de <a href="https://twitter.com/fintual?ref_src=twsrc%5Etfw">@fintual</a>, debiese ser lectura obligatoria en todos los colegios y universidades.</p>— Salomón (@salomonprophet) <a href="https://twitter.com/salomonprophet/status/1276606930316922880?ref_src=twsrc%5Etfw">June 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 
 Es gratis y fácil de entender.
 
@@ -26,7 +28,7 @@ Después de explorar este nivel introductorio pasas al nivel dos, que explica el
 
 ![Nivel 2 de La imposibilidad de predecir crisis](/uploads/2020-06-30/nivel-2-predecir-crisis.png)_Nivel 2 de **La imposibilidad de predecir crisis**_
 
-Al final, un tema de Discovery es como una página de Wikipedia que se "revela" a medida que avanzas en la exploración. Un proceso de aprendizaje relajado, que fluye y que puedes picotear cuando quieras. 
+Al final, un tema de Discovery es como una página de Wikipedia que se "revela" a medida que avanzas en la exploración. Un proceso de aprendizaje relajado, que fluye y que puedes picotear cuando quieras.
 
 Después de unos clics por aquí y por allá puedes pasar a otra cosa: probablemente ya sabes lo suficiente sobre el tema para sentirte menos intimidado cuando alguien lo mencione.
 
@@ -53,7 +55,6 @@ Y eso es suuuper común con las finanzas. Por alguna razón suelen parecer oscur
 > Guess what: it's not rocket science. No estamos lanzando nuestros ahorros a Marte. La mayoría de las finanzas que nos interesan son fáciles.
 
 <div style="text-align:center"> <figure> <img src="/uploads/2020-06-30/frame-9-1.png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Explorando el universo financiero</i></figcaption> </figure> </div>
-
 
 En algún momento aprendimos (algo) de matemáticas en el colegio. ¿Cómo es que ahora, en la adultez, a muchos de nosotros nos complica hablar sobre plata sin sentir miedo, vergüenza o culpa?
 
@@ -85,7 +86,7 @@ Por estas cosas las personas que trabajamos en Fintual nos tomamos el tiempo de 
 
 Todo el equipo se turna para responder el chat dos horas a la semana. Hacemos cosas como La Cuarentena Fintual, hacemos webinars de finanzas personales todos los martes a las 6pm, escribimos posts en el blog, etc.
 
-Todo para que las personas puedan tomar sus propias decisiones sobre qué hacer con su plata. Al educar empoderamos. Las personas empoderadas toman decisiones inteligentes con respecto a su plata y, naturalmente, vienen a Fintual porque se dan cuenta de lo bueno que es el servicio que ofrecemos. 
+Todo para que las personas puedan tomar sus propias decisiones sobre qué hacer con su plata. Al educar empoderamos. Las personas empoderadas toman decisiones inteligentes con respecto a su plata y, naturalmente, vienen a Fintual porque se dan cuenta de lo bueno que es el servicio que ofrecemos.
 
 Nuestros incentivos están alineados con nuestra misión de educar.
 
@@ -93,7 +94,9 @@ Nuestros incentivos están alineados con nuestra misión de educar.
 
 Esto que estás leyendo es parte de Edu, nuestro blog de educación financiera, noticias, actualizaciones de mercado, etc. Generalmente recibimos buen feedback:
 
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Los <a href="[https://twitter.com/fintual?ref_src=twsrc%5Etfw](https://twitter.com/fintual?ref_src=twsrc%5Etfw "https://twitter.com/fintual?ref_src=twsrc%5Etfw")">@fintual</a> son tan bacanos que cuando te va mal o bien en las inversiones te explican las razones y te educan. Ojalá la superintendencia de pensiones y afps tuvieran un 1% de esa forma de hacer las cosas.</p>&mdash; Javier I. (@jailabab) <a href="[https://twitter.com/jailabab/status/1201623918043422725?ref_src=twsrc%5Etfw](https://twitter.com/jailabab/status/1201623918043422725?ref_src=twsrc%5Etfw "https://twitter.com/jailabab/status/1201623918043422725?ref_src=twsrc%5Etfw")">December 2, 2019</a></blockquote> <script async src="[https://platform.twitter.com/widgets.js](https://platform.twitter.com/widgets.js "https://platform.twitter.com/widgets.js")" charset="utf-8"></script>
+<div style="text-align:center">
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Los <a href="[https://twitter.com/fintual?ref_src=twsrc%5Etfw](https://twitter.com/fintual?ref_src=twsrc%5Etfw "https://twitter.com/fintual?ref_src=twsrc%5Etfw")">@fintual</a> son tan bacanos que cuando te va mal o bien en las inversiones te explican las razones y te educan. Ojalá la superintendencia de pensiones y afps tuvieran un 1% de esa forma de hacer las cosas.</p>— Javier I. (@jailabab) <a href="[https://twitter.com/jailabab/status/1201623918043422725?ref_src=twsrc%5Etfw](https://twitter.com/jailabab/status/1201623918043422725?ref_src=twsrc%5Etfw "https://twitter.com/jailabab/status/1201623918043422725?ref_src=twsrc%5Etfw")">December 2, 2019</a></blockquote> <script async src="[https://platform.twitter.com/widgets.js](https://platform.twitter.com/widgets.js "https://platform.twitter.com/widgets.js")" charset="utf-8"></script>
+</div>
 
 Sin embargo, pensé que podíamos hacerlo mejor.
 
@@ -122,13 +125,13 @@ Entonces, el desafío era:
 
 * Explicar finanzas personales y macroeconomía de una manera más "digerible" (no un muro de texto)
 * Buscar una manera más interactiva que un scroll down
-* Hacerlo parte de Fintual 
+* Hacerlo parte de Fintual
 
 #### Lo que aprendí de la (mala) enseñanza de mi facultad de derecho
 
 Mis profesores de derecho eran abogados brillantes, pero los peores profes que he tenido.
 
-De hecho, podría decir que mucha gente fracasó sólo porque la enseñanza era increíblemente mala. 
+De hecho, podría decir que mucha gente fracasó sólo porque la enseñanza era increíblemente mala.
 
 Paradójicamente, hizo que la reputación de la escuela fuera "más dura" (y por lo tanto, "mejor"). Otro ejemplo de una institución que tiene un incentivo para hacer las cosas más oscuras...
 
