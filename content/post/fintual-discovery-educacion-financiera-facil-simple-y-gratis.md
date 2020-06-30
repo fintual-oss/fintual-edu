@@ -142,27 +142,32 @@ Es un poco como si obligaras a tus hijos de 10 años a entender el mundo leyendo
 
 Lo bueno de Wikipedia y de en internet en general es que,  al contrario de lo que pasa en un libro, la información no necesita ser lineal.
 
-#### Entonces, ¿cuál sería el buen camino?
+#### Entonces qué
 
-Sostengo que debería ser la forma en que una mente curiosa "milenaria" naturalmente se pregunta a través de la información. Porque si se siente natural ... bueno, se siente natural.
+Creo que debería ser la forma natural en que una mente _millennial_ curiosa explora la información. Porque si se siente natural... Bueno, se siente natural.
 
-Algo como esto:
-
-I don't know how you learned at school but mine worked like that. I would say that the pain, suffering and the natural resistance of your whole mind and body comes from the fact that the courses _are not designed for humans_.
-
-The topics were divided per chapters **_which is fine to organize information, but probably not to teach._**
-
-It's a bit like if you you would force your 10 years old children to understand the world by reading wikipedia pages _in alphabetical order_, starting letter A : he will cry for sure after a few pages (and would probably love [the 5th page of Wikipedia by alphabetical order which is "!!!Fuck You!!!"](https://en.wikipedia.org/wiki/Special:AllPages))
-
-The good thing with internet - and wikipedia - is that, contrarily to a book, it does not need to be linear.
-
-#### So what would be the good way then?
-
-I argue it should be the way a curious "millennial" mind naturally wonders through information. Because if it feels natural.. well it feels natural.
-
-Something like this:
+Algo así:
 
 ![](/uploads/2020-06-30/aprendizaje.png)
+
+Reviso un poco del tema X, entiendo lo básico, "ah, ok, es más o menos eso", leo un par de cosas más que mencionan el tema X, así que vuelvo y reviso el tema X; ahora entiendo más y voy un poco más profundo esta vez hasta que me aburro y mi mente se pregunte algo más.
+
+Dos elementos clave:
+
+* No linealidad: la mente se pregunta cosas constantemente
+* Necesidad de volver a un tema y releerlo
+
+#### Por qué los videojuegos son un ejemplo
+
+Comenzar un videojuego es entrar en un mundo desconocido. Comienzas y no tienes ni idea de qué hacer y cómo hacerlo.
+
+Pero como es un videojuego, debe ser divertido de inmediato sin la necesidad de leer un aburrido manual lineal: "Capítulo 1: acciones y armas" con "Arma 1, arma 2, arma 3, arma 4 ..."
+
+Es por eso que comienzan con el mínimo y la complejidad del juego se revela a medida que juegas. Siempre haces lo mismo pero, poco a poco, aprendes nuevas habilidades, acciones, armas y movimientos.
+
+Al final, un tema de Discovery es como una página de Wikipedia que se "revela" a medida que avanzas en tu exploración. Un proceso de aprendizaje que se siente natural, relajado y que puedes picotear y sentirte bien porque te estás fortaleciendo para hacerlo. !
+
+Después de solo unos minutos de hacer clic aquí y allá y leer párrafos cortos, puede pasar a otra cosa: probablemente ya sepa lo suficiente sobre el tema para sentirse menos intimidado cuando alguien lo mencione. Misión cumplida 👨‍🚀👨🏻‍🚀🚀
 
 I check a bit of topic X, understands just the basics "ah ok it's roughly that", then move on to read something else, which will maybe mention topic X, so I go and check again topic X; now I understand more and go a bit deeper this time until I'm bored and my mind wonders to something else.
 
