@@ -98,7 +98,7 @@ Sin embargo, pensé que podíamos hacerlo mejor.
 
 Por qué? Principalmente para resolver dos problemas:
 
-#### #1: estamos viviendo momentos marcroeconómicos históricos
+#### #1: estamos viviendo momentos macroeconómicos históricos
 
 Edu se centra principalmente a las finanzas personales. Sin embargo, ahora estamos entrando en un período de noticias macroeconómicas intensas: volatilidad de los mercados, posibles recesiones, estímulo fiscal, el tipo de cambio CLP / USD subiendo y bajando mucho, personas perdiendo sus trabajos, etc.
 
