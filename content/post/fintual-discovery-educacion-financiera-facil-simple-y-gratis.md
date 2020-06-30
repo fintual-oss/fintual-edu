@@ -31,15 +31,15 @@ Al final, un tema de Discovery es como una página de Wikipedia que se "revela" 
 
 Después de unos clics por aquí y por allá puedes pasar a otra cosa: probablemente ya sabes lo suficiente sobre el tema para sentirte menos intimidado cuando alguien lo mencione.
 
-#### Y la onda espacial?
+#### Qué onda con la onda espacial
 
 Las finanzas son como el espacio: sabemos que existe, qué cosas lo componen, pero hay mucho que desconocemos de él.
 
 Asociar la experiencia de aprender sobre finanzas con la aventura de salir a descubrir el universo era el match perfecto.
 
-Tomando en cuenta esto quisimos darle un _look and feel_ espacial, con la estética de las gráficas espaciales y cientificas de los 70s para que realmente te sientas en un viaje interplanetario.
+Tomando en cuenta esto quisimos darle un _look and feel_ espacial, con la estética de las gráficas espaciales y científicas de los 70s para que realmente te sientas en un viaje interplanetario.
 
-Nos tomamos tan enserio el hacer del aprendizaje de finanzas algo entretenido que llenamos la interfaz de Discovery de cosas super cool, como los trailer de cada curso con gifs animados, o cosas tan pequeñas como la barra de progreso de cada nivel.
+Nos tomamos tan en serio el hacer del aprendizaje de finanzas algo entretenido que llenamos la interfaz de Discovery de cosas super cool, como los trailer de cada curso con gifs animados, o cosas tan pequeñas como la barra de progreso de cada nivel.
 
 En vez de usar la típica barra pusimos una nave que orbita entre planetas que representan cada nivel. Gracias a Nicole, product designer de Fintual, por este diseño tan bacán.
 
@@ -49,7 +49,7 @@ Todos conocemos a esa persona que hace las cosas más complicadas de lo que real
 
 Y eso es suuuper común con las finanzas. Por alguna razón suelen parecer oscuras, complicadas, lejanas. Sólo para gente _que cacha_.
 
-Guess what: it's not rocket science. No estamos lanzando nuestros ahorros a Marte. La mayoría de las finanzas que nos interesan son fáciles.
+> Guess what: it's not rocket science. No estamos lanzando nuestros ahorros a Marte. La mayoría de las finanzas que nos interesan son fáciles.
 
 En algún momento aprendimos (algo) de matemáticas en el colegio. ¿Cómo es que ahora, en la adultez, a muchos de nosotros nos complica hablar sobre plata sin sentir miedo, vergüenza o culpa?
 
@@ -165,25 +165,4 @@ Pero como es un videojuego tiene que ser divertido de una, sin la necesidad de l
 
 Por eso los juegos parten con lo mínimo y la complejidad aumenta a medida que juegas. Siempre haces más o menos lo mismo, pero en cada nivel vas aprendiendo nuevas habilidades, acciones, armas, movimientos.
 
-Al final, un tema de Discovery es como una página de Wikipedia que se "revela" a medida que avanzas en tu exploración. Un proceso de aprendizaje que se siente natural, relajado y que puedes picotear y sentirte bien porque te estás fortaleciendo para hacerlo. !
-
-Después de solo unos minutos de hacer clic aquí y allá y leer párrafos cortos, puede pasar a otra cosa: probablemente ya sepa lo suficiente sobre el tema para sentirse menos intimidado cuando alguien lo mencione. Misión cumplida 👨‍🚀👨🏻‍🚀🚀
-
-I check a bit of topic X, understands just the basics "ah ok it's roughly that", then move on to read something else, which will maybe mention topic X, so I go and check again topic X; now I understand more and go a bit deeper this time until I'm bored and my mind wonders to something else.
-
-2 elements are key here:
-
-* non-linearity (the mind wondering)
-* repitition (coming back to a topic a re-read again)
-
-#### ...and why videos games are better teachers
-
-Starting a video game is entering a world of unknown. You start and you don't have a clue on what to do and how to do it.
-
-But because it is a video game, it **_should be fun straight away_** without the need to read a boring linear manual: "Chapter 1: actions and weapons" with "Weapon 1, weapon 2, weapon 3, weapon 4..."
-
-That's why they start with the minimum and **_the complexity of the game reveals itself as you play_**. You are always doing the same but, little by little, you learn news skills, actions, weapons and moves.
-
-In the end, a Discovery topic is like a wikipedia page that "reveals" itself as you progress in your exploration.s A learning process that feels natural, relax and that you can picotear and feel good about it because you are empowering yourself doing so!
-
-After only a few minutes of clicking here and there and reading short paragraphs, you can skip to something else: you already probably know enough on the topic to be less intimidated when someone will mention it. Mission accomplished 👨‍🚀👨🏻‍🚀🚀
+Misión cumplida 👨‍🚀👨🏻‍🚀🚀
