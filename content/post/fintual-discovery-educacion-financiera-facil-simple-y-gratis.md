@@ -91,7 +91,7 @@ Esto que estás leyendo es parte de Edu, nuestro blog de educación financiera, 
 
 Sin embargo, pensé que podíamos hacerlo mejor.
 
-Por qué? Principalmente para resolver 3 problemas:
+Por qué? Principalmente para resolver dos problemas:
 
 #### #1: estamos viviendo momentos marcroeconómicos históricos
 
