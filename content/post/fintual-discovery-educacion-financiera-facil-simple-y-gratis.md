@@ -52,3 +52,5 @@ El verdadero problema es la jerga. "Fondo mutuo", "ETF", "renta fija", "fondo de
 ¿Nadie? Hay quienes dicen que "[cuando se trata de dinero, la incomprensión es una forma de consentimiento](https://www.newyorker.com/magazine/2014/08/04/money-talks-6)". Que no entiendas todo puede ser de interés para el banco al que le pasas tu plata para que la administre.
 
 En 2008 vimos como los bancos vendían productos financieros complejos y riesgosos a personas que no tenían la educación financiera para entender adecuadamente los riesgos que eso implicaba. ¿Por qué? Porque tenían incentivos para vender estos productos altamente rentables.
+
+![](/uploads/2020-06-30/jargon.gif)
