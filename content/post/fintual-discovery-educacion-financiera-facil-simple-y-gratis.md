@@ -31,6 +31,14 @@ Al final, un tema de Discovery es como una página de Wikipedia que se "revela" 
 
 Después de unos clics por aquí y por allá puedes pasar a otra cosa: probablemente ya sabes lo suficiente sobre el tema para sentirte menos intimidado cuando alguien lo mencione.
 
+#### Y la onda espacial?
+
+Las finanzas son algo así como el espacio: sabemos que existe, qué cosas lo componen, pero realmente hay mucho que desconocemos de él. 
+
+Asociar la experiencia de aprender sobre finanzas con la aventura de salir a descubrir el universo era un match perfecto.
+
+Tomando en cuenta esto quisimos darle un _look and feel_ espacial, con la estética de las gráficas espaciales y cientificas de los 70s para que realmente te sientas en un viaje interplanetario. Nos tomamos tan enserio el hacer del aprendizaje de finanzas algo entretenido que llenamos de cosas super cool la interfaz de Discovery, como los trailer de cada curso con gifs animados, o cosas tan pequeñas como la barra de progreso de cada nivel donde en vez de usar la tipica barra aburrida, pusimos una nave que orbita entre planetas que representan cada nivel. Dato rosa; la barra de progreso entre niveles fue lo que más tardamos en decidir por que nos obsesionamos en que fuera increíble.
+
 #### Por qué nace Discovery
 
 Todos conocemos a esa persona que hace las cosas más complicadas de lo que realmente son sólo para parecer inteligente.
