@@ -16,15 +16,15 @@ Hoy lanzamos [Fintual Discovery](https://fintu.al/Go5n), una plataforma bacán p
 
 Es gratis y fácil de entender.
 
-#### ![](/uploads/2020-06-30/discoverymobile.jpg)
+![](/uploads/2020-06-30/discovery-mockups-blog.png)
 
-La idea era hacer algo simple, pero no por eso menos completo.
+#### La idea era hacer algo simple, pero no por eso menos completo.
 
 Cuando aprendes un tema partes en el nivel más básico: el concepto explicado en máximo 150 caracteres, como si fuese un tweet.
 
 Después de explorar este nivel introductorio pasas al nivel dos, que explica el mismo tema con mayor profundidad. El punto de partida de este nivel –la definición del concepto– ahora tiene más detalles. Casi como si estuvieses jugando, pasaste de nivel y ahora tienes más y mejores herramientas para completar una etapa más desafiante.
 
-![Nivel 2 de La imposibilidad de predecir crisis](/uploads/2020-06-30/nivel-2-predecir-crisis.png)_Nivel 2 de La imposibilidad de predecir crisis_
+![Nivel 2 de La imposibilidad de predecir crisis](/uploads/2020-06-30/nivel-2-predecir-crisis.png)_Nivel 2 de **La imposibilidad de predecir crisis**_
 
 Al final, un tema de Discovery es como una página de Wikipedia que se "revela" a medida que avanzas en la exploración. Un proceso de aprendizaje relajado, que fluye y que puedes picotear cuando quieras. 
 
@@ -52,7 +52,8 @@ Y eso es suuuper común con las finanzas. Por alguna razón suelen parecer oscur
 
 > Guess what: it's not rocket science. No estamos lanzando nuestros ahorros a Marte. La mayoría de las finanzas que nos interesan son fáciles.
 
-![](/uploads/2020-06-30/frame-9-1.png)
+<div style="text-align:center"> <figure> <img src="/uploads/2020-06-30/frame-9-1.png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Explorando el universo financiero</i></figcaption> </figure> </div>
+
 
 En algún momento aprendimos (algo) de matemáticas en el colegio. ¿Cómo es que ahora, en la adultez, a muchos de nosotros nos complica hablar sobre plata sin sentir miedo, vergüenza o culpa?
 
