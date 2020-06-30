@@ -54,3 +54,15 @@ El verdadero problema es la jerga. "Fondo mutuo", "ETF", "renta fija", "fondo de
 En 2008 vimos como los bancos vendían productos financieros complejos y riesgosos a personas que no tenían la educación financiera para entender adecuadamente los riesgos que eso implicaba. ¿Por qué? Porque tenían incentivos para vender estos productos altamente rentables.
 
 ![](/uploads/2020-06-30/jargon.gif)
+
+#### Reduciendo la complejidad
+
+Hacer las cosas simples está en el ADN de Fintual. Aterrizar las finanzas hacer que cosas como ahorro e la inversión formen parte de la realidad del día a día. 
+
+Entonces, como queríamos hacer algo que se tratara de finanzas, fuera simple y transparente teníamos que -necesariamente– darnos el tiempo de explicar. 
+
+Y explicar bien.
+
+![](/uploads/2020-06-30/perritu.png)
+
+Por estas cosas las personas que trabajamos en Fintual nos tomamos el tiempo de explicar todo.
