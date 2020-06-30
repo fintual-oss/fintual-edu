@@ -105,12 +105,6 @@ We are thus seeing:
 
 We have to help understanding those macroeconomics aspects too.
 
-This is confirmed by a punctual experiment we already did:
-
-Explaining macroeconomics is something the start up _Robinhood_ does for example, here, explaining [Depreciation](https://learn.robinhood.com/articles/5JtDvoFmridr5T9eJcCyuI/what-is-depreciation/).
-
-However, when you look at this article, it is so long and seems complex/boring that I would never read it entirely, millennial that I am.
-
 And that leads us to problem number 2.
 
 #### Problem number 2: articles are long, linear and passive
@@ -158,7 +152,7 @@ I argue it should be the way a curious "millennial" mind naturally wonders throu
 
 Something like this:
 
-foto
+![](/uploads/2020-06-30/aprendizaje.png)
 
 I check a bit of topic X, understands just the basics "ah ok it's roughly that", then move on to read something else, which will maybe mention topic X, so I go and check again topic X; now I understand more and go a bit deeper this time until I'm bored and my mind wonders to something else.
 
