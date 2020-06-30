@@ -5,7 +5,7 @@ categories = ["educación financiera"]
 date = 2020-06-29T21:49:14Z
 description = "Hicimos una herramienta para explorar el universo financiero al estilo Fintual"
 hide = false
-image = "/uploads/2020-06-30/discovery.jpg"
+image = "/uploads/2020-06-30/discovery-min.jpg"
 title = "Fintual Discovery: educación financiera fácil, simple y gratis"
 url = "/fintual-discovery"
 

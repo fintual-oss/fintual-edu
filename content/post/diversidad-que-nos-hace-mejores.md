@@ -5,7 +5,7 @@ categories = ["noticias"]
 date = 2020-06-28T15:05:26Z
 description = "Lograr un ambiente laboral amigable para las minorías tiene beneficios que van más allá de una justicia social necesaria en términos de derechos humanos."
 hide = false
-image = "/uploads/2020-06-30/pride.jpg"
+image = "/uploads/2020-06-30/pride-min.jpg"
 title = "Diversidad que nos hace mejores"
 url = "/pride-2020-diversidad-en-fintual"
 
