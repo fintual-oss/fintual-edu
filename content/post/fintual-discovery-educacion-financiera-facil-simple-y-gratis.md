@@ -70,3 +70,62 @@ Por estas cosas las personas que trabajamos en Fintual nos tomamos el tiempo de 
 Todo el equipo se turna para responder el chat dos horas a la semana. Hacemos cosas como La Cuarentena Fintual, hacemos webinars de finanzas personales todos los martes a las 6pm, escribimos posts en el blog, etc.
 
 Todo para que las personas puedan tomar sus propias decisiones sobre qué hacer con su plata. Al educar empoderamos. Las personas empoderadas toman decisiones inteligentes con respecto a su plata y, naturalmente, vienen a Fintual porque se dan cuenta de lo bueno que es el servicio que ofrecemos. Nuestros incentivos están alineados con nuestra misión de educar.
+
+#### Más allá de Fintual Edu
+
+Esto que estás leyendo es parte de Edu, nuestro blog de educación financiera, noticias, actualizaciones de mercado, etc. Generalmente recibimos buen feedback:
+
+![](/uploads/2020-06-30/feedback-fintual.png)
+
+Sin embargo, pensé que podríamos hacerlo mejor.
+
+Por qué? Para resolver 3 problemas:
+
+### Problema #1: estamos viviendo momentos marcroeconómicos históricos
+
+Edu is mostly oriented on personal finance. However, now we are entering a period of intense macroeconomic news: markets volatility, possible recessions, fiscal stimulus, the CLP/USD exchange rate moving up and down a lot, people loosing their jobs, etc.
+
+We are thus seeing:
+
+* Historical macroeconomic events
+* involving complex dynamics
+* with important consequences for everyone
+
+We have to help understanding those macroeconomics aspects too.
+
+This is confirmed by a punctual experiment we already did:
+
+Explaining macroeconomics is something the start up _Robinhood_ does for example, here, explaining [Depreciation](https://learn.robinhood.com/articles/5JtDvoFmridr5T9eJcCyuI/what-is-depreciation/).
+
+However, when you look at this article, it is so long and seems complex/boring that I would never read it entirely, millennial that I am.
+
+And that leads us to problem number 2.
+
+### Problem number 2: articles are long, linear and passive
+
+So yeah we could write articles of macro on Edu.
+
+But I'm not convinced by the way Robinhood did it. My critique could be applied to our own Fintual Edu articles:
+
+* it's often long and very linear
+* it's a very passive user experience (just slowly scroll down while reading, exactly like this post right now)
+* they are outside the main product
+
+How could we make something that:
+
+* explains personal finance _and_ macroeconomics
+* in a more "_digestible_" way (not a wall of text)
+* in a more _interactive_ way (than scrolling)
+* and make it _part of Fintual_?
+
+# Why my law school is bad a teaching and what I learned from it...
+
+My law school professors were brilliant lawyers but the worse teachers I've ever had.
+
+Arguably, a lot of people failed just because teaching was incredibly bad. Paradoxically, it made the reputation of the school as "harder" (so it must be better right?). (Another example of an institution that has an incentive to make things more obscure..)
+
+After 5 years spent complaining on how they teach, I had a revenge to take. Teaching things the way I have dreamed.
+
+One of the big problem I identified is what I would call the "deep chapter syndrom".
+
+A class would be structured as follow:
