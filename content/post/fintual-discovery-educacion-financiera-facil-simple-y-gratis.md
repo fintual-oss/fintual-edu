@@ -27,7 +27,7 @@ Después de explorar este nivel introductorio pasas al nivel dos, que explica el
 
 ![Nivel 2 de La imposibilidad de predecir crisis](/uploads/2020-06-30/nivel-2-predecir-crisis.png)_Nivel 2 de La imposibilidad de predecir crisis_
 
-Al final, un tema de Discovery es como una página de Wikipedia que se "revela" a medida que avanzas en la exploración. Un proceso de aprendizaje relajado, que fluye y que puedes picotear cuando quieras. Y en el proceso te sientes bien porque te estás empoderando mientras avanzas.
+Al final, un tema de Discovery es como una página de Wikipedia que se "revela" a medida que avanzas en la exploración. Un proceso de aprendizaje relajado, que fluye y que puedes picotear cuando quieras. 
 
 Después de unos clics por aquí y por allá puedes pasar a otra cosa: probablemente ya sabes lo suficiente sobre el tema para sentirte menos intimidado cuando alguien lo mencione.
 
@@ -39,11 +39,11 @@ Asociar la experiencia de aprender sobre finanzas con la aventura de salir a des
 
 Tomando en cuenta esto quisimos darle un _look and feel_ espacial, con la estética de las gráficas espaciales y científicas de los 70s para que realmente te sientas en un viaje interplanetario.
 
+![](/uploads/2020-06-30/frame-12.png)
+
 Nos tomamos tan en serio el hacer del aprendizaje de finanzas algo entretenido que llenamos la interfaz de Discovery de cosas super cool, como los trailer de cada curso con gifs animados, o cosas tan pequeñas como la barra de progreso de cada nivel.
 
 En vez de usar la típica barra pusimos una nave que orbita entre planetas que representan cada nivel. Gracias a Nicole, product designer de Fintual, por este diseño tan bacán.
-
-![](/uploads/2020-06-30/frame-12.png)
 
 #### Por qué nace Discovery
 
@@ -59,7 +59,7 @@ Después de titularme entré a estudiar un magíster del tema. **Me daba vergüe
 
 Pero esa no puede ser la solución. Un magíster no debería ser necesario para entender lo básico.
 
-La verdadera barrera entre sentirse intimidado y sentirse empoderado es bastante más simple.
+> La verdadera barrera entre sentirse intimidado y sentirse empoderado es bastante más simple.
 
 El verdadero problema es _la_ _jerga financiera_: "Fondo mutuo", "ETF", "renta fija", "fondo de mercado monetario", "partícipe".
 
