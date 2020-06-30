@@ -172,4 +172,4 @@ Por eso los juegos parten con lo mínimo y la complejidad aumenta a medida que j
 
 Si Discovery se siente como un juego en el que exploras el universo financiero podríamos decir:
 
-Misión cumplida 👨‍🚀👨🏻‍🚀🚀
+Misión cumplida 👨‍🚀👨‍🚀🚀
