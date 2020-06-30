@@ -89,25 +89,39 @@ Esto que estás leyendo es parte de Edu, nuestro blog de educación financiera, 
 
 ![](/uploads/2020-06-30/feedback-fintual.png)
 
-Sin embargo, pensé que podríamos hacerlo mejor.
+Sin embargo, pensé que podíamos hacerlo mejor.
 
-Por qué? Para resolver 3 problemas:
+Por qué? Principalmente para resolver 3 problemas:
 
-#### Problema #1: estamos viviendo momentos marcroeconómicos históricos
+#### #1: estamos viviendo momentos marcroeconómicos históricos
 
-Edu is mostly oriented on personal finance. However, now we are entering a period of intense macroeconomic news: markets volatility, possible recessions, fiscal stimulus, the CLP/USD exchange rate moving up and down a lot, people loosing their jobs, etc.
+Edu se centra principalmente a las finanzas personales. Sin embargo, ahora estamos entrando en un período de noticias macroeconómicas intensas: volatilidad de los mercados, posibles recesiones, estímulo fiscal, el tipo de cambio CLP / USD subiendo y bajando mucho, personas perdiendo sus trabajos, etc.
 
-We are thus seeing:
+Teníamos que hacer algo que ayudara a entender mejor estos aspectos macroeconómicos.
 
-* Historical macroeconomic events
-* involving complex dynamics
-* with important consequences for everyone
+Y eso nos lleva al problema número 2.
 
-We have to help understanding those macroeconomics aspects too.
+#### #2: los posts son largos, lineales y pasivos
 
-And that leads us to problem number 2.
+Sí, podríamos haber escrito artículos de macroeconomía en Edu.
 
-#### Problem number 2: articles are long, linear and passive
+Pero no estaba convencido:
+
+* A menudo son largos
+* La información suele presentarse de manera lineal
+* Es una experiencia de usuario muy pasiva (desplázate lentamente hacia abajo mientras lees, exactamente como esta publicación en este momento)
+
+están fuera del producto principal
+
+¿Cómo podríamos hacer algo que:
+
+explica finanzas personales y macroeconomía
+
+de una manera más "digerible" (no un muro de texto)
+
+de una manera más interactiva (que desplazarse)
+
+y hacerlo parte de Fintual?articles are long, linear and passive
 
 So yeah we could write articles of macro on Edu.
 
