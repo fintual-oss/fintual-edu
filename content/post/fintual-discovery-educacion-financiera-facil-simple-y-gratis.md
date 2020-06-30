@@ -112,41 +112,41 @@ Pero no me convencía la idea:
 * Es una experiencia de usuario muy pasiva (desplázate lentamente hacia abajo mientras lees, exactamente como lo estás haciendo ahora)
 * Están fuera de Fintual
 
-Teníamos que hacer algo que:
+El desafío era:
 
-* Explicara finanzas personales y macroeconomía de una manera más "digerible" (no un muro de texto)
-* de una manera más interactiva (que desplazarse)
+* Explicar finanzas personales y macroeconomía de una manera más "digerible" (no un muro de texto)
+* Buscar una manera más interactiva que un scroll down
+* Hacerlo parte de Fintual 
 
-y hacerlo parte de Fintual?articles are long, linear and passive
+#### Lo que aprendí de la (mala) enseñanza de mi facultad de derecho
 
-So yeah we could write articles of macro on Edu.
+Mis profesores de derecho eran abogados brillantes, pero los peores profes que he tenido.
 
-But I'm not convinced by the way Robinhood did it. My critique could be applied to our own Fintual Edu articles:
+De hecho, podría decir que mucha gente fracasó sólo porque la enseñanza era increíblemente mala. 
 
-* it's often long and very linear
-* it's a very passive user experience (just slowly scroll down while reading, exactly like this post right now)
-* they are outside the main product
+Paradójicamente, hizo que la reputación de la escuela fuera "más dura" (y por lo tanto mejor, o no?). Otro ejemplo de una institución que tiene un incentivo para hacer las cosas más oscuras...
 
-How could we make something that:
+Después de pasar 5 años quejándome sobre cómo enseñan, tuve una linda oportunidad de enseñar cosas como a mí me habría gustado aprender.
 
-* explains personal finance _and_ macroeconomics
-* in a more "_digestible_" way (not a wall of text)
-* in a more _interactive_ way (than scrolling)
-* and make it _part of Fintual_?
+Uno de los grandes problemas que identifiqué es algo que le puse el "síndrome del capítulo profundo".
 
-#### Why my law school is bad a teaching and what I learned from it...
-
-My law school professors were brilliant lawyers but the worse teachers I've ever had.
-
-Arguably, a lot of people failed just because teaching was incredibly bad. Paradoxically, it made the reputation of the school as "harder" (so it must be better right?). (Another example of an institution that has an incentive to make things more obscure..)
-
-After 5 years spent complaining on how they teach, I had a revenge to take. Teaching things the way I have dreamed.
-
-One of the big problem I identified is what I would call the "deep chapter syndrom".
-
-A class would be structured as follow:
+La dinámica de mis clases era algo así:
 
 ![](/uploads/2020-06-30/lawschool.png)
+
+Diría que el dolor, el sufrimiento y la resistencia natural de tu mente y cuerpo provienen del hecho de que los cursos no están diseñados para humanos.
+
+Los temas se dividen por capítulos, lo que funciona bacán para organizar la información, pero no para enseñar.
+
+Es un poco como si obligaras a tus hijos de 10 años a entender el mundo leyendo las páginas de Wikipedia en orden alfabético, empezando por la letra A: llorará seguro después de unas pocas páginas.
+
+Lo bueno de Internet, y de Wikipedia, es que, al contrario de lo que ocurre con un libro, no necesita ser lineal.
+
+Entonces, ¿cuál sería el buen camino?
+
+Sostengo que debería ser la forma en que una mente curiosa "milenaria" naturalmente se pregunta a través de la información. Porque si se siente natural ... bueno, se siente natural.
+
+Algo como esto:
 
 I don't know how you learned at school but mine worked like that. I would say that the pain, suffering and the natural resistance of your whole mind and body comes from the fact that the courses _are not designed for humans_.
 
