@@ -140,9 +140,9 @@ Los temas se dividen por capítulos, lo que funciona bacán para organizar la in
 
 Es un poco como si obligaras a tus hijos de 10 años a entender el mundo leyendo las páginas de Wikipedia en orden alfabético, empezando por la letra A: llorará seguro después de unas pocas páginas.
 
-Lo bueno de Internet, y de Wikipedia, es que, al contrario de lo que ocurre con un libro, no necesita ser lineal.
+Lo bueno de Wikipedia y de en internet en general es que,  al contrario de lo que pasa en un libro, la información no necesita ser lineal.
 
-Entonces, ¿cuál sería el buen camino?
+#### Entonces, ¿cuál sería el buen camino?
 
 Sostengo que debería ser la forma en que una mente curiosa "milenaria" naturalmente se pregunta a través de la información. Porque si se siente natural ... bueno, se siente natural.
 
