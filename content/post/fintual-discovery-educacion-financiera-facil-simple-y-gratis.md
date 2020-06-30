@@ -66,3 +66,7 @@ Y explicar bien.
 ![](/uploads/2020-06-30/perritu.png)
 
 Por estas cosas las personas que trabajamos en Fintual nos tomamos el tiempo de explicar todo.
+
+Todo el equipo se turna para responder el chat dos horas a la semana. Hacemos cosas como La Cuarentena Fintual, hacemos webinars de finanzas personales todos los martes a las 6pm, escribimos posts en el blog, etc.
+
+Todo para que las personas puedan tomar sus propias decisiones sobre qué hacer con su plata. Al educar empoderamos. Las personas empoderadas toman decisiones inteligentes con respecto a su plata y, naturalmente, vienen a Fintual porque se dan cuenta de lo bueno que es el servicio que ofrecemos. Nuestros incentivos están alineados con nuestra misión de educar.
