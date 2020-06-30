@@ -81,7 +81,7 @@ Sin embargo, pensé que podríamos hacerlo mejor.
 
 Por qué? Para resolver 3 problemas:
 
-### Problema #1: estamos viviendo momentos marcroeconómicos históricos
+#### Problema #1: estamos viviendo momentos marcroeconómicos históricos
 
 Edu is mostly oriented on personal finance. However, now we are entering a period of intense macroeconomic news: markets volatility, possible recessions, fiscal stimulus, the CLP/USD exchange rate moving up and down a lot, people loosing their jobs, etc.
 
@@ -101,7 +101,7 @@ However, when you look at this article, it is so long and seems complex/boring t
 
 And that leads us to problem number 2.
 
-### Problem number 2: articles are long, linear and passive
+#### Problem number 2: articles are long, linear and passive
 
 So yeah we could write articles of macro on Edu.
 
@@ -118,7 +118,7 @@ How could we make something that:
 * in a more _interactive_ way (than scrolling)
 * and make it _part of Fintual_?
 
-# Why my law school is bad a teaching and what I learned from it...
+#### Why my law school is bad a teaching and what I learned from it...
 
 My law school professors were brilliant lawyers but the worse teachers I've ever had.
 
@@ -131,3 +131,38 @@ One of the big problem I identified is what I would call the "deep chapter syndr
 A class would be structured as follow:
 
 ![](/uploads/2020-06-30/lawschool.png)
+
+I don't know how you learned at school but mine worked like that. I would say that the pain, suffering and the natural resistance of your whole mind and body comes from the fact that the courses _are not designed for humans_.
+
+The topics were divided per chapters **_which is fine to organize information, but probably not to teach._**
+
+It's a bit like if you you would force your 10 years old children to understand the world by reading wikipedia pages _in alphabetical order_, starting letter A : he will cry for sure after a few pages (and would probably love [the 5th page of Wikipedia by alphabetical order which is "!!!Fuck You!!!"](https://en.wikipedia.org/wiki/Special:AllPages))
+
+The good thing with internet - and wikipedia - is that, contrarily to a book, it does not need to be linear.
+
+#### So what would be the good way then?
+
+I argue it should be the way a curious "millennial" mind naturally wonders through information. Because if it feels natural.. well it feels natural.
+
+Something like this:
+
+foto
+
+I check a bit of topic X, understands just the basics "ah ok it's roughly that", then move on to read something else, which will maybe mention topic X, so I go and check again topic X; now I understand more and go a bit deeper this time until I'm bored and my mind wonders to something else.
+
+2 elements are key here:
+
+* non-linearity (the mind wondering)
+* repitition (coming back to a topic a re-read again)
+
+#### ...and why videos games are better teachers
+
+Starting a video game is entering a world of unknown. You start and you don't have a clue on what to do and how to do it.
+
+But because it is a video game, it **_should be fun straight away_** without the need to read a boring linear manual: "Chapter 1: actions and weapons" with "Weapon 1, weapon 2, weapon 3, weapon 4..."
+
+That's why they start with the minimum and **_the complexity of the game reveals itself as you play_**. You are always doing the same but, little by little, you learn news skills, actions, weapons and moves.
+
+In the end, a Discovery topic is like a wikipedia page that "reveals" itself as you progress in your exploration.s A learning process that feels natural, relax and that you can picotear and feel good about it because you are empowering yourself doing so!
+
+After only a few minutes of clicking here and there and reading short paragraphs, you can skip to something else: you already probably know enough on the topic to be less intimidated when someone will mention it. Mission accomplished 👨‍🚀👨🏻‍🚀🚀
