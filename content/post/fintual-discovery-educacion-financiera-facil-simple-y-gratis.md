@@ -17,7 +17,7 @@ Hoy lanzamos Fintual Discovery, una plataforma bacán para aprender las cosas qu
 
 Es gratis, fácil de entender y la lectura perfecta pal baño.
 
-#### 3, 2, 1: Ignition sequence start
+#### ![](/uploads/2020-06-30/discoverymobile.jpg)
 
 La idea era hacer algo simple, pero no por eso menos completo.
 
@@ -30,6 +30,8 @@ Después de explorar este nivel introductorio pasas al nivel dos, que explica el
 Al final, un tema de Discovery es como una página de Wikipedia que se "revela" a medida que avanzas en la exploración. Un proceso de aprendizaje relajado, que fluye y que puedes picotear cuando quieras. Y en el proceso te sientes bien porque te estás empoderando mientras avanzas.
 
 Después de unos clics por aquí y por allá puedes pasar a otra cosa: probablemente ya sabes lo suficiente sobre el tema para sentirte menos intimidado cuando alguien lo mencione.
+
+#### Por qué nace Discovery
 
 Todos conocemos a esa persona que hace las cosas más complicadas de lo que realmente son sólo para parecer inteligente.
 
