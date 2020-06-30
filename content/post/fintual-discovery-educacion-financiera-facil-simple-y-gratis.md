@@ -33,15 +33,15 @@ Después de unos clics por aquí y por allá puedes pasar a otra cosa: probablem
 
 #### Y la onda espacial?
 
-Las finanzas son como el espacio: sabemos que existe, qué cosas lo componen, pero hay mucho que desconocemos de él. 
+Las finanzas son como el espacio: sabemos que existe, qué cosas lo componen, pero hay mucho que desconocemos de él.
 
 Asociar la experiencia de aprender sobre finanzas con la aventura de salir a descubrir el universo era el match perfecto.
 
-Tomando en cuenta esto quisimos darle un _look and feel_ espacial, con la estética de las gráficas espaciales y cientificas de los 70s para que realmente te sientas en un viaje interplanetario. 
+Tomando en cuenta esto quisimos darle un _look and feel_ espacial, con la estética de las gráficas espaciales y cientificas de los 70s para que realmente te sientas en un viaje interplanetario.
 
 Nos tomamos tan enserio el hacer del aprendizaje de finanzas algo entretenido que llenamos la interfaz de Discovery de cosas super cool, como los trailer de cada curso con gifs animados, o cosas tan pequeñas como la barra de progreso de cada nivel.
 
-En vez de usar la típica barra pusimos una nave que orbita entre planetas que representan cada nivel. Gracias a Nicole, product designer de Fintual, por este diseño tan bacán. 
+En vez de usar la típica barra pusimos una nave que orbita entre planetas que representan cada nivel. Gracias a Nicole, product designer de Fintual, por este diseño tan bacán.
 
 #### Por qué nace Discovery
 
@@ -59,19 +59,19 @@ Pero esa no puede ser la solución. Un magíster no debería ser necesario para 
 
 La verdadera barrera entre sentirse intimidado y sentirse empoderado es bastante más simple.
 
-El verdadero problema es _la_ _jerga financiera_: "Fondo mutuo", "ETF", "renta fija", "fondo de mercado monetario", "partícipe". 
+El verdadero problema es _la_ _jerga financiera_: "Fondo mutuo", "ETF", "renta fija", "fondo de mercado monetario", "partícipe".
 
 La jerga intimida porque ofusca. Es una capa adicional de complejidad innecesaria que **nadie** necesita.
 
 Hay quienes dicen que "[cuando se trata de dinero, la incomprensión es una forma de consentimiento](https://www.newyorker.com/magazine/2014/08/04/money-talks-6)". Quizás el hecho de no entiendas todo puede ser de interés para el banco al que le pasas tu plata para que la administre.
 
-![](/uploads/2020-06-30/jargon.gif)
+<div style="text-align:center"> <figure> <img src="/uploads/2020-06-30/jargon.gif"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>La jerga financiera</i></figcaption> </figure> </div>
 
 #### Reduciendo la complejidad
 
-Hacer las cosas simples está en el ADN de Fintual. Aterrizar las finanzas hacer que cosas como ahorro e la inversión formen parte de la realidad del día a día. 
+Hacer las cosas simples está en el ADN de Fintual. Aterrizar las finanzas y hacer que cosas como ahorro e la inversión formen parte de la realidad del día a día.
 
-Entonces, como queríamos hacer algo que se tratara de finanzas, fuera simple y transparente teníamos que -necesariamente– darnos el tiempo de explicar. 
+Entonces, como queríamos hacer algo que se tratara de finanzas, fuera simple y transparente teníamos que -necesariamente– darnos el tiempo de explicar.
 
 Y explicar bien.
 
