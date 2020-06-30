@@ -17,7 +17,7 @@ Hoy lanzamos Fintual Discovery, una plataforma bacán para aprender las cosas qu
 
 Es gratis, fácil de entender y la lectura perfecta pal baño.
 
-#### 1, 2, 3: Ignition sequence start
+#### 3, 2, 1: Ignition sequence start
 
 La idea era hacer algo simple, pero no por eso menos completo.
 
