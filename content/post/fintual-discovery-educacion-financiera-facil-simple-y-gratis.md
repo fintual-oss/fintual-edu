@@ -17,9 +17,9 @@ Hoy lanzamos Fintual Discovery, una plataforma bacán para aprender las cosas qu
 
 Es gratis, fácil de entender y la lectura perfecta pal baño.
 
-## 1, 2, 3: Ignition sequence start
+#### 1, 2, 3: Ignition sequence start
 
-La idea era hacer algo simple, pero no por eso menos completo. Por eso hicimos que Discovery tenga 3 niveles de complejidad para cada concepto. En cada nivel hay 3 preguntas que responden preguntas básicas del tema.
+La idea era hacer algo simple, pero no por eso menos completo. 
 
 Cuando aprendes un tema partes en el nivel más básico: el concepto explicado en máximo 150 caracteres, como si fuese un tweet.
 
