@@ -72,7 +72,7 @@ Hay quienes dicen que "[cuando se trata de dinero, la incomprensión es una form
 
 #### Reduciendo la complejidad
 
-Hacer las cosas simples está en el ADN de Fintual. Aterrizar las finanzas y hacer que cosas como ahorro e la inversión formen parte de la realidad del día a día.
+Hacer las cosas simples está en el ADN de Fintual. Aterrizar las finanzas y hacer que cosas como ahorro e nversión formen parte de la realidad del día a día.
 
 Entonces, como queríamos hacer algo que se tratara de finanzas, fuera simple y transparente teníamos que -necesariamente– darnos el tiempo de explicar.
 
