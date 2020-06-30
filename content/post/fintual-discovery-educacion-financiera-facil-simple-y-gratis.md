@@ -171,6 +171,6 @@ Pero como es un videojuego tiene que ser divertido de una, sin la necesidad de l
 
 Por eso los juegos parten con lo mínimo y la complejidad aumenta a medida que juegas. Siempre haces más o menos lo mismo, pero en cada nivel vas aprendiendo nuevas habilidades, acciones, armas, movimientos.
 
-Si Discovery se siente como un juego en el que exploras el universo financiero podríamos decir 
+Si Discovery se siente como un juego en el que exploras el universo financiero podríamos decir:
 
 Misión cumplida 👨‍🚀👨🏻‍🚀🚀
