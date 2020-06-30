@@ -15,7 +15,7 @@ Hoy lanzamos Fintual Discovery, una plataforma bacán para aprender las cosas qu
 
 <blockquote class="twitter-tweet"><p lang="es" dir="ltr">Discovery, de <a href="https://twitter.com/fintual?ref_src=twsrc%5Etfw">@fintual</a>, debiese ser lectura obligatoria en todos los colegios y universidades.</p>— Salomón (@salomonprophet) <a href="https://twitter.com/salomonprophet/status/1276606930316922880?ref_src=twsrc%5Etfw">June 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Es gratis, fácil de entender y la lectura perfecta pal baño.
+Es gratis y fácil de entender.
 
 #### ![](/uploads/2020-06-30/discoverymobile.jpg)
 
@@ -33,9 +33,9 @@ Después de unos clics por aquí y por allá puedes pasar a otra cosa: probablem
 
 #### Y la onda espacial?
 
-Las finanzas son algo así como el espacio: sabemos que existe, qué cosas lo componen, pero realmente hay mucho que desconocemos de él. 
+Las finanzas son como el espacio: sabemos que existe, qué cosas lo componen, pero hay mucho que desconocemos de él. 
 
-Asociar la experiencia de aprender sobre finanzas con la aventura de salir a descubrir el universo era un match perfecto.
+Asociar la experiencia de aprender sobre finanzas con la aventura de salir a descubrir el universo era el match perfecto.
 
 Tomando en cuenta esto quisimos darle un _look and feel_ espacial, con la estética de las gráficas espaciales y cientificas de los 70s para que realmente te sientas en un viaje interplanetario. 
 
