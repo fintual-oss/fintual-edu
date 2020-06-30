@@ -79,7 +79,7 @@ Entonces, como queríamos hacer algo que se tratara de finanzas, fuera simple y 
 
 Y explicar bien.
 
-![](/uploads/2020-06-30/perritu.png)
+![Un Felipe feliz después de entender lo que es el valor cuota de un fondo](/uploads/2020-06-30/perritu.png)_Un Felipe feliz después de entender lo que es el valor cuota de un fondo_
 
 Por estas cosas las personas que trabajamos en Fintual nos tomamos el tiempo de explicar todo.
 
