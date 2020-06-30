@@ -105,21 +105,17 @@ Y eso nos lleva al problema número 2.
 
 Sí, podríamos haber escrito artículos de macroeconomía en Edu.
 
-Pero no estaba convencido:
+Pero no me convencía la idea:
 
-* A menudo son largos
+* Generalmente los posts son largos
 * La información suele presentarse de manera lineal
-* Es una experiencia de usuario muy pasiva (desplázate lentamente hacia abajo mientras lees, exactamente como esta publicación en este momento)
+* Es una experiencia de usuario muy pasiva (desplázate lentamente hacia abajo mientras lees, exactamente como lo estás haciendo ahora)
+* Están fuera de Fintual
 
-están fuera del producto principal
+Teníamos que hacer algo que:
 
-¿Cómo podríamos hacer algo que:
-
-explica finanzas personales y macroeconomía
-
-de una manera más "digerible" (no un muro de texto)
-
-de una manera más interactiva (que desplazarse)
+* Explicara finanzas personales y macroeconomía de una manera más "digerible" (no un muro de texto)
+* de una manera más interactiva (que desplazarse)
 
 y hacerlo parte de Fintual?articles are long, linear and passive
 
