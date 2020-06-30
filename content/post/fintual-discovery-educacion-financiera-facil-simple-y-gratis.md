@@ -156,7 +156,7 @@ Algo así:
 
 ![](/uploads/2020-06-30/aprendizaje.png)
 
-Reviso un poco del tema X, entiendo lo básico, "ah, ok, es más o menos eso", leo un par de cosas más que mencionan el tema X, así que vuelvo y reviso el tema X; ahora entiendo más y voy un poco más profundo esta vez hasta que me aburro y mi mente se pregunte algo más.
+Reviso un poco del tema X, entiendo lo básico, "ah, ok, es más o menos eso", leo un par de cosas más y vuelve a salir el tema X, así que retroceso y reviso el tema X; ahora entiendo más y profundizo un poco más hasta que me aburro y mi cabeza pasa a otra cosa.
 
 Dos elementos clave:
 
@@ -170,5 +170,7 @@ Empezar un juego es entrar en un mundo desconocido. Si eres como yo, al principi
 Pero como es un videojuego tiene que ser divertido de una, sin la necesidad de leer un manual tipo "capítulo 1: armas" con "arma 1, arma 2, arma 3...". Blablablá.
 
 Por eso los juegos parten con lo mínimo y la complejidad aumenta a medida que juegas. Siempre haces más o menos lo mismo, pero en cada nivel vas aprendiendo nuevas habilidades, acciones, armas, movimientos.
+
+Si Discovery se siente como un juego en el que exploras el universo financiero podríamos decir 
 
 Misión cumplida 👨‍🚀👨🏻‍🚀🚀
