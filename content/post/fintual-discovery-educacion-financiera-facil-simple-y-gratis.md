@@ -37,7 +37,11 @@ Las finanzas son algo así como el espacio: sabemos que existe, qué cosas lo co
 
 Asociar la experiencia de aprender sobre finanzas con la aventura de salir a descubrir el universo era un match perfecto.
 
-Tomando en cuenta esto quisimos darle un _look and feel_ espacial, con la estética de las gráficas espaciales y cientificas de los 70s para que realmente te sientas en un viaje interplanetario. Nos tomamos tan enserio el hacer del aprendizaje de finanzas algo entretenido que llenamos de cosas super cool la interfaz de Discovery, como los trailer de cada curso con gifs animados, o cosas tan pequeñas como la barra de progreso de cada nivel donde en vez de usar la tipica barra aburrida, pusimos una nave que orbita entre planetas que representan cada nivel. Dato rosa; la barra de progreso entre niveles fue lo que más tardamos en decidir por que nos obsesionamos en que fuera increíble.
+Tomando en cuenta esto quisimos darle un _look and feel_ espacial, con la estética de las gráficas espaciales y cientificas de los 70s para que realmente te sientas en un viaje interplanetario. 
+
+Nos tomamos tan enserio el hacer del aprendizaje de finanzas algo entretenido que llenamos la interfaz de Discovery de cosas super cool, como los trailer de cada curso con gifs animados, o cosas tan pequeñas como la barra de progreso de cada nivel.
+
+En vez de usar la típica barra pusimos una nave que orbita entre planetas que representan cada nivel. 
 
 #### Por qué nace Discovery
 
