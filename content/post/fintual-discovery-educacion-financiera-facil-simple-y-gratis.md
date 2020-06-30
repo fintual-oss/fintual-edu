@@ -39,7 +39,7 @@ Y eso es suuuper común con las finanzas. Por alguna razón suelen parecer oscur
 
 Guess what: it's not rocket science. No estamos lanzando nuestros ahorros a Marte. La mayoría de las finanzas que nos interesan son fáciles.
 
-En algún momento aprendimos (algo) de matemáticas y física en el colegio. ¿Cómo es que ahora, en la adultez, a muchos de nosotros nos complica hablar sobre plata sin sentir miedo, vergüenza o culpa?
+En algún momento aprendimos (algo) de matemáticas en el colegio. ¿Cómo es que ahora, en la adultez, a muchos de nosotros nos complica hablar sobre plata sin sentir miedo, vergüenza o culpa?
 
 Después de titularme entré a estudiar un magíster del tema. **Me daba vergüenza ser un abogado que no entendía absolutamente nada sobre economía.** Me sentí intimidado. Sentía que siempre me iba a faltar algo como profesional, ciudadano, hasta como _ahorrador_ (porque en ese tiempo no me podía llamar inversionista).
 
