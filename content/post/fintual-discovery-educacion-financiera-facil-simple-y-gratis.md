@@ -159,11 +159,11 @@ Dos elementos clave:
 
 #### Por qué los videojuegos son un ejemplo
 
-Comenzar un videojuego es entrar en un mundo desconocido. Comienzas y no tienes ni idea de qué hacer y cómo hacerlo.
+Empezar un juego es entrar en un mundo desconocido. Si eres como yo, al principio no tienes ni idea de qué hacer ni cómo hacerlo.
 
-Pero como es un videojuego, debe ser divertido de inmediato sin la necesidad de leer un aburrido manual lineal: "Capítulo 1: acciones y armas" con "Arma 1, arma 2, arma 3, arma 4 ..."
+Pero como es un videojuego tiene que ser divertido de una, sin la necesidad de leer un manual tipo "capítulo 1: armas" con "arma 1, arma 2, arma 3...". Blablablá.
 
-Es por eso que comienzan con el mínimo y la complejidad del juego se revela a medida que juegas. Siempre haces lo mismo pero, poco a poco, aprendes nuevas habilidades, acciones, armas y movimientos.
+Por eso los juegos parten con lo mínimo y la complejidad aumenta a medida que juegas. Siempre haces más o menos lo mismo, pero en cada nivel vas aprendiendo nuevas habilidades, acciones, armas, movimientos.
 
 Al final, un tema de Discovery es como una página de Wikipedia que se "revela" a medida que avanzas en tu exploración. Un proceso de aprendizaje que se siente natural, relajado y que puedes picotear y sentirte bien porque te estás fortaleciendo para hacerlo. !
 
