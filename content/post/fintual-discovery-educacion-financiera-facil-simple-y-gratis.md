@@ -23,7 +23,7 @@ La idea era hacer algo simple, pero no por eso menos completo.
 
 Cuando aprendes un tema partes en el nivel más básico: el concepto explicado en máximo 150 caracteres, como si fuese un tweet.
 
-Después de explorar este nivel introductorio pasas al nivel dos, que explica el mismo tema con mayor profundidad. El punto de partida de este nivel –la definición del concepto– ahora tiene más detalles y las preguntas son más difíciles. Casi como si estuvieses jugando, pasaste de nivel y ahora tienes más y mejores herramientas para completar una etapa más desafiante.
+Después de explorar este nivel introductorio pasas al nivel dos, que explica el mismo tema con mayor profundidad. El punto de partida de este nivel –la definición del concepto– ahora tiene más detalles. Casi como si estuvieses jugando, pasaste de nivel y ahora tienes más y mejores herramientas para completar una etapa más desafiante.
 
 ![Nivel 2 de La imposibilidad de predecir crisis](/uploads/2020-06-30/nivel-2-predecir-crisis.png)_Nivel 2 de La imposibilidad de predecir crisis_
 
@@ -42,6 +42,8 @@ Tomando en cuenta esto quisimos darle un _look and feel_ espacial, con la estét
 Nos tomamos tan en serio el hacer del aprendizaje de finanzas algo entretenido que llenamos la interfaz de Discovery de cosas super cool, como los trailer de cada curso con gifs animados, o cosas tan pequeñas como la barra de progreso de cada nivel.
 
 En vez de usar la típica barra pusimos una nave que orbita entre planetas que representan cada nivel. Gracias a Nicole, product designer de Fintual, por este diseño tan bacán.
+
+![](/uploads/2020-06-30/frame-12.png)
 
 #### Por qué nace Discovery
 
