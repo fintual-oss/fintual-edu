@@ -92,7 +92,7 @@ Nuestros incentivos están alineados con nuestra misión de educar.
 
 Esto que estás leyendo es parte de Edu, nuestro blog de educación financiera, noticias, actualizaciones de mercado, etc. Generalmente recibimos buen feedback:
 
-![](/uploads/2020-06-30/feedback-fintual.png)
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Los <a href="[https://twitter.com/fintual?ref_src=twsrc%5Etfw](https://twitter.com/fintual?ref_src=twsrc%5Etfw "https://twitter.com/fintual?ref_src=twsrc%5Etfw")">@fintual</a> son tan bacanos que cuando te va mal o bien en las inversiones te explican las razones y te educan. Ojalá la superintendencia de pensiones y afps tuvieran un 1% de esa forma de hacer las cosas.</p>&mdash; Javier I. (@jailabab) <a href="[https://twitter.com/jailabab/status/1201623918043422725?ref_src=twsrc%5Etfw](https://twitter.com/jailabab/status/1201623918043422725?ref_src=twsrc%5Etfw "https://twitter.com/jailabab/status/1201623918043422725?ref_src=twsrc%5Etfw")">December 2, 2019</a></blockquote> <script async src="[https://platform.twitter.com/widgets.js](https://platform.twitter.com/widgets.js "https://platform.twitter.com/widgets.js")" charset="utf-8"></script>
 
 Sin embargo, pensé que podíamos hacerlo mejor.
 
