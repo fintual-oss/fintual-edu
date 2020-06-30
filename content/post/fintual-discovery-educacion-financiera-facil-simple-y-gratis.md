@@ -10,7 +10,7 @@ title = "Fintual Discovery: educación financiera fácil, simple y gratis"
 url = "/fintual-discovery"
 
 +++
-Hoy lanzamos Fintual Discovery, una plataforma bacán para aprender las cosas que tienes que saber de inversiones y finanzas.
+Hoy lanzamos [Fintual Discovery](https://fintu.al/Go5n), una plataforma bacán para aprender las cosas que tienes que saber de inversiones y finanzas.
 
 <blockquote class="twitter-tweet"><p lang="es" dir="ltr">Discovery, de <a href="https://twitter.com/fintual?ref_src=twsrc%5Etfw">@fintual</a>, debiese ser lectura obligatoria en todos los colegios y universidades.</p>— Salomón (@salomonprophet) <a href="https://twitter.com/salomonprophet/status/1276606930316922880?ref_src=twsrc%5Etfw">June 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
