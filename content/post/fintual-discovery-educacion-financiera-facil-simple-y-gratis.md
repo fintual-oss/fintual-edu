@@ -41,7 +41,7 @@ Tomando en cuenta esto quisimos darle un _look and feel_ espacial, con la estét
 
 Nos tomamos tan enserio el hacer del aprendizaje de finanzas algo entretenido que llenamos la interfaz de Discovery de cosas super cool, como los trailer de cada curso con gifs animados, o cosas tan pequeñas como la barra de progreso de cada nivel.
 
-En vez de usar la típica barra pusimos una nave que orbita entre planetas que representan cada nivel. 
+En vez de usar la típica barra pusimos una nave que orbita entre planetas que representan cada nivel. Gracias a Nicole, product designer de Fintual, por este diseño tan bacán. 
 
 #### Por qué nace Discovery
 
@@ -59,9 +59,11 @@ Pero esa no puede ser la solución. Un magíster no debería ser necesario para 
 
 La verdadera barrera entre sentirse intimidado y sentirse empoderado es bastante más simple.
 
-El verdadero problema es la jerga. "Fondo mutuo", "ETF", "renta fija", "fondo de mercado monetario", "partícipe". La jerga intimida porque ofusca. Es una capa adicional de complejidad innecesaria que **nadie** necesita.
+El verdadero problema es _la_ _jerga financiera_: "Fondo mutuo", "ETF", "renta fija", "fondo de mercado monetario", "partícipe". 
 
-¿Nadie? Hay quienes dicen que "[cuando se trata de dinero, la incomprensión es una forma de consentimiento](https://www.newyorker.com/magazine/2014/08/04/money-talks-6)". Que no entiendas todo puede ser de interés para el banco al que le pasas tu plata para que la administre.
+La jerga intimida porque ofusca. Es una capa adicional de complejidad innecesaria que **nadie** necesita.
+
+Hay quienes dicen que "[cuando se trata de dinero, la incomprensión es una forma de consentimiento](https://www.newyorker.com/magazine/2014/08/04/money-talks-6)". Que no entiendas todo puede ser de interés para el banco al que le pasas tu plata para que la administre.
 
 En 2008 vimos como los bancos vendían productos financieros complejos y riesgosos a personas que no tenían la educación financiera para entender adecuadamente los riesgos que eso implicaba. ¿Por qué? Porque tenían incentivos para vender estos productos altamente rentables.
 
