@@ -130,11 +130,11 @@ Mis profesores de derecho eran abogados brillantes, pero los peores profes que h
 
 De hecho, podría decir que mucha gente fracasó sólo porque la enseñanza era increíblemente mala. 
 
-Paradójicamente, hizo que la reputación de la escuela fuera "más dura" (y por lo tanto mejor, o no?). Otro ejemplo de una institución que tiene un incentivo para hacer las cosas más oscuras...
+Paradójicamente, hizo que la reputación de la escuela fuera "más dura" (y por lo tanto, "mejor"). Otro ejemplo de una institución que tiene un incentivo para hacer las cosas más oscuras...
 
 Después de pasar 5 años quejándome sobre cómo enseñan, tuve una linda oportunidad de enseñar cosas como a mí me habría gustado aprender.
 
-Uno de los grandes problemas que identifiqué es algo que le puse el "síndrome del capítulo profundo".
+Uno de los grandes problemas que identifiqué es algo que denominé el "síndrome del capítulo profundo".
 
 La dinámica de mis clases era algo así:
 
@@ -142,15 +142,15 @@ La dinámica de mis clases era algo así:
 
 Diría que el dolor, el sufrimiento y la resistencia natural de tu mente y cuerpo provienen del hecho de que los cursos no están diseñados para humanos.
 
-Los temas se dividen por capítulos, lo que funciona bacán para organizar la información, pero no para enseñar.
+Los temas se dividen por capítulos, algo que funciona bacán para organizar la información, pero no para enseñar.
 
-Es un poco como si obligaras a tus hijos de 10 años a entender el mundo leyendo las páginas de Wikipedia en orden alfabético, empezando por la letra A: llorará seguro después de unas pocas páginas.
+Es un poco como si obligaras a tus hijos de 10 años a entender el mundo leyendo las páginas de Wikipedia en orden alfabético, no va a durar mucho rato leyendo.
 
 Lo bueno de Wikipedia y de en internet en general es que,  al contrario de lo que pasa en un libro, la información no necesita ser lineal.
 
 #### Entonces qué
 
-Creo que debería ser la forma natural en que una mente _millennial_ curiosa explora la información. Porque si se siente natural... Bueno, se siente natural.
+Creo que aprender debería seguir la ruta natural en que una mente _millennial_ curiosa explora la información. Porque si se siente natural... Bueno, se siente natural.
 
 Algo así:
 
