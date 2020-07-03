@@ -5,7 +5,7 @@ categories = ["educación financiera"]
 date = 2018-12-30T19:36:40Z
 description = "Aprende cómo ganarle al sistema sacándole provecho a los beneficios que tienen las tarjetas de crédito. "
 hide = false
-image = ""
+image = "/uploads/2020-07-03/tc.jpg"
 title = "5 cosas que tienes que saber de las tarjetas de crédito"
 url = "/cosas-que-tienes-que-saber-de-las-tarjetas-de-credito"
 
