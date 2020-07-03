@@ -66,7 +66,7 @@ Aunque no todas las tarjetas funcionan con meta de compra. La CMR, por ejemplo, 
 
 Una vez estaba en un crucero y me intoxiqué. Como estaba navegando y me sentía muy mal, la única alternativa que tenía era ir a la enfermería del barco. La consulta de 15 minutos me costó 300 dólares. Sí, 300 dólares. 240 lucas. Salí de la consulta peor que cuando entré.
 
-gif
+<div style="text-align:center"> <figure> <img src="/uploads/2020-07-03/wallstreet.gif"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Así se sintió</i></figcaption> </figure> </div>
 
 Cuando llegué a Chile intenté probar el seguro de mi tarjeta de crédito. Cuando compras los pasajes con tarjeta de crédito puedes usar beneficios como el seguro médico sin costo.
 
