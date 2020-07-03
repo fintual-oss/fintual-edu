@@ -60,7 +60,7 @@ Por ejemplo, el mes pasado el Banco Santander lanzó una promoción en la que te
 
 Como mi cupo es de $400.000, mi meta de compra no podía superar ese monto. Gané 10.000 millas, que alcanzan para un pasaje a cualquier parte de Chile. Completando 3 promociones de este tipo al año estarías cerca de un pasaje a Estados Unidos.
 
-Aunque no todas las tarjetas funcionan con meta de compra. La CMR, por ejemplo, es por monti gastado.
+Aunque no todas las tarjetas funcionan con meta de compra. La CMR, por ejemplo, es por monto gastado.
 
 #### Si vas a viajar, compra tus pasajes con tu tarjeta de crédito
 
