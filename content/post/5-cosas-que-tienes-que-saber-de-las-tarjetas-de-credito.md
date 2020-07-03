@@ -16,7 +16,7 @@ Las tarjetas de crédito pueden ser un gran aliado o un dolor de cabeza. Aprende
 
 Los bancos ganan plata con las tarjetas de crédito cuando te endeudas. Los intereses son altísimos y las cartolas suelen ser difíciles de entender.
 
-**Si vas a sacar una tarjeta de crédito, no compres cosas sin tener plata para pagarlas** (es decir, no compres con crédito). Sólo úsala para aprovechar los beneficios.
+**Si vas a sacar una tarjeta de crédito, trata de no comprar cosas sin tener plata para pagarlas** (es decir, no compres con crédito). La idea es usarla para aprovechar los beneficios y, si no te queda otra, es bueno saber a qué te enfrentas
 
 foto
 
