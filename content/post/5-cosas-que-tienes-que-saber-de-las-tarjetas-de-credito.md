@@ -18,7 +18,7 @@ Los bancos ganan plata con las tarjetas de crédito cuando te endeudas. Los inte
 
 **Si vas a sacar una tarjeta de crédito, trata de no comprar cosas sin tener plata para pagarlas** (es decir, no compres con crédito). La idea es usarla para aprovechar los beneficios y, si no te queda otra, es bueno saber a qué te enfrentas
 
-foto
+![](/uploads/2020-07-03/cartola.png)
 
 Este es un ejemplo de la cartola de mi tarjeta de crédito. Es difícil de entender y aún más difícil de explicar. Además, las tasas de interés son grandes y no reflejan el costo total del crédito.
 
