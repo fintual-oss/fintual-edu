@@ -31,15 +31,15 @@ En 2013, Vicente jubiló. Al fin tendría tiempo para completar su colección de
 
 <img src="/uploads/vicente.gif">
 
-<em> Vicente Flores </em>
-
 </figure>
 
 </div>
 
 A pesar de haber invertido justo antes de las caídas más grandes de los últimos tiempos, las inversiones de Vicente rentaron un \~9% anual (_money-weighted_). **El secreto es haber mantenido a pesar de las bajas y pensar en el largo plazo, donde el mercado históricamente ha subido.**
 
-De todos modos, a Vicente le podría haber ido aún mejor si hubiese invertido más regularmente, en vez de una vez cada década. En ese caso, hubiese terminado con más de $2.000 millones!
+De todos modos, a Vicente le podría haber ido aún mejor si hubiese invertido más regularmente, en vez de una vez cada década. En ese caso, hubiese terminado con más de $2.000 millones!  
+  
+Shh… no le digan si lo ven.
 
 <div style="text-align:center">
 <figure>
@@ -47,9 +47,6 @@ De todos modos, a Vicente le podría haber ido aún mejor si hubiese invertido m
 <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Ilustración de <a target="_blank" href="https://www.instagram.com/alv.ardiles/">Álvaro Ardiles</a></i></figcaption>
 </figure>
 </div>
-
-
-Shh… no le digan si lo ven.
 
 _Ésta es una adaptación de_ [_Meet Bob, The World's Worst Market Timer de Steve Boren._](https://prosperion.us/commentary/meet-bob-worlds-worst-market-timer/) _La rentabilidad está en la moneda original del S&P 500 por simplicidad._
 
