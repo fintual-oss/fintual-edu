@@ -12,12 +12,6 @@ url = "/4-beneficios-tributarios-si-usas-fintual"
 +++
 Hay **beneficios tributarios** que todos los usuarios de Fintual podrían aprovechar.
 
-<div style="text-align:center">
-<figure>
-<img src="/uploads/baby fist meme.png">
-</figure>
-</div>
-
 #### **1. Rescate de ganancias**
 
 Si **rescatas** y tus ganancias en fondos mutuos son menores a 30 UTM al año —aproximadamente $1.460.000— están exentas del impuesto a la renta. Este beneficio es conocido como 57 LIR y aplica a la suma de todos los rescates de los fondos mutuos que tengas.
