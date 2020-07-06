@@ -32,7 +32,7 @@ Contestando el chat en marzo, hablé con una persona que estaba asustada porque 
 
 Bajas como la que vimos en el coronavirus están contempladas en escenarios de inversión a largo plazo, pero si vas a necesitar tu plata en el corto plazo no deberías tomar tanto riesgo.
 
-#### 🌱 Invertir verde ya no es "el futuro_"_
+#### 🌱 Invertir verde ya no es "el futuro"
 
 Según un estudio de BlackRock, los fondos sustentables se han asociado a mayor resiliencia y, por ende, a **mejor desempeño durante esta crisis**.
 
@@ -50,7 +50,7 @@ En cuanto a inversiones, si bien no hicimos cambios drásticos en el nivel de ri
 
 #### 📈 Se recuperaron quienes no tocaron su inversión
 
-Calculamos que la rentabilidad que se dejó de ganar debido a que la gente sacó su plata, supera los $550 millones.* **Risky Norris, el fondo que más cayó en su minuto, ha rentado 20,72% desde el 24 de marzo.**
+Calculamos que la rentabilidad que se dejó de ganar debido a que la gente sacó su plata, supera los $550 millones. **Risky Norris, el fondo que más cayó en su minuto, ha rentado 20,72% desde el 24 de marzo.**
 
 Los mercados son muy impredecibles. Las inversiones se han recuperado pese a que, lamentablemente, en Estados Unidos y Latinoamérica estamos en el peak de contagios y muertes por covid.
 
