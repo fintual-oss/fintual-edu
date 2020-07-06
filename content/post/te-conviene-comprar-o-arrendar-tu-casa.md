@@ -22,7 +22,7 @@ También pienso que para los completos es mejor poner la palta, tomate y mayo DE
 todo y tampoco me mancho.
 
 <div style="text-align: center;">
-  <figure> <img src="/uploads/2020-07-06/completowtf.gif" /> </figure>
+  <figure> <img src="/uploads/2020-07-06/completowtf.gif"> </figure>
 </div>
 
 Pero tengo varios argumentos para defender mi postura de que es mejor arrendar que comprar el lugar donde vives. Después
@@ -63,7 +63,7 @@ veremos si aguantan mis cálculos de servilleta. <p></p>
 
 </ol>
 <div style="text-align: center;">
-  <figure> <img src="/uploads/comprar-vs-arrendar-ludmila-drago-min.png" />
+  <figure> <img src="/uploads/comprar-vs-arrendar-ludmila-drago-min.png">
     <figcaption style="display: block;text-align: center;font-size: .8rem;"><i>Ilustración de <a target="_blank"
           href="https://www.instagram.com/ludmiladragoart/">Ludmila Drago</a></i></figcaption>
   </figure>
