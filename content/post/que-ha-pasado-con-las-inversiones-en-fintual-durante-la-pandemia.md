@@ -4,9 +4,8 @@ author = "Francesca Finaldi"
 categories = ["educación financiera"]
 date = 2020-07-06T17:28:39Z
 description = "TL;DR: Se recuperaron quienes no tocaron su inversión"
-draft = true
 hide = false
-image = ""
+image = "/uploads/2020-07-06/coronavirus.jpg"
 title = "¿Qué ha pasado con las inversiones en Fintual durante la pandemia?"
 url = "/inversiones-en-fintual-durante-coronavirus"
 
