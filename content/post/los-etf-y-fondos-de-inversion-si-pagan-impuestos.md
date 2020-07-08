@@ -10,11 +10,11 @@ title = "Los ETF y fondos de inversión sí pagan impuestos"
 url = "/etf-fondos-de-inversion-si-pagan-impuestos"
 
 +++
-Si te asesoraron diciendo que hay ETF o fondos de inversión que no pagan impuestos, **cuidado**. Te mintieron.
+Si te asesoraron diciendo que hay ETF o fondos de inversión que no pagan impuestos, partiste mal.
 
 En Chile existe un beneficio tributario que se llama **107 LIR** y permite no pagar impuestos por la ganancia de capital (o rentabilidad) del fondo, **pero sí pagas impuestos por los dividendos que genera el fondo.**
 
-#### Un poco de contexto sobre impuestos 
+#### Un poco de contexto sobre impuestos
 
 Cuando se habla de impuestos, al tener un fondo de inversión puedes tributar por dos tipos de ingresos:
 
@@ -36,7 +36,7 @@ Lo tienen algunos fondos mutuos o fondos de inversión listados en bolsa y poten
 Para que un fondo o ETF tenga este beneficio se tienen que cumplir alguna de estas condiciones:
 
 * Que sea un fondo mutuo constituido por acciones chilenas, donde un mínimo de ellas tengan presencia bursátil por sí sola, o
-* Que sea un fondo de inversión con **presencia bursátil**, una medida de cuántas transacciones en bolsa se han registrado de un cierto instrumento financiero, como una acción de una empresa chilena. 
+* Que sea un fondo de inversión con **presencia bursátil**, una medida de cuántas transacciones en bolsa se han registrado de un cierto instrumento financiero, como una acción de una empresa chilena.
 
 ¿Cuándo se tiene presencia bursátil? Si existen varias operaciones de compra y venta por bolsa durante los últimos 180 días bursátiles y hay un _market maker,_ una figura que disponibiliza precios de compra y venta.
 
@@ -44,20 +44,20 @@ Para que un fondo o ETF tenga este beneficio se tienen que cumplir alguna de est
 
 De acuerdo a la última reforma tributaria, en los fondos de inversión la presencia bursátil es una condición cada vez más difícil de alcanzar, ya que:
 
-* A partir del primero de marzo del 2021 **el** [**80% de los fondos de inversión**](https://www.elmercurio.com/inversiones/noticias/columnas/2020/03/19/bolsa-chilena-las-tragedias-nunca-llegan-solas.aspx) **perdería el beneficio 107 LIR el 2021.** Ya no bastará con que exista un _market maker_, ya que sólo podría ser utilizado por el primer año de existencia del fondo. 
+* A partir del primero de marzo del 2021 **el** [**80% de los fondos de inversión**](https://www.elmercurio.com/inversiones/noticias/columnas/2020/03/19/bolsa-chilena-las-tragedias-nunca-llegan-solas.aspx) **perdería el beneficio 107 LIR el 2021.** Ya no bastará con que exista un _market maker_, ya que sólo podría ser utilizado por el primer año de existencia del fondo.
 * Además de lo anterior, [la CMF puso en consulta requerimientos más elevados para satisfacer la presencia bursátil](http://www.cmfchile.cl/portal/prensa/604/w3-article-27473.html). Se incrementa el monto diario transado y el número de días negociados exigidos para considerarse con presencia bursátil, pasando desde las actuales 1.000 UF y 25%, hasta 3.000 UF y 75%, respectivamente. Según el mismo artículo del punto anterior, **con esta condición el 96% de los fondos de inversión perderían este beneficio**.
 
 #### El espíritu del beneficio
 
-El beneficio tributario 107 LIR fue creado para beneficiar acciones o instrumentos de empresas locales. 
+El beneficio tributario 107 LIR fue creado para beneficiar acciones o instrumentos de empresas locales.
 
-Varios legisladores y actores políticos (incluso altos ejecutivos de la industria financiera, [muchas veces en el anonimato](https://www.elmercurio.com/Inversiones/Noticias/Analisis/2019/03/27/Mercado-analiza-opciones-y-mejoras-para-market-makers.aspx)) han levantado la voz apuntando a que este beneficio tributario no cumple el espíritu original de la norma, que es dar liquidez a iniciativas locales y emprendimientos. 
+Varios legisladores y actores políticos (incluso altos ejecutivos de la industria financiera, [muchas veces en el anonimato](https://www.elmercurio.com/Inversiones/Noticias/Analisis/2019/03/27/Mercado-analiza-opciones-y-mejoras-para-market-makers.aspx)) han levantado la voz apuntando a que este beneficio tributario no cumple el espíritu original de la norma, que es dar liquidez a iniciativas locales y emprendimientos.
 
 Es, por lo tanto, un beneficio difícil de alcanzar y constantemente cuestionado.
 
 #### Podrías estar invirtiendo en un fondo o ETF sin ningún beneficio tributario futuro
 
-Hay que tener cuidado al invertir con la promesa futura de este beneficio. 
+Hay que tener cuidado al invertir con la promesa futura de este beneficio.
 
 Si el fondo en el que estás invirtiendo hoy dejara de tener presencia bursátil en unos años, no va a tener ningún beneficio tributario.
 
@@ -65,7 +65,7 @@ Si el fondo en el que estás invirtiendo hoy dejara de tener presencia bursátil
 
 Para que el beneficio tributario 107 LIR se aplique, el fondo de inversión tiene que, además, venderse a través de una bolsa de valores local.
 
-Esto implica que se tienen que pagar **costos extras de liquidez, además del costo de corretaje**. 
+Esto implica que se tienen que pagar **costos extras de liquidez, además del costo de corretaje**.
 
 Un ejemplo es el costo de vender a un precio menor respecto al valor contable o valor cuota, especialmente en días donde en la bolsa no hay buenas puntas de compra del fondo de inversión que se está vendiendo.
 
@@ -75,6 +75,6 @@ En los últimos años, varios _family offices_, en representación de sus client
 
 En varios fondos de inversión, el factor 107 LIR ha dejado de ser decisivo a la hora de invertir, e incluso ha sido removido de varios fondos a lo largo del año 2020.
 
-#### Es probablemente que este beneficio continúe siendo utilizado como una estrategia de venta. 
+#### Es probablemente que este beneficio continúe siendo utilizado como una estrategia de venta.
 
 Por eso es bueno y necesario que sepas que en la práctica el beneficio tributario termina siendo marginal o nulo respecto de lo que te ofrecieron.
