@@ -13,7 +13,9 @@ url = "/etf-fondos-de-inversion-si-pagan-impuestos"
 +++
 Si te asesoraron diciendo que hay ETF o fondos de inversión que no pagan impuestos, **cuidado**. Te mintieron.
 
-En Chile existe un beneficio tributario que permite no pagar impuestos por la ganancia de capital (o rentabilidad) del fondo, **pero sí pagas impuestos por los dividendos que genera el fondo.**
+En Chile existe un beneficio tributario que se llama 107 LIR y permite no pagar impuestos por la ganancia de capital (o rentabilidad) del fondo, **pero sí pagas impuestos por los dividendos que genera el fondo.**
+
+#### Un poco de contexto sobre impuestos 
 
 Cuando se habla de impuestos, al tener un fondo de inversión puedes tributar por dos tipos de ingresos:
 
