@@ -21,16 +21,16 @@ Si te dijeron que no vas a pagar impuestos, te mintieron. **Todos los fondos pag
 
 Es más, la mayoría de estos ETF se construyen a través de la figura de fondo de inversión, que —a diferencia de un fondo mutuo— tiene la obligación por ley de repartir al menos el 30% de los beneficios netos anuales percibidos en forma de dividendos.
 
-**Es decir, todos los años que haya dividendos tendrás que calcular y pagar tus impuestos.**
+**O sea, siempre vas a recibir dividendos si al fondo de inversión le va bien y, por lo tanto, siempre vas a tributar algo en el caso de recibirlos.**
 
 #### ¿Qué fondos gozan del beneficio 107 LIR?
 
 La clave está en el concepto de **presencia bursátil**: una medida de cuántas transacciones en bolsa se han registrado de un cierto instrumento financiero, como una acción de una empresa chilena.
 
-Para que un fondo o ETF goce de este beneficio, se tienen que satisfacer al menos estas restricciones:
+Para que un fondo o ETF tenga este beneficio se tienen que cumplir alguna de estas condiciones:
 
-* que sea un fondo mutuo constituído por acciones chilenas, donde un mínimo de ellas tengan presencia bursátil por sí sola, o
-* que sea un fondo de inversión con presencia bursátil.
+* Que sea un fondo mutuo constituido por acciones chilenas, donde un mínimo de ellas tengan presencia bursátil por sí sola, o
+* Que sea un fondo de inversión con presencia bursátil.
 
 En el segundo caso, un fondo de inversión tendrá presencia bursátil solo en determinados casos y bajo una serie de exigencias.
 
