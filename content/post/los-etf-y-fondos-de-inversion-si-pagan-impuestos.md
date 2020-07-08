@@ -32,7 +32,7 @@ La mayoría de estos ETF se construyen a través de la figura de fondo de invers
 
 #### ¿Qué fondos gozan del beneficio 107 LIR?
 
-Lo tienen algunos fondos mutuos o fondos de inversión listados en bolsa y potencialmente varios [ETF](https://edu.fintual.cl/el-porqu%C3%A9-fintual-usa-etfs-77b7e7336f86/) (fondos cotizados en bolsa) que operan bajo la legislación chilena.
+Lo tienen algunos fondos mutuos o fondos de inversión listados en bolsa y potencialmente varios [ETF](https://edu.fintual.cl/el-porqu%C3%A9-fintual-usa-etfs-77b7e7336f86/) que operan bajo la legislación chilena.
 
 La clave está en el concepto de **presencia bursátil**: una medida de cuántas transacciones en bolsa se han registrado de un cierto instrumento financiero, como una acción de una empresa chilena.
 
