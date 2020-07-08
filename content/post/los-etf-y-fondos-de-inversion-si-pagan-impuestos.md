@@ -34,14 +34,12 @@ La mayoría de estos ETF se construyen a través de la figura de fondo de invers
 
 Lo tienen algunos fondos mutuos o fondos de inversión listados en bolsa y potencialmente varios [ETF](https://edu.fintual.cl/el-porqu%C3%A9-fintual-usa-etfs-77b7e7336f86/) que operan bajo la legislación chilena.
 
-La clave está en el concepto de **presencia bursátil**: una medida de cuántas transacciones en bolsa se han registrado de un cierto instrumento financiero, como una acción de una empresa chilena.
-
 Para que un fondo o ETF tenga este beneficio se tienen que cumplir alguna de estas condiciones:
 
 * Que sea un fondo mutuo constituido por acciones chilenas, donde un mínimo de ellas tengan presencia bursátil por sí sola, o
-* Que sea un fondo de inversión con presencia bursátil.
+* Que sea un fondo de inversión con **presencia bursátil**, una medida de cuántas transacciones en bolsa se han registrado de un cierto instrumento financiero, como una acción de una empresa chilena. 
 
-En el segundo caso, un fondo de inversión tendrá presencia bursátil en algunos casos y bajo una serie de exigencias: tener varias operaciones de compra y venta por bolsa durante los últimos 180 días bursátiles y tener un _market maker_, es decir, un agente de bolsa especializado en disponer en cada momento precios de compra y de venta del instrumento
+¿Cuándo se tiene presencia bursátil? Si existen varias operaciones de compra y venta por bolsa durante los últimos 180 días bursátiles y hay un _market maker_ o un agente de bolsa especializado en disponer en cada momento precios de compra y de venta del instrumento.
 
 #### Un beneficio en retirada
 
