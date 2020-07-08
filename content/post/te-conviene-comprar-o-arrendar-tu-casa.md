@@ -54,7 +54,6 @@ veremos si aguantan mis cálculos de servilleta. <p></p>
     <a href="https://edu.fintual.cl/tabla-proporcion-arriendo-compra-propiedad/" target="_blank">
       <i>análisis</i> <i>de esto considerando propiedades publicadas</i></a> <i>en Portal Inmobiliario. No es
       científico, pero le creo).</i></li>
-  </li>
 
   <li><b>Es mejor comprar varias propiedades chicas que una sola grande.</b> Dada la relación inversamente proporcional
     entre el valor de una propiedad y su arriendo, en vez de comprar una propiedad de UF 5.000 para vivir, sería mejor
