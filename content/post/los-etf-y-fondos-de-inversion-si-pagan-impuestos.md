@@ -2,9 +2,8 @@
 aliases = []
 author = "Omar Larré"
 categories = ["educación financiera"]
-date = 2020-07-08T21:39:50Z
-description = ""
-draft = true
+date = 2018-07-18T21:39:50Z
+description = "Todos los fondos pagan impuestos, ya que al menos lo tienen que pagar respecto a los dividendos."
 hide = false
 image = "/uploads/2020-07-08/que-es-un-etf-pascale-min.png"
 title = "Los ETF y fondos de inversión sí pagan impuestos"
@@ -70,8 +69,12 @@ Esto implica que se tienen que pagar **costos extras de liquidez, además del co
 
 Un ejemplo es el costo de vender a un precio menor respecto al valor contable o valor cuota, especialmente en días donde en la bolsa no hay buenas puntas de compra del fondo de inversión que se está vendiendo.
 
-#### Varios family offices han preferido olvidar este beneficio
+#### Varios _family offices_ han preferido olvidar este beneficio
 
-En los últimos años, varios _family offices_, en representación de sus clientes (que suelen ser familias de alto patrimonio), han decidido invertir dejando un poco de lado la existencia de este beneficio (ya que cada vez es más difícil de tener) en pos de la diversificación y calidad de las inversiones. Es así que en varios fondos de inversión, el factor 107 LIR ha dejado de ser decisivo a la hora de invertir, e incluso, ha sido removido de varios fondos a lo largo del año 2020.
+En los últimos años, varios _family offices_, en representación de sus clientes (que suelen ser familias de alto patrimonio), han decidido invertir dejando un poco de lado la existencia de este beneficio cada vez más difícil de tener en pos de la diversificación y calidad de las inversiones.
 
-#### Como conclusión, seguramente este beneficio continúe siendo utilizado como una estrategia de venta. Pero es bueno saber que en la práctica el beneficio tributario termina siendo marginal o nulo respecto de lo que se esperaba.
+En varios fondos de inversión, el factor 107 LIR ha dejado de ser decisivo a la hora de invertir, e incluso ha sido removido de varios fondos a lo largo del año 2020.
+
+#### Es probablemente que este beneficio continúe siendo utilizado como una estrategia de venta. 
+
+Por eso es bueno y necesario que sepas que en la práctica el beneficio tributario termina siendo marginal o nulo respecto de lo que te ofrecieron.
