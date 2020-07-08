@@ -25,7 +25,7 @@ Es más, la mayoría de estos ETF se construyen a través de la figura de fondo 
 
 #### ¿Qué fondos gozan del beneficio 107 LIR?
 
-La clave está en el concepto de **presencia bursátil**, que es una medida de cuántas transacciones en bolsa se han registrado de un cierto instrumento financiero, como por ejemplo, una acción de una empresa chilena.
+La clave está en el concepto de **presencia bursátil**: una medida de cuántas transacciones en bolsa se han registrado de un cierto instrumento financiero, como una acción de una empresa chilena.
 
 Para que un fondo o ETF goce de este beneficio, se tienen que satisfacer al menos estas restricciones:
 
