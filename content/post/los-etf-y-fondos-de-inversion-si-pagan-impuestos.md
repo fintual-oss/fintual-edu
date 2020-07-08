@@ -22,11 +22,11 @@ Cuando se habla de impuestos, al tener un fondo de inversión puedes tributar po
 * **La ganancia de capital:** el aumento de precio que pueda tener el precio de cada cuota de un fondo de inversión al momento de vender esa cuota.
 * **Los dividendos del fondo:** beneficios que se reparten a todos los partícipes del fondo a menos una vez al año.
 
-El beneficio **107 LIR** que exime de ganancias de capital a fondos de inversión (que cumplan ciertas condiciones), pero **no exime el pago de impuestos por dividendos.**
+El beneficio **107 LIR** exime el pago de impuestos por ganancias de capital a fondos de inversión (que cumplan ciertas condiciones), pero **no exime el pago de impuestos por dividendos.**
 
 > Desconfía si te dijeron que no vas a pagar impuestos. Todos los fondos pagan impuestos, ya que al menos lo tienen que pagar respecto a los dividendos.
 
-La mayoría de estos ETF se construyen a través de la figura de fondo de inversión, que —a diferencia de un fondo mutuo— tiene la obligación por ley de repartir al menos el 30% de los beneficios netos anuales percibidos en forma de dividendos.
+La mayoría de estos ETF se construyen a través de la figura de fondo de inversión, que —a diferencia de un fondo mutuo— tiene una obligación por ley de repartir al menos el 30% de los beneficios netos anuales percibidos en forma de dividendos.
 
 **O sea, siempre vas a recibir dividendos si al fondo de inversión le va bien y, por lo tanto, siempre vas a tributar algo en el caso de recibirlos.**
 
