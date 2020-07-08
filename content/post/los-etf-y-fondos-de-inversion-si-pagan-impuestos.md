@@ -58,11 +58,17 @@ Es, por lo tanto, un beneficio difícil de alcanzar y constantemente cuestionado
 
 #### Podrías estar invirtiendo en un fondo o ETF sin ningún beneficio tributario futuro
 
-Hay que tener cuidado al invertir con la promesa futura de este beneficio: perfectamente podrías invertir hoy en un fondo que, después de unos años, ya no tenga presencia bursátil, y por lo tanto, ya no cuente con ningún beneficio tributario.
+Hay que tener cuidado al invertir con la promesa futura de este beneficio. 
+
+Si el fondo en el que estás invirtiendo hoy dejara de tener presencia bursátil en unos años, no va a tener ningún beneficio tributario.
 
 #### Costos extras de enajenar fondos por bolsa
 
-Otro factor importante de considerar es que, para que el beneficio tributario 107 LIR se aplique, el fondo de inversión tiene que además venderse a través de una bolsa de valores local, y por lo tanto, hay costos extras de liquidez que se tienen que pagar, además del costo de corretaje. Un ejemplo es el costo de vender a un precio menor respecto al valor contable o valor cuota, especialmente en días donde en la bolsa no hay buenas puntas de compra del fondo de inversión que se está vendiendo.
+Para que el beneficio tributario 107 LIR se aplique, el fondo de inversión tiene que, además, venderse a través de una bolsa de valores local.
+
+Esto implica que se tienen que pagar **costos extras de liquidez, además del costo de corretaje**. 
+
+Un ejemplo es el costo de vender a un precio menor respecto al valor contable o valor cuota, especialmente en días donde en la bolsa no hay buenas puntas de compra del fondo de inversión que se está vendiendo.
 
 #### Varios family offices han preferido olvidar este beneficio
 
