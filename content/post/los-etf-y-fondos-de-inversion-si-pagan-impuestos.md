@@ -15,19 +15,17 @@ Si te asesoraron diciendo que hay ETF o fondos de inversión que no pagan impues
 
 En Chile existe un beneficio tributario que permite no pagar impuestos por la ganancia de capital (o rentabilidad) del fondo, **pero sí pagas impuestos por los dividendos que genera el fondo.**
 
-Algunos fondos mutuos o fondos de inversión listados en bolsa pueden acceder este beneficio tributario, el 107 LIR o referido al Artículo 107 de la Ley de Impuesto a la Renta. 
+Este beneficio tributario se llama 107 LIR o referido al Artículo 107 de la Ley de Impuesto a la Renta. Lo tienen algunos fondos mutuos o fondos de inversión listados en bolsa y potencialmente varios [ETF](https://edu.fintual.cl/el-porqu%C3%A9-fintual-usa-etfs-77b7e7336f86/) (fondos cotizados en bolsa) que operan bajo la legislación chilena.
 
-Esto incluye potencialmente a varios [ETF](https://edu.fintual.cl/el-porqu%C3%A9-fintual-usa-etfs-77b7e7336f86/) (fondos cotizados en bolsa) que operan bajo la legislación chilena.
+Si te dijeron que no vas a pagar impuestos, te mintieron. **Todos los fondos pagan impuestos, ya que al menos lo tienen que pagar respecto a los dividendos.**
 
-Si te dijeron que no vas a pagar impuestos, te mintieron. **Todos los fondos pagan impuesto, ya que al menos lo tienen que pagar respecto a los dividendos.**
+Es más, la mayoría de estos ETF se construyen a través de la figura de fondo de inversión, que —a diferencia de un fondo mutuo— tiene la obligación por ley de repartir al menos el 30% de los beneficios netos anuales percibidos en forma de dividendos.
 
-Es más, la mayoría de estos ETFs se construyen a través de la figura de fondo de inversión, que —a diferencia de un fondo mutuo— tiene la obligación por ley de repartir al menos el 30% de los beneficios netos anuales percibidos en forma de dividendos.
+**Es decir, todos los años que haya dividendos tendrás que calcular y pagar tus impuestos.**
 
-**Es decir, todos los años que hayan dividendos tendrás que calcular y pagar tus impuestos.**
+#### ¿Qué fondos gozan del beneficio 107 LIR?
 
-## Pero ¿qué fondos gozan del beneficio 107 LIR?
-
-La clave está en el concepto de **presencia bursátil**, que es una medida de cuantas transacciones en bolsa se han registrado de un cierto instrumento financiero, como por ejemplo, una acción de una empresa chilena.
+La clave está en el concepto de **presencia bursátil**, que es una medida de cuántas transacciones en bolsa se han registrado de un cierto instrumento financiero, como por ejemplo, una acción de una empresa chilena.
 
 Para que un fondo o ETF goce de este beneficio, se tienen que satisfacer al menos estas restricciones:
 
