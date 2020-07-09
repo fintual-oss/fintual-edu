@@ -63,11 +63,11 @@ Si el fondo en el que estás invirtiendo hoy dejara de tener presencia bursátil
 
 #### Costos extras de enajenar fondos por bolsa
 
-Para que el beneficio tributario 107 LIR se aplique, el fondo de inversión tiene que, además, venderse a través de una bolsa de valores local.
+Adicionalmente a todas las exigencias anteriormente descritas, para que el beneficio tributario 107 LIR se aplique, el fondo de inversión tiene que venderse a través de una bolsa de valores local. 
 
 Esto implica que se tienen que pagar **costos extras de liquidez, además del costo de corretaje**.
 
-Un ejemplo es el costo de vender a un precio menor respecto al valor contable o valor cuota, especialmente en días donde en la bolsa no hay buenas puntas de compra del fondo de inversión que se está vendiendo.
+Un ejemplo de costo de liquidez es el costo de vender en bolsa a un precio menor respecto al valor contable o valor cuota, especialmente en días donde en la bolsa no hay buenas puntas de compra del fondo de inversión que se está vendiendo.
 
 #### Varios _family offices_ han preferido olvidar este beneficio
 
