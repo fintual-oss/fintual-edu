@@ -85,4 +85,4 @@ En Fintual, sólo las ganancias que retiras entran a tu base de impuestos. Si no
 
 Creemos además que ningún beneficio tributario de fondos es "el gran hack". 
 
-Sin embargo, [hay varios beneficios tributarios que puedes usar en Fintual](https://edu.fintual.cl/4-beneficios-tributarios-si-usas-fintual/) y pueden ser de mucha utilidad dependiendo de cada caso. Entre ellos, creemos que el beneficio tributario APV, que sirve para ahorrar para tu jubilación, está dentro de los mejores que puedes obtener. 
+Sin embargo, [hay varios beneficios tributarios que puedes usar en Fintual](https://edu.fintual.cl/4-beneficios-tributarios-si-usas-fintual/) y seguramente serán de mucha utilidad dependiendo de cada caso. Entre ellos, creemos que el beneficio tributario APV, que sirve para ahorrar para tu jubilación, está dentro de los mejores que puedes obtener. 
