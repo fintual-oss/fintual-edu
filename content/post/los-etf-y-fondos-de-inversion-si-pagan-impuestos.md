@@ -38,7 +38,7 @@ Para que un fondo o ETF tenga este beneficio se tienen que cumplir alguna de est
 * Que sea un fondo de inversión con **presencia bursátil**, que es una medida de cuántas transacciones en bolsa se han registrado de un cierto instrumento financiero, como una acción de una empresa chilena, o
 * Que sea un fondo mutuo constituido por acciones chilenas, donde un mínimo de ellas tengan presencia bursátil por sí sola.
 
-¿Cuándo se tiene presencia bursátil? Si existen varias operaciones de compra y venta por bolsa durante los últimos 180 días bursátiles y hay un _market maker,_ una figura que disponibiliza precios de compra y venta.
+¿Cuándo se tiene presencia bursátil? Hay varias condiciones para que un fondo tenga presencia bursátil. Una de esas es que existan varios días de operaciones de compra y venta por bolsa durante los últimos 180 días bursátiles o si hay un _market maker,_ que una figura que disponibiliza precios de compra y venta del fondo.
 
 #### Un beneficio en retirada
 
