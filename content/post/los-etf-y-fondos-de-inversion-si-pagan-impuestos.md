@@ -53,7 +53,7 @@ El beneficio tributario 107 LIR fue creado para beneficiar acciones o instrument
 
 Es por esto que varios legisladores y actores políticos (incluso altos ejecutivos de la industria financiera, [muchas veces en el anonimato](https://www.elmercurio.com/Inversiones/Noticias/Analisis/2019/03/27/Mercado-analiza-opciones-y-mejoras-para-market-makers.aspx)) han levantado la voz apuntando a que este beneficio tributario no cumple el espíritu original de la norma, que es dar liquidez a iniciativas locales.
 
-Es, por lo tanto, un beneficio constantemente cuestionado cuando se aplica al contexto de fondos co activos extranjeros.
+Es, por lo tanto, un beneficio constantemente cuestionado cuando se aplica al contexto de fondos que contienen activos extranjeros.
 
 #### Podrías estar invirtiendo en un fondo o ETF sin ningún beneficio tributario futuro
 
