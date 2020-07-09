@@ -19,7 +19,7 @@ En Chile existe un beneficio tributario que se llama **107 LIR** y permite no pa
 Cuando se habla de impuestos, al tener un fondo de inversión puedes tributar por dos tipos de ingresos:
 
 * **La ganancia de capital:** el aumento de precio que pueda tener el precio de cada cuota de un fondo de inversión al momento de vender esa cuota.
-* **Los dividendos del fondo:** beneficios que se reparten a todos los partícipes del fondo a menos una vez al año.
+* **Los dividendos del fondo:** beneficios que se reparten a todos los partícipes del fondo al menos una vez al año.
 
 El beneficio **107 LIR** exime el pago de impuestos por ganancias de capital a fondos de inversión que cumplan varias condiciones, pero **no exime el pago de impuestos por dividendos.**
 
@@ -38,7 +38,7 @@ Para que un fondo o ETF tenga este beneficio se tienen que cumplir alguna de est
 * Que sea un fondo de inversión con **presencia bursátil**, que es una medida de cuántas transacciones en bolsa se han registrado de un cierto instrumento financiero, como una acción de una empresa chilena, o
 * Que sea un fondo mutuo constituido por acciones chilenas, donde un mínimo de ellas tengan presencia bursátil por sí sola.
 
-¿Cuándo se tiene presencia bursátil? Hay varias condiciones para que un fondo tenga presencia bursátil. Una de esas es que existan varios días de operaciones de compra y venta por bolsa durante los últimos 180 días bursátiles o si hay un _market maker,_ que una figura que disponibiliza precios de compra y venta del fondo.
+¿Cuándo se tiene presencia bursátil? Hay varias condiciones para que un fondo tenga presencia bursátil. Una de esas es que existan varios días de operaciones de compra/venta por bolsa durante los últimos 180 días bursátiles, o si hay un _market maker,_ que es una figura que disponibiliza precios de compra y venta del fondo.
 
 #### Un beneficio en retirada
 
