@@ -2,7 +2,7 @@
 aliases = []
 author = "Omar Larré"
 categories = ["educación financiera"]
-date = 2018-07-18T21:39:50Z
+date = 2020-07-01T21:39:50Z
 description = "Todos los fondos pagan impuestos, ya que al menos lo tienen que pagar respecto a los dividendos."
 hide = false
 image = "/uploads/2020-07-08/que-es-un-etf-pascale-min.png"
