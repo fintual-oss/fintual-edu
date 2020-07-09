@@ -30,8 +30,6 @@ Como el Estado quiere que ahorres para tu jubilación, te da dos beneficios para
 
 Depende de lo que ganes. Si tu sueldo imponible (líquido sin impuestos) es menor a $3.473.610 (a diciembre de 2019), te conviene invertir en el régimen A hasta maximizar el beneficio. Cualquier monto que inviertas sobre ese monto debería irse al régimen B. Si tu sueldo imponible es mayor a $3.384.000, te conviene tener todo tu APV en el régimen B.
 
-_Creamos_ [_esta planilla_](https://docs.google.com/spreadsheets/d/1jnpbeqiFwQ1qFFITIaMBAy0F3B9_MXm8MdDC8MQNDaA/copy) _para que puedas analizar qué régimen te conviene._
-
 #### **O sea, ¿puedo tener los dos beneficios del APV?**
 
 Si tienes APV con los dos distintos regímenes A y B puedes tener tanto el aporte del 15% del Estado, como la disminución de impuestos. Pero tendrás un límite de 600 UF en conjunto para ambos beneficios.
@@ -47,8 +45,6 @@ En **APV-B**, lo que ahorraste reduce tu base imponible, de forma mensual o anua
 Para llegar a las 6 UTM del **APV-A**, equivalente al 15% de lo que aportas, deberías invertir \~$165.000 al mes (o \~$2.000.000 al año).
 
 Para el **APV-B** es más difícil el cálculo porque va a depender de cuántos impuestos pagas, pero el máximo que podrías descontar son 600 UF (casi $17.000.000).
-
-_Hicimos_ [_esta planilla_](https://docs.google.com/spreadsheets/d/1RPQLn4XJuPRC99Biu9_hoMC1P0L_QUI2iATPOJAHXb8/copy) _para que calcules el impuesto único de retiros en APV-B._
 
 <div style="text-align:center"> <figure> <img src="/uploads/apv-valentina-p-min.png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Ilustración de <a target="_blank" href="https://drive.google.com/file/d/1VR52-6qA6v59iPxJMiCcEJzqcpk2L45_/view">Valentina Palma</a></i></figcaption>
 </figure>
@@ -112,6 +108,8 @@ Sí, puedes retirar tu plata cuando quieras, incluso si no has jubilado, pero el
 Si estás en el Régimen A y no te has jubilado, **tendrás que devolver el 15% que te dio el Estado.** La plata que se recibe del 15% se mantiene en una cuenta separada y toda la rentabilidad es considerada bonificación. Entonces, si sacas todo pierdes el total de la cuenta de bonificación, aunque sea más del 15%.
 
 Si estás en el Régimen B y no te has jubilado, **te retendremos un 15% que se abonará al SII para pagar el impuesto especial por retiros de APV-B.**
+
+_Hicimos_ [_esta planilla_](https://docs.google.com/spreadsheets/d/1RPQLn4XJuPRC99Biu9_hoMC1P0L_QUI2iATPOJAHXb8/copy) _para que calcules el impuesto único de retiros en APV-B._
 
 #### **¿Y alguien regula todo esto?**
 
