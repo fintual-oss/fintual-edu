@@ -71,11 +71,11 @@ Un ejemplo de costo de liquidez es el costo de vender en bolsa a un precio menor
 
 #### Varios _family offices_ han preferido olvidar este beneficio
 
-En los últimos años, varios _family offices_, en representación de sus clientes (que son típicamente familias de alto patrimonio), han decidido invertir dejando un poco de lado la existencia de este beneficio cada vez más difícil de usar. En vez de eso, han preferido invertir en pos de la diversificación y calidad de las inversiones. Después de todo, si las inversiones rentan mal, no hay ningún impuesto a la ganancia que rebajar.
+En los últimos años, varios _family offices_, en representación de sus clientes (que son típicamente familias de alto patrimonio), han decidido invertir dejando un poco de lado la existencia de este beneficio cada vez más difícil de usar. En vez de eso, han preferido invertir en pos de la diversificación y calidad de las inversiones. **Después de todo, si las inversiones rentan mal, no hay ningún impuesto a la ganancia que rebajar**.
 
 Es así como en varios fondos de inversión, el factor 107 LIR ha dejado de ser decisivo a la hora de invertir, e incluso ha sido removido de varios fondos de inversión a lo largo del año 2020.
 
-#### Es probablemente que este beneficio continúe siendo utilizado como una estrategia de venta
+#### Es probable que este beneficio continúe siendo utilizado como una estrategia de venta
 
 Por eso es bueno y necesario que sepas que en la práctica el beneficio tributario puede terminar siendo marginal o nulo respecto de la expectativa que te generaron.
 
@@ -85,4 +85,4 @@ En Fintual, sólo las ganancias que retiras pagan impuesto (es decir, entran a t
 
 Creemos además que ningún beneficio tributario de fondos es "el gran hack".
 
-Sin embargo, [hay varios beneficios tributarios que puedes usar en Fintual](https://edu.fintual.cl/4-beneficios-tributarios-si-usas-fintual/) y seguramente serán de mucha utilidad dependiendo de cada caso. Entre ellos, creemos que el beneficio tributario APV, que sirve para ahorrar para tu jubilación, está dentro de los mejores que puedes obtener.
+Sin embargo, [hay varios beneficios tributarios que puedes usar en Fintual](https://edu.fintual.cl/4-beneficios-tributarios-si-usas-fintual/) y seguramente serán de mucha utilidad dependiendo del caso. Creemos que el beneficio tributario del APV, que sirve para ahorrar para tu jubilación, está dentro de los mejores que puedes obtener.
