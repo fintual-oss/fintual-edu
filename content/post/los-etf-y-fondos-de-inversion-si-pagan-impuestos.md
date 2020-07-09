@@ -71,9 +71,9 @@ Un ejemplo de costo de liquidez es el costo de vender en bolsa a un precio menor
 
 #### Varios _family offices_ han preferido olvidar este beneficio
 
-En los últimos años, varios _family offices_, en representación de sus clientes (que suelen ser familias de alto patrimonio), han decidido invertir dejando un poco de lado la existencia de este beneficio cada vez más difícil de tener en pos de la diversificación y calidad de las inversiones.
+En los últimos años, varios _family offices_, en representación de sus clientes (que son típicamente familias de alto patrimonio), han decidido invertir dejando un poco de lado la existencia de este beneficio cada vez más difícil de usar. En vez de eso, han preferido invertir en pos de la diversificación y calidad de las inversiones. Después de todo, si las inversiones rentan mal, no hay ningún impuesto a la ganancia que rebajar.
 
-En varios fondos de inversión, el factor 107 LIR ha dejado de ser decisivo a la hora de invertir, e incluso ha sido removido de varios fondos a lo largo del año 2020.
+Es así como en varios fondos de inversión, el factor 107 LIR ha dejado de ser decisivo a la hora de invertir, e incluso ha sido removido de varios fondos a lo largo del año 2020.
 
 #### Es probablemente que este beneficio continúe siendo utilizado como una estrategia de venta.
 
