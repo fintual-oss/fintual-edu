@@ -27,7 +27,7 @@ El beneficio **107 LIR** exime el pago de impuestos por ganancias de capital a f
 
 La mayoría de estos ETF se construyen a través de la figura de fondo de inversión, que —a diferencia de un fondo mutuo— tiene una obligación por ley de repartir al menos el 30% de los beneficios netos anuales percibidos en forma de dividendos.
 
-**Es decir, siempre vas a recibir dividendos si al fondo de inversión le va bien y, por lo tanto, vas tributar en el caso de recibirlos.**
+**Es decir, vas a recibir dividendos si al fondo de inversión le va bien y, por lo tanto, vas tributar en el caso de recibirlos.**
 
 #### ¿Qué fondos gozan del beneficio 107 LIR?
 
