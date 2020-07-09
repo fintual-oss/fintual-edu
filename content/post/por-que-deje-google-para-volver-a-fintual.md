@@ -1,6 +1,6 @@
 +++
 aliases = []
-author = "Pedro Pineda"
+author = "Pedro Saratscheff"
 categories = ["noticias"]
 date = 2020-07-09T20:48:17Z
 description = ""
