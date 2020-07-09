@@ -44,22 +44,22 @@ Para que un fondo o ETF tenga este beneficio se tienen que cumplir alguna de est
 
 De acuerdo a la última reforma tributaria, en los fondos de inversión la presencia bursátil es una condición cada vez más difícil de alcanzar, ya que:
 
-* A partir del primero de marzo del 2021 **el** [**80% de los fondos de inversión**](https://www.elmercurio.com/inversiones/noticias/columnas/2020/03/19/bolsa-chilena-las-tragedias-nunca-llegan-solas.aspx) **perdería el beneficio 107 LIR el 2021.** Ya no bastará con que exista un _market maker_, ya que sólo podría ser utilizado por el primer año de existencia del fondo.
+* A partir del primero de marzo del 2021 ya no bastará con que exista un _market maker_, ya que sólo podría ser utilizado por el primer año de existencia del fondo. Con esto, **el** [**80% de los fondos de inversión**](https://www.elmercurio.com/inversiones/noticias/columnas/2020/03/19/bolsa-chilena-las-tragedias-nunca-llegan-solas.aspx) **perdería el beneficio 107 LIR el 2021.** 
 * Además de lo anterior, [la CMF puso en consulta requerimientos más elevados para satisfacer la presencia bursátil](http://www.cmfchile.cl/portal/prensa/604/w3-article-27473.html). Se incrementa el monto diario transado y el número de días negociados exigidos para considerarse con presencia bursátil, pasando desde las actuales 1.000 UF y 25%, hasta 3.000 UF y 75%, respectivamente. Según el mismo artículo del punto anterior, **con esta condición el 96% de los fondos de inversión perderían este beneficio**.
 
-#### El espíritu del beneficio
+#### El espíritu original del beneficio
 
-El beneficio tributario 107 LIR fue creado para beneficiar acciones o instrumentos de empresas locales.
+El beneficio tributario 107 LIR fue creado para beneficiar acciones o instrumentos de empresas locales. En definitiva, busca incentivar el financiamiento de emprendimientos locales.
 
-Varios legisladores y actores políticos (incluso altos ejecutivos de la industria financiera, [muchas veces en el anonimato](https://www.elmercurio.com/Inversiones/Noticias/Analisis/2019/03/27/Mercado-analiza-opciones-y-mejoras-para-market-makers.aspx)) han levantado la voz apuntando a que este beneficio tributario no cumple el espíritu original de la norma, que es dar liquidez a iniciativas locales y emprendimientos.
+Es por esto que varios legisladores y actores políticos (incluso altos ejecutivos de la industria financiera, [muchas veces en el anonimato](https://www.elmercurio.com/Inversiones/Noticias/Analisis/2019/03/27/Mercado-analiza-opciones-y-mejoras-para-market-makers.aspx)) han levantado la voz apuntando a que este beneficio tributario no cumple el espíritu original de la norma, que es dar liquidez a iniciativas locales.
 
-Es, por lo tanto, un beneficio difícil de alcanzar y constantemente cuestionado.
+Es, por lo tanto, un beneficio constantemente cuestionado cuando se aplica al contexto de fondos co activos extranjeros.
 
 #### Podrías estar invirtiendo en un fondo o ETF sin ningún beneficio tributario futuro
 
-Hay que tener cuidado al invertir con la promesa futura de este beneficio.
+Hay que tener cuidado al invertir con la promesa futura de este beneficio, ya que son varias las exigencias para su uso.
 
-Si el fondo en el que estás invirtiendo hoy dejara de tener presencia bursátil en unos años, no va a tener ningún beneficio tributario.
+Si el fondo en el que estás invirtiendo hoy dejara de tener presencia bursátil en unos años, no vas a tener ningún beneficio tributario.
 
 #### Costos extras de enajenar fondos por bolsa
 
