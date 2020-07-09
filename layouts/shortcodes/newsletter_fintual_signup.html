@@ -1,0 +1,94 @@
+<style type="text/css">
+  .newsletter-card {
+    padding: 24px 32px;
+    margin: 16px 0;
+    position: relative;
+    width: 100%;
+    background: #ffffff;
+    overflow: visible;
+    box-shadow: 0 2px 1px -1px rgba(0, 0, 0, 0.2), 0 1px 1px 0 rgba(0, 0, 0, 0.14), 0 1px 3px 0 rgba(0, 0, 0, 0.12);
+    border-radius: 12px;
+    font-family: Poppins;
+    font-size: 16px;
+    text-align: left;
+    line-height: 19.2px;
+  }
+
+  .newsletter-card__title.newsletter-card__title {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 0;
+  }
+
+  .newsletter-card__text.newsletter-card__text {
+    display: block;
+    padding-top: 8px;
+  }
+
+  .newsletter-card__email-input {
+    background: #f3f4f8;
+    border-radius: 12px;
+    border: 0;
+    height: 56px;
+    padding: .375rem .75rem;
+    width: 100%;
+  }
+
+  .newsletter-card__button {
+    background-image: linear-gradient(270deg, #3985ee 0%, #005ad6 100%);
+    border-radius: 18px;
+    border: 1px solid white;
+    box-shadow: 0 2px 1px -1px rgba(0, 0, 0, 0.2), 0 1px 1px 0 rgba(0, 0, 0, 0.14), 0 1px 3px 0 rgba(0, 0, 0, 0.12);
+    color: white;
+    cursor: pointer;
+    display: block;
+    height: 38px;
+    line-height: 38px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    text-align: center;
+    width: 100%;
+    z-index: 200;
+  }
+  .newsletter-card__button:hover {
+    background-image: linear-gradient(#003f96, #003f96);
+  }
+  .newsletter-card__button:active {
+    background-image: linear-gradient(#003f96, #003f96);
+  }
+  .newsletter-card__button:focus {
+    background-image: linear-gradient(#003f96, #003f96);
+  }
+  .newsletter-card__success-message {
+    display: none;
+  }
+  .newsletter-card--submitted > .newsletter-card__form-container {
+    display: none;
+  }
+  .newsletter-card--submitted > .newsletter-card__success-message {
+    display: block;
+  }
+</style>
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+<script>
+ function onSubmit(token) {
+   document.getElementById('newsletter-signup-form').submit();
+   document.querySelector('.newsletter-card').classList.add('newsletter-card--submitted')
+ }
+</script>
+
+<div class="newsletter-card">
+  <div class="newsletter-card__form-container">
+    <h4 class="newsletter-card__title">¿Te gustó leernos?</h4>
+    <p class="newsletter-card__text">Aprende de finanzas e inversiones, con ideas de negocio, tips para ahorrar y mucho más. Nunca más de 1 a la semana y si te arrepientes, te puedes salir con un solo clic.</p>
+    <form id="newsletter-signup-form" action="https://fintual.cl/app/source-signup"  method="POST">
+      <input type="email" class="form-control newsletter-card__email-input" name="user[email]" placeholder="Tu email" autocomplete="email">
+      <input type="hidden" name="user[source]" value="newsletter">
+      <button class="newsletter-card__button g-recaptcha" data-sitekey="6Ld3dsoUAAAAAD6kQRzrG3_4hY2jPrFRh9nIvnfY" data-callback='onSubmit'>Inscribir</button>
+    </form>
+  </div>
+  <div class="newsletter-card__success-message">
+    <h4 class="newsletter-card__title">Listoco 👌</h4>
+    <p class="newsletter-card__text">Weeena!</p>
+  </div>
+</div>
