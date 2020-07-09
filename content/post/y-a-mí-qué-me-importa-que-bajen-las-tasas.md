@@ -1,6 +1,6 @@
 +++
 aliases = []
-author = "Omar Larré"
+author = "Pedro Saratscheff"
 author_thumbnail = "/uploads/omar_larre.jpeg"
 categories = ["noticias"]
 date = 2019-06-10T04:00:00Z
