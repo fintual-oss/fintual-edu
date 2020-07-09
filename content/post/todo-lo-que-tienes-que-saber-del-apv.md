@@ -48,6 +48,8 @@ Para llegar a las 6 UTM del **APV-A**, equivalente al 15% de lo que aportas, deb
 
 Para el **APV-B** es más difícil el cálculo porque va a depender de cuántos impuestos pagas, pero el máximo que podrías descontar son 600 UF (casi $17.000.000).
 
+_Hicimos_ [_esta planilla_](https://docs.google.com/spreadsheets/d/1RPQLn4XJuPRC99Biu9_hoMC1P0L_QUI2iATPOJAHXb8/copy) _para que calcules el impuesto único de retiros en APV-B._
+
 <div style="text-align:center"> <figure> <img src="/uploads/apv-valentina-p-min.png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Ilustración de <a target="_blank" href="https://drive.google.com/file/d/1VR52-6qA6v59iPxJMiCcEJzqcpk2L45_/view">Valentina Palma</a></i></figcaption>
 </figure>
 </div>
@@ -84,7 +86,6 @@ Al hacer el aporte mediante descuento por planilla te ahorrarás parte del impue
 
 En varias instituciones reguladas: AFPs, corredoras, administradoras, entre ellas **Fintual** :)
 Tenemos una comisión anual de 0,49%, la más baja del mercado según [El Mercurio Inversiones](http://www.elmercurio.com/Inversiones/Noticias/Analisis/2019/01/25/Nueva-serie-APV-de-fondos-mutuos-de-Fintual-es-la-mas-barata-del-mercado.aspx) y atendemos con mucha buena onda.
-
 
 #### **Oye, ¿y qué pasa con mi APV cuando me jubilo?**
 
