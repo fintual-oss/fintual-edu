@@ -75,6 +75,6 @@ En los últimos años, varios _family offices_, en representación de sus client
 
 Es así como en varios fondos de inversión, el factor 107 LIR ha dejado de ser decisivo a la hora de invertir, e incluso ha sido removido de varios fondos a lo largo del año 2020.
 
-#### Es probablemente que este beneficio continúe siendo utilizado como una estrategia de venta.
+#### Es probablemente que este beneficio continúe siendo utilizado como una estrategia de venta
 
-Por eso es bueno y necesario que sepas que en la práctica el beneficio tributario termina siendo marginal o nulo respecto de lo que te ofrecieron.
+Por eso es bueno y necesario que sepas que en la práctica el beneficio tributario puede terminar siendo marginal o nulo respecto de la expectativa que te generaron.
