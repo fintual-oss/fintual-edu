@@ -33,7 +33,7 @@ Bajas como la que vimos en el coronavirus están contempladas en escenarios de i
 
 #### 🌱 Invertir verde ya no es "el futuro"
 
-Según un estudio de BlackRock, los fondos sustentables se han asociado a mayor resiliencia y, por ende, a **mejor desempeño durante esta crisis**.
+Hace unos días, BlackRock publicó el estudio [Sustainable investing: Resilience amid uncertainty](https://www.blackrock.com/corporate/about-us/sustainability-resilience-research), en el que habla de cómo los fondos sustentables se han asociado a mayor resiliencia y, por ende, a **mejor desempeño durante esta crisis**.
 
 Ya habíamos empezado a invertir verde antes de la crisis, pero lo que pasó en esta pandemia nos sorprendió, ya que en la industria hubo un vuelco mayor a fondos y ETF verdes o con inversiones social y ambientalmente responsables (ESG).
 
