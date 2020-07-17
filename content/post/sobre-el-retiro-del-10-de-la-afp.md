@@ -4,9 +4,8 @@ author = "Pedro Pineda"
 categories = ["educación financiera"]
 date = 2020-07-17T18:06:46Z
 description = ""
-draft = true
-hide = false
-image = ""
+hide = true
+image = "/uploads/2020-07-17/10.jpg"
 title = "Sobre el retiro del 10% de la AFP"
 url = "/sobre-el-retiro-del-10-de-la-afp"
 
