@@ -27,7 +27,7 @@ Las condiciones son:
 
 El retiro sería en dos cuotas iguales: la primera a los 10 días hábiles de la solicitud y la segunda a los 30 días del primer pago. Puedes ver el detalle [aquí](https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=14159&prmBOLETIN=13627-07).
 
-## La parte legislativa
+#### La parte legislativa
 
 Primer trámite ✅  
 Cámara de Diputados: discusión general, debate de comisión y votación.
@@ -41,7 +41,7 @@ Si hay discrepancias se arma una comisión mixta. Si se aprueba de plano va al p
 
 En todas estas etapas el proyecto de ley puede cambiar.
 
-## La parte práctica
+#### La parte práctica
 
 Esta semana más de 100 personas nos han preguntado qué se puede hacer con el 10%. Si, por ejemplo, tiene sentido o no hacer un [Ahorro Previsional Voluntario APV](https://fintual.cl/apv) en Fintual.
 
@@ -52,6 +52,3 @@ Nos gustaría poder dar una recomendación, pero no lo vamos a hacer todavía po
 3. Entendemos que hoy la prioridad es explicar a las personas cómo podrían retirar su dinero para usarlo en esta emergencia sanitaria.
 
 Vamos a esperar a que la ley se apruebe para comentar qué efectos y beneficios podría tener en tus finanzas personales y qué te recomendamos hacer.
-
-  
-Pedro.
