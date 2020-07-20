@@ -117,11 +117,11 @@ Los bancos usan tu plata del depósito a plazo para prestársela a otras persona
 Eso es lo que hacen en Chile las empresas Cumplo, Becual y Dobleimpacto (no sé si hay más), cuyas plataformas online permiten que uno le preste plata a otra persona o empresa.
 
 {{% prueba_fintual
-utmcontent="write_here_the_utm_tag"
+utmcontent="en_que_invertir_mi_plata"
 card_title="Prueba Fintual"
 card_button="Empezar" %}}
 
-Más inteligente que dejar su plata en el banco.
+Diversificado, simple, transparente y con comisiones bajas. 
 
 {{% /prueba_fintual %}}
 
