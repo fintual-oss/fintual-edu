@@ -2,7 +2,7 @@
 author: Pedro Pineda
 author_thumbnail: "/uploads/pedro_pineda.png"
 title: En qué invertir mi plata
-date: 2019-06-01T01:00:00+00:00
+date: 2020-07-21T01:00:00+00:00
 image: "/uploads/en-que-invertir-sandrineanne-min.png"
 categories:
 - educación financiera
@@ -13,13 +13,13 @@ url: "/en-qué-invertir-mi-plata-c4be6a63a881/"
 
 _Menciono algunas instituciones financieras y empresas, pero aparte de_ [_Fintual_](http://www.fintual.com) _no tengo ninguna relación ni intereses con ninguna._
 
-### 1. Depósitos a plazo
+#### 1. Depósitos a plazo
 
 Depósito a plazo es meter plata en el banco por un retorno tan seguro como pequeño: un 2% anual aprox.
 
 Es una solución cómoda y simple cuando necesitas gastar la plata en 30 días y hasta 6 meses, aunque [es un error para inversiones de largo plazo](https://edu.fintual.cl/mejor-deposito-a-plazo/): los intereses que se generan son tan bajos que apenas superan a la inflación.
 
-### 2. Acciones
+#### 2. Acciones
 
 Al buscar en qué invertir, esta es de las opciones en que más puedes perder si no sabes. En simple, la lógica de invertir en acciones consiste en comprar una pequeña parte de una empresa –o acción– y venderla cuando suba de precio.
 
@@ -31,7 +31,7 @@ Peeero:
 
 ![Imagen de Paul Colgan](/uploads/en-que-invertir.png)_Imagen de Paul Colgan_
 
-### 3. Fondos mutuos
+#### 3. Fondos mutuos
 
 Un fondo mutuo es plata de mucha gente reunida (algo así como una _vaca_) para invertir en acciones e índices de forma diversificada. La administradora hace la pega “por mí y por todos mis compañeros” y arma un portafolio diversificado de acciones, ETF y cuotas de otros fondos.
 
@@ -43,7 +43,7 @@ Eso pasa y mucho. **Especialmente porque la gran mayoría de la gente no tiene n
 
 Acá puedes saber [**cuánto te cobra tu fondo mutuo**](https://www.quefondomutuo.cl/).
 
-### 4. APV
+#### 4. APV
 
 El Estado te regala hasta $297.000 (6 UTM) todos los años.
 
@@ -68,7 +68,7 @@ La condición es que saques ese ahorro cuando te jubiles. Puedes sacarlo antes (
 </figure>
 </div>
 
-### 5. Cuenta 2 de la AFP
+#### 5. Cuenta 2 de la AFP
 
 Es una segunda cuenta para invertir en los mismos fondos A, B, C, D y E de siempre.
 
@@ -80,7 +80,7 @@ A pesar de todo eso, y superado el resquemor inicial, es una buena recomendació
 
 ¿Cuál AFP? Si son tus primeros años cotizando y no tienes mucho dinero, lo mejor es que te vayas a la más barata (la que cobra la menor comisión). Si ya pasaste los 30 o tienes un monto un poco más grande, Habitat es la que tiene mejores rentabilidades históricas (no conozco a nadie en Hábitat y no tengo ninguna relación con ninguna AFP). Puedes ver las rentabilidades históricas de las AFP que publica la Súper de Pensiones [aquí](https://www.spensiones.cl/apps/rentabilidad/getRentabilidad.php?tiprent=FP).
 
-### 6. Renta Inmobiliaria
+#### 6. Renta Inmobiliaria
 
 Es como tener un depto y ponerlo en arriendo, pero sin tenerlo realmente.
 
@@ -94,7 +94,7 @@ La rentabilidad anual se parece mucho a la rentabilidad de un departamento peque
 
 Hay emprendimientos en internet que permiten invertir desde $1.000.000 bajo esta modalidad. No sé quiénes están detrás, así que mejor los investigas tú mismo.
 
-### 7. ETFs
+#### 7. ETFs
 
 El ETF es una mezcla entre fondos y acciones, porque es un fondo barato diversificado que se puede comprar y vender como si fuera una acción.
 
@@ -108,7 +108,7 @@ Los ETFs no son muy comunes en Chile porque una de las características que tien
 
 En EEUU son muchísimo más comunes y se caracterizan por ser **simples, diversificados y baratos,** porque no tienen cargos de administración ni condiciones especiales de permanencia o costos por retiros anticipados.
 
-### 8. Préstamos persona a persona (o empresa).
+#### 8. Préstamos persona a persona (o empresa).
 
 Los bancos usan tu plata del depósito a plazo para prestársela a otras personas a una tasa más alta. Te pagan a ti un interés mínimo y se quedan con la diferencia.
 
@@ -116,11 +116,14 @@ Los bancos usan tu plata del depósito a plazo para prestársela a otras persona
 
 Eso es lo que hacen en Chile las empresas Cumplo, Becual y Dobleimpacto (no sé si hay más), cuyas plataformas online permiten que uno le preste plata a otra persona o empresa.
 
-{{< prueba_fintual utmcontent="edu+en+que+invertir+mi+plata-264" >}}
+{{% prueba_fintual
+utmcontent="write_here_the_utm_tag"
+card_title="Prueba Fintual"
+card_button="Empezar" %}}
 
-Prueba sin costo nuestro simulador online para recibir una recomendación de inversión personalizada, según tus objetivos, plazo y riesgo.
+Más inteligente que dejar su plata en el banco.
 
-{{< /prueba_fintual >}}
+{{% /prueba_fintual %}}
 
 #### 
 
@@ -129,5 +132,3 @@ Prueba sin costo nuestro simulador online para recibir una recomendación de inv
 _Infórmese de las características esenciales de la inversión en estos fondos mutuos, los que se encuentran contenidos en sus reglamentos internos y contratos de suscripción de cuotas._
 
 _Las rentabilidades o ganancias obtenidas en el pasado por estos fondos, no garantizan que ellas se repitan en el futuro. Los valores de las cuotas de los fondos mutuos son variables._
-
-{{< newsletter_signup >}}
