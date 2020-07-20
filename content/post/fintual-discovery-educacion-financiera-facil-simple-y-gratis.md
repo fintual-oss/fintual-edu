@@ -13,21 +13,23 @@ url = "fintual-discoverymx"
 +++
 Hoy lanzamos Fintual Discovery, una plataforma muy cool para aprender las cosas que tienes que saber de inversiones y finanzas.
 
-<div style="flex-direction: column; align-items: center; display: flex;">
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Discovery, de <a href="https://twitter.com/fintual?ref_src=twsrc%5Etfw">@fintual</a>, debiese ser lectura obligatoria en todos los colegios y universidades.</p>— Salomón (@salomonprophet) <a href="https://twitter.com/salomonprophet/status/1276606930316922880?ref_src=twsrc%5Etfw">June 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
+(TUIT)
 
 Es gratis y fácil de entender.
 
-![](/uploads/2020-06-30/discovery-mockups-blog.png)
+<div style="text-align:center"> <figure> <img src="/uploads/captura-de-pantalla-2020-07-20-a-la-s-17-57-58.png"> </figure> </div>
 
-La idea era hacer algo simple, pero no por eso menos completo.
+![](/uploads/captura-de-pantalla-2020-07-20-a-la-s-17-57-58.png)
+
+##### La idea era hacer algo simple, pero no por eso menos completo.
 
 Cuando aprendes un tema empiezas en el nivel más básico: el concepto explicado en máximo 150 caracteres, como si fuese un tuit.
 
 Después de explorar este nivel introductorio pasas al nivel dos, que explica el mismo tema con mayor profundidad. El punto de partida de este nivel –la definición del concepto– ahora tiene más detalles. Casi como si estuvieras jugando, pasaste de nivel y ahora tienes más y mejores herramientas para completar una etapa más desafiante.
 
-(FOTO LA IMPOSIBILIDAD)
+<div style="text-align:center"> <figure> <img src="/uploads/nivel-2-predecir-crisis.png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Nivel 2 de La imposibilidad de predecir crisis</i></figcaption> </figure> </div>
+
+![](/uploads/nivel-2-predecir-crisis.png)
 
 Al final, un tema de Discovery es como una página de Wikipedia que se “revela” a medida que avanzas en su exploración. Un proceso de aprendizaje relajado, que fluye y que puedes probar y curiosear cuando quieras.
 
@@ -41,7 +43,9 @@ Asociar la experiencia de aprender sobre finanzas con la aventura de salir a des
 
 Tomando en cuenta esto quisimos darle un _look and feel_ espacial, con la estética de las gráficas espaciales y científicas de los 70s para que realmente te sientas en un viaje interplanetario.
 
-(foto cohete)
+<div style="text-align:center"> <figure> <img src="/uploads/frame-12.png"> </figure> </div>
+
+![](/uploads/frame-12.png)
 
 Nos tomamos tan en serio el hacer del aprendizaje de finanzas algo entretenido que llenamos la interfaz de Discovery de cosas super cool, como el trailer de cada curso con gifs animados, o cosas tan pequeñas como la barra de progreso de cada nivel.
 
@@ -54,6 +58,10 @@ Todos conocemos a esa persona que hace las cosas más complicadas de lo que real
 Y eso es suuuper común con las finanzas. Por alguna razón suelen parecer oscuras, complicadas, lejanas. Sólo para gente _que topa_.
 
 > Guess what: it’s not rocket science. No estamos lanzando nuestros ahorros a Marte. La mayoría de las finanzas que nos interesan son fáciles.
+
+<div style="text-align:center"> <figure> <img src="/uploads/frame-9-1.png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Creemos que ni siquiera Pedro Engel puede saber cómo le irá al dólar el 2020, el año de la rata de metal. Fuente: elfiltrador.com</i></figcaption> </figure> </div>
+
+![](/uploads/frame-9-1.png)
 
 En algún momento aprendimos (algo) de matemáticas en la escuela. ¿Cómo es que ahora, en la adultez, a muchos de nosotros nos complica hablar sobre dinero sin sentir miedo, pena o culpa?
 
@@ -69,7 +77,9 @@ La jerga intimida porque ofusca. Es una capa adicional de complejidad innecesari
 
 Hay quienes dicen que “[cuando se trata de dinero, la incomprensión es una forma de consentimiento](https://www.newyorker.com/magazine/2014/08/04/money-talks-6)”. Quizás el hecho de no entiendas todo puede ser de interés para el banco al que le pasas tu dinero para que la administre.
 
-(GIF LA JERGA FINANCIERA)
+<div style="text-align:center"> <figure> <img src="/uploads/jargon.gif"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Creemos que ni siquiera Pedro Engel puede saber cómo le irá al dólar el 2020, el año de la rata de metal. Fuente: elfiltrador.com</i></figcaption> </figure> </div>
+
+![](/uploads/jargon.gif)
 
 #### Reduciendo la complejidad
 
@@ -79,7 +89,9 @@ Entonces, como queríamos hacer algo que se tratara de finanzas, fuera simple y 
 
 Y explicar bien.
 
-(FOTO WHATSAPP)
+<div style="text-align:center"> <figure> <img src="/uploads/perritu.png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Creemos que ni siquiera Pedro Engel puede saber cómo le irá al dólar el 2020, el año de la rata de metal. Fuente: elfiltrador.com</i></figcaption> </figure> </div>
+
+![](/uploads/perritu.png)
 
 Por estas cosas las personas que trabajamos en Fintual nos tomamos el tiempo de explicar todo.
 
@@ -138,7 +150,9 @@ Uno de los grandes problemas que identifiqué es algo que denominé el “síndr
 
 La dinámica de mis clases era algo así:
 
-(FOTO clases derecho)
+<div style="text-align:center"> <figure> <img src="/uploads/lawschool.png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Creemos que ni siquiera Pedro Engel puede saber cómo le irá al dólar el 2020, el año de la rata de metal. Fuente: elfiltrador.com</i></figcaption> </figure> </div>
+
+![](/uploads/lawschool.png)
 
 Diría que el dolor, el sufrimiento y la resistencia natural de tu mente y cuerpo provienen del hecho de que los cursos no están diseñados para humanos.
 
@@ -155,6 +169,7 @@ Creo que aprender debería seguir la ruta natural en que una mente _millennial_ 
 Algo así:
 
 (FOTO Cómo me gusta)
+
 
 Reviso un poco del tema X, entiendo lo básico, “ah, ok, es más o menos eso”, leo un par de cosas más y vuelve a salir el tema X, así que retroceso y reviso el tema X; ahora entiendo más y profundizo un poco más hasta que me aburro y mi cabeza pasa a otra cosa.
 
