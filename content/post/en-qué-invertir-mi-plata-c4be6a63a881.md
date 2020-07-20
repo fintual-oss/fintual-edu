@@ -2,7 +2,7 @@
 author: Pedro Pineda
 author_thumbnail: "/uploads/pedro_pineda.png"
 title: En qué invertir mi plata
-date: 2020-07-21T01:00:00+00:00
+date: 2020-07-20T01:00:00+00:00
 image: "/uploads/en-que-invertir-sandrineanne-min.png"
 categories:
 - educación financiera
