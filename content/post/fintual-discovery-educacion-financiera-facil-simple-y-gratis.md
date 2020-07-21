@@ -8,7 +8,7 @@ draft = true
 hide = false
 image = "/uploads/discovery-min.jpg"
 title = "Fintual Discovery: educación financiera fácil, simple y gratis"
-url = "fintual-discoverymx"
+url = "fintual-discovery-mx"
 
 +++
 Lanzamos Fintual Discovery, una plataforma muy cool para aprender las cosas que tienes que saber de inversiones y finanzas.
