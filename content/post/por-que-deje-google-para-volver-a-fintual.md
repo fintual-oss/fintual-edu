@@ -52,4 +52,4 @@ Necesitaba saber su opinión al respecto. Nos llevamos la raja y no nos habíamo
 
 ![Era una cervecita no más](/uploads/2020-07-21/putaelculiao.png)_Era una cervecita no más_
 
-Puede sonar como si no fuera nada ese último mensaje. Como si Agustín usara esas expresiones normalmente, pero no. No las usa y de hecho fue tan shockeante que me asusté mucho y quedé expectante a un siguiente mensaje, pero nunca llegó. No sabía cómo decirle lo que tenía que decirle.
+Puede sonar como si no fuera nada ese último mensaje. Como si Agustín usara esas expresiones normalmente, pero no. No las usa y de hecho fue tan shockeante que me asusté y quedé expectante a un siguiente mensaje, pero nunca llegó. No sabía cómo decirle lo que tenía que decirle.
