@@ -57,7 +57,7 @@ Y eso es suuuper común con las finanzas. Por alguna razón suelen parecer oscur
 
 > Guess what: it’s not rocket science. No estamos lanzando nuestros ahorros a Marte. La mayoría de las finanzas que nos interesan son fáciles.
 
-<div style="text-align:center"> <figure> <img src="/uploads/frame-9-1.png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Creemos que ni siquiera Pedro Engel puede saber cómo le irá al dólar el 2020, el año de la rata de metal. Fuente: elfiltrador.com</i></figcaption> </figure> </div>
+<div style="text-align:center"> <figure> <img src="/uploads/frame-9-1.png"> </figure> </div>
 
 ![](/uploads/frame-9-1.png)
 
