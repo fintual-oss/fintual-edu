@@ -1,6 +1,6 @@
 +++
 aliases = []
-author = "Omar Larré"
+author = "Valentin Jadot"
 categories = ["educación financiera"]
 date = 2020-07-20T18:53:27Z
 description = "Te explicamos WTF con los ETFs, AFORES, CETES y más en Fintual Discovery"
@@ -27,7 +27,7 @@ Cuando aprendes un tema empiezas en el nivel más básico: el concepto explicado
 
 Después de explorar este nivel introductorio pasas al nivel dos, que explica el mismo tema con mayor profundidad. El punto de partida de este nivel –la definición del concepto– ahora tiene más detalles. Casi como si estuvieras jugando, pasaste de nivel y ahora tienes más y mejores herramientas para completar una etapa más desafiante.
 
-<div style="text-align:center"> <figure> <img src="/uploads/nivel-2-predecir-crisis.png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Nivel 2 de *La imposibilidad de predecir crisis*</i></figcaption> </figure> </div>
+<div style="text-align:center"> <figure> <img src="/uploads/nivel-2-predecir-crisis.png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Nivel 2 de "La imposibilidad de predecir crisis"</i></figcaption> </figure> </div>
 
 Al final, un tema de Discovery es como una página de Wikipedia que se “revela” a medida que avanzas en su exploración. Un proceso de aprendizaje relajado, que fluye y que puedes probar y curiosear cuando quieras.
 
@@ -71,7 +71,7 @@ La jerga intimida porque ofusca. Es una capa adicional de complejidad innecesari
 
 Hay quienes dicen que “[cuando se trata de dinero, la incomprensión es una forma de consentimiento](https://www.newyorker.com/magazine/2014/08/04/money-talks-6)”. Quizás el hecho de no entiendas todo puede ser de interés para el banco al que le pasas tu dinero para que la administre.
 
-<div style="text-align:center"> <figure> <img src="/uploads/jargon.gif">  </figure> </div>
+<div style="text-align:center"> <figure> <img src="/uploads/jargon.gif">  <figcaption style="display:block;text-align:center;font-size:.8rem"><i>La jerga financiera"</i></figcaption> </figure> </div>
 
 #### Reduciendo la complejidad
 
@@ -93,11 +93,7 @@ Nuestros incentivos están alineados con nuestra misión de educar.
 
 #### Más allá de Fintual Edu
 
-Esto que estás leyendo es parte de Edu, nuestro blog de educación financiera, noticias, actualizaciones de mercado, etc. Generalmente recibimos buen feedback:
-
-<div style="flex-direction: column; align-items: center; display: flex;">
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Los <a href="[https://twitter.com/fintual?ref_src=twsrc%5Etfw](https://twitter.com/fintual?ref_src=twsrc%5Etfw "https://twitter.com/fintual?ref_src=twsrc%5Etfw")">@fintual</a> son tan bacanos que cuando te va mal o bien en las inversiones te explican las razones y te educan. Ojalá la superintendencia de pensiones y afps tuvieran un 1% de esa forma de hacer las cosas.</p>— Javier I. (@jailabab) <a href="[https://twitter.com/jailabab/status/1201623918043422725?ref_src=twsrc%5Etfw](https://twitter.com/jailabab/status/1201623918043422725?ref_src=twsrc%5Etfw "https://twitter.com/jailabab/status/1201623918043422725?ref_src=twsrc%5Etfw")">December 2, 2019</a></blockquote> <script async src="[https://platform.twitter.com/widgets.js](https://platform.twitter.com/widgets.js "https://platform.twitter.com/widgets.js")" charset="utf-8"></script>
-</div>
+Esto que estás leyendo es parte de Edu, nuestro blog de educación financiera, noticias, actualizaciones de mercado, etc. Generalmente recibimos buen feedback.
 
 Sin embargo, pensé que podíamos hacerlo mejor.
 
