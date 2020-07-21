@@ -19,15 +19,13 @@ Es gratis y fácil de entender.
 
 <div style="text-align:center"> <figure> <img src="/uploads/captura-de-pantalla-2020-07-20-a-la-s-17-57-58.png"> </figure> </div>
 
-![](/uploads/captura-de-pantalla-2020-07-20-a-la-s-17-57-58.png)
-
 ##### La idea era hacer algo simple, pero no por eso menos completo.
 
 Cuando aprendes un tema empiezas en el nivel más básico: el concepto explicado en máximo 150 caracteres, como si fuese un tuit.
 
 Después de explorar este nivel introductorio pasas al nivel dos, que explica el mismo tema con mayor profundidad. El punto de partida de este nivel –la definición del concepto– ahora tiene más detalles. Casi como si estuvieras jugando, pasaste de nivel y ahora tienes más y mejores herramientas para completar una etapa más desafiante.
 
-<div style="text-align:center"> <figure> <img src="/uploads/nivel-2-predecir-crisis.png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Nivel 2 de La imposibilidad de predecir crisis</i></figcaption> </figure> </div>
+<div style="text-align:center"> <figure> <img src="/uploads/nivel-2-predecir-crisis.png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Nivel 2 de **_La imposibilidad de predecir crisis_**</i></figcaption> </figure> </div>
 
 ![](/uploads/nivel-2-predecir-crisis.png)
 
@@ -170,6 +168,7 @@ Algo así:
 
 (FOTO Cómo me gusta)
 
+![](/uploads/aprendizaje.png)
 
 Reviso un poco del tema X, entiendo lo básico, “ah, ok, es más o menos eso”, leo un par de cosas más y vuelve a salir el tema X, así que retroceso y reviso el tema X; ahora entiendo más y profundizo un poco más hasta que me aburro y mi cabeza pasa a otra cosa.
 
