@@ -84,7 +84,10 @@ sharingicons = false
     name= "Jessica Guzmán"
     description = ""
     thumbnail= "/uploads/jessica_guzman.jpg"
-
+    [params.writers."Valentin Jadot"]
+    name= "Valentin Jadot"
+    description = "El belga de Fintual. Estudió derecho en la Université libre de Bruxelles pero por alguna razón en Fintual es programador"
+    thumbnail= "/uploads/valentin-1.jpg"
 [params.highlight]
 languages = ["go", "dockerfile"]
 style = "github"
