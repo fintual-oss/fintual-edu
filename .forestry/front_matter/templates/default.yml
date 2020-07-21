@@ -19,6 +19,7 @@ fields:
     - Victor Hugo Flores
     - Jessica Guzmán
     - Montserrat Bonilla
+    - Valentin Jadot
     source:
       type: simple
       section: 
@@ -35,7 +36,7 @@ fields:
 - name: image
   type: file
   config:
-    maxSize: 250
+    maxSize: 64
   label: Image
   description: will show on link previews
 - type: text
