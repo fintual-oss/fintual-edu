@@ -1,6 +1,6 @@
 +++
 aliases = []
-author = "Montserrat Bonilla"
+author = "Valentin Jadot"
 categories = ["educación financiera"]
 date = 2020-06-05T18:07:46Z
 description = "Te contamos dos opciones para ahorrar tus utilidades este año."
