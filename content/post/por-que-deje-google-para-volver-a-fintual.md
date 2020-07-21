@@ -18,7 +18,7 @@ Mi compañero llevaba 11 años trabajando en Google y nunca nadie le había preg
 
 ![Gracias a Ignacio Soffia por la foto](/uploads/2020-07-21/googlefintual.png)_Gracias a Ignacio Soffia por la foto_
 
-#### Antes del cruce
+#### Qué tanto
 
 Estaba en mi último semestre de la universidad. Llevaba un mes trabajando en Fintual y como tres años queriendo trabajar en Google cuando logré que me agendaran entrevistas técnicas (paso clave en el proceso de contratación en Google).
 
@@ -50,6 +50,14 @@ Para ser justo, mi familia sí me escuchó y entendió el dilema, pero al final 
 
 Necesitaba saber su opinión al respecto. Nos llevamos la raja y no nos habíamos tomado una cerveza desde esa primera vez, así que lo invité. Pero parece que no le gusta mucho el suspenso.
 
-![Era una cervecita no más](/uploads/2020-07-21/putaelculiao.png)_Era una cervecita no más_
+![Lunes 11 de diciembre, 2017](/uploads/2020-07-21/putaelculiao.png)_Lunes 11 de diciembre, 2017_
 
-Puede sonar como si no fuera nada ese último mensaje. Como si Agustín usara esas expresiones normalmente, pero no. No las usa y de hecho fue tan shockeante que me asusté y quedé expectante a un siguiente mensaje, pero nunca llegó. No sabía cómo decirle lo que tenía que decirle.
+Puede sonar como si no fuera nada ese último mensaje. Como si Agustín usara esas expresiones normalmente, pero no. No las usa y de hecho fue tan _shockeante_ que me asusté y quedé expectante a un siguiente mensaje que nunca llegó. No sabía cómo abordar esa conversación.
+
+> Pequeño detalle: cuando le escribí a Agustín él estaba en California preparándose para una reunión con Y-Combinator. ¿Qué es eso? [Puedes leer esa historia acá](https://edu.fintual.cl/c%C3%B3mo-fuimos-la-primera-startup-chilena-en-quedar-en-y-combinator-41363df2e2dc/). Básicamente fue una de las reuniones más importantes que ha tenido Fintual en su historia.
+
+Después de pensarlo un buen rato le dije que tenía una oferta de Google, que no sabía qué hacer y que quería conversar con él sobre el tema. Nos juntamos, me dio buenos argumentos para ambos lados y la verdad es que me sirvió mucho :)
+
+#### Por qué sí y por qué no
+
+Por un lado, a favor de Google, lo resumiré como “es una gran experiencia, gran empresa y claramente el nombre Google pesa harto”. Lo resumo nomás porque por ese lado pregúntale a un Uber nomás y te va a poder explicar el detalle.
