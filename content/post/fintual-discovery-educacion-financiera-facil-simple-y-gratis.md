@@ -13,7 +13,9 @@ url = "fintual-discoverymx"
 +++
 Hoy lanzamos Fintual Discovery, una plataforma muy cool para aprender las cosas que tienes que saber de inversiones y finanzas.
 
-(TUIT)
+<div style="flex-direction: column; align-items: center; display: flex;">
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Discovery, de <a href="https://twitter.com/fintual?ref_src=twsrc%5Etfw">@fintual</a>, debiese ser lectura obligatoria en todos los colegios y universidades.</p>— Salomón (@salomonprophet) <a href="https://twitter.com/salomonprophet/status/1276606930316922880?ref_src=twsrc%5Etfw">June 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 
 Es gratis y fácil de entender.
 
@@ -83,7 +85,7 @@ Y explicar bien.
 
 Por estas cosas las personas que trabajamos en Fintual nos tomamos el tiempo de explicar todo.
 
-Todo el equipo se turna para responder el chat dos horas a la semana. Hacemos cosas como La Cuarentena Fintual, hacemos webinars de finanzas personales [todos los martes a las 6pm](http://fintu.al/live) para todos nuestros clientes en Chile, escribimos posts en el blog y reunimos a las mejores startups de México en [Fintech Remote Seminars](https://fintechrs.com/live) a hablar sobre la industria, etc.
+Todo el equipo se turna para responder el chat dos horas a la semana. Hacemos cosas como La Cuarentena Fintual, hacemos webinars de finanzas personales [todos los martes a las 6pm](http://fintu.al/live) para todos nuestros clientes en Chile, escribimos posts en el blog y reunimos a las mejores startups de México en [Fintech Remote Seminars](https://fintechrs.com/live) a hablar sobre la industria, entre otras iniciativas.
 
 Todo para que las personas puedan tomar sus propias decisiones sobre qué hacer con su dinero. Al educar empoderamos. Las personas empoderadas toman decisiones inteligentes con respecto a su dinero y, naturalmente, buscan soluciones como Fintual porque se dan cuenta de lo accesible y democrático que es el servicio que queremos lanzar en México.
 
@@ -153,8 +155,6 @@ Lo bueno de Wikipedia y de en internet en general es que, al contrario de lo que
 Creo que aprender debería seguir la ruta natural en que una mente _millennial_ curiosa explora la información. Porque si se siente natural… Bueno, se siente natural.
 
 Algo así:
-
-(FOTO Cómo me gusta)
 
 <div style="text-align:center"> <figure> <img src="/uploads/aprendizaje.png"> </figure> </div>
 
