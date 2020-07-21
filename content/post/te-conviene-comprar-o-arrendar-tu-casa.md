@@ -59,6 +59,7 @@ arrendar una propiedad equivalente a UF 5.000, pero comprar dos propiedades de U
 1\.666 🤘 y arrendarlas. </li>
 
 </ol>
+
 <div style="text-align: center;">
 <figure> <img src="/uploads/comprar-vs-arrendar-ludmila-drago-min.png">
 <figcaption style="display: block;text-align: center;font-size: .8rem;"><i>Ilustración de <a target="_blank"
@@ -66,9 +67,7 @@ href="https://www.instagram.com/ludmiladragoart/">Ludmila Drago</a></i></figcapt
 </figure>
 </div>
 
-<p></p>
-
-### **Ahora, vamos a los números!**
+#### Ahora, vamos a los números!
 
 _Gracias a Omar Larré, co-fundador de Fintual y Profesor de Finanzas Aplicadas de la U. Chile, por este análisis._
 
