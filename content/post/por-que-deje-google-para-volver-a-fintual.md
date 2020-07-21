@@ -11,10 +11,41 @@ title = "Por qué dejé Google para volver a Fintual"
 url = "/deje-google-para-volver-a-fintual"
 
 +++
-> - Yo: “Agendé esta reunión para conocernos nomás. Quiero saber tu historia, cómo llegaste a Google y a este proyecto”.  
-> \- Googler: “Oh, that’s nice. Nunca nadie me había hecho esa pregunta”.
+> * Yo: “Agendé esta reunión para conocernos nomás. Quiero saber tu historia, cómo llegaste a Google y a este proyecto”.  
+>   \- Googler: “Oh, that’s nice. Nunca nadie me había hecho esa pregunta”.
 
-  
 Mi compañero llevaba 11 años trabajando en Google y nunca nadie le había preguntado por su historia.
 
 ![Gracias a Ignacio Soffia por la foto](/uploads/2020-07-21/googlefintual.png)_Gracias a Ignacio Soffia por la foto_
+
+#### Antes del cruce
+
+Estaba en mi último semestre de la universidad. Llevaba un mes trabajando en Fintual y como tres años queriendo trabajar en Google cuando logré que me agendaran entrevistas técnicas (paso clave en el proceso de contratación en Google). 
+
+Pero el sueño de trabajar en Google ya no me parecía muy sexy.
+
+El proceso con Google había sido bien malo (partió dos años antes, voy a ahorrarles esa historia) y la experiencia en Fintual había sido bien buena. Después de darle un par de vueltas, decidí tomar la oportunidad y dar las entrevistas. 
+
+Qué tanto, no iba a perder mucho tiempo. Seguro no iba a quedar, pero iba a aprender del proceso. Un proceso que muchas empresas intentan imitar.
+
+Un mes después, dos meses después de empezar a trabajar en Fintual, me llegó este mail:
+
+![](/uploads/2020-07-21/quedeengoogle.png)
+
+Por la *$#%!
+
+Estaba demasiado feliz y con tantas dudas. Sólo decir “tengo una oferta en Google” hacía que sonriera de oreja a oreja, pero todavía no tenía ni idea de qué hacer con ella.
+
+#### Una decisión importante
+
+La reclutadora a cargo del proceso se enojó un poco al principio cuando le dije que necesitaba unas semanas para pensarlo. Quizás me expresé mal. Me terminó diciendo que no había problema y me dio 10 días para firmar el contrato.
+
+**Lo más difícil de esos días fue encontrar gente con quien hablar.** 
+
+Todo el mundo sentía que la decisión era obvia, sin saber qué es Fintual ni cómo es la vida de un programador. Amigos, familia, el peluquero y hasta un uber. Daba lo mismo. Todos opinaban que era un idiota si no me iba a Google incluso antes de explicarles por qué lo estaba dudando.
+
+Para ser justo, mi familia sí me escuchó y entendió el dilema, pero al final el comentario típico era “qué buen dilema a tener en la vida, o no?”. Jaja. Y tenían razón, aunque no me servía de mucho el consejo.
+
+“Necesito hablar esto con Agustín” pensé, el mismo que unos meses antes me escribió por Telegram para decirme que un robot que yo había desarrollado estaba malo. Eso llevó a que nos tomaramos una cerveza y luego a que me convenciera de cambiar mi semestre que tanto me había esforzado en dejar relajado por otro más muy intenso (partí trabajando 3 días a la semana en Fintual, además de seguir estudiando).
+
+Necesitaba saber su opinión al respecto. No nos habíamos tomado una cerveza desde esa primera vez, asi que…
