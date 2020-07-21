@@ -81,7 +81,7 @@ Entonces, como queríamos hacer algo que se tratara de finanzas, fuera simple y 
 
 Y explicar bien.
 
-<div style="text-align:center"> <figure> <img src="/uploads/perritu.png"> </figure> </div>
+<div style="text-align:center"> <figure> <img src="/uploads/perritu.png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Un Felipe feliz después de entender lo que es un ETF</i></figcaption> </figure> </div>
 
 Por estas cosas las personas que trabajamos en Fintual nos tomamos el tiempo de explicar todo.
 
