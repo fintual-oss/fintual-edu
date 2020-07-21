@@ -75,7 +75,7 @@ La jerga intimida porque ofusca. Es una capa adicional de complejidad innecesari
 
 Hay quienes dicen que “[cuando se trata de dinero, la incomprensión es una forma de consentimiento](https://www.newyorker.com/magazine/2014/08/04/money-talks-6)”. Quizás el hecho de no entiendas todo puede ser de interés para el banco al que le pasas tu dinero para que la administre.
 
-<div style="text-align:center"> <figure> <img src="/uploads/jargon.gif"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Creemos que ni siquiera Pedro Engel puede saber cómo le irá al dólar el 2020, el año de la rata de metal. Fuente: elfiltrador.com</i></figcaption> </figure> </div>
+<div style="text-align:center"> <figure> <img src="/uploads/jargon.gif">  </figure> </div>
 
 ![](/uploads/jargon.gif)
 
@@ -87,7 +87,7 @@ Entonces, como queríamos hacer algo que se tratara de finanzas, fuera simple y 
 
 Y explicar bien.
 
-<div style="text-align:center"> <figure> <img src="/uploads/perritu.png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Creemos que ni siquiera Pedro Engel puede saber cómo le irá al dólar el 2020, el año de la rata de metal. Fuente: elfiltrador.com</i></figcaption> </figure> </div>
+<div style="text-align:center"> <figure> <img src="/uploads/perritu.png"> </figure> </div>
 
 ![](/uploads/perritu.png)
 
@@ -148,7 +148,7 @@ Uno de los grandes problemas que identifiqué es algo que denominé el “síndr
 
 La dinámica de mis clases era algo así:
 
-<div style="text-align:center"> <figure> <img src="/uploads/lawschool.png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Creemos que ni siquiera Pedro Engel puede saber cómo le irá al dólar el 2020, el año de la rata de metal. Fuente: elfiltrador.com</i></figcaption> </figure> </div>
+<div style="text-align:center"> <figure> <img src="/uploads/lawschool.png"></figure> </div>
 
 ![](/uploads/lawschool.png)
 
@@ -167,6 +167,8 @@ Creo que aprender debería seguir la ruta natural en que una mente _millennial_ 
 Algo así:
 
 (FOTO Cómo me gusta)
+
+<div style="text-align:center"> <figure> <img src="/uploads/aprendizaje.png"> </figure> </div>
 
 ![](/uploads/aprendizaje.png)
 
