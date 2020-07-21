@@ -6,7 +6,7 @@ date = 2020-07-20T18:53:27Z
 description = ""
 draft = true
 hide = false
-image = ""
+image = "/uploads/discovery-min.jpg"
 title = "Fintual Discovery: educación financiera fácil, simple y gratis"
 url = "fintual-discoverymx"
 
@@ -27,7 +27,7 @@ Cuando aprendes un tema empiezas en el nivel más básico: el concepto explicado
 
 Después de explorar este nivel introductorio pasas al nivel dos, que explica el mismo tema con mayor profundidad. El punto de partida de este nivel –la definición del concepto– ahora tiene más detalles. Casi como si estuvieras jugando, pasaste de nivel y ahora tienes más y mejores herramientas para completar una etapa más desafiante.
 
-<div style="text-align:center"> <figure> <img src="/uploads/nivel-2-predecir-crisis.png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Nivel 2 de **La imposibilidad de predecir crisis**</i></figcaption> </figure> </div>
+<div style="text-align:center"> <figure> <img src="/uploads/nivel-2-predecir-crisis.png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Nivel 2 de *La imposibilidad de predecir crisis*</i></figcaption> </figure> </div>
 
 Al final, un tema de Discovery es como una página de Wikipedia que se “revela” a medida que avanzas en su exploración. Un proceso de aprendizaje relajado, que fluye y que puedes probar y curiosear cuando quieras.
 
@@ -65,7 +65,7 @@ Pero esa no puede ser la solución. Un _master_ no debería ser necesario para e
 
 La verdadera barrera entre sentirse intimidado y sentirse empoderado es mucho más simple.
 
-El verdadero problema es _la_ _jerga financiera_: “Fondo mutuo”, “ETF”, “renta fija”, “fondo de mercado monetario”, “partícipe”.
+El verdadero problema es _la_ _jerga financiera_: “Fondos de inversión”, “ETF”, “UDIS”, “AFORES”, “riesgo”.
 
 La jerga intimida porque ofusca. Es una capa adicional de complejidad innecesaria que **nadie** necesita.
 
