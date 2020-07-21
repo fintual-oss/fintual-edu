@@ -101,7 +101,7 @@ Por qué? Principalmente para resolver dos problemas:
 
 #### #1: estamos viviendo momentos macroeconómicos históricos
 
-Edu se centra principalmente a las finanzas personales. Sin embargo, ahora estamos entrando en un período de noticias macroeconómicas intensas: volatilidad de los mercados, posibles recesiones, estímulo fiscal, el tipo de cambio MX / USD subiendo y bajando mucho, personas perdiendo sus trabajos, etc.
+Edu se centra principalmente a las finanzas personales. Sin embargo, ahora estamos entrando en un período de noticias macroeconómicas intensas: volatilidad de los mercados, posibles recesiones, estímulo fiscal, el tipo de cambio USD/MXN subiendo y bajando mucho, personas perdiendo sus trabajos, etc.
 
 Teníamos que hacer algo que ayudara a entender mejor estos aspectos macroeconómicos.
 
