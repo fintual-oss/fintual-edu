@@ -16,56 +16,54 @@ A veces soy contreras y termino discutiendo por pensar distinto sobre algo tan a
 propia.
 
 > _“Cuando pagai arriendo estai botando la plata a la basura”, “tener casa salvó a mi viejo de la quiebra”, “tu casa es
-lo único que realmente es tuyo y nadie te puede quitar”._
+> lo único que realmente es tuyo y nadie te puede quitar”._
 
 También pienso que para los completos es mejor poner la palta, tomate y mayo DEBAJO de la salchicha porque así no se cae
 todo y tampoco me mancho.
 
 <div style="text-align: center;">
-  <figure> <img src="/uploads/2020-07-06/completowtf.gif"> </figure>
+<figure> <img src="/uploads/2020-07-06/completowtf.gif"> </figure>
 </div>
 
 Pero tengo varios argumentos para defender mi postura de que es mejor arrendar que comprar el lugar donde vives. Después
 veremos si aguantan mis cálculos de servilleta. <p></p>
 
 <ol>
-  <li> <b>Cuando compras para ti no haces un análisis frío y gastas más.</b> Juegan factores emocionales como <i>"queda
-      cerca del colegio de los niños",</i> “<i>está al lado de mis papás</i> <i>(...o lejos de la suegra)”</i> o “<i>me
-      encanta el papel mural”,</i> por los que tú estás dispuesto a pagar más pero que no necesariamente suben el valor
-    de la propiedad. </li>
+<li> <b>Cuando compras para ti no haces un análisis frío y gastas más.</b> Juegan factores emocionales como <i>"queda
+cerca del colegio de los niños",</i> “<i>está al lado de mis papás</i> <i>(...o lejos de la suegra)”</i> o “<i>me
+encanta el papel mural”,</i> por los que tú estás dispuesto a pagar más pero que no necesariamente suben el valor
+de la propiedad. </li>
 
-  <li><b>Es caro elegir la “casa definitiva”.</b> Demasiadas veces se enfrenta el comprar como algo de <i>una vez en la
-      vida</i>, eligiendo una propiedad más grande/cara de la que necesitarás en el tiempo. Arrendar te da flexibilidad
-    para los distintos momentos de vida y económicos por los que pasarás. </li>
+<li><b>Es caro elegir la “casa definitiva”.</b> Demasiadas veces se enfrenta el comprar como algo de <i>una vez en la
+vida</i>, eligiendo una propiedad más grande/cara de la que necesitarás en el tiempo. Arrendar te da flexibilidad
+para los distintos momentos de vida y económicos por los que pasarás. </li>
 
-  <li><b>El dueño responde por deterioros grandes, el arrendatario sólo por chicos.</b> Mientras el dueño debe reparar
-    cualquier falla importante (eléctrica, de gasfitería, estructural, filtración, incendio, inundación, etc.), el
-    arrendatario sólo cubre los deterioros que provengan por su uso normal, como una chapa mala. </li>
+<li><b>El dueño responde por deterioros grandes, el arrendatario sólo por chicos.</b> Mientras el dueño debe reparar cualquier falla importante (eléctrica, de gasfitería, estructural, filtración, incendio, inundación, etc.), el arrendatario sólo cubre los deterioros que provengan por su uso normal, como una chapa mala. </li>
 
-  <li><b>Al comprar quedas poco diversificado y la casa puede convertirse en tu único activo.</b> ¿Cómo quedas si se
-    quema y no tenías seguro? ¿o si el barrio tiene plusvalía cero o negativa? Los bienes raíces no siempre suben. </li>
+<li><b>Al comprar quedas poco diversificado y la casa puede convertirse en tu único activo.</b> ¿Cómo quedas si se
+quema y no tenías seguro? ¿o si el barrio tiene plusvalía cero o negativa? Los bienes raíces no siempre suben. </li>
 
-  <li><b>Las propiedades son menos líquidas que otras inversiones.</b> Vender una propiedad puede ser difícil, lento y
-    caro, poniéndote en un serio problema si necesitas la plata. </li>
+<li><b>Las propiedades son menos líquidas que otras inversiones.</b> Vender una propiedad puede ser difícil, lento y
+caro, poniéndote en un serio problema si necesitas la plata. </li>
 
-  <li><b>Mientras más cara una propiedad es proporcionalmente más barato arrendarla,</b> por lo que arrendar te permite
-    vivir en lugares mejores por menos considerando el valor del m2. <i>(Hice un</i>
+<li><b>Mientras más cara una propiedad es proporcionalmente más barato arrendarla,</b> por lo que arrendar te permite
+vivir en lugares mejores por menos considerando el valor del m2. <i>(Hice un</i>
 
     <a href="https://edu.fintual.cl/tabla-proporcion-arriendo-compra-propiedad/" target="_blank">
       <i>análisis</i> <i>de esto considerando propiedades publicadas</i></a> <i>en Portal Inmobiliario. No es
       científico, pero le creo).</i></li>
 
-  <li><b>Es mejor comprar varias propiedades chicas que una sola grande.</b> Dada la relación inversamente proporcional
-    entre el valor de una propiedad y su arriendo, en vez de comprar una propiedad de UF 5.000 para vivir, sería mejor
-    arrendar una propiedad equivalente a UF 5.000, pero comprar dos propiedades de UF 2.500 o -mejor aún- tres de UF
-    1.666 🤘 y arrendarlas. </li>
+<li><b>Es mejor comprar varias propiedades chicas que una sola grande.</b> Dada la relación inversamente proporcional
+entre el valor de una propiedad y su arriendo, en vez de comprar una propiedad de UF 5.000 para vivir, sería mejor
+arrendar una propiedad equivalente a UF 5.000, pero comprar dos propiedades de UF 2.500 o -mejor aún- tres de UF
+1\.666 🤘 y arrendarlas. </li>
 
 </ol>
 <div style="text-align: center;">
-  <figure> <img src="/uploads/comprar-vs-arrendar-ludmila-drago-min.png">
-    <figcaption style="display: block;text-align: center;font-size: .8rem;"><i>Ilustración de <a target="_blank"
-          href="https://www.instagram.com/ludmiladragoart/">Ludmila Drago</a></i></figcaption>
-  </figure>
+<figure> <img src="/uploads/comprar-vs-arrendar-ludmila-drago-min.png">
+<figcaption style="display: block;text-align: center;font-size: .8rem;"><i>Ilustración de <a target="_blank"
+href="https://www.instagram.com/ludmiladragoart/">Ludmila Drago</a></i></figcaption>
+</figure>
 </div>
 
 <p></p>
@@ -90,7 +88,7 @@ Para hacerlo simple, vamos a suponer que:
 * **Plusvalía de la propiedad:** vamos a dejar esta variable abierta a discusión
 * **Arreglos/remodelaciones mayores anuales respecto valor propiedad propia**: vamos a suponer un gasto de 0,50% por año
 * **Valor de arriendo de una propiedad equivalente**: vamos a suponer que es un 0,38% del valor de la propiedad**, es
-decir, vamos a suponer un arriendo de $380.000 por una propiedad que cuesta actualmente $100.000.000.
+  decir, vamos a suponer un arriendo de $380.000 por una propiedad que cuesta actualmente $100.000.000.
 
 Para hacer el cálculo de la opción de **comprar**, vamos a evaluar con **cuánto capital quedas luego de que terminas de
 pagar el crédito hipotecario** (contempla la propiedad al final del periodo). Para la opción de **arrendar**, el capital
@@ -135,14 +133,14 @@ Como asumimos que no tenemos poderes mágicos de predicción, y no sabemos cómo
 inmobiliarios en el futuro, preferimos dividir en tres posibles casos:
 
 <ol>
-  <li>Si crees que la propiedad subirá de precio de forma más acotada, es decir, menos de 1% al año, en la mayoría de
-    los casos es preferible arrendar.</li>
+<li>Si crees que la propiedad subirá de precio de forma más acotada, es decir, menos de 1% al año, en la mayoría de
+los casos es preferible arrendar.</li>
 
-  <li>Si crees que va a subir de precio de forma más acelerada, pero no tanto como los últimos años, depende mucho de
-    los gastos de arreglo, el valor de la propiedad, las tasas de interés, el pie inicial, etc.</li>
+<li>Si crees que va a subir de precio de forma más acelerada, pero no tanto como los últimos años, depende mucho de
+los gastos de arreglo, el valor de la propiedad, las tasas de interés, el pie inicial, etc.</li>
 
-  <li>Si crees que el precio de la propiedad seguirá subiendo como lo han hecho, o al menos la plusvalía será sobre 3%
-    año por año, en la mayoría de los casos conviene comprar.</li>
+<li>Si crees que el precio de la propiedad seguirá subiendo como lo han hecho, o al menos la plusvalía será sobre 3%
+año por año, en la mayoría de los casos conviene comprar.</li>
 </ol>
 
 Ahora, **si uno cree que la plusvalía va a ser así de buena, es cierto que puede convenir comprar varias propiedades
