@@ -4,7 +4,6 @@ author = "Valentin Jadot"
 categories = ["educación financiera"]
 date = 2020-07-20T18:53:27Z
 description = "Te explicamos WTF con los ETFs, AFORES, CETES y más en Fintual Discovery"
-draft = true
 hide = false
 image = "/uploads/discovery-min.jpg"
 title = "Fintual Discovery: educación financiera fácil, simple y gratis"
@@ -85,7 +84,7 @@ Y explicar bien.
 
 Por estas cosas las personas que trabajamos en Fintual nos tomamos el tiempo de explicar todo.
 
-Todo el equipo se turna para responder el chat dos horas a la semana. Hacemos cosas como La Cuarentena Fintual, hacemos webinars de finanzas personales [todos los martes a las 6pm](http://fintu.al/live) para todos nuestros clientes en Chile, escribimos posts en el blog y reunimos a las mejores startups de México en [Fintech Remote Seminars](https://fintechrs.com/live) a hablar sobre la industria, entre otras iniciativas.
+Todo el equipo se turna para responder el chat dos horas a la semana. Hacemos cosas como La Cuarentena Fintual, hacemos webinars de finanzas personales todos los martes a las 6pm para todos nuestros clientes en Chile, escribimos posts en el blog y reunimos a las mejores startups de México en [Fintech Remote Seminars](https://fintechrs.com/live) a hablar sobre la industria, entre otras iniciativas.
 
 Todo para que las personas puedan tomar sus propias decisiones sobre qué hacer con su dinero. Al educar empoderamos. Las personas empoderadas toman decisiones inteligentes con respecto a su dinero y, naturalmente, buscan soluciones como Fintual porque se dan cuenta de lo accesible y democrático que es el servicio que queremos lanzar en México.
 
