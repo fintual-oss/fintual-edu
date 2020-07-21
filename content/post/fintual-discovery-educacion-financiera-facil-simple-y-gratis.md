@@ -27,8 +27,6 @@ Después de explorar este nivel introductorio pasas al nivel dos, que explica el
 
 <div style="text-align:center"> <figure> <img src="/uploads/nivel-2-predecir-crisis.png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Nivel 2 de **_La imposibilidad de predecir crisis_**</i></figcaption> </figure> </div>
 
-![](/uploads/nivel-2-predecir-crisis.png)
-
 Al final, un tema de Discovery es como una página de Wikipedia que se “revela” a medida que avanzas en su exploración. Un proceso de aprendizaje relajado, que fluye y que puedes probar y curiosear cuando quieras.
 
 Después de unos clics por aquí y por allá puedes pasar a otra cosa: probablemente ya sabes lo suficiente sobre el tema para sentirte menos intimidado cuando alguien lo mencione.
@@ -43,8 +41,6 @@ Tomando en cuenta esto quisimos darle un _look and feel_ espacial, con la estét
 
 <div style="text-align:center"> <figure> <img src="/uploads/frame-12.png"> </figure> </div>
 
-![](/uploads/frame-12.png)
-
 Nos tomamos tan en serio el hacer del aprendizaje de finanzas algo entretenido que llenamos la interfaz de Discovery de cosas super cool, como el trailer de cada curso con gifs animados, o cosas tan pequeñas como la barra de progreso de cada nivel.
 
 En vez de usar la típica barra pusimos una nave que orbita entre planetas y que representan cada nivel. Gracias a Nicole, product designer de Fintual, por este super diseño.
@@ -58,8 +54,6 @@ Y eso es suuuper común con las finanzas. Por alguna razón suelen parecer oscur
 > Guess what: it’s not rocket science. No estamos lanzando nuestros ahorros a Marte. La mayoría de las finanzas que nos interesan son fáciles.
 
 <div style="text-align:center"> <figure> <img src="/uploads/frame-9-1.png"> </figure> </div>
-
-![](/uploads/frame-9-1.png)
 
 En algún momento aprendimos (algo) de matemáticas en la escuela. ¿Cómo es que ahora, en la adultez, a muchos de nosotros nos complica hablar sobre dinero sin sentir miedo, pena o culpa?
 
@@ -77,8 +71,6 @@ Hay quienes dicen que “[cuando se trata de dinero, la incomprensión es una fo
 
 <div style="text-align:center"> <figure> <img src="/uploads/jargon.gif">  </figure> </div>
 
-![](/uploads/jargon.gif)
-
 #### Reduciendo la complejidad
 
 Hacer las cosas simples está en el ADN de Fintual. Aterrizar las finanzas y hacer que cosas como ahorro e nversión formen parte de la realidad del día a día.
@@ -88,8 +80,6 @@ Entonces, como queríamos hacer algo que se tratara de finanzas, fuera simple y 
 Y explicar bien.
 
 <div style="text-align:center"> <figure> <img src="/uploads/perritu.png"> </figure> </div>
-
-![](/uploads/perritu.png)
 
 Por estas cosas las personas que trabajamos en Fintual nos tomamos el tiempo de explicar todo.
 
@@ -150,8 +140,6 @@ La dinámica de mis clases era algo así:
 
 <div style="text-align:center"> <figure> <img src="/uploads/lawschool.png"></figure> </div>
 
-![](/uploads/lawschool.png)
-
 Diría que el dolor, el sufrimiento y la resistencia natural de tu mente y cuerpo provienen del hecho de que los cursos no están diseñados para humanos.
 
 Los temas se dividen por capítulos, algo que funciona bacán para organizar la información, pero no para enseñar.
@@ -169,8 +157,6 @@ Algo así:
 (FOTO Cómo me gusta)
 
 <div style="text-align:center"> <figure> <img src="/uploads/aprendizaje.png"> </figure> </div>
-
-![](/uploads/aprendizaje.png)
 
 Reviso un poco del tema X, entiendo lo básico, “ah, ok, es más o menos eso”, leo un par de cosas más y vuelve a salir el tema X, así que retroceso y reviso el tema X; ahora entiendo más y profundizo un poco más hasta que me aburro y mi cabeza pasa a otra cosa.
 
