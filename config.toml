@@ -20,7 +20,7 @@ sharingicons = false
   [params.writers]
     [params.writers."Pedro Pineda"]
     name = "Pedro Pineda"
-    description = "Astrónomo, Geofísico, Ingeniero Civil Industrial de la Chile y Astrólogo como Pedro Engel"
+    description = "Astrónomo, Geofísico, Ingeniero Civil Industrial de la Chile. De Puerto Montt pal mundo"
     thumbnail = "/uploads/pedro.jpg"
     [params.writers."Agustín Feuerhake"]
     name = "Agustín Feuerhake"
@@ -44,7 +44,7 @@ sharingicons = false
     thumbnail = "/uploads/soffia.jpg"
     [params.writers."Omar Larré"]
     name = "Omar Larré"
-    description = "Ingeniero Matemático de la Chile y experto en finanzas. Dicen que es un genio"
+    description = "Ingeniero Civil Matemático y magíster en Gestión de Operaciones de la Chile. Senior portafolio manager y experto en inversiones"
     thumbnail = "/uploads/omar.jpg"
     [params.writers."Gonzalo Enei"]
     name = "Gonzalo Enei"
