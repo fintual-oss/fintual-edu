@@ -60,6 +60,12 @@ Después de pensarlo un buen rato le dije que tenía una oferta de Google, que n
 
 #### Por qué sí y por qué no
 
-Por un lado, a favor de Google, lo resumiré como “es una gran experiencia, gran empresa y claramente el nombre Google pesa harto”. Lo resumo nomás porque por ese lado pregúntale a un Uber nomás y te va a poder explicar el detalle.
+Por un lado, a favor de Google, lo resumiré como “es una gran experiencia, gran empresa y claramente el nombre Google pesa harto”. Lo resumo no más porque mejor pregúntale a un Uber y te va a poder explicar el detalle.
 
 ![](/uploads/2020-07-21/pundog.png)
+
+Peeero:
+
+* Si Google me quiere hoy, me va a seguir queriendo mañana, pasado y el próximo año.
+* Estás en un momento clave en Fintual, eres el primer empleado, estamos creciendo muchísimo, inversionistas llegan y llegan. Quedarte en Fintual también es una experiencia valiosísima.
+* Claramente tienes una muy buena conexión con todas las personas en Fintual, eso es algo muy valioso y que vale la pena aprovechar.
