@@ -114,7 +114,7 @@ Habiendo dicho eso…
 
 En cinco meses vi tres o cuatro veces al que tenía que ser mi tutor. La persona a la que “obligó” a atender mis consultas sólo me dijo que mis preguntas eran “tontas” y que podía googlear las respuestas.
 
-Por suerte, como mencioné, Google es enorme y encontré en otros equipos no tan lejos personas buena onda que me ayudaron a entender el problema, me revisaron muchísimo código y pude terminar el proyecto.
+Por suerte Google es enorme y encontré en otros equipos no tan lejos personas buena onda que me ayudaron a entender el problema, me revisaron muchísimo código y pude terminar el proyecto.
 
 ## Un interludio
 
