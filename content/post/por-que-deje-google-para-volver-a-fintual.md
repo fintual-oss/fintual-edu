@@ -114,14 +114,14 @@ Habiendo dicho eso…
 
 En cinco meses vi tres o cuatro veces al que tenía que ser mi tutor. La persona a la que “obligó” a atender mis consultas sólo me dijo que mis preguntas eran “tontas” y que podía googlear las respuestas.
 
-Por suerte Google es enorme y encontré en otros equipos no tan lejos personas buena onda que me ayudaron a entender el problema, me revisaron muchísimo código y pude terminar el proyecto.
+Por suerte Google es enorme y encontré en otros equipos no tan lejos gente buena onda que me ayudó a entender el problema, me revisaron muchísimo código y pude terminar el proyecto.
 
-## Un interludio
+#### Un interludio
 
-Entre rotaciones hubo una semana en que “volvimos a clases” y compartimos nuestras experiencias. Para mi sorpresa, no fui el único con malas experiencias. Pero hubo muchos que estaban muy contentos también y hasta varios terminaron en su primer equipo después del programa.
+Entre rotaciones hubo una semana en que “volvimos a clases” y compartimos nuestras experiencias. Para mi sorpresa, no fui el único con malas experiencias. Pero hubo muchos que estaban muy contentos también y varios se quedaron en su primer equipo después del programa.
 
-## Segunda rotación
+#### Segunda rotación
 
-Esta fue en el equipo de Data Leak Prevention, dentro de GSuite, dentro de Google Cloud.
+Me tocó estar en el equipo de Data Leak Prevention, dentro de GSuite, dentro de Google Cloud.
 
 ![](/uploads/2020-07-22/gsuite.png)
