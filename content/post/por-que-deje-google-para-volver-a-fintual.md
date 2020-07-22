@@ -118,7 +118,7 @@ Por suerte Google es enorme y encontré en otros equipos no tan lejos gente buen
 
 #### Un interludio
 
-Entre rotaciones hubo una semana en que “volvimos a clases” y compartimos nuestras experiencias. Para mi sorpresa, no fui el único con malas experiencias. Pero hubo muchos que estaban muy contentos también y varios se quedaron en su primer equipo después del programa.
+Entre rotaciones hubo una semana en que “volvimos a clases” y compartimos nuestras experiencias. Para mi sorpresa, no fui el único con malas experiencias. Pero hubo muchos que estaban contentos también.
 
 #### Segunda rotación
 
