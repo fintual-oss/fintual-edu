@@ -74,26 +74,54 @@ Peeero:
 
 Wow, estaba de acuerdo en los tres puntos. Fue la conversación que necesitaba, precisamente, para tomar una decisión. Lo conversé con los fintualines y luego agendé reunión con la reclutadora de Google.
 
-Por videollamada le expliqué a la reclutadora que aceptaba la oferta, si dejábamos mi fecha de inicio en Google 10 meses más adelante. Quería quedarme un año entero en Fintual antes de irme. 
+Por videollamada le expliqué a la reclutadora que aceptaba la oferta, si dejábamos mi fecha de inicio en Google 10 meses más adelante. Quería quedarme un año entero en Fintual antes de irme.
 
 Me dijo que no había problema, que era lo máximo que lo podía atrasar eso sí. Me escribió como tres veces más en los días y semanas siguientes confirmando que no quería adelantar la fecha, cosa que nunca quise.
 
-10 meses después llegó mi último día en Fintual. 
+10 meses después llegó mi último día en Fintual.
 
-Estaba frenético frente al computador apagando un pequeño incendio. Terminé y fui a la reunión de despedida que habíamos atrasado por este problema. Trabajé hasta el último día como si fuera el primero. 
+Estaba frenético frente al computador apagando un pequeño incendio. Terminé y fui a la reunión de despedida que habíamos atrasado por este problema. Trabajé hasta el último día como si fuera el primero.
 
 Y creo que eso explica muy bien cómo era mi experiencia en Fintual, me gustaba mucho lo que hacía. Y los _founders_ también lo apreciaron. Me dieron un premio en acciones de Fintual al final del año –que por contrato creo que no correspondía–, pero que consideraron era lo correcto.
 
-Estaba contento. Aproveché los días para estar con la familia e irme al sur con mi polola a un AirBnB (hola Bruno! Era bacán tu casa en Puerto Varas). 
+Estaba contento. Aproveché los días para estar con la familia e irme al sur con mi polola a un AirBnB (hola Bruno! Era bacán tu casa en Puerto Varas).
 
 Tres semanas después de mi último día en Fintual estaba volando a Google. Era viernes y el lunes partía trabajando. Estaba emocionado y contento por esta nueva experiencia, aunque un poco tenso también por la distancia con la polola, familia y amigos. Pero me sentía muy afortunado de estar donde estaba.
 
 #### Google, here we go
 
-Al principio estuve en un programa que se llamaba “Engineering Residency Program”. 
+Al principio estuve en un programa que se llamaba “Engineering Residency Program”.
 
 Lo más valioso fueron los primeros dos meses: fui a “clases” con gente que también había egresado de la universidad hace poco (últimos 2 años). Y no por las clases, si no por la gente que conocías y la red de apoyo que eso generaba. Siempre es bueno tener gente con quien compartir y mejor si están viviendo experiencias similares.
 
 ![](/uploads/2020-07-22/noogler.png)
 
 Después de los dos meses de entrenamiento pasé por dos equipos. Trabajé 4–5 meses en cada uno. Cuando terminó el programa me “quedé” trabajando en el segundo, en el que estuve más de un año.
+
+#### Primera _rotación_
+
+El primer equipo fue dentro del área _Geo_ de Google. GeoMerchants. Básicamente todo lo que se relaciona con Google Maps. Específicamente trabajé en [Google My Business](https://www.google.com/business/).
+
+![](/uploads/2020-07-22/mybusiness.png)
+
+Y antes de hablar de mi experiencia me gustaría dejar muy claro que Google es una empresa ENORME. Casi 120 mil empleados alrededor del mundo al momento de escribir esto. 
+
+##### Por lo tanto, sería incorrecto asumir que mi experiencia es una muestra representativa de cómo es trabajar en Google. 
+
+Habiendo dicho eso…
+
+**Mi experiencia en ese equipo fue horrible.**
+
+Vi tres o cuatro veces al que tenía que ser mi tutor lo vi 3 o 4 veces en los casi 5 meses y la persona a la que “obligó” atender mis consultas solo me dijo que mis preguntas eran “tontas” y que podía googlear las respuestas. 🤦
+
+Por suerte, como mencioné, Google es enorme y encontré en otros equipos no tan lejos personas buena onda que me ayudaron a entender el problema, me revisaron muchísimo código y pude terminar el proyecto.
+
+## Un interludio
+
+Entre rotaciones hubo una semana en que “volvimos a clases” y compartimos nuestras experiencias. Para mi sorpresa, no fui el único con malas experiencias. Pero hubo muchos que estaban muy contentos también y hasta varios terminaron en su primer equipo después del programa.
+
+## Segunda rotación
+
+Esta fue en el equipo de Data Leak Prevention, dentro de GSuite, dentro de Google Cloud.
+
+![](/uploads/2020-07-22/gsuite.png)
