@@ -61,3 +61,5 @@ Después de pensarlo un buen rato le dije que tenía una oferta de Google, que n
 #### Por qué sí y por qué no
 
 Por un lado, a favor de Google, lo resumiré como “es una gran experiencia, gran empresa y claramente el nombre Google pesa harto”. Lo resumo nomás porque por ese lado pregúntale a un Uber nomás y te va a poder explicar el detalle.
+
+![](/uploads/2020-07-21/pundog.png)
