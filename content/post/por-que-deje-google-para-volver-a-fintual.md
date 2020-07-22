@@ -28,7 +28,7 @@ El proceso con Google había sido bien malo (partió dos años antes, voy a ahor
 
 Qué tanto, no iba a perder mucho tiempo. Seguro no iba a quedar, pero iba a aprender del proceso. Un proceso que muchas empresas intentan imitar.
 
-Un mes después, dos meses después de empezar a trabajar en Fintual, me llegó este mail:
+Un mes después, o dos meses después de empezar a trabajar en Fintual, me llegó este mail:
 
 ![](/uploads/2020-07-21/quedeengoogle.png)
 
@@ -78,7 +78,7 @@ Por videollamada le expliqué a la reclutadora que aceptaba la oferta, si dejáb
 
 Me dijo que no había problema, que era lo máximo que lo podía atrasar eso sí. Me escribió como tres veces más en los días y semanas siguientes confirmando que no quería adelantar la fecha, cosa que nunca quise.
 
-10 meses después llegó mi último día en Fintual.
+Hasta que llegó mi último día en Fintual.
 
 Estaba frenético frente al computador apagando un pequeño incendio. Terminé y fui a la reunión de despedida que habíamos atrasado por este problema. Trabajé hasta el último día como si fuera el primero.
 
@@ -96,7 +96,7 @@ Lo más valioso fueron los primeros dos meses: fui a “clases” con gente que 
 
 ![](/uploads/2020-07-22/noogler.png)
 
-Después de los dos meses de entrenamiento pasé por dos equipos. Trabajé 4–5 meses en cada uno. Cuando terminó el programa me “quedé” trabajando en el segundo, en el que estuve más de un año.
+Después de los dos meses de entrenamiento pasé por dos equipos. Trabajé cinco meses en cada uno. Cuando terminó el programa me “quedé” trabajando en el segundo, en el que estuve más de un año.
 
 #### Primera _rotación_
 
@@ -112,7 +112,7 @@ Habiendo dicho eso…
 
 **Fue horrible.**
 
-En 5 meses vi tres o cuatro veces al que tenía que ser mi tutor lo vi 3 o 4 veces en los casi 5 meses y la persona a la que “obligó” atender mis consultas solo me dijo que mis preguntas eran “tontas” y que podía googlear las respuestas. 🤦
+En cinco meses vi tres o cuatro veces al que tenía que ser mi tutor. La persona a la que “obligó” a atender mis consultas sólo me dijo que mis preguntas eran “tontas” y que podía googlear las respuestas.
 
 Por suerte, como mencioné, Google es enorme y encontré en otros equipos no tan lejos personas buena onda que me ayudaron a entender el problema, me revisaron muchísimo código y pude terminar el proyecto.
 
