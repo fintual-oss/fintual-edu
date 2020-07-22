@@ -141,7 +141,7 @@ Trabajé más de un año en ese equipo, hice muchos aportes, partí entendiendo 
 
 No es una respuesta fácil. 
 
-De hecho, he notado que he cambiado mi respuesta a medida que pasa el tiempo y vuelvo a mirar para atrás. Quién sabe, quizás en un tiempo esté en desacuerdo con lo que escriba a continuación, pero acá va:
+De hecho, he cambiado mi respuesta a medida que pasa el tiempo y vuelvo a mirar para atrás. Quién sabe, quizás en un tiempo esté en desacuerdo con lo que escriba a continuación, pero acá va:
 
 Sentí que estaba esperando, que los días pasaban nomás. Estaba ahorrando mucho. En la pega me sentía una parte importante del equipo. Mi jefe (antes tutor) era muy buena onda. Pero algo no estaba bien.
 
