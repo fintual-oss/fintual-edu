@@ -125,13 +125,13 @@ Entre rotaciones hubo una semana en que “volvimos a clases” y compartimos nu
 Me tocó estar en el equipo de Data Leak Prevention, dentro de GSuite, dentro de Google Cloud.
 
 ![](/uploads/2020-07-22/gsuite.png)  
-Quizás solo como dato curioso, lo que hacíamos aquí **permitía** que, por ejemplo, el decano de la UC reciba copia de todos los mails que se envíen o lleguen a un @uc.cl que tengan su nombre en el contenido. No digo que lo haga, solo que las empresas que usan GSuite pueden hacer ese tipo de “reglas”. Después de todo, en el contexto de una empresa, los mails son propiedad de la empresa, y no de quién los envía/recibe. El objetivo obviamente no era tan siniestro, si no más bien evitar que se envíen mails con datos de tarjetas de crédito u otra información confidencial fuera de la empresa, por dar un ejemplo más válido.
+Como dato curioso, lo que hacíamos aquí **permitía** que, por ejemplo, el decano de la UC reciba copia de todos los mails que se envíen o lleguen a un @uc.cl que tengan su nombre en el contenido. No digo que lo haga, sólo que las empresas que usan GSuite pueden hacer ese tipo de “reglas”. Después de todo, en el contexto de una empresa, los mails son propiedad de la empresa, y no de quién los envía/recibe. El objetivo obviamente no era tan siniestro, si no más bien evitar que se envíen mails con datos de tarjetas de crédito u otra información confidencial fuera de la empresa, por dar un ejemplo más válido.
 
 Ahí me encontré con gente capísima. La mitad de ese equipo era gente que llevaba muchísimo tiempo en Google, mi tutor incluso había trabajado y discutido con [Sanjay Ghemawat](https://www.newyorker.com/magazine/2018/12/10/the-friendship-that-made-google-huge).
 
 Trabajé más de un año en ese equipo, hice muchos aportes, partí entendiendo nada y terminé participando en decisiones importantes sobre el nuevo sistema y cómo se procesarían los billones de documentos por segundo que iba a ser necesario procesar con la nueva versión.
 
-## Mmm, ¿Y por qué me fui?
+#### Mmm, ¿Y por qué me fui?
 
 No es una respuesta sencilla, y de hecho he notado que he cambiado mi respuesta un par de veces a medida que pasa el tiempo y vuelvo a mirar para atrás. Quién sabe, quizás en un tiempo esté en desacuerdo con lo que escriba a continuación, pero…
 
