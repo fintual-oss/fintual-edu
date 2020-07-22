@@ -2,7 +2,7 @@
 author: Omar Larré
 author_thumbnail: "/uploads/omar_larre.jpeg"
 title: Pérdidas de corto plazo
-date: 2020-06-07T01:00:00.000+00:00
+date: 2020-07-22T01:00:00+00:00
 categories:
 - educación financiera
 image: "/uploads/2020-06-08/perdida-de-corto-plazo-eto-min.png"
