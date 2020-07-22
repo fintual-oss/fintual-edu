@@ -64,11 +64,13 @@ Por un lado, a favor de Google, lo resumiré como “es una gran experiencia, gr
 
 ![](/uploads/2020-07-21/pundog.png)
 
+¿Se entendió el chiste? Sí bueno, la comedia no es lo mío 😅
+
 Peeero:
 
 1. Si Google me quiere hoy, me va a seguir queriendo mañana, pasado y el próximo año.
 2. Estoy en un momento clave en Fintual, soy el primer empleado, estamos creciendo muchísimo, inversionistas llegan y llegan. Quedarme en Fintual también es una experiencia valiosísima.
-3. Tengo una relación bacán con todas las personas en Fintual, eso es algo muy valioso y que vale la pena aprovechar.
+3. **Tengo una relación bacán con todas las personas en Fintual, eso es algo muy valioso y que vale la pena aprovechar.**
 
 #### Ya se qué hacer
 
@@ -125,7 +127,11 @@ Entre rotaciones hubo una semana en que “volvimos a clases” y compartimos nu
 Me tocó estar en el equipo de Data Leak Prevention, dentro de GSuite, dentro de Google Cloud.
 
 ![](/uploads/2020-07-22/gsuite.png)  
-Como dato curioso, lo que hacíamos aquí **permitía** que, por ejemplo, el decano de la UC reciba copia de todos los mails que se envíen o lleguen a un @uc.cl que tengan su nombre en el contenido. No digo que lo haga, sólo que las empresas que usan GSuite pueden hacer ese tipo de “reglas”. Después de todo, en el contexto de una empresa, los mails son propiedad de la empresa, y no de quién los envía/recibe. El objetivo obviamente no era tan siniestro, si no más bien evitar que se envíen mails con datos de tarjetas de crédito u otra información confidencial fuera de la empresa, por dar un ejemplo más válido.
+Como dato curioso, lo que hacíamos aquí **permitía** que, por ejemplo, el decano de la UC reciba copia de todos los mails que se envíen o lleguen a un @uc.cl que tengan su nombre en el contenido. 
+
+No digo que lo haga, sólo que las empresas que usan GSuite pueden hacer ese tipo de “reglas”. Después de todo, en el contexto de una empresa, los mails son propiedad de la empresa, y no de quién los envía/recibe. 
+
+El objetivo obviamente no era tan siniestro, sino más bien evitar que se envíen mails con datos de tarjetas de crédito u otra información confidencial fuera de la empresa, por dar un ejemplo más válido.
 
 Ahí me encontré con gente capísima. La mitad de ese equipo era gente que llevaba muchísimo tiempo en Google, mi tutor incluso había trabajado y discutido con [Sanjay Ghemawat](https://www.newyorker.com/magazine/2018/12/10/the-friendship-that-made-google-huge).
 
@@ -133,7 +139,9 @@ Trabajé más de un año en ese equipo, hice muchos aportes, partí entendiendo 
 
 #### Mmm, ¿Y por qué me fui?
 
-No es una respuesta sencilla, y de hecho he notado que he cambiado mi respuesta un par de veces a medida que pasa el tiempo y vuelvo a mirar para atrás. Quién sabe, quizás en un tiempo esté en desacuerdo con lo que escriba a continuación, pero…
+No es una respuesta fácil. 
+
+De hecho, he notado que he cambiado mi respuesta a medida que pasa el tiempo y vuelvo a mirar para atrás. Quién sabe, quizás en un tiempo esté en desacuerdo con lo que escriba a continuación, pero acá va:
 
 Sentí que estaba esperando, que los días pasaban nomás. Estaba ahorrando mucho. En la pega me sentía una parte importante del equipo. Mi jefe (antes tutor) era muy buena onda. Pero algo no estaba bien.
 
