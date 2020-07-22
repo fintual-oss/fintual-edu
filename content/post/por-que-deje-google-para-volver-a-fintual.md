@@ -159,7 +159,7 @@ Pero además se saltaba esa norma social de no tocar el hombro y de (quizás sob
 
 Muchas veces se generaron conversaciones entretenidas gracias a él. Su mala conducta y poco respeto hicieron que el ambiente de trabajo se me hiciera más agradable. 
 
-¡¿Qué?! Por supuesto hubo excepciones en que quedé en shock cuando decía cosas que no correspondían, me sentí muy incómodo, pero esas otras veces…
+¡¿Qué?! Por supuesto hubo excepciones en que quedé en shock cuando decía cosas que no correspondían, me sentí muy incómodo, pero esas otras veces
 
 Me hizo darme cuenta de algo que no había tenido el tiempo de analizar antes: la gran mayoría no se atrevía a conversar de cosas personales. ¡Y de hecho yo tampoco me estaba atreviendo! No sé si es el puro proceso de bienvenida que te bombardea con mil y un cosas que no debes hacer ni decir o algo más, pero me di cuenta que preguntas tan simples como “qué harás después del trabajo?” prefería no hacerlas. ¿Qué tal si era algo de lo que no quieren hablar? ¿Quizás lo consideraban una invasión a su vida privada? Estuve más de un año, y si bien mi equipo era muy simpático, ni una sola vez escuché que alguien estuviera de cumpleaños.
 
