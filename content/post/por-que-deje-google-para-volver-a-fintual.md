@@ -78,6 +78,12 @@ Por videollamada le expliqué a la reclutadora que aceptaba la oferta, si dejáb
 
 Me dijo que no había problema, que era lo máximo que lo podía atrasar eso sí. Me escribió como tres veces más en los días y semanas siguientes confirmando que no quería adelantar la fecha, cosa que nunca quise.
 
-10 meses después, llevando un año en Fintual, era mi último día. Estaba frenético frente al computador apagando un pequeño incendio. Terminé y fui a la reunión de despedida que habíamos atrasado porque estaba terminando lo otro. Creo que trabajé hasta el último día como si fuera el primero. Y creo que eso explica muy bien cómo era mi experiencia en Fintual, me gustaba mucho lo que hacía. Y los _founders_ (como le decimos a los fundadores de Fintual) también lo apreciaron. Me dieron un premio en acciones de Fintual al final del año que por contrato creo que no correspondía (no cumplí mi parte), pero que consideraron era lo correcto.
+10 meses después llegó mi último día en Fintual. 
 
-Estaba contento. Aproveché los días para estar con la familia e irme al sur con mi polola a un AirBnB (hola Bruno! Era bacán su casa en Puerto Varas). 20 días después de mi último día en Fintual estaba volando a Google, era viernes y el lunes partía trabajando. Estaba emocionado y contento por esta nueva experiencia, aunque un poco tenso también por la distancia con la polola, familia y amigos. Pero me sentía muy afortunado de estar donde estaba. 🤩
+Estaba frenético frente al computador apagando un pequeño incendio. Terminé y fui a la reunión de despedida que habíamos atrasado por este problema. Trabajé hasta el último día como si fuera el primero. 
+
+Y creo que eso explica muy bien cómo era mi experiencia en Fintual, me gustaba mucho lo que hacía. Y los _founders_ también lo apreciaron. Me dieron un premio en acciones de Fintual al final del año –que por contrato creo que no correspondía–, pero que consideraron era lo correcto.
+
+Estaba contento. Aproveché los días para estar con la familia e irme al sur con mi polola a un AirBnB (hola Bruno! Era bacán tu casa en Puerto Varas). 
+
+Tres semanas después de mi último día en Fintual estaba volando a Google. Era viernes y el lunes partía trabajando. Estaba emocionado y contento por esta nueva experiencia, aunque un poco tenso también por la distancia con la polola, familia y amigos. Pero me sentía muy afortunado de estar donde estaba.
