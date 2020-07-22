@@ -143,15 +143,25 @@ No es una respuesta fácil.
 
 De hecho, he cambiado mi respuesta a medida que pasa el tiempo y vuelvo a mirar para atrás. Quién sabe, quizás en un tiempo esté en desacuerdo con lo que escriba a continuación, pero acá va:
 
-Sentí que estaba esperando, que los días pasaban nomás. Estaba ahorrando mucho. En la pega me sentía una parte importante del equipo. Mi jefe (antes tutor) era muy buena onda. Pero algo no estaba bien.
+Estaba ahorrando mucho. En la pega me sentía una parte importante del equipo. Mi jefe (antes tutor) era muy buena onda. Pero algo no estaba bien.
 
-Trabajar en Google es cómodo. Todos tienen muchas libertades, muchos beneficios y pocas responsabilidades. Todos son increíblemente respetuosos (quizás por educación, quizás por miedo a las consecuencias). Pero eventualmente me di cuenta de lo extremedamente importante que era el punto 3 que mencionó Agustín antes de que me vaya a Google. Las personas.
+Sentí que estaba esperando, que los días pasaban no más. 
 
-Hubo una persona en particular del equipo, que era capo, pero también tenía algo distinto a los demás. Tenía poco o nada filtro social. En una empresa donde pocos se atreven a tocarle el hombro al de al lado y en cambio te hablan por el chat para agendar una reunión para conversar, me llamó mucho la atención el efecto que generaba esta persona en el equipo.
+Trabajar en Google es cómodo. Todos tienen muchas libertades, muchos beneficios y pocas responsabilidades. Todos son increíblemente respetuosos (quizás por educación, quizás por miedo a las consecuencias). Pero eventualmente me di cuenta de lo extremedamente importante que era algo que mencionó Agustín antes de irme a Google: las personas.
 
-Esta persona, ocasionalmente, decía cosas que está derechamente mal decir. Y cuando lo hacía, generalmente alguien saltaba a pararle los carros por suerte. Pero además se saltaba esa norma social de no tocar el hombro y de (quizás sobre-) respetar la vida privada de los demás. Resulta que muchas veces se generaron conversaciones entretenidas gracias a él. Por su mala conducta y poco respeto, el ambiente de trabajo se me hizo más agradable. ¡¿Qué?! 😲 Por supuesto también quedaba en shock cuando decía cosas que no correspondía y me sentía muy incómodo, pero esas otras veces…
+Hubo una persona en particular del equipo, que era capo, pero también tenía algo distinto a los demás. 
 
-Me hizo darme cuenta de algo que no había tenido el tiempo de analizar antes y es el hecho de que la gran mayoría no se atrevía a conversar de cosas personales. ¡Y de hecho yo tampoco me estaba atreviendo! No sé si es el puro proceso de bienvenida que te bombardea con mil y un cosas que no debes hacer ni decir o algo más, pero me di cuenta que preguntas tan simples como “qué harás después del trabajo?” prefería no hacerlas. ¿Qué tal si era algo de lo que no quieren hablar? ¿Quizás lo consideraban una invasión a su vida privada? Estuve más de un año, y si bien mi equipo era muy simpático, ni una sola vez escuché que alguien estuviera de cumpleaños.
+Tenía poco o nada filtro social. En una empresa donde pocos se atreven a tocarle el hombro al de al lado y, en cambio, te hablan por el chat para agendar una reunión para conversar, me llamó mucho la atención el efecto que generaba esta persona en el equipo.
+
+Ocasionalmente decía cosas que está derechamente mal decir. Generalmente –por suerte– alguien saltaba a pararle los carros. 
+
+Pero además se saltaba esa norma social de no tocar el hombro y de (quizás sobre) respetar la vida privada de los demás. 
+
+Muchas veces se generaron conversaciones entretenidas gracias a él. Su mala conducta y poco respeto hicieron que el ambiente de trabajo se me hiciera más agradable. 
+
+¡¿Qué?! Por supuesto hubo excepciones en que quedé en shock cuando decía cosas que no correspondían, me sentí muy incómodo, pero esas otras veces…
+
+Me hizo darme cuenta de algo que no había tenido el tiempo de analizar antes: la gran mayoría no se atrevía a conversar de cosas personales. ¡Y de hecho yo tampoco me estaba atreviendo! No sé si es el puro proceso de bienvenida que te bombardea con mil y un cosas que no debes hacer ni decir o algo más, pero me di cuenta que preguntas tan simples como “qué harás después del trabajo?” prefería no hacerlas. ¿Qué tal si era algo de lo que no quieren hablar? ¿Quizás lo consideraban una invasión a su vida privada? Estuve más de un año, y si bien mi equipo era muy simpático, ni una sola vez escuché que alguien estuviera de cumpleaños.
 
 Es aquí cuando me di cuenta de lo mucho que me afectaba realmente que a mi compañero de trabajo, que llevaba 11 años en Google, nadie nunca le hubiera siquiera preguntado cómo llegó a Google. Yo había hecho nuevos amigos, varios trabajaban en Google, pero durante las horas de trabajo solo importaba el trabajo. No era terrible, era cómodo, así como nunca vi a nadie que le dijeran feliz cumpleaños, nunca vi alguien que se enojara (bueno, excepto algunos casos con el tipo mencionado en los párrafos anteriores, pero se entiende la idea).
 
