@@ -110,9 +110,9 @@ Y antes de hablar de mi experiencia me gustaría dejar muy claro que Google es u
 
 Habiendo dicho eso…
 
-**Mi experiencia en ese equipo fue horrible.**
+**Fue horrible.**
 
-Vi tres o cuatro veces al que tenía que ser mi tutor lo vi 3 o 4 veces en los casi 5 meses y la persona a la que “obligó” atender mis consultas solo me dijo que mis preguntas eran “tontas” y que podía googlear las respuestas. 🤦
+En 5 meses vi tres o cuatro veces al que tenía que ser mi tutor lo vi 3 o 4 veces en los casi 5 meses y la persona a la que “obligó” atender mis consultas solo me dijo que mis preguntas eran “tontas” y que podía googlear las respuestas. 🤦
 
 Por suerte, como mencioné, Google es enorme y encontré en otros equipos no tan lejos personas buena onda que me ayudaron a entender el problema, me revisaron muchísimo código y pude terminar el proyecto.
 
