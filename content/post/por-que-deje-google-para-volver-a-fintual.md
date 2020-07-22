@@ -87,3 +87,13 @@ Y creo que eso explica muy bien cómo era mi experiencia en Fintual, me gustaba 
 Estaba contento. Aproveché los días para estar con la familia e irme al sur con mi polola a un AirBnB (hola Bruno! Era bacán tu casa en Puerto Varas). 
 
 Tres semanas después de mi último día en Fintual estaba volando a Google. Era viernes y el lunes partía trabajando. Estaba emocionado y contento por esta nueva experiencia, aunque un poco tenso también por la distancia con la polola, familia y amigos. Pero me sentía muy afortunado de estar donde estaba.
+
+#### Google, here we go
+
+Al principio estuve en un programa que se llamaba “Engineering Residency Program”. 
+
+Lo más valioso fueron los primeros dos meses: fui a “clases” con gente que también había egresado de la universidad hace poco (últimos 2 años). Y no por las clases, si no por la gente que conocías y la red de apoyo que eso generaba. Siempre es bueno tener gente con quien compartir y mejor si están viviendo experiencias similares.
+
+![](/uploads/2020-07-22/noogler.png)
+
+Después de los dos meses de entrenamiento pasé por dos equipos. Trabajé 4–5 meses en cada uno. Cuando terminó el programa me “quedé” trabajando en el segundo, en el que estuve más de un año.
