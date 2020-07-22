@@ -2,7 +2,7 @@
 aliases = []
 author = "Gonzalo Enei"
 categories = ["educación financiera"]
-date = 2020-06-01T21:55:47Z
+date = 2020-07-20T21:55:47Z
 description = "Para decidir entre “comprar vs arrendar” lo esencial es evaluar todos los costos posibles. Para el arriendo quizás es más fácil evaluar los costos. Pero al comprar es difícil."
 hide = false
 image = "/uploads/comprar-vs-arrendar-ludmila-drago-min.png"
@@ -56,7 +56,7 @@ vivir en lugares mejores por menos considerando el valor del m2. <i>(Hice un</i>
 <li><b>Es mejor comprar varias propiedades chicas que una sola grande.</b> Dada la relación inversamente proporcional
 entre el valor de una propiedad y su arriendo, en vez de comprar una propiedad de UF 5.000 para vivir, sería mejor
 arrendar una propiedad equivalente a UF 5.000, pero comprar dos propiedades de UF 2.500 o -mejor aún- tres de UF
-1\.666 🤘 y arrendarlas. </li>
+1.666 🤘 y arrendarlas. </li>
 
 </ol>
 
