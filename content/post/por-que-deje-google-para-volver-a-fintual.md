@@ -66,6 +66,18 @@ Por un lado, a favor de Google, lo resumiré como “es una gran experiencia, gr
 
 Peeero:
 
-* Si Google me quiere hoy, me va a seguir queriendo mañana, pasado y el próximo año.
-* Estás en un momento clave en Fintual, eres el primer empleado, estamos creciendo muchísimo, inversionistas llegan y llegan. Quedarte en Fintual también es una experiencia valiosísima.
-* Claramente tienes una muy buena conexión con todas las personas en Fintual, eso es algo muy valioso y que vale la pena aprovechar.
+1. Si Google me quiere hoy, me va a seguir queriendo mañana, pasado y el próximo año.
+2. Estoy en un momento clave en Fintual, soy el primer empleado, estamos creciendo muchísimo, inversionistas llegan y llegan. Quedarme en Fintual también es una experiencia valiosísima.
+3. Tengo una relación bacán con todas las personas en Fintual, eso es algo muy valioso y que vale la pena aprovechar.
+
+#### Ya se qué hacer
+
+Wow, estaba de acuerdo en los tres puntos. Fue la conversación que necesitaba, precisamente, para tomar una decisión. Lo conversé con los fintualines y luego agendé reunión con la reclutadora de Google.
+
+Por videollamada le expliqué a la reclutadora que aceptaba la oferta, si dejábamos mi fecha de inicio en Google 10 meses más adelante. Quería quedarme un año entero en Fintual antes de irme. 
+
+Me dijo que no había problema, que era lo máximo que lo podía atrasar eso sí. Me escribió como tres veces más en los días y semanas siguientes confirmando que no quería adelantar la fecha, cosa que nunca quise.
+
+10 meses después, llevando un año en Fintual, era mi último día. Estaba frenético frente al computador apagando un pequeño incendio. Terminé y fui a la reunión de despedida que habíamos atrasado porque estaba terminando lo otro. Creo que trabajé hasta el último día como si fuera el primero. Y creo que eso explica muy bien cómo era mi experiencia en Fintual, me gustaba mucho lo que hacía. Y los _founders_ (como le decimos a los fundadores de Fintual) también lo apreciaron. Me dieron un premio en acciones de Fintual al final del año que por contrato creo que no correspondía (no cumplí mi parte), pero que consideraron era lo correcto.
+
+Estaba contento. Aproveché los días para estar con la familia e irme al sur con mi polola a un AirBnB (hola Bruno! Era bacán su casa en Puerto Varas). 20 días después de mi último día en Fintual estaba volando a Google, era viernes y el lunes partía trabajando. Estaba emocionado y contento por esta nueva experiencia, aunque un poco tenso también por la distancia con la polola, familia y amigos. Pero me sentía muy afortunado de estar donde estaba. 🤩
