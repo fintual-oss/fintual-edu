@@ -82,8 +82,7 @@ Al hacer el aporte mediante descuento por planilla te ahorrarás parte del impue
 
 #### **¿Dónde puedo tener APV?**
 
-En varias instituciones reguladas: AFPs, corredoras, administradoras, entre ellas **Fintual** :)
-Tenemos una comisión anual de 0,49%, la más baja del mercado según [El Mercurio Inversiones](http://www.elmercurio.com/Inversiones/Noticias/Analisis/2019/01/25/Nueva-serie-APV-de-fondos-mutuos-de-Fintual-es-la-mas-barata-del-mercado.aspx) y atendemos con mucha buena onda.
+En varias instituciones reguladas: AFPs, corredoras, administradoras, entre ellas **Fintual** :) Tenemos una comisión anual de 0,49%, la más baja del mercado de fondos mutuos según [El Mercurio Inversiones](http://www.elmercurio.com/Inversiones/Noticias/Analisis/2019/01/25/Nueva-serie-APV-de-fondos-mutuos-de-Fintual-es-la-mas-barata-del-mercado.aspx) y atendemos con mucha buena onda.
 
 #### **Oye, ¿y qué pasa con mi APV cuando me jubilo?**
 
