@@ -7,7 +7,7 @@ description = "Te explicamos WTF con los ETFs, AFORES, CETES y más en Fintual D
 hide = false
 image = "/uploads/discovery-min.jpg"
 title = "Fintual Discovery: educación financiera fácil, simple y gratis"
-url = "fintual-discovery-mx"
+url = "/fintual-discovery-mx"
 
 +++
 Lanzamos [Fintual Discovery](https://fintu.al/JuWA), una plataforma muy cool para aprender las cosas que tienes que saber de inversiones y finanzas.
