@@ -4,7 +4,6 @@ author = "Valentin Jadot"
 categories = ["educación financiera"]
 date = 2020-07-20T18:53:27Z
 description = "Te explicamos WTF con los ETFs, AFORES, CETES y más en Fintual Discovery"
-draft = true
 hide = false
 image = "/uploads/discovery-min.jpg"
 title = "Fintual Discovery: educación financiera fácil, simple y gratis"
