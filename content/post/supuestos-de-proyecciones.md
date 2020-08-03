@@ -12,6 +12,8 @@ url = "comparacion-ffmm-mail-diciembre-2019"
 +++
 Comparamos los fondos con un portafolio Fintual de riesgo similar. El riesgo es calculado a partir de la volatilidad de los retornos semanales de los activos y considera las correlaciones entre los fondos de Fintual.
 
+#### ¿Quieres comparar tu fondo mutuo? Clic [acá](https://www.quefondomutuo.cl/)
+
 Para estos cálculos se consideran los retornos desde 2018-12-10 hasta 2019-12-10.
 
 ##### Amiga que hubiese ganado el doble con Fintual
