@@ -2,11 +2,10 @@
 aliases = []
 author = "Omar Larré"
 categories = ["educación financiera"]
-date = 2020-08-05T14:52:42Z
+date = 2020-08-04T14:52:42Z
 description = ""
-draft = true
 hide = false
-image = "/uploads/2020-08-05/10.jpg"
+image = "/uploads/2020-08-05/opciones-10.jpg"
 title = "Calculando las opciones del retiro del 10%"
 url = "/calculando-las-opciones-del-10%-afp"
 
@@ -32,7 +31,7 @@ Vamos a discutir más sobre las opciones que apuntan a mantener tu dinero invert
 
 **Son opciones similares en el sentido de que ambas tienen la intención de utilizar el dinero para la jubilación.**
 
-![](/uploads/2020-07-17/10.jpg)
+![](/uploads/2020-08-05/opciones-10.jpg)
 
 No retirar significa que esa plata se sigue invirtiendo en los multifondos de las AFP como parte de tus cotizaciones obligatorias.
 
