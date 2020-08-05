@@ -7,7 +7,7 @@ description = ""
 hide = false
 image = "/uploads/2020-08-05/opciones-10.jpg"
 title = "Calculando las opciones del retiro del 10%"
-url = "/calculando-las-opciones-del-10%-afp"
+url = "/calculando-las-opciones-del-retiro-10-afp"
 
 +++
 ¿Qué hacer con el 10% de la AFP? Hay cuatro opciones:
