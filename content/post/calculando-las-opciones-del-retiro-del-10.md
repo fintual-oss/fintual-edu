@@ -11,16 +11,16 @@ title = "Calculando las opciones del retiro del 10%"
 url = "/calculando-las-opciones-del-10%-afp"
 
 +++
-¿Qué hacer con el 10% de la AFP? Hay cuatro opciones: 
+¿Qué hacer con el 10% de la AFP? Hay cuatro opciones:
 
-1. Gastar el dinero porque lo necesitas y listo. 
-2. Sacarlo e invertirlo, pensando en que necesitarás gastarlo en un corto o mediano plazo (pero no para tu jubilación). 
-3. Sacarlo e invertirlo para tu jubilación con el beneficio fiscal o tributario del APV. 
+1. Gastar el dinero porque lo necesitas y listo.
+2. Sacarlo e invertirlo, pensando en que necesitarás gastarlo en un corto o mediano plazo (pero no para tu jubilación).
+3. Sacarlo e invertirlo para tu jubilación con el beneficio fiscal o tributario del APV.
 4. No sacarlo y mantenerlo en la AFP hasta la jubilación.
 
 #### Quiero retirar e invertirlo como yo quiera, no necesariamente para la jubilación
 
-Es una opción tan válida como todas. 
+Es una opción tan válida como todas.
 
 Elige bien dónde vas a invertir, ten ojo con las comisiones y diversifica. Puedes elegir algo distinto, un negocio propio, una inversión no convencional.
 
@@ -32,6 +32,8 @@ Vamos a discutir más sobre las opciones que apuntan a mantener tu dinero invert
 
 **Son opciones similares en el sentido de que ambas tienen la intención de utilizar el dinero para la jubilación.**
 
+![](/uploads/2020-07-17/10.jpg)
+
 No retirar significa que esa plata se sigue invirtiendo en los multifondos de las AFP como parte de tus cotizaciones obligatorias.
 
 Hacer un APV tiene varios beneficios:
@@ -40,7 +42,7 @@ Hacer un APV tiene varios beneficios:
 2. Puedes elegir entre dos beneficios tributarios. En el caso del régimen A, puedes recibir un 15% de la inversión de forma de bonificación fiscal (con un tope de 6 UTM al año). También existe el beneficio APV régimen B, donde rebajas tu base de impuestos.
 3. Tienes la opción de retirar tu APV en algún momento del futuro, antes de jubilarte, cuando realmente lo necesites (en cuyo caso perderías el beneficio fiscal o tributario). Esta opción tiene un valor, muy difícil de traducir en un valor monetario, pero que es mayor en la medida que eres más joven.
 
-Por el lado negativo, la opción del APV tiene un costo de administración anual, por lo que tienes que tener bastante ojo con opciones caras. 
+Por el lado negativo, la opción del APV tiene un costo de administración anual, por lo que tienes que tener bastante ojo con opciones caras.
 
 > Es importante considerar que la comisión pagada por administración de esa plata en la cuenta obligatoria de la AFP ya se pagó y no la puedes recuperar (costo hundido), por lo que no es necesario considerarla en el análisis.
 
@@ -63,11 +65,11 @@ Vemos dos casos.
 
 #### Caso 1: estás bien con la AFP y quieres tener tu APV ahí
 
-Si estás feliz con tu AFP asumimos que estás contento con la comisión de tu cuenta obligatoria. 
+Si estás feliz con tu AFP asumimos que estás contento con la comisión de tu cuenta obligatoria.
 
-Después de eso, lo importante a considerar son las comisiones de APV de cada AFP. 
+Después de eso, lo importante a considerar son las comisiones de APV de cada AFP.
 
-En ese caso, considera comisiones que se acomoden a tu edad, es decir, que no te “coman” el beneficio APV en menos años que los años que te quedan para jubilar. 
+En ese caso, considera comisiones que se acomoden a tu edad, es decir, que no te “coman” el beneficio APV en menos años que los años que te quedan para jubilar.
 
 Para eso te puede servir la siguiente tabla:
 
@@ -77,7 +79,7 @@ tabla2
 
 Como mencionamos antes, no tiene mucho sentido un APV con una comisión muy alta. Descarta esas opciones de plano.
 
-Una vez que elijas las opciones con comisiones razonables, entra en juego factores como la rentabilidad, el servicio, y el tipo de inversiones que quieres hacer. 
+Una vez que elijas las opciones con comisiones razonables, entra en juego factores como la rentabilidad, el servicio, y el tipo de inversiones que quieres hacer.
 
 Fíjate que las rentabilidades al menos estén cercanas a las rentabilidades de los multifondos de las AFP, preocúpate que el servicio que te den sea el que esperas, y finalmente —y sólo si te interesa—, revisa que los intereses de tus inversiones no se desalinean respecto a tus motivaciones personales.
 
@@ -111,4 +113,16 @@ En los últimos 12 meses, los valores cuotas han variado en promedio 1,4% (fondo
 
 Cuidado con las recomendaciones. Si alguien te dice que te conviene sacar la plata porque el mercado va a bajar, está asumiendo que el mercado va a bajar en dos semanas más. Lo mismo si te dicen que va a subir.
 
-Nadie sabe lo que va a pasar en el futuro.
+Y nadie sabe lo que va a pasar en el futuro.
+
+{{% prueba_fintual
+utmcontent="las_opciones_del_10"
+card_title="Prueba Fintual"
+card_button="Empezar" %}}
+
+Más inteligente que dejar tu plata en el banco.
+
+{{% /prueba_fintual %}}
+
+_Infórmate de las características esenciales de la inversión en estos fondos mutuos. Están en sus reglamentos internos, que puedes ver en la CMF y en fintual.com/docs_._  
+La rentabilidad es fluctuante por lo que nada garantiza que las rentabilidades pasadas se mantengan en el futuro._
