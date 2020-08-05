@@ -5,7 +5,7 @@ categories = ["noticias"]
 date = 2020-08-05T21:54:39Z
 description = "El martes 4 de agosto Fintual estuvo caído un rato. Acá la explicación."
 hide = true
-image = ""
+image = "/uploads/2020-08-05/error.png"
 title = "2020-08-05: Postmortem sitio de Fintual no disponible"
 url = "/postmortem-2020-08-05"
 
