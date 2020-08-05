@@ -11,8 +11,9 @@ title = "Calculando las opciones del retiro del 10%"
 url = "/calculando-las-opciones-del-10%-afp"
 
 +++
-Las opciones de qué hacer con el 10% son cuatro:
-Gastar el dinero porque lo necesitas y listo.
-Sacarlo e invertirlo, pensando en que necesitarás gastarlo en un corto o mediano plazo (pero no para tu jubilación).
-Sacarlo e invertirlo para tu jubilación con el beneficio fiscal o tributario del APV. 
-No sacarlo y mantenerlo en la AFP hasta la jubilación. 
+¿Qué hacer con el 10% de la AFP? Hay cuatro opciones: 
+
+1. Gastar el dinero porque lo necesitas y listo.
+2. Sacarlo e invertirlo, pensando en que necesitarás gastarlo en un corto o mediano plazo (pero no para tu jubilación). 
+3. Sacarlo e invertirlo para tu jubilación con el beneficio fiscal o tributario del APV. 
+4. No sacarlo y mantenerlo en la AFP hasta la jubilación.
