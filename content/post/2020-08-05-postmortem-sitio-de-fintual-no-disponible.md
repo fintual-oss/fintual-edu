@@ -12,7 +12,7 @@ url = "/postmortem-2020-08-05"
 +++
 #### Summary
 
-Actualización en el código hizo que colapsara base de datos dejando los sitios web intermitentes. Rollback a último binario que funcionaba bien mitigó momentáneamente el problema. Inicialmente parecía que exceso de requests caros a API por un partner había generado en colapso de db. Se procedió a hacer rollforward de binario con problemas lo que volvió a colapsar db y se revirtió inmediatamente.    Lamentablemente ya habían quedado muchas queries pendientes en la DB (no son canceladas al cambiar de binario) agotando la CPU y conexiones disponibles. Se intentó publicar binario nuevo con arreglos pero al no haber conexiones heroku no realizó el release. Finalmente se procedió a matar manualmente las queries pegadas lo que liberó CPU/conexiones permitiendo el release del binario arreglado.
+Actualización en el código hizo que colapsara base de datos dejando los sitios web intermitentes. Rollback a último binario que funcionaba bien mitigó momentáneamente el problema. Inicialmente parecía que exceso de requests caros a API por un partner había generado en colapso de db. Se procedió a hacer rollforward de binario con problemas lo que volvió a colapsar db y se revirtió inmediatamente. Lamentablemente ya habían quedado muchas queries pendientes en la DB (no son canceladas al cambiar de binario) agotando la CPU y conexiones disponibles. Se intentó publicar binario nuevo con arreglos pero al no haber conexiones heroku no realizó el release. Finalmente se procedió a matar manualmente las queries pegadas lo que liberó CPU/conexiones permitiendo el release del binario arreglado.
 
 ![](/uploads/2020-08-05/error.png)
 
