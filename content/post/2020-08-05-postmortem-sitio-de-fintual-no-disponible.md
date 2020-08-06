@@ -42,7 +42,8 @@ Alerta de carga de db y posteriormente usuarios avisando por chat
 * Más recursos para DB, no debería saturarse con requests pesados a api
 * Página de error tiene que tener chat simplificado que no dependa de db
 
- Agregar a buenas prácticas:
+Agregar a buenas prácticas:
+
 * Cambios a queries de alto impacto tienen que estar flag guarded
 * Índices nuevos tienen que estar en PRs solos
 
