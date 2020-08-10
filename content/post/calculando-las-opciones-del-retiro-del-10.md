@@ -1,7 +1,7 @@
 +++
 aliases = []
 author = "Omar Larré"
-categories = []
+categories = ["educación financiera"]
 date = 2020-08-09T14:52:42Z
 description = ""
 hide = false
