@@ -47,7 +47,7 @@ Por el lado negativo, la opción del APV tiene un costo de administración anual
 
 Efectivamente, entre más comisión, más rápido se te va ese 15% de bonificación extra.
 
-![](/uploads/2020-08-10/tabla-el-10.png)
+<div style="text-align:center"> <figure> <img src="/uploads/2020-08-10/tabla-el-10.png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i></i></figcaption> </figure> </div>
 
 Según la tabla, si por ejemplo tienes un APV que te cobra 1,5% de comisión anual, en 9 años la bonificación “se esfuma” por la comisión.
 
@@ -72,7 +72,7 @@ En ese caso, considera comisiones que se acomoden a tu edad, es decir, que no te
 
 Para eso te puede servir la siguiente tabla:
 
-![](/uploads/2020-08-10/tabla-2-afp.png)
+<div style="text-align:center"> <figure> <img src="/uploads/2020-08-10/tabla-2-afp.png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Fuente: Superintendencia de Pensiones</i></figcaption> </figure> </div>
 
 #### Caso 2: quieres hacer un APV, pero no en una AFP
 
