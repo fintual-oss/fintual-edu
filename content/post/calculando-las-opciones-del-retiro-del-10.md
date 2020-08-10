@@ -2,9 +2,9 @@
 aliases = []
 author = "Omar Larré"
 categories = ["educación financiera"]
-date = 2020-08-04T14:52:42Z
+date = 2020-08-09T14:52:42Z
 description = ""
-hide = true
+hide = false
 image = "/uploads/2020-08-05/opciones-10.jpg"
 title = "Calculando las opciones del retiro del 10%"
 url = "/calculando-las-opciones-del-retiro-10-afp"
@@ -47,7 +47,7 @@ Por el lado negativo, la opción del APV tiene un costo de administración anual
 
 Efectivamente, entre más comisión, más rápido se te va ese 15% de bonificación extra.
 
-tabla1
+![](/uploads/2020-08-10/tabla-el-10.png)
 
 Según la tabla, si por ejemplo tienes un APV que te cobra 1,5% de comisión anual, en 9 años la bonificación “se esfuma” por la comisión.
 
@@ -72,7 +72,7 @@ En ese caso, considera comisiones que se acomoden a tu edad, es decir, que no te
 
 Para eso te puede servir la siguiente tabla:
 
-tabla2
+![](/uploads/2020-08-10/tabla-2-afp.png)
 
 #### Caso 2: quieres hacer un APV, pero no en una AFP
 
