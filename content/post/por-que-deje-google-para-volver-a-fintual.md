@@ -106,9 +106,9 @@ El primer equipo fue dentro del área _Geo_ de Google. GeoMerchants. Básicament
 
 ![](/uploads/2020-07-22/mybusiness.png)
 
-Y antes de hablar de mi experiencia me gustaría dejar muy claro que Google es una empresa ENORME. Casi 120 mil empleados alrededor del mundo al momento de escribir esto. 
+Y antes de hablar de mi experiencia me gustaría dejar muy claro que Google es una empresa ENORME. Casi 120 mil empleados alrededor del mundo al momento de escribir esto.
 
-##### Por lo tanto, sería incorrecto asumir que mi experiencia es una muestra representativa de cómo es trabajar en Google. 
+##### Por lo tanto, sería incorrecto asumir que mi experiencia es una muestra representativa de cómo es trabajar en Google.
 
 Habiendo dicho eso…
 
@@ -127,9 +127,9 @@ Entre rotaciones hubo una semana en que “volvimos a clases” y compartimos nu
 Me tocó estar en el equipo de Data Leak Prevention, dentro de GSuite, dentro de Google Cloud.
 
 ![](/uploads/2020-07-22/gsuite.png)  
-Como dato curioso, lo que hacíamos aquí **permitía** que, por ejemplo, el decano de la UC reciba copia de todos los mails que se envíen o lleguen a un @uc.cl que tengan su nombre en el contenido. 
+Como dato curioso, lo que hacíamos aquí **permitía** que, por ejemplo, el decano de la UC reciba copia de todos los mails que se envíen o lleguen a un @uc.cl que tengan su nombre en el contenido.
 
-No digo que lo haga, sólo que las empresas que usan GSuite pueden hacer ese tipo de “reglas”. Después de todo, en el contexto de una empresa, los mails son propiedad de la empresa, y no de quién los envía/recibe. 
+No digo que lo haga, sólo que las empresas que usan GSuite pueden hacer ese tipo de “reglas”. Después de todo, en el contexto de una empresa, los mails son propiedad de la empresa, y no de quién los envía/recibe.
 
 El objetivo obviamente no era tan siniestro, sino más bien evitar que se envíen mails con datos de tarjetas de crédito u otra información confidencial fuera de la empresa, por dar un ejemplo más válido.
 
@@ -139,35 +139,35 @@ Trabajé más de un año en ese equipo, hice muchos aportes, partí entendiendo 
 
 #### Mmm, ¿Y por qué me fui?
 
-No es una respuesta fácil. 
+No es una respuesta fácil.
 
 De hecho, he cambiado mi respuesta a medida que pasa el tiempo y vuelvo a mirar para atrás. Quién sabe, quizás en un tiempo esté en desacuerdo con lo que escriba a continuación, pero acá va:
 
 Estaba ahorrando mucho. En la pega me sentía una parte importante del equipo. Mi jefe (antes tutor) era muy buena onda. Pero algo no estaba bien.
 
-Sentí que estaba esperando, que los días pasaban no más. 
+Sentí que estaba esperando, que los días pasaban no más.
 
 Trabajar en Google es cómodo. Todos tienen muchas libertades, muchos beneficios y pocas responsabilidades. Todos son increíblemente respetuosos (quizás por educación, quizás por miedo a las consecuencias). Pero eventualmente me di cuenta de lo extremedamente importante que era algo que mencionó Agustín antes de irme a Google: las personas.
 
-Hubo una persona en particular del equipo, que era capo, pero también tenía algo distinto a los demás. 
+Hubo una persona en particular del equipo, que era capo, pero también tenía algo distinto a los demás.
 
 Tenía poco o nada filtro social. En una empresa donde pocos se atreven a tocarle el hombro al de al lado y, en cambio, te hablan por el chat para agendar una reunión para conversar, me llamó mucho la atención el efecto que generaba esta persona en el equipo.
 
-Ocasionalmente decía cosas que está derechamente mal decir. Generalmente –por suerte– alguien saltaba a pararle los carros. 
+Ocasionalmente decía cosas que está derechamente mal decir. Generalmente –por suerte– alguien saltaba a pararle los carros.
 
-Pero además se saltaba esa norma social de no tocar el hombro y de (quizás sobre) respetar la vida privada de los demás. 
+Pero además se saltaba esa norma social de no tocar el hombro y de (quizás sobre) respetar la vida privada de los demás.
 
-Muchas veces se generaron conversaciones entretenidas gracias a él. Su mala conducta y poco respeto hicieron que el ambiente de trabajo se me hiciera más agradable. 
+Muchas veces se generaron conversaciones entretenidas gracias a él. Su mala conducta y poco respeto hicieron que el ambiente de trabajo se me hiciera más agradable.
 
-¡¿Qué?! Por supuesto hubo excepciones en que quedé en shock cuando decía cosas que no correspondían, me sentí muy incómodo, pero esas otras veces
+¡¿Qué?! Por supuesto hubo excepciones en que quedé en shock cuando decía cosas que no correspondían, me sentí muy incómodo, pero esas otras veces hicieron que me diera cuenta de algo que no había tenido el tiempo de analizar antes: la gran mayoría no se atrevía a conversar de cosas personales. ¡Y yo tampoco me estaba atreviendo! 
 
-Me hizo darme cuenta de algo que no había tenido el tiempo de analizar antes: la gran mayoría no se atrevía a conversar de cosas personales. ¡Y de hecho yo tampoco me estaba atreviendo! No sé si es el puro proceso de bienvenida que te bombardea con mil y un cosas que no debes hacer ni decir o algo más, pero me di cuenta que preguntas tan simples como “qué harás después del trabajo?” prefería no hacerlas. ¿Qué tal si era algo de lo que no quieren hablar? ¿Quizás lo consideraban una invasión a su vida privada? Estuve más de un año, y si bien mi equipo era muy simpático, ni una sola vez escuché que alguien estuviera de cumpleaños.
+No sé si es el puro proceso de bienvenida que te bombardea con mil y un cosas que no debes hacer ni decir o algo más, pero me di cuenta que preguntas tan simples como “qué harás después del trabajo?” prefería no hacerlas. ¿Qué tal si era algo de lo que no quieren hablar? ¿Quizás lo consideraban una invasión a su vida privada? Estuve más de un año, y si bien mi equipo era muy simpático, ni una sola vez escuché que alguien estuviera de cumpleaños.
 
 Es aquí cuando me di cuenta de lo mucho que me afectaba realmente que a mi compañero de trabajo, que llevaba 11 años en Google, nadie nunca le hubiera siquiera preguntado cómo llegó a Google. Yo había hecho nuevos amigos, varios trabajaban en Google, pero durante las horas de trabajo solo importaba el trabajo. No era terrible, era cómodo, así como nunca vi a nadie que le dijeran feliz cumpleaños, nunca vi alguien que se enojara (bueno, excepto algunos casos con el tipo mencionado en los párrafos anteriores, pero se entiende la idea).
 
 Hay otras razones que jugaron un rol importante en mi decisión, pero para evitar alargar esto, hablo solo de este tema. Me parece que es el punto más fuerte e interesante en la decisión que tomé.
 
-## La película estaba clara
+#### La película estaba clara
 
 Era más feliz en Fintual que en Google.
 
@@ -175,13 +175,13 @@ Los incentivos en Google apuntan a que las cosas se hagan bien, a que se desarro
 
 También creo que para varios, eso no tiene nada de malo. Hablaré más de eso al final, pero primero terminemos la historia.
 
-## [Chaíto](https://www.instagram.com/p/B7-ErYmj8MJ/?igshid=8guuxrz4r6lm) 👋
+#### Chaíto 👋
 
 Me fui inicialmente queriendo estar 2 a 3 años en Google antes de volver, pero al año ya tenía claro que iba a volver antes. Ya había aprendido lo que quería. Terminé estando un año y medio más o menos. En vez de 2–3 semanas para cambiar de pega, de casa y de país, aprendí que era mejor tomarse más tiempo esta vez y me tomé 2 meses antes de volver a querer trabajar en Chile.
 
 ¿Y dónde iba a trabajar? Pues en Fintual. Ni dos veces lo tuve que pensar. Haber tenido la experiencia que tuve, con distintos equipos, con todos los compañeros del programa a través de quiénes viví sus propias historias, tenía clarísimo que es una oportunidad enorme trabajar con los cracks de Fintual. Sea donde sea que trabajes, encontrar un grupo bacán de personas con quienes compartir la mayor parte de tus días, es lejos lo más valioso. Trabajando encerrado en la pieza por la pandemia, mi polola hasta se ha quejado de lo mucho y fuerte que me río mientras trabajo. Eso sí que es disfrutar tu pega. Y sí, también se hace mucho entre risas. Que no te digan que no se puede reír y trabajar.
 
-## Y ¿Fintual seguía igual?
+#### Y ¿Fintual seguía igual?
 
 El Fintual al que llegué era súper distinto, en vez de ser los 9 que éramos cuando me fui, eran 35. No conocía todo el código nuevo y probablemente jamás llegue a conocerlo todo. Con tantos desarrolladores es imposible ya revisar todo lo que ocurre en cada esquina, hay muchas personalidades distintas, **ni siquiera era el único que había estado en Google.**
 
