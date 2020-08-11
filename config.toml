@@ -80,6 +80,10 @@ sharingicons = false
     name= "Valentin Jadot"
     description = "El belga de Fintual. Estudió derecho en la Université libre de Bruxelles pero por alguna razón en Fintual es programador"
     thumbnail= "/uploads/valentin.jpg"
+    [params.writers."Daniel Martínez"]
+    name= "Daniel Martínez"
+    description = "Desarollador y practicante chámanico"
+    thumbnail= "/uploads/daniel.jpg"
 
 [services.rss]
   limit = 20
