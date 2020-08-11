@@ -31,7 +31,7 @@ También hizo cambios en la política migratoria estadounidense, tornándola cad
 
 La campaña de reelección de Trump contaba con el crecimiento económico como base para su discurso electoral, pero el coronavirus y la cuarentena complicaron ese argumento
 
-> **El PIB estadounidense se contrajo un 9,5% en el segundo trimestre del año (trimestre a trimestre), el peor resultado trimestral desde que hay registro. Con eso también aumentó el desempleo, que llegó a 14,7%, la peor cifra desde la gran depresión.**
+> ##### El PIB estadounidense se contrajo un 9,5% en el segundo trimestre del año (trimestre a trimestre), el peor resultado trimestral desde que hay registro. Con eso también aumentó el desempleo, que llegó a 14,7%, la peor cifra desde la gran depresión.
 
 El candidato demócrata, Joe Biden, tiene una posición más progresiva que Trump.
 
@@ -45,7 +45,7 @@ Cada uno de los 50 estados tiene una votación voluntaria que elige un cierto n�
 
 El colegio electoral, a su vez, hace una segunda votación para elegir al presidente.
 
-> ##### **Desde 1990, el partido republicano consiguió la mayoría de los votos sólo una vez, pero su candidato salió presidente tres veces. El último fue Donald Trump.**
+> ##### Desde 1990, el partido republicano consiguió la mayoría de los votos sólo una vez, pero su candidato salió presidente tres veces. El último fue Donald Trump.
 
 Este sufragio indirecto provoca que algunos estados sean claves para definir las elecciones presidenciales, los **_Swing states_**.
 
