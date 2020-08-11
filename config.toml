@@ -42,6 +42,10 @@ sharingicons = false
     name = "Ignacio Soffia"
     description = "Dsgnr en Fintual. Sospechamos que Steve Jobs vive en él"
     thumbnail = "/uploads/soffia.jpg"
+    [params.writers."Stella Melaragno"]
+    name = "Stella Melaragno"
+    description = "Economista de la universidad Insper y master en Macroeconomía Financiera en la Fundação Getulio Vargas. Brasileña y experta en portuñol"
+    thumbnail = "/uploads/2020-08-11/stella.jpg"
     [params.writers."Omar Larré"]
     name = "Omar Larré"
     description = "Ingeniero Civil Matemático y magíster en Gestión de Operaciones de la Chile. Senior portafolio manager y experto en inversiones"
