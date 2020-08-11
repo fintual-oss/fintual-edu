@@ -1,6 +1,6 @@
 +++
 aliases = []
-author = "Andrés Marinkovic"
+author = "Daniel Martínez"
 categories = ["noticias"]
 date = 2020-08-11T15:35:32Z
 description = ""
