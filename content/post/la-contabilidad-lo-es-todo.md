@@ -45,3 +45,5 @@ Hay dos opciones para ordenar tus objetivos que hayan tenido retiros totales ant
 En cualquier caso, esto nos ayudará en el futuro a que todos nuestros usuarios ordenen y usen de mejor forma sus objetivos, así como también nos ayudará a seguir mejorando nuestros sistemas internos en un proceso de mejora continua.
 
 Cuéntanos si tienes alguna duda vía Chat.
+
+ 
