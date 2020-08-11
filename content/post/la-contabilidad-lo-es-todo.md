@@ -7,19 +7,23 @@ description = ""
 draft = true
 hide = true
 image = ""
-title = "¡La contabilidad lo es todo!"
+title = "Por qué cambió la contabilidad de los objetivos de Fintual"
 url = "la-contabilidad-lo-es-todo"
 
 +++
-En Fintual hacemos procesos de mejora continua. Por eso, estos últimos meses hemos estado trabajando en uno de nuestros sistemas contables, para simplificar varios procesos, mejorar nuestra estructura interna y ser mucho más eficientes (o felices jeje) ❤️.
+En Fintual siempre estamos haciendo procesos de mejora continua. 
 
-Como todo cambio tiene consecuencias y puede traer un poco de confusión, decidimos escribir este post para exlicarte qué cambió, por qué y qué tienes que hacer.
+Puede ser un mail, un gráfico o un botón.
 
-## ¿Qué cambió?
+Estos últimos meses hemos estado trabajando en uno de nuestros sistemas contables para simplificar varios procesos, mejorar nuestra estructura interna y ser mucho más eficientes (o felices jeje) ❤️.
+
+Como todo cambio, tiene consecuencias y por eso queremos explicarte qué cambió, por qué y qué tienes que hacer.
+
+#### ¿Qué cambió?
 
 Los cambios ocurrieron en varios niveles en los sistemas de Fintual, pero para los usuarios, el cambio principal tiene relación con cómo se muestran sus números (balance, depositado neto, ganancia) en el perfil y en sus objetivos.
 
-## ¿Por qué?
+#### ¿Por qué?
 
 Antes, un retiro total hacía que un objetivo partiera desde 0, olvidándose de su historia. Hoy en cambio, consideramos la historia completa a la hora de mostrar los números.
 
@@ -45,5 +49,3 @@ Hay dos opciones para ordenar tus objetivos que hayan tenido retiros totales ant
 En cualquier caso, esto nos ayudará en el futuro a que todos nuestros usuarios ordenen y usen de mejor forma sus objetivos, así como también nos ayudará a seguir mejorando nuestros sistemas internos en un proceso de mejora continua.
 
 Cuéntanos si tienes alguna duda vía Chat.
-
- 
