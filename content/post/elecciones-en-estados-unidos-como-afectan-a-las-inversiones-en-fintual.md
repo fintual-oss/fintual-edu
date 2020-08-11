@@ -31,7 +31,7 @@ También hizo cambios en la política migratoria estadounidense, tornándola cad
 
 La campaña de reelección de Trump contaba con el crecimiento económico como base para su discurso electoral, pero el coronavirus y la cuarentena complicaron ese argumento
 
-> El PIB estadounidense se contrajo un 9,5% en el segundo trimestre del año (trimestre a trimestre), el peor resultado trimestral desde que hay registro. Con eso también aumentó el desempleo, que llegó a 14,7%, la peor cifra desde la gran depresión.
+> **El PIB estadounidense se contrajo un 9,5% en el segundo trimestre del año (trimestre a trimestre), el peor resultado trimestral desde que hay registro. Con eso también aumentó el desempleo, que llegó a 14,7%, la peor cifra desde la gran depresión.**
 
 El candidato demócrata, Joe Biden, tiene una posición más progresiva que Trump.
 
