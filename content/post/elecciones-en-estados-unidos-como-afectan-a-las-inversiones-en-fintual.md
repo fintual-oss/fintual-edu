@@ -1,6 +1,6 @@
 +++
 aliases = []
-author = "Pedro Pineda"
+author = "Stella Melaragno"
 categories = ["educación financiera"]
 date = 2020-08-11T16:34:27Z
 description = "Un poquito de contexto sobre cómo se vienen estas elecciones y lo que hay que saber sobre el impacto que podría tener en los fondos"
