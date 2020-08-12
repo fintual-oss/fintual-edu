@@ -7,31 +7,39 @@ description = ""
 draft = true
 hide = true
 image = ""
-title = "Por qué cambió la contabilidad de los objetivos de Fintual"
+title = "Por qué cambiamos la forma de mostrarte los movimientos de tus objetivos"
 url = "la-contabilidad-lo-es-todo"
 
 +++
-En Fintual siempre estamos haciendo procesos de mejora continua. 
+En Fintual siempre estamos haciendo procesos de mejora continua.
 
 Puede ser un mail, un gráfico o un botón.
 
-Estos últimos meses hemos estado trabajando en uno de nuestros sistemas contables para simplificar varios procesos, mejorar nuestra estructura interna y ser mucho más eficientes (o felices jeje) ❤️.
+Estos últimos meses hemos estado mejorando la forma en que te mostramos los movimientos de tus objetivos de inversión.
 
-Como todo cambio, tiene consecuencias y por eso queremos explicarte qué cambió, por qué y qué tienes que hacer.
+Como todo cambio, tiene consecuencias y por eso queremos explicarte qué cambiamos, por qué lo hicimos y qué tienes que hacer.
 
 #### ¿Qué cambió?
 
-Los cambios ocurrieron en varios niveles en los sistemas de Fintual, pero para los usuarios, el cambio principal tiene relación con cómo se muestran sus números (balance, depositado neto, ganancia) en el perfil y en sus objetivos.
+Modificamos la forma en que mostramos los montos de tu **balance total**, el monto **depositado neto** (depósitos - rescates) y la **ganancia** que ves tanto en tu perfil y como en tus objetivos.
 
-#### ¿Por qué?
+#### ¿Por qué el cambio?
 
-Antes, un retiro total hacía que un objetivo partiera desde 0, olvidándose de su historia. Hoy en cambio, consideramos la historia completa a la hora de mostrar los números.
+Porque ahora tomamos en cuenta toda la historia de tu objetivo.
 
-Es por eso que tus objetivos con retiros totales pueden mostrar números distintos a los de hace unos días. Por ejemplo, si ese retiro total que hiciste contenía ganancias, tu depositado neto será menor que $0.
+Antes, **un retiro total hacía que un objetivo partiera desde 0**, olvidándose de todos los movimientos anteriores.
 
-Analicemos un caso sencillo: Si habías depositado $1.000 y después de un tiempo tuviste ganancias por $50, tu balance de hoy sería $1.050. Si luego decidiste retirar todo, es decir, los $1.050, tu depositado neto quedaría en negativo: -$50.
+Hoy, en cambio, consideramos la historia completa a la hora de mostrar los números.
 
-Como ahora tomamos en cuenta toda la historia de tu objetivo, el balance será $0, el depositado neto será -$50 y la ganancia será de $50. Continuando con el ejemplo, si luego sigues usando este objetivo y vuelves a invertir en él, los números de este objetivo se verán afectados por toda su historia pasada.
+Por eso tus objetivos con retiros totales pueden mostrar números distintos a los de hace unos días. Por ejemplo, si ese retiro total que hiciste contenía ganancias, tu depositado neto será menor que $0.
+
+Con un ejemplo queda más claro: 
+
+Si habías depositado $1.000 y después de un tiempo tuviste ganancias por $50, tu balance de hoy sería $1.050. Si luego decidiste retirar todo, es decir, los $1.050, tu depositado neto quedaría en negativo: -$50.
+
+Como ahora tomamos en cuenta toda la historia de tu objetivo, el balance será $0, el depositado neto será -$50 y la ganancia será de $50. 
+
+Continuando con el ejemplo, si luego sigues usando este objetivo y vuelves a invertir en él, los números de este objetivo se verán afectados por toda su historia pasada.
 
 ## Mejores objetivos
 
