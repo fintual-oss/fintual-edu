@@ -35,7 +35,13 @@ La campaña de reelección de Trump contaba con el crecimiento económico como b
 
 El candidato demócrata, Joe Biden, tiene una posición más progresiva que Trump.
 
-Fue vicepresidente de Obama y ahora fue elegido candidato demócrata con la expectativa de que pudiera unificar los distintos grupos socioeconómicos y demográficos. En marzo dijo que su VP sería una mujer, pero todavía no la ha elegido. El nombre debería ser anunciado por estos días y puede traer aún más intención de votos.
+Fue vicepresidente de Obama y ahora fue elegido candidato demócrata con la expectativa de que pudiera unificar los distintos grupos socioeconómicos y demográficos. 
+
+En marzo de este año Biden anunció que su VP sería una mujer. Este martes eligió a Kamala Harris, senadora por California.
+
+Hija de madre india y padre jamaicano, es la primera mujer afroamericana como candidata a la vicepresidencia. Parece ser capaz de dialogar tanto con progresistas como con moderados y durante su carrera ha destacado por representar a minorías.
+
+De ganar Joe Biden, sería el presidente más viejo en ocupar el cargo en Estados Unidos. Esto implica que la VP sería una opción “obvia“ en cuatro años más para disputar elecciones demócratas.
 
 #### Lo que hay que saber de las elecciones estadounidenses
 
