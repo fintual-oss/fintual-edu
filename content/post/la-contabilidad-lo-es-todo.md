@@ -3,12 +3,12 @@ aliases = []
 author = "Daniel Martínez"
 categories = ["noticias"]
 date = 2020-08-11T15:35:32Z
-description = ""
+description = "Lo más importante: tu inversión no ha cambiado. Sólo cambiamos la forma en que te la mostramos."
 draft = true
 hide = true
 image = ""
 title = "Por qué cambiamos la forma de mostrarte los movimientos de tus objetivos"
-url = "la-contabilidad-lo-es-todo"
+url = "/cambiamos-la-forma-de-mostrar-tus-movimientos"
 
 +++
 En Fintual siempre estamos haciendo procesos de mejora continua.
@@ -22,6 +22,8 @@ Como todo cambio, tiene consecuencias y por eso queremos explicarte qué cambiam
 #### ¿Qué cambió?
 
 Modificamos la forma en que mostramos los montos de tu **balance total**, el monto **depositado neto** (depósitos - rescates) y la **ganancia** que ves tanto en tu perfil y como en tus objetivos.
+
+Tu inversión no ha cambiado. Sólo cambiamos la forma en que te la mostramos.
 
 #### ¿Por qué el cambio?
 
