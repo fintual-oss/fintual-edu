@@ -44,9 +44,7 @@ Si en el futuro sigues usando este objetivo y vuelves a invertir en él, los nú
 
 ### Mejores objetivos = mejor inversión
 
-Este cambio va a tener un impacto positivo en la forma en que inviertes en Fintual.
-
-Ahora, cuando hagas un retiro total desde un objetivo no vas a poder volver a invertir ahí.
+Este cambio va a ayudarte a mantener en orden el plazo y riesgo de tus inversiones en Fintual. Ahora, cuando hagas un retiro total desde un objetivo no vas a poder volver a invertir ahí.
 
 #### Si el plazo de tu inversión cambió, es probable que también haya cambiado el riesgo que tienes que tomar.
 
