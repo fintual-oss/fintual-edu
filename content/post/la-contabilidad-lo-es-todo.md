@@ -15,7 +15,7 @@ En Fintual siempre estamos haciendo procesos de mejora continua.
 
 Puede ser un mail, un gráfico o un botón.
 
-Ahora encontramos una manera de que puedas mantener correctamente el plazo y riesgo de tus inversiones. Para eso tuvimos que cambiar la forma en que te mostramos los movimientos de tus objetivos de inversión. 
+Ahora encontramos una manera para que puedas mantener correctamente el plazo y riesgo de tus inversiones. Y para lograrlo tuvimos que cambiar la forma en que te mostramos los movimientos de tus objetivos de inversión. 
 
 Como todo cambio, tiene consecuencias y por eso queremos explicarte qué cambiamos, por qué lo hicimos y qué tienes que hacer.
 
@@ -45,18 +45,20 @@ Si en el futuro sigues usando este objetivo y vuelves a invertir en él, los nú
 
 Este cambio va a tener un impacto positivo en la forma en que inviertes en Fintual.
 
-Cuando hagas un retiro total desde un objetivo, esta inversión se marcará como finalizada de forma automática y no podrás volver a invertir ahí.
+Ahora, cuando hagas un retiro total desde un objetivo no vas a poder volver a invertir ahí.
 
-Si el plazo de tu inversión cambió es probable que también haya cambiado el riesgo que tienes que tomar.
+#### Si el plazo de tu inversión cambió, es probable que también haya cambiado el riesgo que tienes que tomar.
 
-La idea, es que al volver a invertir, hagas un nuevo objetivo, utilizando el simulador para configurar su plazo y riesgo, y así puedas ordenar de mejor forma tus inversiones en el tiempo, siempre iniciando con un historial completamente limpio.
+Por eso, la idea es que cuando vuelvas a invertir lo hagas en un nuevo objetivo, considerando el nuevo plazo de tu inversión.
 
-## ¿Qué tengo que hacer?
+Así vas a poder ordenar de mejor forma tus inversiones en el tiempo.
 
-Hay dos opciones para ordenar tus objetivos que hayan tenido retiros totales anteriormente y que ahora sigues utilizando para realizar tus inversiones:
+#### ¿Qué tengo que hacer?
 
-* La más simple, es no hacer nada, y acostumbrarse a esta nueva forma de ver los números de tu objetivo. Esto implica entender que las ganancias mostradas, contemplan ganancias retiradas (y también retiros asumiendo pérdidas). Y que el monto depositado es un depositado neto que contempla la historia completa de tu objetivo.
-* Como esto puede ser confuso, hay otra opción. Puedes crear y configurar a gusto otro objetivo, y realizar un traspaso interno hacia él. De esta forma, tu capital quedará en este nuevo objetivo, y partirá con un historial limpio.
+Tienes dos opciones para ordenar tus objetivos que hayan tenido retiros totales (y que sigas usando para invertir):
+
+* La más simple: no hacer nada y acostumbrarte a esta nueva forma de ver los números de tu objetivo. Esto implica entender que las ganancias mostradas contemplan ganancias retiradas (y también retiros asumiendo pérdidas). También tienes que considerar que el monto depositado es un **depositado neto** que contempla la historia completa de tu objetivo.
+* Puedes crear otro objetivo y realizar un traspaso interno hacia él. De esta forma, tu capital quedará en este nuevo objetivo, y partirá con un historial limpio.
 
 En cualquier caso, esto nos ayudará en el futuro a que todos nuestros usuarios ordenen y usen de mejor forma sus objetivos, así como también nos ayudará a seguir mejorando nuestros sistemas internos en un proceso de mejora continua.
 
