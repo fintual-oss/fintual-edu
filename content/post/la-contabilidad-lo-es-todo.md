@@ -15,7 +15,7 @@ En Fintual siempre estamos haciendo procesos de mejora continua.
 
 Puede ser un mail, un gráfico o un botón.
 
-Nos dimos cuenta de que podemos mejorar la forma en que eliges el plazo y riesgo de tus inversiones.
+Ahora encontramos una manera de que puedas mantener correctamente el plazo y riesgo de tus inversiones. Para eso tuvimos que cambiar la forma en que te mostramos los movimientos de tus objetivos de inversión. 
 
 Como todo cambio, tiene consecuencias y por eso queremos explicarte qué cambiamos, por qué lo hicimos y qué tienes que hacer.
 
