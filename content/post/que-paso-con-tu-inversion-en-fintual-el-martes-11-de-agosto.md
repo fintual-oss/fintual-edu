@@ -25,10 +25,8 @@ Esta caída está dentro de los rangos normales de movimiento de precios de merc
 
 Así le ha ido a Risky Norris, el fondo más riesgoso, en lo que va del año:
 
-![](/uploads/2020-08-12/norris-ytd-q0-agosto.png)
+![](/uploads/2020-08-12/norris-ytd-11-08.png)
 
 Y así le ha ido desde que lanzamos el fondo
 
-![](/uploads/2020-08-12/norris-alltime.png)
-
-Puedes ver las rentabilidades históricas de los fondos de Fintual [aquí](https://rentabilidad.fintual.com/).
+![](/uploads/2020-08-12/norris-all-time.png)Puedes ver las rentabilidades históricas de los fondos de Fintual [aquí](https://rentabilidad.fintual.com/).
