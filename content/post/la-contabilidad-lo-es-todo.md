@@ -28,7 +28,7 @@ Tu inversión no ha cambiado. Sólo cambiamos la forma en que te la mostramos.
 
 Porque ahora tomamos en cuenta toda la historia de tu objetivo.
 
-Antes, **un retiro total hacía que un objetivo partiera desde 0**, olvidándose de todos los movimientos anteriores.
+Antes, **un retiro total hacía que un objetivo partiera desde cero**, olvidándose de todos los movimientos anteriores.
 
 Hoy, en cambio, consideramos la historia completa a la hora de mostrar los números.
 
