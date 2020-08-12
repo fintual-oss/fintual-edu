@@ -17,7 +17,7 @@ Esta baja llegó después de siete días seguidos de buen desempeño.
 Hay dos razones principales que explican la baja del S&P hoy:
 
 1. Los precios de las acciones de empresas tecnológicas cayeron
-2. El tipo de cambio que cerró más abajo, terminando en $793,61 (dólar observado).
+2. El tipo de cambio cerró más abajo, terminando en $793,61 (dólar observado).
 
 Esta caída está dentro de los rangos normales de movimiento de precios de mercado. Si quieres aprender un poco más sobre las pérdidas de corto plazo, te recomiendo [este](https://edu.fintual.cl/p%C3%A9rdidas-de-corto-plazo-t%C3%B3mate-unos-minutos-y-lee-esto-e222b63f3939/) post.
 
