@@ -4,7 +4,6 @@ author = "Daniel Martínez"
 categories = ["noticias"]
 date = 2020-08-11T15:35:32Z
 description = "Lo más importante: tu inversión no ha cambiado. Sólo cambiamos la forma en que te la mostramos."
-draft = true
 hide = true
 image = ""
 title = "Por qué cambiamos la forma de mostrarte los movimientos de tus objetivos"
@@ -15,7 +14,7 @@ En Fintual siempre estamos haciendo procesos de mejora continua.
 
 Puede ser un mail, un gráfico o un botón.
 
-Ahora encontramos una manera para que puedas mantener correctamente el plazo y riesgo de tus inversiones. Y para lograrlo tuvimos que cambiar la forma en que te mostramos los movimientos de tus objetivos de inversión. 
+Ahora encontramos una manera para que puedas mantener correctamente el plazo y riesgo de tus inversiones. Y para lograrlo tuvimos que cambiar la forma en que te mostramos los movimientos de tus objetivos de inversión.
 
 Como todo cambio, tiene consecuencias y por eso queremos explicarte qué cambiamos, por qué lo hicimos y qué tienes que hacer.
 
@@ -35,11 +34,11 @@ Hoy, en cambio, consideramos la historia completa a la hora de mostrar los núme
 
 Por eso tus objetivos con retiros totales pueden mostrar números distintos a los de hace unos días. Por ejemplo, si ese retiro total que hiciste contenía ganancias, tu depositado neto será menor que $0.
 
-Con un ejemplo queda más claro: 
+Con un ejemplo queda más claro:
 
 Si habías depositado $1.000 y después de un tiempo tuviste ganancias por $50, tu balance de hoy sería $1.050. Si luego decidiste retirar todo, es decir, los $1.050, tu depositado neto quedaría en negativo: -$50.
 
-Como ahora tomamos en cuenta toda la historia de tu objetivo, el balance será $0, el depositado neto será -$50 y la ganancia será de $50. 
+Como ahora tomamos en cuenta toda la historia de tu objetivo, el balance será $0, el depositado neto será -$50 y la ganancia será de $50.
 
 Si en el futuro sigues usando este objetivo y vuelves a invertir en él, los números de este objetivo se verán afectados por toda su historia pasada.
 
@@ -60,8 +59,6 @@ Así vas a poder ordenar de mejor forma tus inversiones en el tiempo.
 Tienes dos opciones para ordenar tus objetivos que hayan tenido retiros totales (y que sigas usando para invertir):
 
 * La más simple: no hacer nada y acostumbrarte a esta nueva forma de ver los números de tu objetivo. Esto implica entender que las ganancias mostradas contemplan ganancias retiradas (y también retiros asumiendo pérdidas). También tienes que considerar que el monto depositado es un **depositado neto** que contempla la historia completa de tu objetivo.
-* Puedes crear otro objetivo y realizar un traspaso interno hacia él. De esta forma, tu capital quedará en este nuevo objetivo, y partirá con un historial limpio.
+* Puedes crear otro objetivo y realizar un traspaso interno hacia él. De esta forma, tu plata partirá con un historial limpio. Para hacerlo tienes que ir a tu objetivo antiguo → Retirar → A otro objetivo en Fintual.
 
-En cualquier caso, esto nos ayudará en el futuro a que todos nuestros usuarios ordenen y usen de mejor forma sus objetivos, así como también nos ayudará a seguir mejorando nuestros sistemas internos en un proceso de mejora continua.
-
-Cuéntanos si tienes alguna duda vía Chat.
+Y si tienes dudas siempre puedes escribirnos al chat :)
