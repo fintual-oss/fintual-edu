@@ -15,7 +15,7 @@ En Fintual siempre estamos haciendo procesos de mejora continua.
 
 Puede ser un mail, un gráfico o un botón.
 
-Estos últimos meses hemos estado mejorando la forma en que te mostramos los movimientos de tus objetivos de inversión.
+Nos dimos cuenta de que podemos mejorar la forma en que eliges el plazo y riesgo de tus inversiones.
 
 Como todo cambio, tiene consecuencias y por eso queremos explicarte qué cambiamos, por qué lo hicimos y qué tienes que hacer.
 
@@ -43,7 +43,7 @@ Si en el futuro sigues usando este objetivo y vuelves a invertir en él, los nú
 
 #### Mejores objetivos = mejor inversión
 
-Este cambio va a tener un buen impacto en la forma en que inviertes en Fintual.
+Este cambio va a tener un impacto positivo en la forma en que inviertes en Fintual.
 
 Cuando hagas un retiro total desde un objetivo, esta inversión se marcará como finalizada de forma automática y no podrás volver a invertir ahí.
 
