@@ -87,7 +87,7 @@ sharingicons = false
     [params.writers."Daniel Martínez"]
     name= "Daniel Martínez"
     description = "Desarollador y practicante chámanico"
-    thumbnail= "/uploads/daniel.jpg"
+    thumbnail= "/uploads/2020-08-12/daniel.jpg"
 
 [services.rss]
   limit = 20
