@@ -39,11 +39,15 @@ Si habías depositado $1.000 y después de un tiempo tuviste ganancias por $50, 
 
 Como ahora tomamos en cuenta toda la historia de tu objetivo, el balance será $0, el depositado neto será -$50 y la ganancia será de $50. 
 
-Continuando con el ejemplo, si luego sigues usando este objetivo y vuelves a invertir en él, los números de este objetivo se verán afectados por toda su historia pasada.
+Si en el futuro sigues usando este objetivo y vuelves a invertir en él, los números de este objetivo se verán afectados por toda su historia pasada.
 
-## Mejores objetivos
+#### Mejores objetivos = mejor inversión
 
-Desde ahora, haremos que los objetivos sean utilizados de una mejor forma. Una vez que se realice un retiro total desde un objetivo, este objetivo se marcará como finalizado/completado de forma automática, y no sé podrá volver a invertir en él.
+Este cambio va a tener un buen impacto en la forma en que inviertes en Fintual.
+
+Cuando hagas un retiro total desde un objetivo, esta inversión se marcará como finalizada de forma automática y no podrás volver a invertir ahí.
+
+Si el plazo de tu inversión cambió es probable que también haya cambiado el riesgo que tienes que tomar.
 
 La idea, es que al volver a invertir, hagas un nuevo objetivo, utilizando el simulador para configurar su plazo y riesgo, y así puedas ordenar de mejor forma tus inversiones en el tiempo, siempre iniciando con un historial completamente limpio.
 
