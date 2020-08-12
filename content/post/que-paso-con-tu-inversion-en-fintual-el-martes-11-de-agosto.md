@@ -12,7 +12,7 @@ url = "/baja-de-mercado-11-de-agosto"
 +++
 Este martes 11 de agosto el principal índice de acciones de Estados Unidos cayó.
 
-Pero cayó después de siete días seguidos de buen desempeño.
+Esta baja llegó después de siete días seguidos de buen desempeño.
 
 Hay dos razones principales que explican la baja del S&P hoy:
 
