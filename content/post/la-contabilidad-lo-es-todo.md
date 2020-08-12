@@ -60,6 +60,7 @@ Tienes dos opciones para ordenar tus objetivos que hayan tenido retiros totales 
 
 * La más simple: no hacer nada y acostumbrarte a esta nueva forma de ver los números de tu objetivo. Esto implica entender que las ganancias mostradas contemplan ganancias retiradas (y también retiros asumiendo pérdidas). También tienes que considerar que el monto depositado es un **depositado neto** que contempla la historia completa de tu objetivo.
 * Puedes crear otro objetivo y hacer un traspaso interno, así tu plata partirá con un historial limpio. Para hacerlo tienes que ir a tu objetivo antiguo → Retirar → A otro objetivo en Fintual.
-* Borrar los objetivos obsoletos puede ser una buena idea. Si borras los objetivos que ya usaste y que actualmente están en $0, su historia no se mezclará con los objetivos que estás usando ahora. 
 
-Y si tienes dudas siempre puedes escribirnos al chat :)
+Protip: borrar los objetivos obsoletos puede ser una buena idea. Si borras los objetivos que ya usaste y que actualmente están en $0, su historia no se mezclará con los objetivos que estás usando ahora.
+
+Si tienes dudas siempre puedes escribirnos al chat :)
