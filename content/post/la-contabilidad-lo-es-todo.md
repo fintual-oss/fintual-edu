@@ -18,13 +18,13 @@ Ahora encontramos una manera para que puedas mantener correctamente el plazo y r
 
 Como todo cambio, tiene consecuencias y por eso queremos explicarte qué cambiamos, por qué lo hicimos y qué tienes que hacer.
 
-#### ¿Qué cambió?
+### ¿Qué cambió?
 
 Modificamos la forma en que mostramos los montos de tu **balance total**, el monto **depositado neto** (depósitos - rescates) y la **ganancia** que ves tanto en tu perfil y como en tus objetivos.
 
 Tu inversión no ha cambiado. Sólo cambiamos la forma en que te la mostramos.
 
-#### ¿Por qué el cambio?
+### ¿Por qué el cambio?
 
 Porque ahora tomamos en cuenta toda la historia de tu objetivo.
 
@@ -42,7 +42,7 @@ Como ahora tomamos en cuenta toda la historia de tu objetivo, el balance será $
 
 Si en el futuro sigues usando este objetivo y vuelves a invertir en él, los números de este objetivo se verán afectados por toda su historia pasada.
 
-#### Mejores objetivos = mejor inversión
+### Mejores objetivos = mejor inversión
 
 Este cambio va a tener un impacto positivo en la forma en que inviertes en Fintual.
 
@@ -54,7 +54,7 @@ Por eso, la idea es que cuando vuelvas a invertir lo hagas en un nuevo objetivo,
 
 Así vas a poder ordenar de mejor forma tus inversiones en el tiempo.
 
-#### ¿Qué tengo que hacer?
+### ¿Qué tengo que hacer?
 
 Tienes dos opciones para ordenar tus objetivos que hayan tenido retiros totales (y que sigas usando para invertir):
 
