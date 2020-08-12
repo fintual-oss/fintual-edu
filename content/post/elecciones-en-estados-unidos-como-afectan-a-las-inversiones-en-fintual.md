@@ -20,7 +20,7 @@ Hace más de un mes que el partido demócrata está 10 puntos arriba en [las enc
 
 #### 
 
-#### Un poquinho de contexto sobre los candidatos
+### Un poquinho de contexto sobre los candidatos
 
 Trump va por la reelección.
 
@@ -30,7 +30,7 @@ También hizo cambios en la política migratoria estadounidense, tornándola cad
 
 La campaña de reelección de Trump contaba con el crecimiento económico como base para su discurso electoral, pero el coronavirus y la cuarentena complicaron ese argumento
 
-> ##### El PIB estadounidense se contrajo un 9,5% en el segundo trimestre del año (trimestre a trimestre), el peor resultado trimestral desde que hay registro. Con eso también aumentó el desempleo, que llegó a 14,7%, la peor cifra desde la gran depresión.
+> El PIB estadounidense se contrajo un 9,5% en el segundo trimestre del año (trimestre a trimestre), el peor resultado trimestral desde que hay registro. Con eso también aumentó el desempleo, que llegó a 14,7%, la peor cifra desde la gran depresión.
 
 El candidato demócrata, Joe Biden, tiene una posición más progresiva que Trump.
 
@@ -42,7 +42,7 @@ Hija de madre india y padre jamaicano, es la primera mujer afroamericana como ca
 
 De ganar Joe Biden, sería el presidente más viejo en ocupar el cargo en Estados Unidos. Esto implica que la VP sería una opción “obvia“ en cuatro años más para disputar elecciones demócratas.
 
-#### Lo que hay que saber de las elecciones estadounidenses
+### Lo que hay que saber de las elecciones estadounidenses
 
 El proceso es distinto al de países como Chile, que tiene voto directo para el cargo de presidente. Tener más de 50% de los votos de los ciudadanos no es suficiente para elegir al ganador en Estados Unidos.
 
@@ -50,7 +50,7 @@ Cada uno de los 50 estados tiene una votación voluntaria que elige un cierto n�
 
 El colegio electoral, a su vez, hace una segunda votación para elegir al presidente.
 
-> ##### Desde 1990, el partido republicano consiguió la mayoría de los votos sólo una vez, pero su candidato salió presidente tres veces. El último fue Donald Trump.
+> Desde 1990, el partido republicano consiguió la mayoría de los votos sólo una vez, pero su candidato salió presidente tres veces. El último fue Donald Trump.
 
 Este sufragio indirecto provoca que algunos estados sean claves para definir las elecciones presidenciales, los **_Swing states_**.
 
@@ -62,7 +62,7 @@ Este año, por el coronavirus, 75% de los estadounidenses podrán enviar su voto
 1\. Quizás no sabremos quién es el ganador en la misma noche del conteo, ya que algunos votos podrían demorarse más tiempo en llegar  
 2\. Existe la posibilidad de que uno de los candidatos no acepte la elección y cuestionar el resultado.
 
-#### **¿Y cómo está la economía de Estados Unidos?**
+### **¿Y cómo está la economía de Estados Unidos?**
 
 Estados Unidos es el país económicamente más fuerte del mundo. Su PIB representa más del 23% de la economía global. Su poder hace que sus elecciones presidenciales sean uno de los eventos políticos recurrentes más importantes del mundo y por eso tanta gente lo sigue de cerca.
 
@@ -74,9 +74,7 @@ Trump ya ha hecho observaciones que sugieren que las elecciones podrían ser “
 
 Sin embargo, las políticas públicas tienen un efecto directo en la recuperación económica post-covid, como muchos [estudios](https://www.mckinsey.com/industries/public-and-social-sector/our-insights/lessons-from-the-past-on-how-to-revive-the-us-economy-after-covid-19#) sugieren. Pero dependerá del próximo presidente elegir y priorizar cómo lo hará.
 
-#### 
-
-**¿Y el dólar?**
+### ¿Y el dólar?
 
 Hay demasiados factores que influyen en la cotización del dólar frente al peso chileno.
 
