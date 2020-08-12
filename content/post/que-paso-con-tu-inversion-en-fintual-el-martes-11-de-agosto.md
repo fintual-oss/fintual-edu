@@ -7,19 +7,19 @@ description = "Esta caída está dentro de los rangos normales de movimiento de 
 hide = true
 image = ""
 title = "Qué pasó con tu inversión en Fintual el martes 11 de agosto"
-url = "/baja-de-mercado-10-de-agosto"
+url = "/baja-de-mercado-11-de-agosto"
 
 +++
 Este martes 11 de agosto el principal índice de acciones de Estados Unidos cayó.
 
-Pero cayó después de siete días seguidos de buen desempeño. 
+Pero cayó después de siete días seguidos de buen desempeño.
 
 Hay dos razones principales que explican la baja del S&P hoy:
 
 1. Los precios de las acciones de empresas tecnológicas cayeron
 2. El tipo de cambio que cerró más abajo, terminando en $793,61 (dólar observado).
 
-Esta caída está dentro de los rangos normales de movimiento de precios de mercado. 
+Esta caída está dentro de los rangos normales de movimiento de precios de mercado.
 
 #### Lo importante es mirar el largo plazo.
 
