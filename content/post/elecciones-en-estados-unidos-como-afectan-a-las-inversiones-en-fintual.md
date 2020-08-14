@@ -32,9 +32,11 @@ La campaña de reelección de Trump contaba con el crecimiento económico como b
 
 > El PIB estadounidense se contrajo un 9,5% en el segundo trimestre del año (trimestre a trimestre), el peor resultado trimestral desde que hay registro. Con eso también aumentó el desempleo, que llegó a 14,7%, la peor cifra desde la gran depresión.
 
+![](/uploads/2020-08-14/elecciones-en-usa-min.png)
+
 El candidato demócrata, Joe Biden, tiene una posición más progresiva que Trump.
 
-Fue vicepresidente de Obama y ahora fue elegido candidato demócrata con la expectativa de que pudiera unificar los distintos grupos socioeconómicos y demográficos. 
+Fue vicepresidente de Obama y ahora fue elegido candidato demócrata con la expectativa de que pudiera unificar los distintos grupos socioeconómicos y demográficos.
 
 En marzo de este año Biden anunció que su VP sería una mujer. Este martes eligió a Kamala Harris, senadora por California.
 
