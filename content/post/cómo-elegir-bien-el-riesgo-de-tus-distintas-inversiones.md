@@ -59,7 +59,7 @@ Esto no es la biblia, pero te da una idea general:
 
 **\~** **10+ años:** fondo mutuo muy arriesgado
 
-Si vas a necesitar tu plata en tres años o menos, es bueno elegir opciones más conservadoras porque el mercado es volátil y, en uno o dos años, tu plata podría subir o bajar bastante. Pero en el largo plazo, la alza generalizada del mercado en su totalidad debiese ganarle a las bajas de períodos puntuales. Esto ha sido así históricamente, tanto para índices en Chile como en el resto del mundo.
+Si vas a necesitar tu plata en tres años o menos, es bueno elegir opciones más conservadoras porque el mercado es volátil y, en uno o dos años, tu plata podría subir o bajar bastante. Pero en el largo plazo, el alza generalizada del mercado en su totalidad debiese ganarle a las bajas de períodos puntuales. Esto ha sido así históricamente, tanto para índices en Chile como en el resto del mundo.
 
 Abajo hay un gráfico que mide la rentabilidad del IPSA (el índice que replica el mercado chileno abierto a bolsa) entre 1994 y el 2018. Fíjate que en las inversiones de sobre 10 años, los retornos siempre han sido positivos.
 
