@@ -32,7 +32,8 @@ La campaña de reelección de Trump contaba con el crecimiento económico como b
 
 > El PIB estadounidense se contrajo un 9,5% en el segundo trimestre del año (trimestre a trimestre), el peor resultado trimestral desde que hay registro. Con eso también aumentó el desempleo, que llegó a 14,7%, la peor cifra desde la gran depresión.
 
-![](/uploads/2020-08-14/elecciones-en-usa-min.png)
+<div style="text-align: center;"> <figure> <img src="/uploads/2020-08-14/elecciones-en-usa-min.png"> <figcaption style="display: block;text-align: center;font-size: .8rem;"><i>Ilustración de Juan de Dios Urrutia</i></figcaption> </figure> </div>
+
 
 El candidato demócrata, Joe Biden, tiene una posición más progresiva que Trump.
 
