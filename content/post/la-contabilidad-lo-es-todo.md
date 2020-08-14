@@ -20,7 +20,7 @@ Como todo cambio, tiene consecuencias y por eso queremos explicarte qué cambiam
 
 ### ¿Qué cambió?
 
-Modificamos la forma en que mostramos los montos de tu **balance total**, el monto **depositado neto** (depósitos - rescates) y la **ganancia** que ves tanto en tu perfil y como en tus objetivos.
+Modificamos la forma en que mostramos los montos de tu **balance total**, el monto **depositado neto** (depósitos - rescates) y la **ganancia** que ves tanto en tu perfil como en tus objetivos.
 
 Tu inversión no ha cambiado. Sólo cambiamos la forma en que te la mostramos.
 
@@ -44,7 +44,7 @@ Si en el futuro sigues usando este objetivo y vuelves a invertir en él, los nú
 
 ### Mejores objetivos = mejor inversión
 
-Este cambio va a ayudarte a mantener en orden el plazo y riesgo de tus inversiones en Fintual. Ahora, cuando hagas un retiro total desde un objetivo no vas a poder volver a invertir ahí.
+Este cambio va a ayudarte a mantener en orden el plazo y riesgo de tus inversiones en Fintual. Ahora, cuando hagas un retiro total desde un objetivo no vas a poder volver a invertir ahí y vas a tener que hacer un objetivo desde cero.
 
 #### Si el plazo de tu inversión cambió, es probable que también haya cambiado el riesgo que tienes que tomar.
 
@@ -59,6 +59,6 @@ Tienes dos opciones para ordenar tus objetivos que hayan tenido retiros totales 
 * La más simple: no hacer nada y acostumbrarte a esta nueva forma de ver los números de tu objetivo. Esto implica entender que las ganancias mostradas contemplan ganancias retiradas (y también retiros asumiendo pérdidas). También tienes que considerar que el monto depositado es un **depositado neto** que contempla la historia completa de tu objetivo.
 * Puedes crear otro objetivo y hacer un traspaso interno, así tu plata partirá con un historial limpio. Para hacerlo tienes que ir a tu objetivo antiguo → Retirar → A otro objetivo en Fintual.
 
-Protip: borrar los objetivos obsoletos puede ser una buena idea. Si borras los objetivos que ya usaste y que actualmente están en $0, su historia no se mezclará con los objetivos que estás usando ahora.
+**Protip:** borrar los objetivos obsoletos puede ser una buena idea. Si borras los objetivos que ya usaste y que actualmente están en $0, su historia no se mezclará con los objetivos que estás usando ahora.
 
 Si tienes dudas siempre puedes escribirnos al chat :)
