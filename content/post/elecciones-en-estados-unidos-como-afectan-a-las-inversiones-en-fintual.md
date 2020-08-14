@@ -2,10 +2,10 @@
 aliases = []
 author = "Stella Melaragno"
 categories = ["educación financiera"]
-date = 2020-08-11T16:34:27Z
+date = 2020-08-13T16:34:27Z
 description = "Un poquito de contexto sobre cómo se vienen estas elecciones y lo que hay que saber sobre el impacto que podría tener en los fondos"
-hide = true
-image = ""
+hide = false
+image = "/uploads/2020-08-14/elecciones-en-usa-min.png"
 title = "Elecciones en Estados Unidos: ¿Cómo afectan a las inversiones en Fintual?"
 url = "/elecciones-usa-y-el-impacto-en-fintual"
 
