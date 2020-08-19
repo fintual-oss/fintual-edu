@@ -10,9 +10,9 @@ title = "Elecciones en Estados Unidos: ¿Cómo afectan a las inversiones en Fint
 url = "/elecciones-usa-y-el-impacto-en-fintual"
 
 +++
-Los fondos Risky Norris, Moderate Pitt y Conservative Clooney tienen inversiones en compañías listadas en Estados Unidos y su rentabilidad depende principalmente de dos cosas: la economía estadounidense y que, por supuesto, se ve afectada por las elecciones y por la cotización del dólar frente al peso chileno.
-
 Quedan menos de tres meses para la elección presidencial en Estados Unidos.
+
+Los fondos Risky Norris, Moderate Pitt y Conservative Clooney tienen inversiones en compañías listadas en Estados Unidos y su rentabilidad depende principalmente de dos cosas: la economía estadounidense y que, por supuesto, se ve afectada por las elecciones y por la cotización del dólar frente al peso chileno.
 
 Si bien a principios de año las encuestas mostraban una competencia reñida entre demócratas y republicanos, el panorama ha ido cambiando en el tiempo.
 
@@ -33,7 +33,6 @@ La campaña de reelección de Trump contaba con el crecimiento económico como b
 > El PIB estadounidense se contrajo un 9,5% en el segundo trimestre del año (trimestre a trimestre), el peor resultado trimestral desde que hay registro. Con eso también aumentó el desempleo, que llegó a 14,7%, la peor cifra desde la gran depresión.
 
 <div style="text-align: center;"> <figure> <img src="/uploads/2020-08-14/elecciones-en-usa-min.png"> <figcaption style="display: block;text-align: center;font-size: .8rem;"><i>Ilustración de Juan de Dios Urrutia</i></figcaption> </figure> </div>
-
 
 El candidato demócrata, Joe Biden, tiene una posición más progresiva que Trump.
 
