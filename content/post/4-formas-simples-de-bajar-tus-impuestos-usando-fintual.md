@@ -18,7 +18,7 @@ Si **rescatas** y tus ganancias en fondos mutuos son menores a 30 UTM al año �
 
 **Por ejemplo**: Si inviertes $14.600.000 y ganas $1.430.000, puedes retirar ese monto inicial + la rentabilidad (un total de $16.030.000) libre de impuesto a la renta.
 
-Cuidado que este beneficio no aplica si emitiste una boleta de honorarios durante el año 🙁
+La única lata es que la ley dice que este beneficio no aplica si emitiste una boleta de honorarios durante el año 🙄
 
 #### **2. Cambios entre FFMM**
 
