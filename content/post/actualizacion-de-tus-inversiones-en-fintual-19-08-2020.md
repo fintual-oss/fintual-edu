@@ -29,3 +29,5 @@ Sí. La rentabilidad de los fondos no depende sólo del precio del dólar. El de
 Las acciones globales tuvieron una baja luego de la publicación de las minutas de la Reserva Federal de Estados Unidos (FED), que mostró la preocupación de que la recuperación económica sigue frágil y muy dependiente del control sanitario del virus.
 
 Además, no hubo noticias extras de mayor estímulo monetario, lo que ayudó a que el dólar finalmente subiera en la tarde (aunque después del cierre de mercado local).
+
+Esta baja es normal y está contemplada en tu plan de inversión.
