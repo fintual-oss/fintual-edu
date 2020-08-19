@@ -11,7 +11,7 @@ url = "/elecciones-usa-y-el-impacto-en-fintual"
 
 +++
 Quedan menos de tres meses para la elección presidencial en Estados Unidos.
-
+</br>
 Los fondos Risky Norris, Moderate Pitt y Conservative Clooney tienen inversiones en compañías listadas en Estados Unidos y su rentabilidad depende principalmente de dos cosas: la economía estadounidense y que, por supuesto, se ve afectada por las elecciones y por la cotización del dólar frente al peso chileno.
 
 Si bien a principios de año las encuestas mostraban una competencia reñida entre demócratas y republicanos, el panorama ha ido cambiando en el tiempo.
