@@ -30,4 +30,4 @@ Las acciones globales tuvieron una baja luego de la publicación de las minutas 
 
 Además, no hubo noticias extras de mayor estímulo monetario, lo que ayudó a que el dólar finalmente subiera en la tarde (aunque después del cierre de mercado local).
 
-Esta baja es normal y está contemplada en tu plan de inversión.
+Estas [pérdidas de corto plazo](https://edu.fintual.cl/p%C3%A9rdidas-de-corto-plazo-t%C3%B3mate-unos-minutos-y-lee-esto-e222b63f3939/) son normales y están contempladas en tu plan de inversión.
