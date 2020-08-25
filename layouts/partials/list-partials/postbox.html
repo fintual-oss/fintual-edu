@@ -1,12 +1,11 @@
 <!-- begin post -->
 <div class="col-lg-4 col-md-6 mb-30px card-group">
-    <div class="card h-100" onclick="javascript:  window.location.href='{{ .URL | absURL }}';">
+    <div class="card h-100">
+        <a href="{{ .URL | absURL }}" class="card-full-size-link"></a>
         <div class="maxthumb">
-            <a href="{{ .URL | absURL }}">
-                {{with .Params.image}}
-                <img class="img-fluid" src="{{ . | relURL }}" alt="A thumbnail image">
-                {{end}}
-            </a>
+            {{with .Params.image}}
+            <img class="img-fluid" src="{{ . | relURL }}" alt="A thumbnail image">
+            {{end}}
         </div>
         <div class="card-body">
             <h2 class="card-title"><a class="text-dark" href="{{ .URL | absURL }}">{{ .Title }}</a></h2>
