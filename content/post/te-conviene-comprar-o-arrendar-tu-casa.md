@@ -2,7 +2,7 @@
 aliases = []
 author = "Gonzalo Enei"
 categories = ["educación financiera"]
-date = 2020-08-09T21:55:47Z
+date = 2020-08-15T21:55:47Z
 description = "Para decidir entre “comprar vs arrendar” lo esencial es evaluar todos los costos posibles. Para el arriendo quizás es más fácil evaluar los costos. Pero al comprar es difícil."
 hide = false
 image = "/uploads/comprar-vs-arrendar-ludmila-drago-min.png"
