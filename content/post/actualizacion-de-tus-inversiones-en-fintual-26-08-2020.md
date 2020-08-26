@@ -11,3 +11,11 @@ title = "Actualización de tus inversiones en Fintual: 26/08/2020"
 url = "/actualizacion-de-mercado-26-de-agosto-2020"
 
 +++
+El miércoles 26 de agosto fue un buen día para los fondos de Fintual.
+
+Pasaron dos cosas positivas: 
+
+* El dólar observado subió de $784,44 a $786.91
+* Las acciones globales subieron de precio, impulsados principalmente por el sector tecnológico, sector que —sin querer— ha tenido un año con muy buenos números.
+
+Pese a que todo está dentro de lo normal, no todos los días en Fintual son así de buenos, por eso creemos vale la pena explicar algo más sobre qué pasó.
