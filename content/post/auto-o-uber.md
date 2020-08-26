@@ -2,10 +2,10 @@
 aliases = []
 author = "Matías Hurtado"
 categories = ["educación financiera"]
-date = 2020-08-10T16:25:47Z
+date = 2020-08-22T16:25:47Z
 description = "Calculé cuánto gasto en andar en auto en un año para saber si me conviene venderlo y moverme en Uber."
 hide = false
-image = "/uploads/auto.jpg"
+image = "/uploads/2020-08-26/ubervsauto.jpg"
 title = "¿Auto o Uber?"
 url = "/auto-o-uber"
 
