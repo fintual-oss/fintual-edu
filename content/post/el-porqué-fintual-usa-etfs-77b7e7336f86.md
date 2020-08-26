@@ -2,7 +2,7 @@
 author: Omar Larré
 author_thumbnail: "/uploads/omar_larre.jpeg"
 title: "¿Qué es un ETF?"
-date: 2020-08-23T01:00:00+00:00
+date: 2020-08-05T01:00:00+00:00
 image: "/uploads/que-es-un-etf-pascale-min.png"
 categories:
 - educación financiera
