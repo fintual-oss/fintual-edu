@@ -2,7 +2,7 @@
 aliases = []
 author = "Omar Larré"
 categories = ["educación financiera"]
-date = 2020-08-20T14:52:42Z
+date = 2020-08-24T14:52:42Z
 description = "¿No sacar el 10% o sacarlo e invertirlo? Y si lo sacas, ¿en qué lo inviertes?"
 hide = false
 image = "/uploads/2020-08-05/opciones-10.jpg"

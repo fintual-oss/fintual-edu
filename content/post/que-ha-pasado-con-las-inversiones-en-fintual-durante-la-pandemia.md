@@ -2,7 +2,7 @@
 aliases = []
 author = "Francesca Finaldi"
 categories = ["educación financiera"]
-date = 2020-07-06T17:28:39Z
+date = 2020-08-13T17:28:39Z
 description = "TL;DR: Se recuperaron quienes no tocaron su inversión"
 hide = false
 image = "/uploads/2020-07-06/coronavirus.jpg"
