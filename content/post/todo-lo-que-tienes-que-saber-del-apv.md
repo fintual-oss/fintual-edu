@@ -2,7 +2,7 @@
 aliases = []
 author = "Francesca Finaldi"
 categories = ["educación financiera"]
-date = 2020-07-08T19:34:54Z
+date = 2020-08-06T19:34:54Z
 description = "El ABC del APV fue lo más creativo que se nos ocurrió para esta descripción."
 hide = false
 image = "/uploads/apv-valentina-p-min.png"
