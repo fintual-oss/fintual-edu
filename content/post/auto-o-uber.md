@@ -44,8 +44,6 @@ Como mi polola me dice cuando hay que evaluar algún negocio o calcular algo: �
 
 Este fue el resultado:
 
-{{< newsletter_signup_slim >}}
-
 ![1. Rentabilidad entre el 30 de septiembre de 2018 y el 30 de septiembre de 2019](/uploads/AutovsUber.png)_1. Rentabilidad entre el 30 de septiembre de 2018 y el 30 de septiembre de 2019_
 
 > _CUATRO PALOS CIENTO NOVENTA LUCAS. Más plata que la ..._
