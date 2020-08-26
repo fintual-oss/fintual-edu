@@ -22,6 +22,8 @@ Pero hay gastos que no tengo presupuestados, que son harto más caros que lavar 
 
 En un segundo se me vino a la mente el recuerdo del arreglo de hace un par de meses en el taller: 400 lucas por cambiarle las pastillas, discos, neumáticos y otros varios más. Lo único que pensaba ahora era _cuánto me va a salir esta vez._
 
+![](/uploads/2020-08-26/ubervsauto.jpg)
+
 Intentando ser optimista, manejé un par de días con fe de que la vida me iba a hacer un favor y se arreglaría, pero no. Tuve que llevarlo al taller. Cuando llegué, el jefe me dice: “Hace dos meses me trajeron uno igual, era el embrague y el de este auto es con volante flotante, así que hay que cambiarle todo. Te va a salir como 2 palos”.
 
 _2 palos…_ No caché nada más de lo que me dijo, lo único que quedó dando vueltas en mi cabeza fueron los 2 palos. Es mucha plata considerando el valor del auto: si vendo el auto hoy, lo puedo vender a $6.500.000. O sea, casi ⅓ del valor del auto en arreglos. Demasiado.
