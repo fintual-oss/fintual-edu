@@ -5,7 +5,7 @@ categories = ["noticias"]
 date = 2020-08-19T22:27:20Z
 description = "Bajó el dólar y bajaron las acciones globales. Acá te explicamos qué pasó."
 hide = true
-image = ""
+image = "/uploads/2020-08-28/cambios-fintual-2.png"
 title = "Actualización de tus inversiones en Fintual: 19/08/2020"
 url = "/actualizacion-de-mercado-19-de-agosto-2020"
 

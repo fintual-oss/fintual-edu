@@ -5,7 +5,7 @@ categories = ["noticias"]
 date = 2020-08-26T22:57:00Z
 description = "Hoy los fondos de Fintual subieron harto. Hay índices en máximos históricos y algunas cosas que tienes que saber."
 hide = true
-image = "/uploads/fintual_michig-min.png"
+image = "/uploads/2020-08-28/cambios-fintual-2.png"
 title = "Actualización de tus inversiones en Fintual: 26/08/2020"
 url = "/actualizacion-de-mercado-26-de-agosto-2020"
 
