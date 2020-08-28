@@ -5,7 +5,7 @@ categories = ["educación financiera"]
 date = 2020-06-24T22:43:14Z
 description = "Hay veces en que el ánimo de los inversionistas cambia sin una gran noticia de por medio"
 hide = true
-image = ""
+image = "/uploads/2020-08-28/cambios-fintual-2.png"
 title = "Risk-off miércoles 24 de junio"
 url = "/risk-off-miercoles-24-de-junio"
 
