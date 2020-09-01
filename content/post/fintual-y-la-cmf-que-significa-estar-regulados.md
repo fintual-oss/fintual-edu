@@ -15,21 +15,21 @@ url = "/fintual-esta-regulado-por-la-cmf"
 
 \- Sí, estamos regulados por la CMF
 
-foto
+![](/uploads/2020-09-01/fininci.jpeg)
 
-Istimis rigilidis pir li CMF
+_Istimis rigilidis pir li CMF_
 
-No nos habíamos dado el tiempo de explicar qué implica y cómo funciona esto de estar regulados.
+Siempre lo decimos pero no nos habíamos dado el tiempo de explicar qué implica y cómo funciona esto de estar regulados.
 
-### ¿Andabai puro sapeando?
+### _¿Andabai puro sapeando?_
 
 Quizás te hicimos esa pregunta alguna vez. Y quizás te sorprendió la pregunta.
 
-Hablamos distinto a otras instituciones financieras, tratamos de diferenciarnos siendo cercanos y así hacer más amigables las inversiones para la gente que no cacha mucho del tema.
+Hablamos distinto a otras instituciones financieras y tratamos de ser cercanos y así hacer más amigables las inversiones para la gente que no cacha mucho del tema.
 
-Pero quizás es una forma de disfrazar la realidad. Por fuera somos cool (o lo intentamos), pero por dentro somos otra institución financiera-tradicional-aburrida más. Y nuestros procesos internos tienen estándares tan o más exigentes que los de empresas tradicionales (you'll see).
+Es quizás también es una forma de disfrazar la realidad. Por fuera somos cool (o lo intentamos), pero por dentro somos otra institución financiera-tradicional-aburrida más. Y nuestros procesos internos tienen estándares tan o más exigentes que los de empresas tradicionales (you'll see).
 
-Fintual es una startup, pero también es una Administradora General de Fondos regulada por la Comisión para el Mercado Financiero (CMF). La misma entidad gubernamental que fiscaliza a los bancos, corredoras de bolsa y compañías de seguros, entre otros.
+Fintual es una Administradora General de Fondos regulada por la Comisión para el Mercado Financiero (CMF). La misma entidad gubernamental que fiscaliza a los bancos, corredoras de bolsa y compañías de seguros.
 
 Significa que **tenemos que regirnos por ese conjunto de leyes y normas que dicen sobre lo que debemos y no debemos hacer en la administración de los fondos.** Además, tenemos que responder a una autoridad que supervisa el cumplimiento de ese conjunto de leyes y normas.
 
