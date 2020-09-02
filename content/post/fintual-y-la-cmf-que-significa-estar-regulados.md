@@ -33,6 +33,20 @@ Fintual es una Administradora General de Fondos regulada por la Comisión para e
 
 Significa que **tenemos que regirnos por ese conjunto de leyes y normas que dicen sobre lo que debemos y no debemos hacer en la administración de los fondos.** Además, tenemos que responder a una autoridad que supervisa el cumplimiento de ese conjunto de leyes y normas.
 
+### Lo tuyo es tuyo y lo mío es mío
+
+Los fondos son entidades separadas de la empresa que los administra. **Esto es muy importante para la seguridad de tu plata.**
+
+![](/uploads/2020-09-01/split.gif)
+
+Los fondos que administra Fintual son independientes de Fintual. Tienen rut distintos, cuentas corriente distintas y cuentas de corretaje distintas.
+
+**O sea, la plata de los fondos no es plata de Fintual, es de los clientes (o aportantes) de los fondos.**
+
+Y la plata de Fintual (o de sus socios) está completamente separada y nunca se mezcla.
+
+De hecho, si  por alguna razón Fintual cerrara, los fondos podrían pasar a ser administrados por otra empresa (también regulada) y los clientes no se verían afectados.
+
 ### El regulador
 
 La CMF es como ese profesor que se paseaba en la sala durante una prueba vigilando que nadie hiciera trampa.
@@ -44,20 +58,6 @@ Y como parte de esta supervisión continua tenemos que mandarle información. Mu
 Además de esto, la CMF hace revisiones específicas en las que pide antecedentes con más detalle del que enviamos periódicamente. Y el oficial de cumplimiento sufre un poco cuando pasa esto.
 
 Pero es súper necesario porque **si se cumple con la regulación se asegura un estándar mínimo en las distintas áreas involucradas en la administración de fondos**
-
-### Lo tuyo es tuyo y lo mío es mío
-
-Los fondos son entidades separadas de la empresa que los administra. **Esto es muy importante para la seguridad de tu plata.**
-
-gif
-
-Fintual y los fondos que administramos son independientes. Tienen rut distintos, cuentas corriente distintas y cuentas de corretaje distintas.
-
-**O sea, la plata de los fondos no es plata de Fintual, es de los clientes (o aportantes) de los fondos.**
-
-Y la plata de Fintual (o de sus socios) está completamente separada y nunca se mezcla.
-
-De hecho, si Fintual cerrara por alguna razón, los fondos podrían pasar a ser administrados por otra empresa (también regulada) y los clientes no se verían afectados.
 
 ### Transparencia (y de fácil acceso)
 
