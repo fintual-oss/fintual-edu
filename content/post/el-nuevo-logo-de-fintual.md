@@ -10,6 +10,8 @@ title = "El nuevo logo de Fintual"
 url = "/el-nuevo-logo-de-fintual"
 
 +++
+Cambiamos el logo de Fintual y el camino fue largo. Acá algunas reflexiones sobre lo que implica un logo, una marca y la identidad de Fintual.
+
 ### Lo primero: logo =/= marca
 
 Todas las marcas tienen un logo, pero no todos los logos tienen una marca. Se suele pensar que un logo es un dibujito acompañado de letras y que no hay mayor ciencia asociada a su creación. De hecho, tener un logo con look “profesional” es muy fácil hoy en día. Con páginas como **Canva** puedes lograr resultados bastante convincentes en cuestión de minutos.
@@ -118,7 +120,7 @@ Es muy diferente ver un logo en un lienzo en blanco que aplicado. Ahora te invit
 
 ![](/uploads/2020-09-03/logo-calle.jpeg)
 
-Mi consejo: primero trabaja tu marca. 
+Mi consejo: primero trabaja tu marca.
 
 Mejor tener un logo difuso con una marca clara y poderosa. Como dijo el fotógrafo Ansel Adams:
 
