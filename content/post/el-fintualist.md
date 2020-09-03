@@ -13,19 +13,19 @@ url = "/fintualist-1"
 +++
 Cada vez tenemos menos tiempo para ver noticias. Y para encontrar una noticia interesante mucho menos.
 
-Así que se nos ocurrió crear El Fintualist
+Así que se nos ocurrió crear El Fintualist.
 
 Todas las semanas te vamos a contar noticias interesantes, o al menos entretenidas, en un formato simple y fácil de digerir.
 
 La idea es ahorrarte ese tiempo de buscar noticias que valgan la pena para que puedas invertir mejor tu tiempo.
 
-### Cuál es El Fintualist para ti:
+#### Los distintos formatos de El Fintualist:
 
-1. Si sólo tienes 3-4 minutos, definitivamente el video que subirá [@fabriciocopano](https://www.instagram.com/fabriziocopano/channel/?hl=es) todos los miércoles a su Instagram.
+1. Si sólo tienes 3-4 minutos, definitivamente el video que subirá [@fabriziocopano](https://www.instagram.com/fabriziocopano/channel/?hl=es) todos los miércoles a su Instagram.
 2. Si la copucha es lo tuyo, escucha la interna de la reunión de pauta en la que discutimos los temas. Nos llamamos [El Fintualist](https://open.spotify.com/show/4KTk8PdwRlWkm0D5DGs0Ke?si=J3sIq4F3SV-WMURcOnt2Gg) en Spotify.
 3. Si quedaste con gusto a poco y quieres leer más, puedes leer el resumen de cada noticia más abajo.
 
-### ¿Elon Musk está creando un ejército de cerdos Inteligentes? By Florencia
+### ¿Elon Musk está creando un ejército de cerdos Inteligentes? by Florencia
 
 En su entrevista de trabajo de Fintual, una postulante enseñó a toda la empresa la actividad eléctrica de las neuronas de las cucarachas. Nos dijo que es difícil hacer una presentación pública con animales, y así fue para Elon Musk.
 
@@ -35,7 +35,7 @@ Este experimento ya es viejo en el mundo de la neurociencia, pero jamás se hab�
 
 Elon Musk es también fundador y CEO de Tesla, la compañía que pretende masificar los automóviles eléctricos. Nuestros fondos, en especial las estrategias con más riesgo, invierten una pequeña parte en Tesla a través de algunos ETF que tenemos en las carteras de inversión.
 
-### ¿Se acaban las dictaduras en Europa? By Pedro
+### ¿Se acaban las dictaduras en Europa? by Pedro
 
 El último dictador de Europa, Alexander Lukashenko presidente de Bielorrusia hace 26 años, acaba de ser reelecto con el 80,1% de los votos. Le ganó a Svetlana Tikhanovskaya, quien lanzó su candidatura cuando arrestaron a su marido, el activista y candidato a presidente Sergei Tikhanovsky en mayo.
 
@@ -49,7 +49,7 @@ Lukashenko, a cargo de una granja soviética en la antigua URSS, ganó su primer
 
 <div style="text-align:center"> <figure> <img src="/uploads/2020-09-03/protestas.png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>El país, de casi 10 millones de habitantes, lleva tres semanas de manifestaciones pidiendo la renuncia de Lukashenko. Foto de El País</i></figcaption> </figure> </div>
 
-### ¿Trump quiere sacar petróleo de los bosques en USA? By Sebastián
+### ¿Trump quiere sacar petróleo de los bosques en USA? by Sebastián
 
 Trump propone una norma que facilita la explotación de petróleo en los bosques de USA.
 
@@ -61,7 +61,7 @@ Esto se suma al anuncio de mediados de agosto del Departamento de Interior sobre
 
 De todas maneras se espera que organizaciones medioambientales presenten recursos legales para impedir la implementación de estas medidas.
 
-### ¿El joven de Ñuñoa encontró su polola inteligente? By Francesca
+### ¿El joven de Ñuñoa encontró su polola inteligente? by Francesca
 
 Baltazar es el soltero más viral del último tiempo.
 
@@ -78,3 +78,5 @@ Si bien no espera mucho, el chiquillo bueno para las matemáticas cree que las p
 [**@notmyanimal**](https://www.instagram.com/notmyanimal/) en Instagram es una joya. Aquí nuestra selección:
 
 <div style="text-align:center"> <figure> <img src="/uploads/2020-09-03/mapa.png"></figure> </div>
+
+![](/uploads/2020-09-03/patos.png)
