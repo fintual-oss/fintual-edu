@@ -11,7 +11,7 @@ title = "El nuevo logo de Fintual"
 url = "/el-nuevo-logo-de-fintual"
 
 +++
-### Primer movimiento: logo =/= marca
+### Lo primero: logo =/= marca
 
 Todas las marcas tienen un logo, pero no todos los logos tienen una marca. Se suele pensar que un logo es un dibujito acompañado de letras y que no hay mayor ciencia asociada a su creación. De hecho, tener un logo con look “profesional” es muy fácil hoy en día. Con páginas como **Canva** puedes lograr resultados bastante convincentes en cuestión de minutos.
 
@@ -31,7 +31,7 @@ Construimos y seguimos construyendo de forma gradual lo que es la identidad visu
 
 Aunque llegar al sencillo resultado que verás más abajo no fue nada de fácil.
 
-### Segundo movimiento: diseñando un logo
+### Lo segundo: diseñando un logo
 
 Tenemos una marca bacán. ¿Cómo desarrollamos un logo acorde?
 
@@ -101,7 +101,7 @@ Lo que tuvimos que hacer es un ajuste de compensación óptica. El círculo qued
 
 ![Logotipo](/uploads/2020-09-03/logotipo.png)_Logotipo_
 
-En este caso la operación fue un poco menos simbólica. 
+En este caso la operación fue un poco menos simbólica.
 
 Cambios la tipografía por una Sans Serif geométrica, para que conversara mejor con Poppins, la familia que usamos en nuestros textos. Se hicieron leves ajustes de kerning y overshoot para darle un look más limpio y único.
 
@@ -109,7 +109,7 @@ Además, las letras T y L tienen un pequeño corte de 15° para reforzar el conc
 
 Y no, el color no es negro absoluto.
 
-### Tercer movimiento: ¿Y cómo se ve esto en el mundo real?
+### Lo tercero: ¿Y cómo se ve esto en el mundo real?
 
 Es muy diferente ver un logo en un lienzo en blanco que aplicado. Ahora te invito a ver algunos ejemplos de la presencia de nuestro nuevo símbolo en el mundo real.
 
