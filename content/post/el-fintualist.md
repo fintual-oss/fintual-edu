@@ -19,11 +19,11 @@ Todas las semanas en El Fintualist te vamos a contar noticias interesantes, o al
 
 La idea es ahorrarte ese tiempo de buscar noticias que valgan la pena para que puedas invertir mejor tu tiempo.
 
-Para el lanzamiento nos propusimos preparar semanalmente 3 tipos de contenidos distintos:
+### Cuál es El Fintualist para ti:
 
-1. Si solo tienes 3-4 minutos, te recomendamos ver el video que subirá Fabrizio Copano todos los miércoles a su Instagram.
-2. Si quieres ver la interna de como se creó el video, puedes escuchar este podcast en donde el equipo de Fintual junto a Fabrizio profundizan en estos tema.s
-3. Si quedaste con gusto a poco y quieres aprender más de estos temas, puedes leer el resumen de cada noticia más abajo.
+1. Si sólo tienes 3-4 minutos, definitivamente el video que subirá [@fabriciocopano](https://www.instagram.com/fabriziocopano/channel/?hl=es) todos los miércoles a su Instagram.
+2. Si la copucha es lo tuyo, escucha la interna de la reunión de pauta en la que Fintual y Fabrizio discutimos los temas. Nos llamamos El Fintualist en Spotify.
+3. Si quedaste con gusto a poco y quieres leer más sobre estos temas, puedes leer el resumen de cada noticia más abajo.
 
 ### ¿Elon Musk está creando un ejército de cerdos Inteligentes? By Florencia
 
