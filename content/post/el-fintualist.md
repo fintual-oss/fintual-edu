@@ -41,12 +41,4 @@ El último dictador de Europa, Alexander Lukashenko presidente de Bielorrusia ha
 
 Svetlana fue detenida el día después de las elecciones y finalmente arrancó a Lituania (son dos horas en auto desde Minsk). Declara haber obtenido entre el 60 y 70% de los votos.
 
-<div style="text-align:center">  
-<figure>  
-<img src="/uploads/objetivos.png">  
-</figure>  
-</div>
-
-![](/uploads/2020-09-03/mapa.png)
-
-Berlín está a 1200 km; Moscú a 700.
+<div style="text-align:center"> <figure> <img src="/uploads/2020-09-03/mapa.png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Berlín está a 1200 km; Moscú a 700.</i></figcaption> </figure> </div>
