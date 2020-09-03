@@ -1,6 +1,6 @@
 +++
 aliases = []
-author = "Stella Melaragno"
+author = "Omar Larré"
 categories = ["noticias"]
 date = 2020-09-03T22:59:24Z
 description = "Explicación de la baja de mercado que tuvieron los fondos de Fintual."
@@ -25,6 +25,7 @@ Sí, es una caída grande pero dentro de lo normal, incluso ya contemplado en lo
 
 El índice S&P 500, que contiene las 500 acciones más importantes en Estados Unidos, bajó -3,51%, mientras que el NASDAQ, que contempla acciones de empresas tecnológicas, bajó hoy un -4,96%.
 
+  
 La caída fue global, y afectó a otros mercados importantes alrededor del mundo como Europa (Stoxx Europe 600 cayó -1,4%), Reino Unido (FTSE 100 cayó -1,5%) y Asia (futuros de índices en Japón y China en rojo), especialmente afectando a empresas con altas expectativas de crecimiento.
 
 ### ¿Era predecible?
