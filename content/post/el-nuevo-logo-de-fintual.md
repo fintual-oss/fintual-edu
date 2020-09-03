@@ -20,7 +20,7 @@ Cuando entré a Fintual hace casi un año me llevé una increíble sorpresa. Sin
 
 De lo mejor que he visto en Chile y sin mucho “diseño”. Sin paleta de colores, sin un buen logo, sin “marca” en la jerga popular.
 
-Un producto vivo que te habla con la misma cercanía que un amigo, de humor “clever” y con una cultura interna que calza perfecto con lo que se transmite para afuera. Fresh, hacker y minimal, pero no al nivel de perder la seriedad y hacer que nadie meta plata. _On point._
+Un producto vivo que te habla con la misma cercanía que un amigo, de humor “clever” y con una cultura interna que calza perfecto con lo que se transmite para afuera. Fresh, hacker y minimal, pero serio y digno de recibir mi plata. _On point._
 
 En ese sentido había mucho que rescatar, pero también harto que trabajar.
 
