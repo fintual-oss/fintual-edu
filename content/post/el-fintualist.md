@@ -3,8 +3,7 @@ aliases = []
 author = "Francesca Finaldi"
 categories = ["noticias"]
 date = 2020-09-03T20:58:19Z
-description = "Para invertir mejor tu tiempo,"
-draft = true
+description = "Para invertir mejor tu tiempo."
 hide = true
 image = "/uploads/2020-09-03/frame-1.png"
 title = "El Fintualist"
@@ -79,8 +78,10 @@ Si bien no espera mucho, el chiquillo bueno para las matemáticas cree que las p
 
 <div style="text-align:center"> <figure> <img src="/uploads/2020-09-03/patos.png"></figure> </div>
 
-<div style="text-align:center"> <figure> <img src="/uploads/2020-09-03/patos.png"></figure> </div>
+<div style="text-align:center"> <figure> <img src="/uploads/2020-09-03/cerdito.png"></figure> </div>
 
-<div style="text-align:center"> <figure> <img src="/uploads/2020-09-03/patos.png"></figure> </div>
+<div style="text-align:center"> <figure> <img src="/uploads/2020-09-03/yoperreosolo.png"></figure> </div>
 
-<div style="text-align:center"> <figure> <img src="/uploads/2020-09-03/patos.png"></figure> </div>
+<div style="text-align:center"> <figure> <img src="/uploads/2020-09-03/viendotele.png"></figure> </div>
+
+<div style="text-align:center"> <figure> <img src="/uploads/2020-09-03/pistola.png"></figure> </div>
