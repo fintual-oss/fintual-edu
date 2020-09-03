@@ -5,7 +5,7 @@ categories = ["noticias"]
 date = 2020-09-02T16:14:30Z
 description = "Un buen logo para una buena marca. Conoce las claves en el desarrollo de nuestra nueva identidad visual."
 hide = false
-image = "/uploads/2020-09-03/imagotipo.png"
+image = "/uploads/2020-09-03/logo-post.png"
 title = "El nuevo logo de Fintual"
 url = "/el-nuevo-logo-de-fintual"
 
