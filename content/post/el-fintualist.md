@@ -21,7 +21,7 @@ La idea es ahorrarte el tiempo de buscar tú las noticias.
 
 Para el lanzamiento nos propusimos preparar semanalmente 3 tipos de contenidos distintos:
 
-1. Si solo tienes 3-4 minutos, te recomendamos ver el video que subirá Fabrizio Copano todos los miércoles a su instagram. El de esta semana lo puede ver acá.
+1. Si solo tienes 3-4 minutos, te recomendamos ver el video que subirá Fabrizio Copano todos los miércoles a su Instagram. El de esta semana lo puedes ver acá.
 2. Si quieres ver la interna de como se creó el video, puedes escuchar este podcast en donde el equipo de Fintual junto a Fabrizio profundizan en estos tema.s
 3. Si quedaste con gusto a poco y quieres aprender más de estos temas, puedes leer el resumen de cada noticia más abajo.
 
