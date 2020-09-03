@@ -80,3 +80,5 @@ No voy a dar la lata con las 6 iteraciones y múltiples modificaciones que tocam
 ### **El isotipo**
 
 ![Isotipo](/uploads/2020-09-03/isotipo.png)_Isotipo_
+
+![Inspo](/uploads/2020-09-03/inspo.gif)_Inspo_
