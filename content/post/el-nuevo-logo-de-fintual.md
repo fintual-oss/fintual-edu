@@ -93,6 +93,10 @@ No voy a dar la lata con las 6 iteraciones y múltiples modificaciones que tocam
 
 ![Logo (im)perfecto](/uploads/2020-09-03/logo-imperfecto.png)_Logo (im)perfecto_
 
-El problema con esto, es que al ser figuras diferentes y tener distintas intensidades de color, el peso se iba inevitablemente hacia la esquina inferior izquierda. El logo se veía desbalanceado.
+El problema con esto es que, al ser figuras diferentes y tener distintas intensidades de color, el peso se iba inevitablemente hacia la esquina inferior izquierda. El logo se veía desbalanceado.
 
-Lo que tuvimos que hacer es un ajuste de compensasión óptica. El círculo quedó levemente más grande que el área de crecimiento, pero para el ojo humano se ven del mismo tamaño y la pieza final perfectamente balanceada.
+Lo que tuvimos que hacer es un ajuste de compensación óptica. El círculo quedó levemente más grande que el área de crecimiento, pero para el ojo humano se ven del mismo tamaño y la pieza final perfectamente balanceada.
+
+### El logotipo
+
+![Logotipo](/uploads/2020-09-03/logotipo.png)_Logotipo_
