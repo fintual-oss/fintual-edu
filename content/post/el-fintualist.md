@@ -77,6 +77,10 @@ Si bien no espera mucho, el chiquillo bueno para las matemáticas cree que las p
 
 [**@notmyanimal**](https://www.instagram.com/notmyanimal/) en Instagram es una joya. Aquí nuestra selección:
 
-<div style="text-align:center"> <figure> <img src="/uploads/2020-09-03/mapa.png"></figure> </div>
+<div style="text-align:center"> <figure> <img src="/uploads/2020-09-03/patos.png"></figure> </div>
 
-![](/uploads/2020-09-03/patos.png)
+<div style="text-align:center"> <figure> <img src="/uploads/2020-09-03/patos.png"></figure> </div>
+
+<div style="text-align:center"> <figure> <img src="/uploads/2020-09-03/patos.png"></figure> </div>
+
+<div style="text-align:center"> <figure> <img src="/uploads/2020-09-03/patos.png"></figure> </div>
