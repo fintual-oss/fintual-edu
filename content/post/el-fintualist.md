@@ -3,7 +3,7 @@ aliases = []
 author = "Francesca Finaldi"
 categories = ["noticias"]
 date = 2020-09-03T20:58:19Z
-description = ""
+description = "Para invertir mejor tu tiempo,"
 draft = true
 hide = true
 image = "/uploads/2020-09-03/frame-1.png"
@@ -11,9 +11,13 @@ title = "El Fintualist"
 url = "/fintualist-1"
 
 +++
+Cada vez hay menos tiempo para ver noticias. Y se pierde mucho tiempo buscando una noticia interesante.
+
+Se nos ocurrió crear El Fintualist para que puedas invertir mejor tu tiempo.
+
 Uno de los objetivos de Fintual es tomar temas áridos y muchas veces distantes (como las finanzas o las inversiones) y llevarlo a un lenguaje simple y entretenido.
 
-Es por esto que hoy lanzamos El Fintualist.
+Es por esto que hoy lanzamos 
 
 El Fintualist será un canal digital en dónde te contaremos noticias importantes de la semana, o al menos entretenidas.
 
@@ -61,11 +65,11 @@ Esto se suma al anuncio de mediados de agosto del Departamento de Interior sobre
 
 De todas maneras se espera que organizaciones medioambientales presenten recursos legales para impedir la implementación de estas medidas.
 
-### ¿El joven de ñuñoa encontró su polola inteligente? By Francesca
+### ¿El joven de Ñuñoa encontró su polola inteligente? By Francesca
 
 Baltazar es el soltero más viral del último tiempo.
 
-Un joven de 19 años que, frustrado después de tantas desilusiones amorosas, pegó carteles con la frase **Se busca polola inteligente**, ****dejando a entrever una de las posibles causas de su soltería.
+Un joven de 19 años que, frustrado después de tantas desilusiones amorosas, pegó carteles con la frase **Se busca polola inteligente**, dejando a entrever una de las posibles causas de su soltería.
 
 El desafío era que las interesadas descifraran el número de teléfono que dejó escondido en ocho ejercicios matemáticos. Alguien le sacó una foto al cartel y el Sheldon Cooper de Ñuñoa se volvió viral. Pensó que con suerte le iba a escribir una persona, pero le respondieron más de 500.
 
