@@ -10,7 +10,9 @@ title = "Actualización de tus inversiones en Fintual: 03/09/2020"
 url = "/actualizacion-de-mercado-03-de-septiembre-2020"
 
 +++
-Hoy el mercado accionario global cayó fuertemente, arrastrado principalmente por la baja de precios de acciones de empresas tecnológicas globales. Esto hizo caer el valor de los fondos en Fintual, en especial las estrategias más arriesgadas. No hubo un motivo particular que gatillara el movimiento.
+Este jueves 3 de septiembre el mercado de acciones a nivel global cayó fuertemente, arrastrado principalmente por la baja de precios de acciones de empresas tecnológicas globales. 
+
+Esto hizo caer el valor de los fondos en Fintual, en especial las estrategias más arriesgadas. No hubo un motivo particular que gatillara el movimiento.
 
 ### ¿Hay que hacer algo?
 
