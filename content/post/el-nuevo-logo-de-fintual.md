@@ -100,3 +100,25 @@ Lo que tuvimos que hacer es un ajuste de compensación óptica. El círculo qued
 ### El logotipo
 
 ![Logotipo](/uploads/2020-09-03/logotipo.png)_Logotipo_
+
+En este caso la operación fue un poco menos simbólica. 
+
+Cambios la tipografía por una Sans Serif geométrica, para que conversara mejor con Poppins, la familia que usamos en nuestros textos. Se hicieron leves ajustes de kerning y overshoot para darle un look más limpio y único.
+
+Además, las letras T y L tienen un pequeño corte de 15° para reforzar el concepto de crecimiento, aun cuando el isotipo no está presente.
+
+Y no, el color no es negro absoluto.
+
+### Tercer movimiento: ¿Y cómo se ve esto en el mundo real?
+
+Es muy diferente ver un logo en un lienzo en blanco que aplicado. Ahora te invito a ver algunos ejemplos de la presencia de nuestro nuevo símbolo en el mundo real.
+
+![](/uploads/2020-09-03/logo-app.png)
+
+![](/uploads/2020-09-03/logopoleras.png)
+
+![](/uploads/2020-09-03/logo-calle.jpeg)
+
+Mi consejo: primero trabaja tu marca. Mejor tener un logo difuso con una marca clara y poderosa. Como dijo el fotógrafo Ansel Adams:
+
+> _There is nothing worse than a sharp image of a fuzzy concept._
