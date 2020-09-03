@@ -6,7 +6,7 @@ date = 2020-09-03T22:59:24Z
 description = "Explicación de la baja de mercado que tuvieron los fondos de Fintual."
 hide = true
 image = "/uploads/2020-08-28/cambios-fintual-2.png"
-title = "Actualización de tus inversiones en Fintual: 03/08/2020"
+title = "Actualización de tus inversiones en Fintual: 03/09/2020"
 url = "/actualizacion-de-mercado-03-de-septiembre-2020"
 
 +++
@@ -30,7 +30,7 @@ La caída fue global, y afectó a otros mercados importantes alrededor del mundo
 
 Era razonable que ocurriese, pero no predecible. Y es importante hacer la diferencia. 
 
-#### Tratar de predecir el día y magnitud de una caída del mercado es similar a tratar de predecir un terremoto: mientras que es muy fácil decir que en Chile puede ocurrir luego un terremoto, no es fácil determinar ni la magnitud ni el día exacto de cuando suceda.
+Tratar de predecir el día y magnitud de una caída del mercado es similar a tratar de predecir un terremoto: mientras que es muy fácil decir que en Chile puede ocurrir luego un terremoto, no es fácil determinar ni la magnitud ni el día exacto de cuando suceda.
 
 En este caso, era razonable pensar que luego de 5 meses de buenos resultados de los precios de acciones, estos llegarían a valorizaciones que se debían reajustar. Es difícil saber si esto implique una corrección mayor.
 
