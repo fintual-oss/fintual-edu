@@ -85,3 +85,5 @@ Si bien no espera mucho, el chiquillo bueno para las matemáticas cree que las p
 <div style="text-align:center"> <figure> <img src="/uploads/2020-09-03/viendotele.png"></figure> </div>
 
 <div style="text-align:center"> <figure> <img src="/uploads/2020-09-03/pistola.png"></figure> </div>
+
+{{< newsletter_signup >}}
