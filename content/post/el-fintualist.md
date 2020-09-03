@@ -76,3 +76,5 @@ Si bien no espera mucho, el chiquillo bueno para las matemáticas cree que las p
 ### Recomendación de la semana by Cata
 
 [**@notmyanimal**](https://www.instagram.com/notmyanimal/) en Instagram es una joya. Aquí nuestra selección:
+
+<div style="text-align:center"> <figure> <img src="/uploads/2020-09-03/mapa.png"></figure> </div>
