@@ -46,3 +46,37 @@ Es por esto que la estructura base que más nos conviene desarrollar es un _imag
 Esto permite que el isotipo sea utilizado de forma independiente, aprovechando la etiqueta escrita _Fintual_ que ya tienen por defecto los íconos de perfil en redes sociales y sistemas operativos móviles. Así evitamos la redundancia Fintual Fintual @fintual.
 
 ![Tipos de logo](/uploads/2020-09-03/tiposdelogo.png)_Tipos de logo_
+
+Ahora sabemos que hay que desarrollar dos piezas por separado, que puedan ser unidas y funcionar como una composición única. Por un lado, necesitamos un símbolo representativo del producto y su espíritu y por el otro, una representación de texto de fácil lectura que diga _Fintual_. Partimos por el isotipo.
+
+### **¿Qué queremos contar?**
+
+Al igual que muchas marcas, Fintual es un organismo complejo. Hay múltiples formas de abordar lo que significa y lo que queremos que signifique. En esta parte hay que hacer _concept hammering._ Es muy difícil contar una historia elaborada a partir de un único símbolo. Sugiero escoger un elemento literal, otro elemento simbólico y el tono en el que lo quieres narrar. Punto.
+
+En nuestro caso fue:
+
+##### Elemento literal: **Inversiones.**
+
+Fintual es una plataforma para invertir en fondos mutuos. Sí, hace mucho más que eso, pero hay que elegir lo central.
+
+##### Elemento simbólico: **Transparencia.**
+
+Uno de los valores fundamentales de Fintual es la transparencia absoluta en la relación con nuestros clientes. Nada de letras chicas ni truquitos.
+
+##### Tono: **Tech Startup.**
+
+Independiente de que estemos insertos en el mundo de las inversiones en fondos mutuos, no queremos que se nos conecte con los actores tradicionales en ese rubro. Somos mucho más cercanos a Airbnb o a Google que al “Banco de la nación”.
+
+##### Bonus: **Único.**
+
+Tomamos como desafío llegar a un logo que se salga de lo tradicional. Intentamos evitar la clásica flechita, el corazón, el escudo o simplemente girar en torno a la letra “F”.
+
+### **Manos a la obra**
+
+No voy a dar la lata con las 6 iteraciones y múltiples modificaciones que tocamos en el camino. Este es nuestro nuevo logo y te voy a contar por qué.
+
+![Imagotipo](/uploads/2020-09-03/imagotipo.png)_Imagotipo_
+
+### **El isotipo**
+
+![Isotipo](/uploads/2020-09-03/isotipo.png)_Isotipo_
