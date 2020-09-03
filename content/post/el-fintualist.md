@@ -25,7 +25,7 @@ Para el lanzamiento nos propusimos preparar semanalmente 3 tipos de contenidos d
 2. Si quieres ver la interna de como se creó el video, puedes escuchar este podcast en donde el equipo de Fintual junto a Fabrizio profundizan en estos tema.s
 3. Si quedaste con gusto a poco y quieres aprender más de estos temas, puedes leer el resumen de cada noticia más abajo.
 
-### **¿Elon Musk está creando un ejército de cerdos Inteligentes? By Florencia**
+### ¿Elon Musk está creando un ejército de cerdos Inteligentes? By Florencia
 
 En su entrevista de trabajo de Fintual, una postulante enseñó a toda la empresa la actividad eléctrica de las neuronas de las cucarachas. Nos dijo que es difícil hacer una presentación pública con animales, y así fue para Elon Musk.
 
@@ -42,3 +42,39 @@ El último dictador de Europa, Alexander Lukashenko presidente de Bielorrusia ha
 Svetlana fue detenida el día después de las elecciones y finalmente arrancó a Lituania (son dos horas en auto desde Minsk). Declara haber obtenido entre el 60 y 70% de los votos.
 
 <div style="text-align:center"> <figure> <img src="/uploads/2020-09-03/mapa.png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Berlín está a 1200 km; Moscú a 700.</i></figcaption> </figure> </div>
+
+Moscú ha sido ambiguo en su apoyo a Lukashenko, quien al principio los acusó de estar detrás de las manifestaciones en todo el país, para ahora apuntar a Occidente. Lo cierto es que la oposición ha tomado las banderas blancas y rojas como símbolo y ha salido a las calles a pedir su renuncia.
+
+Lukashenko, a cargo de una granja soviética en la antigua URSS, ganó su primer elección en 1994 en segunda vuelta. Con exactamente el 80,1%.
+
+<div style="text-align:center"> <figure> <img src="/uploads/2020-09-03/protestas.png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>El país, de casi 10 millones de habitantes, lleva tres semanas de manifestaciones pidiendo la renuncia de Lukashenko. Foto de El País</i></figcaption> </figure> </div>
+
+### ¿Trump quiere sacar petróleo de los bosques en USA? By Sebastián
+
+Trump propone una norma que facilita la explotación de petróleo en los bosques de USA.
+
+Actualmente la Oficina de Gestión de Tierras (dependiente del Departamento del Interior) maneja los derechos de explotación de minerales, incluidos los que involucren áreas controladas por el Servicio de Bosques (dependiente del Departamento de Agricultura). Pero el Servicio de Bosques tiene que aprobar las operaciones sobre el nivel del suelo que se lleven a cabo en bosques.
+
+La nueva norma eliminaría la posibilidad rechazar permisos de explotación por consideraciones ambientales, limitando al Servicio de Bosques a proteger sólo determinados recursos naturales.
+
+Esto se suma al anuncio de mediados de agosto del Departamento de Interior sobre las preparaciones para subastar derechos de perforación en el Refugio Nacional de Vida Silvestre del Ártico, la que estimaba podría concretarse antes de fin de año. Con esto estarían disponibles para explotación aproximadamente 600.000 hectáreas de Alaska (más de 9 veces Santiago).
+
+De todas maneras se espera que organizaciones medioambientales presenten recursos legales para impedir la implementación de estas medidas.
+
+### ¿El joven de ñuñoa encontró su polola inteligente? By Francesca
+
+Baltazar es el soltero más viral del último tiempo.
+
+Un joven de 19 años que, frustrado después de tantas desilusiones amorosas, pegó carteles con la frase **Se busca polola inteligente**, ****dejando a entrever una de las posibles causas de su soltería.
+
+El desafío era que las interesadas descifraran el número de teléfono que dejó escondido en ocho ejercicios matemáticos. Alguien le sacó una foto al cartel y el Sheldon Cooper de Ñuñoa se volvió viral. Pensó que con suerte le iba a escribir una persona, pero le respondieron más de 500.
+
+La mayoría fueron puteadas. Mucha gente le escribió para cuestionarle la idea de que ser bueno para las matemáticas signifique ser inteligente. Otras personas le reprocharon que los ejercicios eran muy fáciles.
+
+Si bien no espera mucho, el chiquillo bueno para las matemáticas cree que las probabilidades están de su lado y debería conseguir al menos una cita. Aunque calcular las probabilidades de que esa cita salga bien es un poquito más difícil.
+
+### Recomendación de la semana by Cata
+
+Sigan el instagram **@notmyanimal**
+
+Para nosotros la cuenta de Instagram con mejor selección de fotos de animales:
