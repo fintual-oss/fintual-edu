@@ -11,17 +11,13 @@ title = "El Fintualist"
 url = "/fintualist-1"
 
 +++
-Cada vez hay menos tiempo para ver noticias. Y se pierde mucho tiempo buscando una noticia interesante.
+Cada vez tenemos menos tiempo para ver noticias. Y para encontrar una noticia interesante mucho menos.
 
-Se nos ocurrió crear El Fintualist para que puedas invertir mejor tu tiempo.
+Así que se nos ocurrió crear El Fintualist
 
-Uno de los objetivos de Fintual es tomar temas áridos y muchas veces distantes (como las finanzas o las inversiones) y llevarlo a un lenguaje simple y entretenido.
+Todas las semanas en El Fintualist te vamos a contar noticias interesantes, o al menos entretenidas, en un formato simple y fácil de digerir.
 
-Es por esto que hoy lanzamos 
-
-El Fintualist será un canal digital en dónde te contaremos noticias importantes de la semana, o al menos entretenidas.
-
-La idea es ahorrarte el tiempo de buscar tú las noticias.
+La idea es ahorrarte ese tiempo de buscar noticias que valgan la pena para que puedas invertir mejor tu tiempo.
 
 Para el lanzamiento nos propusimos preparar semanalmente 3 tipos de contenidos distintos:
 
