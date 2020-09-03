@@ -6,7 +6,7 @@ date = 2020-09-02T16:14:30Z
 description = "Un buen logo para una buena marca. Conoce las claves en el desarrollo de nuestra nueva identidad visual."
 draft = true
 hide = false
-image = ""
+image = "/uploads/2020-09-03/imagotipo.png"
 title = "El nuevo logo de Fintual"
 url = "/el-nuevo-logo-de-fintual"
 
