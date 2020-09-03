@@ -75,6 +75,4 @@ Si bien no espera mucho, el chiquillo bueno para las matemáticas cree que las p
 
 ### Recomendación de la semana by Cata
 
-Sigan el instagram **@notmyanimal**
-
-Para nosotros la cuenta de Instagram con mejor selección de fotos de animales:
+[**@notmyanimal**](https://www.instagram.com/notmyanimal/) en Instagram es una joya. Aquí nuestra selección:
