@@ -15,15 +15,15 @@ Cada vez tenemos menos tiempo para ver noticias. Y para encontrar una noticia in
 
 Así que se nos ocurrió crear El Fintualist
 
-Todas las semanas en El Fintualist te vamos a contar noticias interesantes, o al menos entretenidas, en un formato simple y fácil de digerir.
+Todas las semanas te vamos a contar noticias interesantes, o al menos entretenidas, en un formato simple y fácil de digerir.
 
 La idea es ahorrarte ese tiempo de buscar noticias que valgan la pena para que puedas invertir mejor tu tiempo.
 
 ### Cuál es El Fintualist para ti:
 
 1. Si sólo tienes 3-4 minutos, definitivamente el video que subirá [@fabriciocopano](https://www.instagram.com/fabriziocopano/channel/?hl=es) todos los miércoles a su Instagram.
-2. Si la copucha es lo tuyo, escucha la interna de la reunión de pauta en la que Fintual y Fabrizio discutimos los temas. Nos llamamos El Fintualist en Spotify.
-3. Si quedaste con gusto a poco y quieres leer más sobre estos temas, puedes leer el resumen de cada noticia más abajo.
+2. Si la copucha es lo tuyo, escucha la interna de la reunión de pauta en la que discutimos los temas. Nos llamamos [El Fintualist](https://open.spotify.com/show/4KTk8PdwRlWkm0D5DGs0Ke?si=J3sIq4F3SV-WMURcOnt2Gg) en Spotify.
+3. Si quedaste con gusto a poco y quieres leer más, puedes leer el resumen de cada noticia más abajo.
 
 ### ¿Elon Musk está creando un ejército de cerdos Inteligentes? By Florencia
 
