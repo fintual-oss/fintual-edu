@@ -119,6 +119,8 @@ Es muy diferente ver un logo en un lienzo en blanco que aplicado. Ahora te invit
 
 ![](/uploads/2020-09-03/logo-calle.jpeg)
 
-Mi consejo: primero trabaja tu marca. Mejor tener un logo difuso con una marca clara y poderosa. Como dijo el fotógrafo Ansel Adams:
+Mi consejo: primero trabaja tu marca. 
+
+Mejor tener un logo difuso con una marca clara y poderosa. Como dijo el fotógrafo Ansel Adams:
 
 > _There is nothing worse than a sharp image of a fuzzy concept._
