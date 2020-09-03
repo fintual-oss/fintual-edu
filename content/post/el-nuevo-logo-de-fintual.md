@@ -82,3 +82,17 @@ No voy a dar la lata con las 6 iteraciones y múltiples modificaciones que tocam
 ![Isotipo](/uploads/2020-09-03/isotipo.png)_Isotipo_
 
 ![Inspo](/uploads/2020-09-03/inspo.gif)_Inspo_
+
+**Inversiones:** 1/4 de circunferencia que sirve como abstracción del negativo de una curva de crecimiento exponencial, nos conecta con los conceptos de inversión y crecimiento.
+
+**Objetivos, no plata:** el círculo marca en su punto central el fin de la curva de crecimiento, simbolizando el momento en que nuestros clientes logran sus metas. A las personas no les importa tanto llegar a un monto, lo que realmente importa es poder comprarte tu primera casa, pagar la educación de tus hijos, viajar por el mundo, etc. El beneficio. Objetivos reales para personas reales.
+
+**Transparencia:** como existimos en un entorno primordialmente virtual, podemos darnos el lujo de usar más de un color en nuestro logo. Aprovechamos eso para sobreponer las figuras a través de nuestra paleta de azules y así comunicar la transparencia.
+
+**Las matemáticas o la visión:** en un principio nuestro logo era perfectamente geométrico. Es decir, que ambas figuras tenían mismo ancho, alto y área total. Y al estar unidas la esquina de una con el punto central de la otra, la composición final era cuadrada.
+
+![Logo (im)perfecto](/uploads/2020-09-03/logo-imperfecto.png)_Logo (im)perfecto_
+
+El problema con esto, es que al ser figuras diferentes y tener distintas intensidades de color, el peso se iba inevitablemente hacia la esquina inferior izquierda. El logo se veía desbalanceado.
+
+Lo que tuvimos que hacer es un ajuste de compensasión óptica. El círculo quedó levemente más grande que el área de crecimiento, pero para el ojo humano se ven del mismo tamaño y la pieza final perfectamente balanceada.
