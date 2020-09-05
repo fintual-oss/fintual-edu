@@ -7,7 +7,7 @@ description = "Explicación de la baja de mercado que tuvieron los fondos de Fin
 hide = true
 image = "/uploads/2020-08-28/cambios-fintual-2.png"
 title = "Actualización de tus inversiones en Fintual: 04/09/2020"
-url = "/actualizacion-de-mercado-03-de-septiembre-2020"
+url = "/actualizacion-de-mercado-04-de-septiembre-2020"
 
 +++
 El jueves 3 de septiembre el mercado de acciones a nivel global cayó fuertemente, arrastrado principalmente por la baja de precios de acciones de empresas tecnológicas globales. 
