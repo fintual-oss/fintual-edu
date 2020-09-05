@@ -1,19 +1,20 @@
 +++
 aliases = []
-author = "Omar Larré"
+author = "Stella Melaragno"
 categories = ["noticias"]
 date = 2020-09-03T22:59:24Z
 description = "Explicación de la baja de mercado que tuvieron los fondos de Fintual."
-draft = true
 hide = true
 image = "/uploads/2020-08-28/cambios-fintual-2.png"
-title = "Actualización de tus inversiones en Fintual: 03/09/2020-(copy)"
+title = "Actualización de tus inversiones en Fintual: 04/09/2020"
 url = "/actualizacion-de-mercado-03-de-septiembre-2020"
 
 +++
-Este jueves 3 de septiembre el mercado de acciones a nivel global cayó fuertemente, arrastrado principalmente por la baja de precios de acciones de empresas tecnológicas globales. 
+El jueves 3 de septiembre el mercado de acciones a nivel global cayó fuertemente, arrastrado principalmente por la baja de precios de acciones de empresas tecnológicas globales. 
 
 Esto hizo caer el valor de los fondos en Fintual, en especial las estrategias más arriesgadas. No hubo un motivo particular que gatillara el movimiento.
+
+El viernes se extendieron las pérdidas, pero fueron bastante menores que las del jueves.
 
 ### ¿Hay que hacer algo?
 
@@ -31,7 +32,7 @@ La caída fue global, y afectó a otros mercados importantes alrededor del mundo
 
 ### ¿Era predecible?
 
-Era razonable que ocurriese, pero no predecible. Y es importante hacer la diferencia. 
+Era razonable que ocurriese, pero no predecible. Y es importante hacer la diferencia.
 
 Tratar de predecir el día y magnitud de una caída del mercado es similar a tratar de predecir un terremoto: mientras que es muy fácil decir que en Chile puede ocurrir luego un terremoto, no es fácil determinar ni la magnitud ni el día exacto de cuando suceda.
 
@@ -39,8 +40,8 @@ En este caso, era razonable pensar que luego de 5 meses de buenos resultados de 
 
 ### Nota un pelo más técnica
 
-Por el lado positivo, los índices de volatilidad implícita VIX (sobre el S&P 500) y VXN (sobre el NASDAQ-100) subieron +26,46% (nivel actual de 33.60) y +14,38% (nivel actual de 42.09) respectivamente, a niveles similares a junio y abril de este año, lo que refleja que el mercado incorporó nuevamente la preocupación por movimientos de precios. 
+Por el lado positivo, los índices de volatilidad implícita VIX (sobre el S&P 500) y VXN (sobre el NASDAQ-100) subieron +26,46% (nivel actual de 33.60) y +14,38% (nivel actual de 42.09) respectivamente, a niveles similares a junio y abril de este año, lo que refleja que el mercado incorporó nuevamente la preocupación por movimientos de precios.
 
-Pese a que algunas medidas como _P/E ratio_ o _forward P/E ratio_ del S&P 500 están sin duda sobre la media histórica, cuando se corrige por las tasas de interés reales a 10 años (10-year T-bond yield menos la mediana del CPI para los próximos 10 años, según la encuesta de Philadelphia Fed), los niveles están cerca de la media histórica. Es decir, valuaciones que parecen exageradas hoy no lo son tanto contemplando el bajísimo nivel de tasas benchmark. 
+Pese a que algunas medidas como _P/E ratio_ o _forward P/E ratio_ del S&P 500 están sin duda sobre la media histórica, cuando se corrige por las tasas de interés reales a 10 años (10-year T-bond yield menos la mediana del CPI para los próximos 10 años, según la encuesta de Philadelphia Fed), los niveles están cerca de la media histórica. Es decir, valuaciones que parecen exageradas hoy no lo son tanto contemplando el bajísimo nivel de tasas benchmark.
 
 #### Con todo, vemos esta baja como un ajuste saludable de precios.
