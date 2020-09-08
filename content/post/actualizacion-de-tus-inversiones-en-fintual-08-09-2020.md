@@ -4,7 +4,6 @@ author = "Omar Larré"
 categories = ["noticias"]
 date = 2020-09-08T22:43:07Z
 description = ""
-draft = true
 hide = true
 image = "/uploads/2020-08-28/cambios-fintual-2.png"
 title = "Actualización de tus inversiones en Fintual: 08/09/2020"
@@ -37,12 +36,14 @@ Era razonable que ocurriese, pero no predecible. Es importante distinguir entre 
 
 **Tratar de predecir el día y magnitud de una caída del mercado es similar a tratar de predecir un terremoto: mientras que es muy fácil decir que en Chile puede ocurrir luego un terremoto, no es fácil determinar ni la magnitud ni el día exacto de cuando suceda.**
 
-En este caso, era razonable pensar que luego de 5 meses de buenos resultados de los precios de acciones, estos llegarían a valorizaciones que se debían reajustar. Es difícil saber si esto implique una corrección mayor. Con todo, vemos esta baja como un ajuste saludable de precios.
+En este caso, era razonable pensar que luego de 5 meses de buenos resultados de los precios de acciones, estos llegarían a valorizaciones que se debían reajustar. Es difícil saber si esto implique una corrección mayor. 
+
+**Con todo, vemos esta baja como un ajuste saludable de precios.**
 
 ### Nota un poco más técnica
 
 Pese a que algunas medidas como _P/E ratio_ o _forward P/E ratio_ del S&P 500 están sin duda sobre la media histórica, cuando se corrige por las tasas de interés reales a 10 años (10-year T-bond yield menos la mediana del CPI para los próximos 10 años, según la encuesta de Philadelphia Fed), los niveles están cerca de la media histórica, es decir, **valuaciones que parecen exageradas hoy no lo son tanto contemplando el bajísimo nivel de tasas benchmark.** La tasa del T-bond a 10 años bajó 3.7 puntos bases hoy, a un nivel de 0.684%, muy cerca de sus mínimos históricos.
 
-Sobre el sector tecnológico, dejando de lado que las últimas alzas durante el mes de agosto podrían haber sido empujadas por un inusualmente alto volumen de compra de opciones de tipo _call_ (desde inversionistas _retail_ o incluso SoftBank), el principal motivo para el buen desempeño del sector es fundamental. 
+Sobre el sector tecnológico, dejando de lado que las últimas alzas durante el mes de agosto podrían haber sido empujadas por un inusualmente alto volumen de compra de opciones de tipo _call_ (desde inversionistas _retail_ o incluso SoftBank), el principal motivo para el buen desempeño del sector es fundamental.
 
 Varias empresas tecnológicas maduras simplemente lo han hecho bien durante el periodo de COVID-19, tanto en términos absolutos como relativos. Eso no ha cambiado en los últimos días, por lo que **este _sell-off_ parece ser más un ajuste de corto plazo hacia niveles más equilibrados, que un ajuste fundamental de las empresas.**
