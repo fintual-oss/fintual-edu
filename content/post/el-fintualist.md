@@ -44,5 +44,11 @@ Según análisis posteriores, uno de los instrumentos que habrían empujado la s
 
 Y efectivamente, en Estados Unidos el volumen de opciones compradas subió a más del doble que el año anterior, con nocionales (cantidad de acciones comprometidas en el contrato de la opción) aumentando casi a más de 10 veces respecto de un año normal.
 
-  
 ![Índice S&P500 y el nocional de opciones call en miles de millones de dólares. Fuente: SentimenTrader.](/uploads/2020-09-09/s-psmalltradercall.png)_Índice S&P500 y el nocional de opciones call en miles de millones de dólares. Fuente: SentimenTrader._
+
+Sin embargo, resultó ser que no sólo inversionistas pequeños estaban detrás de este volumen gigantesco de compra de opciones. También estaba el gigante japonés SoftBank.
+
+![Incremento porcentual de opciones call vigentes para Amazon, Netflix y Microsoft. Fuente: Bloomberg.](/uploads/2020-09-09/softbankeffect.png)_Incremento porcentual de opciones call vigentes para Amazon, Netflix y Microsoft. Fuente: Bloomberg._
+
+  
+De ahí que algunos de los traders que habían estado fuertemente emocionados por las rápidas ganancias que habían logrado con sus apuestas por el Nasdaq se sintieran interpretados por este meme:
