@@ -12,7 +12,7 @@ url = "/actualizacion-de-mercado-08-de-septiembre-2020"
 +++
 Este martes, por tercera jornada consecutiva (el lunes fue feriado en Estados Unidos), el mercado accionario cayó fuertemente.
 
-La baja se debe principalmente por a la caída de precios en las acciones de empresas tecnológicas globales.
+La baja se debe principalmente a la caída de precios en las acciones de empresas tecnológicas globales.
 
 Esto hizo caer el valor de los fondos en Fintual, en especial las estrategias más arriesgadas.
 
@@ -36,7 +36,7 @@ Era razonable que ocurriese, pero no predecible. Es importante distinguir entre 
 
 **Tratar de predecir el día y magnitud de una caída del mercado es similar a tratar de predecir un terremoto: mientras que es muy fácil decir que en Chile puede ocurrir luego un terremoto, no es fácil determinar ni la magnitud ni el día exacto de cuando suceda.**
 
-En este caso, era razonable pensar que luego de 5 meses de buenos resultados de los precios de acciones, estos llegarían a valorizaciones que se debían reajustar. Es difícil saber si esto implique una corrección mayor. 
+En este caso, era razonable pensar que luego de 5 meses de buenos resultados de los precios de acciones, estos llegarían a valorizaciones que se debían reajustar. Es difícil saber si esto implique una corrección mayor.
 
 **Con todo, vemos esta baja como un ajuste saludable de precios.**
 
