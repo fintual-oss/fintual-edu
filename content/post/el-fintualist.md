@@ -114,3 +114,9 @@ Y la recomendación de esta semana es la exposición virtual “A Fungus Garden�
 La exposición incluye un tour 360º, videos artísticos y modelos 3D que permiten conocer el mundo invisible de los hongos. Y, lo que es más curioso, entender por qué resultan esenciales para la vida como la conocemos.
 
 Las seis obras están en la sala virtual [“Local Fungi that look like Human body parts”](https://keplersgardens.net/P5usrzq/a-fungus-garden):
+
+![](/uploads/2020-09-10/honguitos1.png)
+
+![](/uploads/2020-09-10/honguitos2.png)
+
+{{< newsletter_signup >}}
