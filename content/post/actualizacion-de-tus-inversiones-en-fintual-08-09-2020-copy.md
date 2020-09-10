@@ -18,7 +18,7 @@ Esto hizo caer el valor de los fondos en Fintual, en especial las estrategias m�
 
 No. Estas bajas están contempladas en un portafolio diseñado para largo plazo. Por eso, no haremos ningún cambio ni recomendamos que alguien lo haga, ya que sólo afectó a los portafolios que recomendamos para horizontes de inversión de un año o más.
 
-**Si elegiste bien el plazo y riesgo de tus inversiones, lo mejor es mantenerlas sin cambios hasta que cumplan y así se puedan alcanzar los resultados esperados.**
+**Si elegiste bien el plazo y riesgo de tus inversiones, recomendamos mantenerlas sin cambios hasta que se cumplan, y así se puedan alcanzar los resultados esperados.**
 
 ### Algo de contexto de índices financieros y economía global
 
