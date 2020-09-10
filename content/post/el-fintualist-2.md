@@ -10,7 +10,28 @@ title = "El Fintualist"
 url = "/fintualist-2"
 
 +++
-## Acciones tecnológicas suben ayudadas por SoftBank
+
+## **Corte ordena a notarios de Santiago a no usar sistemas tecnológicos**
+
+> ###### por Sebastián Ovalle
+
+Aún en tiempos de confinamiento sería una hazaña encontrar a alguien feliz de ir a “hacer un trámite” a una notaría. Convengamos que no es una industria que destaque por la experiencia del usuario.
+
+Pero hay excepciones. La Décima Notaría de Santiago de Valeria Ronchera y otras que han seguido su ejemplo, incorporan tecnología en sus procedimientos y permiten hacer trámites online gracias a herramientas como firma electrónica avanzada y biometría facial.
+
+“_Por fin los notarios optimizan sus procesos y nos hacen la vida más fácil_” se podría pensar. Pues permítanme moderar sus expectativas.
+
+Porque la Corte de Apelaciones de Santiago ordenó a los notarios abstenerse de usar sistemas computacionales y sujetarse únicamente a lo dispuesto en el Código Orgánico de Tribunales (de 1943). Básicamente un “apagón tecnológico” que significa un retroceso en el ya exiguo avance que había en esta materia.
+
+¿Un enfrentamiento notarios versus la Corte? No. Más bien notarios versus notarios. Porque la resolución de la Corte nace a raíz de una denuncia de la propia Asociación de Notarios, que no tuvo reparos en llamar al orden a quienes tuvieron la osadía de innovar.
+
+El fallo, además de insólito, va en la direción opuesta de un informe sobre la industria de notarios de la Fiscalía Nacional Económica, que señala que con uso de tecnología podrían reducirse costos y tiempo en un 95%.
+
+Con todo, llama la atención la obstinación con la presencialidad, considerando que según el mismo informe, un 82% de los usuarios declara no haber visto al notario al realizar sus trámites. Y más aún cuando la propia resolución de la Corte fue firmada electrónicamente.
+
+{{< newsletter_signup >}}
+
+## **Acciones tecnológicas suben ayudadas por SoftBank**
 
 > ###### por Omar Larré
 
@@ -44,27 +65,10 @@ De ahí que algunos de los _traders_ que habían estado fuertemente emocionados 
 
 Pese a que las ganancias para SoftBank por esta operación podrían resultar superiores a 4 mil millones de dólares, este lunes 7 de septiembre la acción de SoftBank cayó un 7,2% en Tokio, producto de las dudas de si este cambio en dirección a la especulación bursátil tiene sentido o no para la compañía. Según un comunicado de SoftBank, esta operación financiera ya estaría casi completada, así que por el momento ya no hay más ruido por el lado de SoftBank.
 
-### **Corte ordena a notarios de Santiago a no usar sistemas tecnológicos**
 
-##### por Sebastián Ovalle
+## **Alemania culpa a Rusia del envenenamiento de Nalvany y anuncia “todo tipo“ de sanciones**
 
-Aún en tiempos de confinamiento sería una hazaña encontrar a alguien feliz de ir a “hacer un trámite” a una notaría. Convengamos que no es una industria que destaque por la experiencia del usuario.
-
-Pero hay excepciones. La Décima Notaría de Santiago de Valeria Ronchera y otras que han seguido su ejemplo, incorporan tecnología en sus procedimientos y permiten hacer trámites online gracias a herramientas como firma electrónica avanzada y biometría facial.
-
-“_Por fin los notarios optimizan sus procesos y nos hacen la vida más fácil_” se podría pensar. Pues permítanme moderar sus expectativas.
-
-Porque la Corte de Apelaciones de Santiago ordenó a los notarios abstenerse de usar sistemas computacionales y sujetarse únicamente a lo dispuesto en el Código Orgánico de Tribunales (de 1943). Básicamente un “apagón tecnológico” que significa un retroceso en el ya exiguo avance que había en esta materia.
-
-¿Un enfrentamiento notarios versus la Corte? No. Más bien notarios versus notarios. Porque la resolución de la Corte nace a raíz de una denuncia de la propia Asociación de Notarios, que no tuvo reparos en llamar al orden a quienes tuvieron la osadía de innovar.
-
-El fallo, además de insólito, va en la direción opuesta de un informe sobre la industria de notarios de la Fiscalía Nacional Económica, que señala que con uso de tecnología podrían reducirse costos y tiempo en un 95%.
-
-Con todo, llama la atención la obstinación con la presencialidad, considerando que según el mismo informe, un 82% de los usuarios declara no haber visto al notario al realizar sus trámites. Y más aún cuando la propia resolución de la Corte fue firmada electrónicamente.
-
-### Alemania culpa a Rusia del envenenamiento de Nalvany y anuncia “todo tipo“ de sanciones
-
-##### por Francesca Finaldi
+> ###### por Francesca Finaldi
 
 Envenenaron al principal opositor de Vladimir Putin y esta semana la trama tuvo un vuelco interesante: Alemania, que preside la Unión Europea, culpó a Rusia del envenenamiento y anunció “todo tipo“ de sanciones.
 
@@ -97,9 +101,9 @@ Por otro lado, y si se comprueba que Rusia estuvo detrás de esto, hay dos opcio
 
 Como si le faltaran cosas a esta teleserie, este fin de semana Nalvany salió del coma inducido y empezó su recuperación. Ojalá que se recupere pronto para que escuchemos lo que tiene que decir 🍿
 
-### Panorama para los carretes en Zoom: ver hongos 3D
+## Panorama para los carretes en Zoom: ver hongos 3D
 
-##### por Cata Fuenzalida
+> ###### por Cata Fuenzalida
 
 En Chile existe El Museo del Hongo, un _museo no convencional dedicado a resignificar el Reino Fungi, creando experiencias inmersivas que mezclan arte y ciencia_.
 
