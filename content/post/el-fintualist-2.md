@@ -4,13 +4,13 @@ author = "Francesca Finaldi"
 categories = ["noticias"]
 date = 2020-09-03T20:58:19Z
 description = "Para invertir mejor tu tiempo."
-hide = true
+hide = false
 image = "/uploads/2020-09-03/frame-1.png"
 title = "El Fintualist"
 url = "/fintualist-2"
 
 +++
-### Acciones tecnológicas suben ayudadas por SoftBank
+#### Acciones tecnológicas suben ayudadas por SoftBank
 ##### por Omar Larré
 
 Todos los dardos apuntaban a que los inversionistas pequeños, no-profesionales, desde sus casas, con pasión desatada y desenfreno irracional habrían sido los principales compradores que generaron —lo que algunos llamaron— una pequeña “burbuja” en torno a las acciones de empresas tecnológicas tales como Amazon, Tesla, Apple, Netflix, Microsoft y Facebook. Todo esto ayudado por la masificación de aplicaciones de compra y venta de acciones tales como Robinhood.
@@ -45,7 +45,7 @@ Pese a que las ganancias para SoftBank por esta operación podrían resultar sup
 
 ### **Corte ordena a notarios de Santiago a no usar sistemas tecnológicos**
 
-##### por Sebastián Orellana
+##### por Sebastián Ovalle
 
 Aún en tiempos de confinamiento sería una hazaña encontrar a alguien feliz de ir a “hacer un trámite” a una notaría. Convengamos que no es una industria que destaque por la experiencia del usuario.
 
