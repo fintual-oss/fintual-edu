@@ -10,23 +10,11 @@ title = "El Fintualist"
 url = "/fintualist-2"
 
 +++
-Cada vez tenemos menos tiempo para ver noticias. Y para encontrar una noticia interesante mucho menos.
+### Acciones tecnológicas suben ayudadas por SoftBank 
 
-Así que se nos ocurrió crear El Fintualist.
+##### por Omar Larré
 
-Todas las semanas te vamos a contar noticias interesantes, o al menos entretenidas, en un formato simple y fácil de digerir.
-
-La idea es ahorrarte ese tiempo de buscar noticias que valgan la pena para que puedas invertir mejor tu tiempo.
-
-#### Los distintos formatos de El Fintualist:
-
-1. Si sólo tienes 3-4 minutos, definitivamente el video que subirá [@fabriziocopano](https://www.instagram.com/fabriziocopano/channel/?hl=es) todos los miércoles a su Instagram.
-2. Si la copucha es lo tuyo, escucha la interna de la reunión de pauta en la que discutimos los temas. Nos llamamos [El Fintualist](https://open.spotify.com/show/4KTk8PdwRlWkm0D5DGs0Ke?si=J3sIq4F3SV-WMURcOnt2Gg) en Spotify.
-3. Si quedaste con gusto a poco y quieres leer más, puedes leer el resumen de cada noticia más abajo.
-
-### Acciones tecnológicas suben ayudadas por SoftBank, by Omar
-
-Los dardos apuntaban a que los inversionistas pequeños, no-profesionales, desde sus casas, con pasión desatada y desenfreno irracional habrían sido los principales compradores que generaron —lo que algunos llamaron— una pequeña “burbuja” en torno a las acciones de empresas tecnológicas tales como Amazon, Tesla, Apple, Netflix, Microsoft y Facebook. Todo esto ayudado por la masificación de aplicaciones de compra y venta de acciones tales como Robinhood.
+Todos los dardos apuntaban a que los inversionistas pequeños, no-profesionales, desde sus casas, con pasión desatada y desenfreno irracional habrían sido los principales compradores que generaron —lo que algunos llamaron— una pequeña “burbuja” en torno a las acciones de empresas tecnológicas tales como Amazon, Tesla, Apple, Netflix, Microsoft y Facebook. Todo esto ayudado por la masificación de aplicaciones de compra y venta de acciones tales como Robinhood.
 
 Pero hay alguien más a quien apuntar y no es precisamente un inversionista pequeño.
 
@@ -56,7 +44,9 @@ De ahí que algunos de los _traders_ que habían estado fuertemente emocionados 
 
 Pese a que las ganancias para SoftBank por esta operación podrían resultar superiores a 4 mil millones de dólares, este lunes 7 de septiembre la acción de SoftBank cayó un 7,2% en Tokio, producto de las dudas de si este cambio en dirección a la especulación bursátil tiene sentido o no para la compañía. Según un comunicado de SoftBank, esta operación financiera ya estaría casi completada, así que por el momento ya no hay más ruido por el lado de SoftBank.
 
-### **Corte ordena a notarios de Santiago a no usar sistemas tecnológicos, by Sebastián**
+### **Corte ordena a notarios de Santiago a no usar sistemas tecnológicos**
+
+##### por Sebastián Orellana
 
 Aún en tiempos de confinamiento sería una hazaña encontrar a alguien feliz de ir a “hacer un trámite” a una notaría. Convengamos que no es una industria que destaque por la experiencia del usuario.
 
@@ -72,7 +62,9 @@ El fallo, además de insólito, va en la direción opuesta de un informe sobre l
 
 Con todo, llama la atención la obstinación con la presencialidad, considerando que según el mismo informe, un 82% de los usuarios declara no haber visto al notario al realizar sus trámites. Y más aún cuando la propia resolución de la Corte fue firmada electrónicamente.
 
-### Alemania culpa a Rusia del envenenamiento de Nalvany y anuncia “todo tipo“ de sanciones, by Francesca
+### Alemania culpa a Rusia del envenenamiento de Nalvany y anuncia “todo tipo“ de sanciones
+
+##### por Francesca Finaldi
 
 Envenenaron al principal opositor de Vladimir Putin y esta semana la trama tuvo un vuelco interesante: Alemania, que preside la Unión Europea, culpó a Rusia del envenenamiento y anunció “todo tipo“ de sanciones.
 
@@ -105,7 +97,9 @@ Por otro lado, y si se comprueba que Rusia estuvo detrás de esto, hay dos opcio
 
 Como si le faltaran cosas a esta teleserie, este fin de semana Nalvany salió del coma inducido y empezó su recuperación. Ojalá que se recupere pronto para que escuchemos lo que tiene que decir 🍿
 
-### Panorama para los carretes en Zoom: ver hongos 3D, by Cata
+### Panorama para los carretes en Zoom: ver hongos 3D
+
+##### por Cata Fuenzalida
 
 En Chile existe El Museo del Hongo, un _museo no convencional dedicado a resignificar el Reino Fungi, creando experiencias inmersivas que mezclan arte y ciencia_.
 
