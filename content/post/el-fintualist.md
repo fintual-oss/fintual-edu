@@ -30,7 +30,7 @@ Los dardos apuntaban a que los inversionistas pequeños, no-profesionales, desde
 
 Pero hay alguien más a quien apuntar y no es precisamente un inversionista pequeño.
 
-![El fundador de SoftBank, Masayoshi Son. Fuente: WSJ.](/uploads/2020-09-09/softbankk.png)_El fundador de SoftBank, Masayoshi Son. Fuente: WSJ._
+<div style="text-align:center"> <figure> <img src="/uploads/2020-09-09/softbankk.png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>El fundador de SoftBank, Masayoshi Son. Fuente: WSJ.</i></figcaption> </figure> </div>
 
 Masayoshi Son, con una fortuna personal de 30 mil millones de dólares, es la segunda persona más rica de Japón. Partió su carrera creando uno de los primeros traductores electrónicos, que vendió a Sharp Corporation, y luego importando máquinas usadas de videojuegos a Estados Unidos desde Japón. En 1995 invirtió en Yahoo!, y en 1999 invirtió en el actual gigante chino Alibaba, una de las mejores inversiones de su carrera.
 
@@ -44,15 +44,15 @@ Según análisis posteriores, uno de los instrumentos que habrían empujado la s
 
 Y efectivamente, en Estados Unidos el volumen de opciones compradas subió a más del doble que el año anterior, con nocionales (cantidad de acciones comprometidas en el contrato de la opción) aumentando casi a más de 10 veces respecto de un año normal.
 
-![Índice S&P500 y el nocional de opciones call en miles de millones de dólares. Fuente: SentimenTrader.](/uploads/2020-09-09/s-psmalltradercall.png)_Índice S&P500 y el nocional de opciones call en miles de millones de dólares. Fuente: SentimenTrader._
+<div style="text-align:center"> <figure> <img src="/uploads/2020-09-09/s-psmalltradercall.png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Índice S&P 500 y el nocional de opciones call en miles de millones de dólares. Fuente: SentimenTrader.</i></figcaption> </figure> </div>
 
 Sin embargo, resultó ser que no sólo inversionistas pequeños estaban detrás de este volumen gigantesco de compra de opciones. También estaba el gigante japonés SoftBank.
 
-![Incremento porcentual de opciones call vigentes para Amazon, Netflix y Microsoft. Fuente: Bloomberg.](/uploads/2020-09-09/softbankeffect.png)_Incremento porcentual de opciones call vigentes para Amazon, Netflix y Microsoft. Fuente: Bloomberg._
+<div style="text-align:center"> <figure> <img src="/uploads/2020-09-09/softbankeffect.png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Incremento porcentual de opciones call vigentes para Amazon, Netflix y Microsoft. Fuente: Bloomberg.</i></figcaption> </figure> </div>
 
 De ahí que algunos de los _traders_ que habían estado fuertemente emocionados por las rápidas ganancias que habían logrado con sus apuestas por el Nasdaq se sintieran interpretados por este meme:
 
-![](/uploads/2020-09-09/meme-softbank.png)
+<div style="text-align:center"> <figure> <img src="/uploads/2020-09-09/meme-softbank.png"></figure> </div>
 
 Pese a que las ganancias para SoftBank por esta operación podrían resultar superiores a 4 mil millones de dólares, este lunes 7 de septiembre la acción de SoftBank cayó un 7,2% en Tokio, producto de las dudas de si este cambio en dirección a la especulación bursátil tiene sentido o no para la compañía. Según un comunicado de SoftBank, esta operación financiera ya estaría casi completada, así que por el momento ya no hay más ruido por el lado de SoftBank.
 
