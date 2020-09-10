@@ -58,7 +58,7 @@ Sin embargo, resultó ser que no sólo inversionistas pequeños estaban detrás 
 
 <div style="text-align:center"> <figure> <img src="/uploads/2020-09-09/softbankeffect.png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Incremento porcentual de opciones call vigentes para Amazon, Netflix y Microsoft. Fuente: Bloomberg.</i></figcaption> </figure> </div>
 
-De ahí que algunos de los _traders_ que habían estado fuertemente emocionados por las rápidas ganancias que habían logrado con sus apuestas por el Nasdaq se sintieran interpretados por este meme:
+De ahí que algunos de los traders que habían estado fuertemente emocionados por las rápidas ganancias que habían logrado con sus apuestas por el Nasdaq se sintieran interpretados por este meme:
 
 <div style="text-align:center"> <figure> <img src="/uploads/2020-09-09/meme-softbank.png"></figure> </div>
 
