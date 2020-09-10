@@ -4,7 +4,7 @@ author = "Francesca Finaldi"
 categories = ["noticias"]
 date = 2020-09-03T20:58:19Z
 description = "Para invertir mejor tu tiempo."
-hide = false
+hide = true
 image = "/uploads/2020-09-03/frame-1.png"
 title = "El Fintualist"
 url = "/fintualist-2"
@@ -88,7 +88,6 @@ Esta semana el ministro de RREE de Alemania, Heiko Maas, dijo que existe “much
 
 <div style="text-align:center"> <figure> <img src="/uploads/2020-09-09/novichok-bbc.png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Así actúan los agentes neurotóxicos como el Novichok. Fuente: BBC</i></figcaption> </figure> </div>
 
-
 > “La sustancia mortal con la que Navalny fue envenenado se encontró en el pasado en posesión de las autoridades rusas. Sólo un pequeño número de personas tiene acceso al Novichok y ese veneno neurotóxico que ya fue utilizado por los servicios rusos para el ataque contra el exagente ruso Serguéi Skripal“
 
 Heiko Maas, ministro de RREE de Alemania.
@@ -115,5 +114,3 @@ Y la recomendación de esta semana es la exposición virtual “A Fungus Garden�
 La exposición incluye un tour 360º, videos artísticos y modelos 3D que permiten conocer el mundo invisible de los hongos. Y, lo que es más curioso, entender por qué resultan esenciales para la vida como la conocemos.
 
 Las seis obras están en la sala virtual [“Local Fungi that look like Human body parts”](https://keplersgardens.net/P5usrzq/a-fungus-garden):
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a0f3829f-65f1-4c8a-8d1c-03ec077ef903/Screen_Shot_2020-09-09_at_19.22.58.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a0f3829f-65f1-4c8a-8d1c-03ec077ef903/Screen_Shot_2020-09-09_at_19.22.58.png)
