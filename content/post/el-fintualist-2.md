@@ -18,7 +18,7 @@ Aún en tiempos de confinamiento sería una hazaña encontrar a alguien feliz de
 
 Pero hay excepciones. La Décima Notaría de Santiago de Valeria Ronchera y otras que han seguido su ejemplo, incorporan tecnología en sus procedimientos y permiten hacer trámites online gracias a herramientas como firma electrónica avanzada y biometría facial.
 
-“_Por fin los notarios optimizan sus procesos y nos hacen la vida más fácil_” se podría pensar. Pues permítanme moderar sus expectativas.
+“Por fin los notarios optimizan sus procesos y nos hacen la vida más fácil” se podría pensar. Pues permítanme moderar sus expectativas.
 
 Porque la Corte de Apelaciones de Santiago ordenó a los notarios abstenerse de usar sistemas computacionales y sujetarse únicamente a lo dispuesto en el Código Orgánico de Tribunales (de 1943). Básicamente un “apagón tecnológico” que significa un retroceso en el ya exiguo avance que había en esta materia.
 
