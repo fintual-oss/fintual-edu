@@ -10,7 +10,6 @@ title = "El Fintualist"
 url = "/fintualist-2"
 
 +++
-
 ## **Corte ordena a notarios de Santiago a no usar sistemas tecnológicos**
 
 > ###### por Sebastián Ovalle
@@ -65,7 +64,6 @@ De ahí que algunos de los _traders_ que habían estado fuertemente emocionados 
 
 Pese a que las ganancias para SoftBank por esta operación podrían resultar superiores a 4 mil millones de dólares, este lunes 7 de septiembre la acción de SoftBank cayó un 7,2% en Tokio, producto de las dudas de si este cambio en dirección a la especulación bursátil tiene sentido o no para la compañía. Según un comunicado de SoftBank, esta operación financiera ya estaría casi completada, así que por el momento ya no hay más ruido por el lado de SoftBank.
 
-
 ## **Alemania culpa a Rusia del envenenamiento de Nalvany y anuncia “todo tipo“ de sanciones**
 
 > ###### por Francesca Finaldi
@@ -94,7 +92,7 @@ Rusia niega las acusaciones y denuncia “ataques infundados“ por parte del go
 
 Algo importante a considerar en esta tensión entre Rusia y Alemania es el Nord Stream 2, el polémico gasoducto que transportará gas natural desde Rusia hasta Alemania. Con esto Alemania tendría garantizados unos 55.000 millones de metros cúbicos de gas ruso barato al año. Pero para concretarlo probablemente Merkel necesite estar en buenos términos con Putin.
 
-Por otro lado, y si se comprueba que Rusia estuvo detrás de esto, hay dos opciones. Y ambas malas dejan mal a Putin:
+Por otro lado, y si se comprueba que Rusia estuvo detrás de esto, hay dos opciones. Y ambas dejan mal a Putin:
 
 1. Putin no sabía, lo que implica que no estaría al tanto de lo que pasa al interior de su país. Mal.
 2. Putin estuvo detrás del envenenamiento de su principal opositor. Aún peor.
