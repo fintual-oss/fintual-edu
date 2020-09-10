@@ -117,6 +117,4 @@ Las seis obras están en la sala virtual [“Local Fungi that look like Human bo
 
 ![](/uploads/2020-09-10/honguitos1.png)
 
-![](/uploads/2020-09-10/honguitos2.png)
-
 {{< newsletter_signup >}}
