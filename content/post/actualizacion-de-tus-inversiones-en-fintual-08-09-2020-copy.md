@@ -2,7 +2,7 @@
 aliases = []
 author = "Stella Melaragno"
 categories = ["noticias"]
-date = 2020-09-08T22:43:07Z
+date = 2020-09-10T22:43:07Z
 description = "Explicación sobre los movimientos de mercado."
 draft = true
 hide = true
