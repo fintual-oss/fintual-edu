@@ -10,8 +10,9 @@ title = "El Fintualist"
 url = "/fintualist-2"
 
 +++
-#### Acciones tecnológicas suben ayudadas por SoftBank
-##### por Omar Larré
+## Acciones tecnológicas suben ayudadas por SoftBank
+
+> ###### por Omar Larré
 
 Todos los dardos apuntaban a que los inversionistas pequeños, no-profesionales, desde sus casas, con pasión desatada y desenfreno irracional habrían sido los principales compradores que generaron —lo que algunos llamaron— una pequeña “burbuja” en torno a las acciones de empresas tecnológicas tales como Amazon, Tesla, Apple, Netflix, Microsoft y Facebook. Todo esto ayudado por la masificación de aplicaciones de compra y venta de acciones tales como Robinhood.
 
