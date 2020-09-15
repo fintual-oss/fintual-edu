@@ -27,7 +27,7 @@ Pero no basta con solo acumular dinero en tu cuenta bancaria, sino invertirlo.
 
 De hecho, si en tu trabajo estás afiliado al Seguro Social (IMSS) y tienes lo que llaman “prestaciones de ley”, ya has estado invirtiendo ahorros para tu retiro con aportaciones mensuales a tu Afore.
 
-<div style="text-align:center"> <figure> <img src="/uploads/fintual-1.jpg"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Ilustración de [Soy Raulitoo](https://www.instagram.com/soyraulitoo/)</i></figcaption> </figure> </div>
+<div style="text-align:center"> <figure> <img src="/uploads/fintual-1.jpg"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Ilustración de Soy Raulito</i></figcaption> </figure> </div>
 
 #### **¿Cuáles aportaciones?**
 
