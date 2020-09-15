@@ -106,7 +106,9 @@ Existen varias formas para hacerlo, incluso en un OXXO.
 
 #### **¿Y si quiero tener una pensión más alta?**
 
-Si revisas la [Calculadora de Ahorro y Retiro](https://www.gob.mx/consar/acciones-y-programas/calculadoras-de-ahorro-y-retiro) también puedes calcular lo que necesitas ahorrar para tener la pensión que te gustaría. Aquí pusimos un ejemplo de una jubilación de $12,300 pesos mensuales.
+Si revisas la [Calculadora de Ahorro y Retiro](https://www.gob.mx/consar/acciones-y-programas/calculadoras-de-ahorro-y-retiro) también puedes calcular lo que necesitas ahorrar para tener la pensión que te gustaría. 
+
+Aquí pusimos un ejemplo de una jubilación de $12,300 pesos mensuales:
 
 <div style="text-align:center"> <figure> <img src="/uploads/captura-de-pantalla-2020-09-15-a-la-s-12-03-20.png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Fuente: Consar</i></figcaption> </figure> </div>
 
