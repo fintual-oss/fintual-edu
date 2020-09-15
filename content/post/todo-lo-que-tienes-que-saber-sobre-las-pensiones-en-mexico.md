@@ -27,7 +27,7 @@ Pero no basta con solo acumular dinero en tu cuenta bancaria, sino invertirlo.
 
 De hecho, si en tu trabajo estás afiliado al Seguro Social (IMSS) y tienes lo que llaman “prestaciones de ley”, ya has estado invirtiendo ahorros para tu retiro con aportaciones mensuales a tu Afore.
 
-<div style="text-align:center"> <figure> <img src="/uploads/fintual-1.jpg"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Ilustración de Soy Raulitoo</i></figcaption> </figure> </div>
+<div style="text-align:center"> <figure> <img src="/uploads/fintual-1.jpg"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Ilustración de [Soy Raulitoo](https://www.instagram.com/soyraulitoo/)</i></figcaption> </figure> </div>
 
 #### **¿Cuáles aportaciones?**
 
@@ -106,7 +106,7 @@ Existen varias formas para hacerlo, incluso en un OXXO.
 
 #### **¿Y si quiero tener una pensión más alta?**
 
-Si revisas la [Calculadora de Ahorro y Retiro](https://www.gob.mx/consar/acciones-y-programas/calculadoras-de-ahorro-y-retiro) también puedes calcular lo que necesitas ahorrar para tener la pensión que te gustaría. 
+Si revisas la [Calculadora de Ahorro y Retiro](https://www.gob.mx/consar/acciones-y-programas/calculadoras-de-ahorro-y-retiro) también puedes calcular lo que necesitas ahorrar para tener la pensión que te gustaría.
 
 Aquí pusimos un ejemplo de una jubilación de $12,300 pesos mensuales:
 
@@ -165,8 +165,6 @@ La reforma se centra por completo en las Afores pero no es la única forma para 
 Existen otros mecanismos que pueden sustituir o complementar lo que has ahorrado por ley en tu Afore.
 
 Desde fondos privados de pensiones, seguros, planes personales de retiro, cajas de ahorro hasta fintechs como [Fintual](https://fintu.al/HSRu).
-
-
 
 {{% prueba_fintual
 utmcontent="todo_sobre_pensiones"
