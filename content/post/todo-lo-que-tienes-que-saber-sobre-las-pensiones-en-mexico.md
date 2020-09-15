@@ -4,7 +4,6 @@ author = "Victor Hugo Flores"
 categories = ["educación financiera"]
 date = 2020-09-14T18:33:37Z
 description = "Te respondemos las principales preguntas sobre la reforma de pensiones en México, y cómo funcionan las AFORES. "
-draft = true
 hide = false
 image = "/uploads/fintual-1.jpg"
 title = "Todo lo que tienes que saber sobre las pensiones en México"
