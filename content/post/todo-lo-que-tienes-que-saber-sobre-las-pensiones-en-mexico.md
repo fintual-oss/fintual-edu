@@ -6,7 +6,7 @@ date = 2020-09-14T18:33:37Z
 description = "Te respondemos las principales preguntas sobre la reforma de pensiones en México, y cómo funcionan las AFORES. "
 draft = true
 hide = false
-image = "/uploads/image-from-ios-1.jpg"
+image = "/uploads/fintual-1.jpg"
 title = "Todo lo que tienes que saber sobre las pensiones en México"
 url = "/todo-sobre-las-afores"
 
@@ -26,6 +26,8 @@ Así que hay que ahorrar.
 Pero no basta con solo acumular dinero en tu cuenta bancaria, sino invertirlo.
 
 De hecho, si en tu trabajo estás afiliado al Seguro Social (IMSS) y tienes lo que llaman “prestaciones de ley”, ya has estado invirtiendo ahorros para tu retiro con aportaciones mensuales a tu Afore.
+
+<div style="text-align:center"> <figure> <img src="/uploads/fintual-1.jpg"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Ilustración de Soy Raulitoo</i></figcaption> </figure> </div>
 
 #### **¿Cuáles aportaciones?**
 
@@ -120,7 +122,7 @@ Propone solucionar lo siguiente:
 
 Con los siguientes cambios:
 
-1. **Del 6.5 al 15%**
+**Del 6.5 al 15%**
 
 La empresa para la que trabajas aportaría la diferencia para que en lugar de aportar 6.5%, aporte 15% de tu salario, mientras tú sigues aportando solo 1.25%.
 
@@ -128,13 +130,13 @@ Y si tu eres jefe, ¡no te preocupes! Ese aumento sería poco a poco en los pró
 
 Lo que pondrá el gobierno dependerá de tu sueldo. Su aportación actual es del 0.225% pero podría aumentar en forma de cuotas sociales (o aportaciones extras) a quienes tengan un salario muy bajo.
 
-1. **De 1,250 a 750 semanas**
+**De 1,250 a 750 semanas**
 
 Solicitar como mínimo 1,250 semanas (equivalentes a 25 años) para jubilarse le cierra la puerta a muchos trabajadores. Entre ellos a miles de _freelancers_, comerciantes y varias mujeres que interrumpen su trayectoria laboral en el llamado esquema formal.
 
 La propuesta propone un mínimo de semanas cotizadas de 750 (yay!), que equivale a 15 años, con el objetivo de darle la posibilidad de jubilarse a más personas. Y poco a poco el mínimo irá aumentando hasta alcanzar las 1,000 semanas cotizadas.
 
-1. **De vivir con el 30% de tu salario, al 43 por ciento.**
+**De vivir con el 30% de tu salario, al 43 por ciento.**
 
 Actualmente todos los trabajadores formales tienen derecho a una pensión mínima garantizada de $3,289 MXN (80% del salario mínimo). Con la reforma iría aumentando, dependiendo de la edad, salario y semanas cotizadas, a un promedio de $4,345 MXN.
 
@@ -142,7 +144,7 @@ Esto beneficiaría principalmente a personas con pocas semanas de cotización y 
 
 También se propone aumentar el ingreso de los jubilados en proporción a su último sueldo. Se estimaba que la gente se retiraría con un rango entre 25 y 30%; ahora con los cambios en las aportaciones subirá hasta el 36 y 43 por ciento.
 
-1. **Apoyo a los que no tienen otra opción**
+**Apoyo a los que no tienen otra opción**
 
 La pensión que se espera como proporción del último sueldo es más alta para los trabajadores con ingresos menores, tanto por el incremento del ahorro como por el aumento en la pensión garantizada.
 
@@ -150,7 +152,7 @@ Por ejemplo, un trabajador que tiene hoy ingresos de hasta dos salarios mínimos
 
 A ese porcentaje de sueldo cuando nos retiramos, se le llama “tasa de reemplazo”. Con la reforma, entre más alto sea el último salario la tasa de reemplazo se irá reduciendo hasta niveles del 33 por ciento.
 
-1. **Menos comisión**
+**Menos comisión**
 
 Actualmente las Afores cobran 0.92% de tu ahorro, cada año. Con la reforma se busca disminuir este costo a 0.70 por ciento.
 
