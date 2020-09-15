@@ -43,12 +43,9 @@ Sí. Son empresas privadas.
 
 Existen solo diez, y todas te cobran un porcentaje anual de lo que ahorras. En promedio tienen una cuota de 0.92%.
 
-<div style="text-align:center"> <figure> <img src="/uploads/comisiones-afore.png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Datos publicados por Consar</i></figcaption> </figure> </div>
+<div style="text-align:center"> <figure> <img src="/uploads/comisiones-afore.png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Datos publicados por Consar</i></figcaption> </figure></div>
 
-![](/uploads/comisiones-afore.png)
-
-####   
-**¿Y no es mejor tenerlo bajo el colchón todos estos años?**
+#### **¿Y no es mejor tenerlo bajo el colchón todos estos años?**
 
 No. Tu dinero pierde valor cada año debido a la inflación ([acá](https://discovery.fintual.mx/topic/que-es-inflacion-0f9c2cd9-a36d-4553-a9ca-30046242c1c2) te explicamos qué es).
 
@@ -97,7 +94,7 @@ Para hacer esa estimación vas a necesitar los siguientes datos:
 
 Después de llenar esos datos vas a poder ver más o menos cuánto vas a ganar cuando te retires. También puedes conocer la suma de tus aportaciones futuras (de acuerdo a tu sueldo actual) y los rendimientos que generará ese ahorro.
 
-![](https://lh5.googleusercontent.com/6DQxNBQMJecqFk0oN66mzndB2pwd_jgpnzpob1KCFOktauOGAeOBqWKo_7yXgRIoRQFISI75RapKZAc7wJ9zFdm4ZvKKhSn2SofxA06DZcTjWYutDn4aIW4LjmudJyV-I16svUH6 =624x329)
+<div style="text-align:center"> <figure> <img src="/uploads/calculo-mi-pension.png"></figure> </div>
 
 #### **¿Eso es todo?**
 
@@ -109,7 +106,7 @@ Existen varias formas para hacerlo, incluso en un OXXO.
 
 Si revisas la [Calculadora de Ahorro y Retiro](https://www.gob.mx/consar/acciones-y-programas/calculadoras-de-ahorro-y-retiro) también puedes calcular lo que necesitas ahorrar para tener la pensión que te gustaría. Aquí pusimos un ejemplo de una jubilación de $12,300 pesos mensuales.
 
-![](https://lh3.googleusercontent.com/sqaZfRRJt_M1Dsu0DmZ41o6-uF5da4g1u8tfQoVY0_RwCCe1kp7oFI2jJQvWRdTvsVOf8VmOYUS5uBFMqZyXsvsjAeXMIEJ3srozk1q2mgWqkYZafMCAiAi0kE5Rjt9RDSZfnj-S =509x369.41742081447967)
+<div style="text-align:center"> <figure> <img src="/uploads/captura-de-pantalla-2020-09-15-a-la-s-12-03-20.png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Fuente: Consar</i></figcaption> </figure> </div>
 
 #### **Si ya tenemos ese sistema, ¿qué queremos cambiar?**
 
@@ -117,7 +114,7 @@ La reforma busca que los mexicanos no seamos pobres cuando lleguemos a viejos (o
 
 Propone solucionar lo siguiente:
 
-* Ahorrando solo el 6.5% vamos a tener una pensión muy baja. 
+* Ahorrando solo el 6.5% vamos a tener una pensión muy baja.
 * El esquema como está ahora deja de lado a muchos que no trabajan formalmente ni tienen prestaciones de ley por 25 años.
 * La comisión que cobran las Afores no es del todo barata en comparación a otros sistemas similares en el mundo.
 
@@ -131,13 +128,13 @@ Y si tu eres jefe, ¡no te preocupes! Ese aumento sería poco a poco en los pró
 
 Lo que pondrá el gobierno dependerá de tu sueldo. Su aportación actual es del 0.225% pero podría aumentar en forma de cuotas sociales (o aportaciones extras) a quienes tengan un salario muy bajo.
 
-2. **De 1,250 a 750 semanas**
+1. **De 1,250 a 750 semanas**
 
 Solicitar como mínimo 1,250 semanas (equivalentes a 25 años) para jubilarse le cierra la puerta a muchos trabajadores. Entre ellos a miles de _freelancers_, comerciantes y varias mujeres que interrumpen su trayectoria laboral en el llamado esquema formal.
 
 La propuesta propone un mínimo de semanas cotizadas de 750 (yay!), que equivale a 15 años, con el objetivo de darle la posibilidad de jubilarse a más personas. Y poco a poco el mínimo irá aumentando hasta alcanzar las 1,000 semanas cotizadas.
 
-3. **De vivir con el 30% de tu salario, al 43 por ciento.**
+1. **De vivir con el 30% de tu salario, al 43 por ciento.**
 
 Actualmente todos los trabajadores formales tienen derecho a una pensión mínima garantizada de $3,289 MXN (80% del salario mínimo). Con la reforma iría aumentando, dependiendo de la edad, salario y semanas cotizadas, a un promedio de $4,345 MXN.
 
@@ -145,7 +142,7 @@ Esto beneficiaría principalmente a personas con pocas semanas de cotización y 
 
 También se propone aumentar el ingreso de los jubilados en proporción a su último sueldo. Se estimaba que la gente se retiraría con un rango entre 25 y 30%; ahora con los cambios en las aportaciones subirá hasta el 36 y 43 por ciento.
 
-4. **Apoyo a los que no tienen otra opción**
+1. **Apoyo a los que no tienen otra opción**
 
 La pensión que se espera como proporción del último sueldo es más alta para los trabajadores con ingresos menores, tanto por el incremento del ahorro como por el aumento en la pensión garantizada.
 
@@ -153,7 +150,7 @@ Por ejemplo, un trabajador que tiene hoy ingresos de hasta dos salarios mínimos
 
 A ese porcentaje de sueldo cuando nos retiramos, se le llama “tasa de reemplazo”. Con la reforma, entre más alto sea el último salario la tasa de reemplazo se irá reduciendo hasta niveles del 33 por ciento.
 
-5. **Menos comisión**
+1. **Menos comisión**
 
 Actualmente las Afores cobran 0.92% de tu ahorro, cada año. Con la reforma se busca disminuir este costo a 0.70 por ciento.
 
