@@ -29,6 +29,12 @@ De hecho, si en tu trabajo estás afiliado al Seguro Social (IMSS) y tienes lo q
 
 <div style="text-align:center"> <figure> <img src="/uploads/fintual-1.jpg"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Ilustración de Soy Raulito</i></figcaption> </figure> </div>
 
+<div style="text-align:center">
+<figure>
+<img src="/uploads/fintual-1.jpg">
+<figcaption style="display:block;text-align:center;font-size:.8rem"><i>Ilustración de <a target="_blank" href="https://www.instagram.com/soyraulitoo/">Soy Raulitoo</a></i></figcaption>
+</figure>
+</div>
 #### **¿Cuáles aportaciones?**
 
 Por ley, el gobierno, la empresa donde trabajas y tú aportan 6.5% de tu salario al sistema de pensiones y ese dinero es administrado por instituciones privadas llamadas Afores.
