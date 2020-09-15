@@ -164,6 +164,8 @@ Existen otros mecanismos que pueden sustituir o complementar lo que has ahorrado
 
 Desde fondos privados de pensiones, seguros, planes personales de retiro, cajas de ahorro hasta fintechs como [Fintual](https://fintu.al/HSRu).
 
+
+
 {{% prueba_fintual
 utmcontent="todo_sobre_pensiones"
 card_title="Prueba Fintual"
