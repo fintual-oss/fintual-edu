@@ -69,7 +69,7 @@ utmcontent="ahorrar_con_fintualmx"
 card_title="¿Te late Fintual?"
 card_button="Empezar" %}}
 
-Abre ya una cuenta
+Ábrete ya una cuenta.
 
 {{% /prueba_fintual %}}
 
