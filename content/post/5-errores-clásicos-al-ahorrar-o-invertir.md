@@ -101,6 +101,6 @@ utmcontent="errores_al_invertir"
 card_title="Llegamos a México"
 card_button="Regístrate" %}}
 
-Abre una cuenta
+Conócenos y sé de los primeros
 
 {{% /prueba_fintual %}}
