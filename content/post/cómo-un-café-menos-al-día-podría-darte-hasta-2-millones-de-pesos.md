@@ -36,6 +36,6 @@ Pronto lo haremos en México también, desde donde podrás depositar $60 diarios
 
 {{% prueba_fintual utmcontent="un-cafe-al-dia" card_title="Llegamos a México" card_button="Regístrate" %}}
 
-Abrimos nuestra lista de espera. ¡Déjanos tu mail y únete!
+Ya puedes hacerte una cuenta.
 
 {{% /prueba_fintual %}}
