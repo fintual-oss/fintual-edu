@@ -7,7 +7,7 @@ description = "Explicación sobre los movimientos de mercado."
 hide = true
 image = "/uploads/2020-08-28/cambios-fintual-2.png"
 title = "Actualización de tus inversiones en Fintual"
-url = "/actualizacion-de-tus-inversones-en-fintual"
+url = "/actualizacion-de-tus-inversiones-en-fintual"
 
 +++
 El mercado accionario está pasando por momentos volátiles. Luego de tres días consecutivos de bajas, y un alza ayer, el mercado cerró el jueves 10 de septiembre con un día negativo marcado por una caída en los principales índices del mundo.
