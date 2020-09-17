@@ -93,6 +93,6 @@ utmcontent="elegir_tu_afore"
 card_title="Únete a Fintual"
 card_button="Aquí!" %}}
 
-Regístrate a la lista de espera en México con solo un correo.
+Más inteligente que tener tu dinero en el banco.
 
 {{% /prueba_fintual %}}
