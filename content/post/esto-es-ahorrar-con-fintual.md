@@ -69,7 +69,7 @@ utmcontent="ahorrar_con_fintualmx"
 card_title="¿Te late Fintual?"
 card_button="Empezar" %}}
 
-Regístrate a nuestra lista de espera.
+Abre ya una cuenta
 
 {{% /prueba_fintual %}}
 
