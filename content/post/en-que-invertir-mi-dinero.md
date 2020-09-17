@@ -116,6 +116,6 @@ utmcontent="en_que_invertir"
 card_title="Fintual llega a México"
 card_button="Regístrame" %}}
 
-Sé uno de los primeros usuarios.
+Sé uno de los primeros.
 
 {{% /prueba_fintual %}}
