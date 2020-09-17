@@ -101,6 +101,6 @@ utmcontent="errores_al_invertir"
 card_title="Llegamos a México"
 card_button="Regístrate" %}}
 
-Abrimos nuestra lista de espera. ¡Déjanos tu mail y únete!
+Abre una cuenta
 
 {{% /prueba_fintual %}}
