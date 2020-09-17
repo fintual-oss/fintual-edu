@@ -6,7 +6,7 @@ date = 2020-09-10T22:43:07Z
 description = "Explicación sobre los movimientos de mercado."
 hide = true
 image = "/uploads/2020-08-28/cambios-fintual-2.png"
-title = "Actualización de tus inversiones en Fintual"
+title = "Actualización de tus inversiones en Fintual: 10/09/2020"
 url = "/actualizacion-de-tus-inversiones-en-fintual"
 
 +++
