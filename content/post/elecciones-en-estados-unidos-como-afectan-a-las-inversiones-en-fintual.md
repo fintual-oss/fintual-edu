@@ -2,7 +2,7 @@
 aliases = []
 author = "Stella Melaragno"
 categories = ["educación financiera"]
-date = 2020-08-13T16:34:27Z
+date = 2020-09-10T15:34:27Z
 description = "Un poquito de contexto sobre cómo se vienen estas elecciones y lo que hay que saber sobre el impacto que podría tener en los fondos"
 hide = false
 image = "/uploads/2020-08-14/elecciones-en-usa-min.png"
