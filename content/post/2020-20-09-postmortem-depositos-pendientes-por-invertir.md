@@ -2,12 +2,12 @@
 aliases = []
 author = "Daniel Martínez"
 categories = ["noticias"]
-date = 2020-08-05T21:54:39Z
+date = 2020-09-22T20:54:39Z
 description = "El martes 20 de septiembre se mostraron por error los depósitos por invertir. Acá el detalle del bug."
 hide = true
-image = "/uploads/2020-08-05/error.png"
-title = "2020-20-09: Postmortem depósitos pendientes por invertir"
-url = "/postmortem-2020-20-09"
+image = "/uploads/2020-09-03/logo-post.png"
+title = "2020-22-09: Postmortem depósitos pendientes por invertir"
+url = "/postmortem-2020-22-09"
 
 +++
 #### Summary
