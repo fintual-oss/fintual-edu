@@ -2,7 +2,7 @@
 aliases = []
 author = "Daniel Martínez"
 categories = ["noticias"]
-date = 2020-09-22T20:54:39Z
+date = 2020-09-21T20:54:39Z
 description = "El martes 20 de septiembre se mostraron por error los depósitos por invertir. Acá el detalle del bug."
 hide = true
 image = "/uploads/2020-09-03/logo-post.png"
