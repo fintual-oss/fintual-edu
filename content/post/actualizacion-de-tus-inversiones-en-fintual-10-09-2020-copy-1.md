@@ -10,11 +10,11 @@ title = "Actualización de tus inversiones en Fintual: 23/09/2020"
 url = "/actualizacion-de-tus-inversiones-en-fintual-23-septiembre"
 
 +++
-Este miércoles 23 fue una jornada de bajas del mercado accionario, en un mes de septiembre muy volátil o marcado por movimientos bruscos de precios. 
+Este miércoles 23 fue una jornada de bajas del mercado accionario, en un mes de septiembre muy volátil o marcado por movimientos bruscos de precios.
 
 El mercado global fue arrastrado principalmente por la baja de precios de acciones de empresas tecnológicas globales. Esto hizo caer el valor de los fondos en Fintual, en especial las estrategias más arriesgadas.
 
-Esta caída sucede en un contexto de incertidumbre sobre la segunda ola de contagios de covid-19 en Europa y la necesidad de más impulso fiscal por parte de las economías desarrolladas, en especial de Estados Unidos. 
+Esta caída sucede en un contexto de incertidumbre sobre la segunda ola de contagios de covid-19 en Europa y la necesidad de más impulso fiscal por parte de las economías desarrolladas, en especial de Estados Unidos.
 
 A esto último se agrega la incertidumbre sobre las elecciones presidenciales de Estados Unidos programadas para el 3 de noviembre. Puedes leer más sobre el impacto que tienen estas elecciones en los fondos de Fintual [acá](https://edu.fintual.cl/elecciones-usa-y-el-impacto-en-fintual/).
 
@@ -32,13 +32,12 @@ El índice S&P 500, que contiene las 500 acciones más importantes en Estados Un
 
 Otros activos, como el cobre y el oro, también sufrieron pérdidas considerables. En Chile, el IPSA cayó un -3,14%.
 
-###   
-¿Era predecible?
+### ¿Era predecible?
 
-Era razonable que ocurriese un aumento de volatilidad y ajuste de los precios en septiembre, pero no predecible. 
+Era razonable que ocurriese un aumento de volatilidad y ajuste de los precios en septiembre, pero no predecible.
 
 Es importante distinguir entre estas dos, ya que tratar de predecir el día y magnitud de una caída del mercado es similar a tratar de predecir un terremoto: mientras que es muy fácil decir que en Chile puede ocurrir luego un terremoto, no es fácil determinar ni la magnitud ni el día exacto de cuando suceda.
 
-En este caso, era razonable pensar que luego de 5 meses de buenos resultados de los precios de acciones, estos llegarían a valorizaciones que se debían reajustar. Es difícil saber si esto implique una corrección mayor. 
+En este caso, era razonable pensar que luego de 5 meses de buenos resultados de los precios de acciones, estos llegarían a valorizaciones que se debían reajustar. Es difícil saber si esto implique una corrección mayor.
 
 Con todo, vemos esta baja como un ajuste saludable de precios.
