@@ -7,7 +7,7 @@ description = "Explicación sobre los movimientos de mercado."
 hide = true
 image = "/uploads/2020-08-28/cambios-fintual-2.png"
 title = "Actualización de tus inversiones en Fintual: 23/09/2020"
-url = "/actualizacion-de-tus-inversiones-en-fintual"
+url = "/actualizacion-de-tus-inversiones-en-fintual-23-septiembre"
 
 +++
 Este miércoles 23 fue una jornada de bajas del mercado accionario, en un mes de septiembre muy volátil o marcado por movimientos bruscos de precios. 
