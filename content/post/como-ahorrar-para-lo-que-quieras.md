@@ -4,9 +4,8 @@ author = "Omar Larré"
 categories = ["educación financiera"]
 date = 2020-09-25T15:14:51Z
 description = "Hay algo que le pasa a nuestro dinero día a día sin darnos cuenta: se deprecia."
-draft = true
 hide = false
-image = "/uploads/business-2846221_1920.jpg"
+image = "/uploads/chanchito.png"
 title = "Cómo ahorrar para lo que quieras"
 url = "/como-ahorrar-para-lo-que-quieres"
 
