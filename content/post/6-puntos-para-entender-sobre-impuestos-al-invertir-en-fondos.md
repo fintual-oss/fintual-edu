@@ -3,10 +3,10 @@ aliases = []
 author = "Victor Hugo Flores"
 categories = ["educación financiera"]
 date = 2020-09-25T00:15:27Z
-description = ""
+description = "Todas las inversiones generar impuestos, pero los fondos de inversión tienen algunas ventajas fiscales."
 draft = true
 hide = false
-image = ""
+image = "/uploads/impuestos.jpg"
 title = "6 puntos para entender sobre impuestos al invertir en fondos"
 url = "/impuestos-en-fondos-de-inversion"
 
