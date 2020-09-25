@@ -13,7 +13,7 @@ url = "/como-ahorrar-para-lo-que-quieres"
 +++
 Ayer vi el comercial de un niño en Tailandia que ahorra en su alcancía (con forma de nave espacial) y me recordó a mí cuando era niño.
 
-<div style="text-align:center"> <figure> <img src="//uploads/cómo-ahorrar-6791.png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Casi yo en los 90's</i></figcaption> </figure> </div>
+<div style="text-align:center"> <figure> <img src="/uploads/cómo-ahorrar-6791.png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Casi yo en los 90's</i></figcaption> </figure> </div>
 
 Solía tener alcancías de barro en forma de _cochinito_ y cada vez que tenía ganas de ahorrar, metía mis monedas ahí.
 
