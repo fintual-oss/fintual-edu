@@ -13,11 +13,13 @@ url = "/como-ahorrar-para-lo-que-quieres"
 +++
 Ayer vi el comercial de un niño en Tailandia que ahorra en su alcancía (con forma de nave espacial) y me recordó a mí cuando era niño.
 
-<div style="text-align:center"> <figure> <img src="/uploads/cómo-ahorrar-6791.png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Casi yo en los 90's</i></figcaption> </figure> </div>
+<div style="text-align:center"> <figure> <img src="/uploads/captura-de-pantalla-2020-09-25-a-la-s-13-23-02.png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Casi yo en los 90's</i></figcaption> </figure> </div>
+
 
 Solía tener alcancías de barro en forma de _cochinito_ y cada vez que tenía ganas de ahorrar, metía mis monedas ahí.
 
-<div style="text-align:center"> <figure> <img src="/uploads/cómo-ahorrar-8768.jpg"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Tuve varias alcancías de cochinito así</i></figcaption> </figure> </div>
+<div style="text-align:center"> <figure> <img src="/uploads/captura-de-pantalla-2020-09-25-a-la-s-13-38-30.png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Tuve varias alcancías de cochinito así</i></figcaption> </figure> </div>
+
 
 Soñaba con hartas cosas: telescopios, consolas de videojuegos, incluso pensé en una moto (hasta el día de hoy no he avanzado con la moto).
 
