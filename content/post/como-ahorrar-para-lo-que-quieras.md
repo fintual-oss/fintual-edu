@@ -17,11 +17,12 @@ Ayer vi el comercial de un niño en Tailandia que ahorra en su alcancía (con fo
 
 Solía tener alcancías de barro en forma de _cochinito_ y cada vez que tenía ganas de ahorrar, metía mis monedas ahí.
 
-(IMAGEN)
+<div style="text-align:center"> <figure> <img src="/uploads/captura-de-pantalla-2020-09-25-a-la-s-13-23-02.png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Casi yo en los 90's</i></figcaption> </figure> </div>
 
-![Tuve varios chanchitos-alcancía de greda así. Made in Pomaire.](https://lh5.googleusercontent.com/HhbRKFcKZm3Yjm0UcwlbEQInkPbObf_32nQCk5FDCMwLsBrV7QpT8Xg-3tvAMLQstdJPixQr_n5U8OdAuyT93k0ZdH-P7vcRkFrSQGEFrvHkABxyhXtBqMnGthRZniJvaiPz0bhF =624x416)
 
-Soñaba con hartas cosas: telescopios, consolas de videojuegos, incluso pensé en una moto (hasta el día de hoy no pasa nada con la moto). Y tuve más o menos algo de determinación y lograba casi siempre llenar el _cochinito_ para después romperlo —con mucha pena por lo demás, porque me terminaba encariñando, especialmente los que venían pintados.
+Soñaba con hartas cosas: telescopios, consolas de videojuegos, incluso pensé en una moto (hasta el día de hoy no he avanzado con la moto).
+
+Y tuve más o menos algo de determinación, lograba casi siempre llenar el _cochinito_ para después romperlo —con mucha pena por lo demás, porque me terminaba encariñando, especialmente los que venían pintados.
 
 El niño de esta publicidad hace algo parecido. En vez de gastar su (poco) dinero en lo que hacían los demás niños, ahorra y sigue _soñando_.
 
