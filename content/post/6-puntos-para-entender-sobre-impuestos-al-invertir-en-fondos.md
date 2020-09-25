@@ -102,4 +102,6 @@ Ahorra desde $1 peso en fondos de inversión.
 
 Este post está hecho para **personas físicas**. No es igual para el caso de empresas, fundaciones, planes de retiro, asociaciones, municipios, etc. Tampoco incluye inversiones en Fibras, en acciones de empresas privadas, fondos en el extranjero, etc.
 
-No nos extrañaría que pienses que es muy enredado, porque efectivamente lo es, pero esperamos que te sea de ayuda para tener al menos una idea.
+Puede  que pienses que es muy enredado, porque efectivamente lo es, pero esperamos que te sea de ayuda para tener al menos una idea.
+
+No somos asesores fiscales, en ese sentido, este post es solo una guía de referencia, liberando a Fintual de cualquier responsabilidad.
