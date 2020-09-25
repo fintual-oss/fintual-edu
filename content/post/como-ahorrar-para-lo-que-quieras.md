@@ -3,7 +3,7 @@ aliases = []
 author = "Omar Larré"
 categories = ["educación financiera"]
 date = 2020-09-25T15:14:51Z
-description = "Hay algo que pasa con nuestro dinero día a día sin darnos cuenta: se deprecia."
+description = "Hay algo que le pasa a nuestro dinero día a día sin darnos cuenta: se deprecia."
 draft = true
 hide = false
 image = ""
@@ -25,7 +25,7 @@ Y tuve más o menos algo de determinación, lograba casi siempre llenar el _coch
 
 El niño de esta publicidad hace algo parecido. En vez de gastar su (poco) dinero en lo que hacían los demás niños, ahorra y sigue _soñando_.
 
-###### Pero
+##### Pero
 
 Si quieres ve el video antes de seguir:
 
@@ -45,7 +45,7 @@ Obviamente, hay muchas formas de invertir. Algunas le ganan en el largo plazo a 
 
 En Fintual te ayudamos a invertir con la idea de rentar más que la inflación, dándote acceso a fondos que tienen acciones de diversas empresas a bajas comisiones.
 
-##### Al niño del comercial le faltó Fintual
+Al niño del comercial le faltó Fintual
 
 Tampoco existía algo como Fintual hace 20 años, cuando yo era niño, pero hoy sí y es por eso que tengo prácticamente todos mis ahorros ahí.
 
