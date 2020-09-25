@@ -45,7 +45,7 @@ Obviamente, hay muchas formas de invertir. Algunas le ganan en el largo plazo a 
 
 En Fintual te ayudamos a invertir con la idea de rentar más que la inflación, dándote acceso a fondos que tienen acciones de diversas empresas a bajas comisiones.
 
-Al niño del comercial le faltó Fintual
+##### Al niño del comercial le faltó Fintual
 
 Tampoco existía algo como Fintual hace 20 años, cuando yo era niño, pero hoy sí y es por eso que tengo prácticamente todos mis ahorros ahí.
 
