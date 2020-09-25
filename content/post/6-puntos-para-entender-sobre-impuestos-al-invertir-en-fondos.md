@@ -79,7 +79,6 @@ Por ejemplo, cuando CETES Directo o una Cuenta Bancaria dicen que pagan un rendi
 
 <div style="text-align:center"> <figure> <img src="/uploads/captura-de-pantalla-2020-09-24-a-la-s-20-12-36.png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Cálculo estimado de rendimientos en CETES Directo</i></figcaption> </figure> </div>
 
-
 A ese porcentaje, habrá que quitarle la retención de impuestos de 1.45% (entonces, sería un rendimiento neto de 3.05%) y posteriormente hacer el cálculo de los impuestos definitivos.
 
 En ese caso, los fondos son al menos más transparentes fiscalmente.
@@ -93,9 +92,9 @@ En [Fintual ](https://fintu.al/99Un)no podemos asesorarte fiscalmente por restri
 {{% prueba_fintual
 utmcontent="impuestos_en_fondos"
 card_t_itle="¿Quieres probar?"
-card_button="Prueba Fintual" %}}
+card_button="Empieza aquí" %}}
 
-Empieza a ahorrar desde $1 peso en fondos de inversión.
+Ahorra desde $1 peso en fondos de inversión.
 
 {{% /prueba_fintual %}}
 
