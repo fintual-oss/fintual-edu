@@ -17,7 +17,7 @@ Ayer vi el comercial de un niño en Tailandia que ahorra en su alcancía (con fo
 
 Solía tener alcancías de barro en forma de _cochinito_ y cada vez que tenía ganas de ahorrar, metía mis monedas ahí.
 
-<div style="text-align:center"> <figure> <img src="/uploads/captura-de-pantalla-2020-09-25-a-la-s-13-23-02.png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Casi yo en los 90's</i></figcaption> </figure> </div>
+<div style="text-align:center"> <figure> <img src="/uploads/captura-de-pantalla-2020-09-25-a-la-s-13-38-30.png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Tuve varias alcancías de cochinito así</i></figcaption> </figure> </div>
 
 
 Soñaba con hartas cosas: telescopios, consolas de videojuegos, incluso pensé en una moto (hasta el día de hoy no he avanzado con la moto).
@@ -30,7 +30,7 @@ El niño de esta publicidad hace algo parecido. En vez de gastar su (poco) diner
 
 Si quieres ve el video antes de seguir:
 
-(VIDEO)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a2lv_Xl1e4U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 El video lo muestra de una forma súper cruel, pero es lo que pasa día a día sin darnos cuenta: el dinero se deprecia.
 
