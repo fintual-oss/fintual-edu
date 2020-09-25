@@ -19,14 +19,13 @@ Solía tener alcancías de barro en forma de _cochinito_ y cada vez que tenía g
 
 <div style="text-align:center"> <figure> <img src="/uploads/captura-de-pantalla-2020-09-25-a-la-s-13-38-30.png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Tuve varias alcancías de cochinito así</i></figcaption> </figure> </div>
 
-
 Soñaba con hartas cosas: telescopios, consolas de videojuegos, incluso pensé en una moto (hasta el día de hoy no he avanzado con la moto).
 
 Y tuve más o menos algo de determinación, lograba casi siempre llenar el _cochinito_ para después romperlo —con mucha pena por lo demás, porque me terminaba encariñando, especialmente los que venían pintados.
 
 El niño de esta publicidad hace algo parecido. En vez de gastar su (poco) dinero en lo que hacían los demás niños, ahorra y sigue _soñando_.
 
-#### **Pero**
+##### Pero
 
 Si quieres ve el video antes de seguir:
 
@@ -38,7 +37,7 @@ En México, por ejemplo, la inflación ha estado bajo control hace tiempo y anda
 
 Creo que tengo por ahí una pequeña alcancía con monedas de $1 y $10 de cuando era niño, que debe tener con suerte $1000. Como ya pasaron unos 20 años, sólo por la inflación ese dinero en la alcancía ha perdido alrededor del 45% de su valor.
 
-#### **Las alcancías de adultos**
+#### Las alcancías de los adultos
 
 Siguiendo con el ejemplo. Si pudiese haber invertido en algo que creciera como la inflación, esos $1,000 pesos serían ahora aproximadamente $1,800. No es para hacerse millonarios, obvio, eran $1,000 pesos nada más, pero al menos mi dinero no se habría depreciado.
 
@@ -46,7 +45,7 @@ Obviamente, hay muchas formas de invertir. Algunas le ganan en el largo plazo a 
 
 En Fintual te ayudamos a invertir con la idea de rentar más que la inflación, dándote acceso a fondos que tienen acciones de diversas empresas a bajas comisiones.
 
-#### **Al niño del comercial le faltó Fintual**
+#### Al niño del comercial le faltó Fintual
 
 Tampoco existía algo como Fintual hace 20 años, cuando yo era niño, pero hoy sí y es por eso que tengo prácticamente todos mis ahorros ahí.
 
