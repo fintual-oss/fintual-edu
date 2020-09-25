@@ -6,7 +6,7 @@ date = 2020-09-25T15:14:51Z
 description = "Hay algo que le pasa a nuestro dinero día a día sin darnos cuenta: se deprecia."
 hide = false
 image = "/uploads/chanchito.png"
-title = "Cómo ahorrar para lo que quieras"
+title = "Cómo ahorrar para lo que quieres"
 url = "/como-ahorrar-para-lo-que-quieres"
 
 +++
