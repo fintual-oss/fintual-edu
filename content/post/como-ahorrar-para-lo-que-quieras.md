@@ -15,11 +15,9 @@ Ayer vi el comercial de un niño en Tailandia que ahorra en su alcancía (con fo
 
 <div style="text-align:center"> <figure> <img src="/uploads/captura-de-pantalla-2020-09-25-a-la-s-13-23-02.png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Casi yo en los 90's</i></figcaption> </figure> </div>
 
-
 Solía tener alcancías de barro en forma de _cochinito_ y cada vez que tenía ganas de ahorrar, metía mis monedas ahí.
 
 <div style="text-align:center"> <figure> <img src="/uploads/captura-de-pantalla-2020-09-25-a-la-s-13-38-30.png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Tuve varias alcancías de cochinito así</i></figcaption> </figure> </div>
-
 
 Soñaba con hartas cosas: telescopios, consolas de videojuegos, incluso pensé en una moto (hasta el día de hoy no he avanzado con la moto).
 
@@ -27,7 +25,7 @@ Y tuve más o menos algo de determinación, lograba casi siempre llenar el _coch
 
 El niño de esta publicidad hace algo parecido. En vez de gastar su (poco) dinero en lo que hacían los demás niños, ahorra y sigue _soñando_.
 
-##### Pero
+###### Pero
 
 Si quieres ve el video antes de seguir:
 
@@ -39,15 +37,15 @@ En México, por ejemplo, la inflación ha estado bajo control hace tiempo y anda
 
 Creo que tengo por ahí una pequeña alcancía con monedas de $1 y $10 de cuando era niño, que debe tener con suerte $1000. Como ya pasaron unos 20 años, sólo por la inflación ese dinero en la alcancía ha perdido alrededor del 45% de su valor.
 
-#### Las alcancías de los adultos
+##### Las alcancías de los adultos
 
-Siguiendo con el ejemplo. Si pudiese haber invertido en algo que creciera como la inflación, esos $1,000 pesos serían ahora aproximadamente $1,800. No es para hacerse millonarios, obvio, eran $1,000 pesos nada más, pero al menos mi dinero no se habría depreciado.
+Siguiendo con el ejemplo. Si hubiera invertido en algo que creciera como la inflación, esos $1,000 pesos serían ahora aproximadamente $1,800. No es para hacerse millonarios, obvio, eran $1,000 pesos nada más, pero al menos mi dinero no se habría depreciado.
 
 Obviamente, hay muchas formas de invertir. Algunas le ganan en el largo plazo a la inflación y otras no. Como sea, hay alternativas mejores que dejarlas bajo el colchón o dentro de una alcancía.
 
 En Fintual te ayudamos a invertir con la idea de rentar más que la inflación, dándote acceso a fondos que tienen acciones de diversas empresas a bajas comisiones.
 
-#### Al niño del comercial le faltó Fintual
+##### Al niño del comercial le faltó Fintual
 
 Tampoco existía algo como Fintual hace 20 años, cuando yo era niño, pero hoy sí y es por eso que tengo prácticamente todos mis ahorros ahí.
 
