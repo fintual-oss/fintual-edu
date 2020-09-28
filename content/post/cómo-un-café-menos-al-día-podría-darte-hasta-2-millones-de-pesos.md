@@ -33,7 +33,6 @@ Ese es el poder del ahorro sistemático.
 </figure>
 </div>
 
-![](/uploads/cafe-michelle-nomas-min.png)
 
 Para que pienses en esto cuando estés tomándote un café.
 
