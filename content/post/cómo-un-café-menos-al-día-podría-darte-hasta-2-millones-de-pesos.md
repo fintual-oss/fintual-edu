@@ -26,6 +26,14 @@ Sólo por ahorrar en un café diario.
 
 Ese es el poder del ahorro sistemático.
 
+<div style="text-align:center">
+<figure>
+<img src="/uploads/2020-06-08/cafe-michelle-nomas-min.png">
+<figcaption style="display:block;text-align:center;font-size:.8rem"><i>Ilustración de <a target="_blank" href="https://www.instagram.com/michellenomas/">Michelle Nomas</a></i></figcaption>  
+</figure>
+</div>
+
+
 Para que pienses en esto cuando estés tomándote un café.
 
 Y en Fintual tenemos la herramienta para simular cuánto podría significar un ahorro mensual como este u otro distinto. Más de 10 mil personas la usan ya en Chile.
