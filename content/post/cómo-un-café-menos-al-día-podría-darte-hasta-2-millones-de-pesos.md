@@ -33,7 +33,6 @@ Ese es el poder del ahorro sistemático.
 </figure>
 </div>
 
-
 Para que pienses en esto cuando estés tomándote un café.
 
 Y en Fintual tenemos la herramienta para simular cuánto podría significar un ahorro mensual como este u otro distinto. Más de 10 mil personas la usan ya en Chile.
