@@ -28,11 +28,12 @@ Ese es el poder del ahorro sistemático.
 
 <div style="text-align:center">
 <figure>
-<img src="/uploads/2020-06-08/cafe-michelle-nomas-min.png">
+<img src="/uploads/cafe-michelle-nomas-min.png">
 <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Ilustración de <a target="_blank" href="https://www.instagram.com/michellenomas/">Michelle Nomas</a></i></figcaption>  
 </figure>
 </div>
 
+![](/uploads/cafe-michelle-nomas-min.png)
 
 Para que pienses en esto cuando estés tomándote un café.
 
