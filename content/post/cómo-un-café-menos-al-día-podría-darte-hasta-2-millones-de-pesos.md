@@ -5,7 +5,7 @@ categories = []
 date = 2020-03-04T14:41:06Z
 description = "Para que pienses en esto cuando estés tomándote un café!"
 hide = false
-image = "/uploads/cafemenos.png"
+image = "/uploads/cafe-michelle-nomas-min.png"
 title = "Cómo un café menos al día podría darte hasta 2 millones de pesos"
 url = "/un-cafe-menos-al-dia"
 
@@ -20,13 +20,13 @@ Supongamos que tienes 30 y te quedan 30-35 años para jubilarte.
 
 Invirtiendo diariamente durante 30 años esos $60 pesos en un fondo muy arriesgado (que es lo que uno debiera hacer cuando invierte a tan largo plazo) uno podría esperar una rentabilidad de 10% al año.
 
-![](/uploads/café.png)
-
 Si haces el cálculo con todos estos supuestos, el día que te jubiles tendrás unos 2 millones adicionales (y eso que ni hemos considerado el beneficio tributario que hay al hacer esto).
 
 Sólo por ahorrar en un café diario.
 
 Ese es el poder del ahorro sistemático.
+
+![](/uploads/cafe-michelle-nomas-min.png)
 
 Para que pienses en esto cuando estés tomándote un café.
 
