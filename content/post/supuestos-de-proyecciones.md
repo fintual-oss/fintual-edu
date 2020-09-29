@@ -26,9 +26,9 @@ Estamos comparando tu fondo Fondo Mutuo Larrainvial Europa, serie A, con un mont
 
 ![](/uploads/Screen Shot 2019-12-11 at 15.14.41.png)
 
-El riesgo y retorno de las inversiones del Fondo Mutuo Larrainvial Europa, serie A, así como su estructura de costos, no necesariamente se corresponden con aquellos de los referentes utilizados en la comparación.
+El riesgo y retorno de las inversiones de los fondos mutuos de Fintual así como su estructura de costos, no necesariamente se corresponden con aquellos de los referentes utilizados en la comparación.
 
-El riesgo y retorno de las inversiones del Fondo Mutuo Larrainvial Europa, serie A, así como también su estructura de costos, no necesariamente se corresponden con las mismas variables de los otros fondos.
+El riesgo y retorno de las inversiones de los fondos mutuos de Fintual, así como también su estructura de costos, no necesariamente se corresponden con las mismas variables de los otros fondos.
 
 ##### Usuario que perdía plata en otro lado
 
@@ -40,6 +40,10 @@ Estamos comparando el fondo Fondo Mutuo Santander Acciones Chilenas, serie Unive
 
 ![](/uploads/Screen Shot 2019-12-11 at 15.15.54.png)
 
-El riesgo y retorno de las inversiones del Fondo Mutuo Santander Acciones Chilenas, serie Universal, así como su estructura de costos, no necesariamente se corresponden con aquellos de los referentes utilizados en la comparación.
+El riesgo y retorno de las inversiones de los fondos mutuos de Fintual así como su estructura de costos, no necesariamente se corresponden con aquellos de los referentes utilizados en la comparación.
 
-El riesgo y retorno de las inversiones del Fondo Mutuo Santander Acciones Chilenas, serie Universal, así como también su estructura de costos, no necesariamente se corresponden con las mismas variables de los otros fondos.
+El riesgo y retorno de las inversiones de los fondos mutuos de Fintual, así como también su estructura de costos, no necesariamente se corresponden con las mismas variables de los otros fondos.  
+  
+Infórmese de las características esenciales de la inversión en este fondo mutuo, las que se encuentran contenidas en su reglamento interno
+
+La rentabilidad o ganancia obtenida en el pasado por este fondo, no garantiza que ella se repita en el futuro. Los valores de las cuotas de los fondos mutuos son variables.
