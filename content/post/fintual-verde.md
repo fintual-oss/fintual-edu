@@ -20,7 +20,6 @@ Entonces, la idea es simple: _invirtamos en empresas verdes._ Pero, ¿qué signi
 
 <div style="text-align:center"> <figure> <img src="/uploads/fintual-verde-paula-g-min.png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Ilustración de <a target="_blank" href="https://www.instagram.com/paubraw.arts/">Paula Guajardo</a></i></figcaption> </figure> </div>
 
-
 #### Definiendo _inversiones verdes_
 
 Digamos que las “inversiones verdes” son inversiones con **impacto social y ambiental,** llamadas también **inversiones socialmente responsables o SRI,** por sus siglas en inglés.
@@ -87,6 +86,7 @@ Entonces, un buen primer paso inicial para agregar inversiones socialmente respo
 
 En 2019 estudiamos los potenciales ETF a utilizar y cómo utilizarlos y, luego de simular distintas carteras optimizadas con distintas condiciones, llegamos a la conclusión de agregar estos dos ETF a las carteras:
 
+* **ESGU,** un ETF que replica al índice **MSCI USA Extended ESG Focus Index**, un índice en el cual las compañías son evaluadas en factores de riesgo como ambientales (emisiones de carbono, manejo de aguas y residuos tóxicos), sociales (prácticas laborales, salud  y seguridad), y materias de gobierno corporativo (corrupción, fraude, prácticas anticompetitivas). Además, un software de optimización de portafolios es usado para maximizar el porcentaje de compañías con buena evaluación ESG pero de forma que se mantenga una exposición similar al mercado. Finalmente, el portafolio excluye tabaco, cierto tipo de armamento (minas antipersonales, bio-armamento) y compañías que están experimentando controversias corporativas severas. 
 * **ESGV,** un ETF que replica al índice **FTSE US All Cap Choice Index**, un índice que excluye compañías involucradas en energías no renovables (energía nuclear y combustibles fósiles), productos que generan vicios (entretención de adultos, alcohol, apuestas, tabaco) e industria armamentista.
 * [**ETHO**](https://etfmg.com/funds/etho/)**,** un ETF que replica al índice **Etho Climate Leadership Index**, un índice enfocado en seguir alrededor de 400 acciones de compañías eficientes en términos de emisión de carbono y socialmente responsables. Este ETF también excluye compañías relacionadas a apuestas, industria de combustibles fósiles, tabaco y armas. Es el primer ETF en tener un mandato explícito de sustentabilidad, al mismo tiempo de ser libre de combustibles fósiles y de no tener exposición a los típicos sectores tradicionales de energía. Es el ETF con la cartera de empresas que tiene [menor registro de huella total de carbono en USA según Fossil Free Funds.](https://fossilfreefunds.org/funds?div=false&dsc=false&sri=true&srt=c2f5coogutweight&typ=FE)
 
