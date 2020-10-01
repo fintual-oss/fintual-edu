@@ -1,18 +1,13 @@
+<section class="recent-posts">
+  <div class="col-lg-10 offset-lg-1 ">
+    <br></br>
+    <br></br>
+    <div class="row listrecent ">
+      {{ $related := .Site.RegularPages.Related . }}
+      {{ range first 3 (where $related "Params.hide" "!=" "true")  }}
+      {{- partial "list-partials/postbox.html" . -}}
+      {{ end }}
+    </div>
 
-    <section class="recent-posts">
-      <div class="col-lg-10 offset-lg-1 ">
-
-          {{ $related := .Site.RegularPages.Related . }}
-          {{ with $related | first 3}}
-          <br></br>
-          <br></br>
-
-          <div class="row listrecent ">
-          	{{ range . }}
-          	 {{- partial "list-partials/postbox.html" . -}}
-          	{{ end }}
-          {{ end }}
-        </div>
-
-        </div>
-    </section>
+  </div>
+</section>

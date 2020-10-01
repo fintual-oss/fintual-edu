@@ -1,74 +1,79 @@
 {{ define "header"}}
-    {{- partial "_shared/navbar.html" . -}}
+{{- partial "_shared/navbar.html" . -}}
 {{ end }}
 
 {{ define "main" }}
-    {{- partial "_shared/title.html" . -}}
-    <div class="main-content">
-        <!-- Begin Article
+{{- partial "_shared/title.html" . -}}
+<div class="main-content">
+    <!-- Begin Article
         ================================================== -->
-        <div class="container">
-            <div class="row">
-                <!-- Post Share -->
-                <div class="col-md-2 pl-0">
-                    {{- partial "single-partials/share.html" . -}}
-                </div>
-                <!-- Post -->
-                <div class="col-md-7 flex-first flex-md-unordered">
-                    <div class="mainheading">
-                      <!-- Post Title -->
-                      <h1 class="posttitle">{{ .Title }}</h1>
-                        <!-- Author Box -->
-                        {{ $scratch := newScratch }}
-                        {{ $scratch.Set "writer" (index .Site.Params.writers (lower .Params.author) ) }}
-                        {{ $writer := $scratch.Get "writer" }}
+    <div class="container">
+        <div class="row">
+            <!-- Post Share -->
+            <div class="col-md-2 pl-0">
+                {{- partial "single-partials/share.html" . -}}
+            </div>
+            <!-- Post -->
+            <div class="col-md-8 flex-first flex-md-unordered">
+                <div class="mainheading">
+                    <!-- Post Title -->
+                    <h1 class="posttitle">{{ .Title }}</h1>
+                    <!-- Author Box -->
+                    {{ $scratch := newScratch }}
+                    {{ $scratch.Set "writer" (index .Site.Params.writers (lower .Params.author) ) }}
+                    {{ $writer := $scratch.Get "writer" }}
 
-                        <div class="row post-top-meta">
-                            <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0 md-nopad-right">
-                                <img class="author-thumb" src="{{ $writer.thumbnail | urlize | relURL}}" alt="{{ $writer.thumbnail }}">
-                            </div>
-                            <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left md-nopad-left">
-                                <a target="_blank" class="link-dark">{{ $writer.name }}</a><br>
-                                <span class="author-description">
-                                    {{ $writer.description }}<br>
-                                    <i class="far fa-star"></i>
-                                    {{ dateFormat "Jan 2, 2006" .PublishDate }}
-                                    <i class="far fa-clock clock"></i>
+                    <div class="row post-top-meta">
+                        <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0 md-nopad-right">
+                            <img class="author-thumb" src="{{ $writer.thumbnail | urlize | relURL}}"
+                                alt="{{ $writer.thumbnail }}">
+                        </div>
+                        <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left md-nopad-left">
+                            <a target="_blank" class="link-dark">{{ $writer.name }}</a><br>
+                            <span class="author-description">
+                                <span>
+                                    {{ $writer.description }}
+                                </span>
+
+                                <span>
+                                    <i class="far fa-clock"></i>
                                     lectura de {{ .ReadingTime }} min
                                 </span>
-                            </div>
+                            </span>
                         </div>
                     </div>
+                </div>
 
-                    <!-- Post Content -->
-                    <div class="article-post">
-                        {{ .Content}}
-                    </div>
+                <!-- Post Content -->
+                <div class="article-post">
+                    {{ .Content}}
+                    {{- partial "clap.html" . -}}
+                </div>
 
-                    <!-- Post Categories -->
-                    <div class="after-post-tags">
-                        <ul class="tags">
+                <!-- Post Categories -->
+                <div class="after-post-tags">
+                    <ul class="tags">
                         {{ range .Params.tags }}
                         <li>
-                        <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{.}}</a>
+                            <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{.}}</a>
                         </li>
                         {{ end }}
-                        </ul>
-                    </div>
-                    <!-- End Categories -->
-
-
+                    </ul>
                 </div>
-                <!-- End Post -->
+                <!-- End Categories -->
             </div>
+            <!-- End Post -->
         </div>
-        <!-- End Article
-        ================================================== -->
-        {{ if .Params.comments }}
-            {{- partial "single-partials/comments.html" . -}}
-        {{ end }}
     </div>
-    {{- partial "_shared/alertbar.html" . -}}
+
+    <!-- End Article
+        ================================================== -->
+    {{ if .Params.comments }}
+    {{- partial "single-partials/comments.html" . -}}
+    {{ end }}
+
+</div>
+{{- partial "_shared/alertbar.html" . -}}
 {{ end }}
 
 {{ define "footer"}}

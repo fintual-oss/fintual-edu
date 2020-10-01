@@ -1,8 +1,4 @@
 <style type="text/css">
-  @import url("https://fonts.googleapis.com/css?family=Poppins&display=swap");
-</style>
-
-<style type="text/css">
   .newsletter-card {
     padding: 24px 32px;
     margin: 16px 0;
@@ -36,6 +32,10 @@
     height: 56px;
     padding: .375rem .75rem;
     width: 100%;
+  }
+
+  .newsletter-card__email-input--prefilled {
+    display: none;
   }
 
   .newsletter-card__button {
@@ -75,23 +75,49 @@
 </style>
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 <script>
- function onSubmit(token) {
-   document.getElementById('newsletter-signup-form').submit();
-   document.querySelector('.newsletter-card').classList.add('newsletter-card--submitted')
- }
+function onSubmit(token) {
+  document.getElementById('newsletter-signup-form').submit();
+  document.querySelector('.newsletter-card').classList.add('newsletter-card--submitted')
+}
+
+function getCookie(cname) {
+  const name = cname + "=";
+  const decodedCookie = decodeURIComponent(document.cookie);
+  const ca = decodedCookie.split(';');
+  for(var i = 0; i <ca.length; i++) {
+    let c = ca[i];
+    while (c.charAt(0) == ' ') {
+      c = c.substring(1);
+    }
+    if (c.indexOf(name) == 0) {
+      return c.substring(name.length, c.length);
+    }
+  }
+  return '';
+}
+
+document.addEventListener("DOMContentLoaded", function() {
+  const email = getCookie('email');
+  if (!!email) {
+    const emailInput = document.querySelector('input[name="user[email]"]');
+    emailInput.classList.add('newsletter-card__email-input--prefilled')
+    emailInput.value = email;
+  }
+});
 </script>
 
 <div class="newsletter-card">
   <div class="newsletter-card__form-container">
     <h4 class="newsletter-card__title">¿Te gustó leernos?</h4>
     <p class="newsletter-card__text">Aprende de finanzas e inversiones, con ideas de negocio, tips para ahorrar y mucho más. Nunca más de 1 a la semana y si te arrepientes, te puedes salir con un solo clic.</p>
-    <form id="newsletter-signup-form" action="https://fintual.mx/app/source-signup"  method="POST">
+    <form id="newsletter-signup-form" action="https://fintual.cl/app/source-signup"  method="POST">
       <input type="email" class="form-control newsletter-card__email-input" name="user[email]" placeholder="Tu email" autocomplete="email">
-      <input type="hidden" name="user[source]" value={{ .Get "source" | default "newsletter" }}>
+      <input type="hidden" name="user[source]" value="newsletter">
       <button class="newsletter-card__button g-recaptcha" data-sitekey="6Ld3dsoUAAAAAD6kQRzrG3_4hY2jPrFRh9nIvnfY" data-callback='onSubmit'>Inscribir</button>
     </form>
   </div>
   <div class="newsletter-card__success-message">
-    <h4 class="newsletter-card__title">Listo 👌</h4>
+    <h4 class="newsletter-card__title">Listoco 👌</h4>
+    <p class="newsletter-card__text">Weeena!</p>
   </div>
 </div>
