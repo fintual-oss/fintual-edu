@@ -19,7 +19,9 @@ Lo primero que te preguntará es si en Fintual puede perderlo todo: la respuesta
 
 Seguramente tu amigo no sabe lo que es la CMF, explícale que es la agencia de gobierno que supervisa a los bancos y a las empresas que administran inversiones (antes la CMF estaba separada en la SVS y la SBIF). Le gustará saber que somos regulados por la CMF porque eso asegura cierto estándar que todos agradecen cuando se trata de sus pesitos que tanto le costó ganarse.
 
-El muchacho o muchacha entonces te preguntará si puede perder parte de su querida plata: de poder puede, pero explícale bien. La estrategia de Fintual es conocida como “estrategia pasiva”; invertir y quedarse dormido. Nooo. Es invertir en muchas empresas al mismo tiempo, entonces en el largo plazo, si la humanidad mejora en eficiencia y la tecnología avanza, una inversión diversificada en todo el mercado va a subir sí o sí. En plazos más cortos pueden haber caídas y crisis, pero en fin… si se te da explicarlo así en el aire, tú dale. A mí me resulta mostrar este gráfico y que vea que al final por mucha crisis que haya, igual históricamente todo sigue p’arriba.
+El muchacho o muchacha entonces te preguntará si puede perder parte de su querida plata: de poder puede, pero explícale bien. 
+
+La estrategia de Fintual es conocida como “estrategia pasiva”; invertir y quedarse dormido. Nooo. Es invertir en muchas empresas al mismo tiempo, entonces en el largo plazo, si la humanidad mejora en eficiencia y la tecnología avanza, una inversión diversificada en todo el mercado va a subir sí o sí. En plazos más cortos pueden haber caídas y crisis, pero en fin… si se te da explicarlo así en el aire, tú dale. A mí me resulta mostrar este gráfico y que vea que al final por mucha crisis que haya, igual históricamente todo sigue p’arriba.
 
 ![](/uploads/dowjones.png)
 
