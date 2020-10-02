@@ -19,25 +19,25 @@ Lo primero que te preguntará es si en Fintual puede perderlo todo: la respuesta
 
 Seguramente tu amigo no sabe lo que es la CMF, explícale que es la agencia de gobierno que supervisa a los bancos y a las empresas que administran inversiones (antes la CMF estaba separada en la SVS y la SBIF). Le gustará saber que somos regulados por la CMF porque eso asegura cierto estándar que todos agradecen cuando se trata de sus pesitos que tanto le costó ganarse.
 
-El muchacho o muchacha entonces te preguntará si puede perder parte de su querida plata: de poder puede, pero explícale bien. La estrategia de Fintual es conocida como “estrategia pasiva”; invertir y quedarse dormido. Nooo. Es invertir en muchas empresas al mismo tiempo, entonces en el largo plazo, si la humanidad mejora en eficiencia y la tecnología avanza, una inversión diversificada en todo el mercado va a subir sí o sí. En plazos más cortos pueden haber caídas y crisis, pero en fin… si se te da explicarlo así en el aire, tú dale. A mi me resulta mostrar este gráfico y que vea que al final por mucha crisis que haya, igual históricamente todo sigue p’arriba.
+El muchacho o muchacha entonces te preguntará si puede perder parte de su querida plata: de poder puede, pero explícale bien. La estrategia de Fintual es conocida como “estrategia pasiva”; invertir y quedarse dormido. Nooo. Es invertir en muchas empresas al mismo tiempo, entonces en el largo plazo, si la humanidad mejora en eficiencia y la tecnología avanza, una inversión diversificada en todo el mercado va a subir sí o sí. En plazos más cortos pueden haber caídas y crisis, pero en fin… si se te da explicarlo así en el aire, tú dale. A mí me resulta mostrar este gráfico y que vea que al final por mucha crisis que haya, igual históricamente todo sigue p’arriba.
 
 ![](/uploads/dowjones.png)
 
-Tu amigo se va poner contento cuando le digas que en Fintual no hay mínimos, que puede empezar con cualquier monto. Mejor no le hables de montos eso sí, porque si le dices “desde 100 pesos” va a invertir 100 pesos. Y si le hablas de mucha plata tal vez se asusta. Mejor que vea él. Además es super feo hablar de plata con los amigos. ¿O no?
+Tu amigo se va poner contento cuando le digas que en Fintual no hay mínimos, que puede empezar con cualquier monto. Mejor no le hables de montos eso sí, porque si le dices “desde 100 pesos” va a invertir 100 pesos. Y si le hablas de mucha plata tal vez se asusta. Mejor que vea él. Además a veces es feo hablar de plata con los amigos. ¿O no?
 
 Al amigo de este tipo le gustará saber que igual puede hacer una inversión súper conservadora en Fintual, para reducir el riesgo al mínimo. Explícale eso sí que con menor riesgo siempre hay menor ganancia, eso es casi una ley de la naturaleza. “El que no se moja no cruza el río” dile, o algo así.
 
-**Del tipo que "invierte" en depósitos a plazo**
+**Del tipo que** “**invierte**“ **en depósitos a plazo**
 
-Como seguramente está (mal) acostumbrado a saber cuánto va a rentar su plata antes de invertirla, te preguntará si en Fintual podría llegar a rentar menos que su depósito a plazo: la respuesta es que puede pasar, y que si va a necesitar la plata muy pronto, estar en un depósito a plazo puede ser su mejor opción. Pero déjale bien claro que si tiene ALGO de plata que no va a necesitar en 1 año o más, es una tontera dejarla en un depósito a plazo, porque renta demasiado poco. Es seguro, sí, seguro que es malo.
+Como seguramente está (mal) acostumbrado a saber cuánto va a rentar su plata antes de invertirla, te preguntará si en Fintual podría llegar a rentar menos que su depósito a plazo: la respuesta es que puede pasar, y que si va a necesitar la plata muy pronto, estar en un depósito a plazo puede ser una mejor opción. Pero déjale bien claro que si tiene ALGO de plata que no va a necesitar en 1 año o más, es una tontera dejarla en un depósito a plazo, porque renta demasiado poco. Es seguro, sí, seguro que es malo.
 
 A este espécimen le gustará saber que en Fintual puede hacer varias inversiones paralelas con distintos plazos y, a diferencia de un depósito a plazo, siempre podrá sacar su plata antes de tiempo si quiere, sin multas, castigos ni sermones. Nos demoramos 3 días y le depositamos de vuelta. Y tenemos opciones que rentan parecido a un depósito a plazo, si eso es lo que quiere.
 
 **Del tipo que invierte y cacha harto de finanzas**
 
-Este muchacho va a parecerte lejos el más escéptico y preguntón, pero terminará amándonos. Cuando le digas que la comisión es de 1,19% en inversiones y 0,49% en APV va a poner cara de nada, pero por dentro estará sintiendo maripositas porque sabrá que es de lo más barato que se puede encontrar para inversionistas retail (“retail”: que no son millonarios, básicamente)
+Este muchacho va a parecerte lejos el más escéptico y preguntón, pero terminará amándonos. Cuando le digas que la comisión es de 1,19% en inversiones y 0,49% en APV va a poner cara de nada, pero por dentro estará sintiendo maripositas porque sabrá que es de lo más barato que se puede encontrar para inversionistas retail (“retail”: que no son millonarios, básicamente).
 
-Le gustará el hecho que usemos ETFs:  entregan mucha diversificación a bajo costo, pero de nuevo va a poner cara de nada, incluso puede que diga “sí obvio”. Arde de pasión por dentro.
+Le gustará el hecho que usemos ETF:  entregan mucha diversificación a bajo costo, pero de nuevo va a poner cara de nada, incluso puede que diga “sí obvio”. Arde de pasión por dentro.
 
 Si se mete a mirar, le va a gustar que nuestro contrato general de fondos es simple y casi no asigna gastos al fondo.
 
