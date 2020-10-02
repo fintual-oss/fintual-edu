@@ -15,7 +15,7 @@ author = "Equipo Fintual"
 description = "Aprendiendo a invertir bien"
 displayauthor = true
 keywords = ["inversion", "fondos mutuos", "ahorro"]
-logo = "img/logo.png"
+logo = "img/logo-new.png"
 sharingicons = false
   [params.writers]
     [params.writers."Pedro Pineda"]
