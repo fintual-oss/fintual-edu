@@ -1,7 +1,7 @@
 baseURL = "https://edu.fintual.mx"
 title = "EDU Fintual"
 preserveTaxonomyNames = true
-theme = "mediumish"
+theme = "mediumish-gohugo-theme"
 copyright = " 2020 | fintual.com "
 languageCode = "es-cl"
 summaryLength = 15

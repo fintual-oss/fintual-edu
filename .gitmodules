@@ -1,6 +1,4 @@
-[submodule "themes/nederburg"]
-	path = themes/nederburg
-	url = https://github.com/appernetic/hugo-nederburg-theme.git
-[submodule "themes/mediumish"]
-	path = themes/mediumish
+[submodule "themes/mediumish-gohugo-theme"]
+	path = themes/mediumish-gohugo-theme
 	url = https://github.com/platanus/mediumish-gohugo-theme.git
+	branch = master
