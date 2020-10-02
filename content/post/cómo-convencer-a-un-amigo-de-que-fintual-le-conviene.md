@@ -15,7 +15,7 @@ Tus amigos son todos animales distintos. Acá te doy recomendaciones por cada ti
 
 **Del tipo que nunca ha invertido**
 
-Lo primero que te preguntará es si en Fintual puede perderlo todo: la respuesta es sí pero no le digas. Broma. En estricto rigor la respuesta debiera ser “sí”, pero solo se podría dar ese caso si es que quiebran .nas 3,500 empresas al mismo tiempo. O sea, la respuesta es no. Chan!
+Lo primero que te preguntará es si en Fintual puede perderlo todo: la respuesta es sí pero no le digas. Broma. En estricto rigor la respuesta debiera ser “sí”, pero solo se podría dar ese caso si es que quiebran unas 3.500 empresas al mismo tiempo. O sea, la respuesta es no. Chan!
 
 Seguramente tu amigo no sabe lo que es la CMF, explícale que es la agencia de gobierno que supervisa a los bancos y a las empresas que administran inversiones (antes la CMF estaba separada en la SVS y la SBIF). Le gustará saber que somos regulados por la CMF porque eso asegura cierto estándar que todos agradecen cuando se trata de sus pesitos que tanto le costó ganarse.
 
