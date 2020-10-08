@@ -29,21 +29,29 @@ Y por lo mismo tuvimos que hacerle algunos cambios.
 
 ### ¿Y por qué están bajas las tasas?
 
-La tasa de interés de los depósitos tiene que ver bastante con la Tasa de Política Monetaria (TPM) que fija el Banco Central de Chile, cuyo objetivo es determinar el nivel de la tasa de préstamos interbancarios, que es la tasa base para todos los préstamos y rentabilidad por inversión en instrumentos bancarios. Desde principios de abril está fijada en un 0,50% anual, el nivel más bajo de la historia, determinándose que descendiera a ese nivel con el fin de bajar el costo de los créditos, y de esa forma estimular la economía y disponibilizar el dinero en el sistema.
+La tasa de interés de los depósitos tiene que ver bastante con la Tasa de Política Monetaria (TPM) que fija el Banco Central de Chile.
 
-El problema para los ahorrantes es que los intereses de los depósitos también bajan, y de hecho están tan bajos que incluso algunos de ellos tienen tasas menores a la TPM. Por ejemplo, los depósitos que rentan 0,04% al mes (o menos) no alcanzan a rentar ni el nivel actual de 0,50% de TPM, que equivale a un 0,042% al mes (aproximadamente).
+El objetivo de la TPM es determinar el nivel de la tasa de préstamos interbancarios, que es la tasa base para todos los préstamos y rentabilidad por inversión en instrumentos bancarios. 
 
-En palabras simples, gran parte de los depósitos a plazo no pagan ni siquiera el interés con que se prestan dinero los bancos entre ellos mismos.
+Desde principios de abril está fijada en un 0,50% anual, el nivel más bajo de la historia, determinándose que descendiera a ese nivel con el fin de bajar el costo de los créditos, y de esa forma estimular la economía y disponibilizar el dinero en el sistema.
+
+El problema para los ahorrantes es que los intereses de los depósitos también bajan y, de hecho, están tan bajos que incluso algunos de ellos tienen tasas menores a la TPM. 
+
+Por ejemplo, los depósitos que rentan 0,04% al mes (o menos) no alcanzan a rentar ni el nivel actual de 0,50% de TPM, que equivale a un 0,042% al mes (aproximadamente).
+
+#### En palabras simples, gran parte de los depósitos a plazo no pagan ni siquiera el interés con que se prestan dinero los bancos entre ellos mismos.
 
 Si los intereses están así de bajos, significa que los bancos no están muy dispuestos a pagar por recibir tu dinero.
 
-Los bancos pueden tomar dinero para prestarlo tanto desde cuentas corrientes, cuentas vistas, cuentas de ahorro, depósitos a plazo, bonos bancarios (deuda bancaria de largo plazo), e incluso líneas adicionales de financiamiento desde el mismo Banco Central (por ejemplo, el [Financiamiento Condicional al Incremento de las Colocaciones](https://www.bcentral.cl/contenido/-/detalle/banco-central-informa-condiciones-de-la-facilidad-de-credito-condicional-al-incremento-de-las-colocaciones-fcic-y-medidas-complementarias)), todas actualmente repletas de dinero disponible de la economía, dinero que no está interesado en tomar más riesgos en un escenario tan complejo como la crisis del COVID-19. Ese dinero en exceso queda además “estacionado” en algún lugar del sistema interbancario, sin ser prestado tampoco por los bancos, ya que no tienen interés en tomar el riesgo asociado a los préstamos a personas y empresas.
+Los bancos pueden tomar dinero para prestarlo tanto desde cuentas corrientes, cuentas vistas, cuentas de ahorro, depósitos a plazo, bonos bancarios (deuda bancaria de largo plazo), e incluso líneas adicionales de financiamiento desde el mismo Banco Central (por ejemplo, el [Financiamiento Condicional al Incremento de las Colocaciones](https://www.bcentral.cl/contenido/-/detalle/banco-central-informa-condiciones-de-la-facilidad-de-credito-condicional-al-incremento-de-las-colocaciones-fcic-y-medidas-complementarias)).
 
-### Mejoras a Streep
+Actualmente todas estas líneas están repletas de dinero disponible de la economía, dinero que no está interesado en tomar más riesgos en un escenario tan complejo como la crisis del COVID-19. Ese dinero en exceso queda además “estacionado” en algún lugar del sistema interbancario, sin ser prestado tampoco por los bancos, ya que no tienen interés en tomar el riesgo asociado a los préstamos a personas y empresas.
+
+### ¿Y qué pasó con Streep?
 
 El nivel tan bajo de tasas de interés nos obligó a reformular el fondo Streep, cambiando la estrategia de inversión y la estructura de cobros. Necesariamente hay más sofisticación que antes.
 
-![](/uploads/2020-10-08/meryl.png)
+<div style="text-align:center"> <figure> <img src="/uploads/2020-10-08/meryl.png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Streep 2.0. Fuente: Giphy</i></figcaption> </figure> </div>
 
 Primero, para que rentara un poco más, Streep tenía que tomar algo más de riesgos y escapar un poco de los depósitos a plazo de grandes bancos. Para eso, invertimos en instrumentos de deuda de mayor duración, pero no de un plazo excesivamente largo, sino que deuda de alrededor de un año de duración o algo menos. Al mismo tiempo, invertimos pequeños porcentajes de estrategias de crédito privado de corto plazo, que tienen mejores tasas de interés, y cuyo tema explicaremos más adelante.
 
