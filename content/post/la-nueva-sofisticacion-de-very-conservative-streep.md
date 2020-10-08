@@ -4,7 +4,6 @@ author = "Omar Larré"
 categories = ["educación financiera"]
 date = 2020-10-07T13:32:36Z
 description = ""
-draft = true
 hide = false
 image = "/uploads/2020-10-08/streepdown.png"
 title = "La nueva sofisticación de Very Conservative Streep"
@@ -83,8 +82,17 @@ Es decir, es un crédito que “se salta a los bancos”.
 
 **La ventaja es que ofrece una mucha mejor tasa de interés, tanto para el que recibe el crédito como para el que entrega el crédito**. Es mejor para “ambos lados”: _win-win_.
 
-Para invertir en este tipo de créditos cerramos contratos con al menos cuatro distintos gestores especializados en créditos privados de corto plazo, cada uno de los cuales son expertos en manejo de riesgos relativos al crédito y a las garantías asociadas a ellos. En porcentajes acotados del fondo, existirán inversiones en cada una de las distintas gestoras, y por lo tanto, habrá un gran nivel de atomización y diversificación del riesgo de crédito.
+Para invertir en este tipo de créditos cerramos contratos con al menos cuatro distintos gestores especializados en créditos privados de corto plazo, cada uno de los cuales son expertos en manejo de riesgos relativos al crédito y a las garantías asociadas a ellos. En porcentajes acotados del fondo, existirán inversiones en cada una de las distintas gestoras y, por lo tanto, habrá un gran nivel de atomización y diversificación del riesgo de crédito.
 
 Manejaremos además el fondo de modo que el crédito privado no supere más del 35% de la cartera. El resto del fondo, es decir, al menos un 65%, será invertido en activos tradicionales, principalmente depósitos y deuda bancaria o deuda pública de duración promedio algo menor a un año.
 
 En definitiva, con esas modificaciones al fondo Streep esperamos entregar una rentabilidad muy competitiva respecto a un depósito a plazo, con un riesgo controlado y con la misma liquidez que ya teníamos desde antes. O con mejor liquidez incluso, ya que pronto mejoraremos el pago en tres días bancarios, bajándolo a dos días bancarios.
+
+{{% prueba_fintual
+utmcontent="streep_2punto0"
+card_title="Prueba Fintual"
+card_button="Empezar" %}}
+
+Más inteligente que dejar tu plata en el banco.
+
+{{% /prueba_fintual %}}
