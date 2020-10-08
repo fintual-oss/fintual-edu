@@ -6,7 +6,7 @@ date = 2020-10-07T13:32:36Z
 description = ""
 draft = true
 hide = false
-image = "/uploads/2020-08-28/cambios-fintual-2.png"
+image = "/uploads/2020-10-08/streepdown.png"
 title = "La nueva sofisticación de Very Conservative Streep"
 url = "/el-nuevo-very-conservative-streep"
 
@@ -25,17 +25,17 @@ Es por esto que Very Conservative Streep, nuestro fondo de muy bajo riesgo, ha r
 
 ![Fondo Streep, desde sus inicios hasta el 7 de octubre de 2020. Fíjate en la “meseta” entre mayo y agosto](/uploads/2020-10-08/meseta-streep.png)_Fondo Streep, desde sus inicios hasta el 7 de octubre de 2020. Fíjate en la “meseta” entre mayo y agosto_
 
-Y por lo mismo tuvimos que hacerle algunos cambios. 
+Y por lo mismo tuvimos que hacerle algunos cambios.
 
 ### ¿Y por qué están bajas las tasas?
 
 La tasa de interés de los depósitos tiene que ver bastante con la Tasa de Política Monetaria (TPM) que fija el Banco Central de Chile.
 
-El objetivo de la TPM es determinar el nivel de la tasa de préstamos interbancarios, que es la tasa base para todos los préstamos y rentabilidad por inversión en instrumentos bancarios. 
+El objetivo de la TPM es determinar el nivel de la tasa de préstamos interbancarios, que es la tasa base para todos los préstamos y rentabilidad por inversión en instrumentos bancarios.
 
 Desde principios de abril está fijada en un 0,50% anual, el nivel más bajo de la historia, determinándose que descendiera a ese nivel con el fin de bajar el costo de los créditos, y de esa forma estimular la economía y disponibilizar el dinero en el sistema.
 
-El problema para los ahorrantes es que los intereses de los depósitos también bajan y, de hecho, están tan bajos que incluso algunos de ellos tienen tasas menores a la TPM. 
+El problema para los ahorrantes es que los intereses de los depósitos también bajan y, de hecho, están tan bajos que incluso algunos de ellos tienen tasas menores a la TPM.
 
 Por ejemplo, los depósitos que rentan 0,04% al mes (o menos) no alcanzan a rentar ni el nivel actual de 0,50% de TPM, que equivale a un 0,042% al mes (aproximadamente).
 
@@ -53,15 +53,21 @@ El nivel tan bajo de tasas de interés nos obligó a reformular el fondo Streep,
 
 <div style="text-align:center"> <figure> <img src="/uploads/2020-10-08/meryl.png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Streep 2.0. Fuente: Giphy</i></figcaption> </figure> </div>
 
-Primero, para que rentara un poco más, Streep tenía que tomar algo más de riesgos y escapar un poco de los depósitos a plazo de grandes bancos. Para eso, invertimos en instrumentos de deuda de mayor duración, pero no de un plazo excesivamente largo, sino que deuda de alrededor de un año de duración o algo menos. Al mismo tiempo, invertimos pequeños porcentajes de estrategias de crédito privado de corto plazo, que tienen mejores tasas de interés, y cuyo tema explicaremos más adelante.
+Primero, para que rentara un poco más, Streep tenía que tomar algo más de riesgos y escapar un poco de los depósitos a plazo de grandes bancos. 
+
+Para eso, invertimos en instrumentos de deuda de mayor duración, pero no de un plazo excesivamente largo, sino que deuda de alrededor de un año de duración o algo menos. Al mismo tiempo, invertimos pequeños porcentajes de estrategias de crédito privado de corto plazo, que tienen mejores tasas de interés, y cuyo tema explicaremos más adelante.
 
 Lo segundo era cambiar la estructura de cobros.
 
-Decidimos cobrar 0% de remuneración fija, es decir, no cobramos comisión fija por nuestro lado. Cobraremos solo una remuneración variable, es decir, una comisión que únicamente se cobra si al fondo le va mejor que a un objetivo de rentabilidad que será competitivo con respecto a los depósitos a plazos.
+#### Decidimos cobrar 0% de remuneración fija, es decir, no cobramos comisión fija. Cobraremos solo una remuneración variable: una comisión que únicamente se cobra si al fondo le va mejor que a un objetivo de rentabilidad que será competitivo con respecto a los depósitos a plazos.
 
-Por ejemplo, decidimos partir octubre del 2020 con una rentabilidad objetivo de 1,20% en base anual, que es aproximadamente 0,10% mensual, y que anda mejor que la mayoría de los depósitos a plazo, tal como lo vimos al principio. Este objetivo de rentabilidad variará en el tiempo, pero nunca será menor que la TPM, ya que el objetivo de rentabilidad es de la forma TPM + _spread_, con la variable _spread_ siempre positiva y con un valor inicial de 0,70% (esto explica que el retorno objetivo actual del fondo es 1,20% anual, ya que la TPM hoy está en 0,50% al año). El valor de la variable _spread_ siempre estará disponible para consultarlo desde la web de Fintual (actualmente lo puedes revisar en fintual.cl/docs).
+Por ejemplo, decidimos partir octubre del 2020 con una rentabilidad objetivo de 1,20% en base anual, que es aproximadamente 0,10% mensual, y que anda mejor que la mayoría de los depósitos a plazo. 
 
-Pensamos además en estabilizar el movimiento del fondo, pese a que la rentabilidad del fondo no está garantizada. Para ello, añadimos un mecanismo en donde se mantiene una cuenta llamada “provisión”, todos los días en que los activos renten más que el retorno objetivo (en ese caso, el exceso de retorno se traspasa a la cuenta de provisión, hasta que esta cuenta llegue al 1% del patrimonio del fondo), de modo que se compensen los movimientos de mercado de los días en que los activos renten menos que el objetivo. Siempre y cuando esa provisión es menor al 1% del patrimonio del fondo, nosotros no podemos cobrar comisiones variables, comisiones que serán iguales al exceso de retorno. De esta forma, este mecanismo incentiva a que el fondo haga pago efectivo de remuneraciones a Fintual cuando muestre de forma consistente que sus activos pueden entregar el objetivo de rentabilidad establecido.
+Este objetivo de rentabilidad variará en el tiempo, pero nunca será menor que la TPM, ya que el objetivo de rentabilidad es de la forma TPM + _spread_, con la variable _spread_ siempre positiva y con un valor inicial de 0,70% (esto explica que el retorno objetivo actual del fondo es 1,20% anual, ya que la TPM hoy está en 0,50% al año). El valor de la variable _spread_ siempre estará disponible para consultarlo desde la web de Fintual (actualmente lo puedes revisar en [fintual.cl/docs](https://www.fintual.com/docs)).
+
+Además, pensamos en estabilizar el movimiento del fondo, pese a que la rentabilidad del fondo no está garantizada. 
+
+Para ello, añadimos un mecanismo en donde se mantiene una cuenta llamada “provisión”, todos los días en que los activos renten más que el retorno objetivo (en ese caso, el exceso de retorno se traspasa a la cuenta de provisión, hasta que esta cuenta llegue al 1% del patrimonio del fondo), de modo que se compensen los movimientos de mercado de los días en que los activos renten menos que el objetivo. Siempre y cuando esa provisión es menor al 1% del patrimonio del fondo, nosotros no podemos cobrar comisiones variables, comisiones que serán iguales al exceso de retorno. De esta forma, este mecanismo incentiva a que el fondo haga pago efectivo de remuneraciones a Fintual cuando muestre de forma consistente que sus activos pueden entregar el objetivo de rentabilidad establecido.
 
 **En palabras más simples, la única forma que tendremos para cobrar comisiones es si el fondo renta por sobre el retorno objetivo y además tiene provisiones de al menos un 1% del patrimonio del fondo que sirvan para estabilizar el movimiento del fondo.**
 
