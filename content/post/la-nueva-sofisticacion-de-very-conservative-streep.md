@@ -11,9 +11,9 @@ title = "La nueva sofisticación de Very Conservative Streep"
 url = "/el-nuevo-very-conservative-streep"
 
 +++
-Este año 2020 las tasas de interés de los depósitos a plazo en Chile están históricamente bajas.
+El depósito a plazo, aunque muy popular, nunca ha sido muy sexy. Pero este 2020 las tasas de interés de los depósitos a plazo en Chile están históricamente bajas. O sea, los DAP están especialmente poco atractivos.
 
-Si te ha tocado cotizar un depósito a plazo, te habrás dado cuenta.
+Quizás te diste cuenta si has cotizado un depósito a plazo este año.
 
 Hicimos una búsqueda por internet en varios bancos, y notamos que la mayoría ofrecían intereses de 0,01% a 0,06% al mes (ver primer gráfico).
 
