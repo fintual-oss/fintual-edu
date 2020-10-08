@@ -21,15 +21,13 @@ Hicimos el ejercicio de simular un DAP a 30 días en varios bancos y notamos que
 
 Como para que te hagas una idea de lo bajas que están las tasas ofrecidas a personas, que son algo más altas que las tasas de depósitos cotizados en bolsa, que hoy están aún más bajas.
 
-Debido a esto, nuestro fondo de muy bajo riesgo Very Conservative Streep ha rentado menos desde mayo hasta agosto del 2020, ya que este fondo estaba compuesto principalmente por depósitos a plazo de bancos, de menos de 90 días de plazo.
-
-Debido a esto, nuestro fondo de muy bajo riesgo Very Conservative Streep ha rentado menos desde mayo hasta agosto del 2020, ya que este fondo estaba compuesto principalmente por depósitos a plazo de bancos, de menos de 90 días de plazo.
+Es por esto que Very Conservative Streep, nuestro fondo de muy bajo riesgo, ha rentado menos desde mayo hasta agosto del 2020. Este fondo estaba compuesto principalmente por depósitos a plazo de bancos, de menos de 90 días de plazo.
 
 ![Fondo Streep, desde sus inicios hasta el 7 de octubre de 2020. Fíjate en la “meseta” entre mayo y agosto](/uploads/2020-10-08/meseta-streep.png)_Fondo Streep, desde sus inicios hasta el 7 de octubre de 2020. Fíjate en la “meseta” entre mayo y agosto_
 
-Fondo Streep, desde sus inicios hasta el 6 de octubre de 2020. Notar la “meseta” entre mayo y agosto.
+Y por lo mismo tuvimos que hacerle algunos cambios. 
 
-El porqué de las tasas bajas
+### ¿Y por qué están bajas las tasas?
 
 La tasa de interés de los depósitos tiene que ver bastante con la Tasa de Política Monetaria (TPM) que fija el Banco Central de Chile, cuyo objetivo es determinar el nivel de la tasa de préstamos interbancarios, que es la tasa base para todos los préstamos y rentabilidad por inversión en instrumentos bancarios. Desde principios de abril está fijada en un 0,50% anual, el nivel más bajo de la historia, determinándose que descendiera a ese nivel con el fin de bajar el costo de los créditos, y de esa forma estimular la economía y disponibilizar el dinero en el sistema.
 
