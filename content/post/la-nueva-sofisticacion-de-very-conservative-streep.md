@@ -67,21 +67,23 @@ Este objetivo de rentabilidad variará en el tiempo, pero nunca será menor que 
 
 Además, pensamos en estabilizar el movimiento del fondo, pese a que la rentabilidad del fondo no está garantizada. 
 
-Para ello, añadimos un mecanismo en donde se mantiene una cuenta llamada “provisión”, todos los días en que los activos renten más que el retorno objetivo (en ese caso, el exceso de retorno se traspasa a la cuenta de provisión, hasta que esta cuenta llegue al 1% del patrimonio del fondo), de modo que se compensen los movimientos de mercado de los días en que los activos renten menos que el objetivo. Siempre y cuando esa provisión es menor al 1% del patrimonio del fondo, nosotros no podemos cobrar comisiones variables, comisiones que serán iguales al exceso de retorno. De esta forma, este mecanismo incentiva a que el fondo haga pago efectivo de remuneraciones a Fintual cuando muestre de forma consistente que sus activos pueden entregar el objetivo de rentabilidad establecido.
+Para esto añadimos un mecanismo en donde se mantiene una cuenta llamada “provisión” todos los días en que los activos renten más que el retorno objetivo (en ese caso, el exceso de retorno se traspasa a la cuenta de provisión, hasta que esta cuenta llegue al 1% del patrimonio del fondo), de modo que se compensen los movimientos de mercado de los días en que los activos renten menos que el objetivo. Siempre y cuando esa provisión es menor al 1% del patrimonio del fondo, nosotros no podemos cobrar comisiones variables, comisiones que serán iguales al exceso de retorno. 
 
-**En palabras más simples, la única forma que tendremos para cobrar comisiones es si el fondo renta por sobre el retorno objetivo y además tiene provisiones de al menos un 1% del patrimonio del fondo que sirvan para estabilizar el movimiento del fondo.**
+De esta forma, este mecanismo incentiva a que el fondo haga pago efectivo de remuneraciones a Fintual cuando muestre de forma consistente que sus activos pueden entregar el objetivo de rentabilidad establecido.
+
+#### **En palabras más simples, la única forma que tendremos para cobrar comisiones es si el fondo renta por sobre el retorno objetivo y además tiene provisiones de al menos un 1% del patrimonio del fondo que sirvan para estabilizar el movimiento del fondo.**
 
 Estimamos que pasarán unos 12 meses antes de que la provisión de Streep alcance el 1% del fondo. Sólo luego de alcanzar ese nivel podremos cobrar comisiones desde nuestro lado. Como referencia, el fondo comenzó a operar con estos cambios a partir del 26 de septiembre del 2020.
 
 ## La cartera de Streep también se renueva
 
-Volvamos ahora a un tema importante de saber. Agregamos al fondo porcentajes acotados de estrategias de crédito privado, que es una clase de activos financieros donde el crédito, en vez de ser intermediado por un banco (o por un instrumento público de deuda), es entregado de forma directa a la persona o empresa.
+Volvamos ahora a un tema importante. Agregamos al fondo porcentajes acotados de estrategias de crédito privado, que es una clase de activos financieros donde el crédito, en vez de ser intermediado por un banco (o por un instrumento público de deuda), es entregado de forma directa a la persona o empresa.
 
 Es decir, es un crédito que “se salta a los bancos”.
 
 **La ventaja es que ofrece una mucha mejor tasa de interés, tanto para el que recibe el crédito como para el que entrega el crédito**. Es mejor para “ambos lados”: _win-win_.
 
-Para invertir en este tipo de créditos, cerramos contratos con al menos cuatro distintos gestores especializados en créditos privados de corto plazo, cada uno de los cuales son expertos en manejo de riesgos relativos al crédito y a las garantías asociadas a ellos. En porcentajes acotados del fondo, existirán inversiones en cada una de las distintas gestoras, y por lo tanto, habrá un gran nivel de atomización y diversificación del riesgo de crédito.
+Para invertir en este tipo de créditos cerramos contratos con al menos cuatro distintos gestores especializados en créditos privados de corto plazo, cada uno de los cuales son expertos en manejo de riesgos relativos al crédito y a las garantías asociadas a ellos. En porcentajes acotados del fondo, existirán inversiones en cada una de las distintas gestoras, y por lo tanto, habrá un gran nivel de atomización y diversificación del riesgo de crédito.
 
 Manejaremos además el fondo de modo que el crédito privado no supere más del 35% de la cartera. El resto del fondo, es decir, al menos un 65%, será invertido en activos tradicionales, principalmente depósitos y deuda bancaria o deuda pública de duración promedio algo menor a un año.
 
