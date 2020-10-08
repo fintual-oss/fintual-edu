@@ -3,7 +3,7 @@ aliases = []
 author = "Omar Larré"
 categories = ["educación financiera"]
 date = 2020-10-07T13:32:36Z
-description = ""
+description = "Ahora el colchón tiene una comisión variable que se cobra sólo si al fondo le va mejor que a un objetivo de rentabilidad que será competitivo con respecto a los depósitos a plazos."
 hide = false
 image = "/uploads/2020-10-08/streepdown.png"
 title = "La nueva sofisticación de Very Conservative Streep"
@@ -52,7 +52,7 @@ El nivel tan bajo de tasas de interés nos obligó a reformular el fondo Streep,
 
 <div style="text-align:center"> <figure> <img src="/uploads/2020-10-08/meryl.png"> <figcaption style="display:block;text-align:center;font-size:.8rem"><i>Streep 2.0. Fuente: Giphy</i></figcaption> </figure> </div>
 
-Primero, para que rentara un poco más, Streep tenía que tomar algo más de riesgos y escapar un poco de los depósitos a plazo de grandes bancos. 
+Primero, para que rentara un poco más, Streep tenía que tomar algo más de riesgos y escapar un poco de los depósitos a plazo de grandes bancos.
 
 Para eso, invertimos en instrumentos de deuda de mayor duración, pero no de un plazo excesivamente largo, sino que deuda de alrededor de un año de duración o algo menos. Al mismo tiempo, invertimos pequeños porcentajes de estrategias de crédito privado de corto plazo, que tienen mejores tasas de interés, y cuyo tema explicaremos más adelante.
 
@@ -60,13 +60,13 @@ Lo segundo era cambiar la estructura de cobros.
 
 #### Decidimos cobrar 0% de remuneración fija, es decir, no cobramos comisión fija. Cobraremos solo una remuneración variable: una comisión que únicamente se cobra si al fondo le va mejor que a un objetivo de rentabilidad que será competitivo con respecto a los depósitos a plazos.
 
-Por ejemplo, decidimos partir octubre del 2020 con una rentabilidad objetivo de 1,20% en base anual, que es aproximadamente 0,10% mensual, y que anda mejor que la mayoría de los depósitos a plazo. 
+Por ejemplo, decidimos partir octubre del 2020 con una rentabilidad objetivo de 1,20% en base anual, que es aproximadamente 0,10% mensual, y que anda mejor que la mayoría de los depósitos a plazo.
 
 Este objetivo de rentabilidad variará en el tiempo, pero nunca será menor que la TPM, ya que el objetivo de rentabilidad es de la forma TPM + _spread_, con la variable _spread_ siempre positiva y con un valor inicial de 0,70% (esto explica que el retorno objetivo actual del fondo es 1,20% anual, ya que la TPM hoy está en 0,50% al año). El valor de la variable _spread_ siempre estará disponible para consultarlo desde la web de Fintual (actualmente lo puedes revisar en [fintual.cl/docs](https://www.fintual.com/docs)).
 
-Además, pensamos en estabilizar el movimiento del fondo, pese a que la rentabilidad del fondo no está garantizada. 
+Además, pensamos en estabilizar el movimiento del fondo, pese a que la rentabilidad del fondo no está garantizada.
 
-Para esto añadimos un mecanismo en donde se mantiene una cuenta llamada “provisión” todos los días en que los activos renten más que el retorno objetivo (en ese caso, el exceso de retorno se traspasa a la cuenta de provisión, hasta que esta cuenta llegue al 1% del patrimonio del fondo), de modo que se compensen los movimientos de mercado de los días en que los activos renten menos que el objetivo. Siempre y cuando esa provisión es menor al 1% del patrimonio del fondo, nosotros no podemos cobrar comisiones variables, comisiones que serán iguales al exceso de retorno. 
+Para esto añadimos un mecanismo en donde se mantiene una cuenta llamada “provisión” todos los días en que los activos renten más que el retorno objetivo (en ese caso, el exceso de retorno se traspasa a la cuenta de provisión, hasta que esta cuenta llegue al 1% del patrimonio del fondo), de modo que se compensen los movimientos de mercado de los días en que los activos renten menos que el objetivo. Siempre y cuando esa provisión es menor al 1% del patrimonio del fondo, nosotros no podemos cobrar comisiones variables, comisiones que serán iguales al exceso de retorno.
 
 De esta forma, este mecanismo incentiva a que el fondo haga pago efectivo de remuneraciones a Fintual cuando muestre de forma consistente que sus activos pueden entregar el objetivo de rentabilidad establecido.
 
@@ -86,7 +86,7 @@ Para invertir en este tipo de créditos cerramos contratos con al menos cuatro d
 
 Manejaremos además el fondo de modo que el crédito privado no supere más del 35% de la cartera. El resto del fondo, es decir, al menos un 65%, será invertido en activos tradicionales, principalmente depósitos y deuda bancaria o deuda pública de duración promedio algo menor a un año.
 
-En definitiva, con esas modificaciones al fondo Streep esperamos entregar una rentabilidad muy competitiva respecto a un depósito a plazo, con un riesgo controlado y con la misma liquidez que ya teníamos desde antes. O con mejor liquidez incluso, ya que pronto mejoraremos el pago en tres días bancarios, bajándolo a dos días bancarios.
+En definitiva, con esas modificaciones al fondo Streep esperamos entregar una rentabilidad muy competitiva respecto a un depósito a plazo, con un riesgo controlado y con la misma liquidez que ya teníamos desde antes. **O con mejor liquidez incluso, ya que pronto mejoraremos el pago en tres días bancarios, bajándolo a dos días bancarios.**
 
 {{% prueba_fintual
 utmcontent="streep_2punto0"
