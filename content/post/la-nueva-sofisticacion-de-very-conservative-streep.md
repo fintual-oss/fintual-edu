@@ -17,7 +17,7 @@ Si te ha tocado cotizar un depósito a plazo, te habrás dado cuenta.
 
 Hicimos una búsqueda por internet en varios bancos, y notamos que la mayoría ofrecían intereses de 0,01% a 0,06% al mes (ver primer gráfico). 
 
-![](/uploads/2020-10-08/tasas-depositos-a-plazo-bancarios-a-30-dias.png)
+![Fondo Streep, desde sus inicios hasta el 7 de octubre de 2020. Fíjate en la “meseta” entre mayo y agosto](/uploads/2020-10-08/tasas-depositos-a-plazo-bancarios-a-30-dias.png)_Fondo Streep, desde sus inicios hasta el 7 de octubre de 2020. Fíjate en la “meseta” entre mayo y agosto_
 
 Esto es para tener una idea de lo bajo que están las tasas ofrecidas a personas, que son algo más altas que las tasas de depósitos cotizados en bolsa, que hoy están aún más bajas.
 
