@@ -1,6 +1,6 @@
 +++
 aliases = []
-author = "Pedro Pineda"
+author = "Omar Larré"
 categories = ["educación financiera"]
 date = 2020-10-07T13:32:36Z
 description = ""
@@ -13,13 +13,11 @@ url = "/el-nuevo-very-conservative-streep"
 +++
 El depósito a plazo, aunque muy popular, nunca ha sido muy sexy. Pero este 2020 las tasas de interés de los depósitos a plazo en Chile están históricamente bajas. O sea, los DAP están especialmente poco atractivos.
 
-Quizás te diste cuenta si has cotizado un depósito a plazo este año.
+Quizás te diste cuenta si has cotizado un depósito a plazo este año. 
 
-Hicimos una búsqueda por internet en varios bancos, y notamos que la mayoría ofrecían intereses de 0,01% a 0,06% al mes (ver primer gráfico).
+Hicimos el ejercicio de simular varios DAP en varios bancos y notamos que la mayoría ofrecían intereses de 0,01% a 0,06% al mes.
 
-![Fondo Streep, desde sus inicios hasta el 7 de octubre de 2020. Fíjate en la “meseta” entre mayo y agosto](/uploads/2020-10-08/tasas-depositos-a-plazo-bancarios-a-30-dias.png)_Fondo Streep, desde sus inicios hasta el 7 de octubre de 2020. Fíjate en la “meseta” entre mayo y agosto_
-
-Esto es para tener una idea de lo bajo que están las tasas ofrecidas a personas, que son algo más altas que las tasas de depósitos cotizados en bolsa, que hoy están aún más bajas.
+![Fondo Streep, desde sus inicios hasta el 7 de octubre de 2020. Fíjate en la “meseta” entre mayo y agosto](/uploads/2020-10-08/tasas-depositos-a-plazo-bancarios-a-30-dias.png)Esto es para tener una idea de lo bajo que están las tasas ofrecidas a personas, que son algo más altas que las tasas de depósitos cotizados en bolsa, que hoy están aún más bajas.
 
 Debido a esto, nuestro fondo de muy bajo riesgo Very Conservative Streep ha rentado menos desde mayo hasta agosto del 2020, ya que este fondo estaba compuesto principalmente por depósitos a plazo de bancos, de menos de 90 días de plazo.
 
