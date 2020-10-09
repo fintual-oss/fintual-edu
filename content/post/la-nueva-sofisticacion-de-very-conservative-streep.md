@@ -10,7 +10,7 @@ title = "¿Buscas alternativas al depósito a plazo? Échale un ojo a Streep 2.0
 url = "/el-nuevo-very-conservative-streep"
 
 +++
-El depósito a plazo, aunque muy popular, nunca ha sido una inversión sexy. Pero este 2020 las tasas de interés de los depósitos a plazo en Chile están históricamente bajas. O sea, los DAP están especialmente poco atractivos.
+El depósito a plazo, aunque muy popular, nunca ha sido una inversión sexy. Este 2020 las tasas de interés de los depósitos a plazo en Chile están históricamente bajas. O sea, los DAP están especialmente poco atractivos.
 
 Quizás te diste cuenta si has cotizado un depósito a plazo este año.
 
