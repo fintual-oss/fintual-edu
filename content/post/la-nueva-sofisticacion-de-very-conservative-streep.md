@@ -30,7 +30,7 @@ Y por lo mismo tuvimos que hacerle algunos cambios.
 
 La tasa de interés de los depósitos tiene que ver bastante con la Tasa de Política Monetaria (TPM) que fija el Banco Central de Chile.
 
-El objetivo de la TPM es determinar el nivel de la tasa de préstamos interbancarios, que es la tasa base para todos los préstamos y rentabilidad por inversión en instrumentos bancarios.
+El objetivo de la TPM es determinar el interés que se pagan los bancos entre ellos cuando se piden dinero prestado. Esto finalmente afecta las tasas de todos los préstamos y la rentabilidad de los instrumentos bancarios
 
 Desde principios de abril está fijada en un 0,50% anual, el nivel más bajo de la historia, determinándose que descendiera a ese nivel con el fin de bajar el costo de los créditos, y de esa forma estimular la economía y disponibilizar el dinero en el sistema.
 
@@ -56,7 +56,7 @@ Primero, para que rentara un poco más, Streep tenía que tomar algo más de rie
 
 Para eso, invertimos en instrumentos de deuda de mayor duración, pero no de un plazo excesivamente largo, sino que deuda de alrededor de un año de duración o algo menos. Al mismo tiempo, invertimos pequeños porcentajes de estrategias de crédito privado de corto plazo, que tienen mejores tasas de interés, y cuyo tema explicaremos más adelante.
 
-Lo segundo era cambiar la estructura de cobros. **Decidimos cobrar 0% de remuneración fija, es decir, no cobramos comisión fija.** 
+Lo segundo era cambiar la estructura de cobros. **Decidimos cobrar 0% de remuneración fija, es decir, no cobramos comisión fija.**
 
 #### Cobraremos solo una remuneración variable: una comisión que únicamente se cobra si al fondo le va mejor que a un objetivo de rentabilidad que será competitivo con respecto a los depósitos a plazos.
 
