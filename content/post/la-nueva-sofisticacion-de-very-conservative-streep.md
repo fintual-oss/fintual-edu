@@ -56,7 +56,7 @@ Primero, para que rentara un poco más, Streep tenía que tomar algo más de rie
 
 Para eso, invertimos en instrumentos de deuda de mayor duración, pero no de un plazo excesivamente largo, sino que deuda de alrededor de un año de duración o algo menos. Al mismo tiempo, invertimos pequeños porcentajes de estrategias de crédito privado de corto plazo, que tienen mejores tasas de interés, y cuyo tema explicaremos más adelante.
 
-Lo segundo era cambiar la estructura de cobros. **Decidimos cobrar 0% de remuneración fija, es decir, no cobramos comisión fija.**
+Lo segundo era cambiar la estructura de cobros. Decidimos cobrar 0% de remuneración fija, es decir, no cobramos comisión fija.
 
 #### Cobraremos solo una remuneración variable: una comisión que únicamente se cobra si al fondo le va mejor que a un objetivo de rentabilidad que será competitivo con respecto a los depósitos a plazos.
 
