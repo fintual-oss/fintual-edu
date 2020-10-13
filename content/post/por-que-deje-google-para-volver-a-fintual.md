@@ -165,7 +165,7 @@ No sé si es el puro proceso de bienvenida que te bombardea con mil y un cosas q
 
 Es aquí cuando me di cuenta de lo mucho que me afectaba realmente que a mi compañero de trabajo, que llevaba 11 años en Google, nadie nunca le hubiera siquiera preguntado cómo llegó a Google. Yo había hecho nuevos amigos, varios trabajaban en Google, pero durante las horas de trabajo solo importaba el trabajo. No era terrible, era cómodo, así como nunca vi a nadie que le dijeran feliz cumpleaños, nunca vi alguien que se enojara (bueno, excepto algunos casos con el tipo mencionado en los párrafos anteriores, pero se entiende la idea).
 
-Hay otras razones que jugaron un rol importante en mi decisión, pero para evitar alargar esto, hablo solo de este tema. Me parece que es el punto más fuerte e interesante en la decisión que tomé.
+Hay otras razones que jugaron un rol importante en mi decisión, pero para evitar alargar esto, hablo solo de este tema. Me parece que la cultura es el punto más fuerte e interesante en la decisión que tomé.
 
 #### La película estaba clara
 
@@ -173,16 +173,16 @@ Era más feliz en Fintual que en Google.
 
 Los incentivos en Google apuntan a que las cosas se hagan bien, a que se desarrollen nuevos productos y que todos quieran seguir “subiendo de nivel” para ganar más dinero. Pero resulta que la cultura es sumamente individualista (en mi humilde opinión). Me tocó ver como todos se cambiaban de equipo regularmente (\~1 año), como la mayoría ni sabía si las personas de al lado tenían familia, amigos, etc. Es el precio que pagaron para poder escalar al tamaño que tienen hoy, creo yo.
 
-También creo que para varios, eso no tiene nada de malo. Hablaré más de eso al final, pero primero terminemos la historia.
+También creo que para varios, eso no tiene nada de malo. 
 
 #### Chaíto 👋
 
-Me fui inicialmente queriendo estar 2 a 3 años en Google antes de volver, pero al año ya tenía claro que iba a volver antes. Ya había aprendido lo que quería. Terminé estando un año y medio más o menos. En vez de 2–3 semanas para cambiar de pega, de casa y de país, aprendí que era mejor tomarse más tiempo esta vez y me tomé 2 meses antes de volver a querer trabajar en Chile.
+Me fui a Google queriendo estar 2 a 3 años antes de volver a Chile, pero al año ya tenía claro que iba a volver antes. Ya había aprendido lo que quería. Terminé estando un año y medio más o menos. En vez de 2–3 semanas para cambiar de pega, de casa y de país, aprendí que era mejor tomarse más tiempo esta vez y me tomé 2 meses antes de volver a querer trabajar en Chile.
 
-¿Y dónde iba a trabajar? Pues en Fintual. Ni dos veces lo tuve que pensar. Haber tenido la experiencia que tuve, con distintos equipos, con todos los compañeros del programa a través de quiénes viví sus propias historias, tenía clarísimo que es una oportunidad enorme trabajar con los cracks de Fintual. Sea donde sea que trabajes, encontrar un grupo bacán de personas con quienes compartir la mayor parte de tus días, es lejos lo más valioso. Trabajando encerrado en la pieza por la pandemia, mi polola hasta se ha quejado de lo mucho y fuerte que me río mientras trabajo. Eso sí que es disfrutar tu pega. Y sí, también se hace mucho entre risas. Que no te digan que no se puede reír y trabajar.
+¿Y dónde iba a trabajar? Pues en Fintual. Ni dos veces lo tuve que pensar. Haber tenido la experiencia que tuve, con distintos equipos, con todos los compañeros del programa a través de quiénes viví sus propias historias, tenía clarísimo que es una oportunidad enorme trabajar con los cracks de Fintual. Sea donde sea que trabajes, encontrar un grupo bacán de personas con quienes compartir la mayor parte de tus días es lejos lo más valioso. Trabajando encerrado en la pieza por la pandemia, mi polola hasta se ha quejado de lo mucho y fuerte que me río mientras trabajo. Eso sí que es disfrutar tu pega. Y sí, también se hace mucho entre risas. Que no te digan que no se puede reír y trabajar.
 
 #### Y ¿Fintual seguía igual?
 
-El Fintual al que llegué era súper distinto, en vez de ser los 9 que éramos cuando me fui, eran 35. No conocía todo el código nuevo y probablemente jamás llegue a conocerlo todo. Con tantos desarrolladores es imposible ya revisar todo lo que ocurre en cada esquina, hay muchas personalidades distintas, **ni siquiera era el único que había estado en Google.**
+El Fintual al que llegué era súper distinto, en vez de ser los 9 que éramos cuando me fui, eran 35. No conocía todo el código nuevo y probablemente jamás llegue a conocerlo todo. Con tantos desarrolladores es imposible ya revisar todo lo que ocurre en cada esquina, hay muchas personalidades distintas y **ni siquiera era el único que había estado en Google.**
 
-![](/uploads/2020-07-22/logou.png)
+![](/uploads/2020-09-03/imagotipo.png)
