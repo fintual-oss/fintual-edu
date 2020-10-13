@@ -28,8 +28,8 @@ Como el Estado quiere que ahorres para tu jubilación, te da dos beneficios para
 
 #### **¿Y cómo sé qué régimen de APV me conviene?**
 
-Depende de lo que ganes.   
-  
+Depende de lo que ganes.
+
 Si tus ingresos imponibles (líquido sin impuestos) mensuales son menores a $3.473.610 (a diciembre de 2019), te conviene invertir en el régimen A hasta maximizar el beneficio. Cualquier monto que inviertas sobre ese monto debería irse al régimen B. Si tu sueldo imponible es mayor a $3.384.000, normalmente te convendrá tener todo tu APV en el régimen B.
 
 Hicimos [esta planilla](https://docs.google.com/spreadsheets/d/1jnpbeqiFwQ1qFFITIaMBAy0F3B9_MXm8MdDC8MQNDaA/copy) para que veas qué régimen te conviene.
@@ -128,7 +128,7 @@ Aparte de los beneficios, la plata que ahorres se va a invertir, lo que signific
 
 ![](/uploads/APVeneltiempo.png)
 
-#### **Y en Fintual tenemos el APV más barato del mercado.**
+#### **Y en Fintual tenemos uno de los APV más baratos del mercado.**
 
 ¿Qué esperas?
 
