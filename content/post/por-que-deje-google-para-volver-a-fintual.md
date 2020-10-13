@@ -137,9 +137,9 @@ Ahí me encontré con gente capísima. La mitad de ese equipo era gente que llev
 
 Trabajé más de un año en ese equipo, hice muchos aportes, partí entendiendo nada y terminé participando en decisiones importantes sobre el nuevo sistema y cómo se procesarían los billones de documentos por segundo que iba a ser necesario procesar con la nueva versión.
 
-#### Mmm, ¿Y por qué me fui?
+#### Hmmm, ¿Y por qué me fui?
 
-No es una respuesta fácil.
+La respuesta no es fácil.
 
 De hecho, he cambiado mi respuesta a medida que pasa el tiempo y vuelvo a mirar para atrás. Quién sabe, quizás en un tiempo esté en desacuerdo con lo que escriba a continuación, pero acá va:
 
@@ -153,15 +153,15 @@ Hubo una persona en particular del equipo, que era capo, pero también tenía al
 
 Tenía poco o nada filtro social. En una empresa donde pocos se atreven a tocarle el hombro al de al lado y, en cambio, te hablan por el chat para agendar una reunión para conversar, me llamó mucho la atención el efecto que generaba esta persona en el equipo.
 
-Ocasionalmente decía cosas que está derechamente mal decir. Generalmente –por suerte– alguien saltaba a pararle los carros.
+Ocasionalmente decía cosas que están derechamente mal decir. Generalmente –por suerte– alguien saltaba a pararle los carros.
 
 Pero además se saltaba esa norma social de no tocar el hombro y de (quizás sobre) respetar la vida privada de los demás.
 
 Muchas veces se generaron conversaciones entretenidas gracias a él. Su mala conducta y poco respeto hicieron que el ambiente de trabajo se me hiciera más agradable.
 
-¡¿Qué?! Por supuesto hubo excepciones en que quedé en shock cuando decía cosas que no correspondían, me sentí muy incómodo, pero esas otras veces hicieron que me diera cuenta de algo que no había tenido el tiempo de analizar antes: la gran mayoría no se atrevía a conversar de cosas personales. ¡Y yo tampoco me estaba atreviendo! 
+¡¿Qué?! Por supuesto hubo excepciones en que quedé en shock cuando decía cosas que no correspondían, me sentí muy incómodo, pero esas otras veces hicieron que me diera cuenta de algo que no había tenido el tiempo de analizar antes: la gran mayoría no se atrevía a conversar de cosas personales. ¡Y yo tampoco me estaba atreviendo!
 
-No sé si es el puro proceso de bienvenida que te bombardea con mil y un cosas que no debes hacer ni decir o algo más, pero me di cuenta que preguntas tan simples como “qué harás después del trabajo?” prefería no hacerlas. ¿Qué tal si era algo de lo que no quieren hablar? ¿Quizás lo consideraban una invasión a su vida privada? Estuve más de un año, y si bien mi equipo era muy simpático, ni una sola vez escuché que alguien estuviera de cumpleaños.
+No sé si es el puro proceso de bienvenida que te bombardea con mil y un cosas que no debes hacer ni decir o algo más, pero me di cuenta que preguntas tan simples como “qué harás después del trabajo?” prefería no hacerlas. ¿Qué tal si era algo de lo que no quieren hablar? ¿Quizás lo consideraban una invasión a su vida privada? Estuve más de un año y, si bien mi equipo era muy simpático, ni una sola vez escuché que alguien estuviera de cumpleaños.
 
 Es aquí cuando me di cuenta de lo mucho que me afectaba realmente que a mi compañero de trabajo, que llevaba 11 años en Google, nadie nunca le hubiera siquiera preguntado cómo llegó a Google. Yo había hecho nuevos amigos, varios trabajaban en Google, pero durante las horas de trabajo solo importaba el trabajo. No era terrible, era cómodo, así como nunca vi a nadie que le dijeran feliz cumpleaños, nunca vi alguien que se enojara (bueno, excepto algunos casos con el tipo mencionado en los párrafos anteriores, pero se entiende la idea).
 
