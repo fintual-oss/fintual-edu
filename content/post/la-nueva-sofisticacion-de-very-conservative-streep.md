@@ -5,7 +5,7 @@ categories = ["educación financiera"]
 date = 2020-10-07T13:32:36Z
 description = "Ahora el colchón tiene una comisión variable que se cobra sólo si al fondo le va mejor que a un objetivo de rentabilidad que será competitivo con respecto a los depósitos a plazos."
 hide = true
-image = "/uploads/2020-10-08/streepdown.png"
+image = "/uploads/2020-10-15/1602798024808_streep-fintual.png"
 title = "¿Buscas alternativas al depósito a plazo? Échale un ojo a Streep 2.0"
 url = "/el-nuevo-very-conservative-streep"
 
