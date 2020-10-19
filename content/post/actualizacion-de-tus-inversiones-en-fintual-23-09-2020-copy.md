@@ -4,41 +4,30 @@ author = "Stella Melaragno"
 categories = ["noticias"]
 date = 2020-10-18T22:43:07Z
 description = "Explicación sobre los últimos movimientos de mercado."
-draft = true
 hide = true
 image = "/uploads/2020-08-28/cambios-fintual-2.png"
 title = "Actualización de tus inversiones en Fintual: 19/10/2020"
 url = "/actualizacion-de-tus-inversiones-en-fintual-19-octubre-2020"
 
 +++
-Este miércoles 23 fue una jornada de bajas del mercado accionario, en un mes de septiembre muy volátil o marcado por movimientos bruscos de precios.
+Este lunes 19 de octubre fue una jornada de bajas en los mercados accionarios y en el valor del dólar, principalmente debido a la falta de acuerdo sobre el paquete de estímulo por covid que se está discutiendo en EEUU.
 
-El mercado global fue arrastrado principalmente por la baja de precios de acciones de empresas tecnológicas globales. Esto hizo caer el valor de los fondos en Fintual, en especial las estrategias más arriesgadas.
+**La volatilidad de los mercados es parte normal de una inversión, especialmente previo a elecciones en EEUU. Nuestra recomendación es no hacer cambios en tu inversión si elegiste bien el plazo y riesgo.**
 
-Esta caída sucede en un contexto de incertidumbre sobre la segunda ola de contagios de covid-19 en Europa y la necesidad de más impulso fiscal por parte de las economías desarrolladas, en especial de Estados Unidos.
+#### **Los mercados**
 
-A esto último se agrega la incertidumbre sobre las elecciones presidenciales de Estados Unidos programadas para el 3 de noviembre. Puedes leer más sobre el impacto que tienen estas elecciones en los fondos de Fintual [acá](https://edu.fintual.cl/elecciones-usa-y-el-impacto-en-fintual/).
+La caída estuvo impulsada por las bajas expectativas de lograr un acuerdo en el corto plazo respecto del paquete de estímulo estadounidense y el aumento de casos de covid en dicho país.
 
-### ¿Hay que hacer algo?
+De acuerdo a Nancy Pelosi, Presidente de la Cámara de Representantes de EEUU, será necesario cerrar las negociaciones antes del final del martes 20 para tener un paquete aprobado antes de las elecciones.
 
-No es necesario. Es una caída dentro de lo contemplado en un portafolio diseñado para largo plazo. Por eso, no haremos ningún cambio ni recomendamos que alguien lo haga, ya que sólo afectó a los portafolios que recomendamos para horizontes de inversión de un año o más.
+Las negociaciones con el Secretario del Tesoro, Steven Mnuchin, están avanzando, pero el plazo está cerca y eso se tradujo en bajas en los precios de los activos. El índice Nasdaq, que contiene acciones de empresas tecnológicas, cayó 1,65% hoy, y el S&P 500, que contiene las 500 acciones más importantes en Estados Unidos, bajó 1,63%.
 
-Después de todo, es una caída grande pero aún dentro de lo normal, incluso contemplado en los escenarios pesimistas de nuestros modelos de riesgo.
+Por otro lado, EEUU lleva cinco días consecutivos superando los 50.000 casos diarios de contagio por covid.
 
-**Si elegiste bien el plazo y riesgo de tus inversiones, recomendamos mantenerlas sin cambios hasta que se cumpla ese plazo.**
+#### **El dólar**
 
-### Algo de contexto de índices financieros y economía global
+El dólar observado hoy cerró en $788,27, una caída de 0,93%.
 
-El índice S&P 500, que contiene las 500 acciones más importantes en Estados Unidos, bajó -2,37%, llegando a lo más bajo en 8 semanas, mientras que el NASDAQ, que contempla acciones de empresas tecnológicas, bajó un -3,02%.
+Dicha desvalorización se debió a las expectativas sobre el paquete de estímulo en EEUU, sumado a la recuperación de la economía China, que creció 4,9% en su tercer trimestre respecto del año anterior.
 
-Otros activos, como el cobre y el oro, también sufrieron pérdidas considerables. En Chile, el IPSA cayó un -3,14%.
-
-### ¿Era predecible?
-
-Era razonable que ocurriese un aumento de volatilidad y ajuste de los precios en septiembre, pero no predecible.
-
-Es importante distinguir entre estas dos, ya que tratar de predecir el día y magnitud de una caída del mercado es similar a tratar de predecir un terremoto: mientras que es muy fácil decir que en Chile puede ocurrir luego un terremoto, no es fácil determinar ni la magnitud ni el día exacto de cuando suceda.
-
-En este caso, era razonable pensar que luego de 5 meses de buenos resultados de los precios de acciones, estos llegarían a valorizaciones que se debían reajustar. Es difícil saber si esto implique una corrección mayor.
-
-Con todo, vemos esta baja como un ajuste saludable de precios.
+Dado que parte de nuestros fondos (principalmente los más riesgosos) están invertidos en dólares, esta desvalorización tiene un impacto negativo en su rentabilidad.
