@@ -1,14 +1,14 @@
 +++
 aliases = []
-author = "Omar Larré"
+author = "Stella Melaragno"
 categories = ["noticias"]
-date = 2020-09-22T22:43:07Z
-description = "Explicación sobre los movimientos de mercado."
+date = 2020-10-18T22:43:07Z
+description = "Explicación sobre los últimos movimientos de mercado."
 draft = true
 hide = true
 image = "/uploads/2020-08-28/cambios-fintual-2.png"
-title = "Actualización de tus inversiones en Fintual: 23/09/2020-(copy)"
-url = "/actualizacion-de-tus-inversiones-en-fintual-23-septiembre"
+title = "Actualización de tus inversiones en Fintual: 19/10/2020-(copy)"
+url = "/actualizacion-de-tus-inversiones-en-fintual-19-octubre-2020"
 
 +++
 Este miércoles 23 fue una jornada de bajas del mercado accionario, en un mes de septiembre muy volátil o marcado por movimientos bruscos de precios.
