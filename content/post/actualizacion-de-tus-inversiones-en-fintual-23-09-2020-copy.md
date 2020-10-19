@@ -7,7 +7,7 @@ description = "Explicación sobre los últimos movimientos de mercado."
 draft = true
 hide = true
 image = "/uploads/2020-08-28/cambios-fintual-2.png"
-title = "Actualización de tus inversiones en Fintual: 19/10/2020-(copy)"
+title = "Actualización de tus inversiones en Fintual: 19/10/2020"
 url = "/actualizacion-de-tus-inversiones-en-fintual-19-octubre-2020"
 
 +++
