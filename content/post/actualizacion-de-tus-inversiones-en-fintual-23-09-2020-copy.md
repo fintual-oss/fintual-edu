@@ -12,7 +12,7 @@ url = "/actualizacion-de-tus-inversiones-en-fintual-19-octubre-2020"
 +++
 Este lunes 19 de octubre fue una jornada de bajas en los mercados accionarios y en el valor del dólar, principalmente debido a la falta de acuerdo sobre el paquete de estímulo por covid que se está discutiendo en EEUU.
 
-**La volatilidad de los mercados es parte normal de una inversión, especialmente previo a elecciones en EEUU. Nuestra recomendación es no hacer cambios en tu inversión si elegiste bien el plazo y riesgo.**
+##### **La volatilidad de los mercados es parte normal de una inversión, especialmente previo a elecciones en EEUU. Nuestra recomendación es no hacer cambios en tu inversión si elegiste bien el plazo y riesgo.**
 
 #### **Los mercados**
 
