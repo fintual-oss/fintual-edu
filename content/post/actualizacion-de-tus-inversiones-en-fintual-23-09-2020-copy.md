@@ -20,7 +20,7 @@ La caída estuvo impulsada por las bajas expectativas de lograr un acuerdo en el
 
 De acuerdo a Nancy Pelosi, Presidente de la Cámara de Representantes de EEUU, será necesario cerrar las negociaciones antes del final del martes 20 para tener un paquete aprobado antes de las elecciones.
 
-Las negociaciones con el Secretario del Tesoro, Steven Mnuchin, están avanzando, pero el plazo está cerca y eso se tradujo en bajas en los precios de los activos. El índice Nasdaq, que contiene acciones de empresas tecnológicas, cayó 1,65% hoy, y el S&P 500, que contiene las 500 acciones más importantes en Estados Unidos, bajó 1,63%.
+Las conversaciones con el Secretario del Tesoro, Steven Mnuchin, están avanzando, pero el plazo está cerca y eso se tradujo en bajas en los precios de los activos. El índice Nasdaq, que contiene acciones de empresas tecnológicas, cayó 1,65% hoy, y el S&P 500, que contiene las 500 acciones más importantes en Estados Unidos, bajó 1,63%.
 
 Por otro lado, EEUU lleva cinco días consecutivos superando los 50.000 casos diarios de contagio por covid.
 
