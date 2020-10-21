@@ -75,10 +75,8 @@ La confianza en EE.UU. es uno de los principales factores responsables de la val
 
 ### ¿Y cómo influye todo esto en mis inversiones en Fintual?
 
-Periodos de incertidumbre, como los que vivimos ahora, tienen una consecuencia directa en la volatilidad del mercado. Y eso es más visible en nuestros fondos más riesgosos, Moderate Pitt y Riscky Norris, y un poco en Conservative Clooney. Lo que podemos esperar son algunas semanas de especulación de mercado, con volatilidad. Sin embargo, a medio plazo esas fluctuaciones que vivimos ahora serán solamente una etapa de las fluctuaciones del mercado. Nuestra recomendación es no hacer cambios en tu inversión si elegiste bien el plazo y riesgo.
+Periodos de incertidumbre, como los que vivimos ahora, tienen una consecuencia directa en la volatilidad del mercado. Y eso es más visible en nuestros fondos más riesgosos, Moderate Pitt y Riscky Norris, y un poco en Conservative Clooney. Lo que podemos esperar son algunas semanas de especulación de mercado, con volatilidad. Sin embargo, a medio plazo esas fluctuaciones que vivimos ahora serán solamente una etapa de las fluctuaciones del mercado. **Nuestra recomendación es no hacer cambios en tu inversión si elegiste bien el plazo y riesgo.**
 
-Por supuesto, las elecciones estadounidenses podrán tener efecto en la cotización, pero hay algunas cosas que ya sabemos:
-El efecto de las elecciones americanas es uno de los muchísimos factores que influencian el dólar
-Pese a que a los mercados generalmente les gusta más una victoria republicana, hay estudios que sugieren que quizás una victoria democrática podría ser positiva para las acciones
-Es importante recalcar que la composición de los fondos de Fintual está hecha usando un modelo que usa datos desde 2007. O sea, contempla las caídas de los mercados experimentadas en la crisis subprime y por los efectos de la pandemia del covid-19.
+Recuerda que la composición de los fondos de Fintual está hecha usando un modelo que usa datos desde 2007. O sea, contempla las caídas de los mercados experimentadas en la crisis subprime y por los efectos de la pandemia del covid-19.
+
 Las carteras de Moderate Pitt y Risky Norris tienen más de 3.500 empresas distintas como subyacentes y son fondos recomendados para inversiones de mediano o largo plazo.
