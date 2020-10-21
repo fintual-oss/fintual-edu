@@ -15,11 +15,11 @@ Las elecciones estadounidenses son el martes 3 de noviembre. Se vota quién ser�
 
 Se espera un número récord de personas votando, muchas a través del voto postal. Con tantas personas votando por correo puede que ese martes no sepamos quién ganó. Quizás tengamos que esperar días –o semanas– hasta saber los resultados.
 
-Una de las claves para analizar las elecciones en EE.UU. es fijarse no sólo el puesto de presidente, sino que también en el Congreso. Si un presidente tiene un congreso de oposición, tendrá mucha más dificultad para implementar sus políticas públicas. Y esto suele tener un impacto negativo en la economía, sobre todo en un contexto de recuperación económica post covid.
+Una de las claves para analizar las elecciones en EE.UU. es fijarse no sólo el puesto de presidente, sino que también en el Congreso. Si un presidente tiene un congreso de oposición, tendrá mucha más dificultad para implementar sus políticas públicas. Esto suele tener un impacto negativo en la economía, sobre todo en un contexto de recuperación económica post covid.
 
 No sería raro que los mercados estén un poco volátiles estas semanas, principalmente porque a los mercados no les gusta la incertidumbre.
 
-El panorama en el Congreso
+### El panorama en el Congreso
 
 Este año, los estadounidenses van a elegir los 435 asientos de la Cámara de Representantes (como la Cámara de Diputados, pero gringa). Se necesitan 218 escaños para tener mayoría.
 
@@ -33,11 +33,11 @@ En estas las elecciones sólo se van a elegir 35 de estos puestos y los demócra
 
 The Economist señala que hay 75% de probabilidad de que los demócratas consigan más de 51 asientos, que los dejaría con mayoría en el Senado.
 
-Posibles resultados y su consecuencia macroeconómica
+### Posibles resultados y su consecuencia macroeconómica
 
 La posibilidad de una victoria demócrata siempre genera miedo para los mercados, que suelen sentirse más cómodos con una victoria republicana.
 
-Una victoria del candidato demócrata Joe Biden y una mayoría demócrata en ambas cámaras podría abrir camino para  impuestos más altos y mayor regulación a las empresas. Este escenario genera miedo en los inversionistas.
+Una victoria del candidato demócrata Joe Biden y una mayoría demócrata en ambas cámaras podría abrir camino para  impuestos más altos y mayor regulación a las empresas. Y este escenario genera miedo en los inversionistas.
 
 Pero para los mercados tener las cámaras divididas sería peor que una victoria demócrata. No tener mayoría implica más dificultad para aprobar estímulos económicos, que generalmente le dan un empujón al mercado.
 
