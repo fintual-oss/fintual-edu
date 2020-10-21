@@ -23,7 +23,7 @@ No sería raro que los mercados estén un poco volátiles estas semanas, princip
 
 Este año, los estadounidenses van a elegir los 435 asientos de la Cámara de Representantes (como la Cámara de Diputados, pero gringa). Se necesitan 218 escaños para tener mayoría.
 
-La proyección de [The Economist](https://projects.economist.com/us-2020-forecast/house) (actualizado al 20 de octubre) es que los demócratas tendrán 241 asientos y los republicanos 194. O sea, hay 99% de probabilidad que los demócratas ganen la Cámara.
+La proyección de The Economist (actualizado al 20 de octubre) es que los demócratas tendrán 241 asientos y los republicanos 194. O sea, [hay 99% de probabilidad que los demócratas ganen la Cámara](https://projects.economist.com/us-2020-forecast/house).
 
 En el Senado cambian un poco las cosas.
 
@@ -44,7 +44,6 @@ Pero para los mercados tener las cámaras divididas sería peor que una victoria
 Un análisis de [Moody’s Analytics](https://www.moodysanalytics.com/-/media/article/2020/the-macroeconomic-consequences-trump-vs-biden.pdf) sobre las consecuencias macroeconómicas de las elecciones categoriza cuatro escenarios y sus probabilidades:
 
 1. **Biden + Senado Republicano + Cámara Demócrata: 40% de probabilidad**
-
    Biden tendría que negociar con el Senado Republicano para aprobar las medidas.
 2. **Trump + Senado Republicano + Cámara Demócrata: 35% de probabilidad**  
    Mismo escenario que el actual. Eso significa mantener el status quo y las políticas actuales.
