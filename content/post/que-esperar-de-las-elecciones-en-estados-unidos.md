@@ -46,8 +46,8 @@ Un análisis de [Moody’s Analytics](https://www.moodysanalytics.com/-/media/ar
 1. **Biden + Senado Republicano + Cámara Demócrata: 40% de probabilidad**
 
    Biden tendría que negociar con el Senado Republicano para aprobar las medidas. 
-2. **Trump + Senado Republicano + Cámara Demócrata: 35% de probabilidad   
-   **Mismo escenario que el actual. Eso significa mantener el status quo y las políticas actuales. 
+2. **Trump + Senado Republicano + Cámara Demócrata: 35% de probabilidad**   
+   Mismo escenario que el actual. Eso significa mantener el status quo y las políticas actuales. 
 3. **Biden +  Senado Demócratico + Cámara Demócrata: 20% de probabilidad**
 
    Esta doble victoria demócrata permitiría a Biden implementar la agenda económica que ha descrito en su [campaña](https://joebiden.com/joes-vision/). 
