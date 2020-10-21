@@ -23,7 +23,7 @@ No sería raro que los mercados estén un poco volátiles estas semanas, princip
 
 Este año, los estadounidenses van a elegir los 435 asientos de la Cámara de Representantes (como la Cámara de Diputados, pero gringa). Se necesitan 218 escaños para tener mayoría.
 
-La proyección de The Economist (actualizado al 20 de octubre) es que los demócratas tendrán 241 asientos y los republicanos 194. O sea, hay 99% de probabilidad que los demócratas ganen la Cámara.
+La proyección de [The Economist](https://projects.economist.com/us-2020-forecast/house) (actualizado al 20 de octubre) es que los demócratas tendrán 241 asientos y los republicanos 194. O sea, hay 99% de probabilidad que los demócratas ganen la Cámara.
 
 En el Senado cambian un poco las cosas.
 
@@ -31,7 +31,7 @@ En Estados Unidos hay 100 senadores en total. Cada uno de los 50 estados tiene d
 
 En estas las elecciones sólo se van a elegir 35 de estos puestos y los demócratas parten con una ventaja: de los 65 asientos que no van a cambiar, 30 son republicanos y 35 demócratas.
 
-The Economist señala que hay 75% de probabilidad de que los demócratas consigan más de 51 asientos, que los dejaría con mayoría en el Senado.
+The Economist señala que hay [75% de probabilidad de que los demócratas consigan más de 51 asientos](https://projects.economist.com/us-2020-forecast/senate), que los dejaría con mayoría en el Senado.
 
 ### Posibles resultados y su consecuencia macroeconómica
 
@@ -45,19 +45,19 @@ Un análisis de [Moody’s Analytics](https://www.moodysanalytics.com/-/media/ar
 
 1. **Biden + Senado Republicano + Cámara Demócrata: 40% de probabilidad**
 
-   Biden tendría que negociar con el Senado Republicano para aprobar las medidas. 
-2. **Trump + Senado Republicano + Cámara Demócrata: 35% de probabilidad**   
-   Mismo escenario que el actual. Eso significa mantener el status quo y las políticas actuales. 
+   Biden tendría que negociar con el Senado Republicano para aprobar las medidas.
+2. **Trump + Senado Republicano + Cámara Demócrata: 35% de probabilidad**  
+   Mismo escenario que el actual. Eso significa mantener el status quo y las políticas actuales.
 3. **Biden +  Senado Demócratico + Cámara Demócrata: 20% de probabilidad**
 
-   Esta doble victoria demócrata permitiría a Biden implementar la agenda económica que ha descrito en su [campaña](https://joebiden.com/joes-vision/). 
-4. **Trump + Senado Republicano  + Cámara Republicano: 5% de probabilidad** 
+   Esta doble victoria demócrata permitiría a Biden implementar la agenda económica que ha descrito en su [campaña](https://joebiden.com/joes-vision/).
+4. **Trump + Senado Republicano  + Cámara Republicano: 5% de probabilidad**
 
    La reelección de Trump y liderazgo en las dos casas podría adoptar sus políticas descritas en su [budget](https://www.whitehouse.gov/omb/budget/).
 
 El escenario más probable es el intermedio: tener un congreso con control de la oposición. En ese caso, la consecuencia es muy parecida si el presidente fuera Trump o Biden. Los cambios en la política fiscal y gastos públicos serían más difícil de lograr, por lo que serían más modestos.
 
-El análisis de Moody’s Analytics tiene algunos supuestos, como que los candidatos implementen sus políticas después de asumir el cargo y que no las cambien hasta el final de la década, sin otras políticas fiscales y con la política monetaria propuesta recientemente por la FED. También asumen que una vacuna contra covid llega a inicios de 2021 y que lo peor de la crisis ya pasó. 
+El análisis de Moody’s Analytics tiene algunos supuestos, como que los candidatos implementen sus políticas después de asumir el cargo y que no las cambien hasta el final de la década, sin otras políticas fiscales y con la política monetaria propuesta recientemente por la FED. También asumen que una vacuna contra covid llega a inicios de 2021 y que lo peor de la crisis ya pasó.
 
 Moody’s proyecta un mejor escenario económico para un resultado en el que los demócratas tengan 100% el control y puedan implementar su agenda económica. En ese caso, la generación de empleos sería alta y rápida, llegando a casi un 4% de desempleo a mediados de 2022 debido a una política de expansión fiscal promovida por Biden.
 
