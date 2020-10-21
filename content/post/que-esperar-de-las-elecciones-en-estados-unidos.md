@@ -43,15 +43,13 @@ Pero para los mercados tener las cámaras divididas sería peor que una victoria
 
 Un análisis de [Moody’s Analytics](https://www.moodysanalytics.com/-/media/article/2020/the-macroeconomic-consequences-trump-vs-biden.pdf) sobre las consecuencias macroeconómicas de las elecciones categoriza cuatro escenarios y sus probabilidades:
 
-1. **Biden + Senado Republicano + Cámara Demócrata: 40% de probabilidad**
+1. **Biden + Senado Republicano + Cámara Demócrata: 40% de probabilidad**  
    Biden tendría que negociar con el Senado Republicano para aprobar las medidas.
 2. **Trump + Senado Republicano + Cámara Demócrata: 35% de probabilidad**  
    Mismo escenario que el actual. Eso significa mantener el status quo y las políticas actuales.
-3. **Biden +  Senado Demócratico + Cámara Demócrata: 20% de probabilidad**
-
+3. **Biden +  Senado Demócratico + Cámara Demócrata: 20% de probabilidad**  
    Esta doble victoria demócrata permitiría a Biden implementar la agenda económica que ha descrito en su [campaña](https://joebiden.com/joes-vision/).
-4. **Trump + Senado Republicano  + Cámara Republicano: 5% de probabilidad**
-
+4. **Trump + Senado Republicano  + Cámara Republicano: 5% de probabilidad**  
    La reelección de Trump y liderazgo en las dos casas podría adoptar sus políticas descritas en su [budget](https://www.whitehouse.gov/omb/budget/).
 
 El escenario más probable es el intermedio: tener un congreso con control de la oposición. En ese caso, la consecuencia es muy parecida si el presidente fuera Trump o Biden. Los cambios en la política fiscal y gastos públicos serían más difícil de lograr, por lo que serían más modestos.
