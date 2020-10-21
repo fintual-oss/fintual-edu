@@ -57,15 +57,15 @@ Un análisis de [Moody’s Analytics](https://www.moodysanalytics.com/-/media/ar
 
 El escenario más probable es el intermedio: tener un congreso con control de la oposición. En ese caso, la consecuencia es muy parecida si el presidente fuera Trump o Biden. Los cambios en la política fiscal y gastos públicos serían más difícil de lograr, por lo que serían más modestos.
 
-El análisis de Moody’s Analytics tiene algunos supuestos, como que los candidatos implementen sus políticas después de asumir el cargo y que no las cambien hasta el final de la década, sin otras políticas fiscales y con la política monetaria propuesta recientemente por la FED. También asumen que una vacuna contra covid llega a inicios de 2021 y que lo peor de la crisis ya pasó.
+El análisis de Moody’s Analytics tiene algunos supuestos, como que los candidatos implementen sus políticas después de asumir el cargo y que no las cambien hasta el final de la década, sin otras políticas fiscales y con la política monetaria propuesta recientemente por la FED. También asumen que una vacuna contra covid llega a inicios de 2021 y que lo peor de la crisis ya pasó. 
 
-Moody’s proyecta un mejor escenario económico para un resultado en el que los demócratas tienen 100% del control y pueden implementar su agenda económica. En ese caso, la generación de empleos sería alta y rápida, llegando a casi un 4% de desempleo a mediados de 2022 debido a una política de expansión fiscal promovida por Biden.
+Moody’s proyecta un mejor escenario económico para un resultado en el que los demócratas tengan 100% el control y puedan implementar su agenda económica. En ese caso, la generación de empleos sería alta y rápida, llegando a casi un 4% de desempleo a mediados de 2022 debido a una política de expansión fiscal promovida por Biden.
 
-Al revés, el peor escenario económico sería una victoria 100% republicana. En ese caso, los empleos demorarían hasta 2024 para llegar al nivel antes de la pandemia y con 7,4 millones de empleos menos que con Biden. El análisis sostiene también que con una victoria de los demócratas habría un aumento en la renta promedio de US$ 4.800 post-tax, versus mantener la renta actual con una victoria republicana.
+Al revés, el peor escenario económico sería una victoria 100% republicana. En ese caso, los empleos demorarían hasta 2024 para llegar al nivel antes de la pandemia, con 7,4 millones de empleos menos que con Biden. El análisis sostiene también que con una victoria de los demócratas habría un aumento en la renta promedio de US$ 4.800 post impuestos, versus mantener la renta actual con una victoria republicana.
 
-Para Moody's la propuesta de Biden de revertir la estrategia actual en el comercio internacional y reformas a inmigración también ayudarían a un crecimiento económico que, al finales del mandato en 2024, llevaría a la economía americana a un PIB real un 4,5% más grande con Biden.
+Para Moody's, la propuesta de Biden de revertir la estrategia actual en el comercio internacional y reformas a inmigración también ayudarían a un crecimiento económico que, a finales del mandato en 2024, llevaría a la economía americana a un PIB real un 4,5% más grande con Biden.
 
-¿Y qué pasa con el dólar?
+### ¿Y qué pasa con el dólar?
 
 Otro factor a considerar es lo que pase con el precio del dólar después de estas elecciones. Si bien los últimos 5 años ha estado alto, mantenerlo en ese nivel puede ser difícil, más aún si el resultado de las elecciones fuera rechazado por el candidato perdedor.
 
@@ -73,7 +73,7 @@ Es muy difícil evaluar el sentido del dólar, ya que son muchos factores que in
 
 La confianza en EE.UU. es uno de los principales factores responsables de la valorización del dólar. Eso viene con una economía más fuerte, y un buen relacionamiento entre Estados Unidos y los aliados en el mundo. La expectativa es que Biden sea más diplomático –incluyendo la relación con China– y con un estímulo más grande en la economía, como hemos visto.
 
-¿Y cómo influye todo esto en mis inversiones en Fintual?
+### ¿Y cómo influye todo esto en mis inversiones en Fintual?
 
 Periodos de incertidumbre, como los que vivimos ahora, tienen una consecuencia directa en la volatilidad del mercado. Y eso es más visible en nuestros fondos más riesgosos, Moderate Pitt y Riscky Norris, y un poco en Conservative Clooney. Lo que podemos esperar son algunas semanas de especulación de mercado, con volatilidad. Sin embargo, a medio plazo esas fluctuaciones que vivimos ahora serán solamente una etapa de las fluctuaciones del mercado. Nuestra recomendación es no hacer cambios en tu inversión si elegiste bien el plazo y riesgo.
 
