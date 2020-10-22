@@ -23,13 +23,13 @@ No sería raro que los mercados estén un poco volátiles estas semanas, princip
 
 Este año, los estadounidenses van a elegir los 435 asientos de la Cámara de Representantes (como la Cámara de Diputados, pero gringa). Se necesitan 218 escaños para tener mayoría.
 
-La proyección de The Economist (actualizado al 20 de octubre) es que los demócratas tendrán 241 asientos y los republicanos 194. O sea, [hay 99% de probabilidad que los demócratas ganen la Cámara](https://projects.economist.com/us-2020-forecast/house).
+La proyección de The Economist (actualizado al 20 de octubre) es que los demócratas tendrán 241 asientos y los republicanos 194. Es decir, [hay 99% de probabilidad que los demócratas sean mayoría en la Cámara](https://projects.economist.com/us-2020-forecast/house).
 
 En el Senado cambian un poco las cosas.
 
 En Estados Unidos hay 100 senadores en total. Cada uno de los 50 estados tiene dos senadores, que son electos por un periodo de seis años. Actualmente los republicanos tienen mayoría, con 53 de los 100 asientos.
 
-En estas las elecciones sólo se van a elegir 35 de estos puestos y los demócratas parten con una ventaja: de los 65 asientos que no van a cambiar, 30 son republicanos y 35 demócratas.
+En estas elecciones sólo se van a elegir 35 de estos puestos y los demócratas parten con una ventaja: de los 65 asientos que no van a cambiar, 30 son republicanos y 35 demócratas.
 
 The Economist señala que hay [75% de probabilidad de que los demócratas consigan más de 51 asientos](https://projects.economist.com/us-2020-forecast/senate), que los dejaría con mayoría en el Senado.
 
@@ -41,15 +41,15 @@ Una victoria del candidato demócrata Joe Biden y una mayoría demócrata en amb
 
 Pero para los mercados tener las cámaras divididas sería peor que una victoria demócrata. No tener mayoría implica más dificultad para aprobar estímulos económicos, que generalmente le dan un empujón al mercado.
 
-Un análisis de [Moody’s Analytics](https://www.moodysanalytics.com/-/media/article/2020/the-macroeconomic-consequences-trump-vs-biden.pdf) sobre las consecuencias macroeconómicas de las elecciones categoriza cuatro escenarios y sus probabilidades:
+Un análisis de [Moody’s Analytics](https://www.moodysanalytics.com/-/media/article/2020/the-macroeconomic-consequences-trump-vs-biden.pdf) –publicado el 23 de septiembre– sobre las consecuencias macroeconómicas de las elecciones categoriza cuatro escenarios y sus probabilidades:
 
 1. **Biden + Senado Republicano + Cámara Demócrata: 40% de probabilidad**  
    Biden tendría que negociar con el Senado Republicano para aprobar las medidas.
 2. **Trump + Senado Republicano + Cámara Demócrata: 35% de probabilidad**  
    Mismo escenario que el actual. Eso significa mantener el status quo y las políticas actuales.
-3. **Biden +  Senado Demócratico + Cámara Demócrata: 20% de probabilidad**  
+3. **Biden +  Senado Demócrata + Cámara Demócrata: 20% de probabilidad**  
    Esta doble victoria demócrata permitiría a Biden implementar la agenda económica que ha descrito en su [campaña](https://joebiden.com/joes-vision/).
-4. **Trump + Senado Republicano  + Cámara Republicano: 5% de probabilidad**  
+4. **Trump + Senado Republicano  + Cámara Republicana: 5% de probabilidad**  
    La reelección de Trump y liderazgo en las dos casas podría adoptar sus políticas descritas en su [budget](https://www.whitehouse.gov/omb/budget/).
 
 El escenario más probable es el intermedio: tener un congreso con control de la oposición. En ese caso, la consecuencia es muy parecida si el presidente fuera Trump o Biden. Los cambios en la política fiscal y gastos públicos serían más difícil de lograr, por lo que serían más modestos.
@@ -72,7 +72,7 @@ La confianza en EE.UU. es uno de los principales factores responsables de la val
 
 ### ¿Y cómo influye todo esto en mis inversiones en Fintual?
 
-Periodos de incertidumbre, como los que vivimos ahora, tienen una consecuencia directa en la volatilidad del mercado. Y eso es más visible en nuestros fondos más riesgosos, Moderate Pitt y Riscky Norris, y un poco en Conservative Clooney. Lo que podemos esperar son algunas semanas de especulación de mercado, con volatilidad. Sin embargo, a medio plazo esas fluctuaciones que vivimos ahora serán solamente una etapa de las fluctuaciones del mercado. **Nuestra recomendación es no hacer cambios en tu inversión si elegiste bien el plazo y riesgo.**
+Periodos de incertidumbre, como los que vivimos ahora, tienen una consecuencia directa en la volatilidad del mercado. Y eso es más visible en nuestros fondos más riesgosos, Moderate Pitt y Risky Norris, y un poco en Conservative Clooney. Lo que podemos esperar son algunas semanas de especulación de mercado, con volatilidad. Sin embargo, a medio plazo esas fluctuaciones que vivimos ahora serán solamente una etapa de las fluctuaciones del mercado. **Nuestra recomendación es no hacer cambios en tu inversión si elegiste bien el plazo y riesgo.**
 
 Recuerda que la composición de los fondos de Fintual está hecha usando un modelo que usa datos desde 2007. O sea, contempla las caídas de los mercados experimentadas en la crisis subprime y por los efectos de la pandemia del covid-19.
 
