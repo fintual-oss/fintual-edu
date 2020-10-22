@@ -72,7 +72,16 @@ La confianza en EE.UU. es uno de los principales factores responsables de la val
 
 ### ¿Y cómo influye todo esto en mis inversiones en Fintual?
 
-Periodos de incertidumbre, como los que vivimos ahora, tienen una consecuencia directa en la volatilidad del mercado. Y eso es más visible en nuestros fondos más riesgosos, Moderate Pitt y Risky Norris, y un poco en Conservative Clooney. Lo que podemos esperar son algunas semanas de especulación de mercado, con volatilidad. Sin embargo, a medio plazo esas fluctuaciones que vivimos ahora serán solamente una etapa de las fluctuaciones del mercado. **Nuestra recomendación es no hacer cambios en tu inversión si elegiste bien el plazo y riesgo.**
+Periodos de incertidumbre, como los que vivimos ahora, tienen una consecuencia directa en la volatilidad del mercado. Y eso es más visible en nuestros fondos más riesgosos, Risky Norris y Moderate Pitt, y un poco en Conservative Clooney. 
+
+Estos tres fondos invierten en compañías listadas en EE.UU. y su rentabilidad depende principalmente de dos cosas:
+
+1. La economía estadounidense y que, por supuesto, se ve afectada por las elecciones
+2. La cotización del dólar frente al peso chileno
+
+Lo que podemos esperar son algunas semanas de especulación de mercado, con volatilidad. Ojo que la volatilidad se manifiesta con subidas y bajas bruscas, pero sin una tendencia ni al alza ni a la baja.
+
+A medio plazo estas variaciones serán solamente una etapa de las fluctuaciones del mercado. **Nuestra recomendación es no hacer cambios en tu inversión si elegiste bien el plazo y riesgo.**
 
 Recuerda que la composición de los fondos de Fintual está hecha usando un modelo que usa datos desde 2007. O sea, contempla las caídas de los mercados experimentadas en la crisis subprime y por los efectos de la pandemia del covid-19.
 
