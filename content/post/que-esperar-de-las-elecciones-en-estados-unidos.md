@@ -79,7 +79,7 @@ Estos tres fondos invierten en compañías listadas en EE.UU. y su rentabilidad 
 1. La economía estadounidense y que, por supuesto, se ve afectada por las elecciones
 2. La cotización del dólar frente al peso chileno
 
-Lo que podemos esperar son algunas semanas de especulación de mercado, con volatilidad. Ojo que la volatilidad se manifiesta con subidas y bajas bruscas, pero sin una tendencia clara ni al alza ni a la baja.
+Lo que podemos esperar son unas semanas de volatilidad de mercado, que se manifiestan con subidas y bajadas sin una tendencia tan clara hacia algún lado.
 
 A mediano plazo estas variaciones serán solamente una etapa de las fluctuaciones del mercado. **Nuestra recomendación es no hacer cambios en tu inversión si elegiste bien el plazo y riesgo.**
 
