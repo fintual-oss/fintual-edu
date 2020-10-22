@@ -79,9 +79,9 @@ Estos tres fondos invierten en compañías listadas en EE.UU. y su rentabilidad 
 1. La economía estadounidense y que, por supuesto, se ve afectada por las elecciones
 2. La cotización del dólar frente al peso chileno
 
-Lo que podemos esperar son algunas semanas de especulación de mercado, con volatilidad. Ojo que la volatilidad se manifiesta con subidas y bajas bruscas, pero sin una tendencia ni al alza ni a la baja.
+Lo que podemos esperar son algunas semanas de especulación de mercado, con volatilidad. Ojo que la volatilidad se manifiesta con subidas y bajas bruscas, pero sin una tendencia clara ni al alza ni a la baja.
 
-A medio plazo estas variaciones serán solamente una etapa de las fluctuaciones del mercado. **Nuestra recomendación es no hacer cambios en tu inversión si elegiste bien el plazo y riesgo.**
+A mediano plazo estas variaciones serán solamente una etapa de las fluctuaciones del mercado. **Nuestra recomendación es no hacer cambios en tu inversión si elegiste bien el plazo y riesgo.**
 
 Recuerda que la composición de los fondos de Fintual está hecha usando un modelo que usa datos desde 2007. O sea, contempla las caídas de los mercados experimentadas en la crisis subprime y por los efectos de la pandemia del covid-19.
 
