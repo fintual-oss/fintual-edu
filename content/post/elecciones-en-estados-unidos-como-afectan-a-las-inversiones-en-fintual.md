@@ -10,6 +10,8 @@ title = "Elecciones en Estados Unidos: ¿Cómo afectan a las inversiones en Fint
 url = "/elecciones-usa-y-el-impacto-en-fintual"
 
 +++
+_Edit:_ [_acá_](https://edu.fintual.cl/que-esperar-de-las-elecciones-en-estados-unidos/) _un post más actualizado sobre las elecciones en EE.UU._
+
 Quedan menos de dos meses para la elección presidencial en Estados Unidos. </br>
 
 Los fondos Norris, Pitt y Clooney tienen inversiones en compañías listadas en EE.UU. y su rentabilidad depende principalmente de dos cosas:
