@@ -26,7 +26,7 @@ Mira, hicimos el ejercicio de simular un DAP a 30 días en varios bancos y notam
 
 Nuestro fondo de muy bajo riesgo se llama "Very Conservative Streep".
 
-Hasta hace poco estaba compuesto principalmente por depósitos a plazo de bancos, de menos de 90 días de plazo. 
+Hasta hace poco estaba compuesto principalmente por depósitos a plazo de bancos, de menos de 90 días de plazo.
 
 Obviamente con la baja de tasas ha rentado menos, especialmente desde mayo hasta agosto del 2020.
 
@@ -38,8 +38,9 @@ Había que hacer algo. Mira lo que hicimos:
    Para lograrlo hay que tomar algo más de riesgos, claro, y escapar un poco de los depósitos a plazo de grandes bancos.
 
    Entonces buscamos instrumentos de deuda de mayor duración, pero no de un plazo excesivamente largo, sino que deuda de alrededor de un año de duración o algo menos. Al mismo tiempo, invertimos pequeños porcentajes de estrategias de crédito privado de corto plazo, que tienen mejores tasas de interés (más adelante hablo de esto en detalle).
+
 2. Luego, **cambiamos el cobro para lograr estabilidad.**  
-    Decidimos cobrar 0% de remuneración fija y cobraremos una remuneración variable únicamente si al fondo le va mejor que a un cierto "objetivo de rentabilidad". La idea es que este objetivo sea realmente competitivo con respecto a los depósitos a plazo.
+   Decidimos cobrar 0% de remuneración fija y cobraremos una remuneración variable únicamente si al fondo le va mejor que a un cierto "objetivo de rentabilidad". La idea es que este objetivo sea realmente competitivo con respecto a los depósitos a plazo.
 
    Esto podemos hacerlo gracias a que en Fintual hemos avanzado mucho en la automatización de la contabilidad. Si no, nos volveríamos monos calculando la remuneración variable cada día.
 
