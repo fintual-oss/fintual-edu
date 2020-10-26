@@ -17,9 +17,9 @@ Esto tuvo consecuencias en nuestros fondos, principalmente en los más arriesgad
 
 #### Antes de la explicación quería invitarte a un Fintual Live de inversiones que vamos a hacer este jueves 29 de octubre a las 18:30. Queremos responder tus dudas sobre el panorama de los mercados globales, las elecciones estadounidenses y sus efectos en los fondos. Y puedes hacer preguntas! Inscríbete en [fintu.al/live-mercado](https://fintu.al/live-mercado "fintu.al/live-mercado")
 
-El número de pacientes hospitalizados por covid-19 en los EE. UU. fue un 40% mayor el último mes. Y Europa está en una segunda ola del virus que dejó parte del continente una vez más entrando a una etapa de reclusión y cuarentenas. El miedo de los inversionistas es que esta segunda ola pueda debilitar la economía que estaba comenzando a recuperarse.
+Como te decía, los rebrotes son una de las preocupaciones que tienen los mercados. El número de pacientes hospitalizados por covid-19 en los EE.UU. aumentó un 40% el último mes. Europa atraviesa una segunda ola del virus y parte del continente está –una vez más– estableciendo medidas de confinamiento y cuarentenas. El miedo de los inversionistas es que esta segunda ola pueda debilitar la economía, que estaba comenzando a recuperarse.
 
-Estamos a una semana de las elecciones estadounidenses, que serán el próximo martes 03 de noviembre. Mientras tanto, los mercados están muy volátiles. Joe Biden es el candidato favorito, pero eso no significa para nada que haya claridad de que vaya a ganar. Si quieres entender qué esperar de los resultados, puedes leer ese artículo que publicamos hace poco.
+Por otro lado están las elecciones en Estados Unidos. A una semana de las elecciones –martes 03 de noviembre–, los mercados están muy volátiles. Joe Biden es el candidato favorito, pero eso no significa que haya claridad de que vaya a ganar. Si quieres entender qué esperar de los resultados, puedes leer este post que publicamos hace poco.
 
 Además, desde la semana pasada, el congreso estadounidense ha hecho un esfuerzo para aprobar un paquete de estímulos económicos en el corto plazo, antes de las elecciones presidenciales. La aprobación de esta serie de medidas, que podrían llegar a casi US$ 2 trillones, ha sido el centro de las atenciones de los mercados, que cuentan con eso para acelerar la recuperación económica.
 
