@@ -1,6 +1,6 @@
 +++
 aliases = []
-author = "Stella Melaragno"
+author = "Omar Larré"
 categories = ["noticias"]
 date = 2020-10-26T22:01:50Z
 description = "Explicación sobre los últimos movimientos de mercado."
