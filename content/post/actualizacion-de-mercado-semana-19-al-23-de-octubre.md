@@ -1,9 +1,9 @@
 +++
 aliases = []
 author = "Stella Melaragno"
-categories = []
+categories = ["noticias"]
 date = 2020-10-26T13:40:49Z
-description = ""
+description = "Te contamos sobre las negociaciones de un paquete de estímulos económicos, el precio del dólar y el efecto en los fondos de Fintual."
 draft = true
 hide = false
 image = "/uploads/2020-08-28/cambios-fintual-2.png"
