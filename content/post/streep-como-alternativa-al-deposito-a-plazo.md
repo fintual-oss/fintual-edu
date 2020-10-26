@@ -32,15 +32,9 @@ Hasta hace poco estaba justamente compuesto principalmente por depósitos a plaz
 
 Había que hacer algo.
 
-    1) Primero, cambiamos la estrategia de inversión para buscar más rentabilidad.
-    Para lograrlo hay que tomar algo más de riesgos, claro, y escapar un poco de los depósitos a plazo de grandes bancos.
-
-    Entonces buscamos instrumentos de deuda de mayor duración, pero no de un plazo excesivamente largo, sino que deuda de alrededor de un año de duración o algo menos. Al mismo tiempo, invertimos pequeños porcentajes de estrategias de crédito privado de corto plazo, que tienen mejores tasas de interés (más adelante hablo de esto en detalle).
-
-
-    2) Luego, para lograr estabilidad decidimos cobrar 0% de remuneración fija y cobraremos una remuneración variable únicamente si al fondo le va mejor que a un cierto "objetivo de rentabilidad". La idea es que este objetivo sea realmente competitivo con respecto a los depósitos a plazo.
-
-    Esto podemos hacerlo gracias a que en Fintual hemos avanzado mucho en la automatización de la contabilidad. Si no, nos volveríamos monos calculando la remuneración variable cada día.
+1. Primero, **cambiamos la estrategia de inversión para buscar más rentabilidad.**
+Para lograrlo hay que tomar algo más de riesgos, claro, y escapar un poco de los depósitos a plazo de grandes bancos.Entonces buscamos instrumentos de deuda de mayor duración, pero no de un plazo excesivamente largo, sino que deuda de alrededor de un año de duración o algo menos. Al mismo tiempo, invertimos pequeños porcentajes de estrategias de crédito privado de corto plazo, que tienen mejores tasas de interés (más adelante hablo de esto en detalle).
+2. Luego, para lograr estabilidad **decidimos cobrar 0% de remuneración fija y cobraremos una remuneración variable** únicamente si al fondo le va mejor que a un cierto "objetivo de rentabilidad". La idea es que este objetivo sea realmente competitivo con respecto a los depósitos a plazo.Esto podemos hacerlo gracias a que en Fintual hemos avanzado mucho en la automatización de la contabilidad. Si no, nos volveríamos monos calculando la remuneración variable cada día.
 
 
 ### Cómo va a funcionar
