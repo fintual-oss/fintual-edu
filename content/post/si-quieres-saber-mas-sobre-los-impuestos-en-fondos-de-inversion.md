@@ -7,7 +7,7 @@ description = " Te presentamos ejemplos puntuales sobre cómo calcular el impues
 hide = false
 image = "/uploads/impuestos-ii.jpg"
 title = "Si quieres saber más sobre los impuestos en fondos de inversión."
-url = "/impuestos-en-fondos-de-inversion-II"
+url = "/impuestos-en-fondos"
 
 +++
 Escribimos una continuación de [**Lo que necesitas saber para entender sobre impuestos al invertir en fondos.**](https://edu.fintual.mx/impuestos-en-fondos-de-inversion/)
