@@ -4,7 +4,6 @@ author = "Victor Hugo Flores"
 categories = ["educación financiera"]
 date = 2020-10-27T15:51:55Z
 description = " Te presentamos ejemplos puntuales sobre cómo calcular el impuesto de tus inversiones."
-draft = true
 hide = false
 image = ""
 title = "Si quieres saber más sobre los impuestos en fondos de inversión."
@@ -127,13 +126,25 @@ Su tasa de interés es de 9% durante un año. Una muy superior a cualquier opci�
 
 El fondo le retendrá impuestos por 1.45% y el rendimiento que verá en su fondo con instrumentos de deuda será de 7.55% después de esa retención.
 
+<div style="text-align:center"> <figure> <img src="/uploads/rendimiento-neto-luis.png"> </figure> </div>
+
+![](/uploads/rendimiento-neto-luis.png)
+
 (IMAGEN RENDIMIENTO NETO-LUIS)
 
 Al siguiente año, en su declaración anual de impuestos, el rendimiento real de su inversión sería de 5.2%. Ese rendimiento lo tendría que acumular a sus demás ingresos para averiguar en qué segmento de tasa fiscal le corresponde pagar impuestos.
 
+<div style="text-align:center"> <figure> <img src="/uploads/rendimiento-real-luis.png"> </figure> </div>
+
+![](/uploads/rendimiento-real-luis.png)
+
 (IMAGEN RENDIMIENTO REAL-LUIS)
 
 Y solo para poner un ejemplo, supongamos que tiene una tasa fiscal de 30%. Así el impuesto a pagar sería el 30% de la tasa real, es decir 1.56%, sin embargo, el fondo ya le retuvo 1.45%, por lo que te falta por pagar 0.11%, o bien, lo compensa contra alguna pérdida fiscal que tenga.
+
+<div style="text-align:center"> <figure> <img src="/uploads/impuesto-final-luis.png"> </figure> </div>
+
+![](/uploads/impuesto-final-luis.png)
 
 (IMAGEN IMPUESTO REAL-LUIS)
 
