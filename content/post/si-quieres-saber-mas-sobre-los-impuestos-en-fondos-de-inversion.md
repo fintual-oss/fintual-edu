@@ -83,6 +83,8 @@ Cuando pasa eso, Hugo podría decirle a Hacienda que le devuelva una parte, o bi
 
 Así, podría recuperar o compensar un 0.855%
 
+<div style="text-align:center"> <figure> <img src="/uploads/impuesto-por-recuperar-hugo.png"> </figure> </div>
+
 (IMAGEN POR RECUPERAR HUGO)
 
 #### **El caso de Paco**
