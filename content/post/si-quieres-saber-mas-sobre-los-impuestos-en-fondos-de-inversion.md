@@ -62,21 +62,15 @@ La **tasa de interés que obtuvo es de 5.50%** durante un año. El fondo le retu
 
 <div style="text-align:center"> <figure> <img src="/uploads/rendimiento-neto-hugo.png"> </figure> </div>
 
-(IMAGEN RENDIMIENTO NETO HUGO)
-
 Si Hugo hace su declaración anual de impuestos, el rendimiento real de su inversión, (quitándole la inflación) será de 1.70%.
 
 <div style="text-align:center"> <figure> <img src="/uploads/rendimiento-real-hugo.png"> </figure> </div>
-
-(IMAGEN RENDIMIENTO REAL HUGO)
 
 Ese rendimiento lo tendría que acumular a sus otros ingresos y ver en qué segmento de tasa fiscal le corresponde pagar impuestos.
 
 Por decir un ejemplo. Supongamos que Hugo tiene la tasa fiscal más alta del 35%. **El impuesto a pagar sería el 35% de la tasa real**, es decir 0.595%.
 
 <div style="text-align:center"> <figure> <img src="/uploads/impuesto-real-hugo.png"> </figure> </div>
-
-(IMAGEN IMPUESTO REAL HUGO)
 
 Sin embargo, el fondo ya le retuvo 1.45%.
 
@@ -86,23 +80,16 @@ Así, podría recuperar o compensar un 0.855%
 
 <div style="text-align:center"> <figure> <img src="/uploads/impuesto-por-recuperar-hugo.png"> </figure> </div>
 
-(IMAGEN POR RECUPERAR HUGO)
-
 #### **El caso de Paco**
 
 Si la tasa de interés es de 3.50% durante un año, el rendimiento neto de impuestos que Paco vería en su inversión en deuda será de 2.05%.
 
-(IMAGEN RENDIMIENTO NETO PACO)
-<div style="text-align:center"> <figure> <img src="/uploads/rendimiento-neto-paco.png"> </figure> </div>
 
-![](/uploads/rendimiento-neto-paco.png)
+<div style="text-align:center"> <figure> <img src="/uploads/rendimiento-neto-paco.png"> </figure> </div>
 
 Si hace su declaración anual de impuestos, el rendimiento real de su inversión sería de -0.30%, y en ese caso tendría una pérdida.
 
 <div style="text-align:center"> <figure> <img src="/uploads/rendimiento-real-paco.png"> </figure> </div>
-
-![](/uploads/rendimiento-real-paco.png)
-(IMAGEN RENDIMIENTO REAL PACO)
 
 Esa pérdida se acumula a sus demás ingresos para definir en qué segmento de tasa fiscal le corresponde pagar impuestos.
 
@@ -116,10 +103,6 @@ Con el 20% de su tasa fiscal efectiva y el porcentaje de su pérdida fiscal, es 
 
 <div style="text-align:center"> <figure> <img src="/uploads/impuesto-total-paco.png"> </figure> </div>
 
-![](/uploads/impuesto-total-paco.png)
-
-(IMAGEN IMPUESTO TOTAL-PACO)
-
 #### **El caso de Luis**
 
 Su tasa de interés es de 9% durante un año. Una muy superior a cualquier opción de inversión de deuda bursátil de mediano o bajo riesgo en el mercado, eso sí!
@@ -128,25 +111,13 @@ El fondo le retendrá impuestos por 1.45% y el rendimiento que verá en su fondo
 
 <div style="text-align:center"> <figure> <img src="/uploads/rendimiento-neto-luis.png"> </figure> </div>
 
-![](/uploads/rendimiento-neto-luis.png)
-
-(IMAGEN RENDIMIENTO NETO-LUIS)
-
 Al siguiente año, en su declaración anual de impuestos, el rendimiento real de su inversión sería de 5.2%. Ese rendimiento lo tendría que acumular a sus demás ingresos para averiguar en qué segmento de tasa fiscal le corresponde pagar impuestos.
 
 <div style="text-align:center"> <figure> <img src="/uploads/rendimiento-real-luis.png"> </figure> </div>
 
-![](/uploads/rendimiento-real-luis.png)
-
-(IMAGEN RENDIMIENTO REAL-LUIS)
-
 Y solo para poner un ejemplo, supongamos que tiene una tasa fiscal de 30%. Así el impuesto a pagar sería el 30% de la tasa real, es decir 1.56%, sin embargo, el fondo ya le retuvo 1.45%, por lo que te falta por pagar 0.11%, o bien, lo compensa contra alguna pérdida fiscal que tenga.
 
 <div style="text-align:center"> <figure> <img src="/uploads/impuesto-final-luis.png"> </figure> </div>
-
-![](/uploads/impuesto-final-luis.png)
-
-(IMAGEN IMPUESTO REAL-LUIS)
 
 Nada sencillo. En general, quien tiene más que perder es el pequeño inversionista que no suele hacer sus declaraciones anuales.
 
