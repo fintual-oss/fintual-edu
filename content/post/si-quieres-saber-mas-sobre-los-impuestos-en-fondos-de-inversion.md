@@ -5,7 +5,7 @@ categories = ["educación financiera"]
 date = 2020-10-27T15:51:55Z
 description = " Te presentamos ejemplos puntuales sobre cómo calcular el impuesto de tus inversiones."
 hide = false
-image = ""
+image = "/uploads/scott-graham-5fnmwej4taa-unsplash.jpg"
 title = "Si quieres saber más sobre los impuestos en fondos de inversión."
 url = "/impuestos-en-fondos-de-inversion-II"
 
