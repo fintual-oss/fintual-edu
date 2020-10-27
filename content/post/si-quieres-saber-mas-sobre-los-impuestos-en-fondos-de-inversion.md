@@ -17,7 +17,7 @@ Acá puedes complementar lo que ya sabes.
 
 Te compartimos algunos ejemplos y más detalles, pero primero, repasemos lo básico:
 
-* **Hay dos tipos de activos de inversión: Renta Variable y Deuda o Renta Fija. Los impuestos dependen en qué tipo de activo está invertido el fondo, y no por el tipo de fondo. **
+* Hay dos tipos de activos de inversión: Renta Variable y Deuda o Renta Fija. Los impuestos dependen en qué tipo de activo está invertido el fondo, y no por el tipo de fondo. **
 * **Su cálculo lo gestiona el fondo de inversión y se hace de forma proporcional dependiendo la composición de tu portafolio.**
 
 Por lo tanto, cada fondo de inversión generará impuestos de Renta Variable o impuestos del tipo de Deuda, respecto a las partes proporcionales.
@@ -77,6 +77,8 @@ Por decir un ejemplo. Supongamos que Hugo tiene la tasa fiscal más alta del 35%
 
 <div style="text-align:center"> <figure> <img src="/uploads/impuesto-real-hugo.png"> </figure> </div>
 
+(IMAGEN IMPUESTO REAL HUGO)
+
 Sin embargo, el fondo ya le retuvo 1.45%.
 
 Cuando pasa eso, Hugo podría decirle a Hacienda que le devuelva una parte, o bien que con ese importe se pague algún Impuesto Sobre la Renta (ISR) pendiente.
@@ -92,9 +94,15 @@ Así, podría recuperar o compensar un 0.855%
 Si la tasa de interés es de 3.50% durante un año, el rendimiento neto de impuestos que Paco vería en su inversión en deuda será de 2.05%.
 
 (IMAGEN RENDIMIENTO NETO PACO)
+<div style="text-align:center"> <figure> <img src="/uploads/rendimiento-neto-paco.png"> </figure> </div>
+
+![](/uploads/rendimiento-neto-paco.png)
 
 Si hace su declaración anual de impuestos, el rendimiento real de su inversión sería de -0.30%, y en ese caso tendría una pérdida.
 
+<div style="text-align:center"> <figure> <img src="/uploads/rendimiento-real-paco.png"> </figure> </div>
+
+![](/uploads/rendimiento-real-paco.png)
 (IMAGEN RENDIMIENTO REAL PACO)
 
 Esa pérdida se acumula a sus demás ingresos para definir en qué segmento de tasa fiscal le corresponde pagar impuestos.
