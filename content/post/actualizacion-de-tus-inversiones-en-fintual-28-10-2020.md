@@ -14,7 +14,7 @@ Este miércoles 28 el mercado accionario global cayó fuertemente, en línea con
 
 Esto hizo caer el valor de los fondos en Fintual, en especial las estrategias más arriesgadas (y que están destinadas a inversiones de largo plazo). La baja de precios de activos arrastró a los principales índices globales, en una de las caídas más grandes registradas desde junio de este año.
 
-Antes de seguir con la explicación quería invitarte a un Live de inversiones que vamos a hacer este jueves 29 de octubre a las 18:30. 
+Antes de seguir con la explicación quería invitarte a un Fintual Live de inversiones que vamos a hacer este jueves 29 de octubre a las 18:30. 
 
 #### Queremos responder tus dudas sobre el panorama de los mercados globales, las elecciones estadounidenses y sus efectos en los fondos. Prepara tus preguntas e inscríbete en [fintu.al/live-mercado](https://fintu.al/live-mercado "fintu.al/live-mercado").
 
@@ -50,7 +50,7 @@ El USD/CLP llegó hoy a niveles de 773,74 (que está en la parte baja del rango 
   
 Este movimiento del peso chileno se puede relacionar con varias cosas, pero no hay un motivo claro. 
 
-Por ejemplo, el precio del cobre está alto, cerca de los máximos de un año, y eso ayuda bastante a que el peso chileno se aprecie. Junto a eso, otras monedas de Latinoamérica, como el peso mexicano, ha tenido un buen desempeño en los últimos seis meses, y eso indirectamente ayuda a otras monedas que se consideran similares. Adicionalmente, un asesor masivo de cambios de fondos de AFP hizo un llamado a cambios de fondos de menor riesgo a fines de la semana antepasada. Esto gatilló la venta de activos que están dolarizados y, por lo tanto, empujó el dólar hacia abajo, en un proceso que suele durar unos 3 o 4 días.
+Por ejemplo, el precio del cobre está alto, cerca de los máximos de un año, y eso ayuda bastante a que el peso chileno se aprecie. Junto a eso, otras monedas de Latinoamérica, como el peso mexicano, ha tenido un buen desempeño en los últimos seis meses, algo que ayuda indirectamente a otras monedas que se consideran similares. Adicionalmente, un asesor masivo de cambios de fondos de AFP hizo un llamado a cambios de fondos de menor riesgo a fines de la semana antepasada. Esto gatilla la venta de activos que están dolarizados y, por lo tanto, empujó el dólar hacia abajo, en un proceso que suele durar unos 3 o 4 días.
 
 Finalmente, el proyecto del segundo retiro del 10% de las AFP también podría explicar que el mercado se prepara para una nueva liquidación de dólares.
 
@@ -60,4 +60,4 @@ Sin embargo, no es fácil explicar el nivel de “calma” del CLP en días como
 
 Por el lado positivo, los índices de volatilidad implícita VIX (sobre el S&P 500) y VXN (sobre el NASDAQ-100) subieron +20,78% (nivel actual de 40,28) y +18,68% (nivel actual de 43,39) respectivamente, a niveles similares a junio y abril de este año, lo que refleja que el mercado incorporó bastante los escenarios de riesgo.
 
-Si tienes dudas nos vemos en el live del jueves!
+Si hay algo que no entiendas lo podemos conversar en el live del jueves!
