@@ -11,9 +11,9 @@ title = "Actualización de tus inversiones en Fintual: 28/10/2020"
 url = "/actualizacion-de-mercado-28-de-octubre-2020"
 
 +++
-Este miércoles 28 el mercado accionario global cayó fuertemente, en línea con la percepción de riesgo del aumento de casos de covid-19 en Europa y Estados Unidos, y con la incertidumbre sobre las nuevas cuarentenas y el impacto extra a la economía de una segunda ola de contagios.
+Este miércoles 28 el mercado accionario global cayó fuertemente, en línea con la preocupación ante el aumento de casos de covid-19 en Europa y Estados Unidos, y con la incertidumbre sobre las nuevas cuarentenas y el impacto extra a la economía de una segunda ola de contagios.
 
-Esto hizo caer el valor de los fondos en Fintual, en especial las estrategias más arriesgadas (y que están destinadas a inversiones de largo plazo). La baja de precios de activos arrastró a los principales índices globales, en una de las caídas más grandes registradas desde junio de este año.
+Esto hizo caer el valor de los fondos en Fintual, en especial las estrategias más arriesgadas **(y que están destinadas a inversiones de largo plazo)**. La baja de precios de activos arrastró a los principales índices globales, en una de las caídas más grandes registradas desde junio de este año.
 
 #### Antes de seguir con la explicación quería invitarte a un Live de inversiones que vamos a hacer este jueves 29 de octubre a las 18:30. 
 
