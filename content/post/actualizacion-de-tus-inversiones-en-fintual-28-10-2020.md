@@ -1,32 +1,60 @@
 +++
 aliases = []
-author = "Omar Larré"
+author = "Stella Melaragno"
 categories = ["noticias"]
-date = 2020-10-26T22:01:50Z
+date = 2020-10-27T22:01:50Z
 description = "Explicación sobre los últimos movimientos de mercado."
 draft = true
 hide = true
 image = "/uploads/2020-08-28/cambios-fintual-2.png"
 title = "Actualización de tus inversiones en Fintual: 28/10/2020"
-url = "/actualizacion-de-mercado-26-de-octubre-2020"
+url = "/actualizacion-de-mercado-28-de-octubre-2020"
 
 +++
-El mercado tuvo un mal día este lunes 26 de octubre. Entre las razones están el aumento de casos de covid-19 en el mundo desarrollado, la incertidumbre antes las elecciones estadounidenses que se aproximan, así como la caída de las expectativas de que se apruebe un estímulo económico en EE.UU. antes de la dicha elección.
+Este miércoles 28 el mercado accionario global cayó fuertemente, en línea con la percepción de riesgo del aumento de casos de covid-19 en Europa y Estados Unidos, y con la incertidumbre sobre las nuevas cuarentenas y el impacto extra a la economía de una segunda ola de contagios.
 
-Esto tuvo consecuencias en nuestros fondos, principalmente en los más arriesgados Moderate Pitt y Risky Norris.
+Esto hizo caer el valor de los fondos en Fintual, en especial las estrategias más arriesgadas (y que están destinadas a inversiones de largo plazo). La baja de precios de activos arrastró a los principales índices globales, en una de las caídas más grandes registradas desde junio de este año.
 
-#### Antes de la explicación quería invitarte a un Fintual Live de inversiones que vamos a hacer este jueves 29 de octubre a las 18:30. Queremos responder tus dudas sobre el panorama de los mercados globales, las elecciones estadounidenses y sus efectos en los fondos. Y puedes hacer preguntas! Inscríbete en [fintu.al/live-mercado](https://fintu.al/live-mercado "fintu.al/live-mercado")
+#### Antes de seguir con la explicación quería invitarte a un Live de inversiones que vamos a hacer este jueves 29 de octubre a las 18:30. 
 
-Como te decía, los rebrotes son una de las preocupaciones que tienen los mercados. El número de pacientes hospitalizados por covid-19 en los EE.UU. aumentó un 40% el último mes. Europa atraviesa una segunda ola del virus y parte del continente está –una vez más– estableciendo medidas de confinamiento y cuarentenas. El miedo de los inversionistas es que esta segunda ola pueda debilitar la economía, que estaba comenzando a recuperarse.
+Queremos responder tus dudas sobre el panorama de los mercados globales, las elecciones estadounidenses y sus efectos en los fondos. Prepara tus preguntas e inscríbete en [fintu.al/live-mercado](https://fintu.al/live-mercado "fintu.al/live-mercado")
 
-Por otro lado están las elecciones en Estados Unidos. A una semana de las elecciones –martes 03 de noviembre–, los mercados están muy volátiles. Joe Biden es el candidato favorito, pero eso no significa que haya claridad de que vaya a ganar. Si quieres entender qué esperar de los resultados, puedes leer [este post](https://edu.fintual.cl/que-esperar-de-las-elecciones-en-estados-unidos/) que publicamos hace poco.
+### ¿Hay que hacer algo?
 
-Además, desde la semana pasada, el congreso estadounidense ha hecho un esfuerzo para aprobar un paquete de estímulos económicos antes de las elecciones presidenciales. La aprobación de esta serie de medidas, que podrían llegar a casi US$ 2 trillones, ha estado en el centro de las atenciones de los mercados, que cuentan con esto para acelerar la recuperación económica.
+No es necesario. Es una caída dentro de lo contemplado en un portafolio diseñado para el largo plazo, donde todos nuestros fondos, a excepción del fondo Very Conservative Streep, están diseñados para plazos de inversión de un año o más. Por eso no haremos ningún cambio ni recomendamos que alguien lo haga, dado que sólo afectó a los portafolios que recomendamos para horizontes de largo plazo.
 
-Los índices financieros más importantes tuvieron bajas este lunes. El índice S&P 500, que contiene a las 500 acciones más importantes en Estados Unidos, bajó -1,86%, mientras que el NASDAQ, que contempla acciones de empresas tecnológicas, cayó -1,64%. 
+## ¿Es una caída normal?
 
-El dólar, que tuvo muchas fluctuaciones durante el día, terminó cerrando a la baja. Pero el dólar observado, que corresponde al precio promedio ponderado de las operaciones, cerró la jornada casi con el mismo valor del viernes pasado, apenas 1,85 pesos más arriba.
+Sí, es una caída grande pero dentro de lo normal, incluso ya contemplada en los escenarios pesimistas de nuestros modelos. La última caída de esta magnitud fue en junio de este año. Caídas de mucha mayor magnitud sucedieron en marzo, en medio de la incertidumbre inicial del coronavirus.
 
-Esa caída está dentro de lo contemplado en un portafolio diseñado para largo plazo. Por eso, **no vamos a hacer ningún cambio ni recomendamos que alguien lo haga, ya que sólo afectó a los portafolios que recomendamos para horizontes de inversión de un año o más.**
+## Algo de contexto de índices financieros
+
+El índice S&P 500, que contiene las 500 acciones más importantes en Estados Unidos, bajó -3,53% este miércoles, mientras que el NASDAQ, que contempla acciones de empresas tecnológicas, cayó un -3,73%.
+
+La caída fue global y afectó a prácticamente todos los mercados importantes alrededor del mundo, como Europa (el Dax de Alemania cayó -4,17% y el Stoxx Europe 600 cayó -2.95%) y también a Reino Unido, donde el FTSE 100 cayó -2,55%.
+
+## ¿Era predecible?
+
+No era predecible. El mercado reacciona muchas veces inesperadamente y es casi imposible predecir la magnitud y el momento preciso de cuándo sucederán estas bajas.
+
+Lo que vemos claro, sin embargo, es que estamos atravesando por momentos de alta volatilidad, principalmente por las incertidumbres asociadas al nuevo rebrote de covid-19 en el mundo desarrollado occidental, y de las elecciones de Estados Unidos, que se definen el próximo martes 3 de noviembre.
+
+Es importante recalcar que tratar de predecir el día y magnitud de una caída del mercado es similar a tratar de predecir un terremoto: mientras que es muy fácil decir que en Chile puede ocurrir luego un terremoto, no es fácil determinar ni la magnitud ni el día exacto de cuando suceda.
+
+## Nota un pelo más técnica
+
+Los precios de índices accionarios globales han bajado desde mediados de octubre, destacando como mayor caída la de este miércoles 28. Estos retrocesos han estado acompañados por una baja del precio del dólar contra el peso chileno (USD/CLP), lo cual ha sido un “doble efecto” negativo para los fondos, algo que en la práctica no suele ser tan común, ya que en general estos movimientos tienen correlación negativa.
+
+La parte más sorpresiva de este desacople del comportamiento de precios ha venido por el lado del USD/CLP, que ha bajado fuertemente desde mediados de octubre.
+
+El USD/CLP llegó hoy a niveles de 773,74 (que está en la parte baja del rango de los últimos seis meses). Que el peso chileno se haya apreciado últimamente, mientras el resto de activos riesgosos del mundo cae de precio, no es tan común.
+
+Este movimiento del peso chileno se puede relacionar con varias cosas, pero no hay un claro motivo. Por ejemplo, el precio del cobre está alto, cerca de los máximos de un año, y eso ayuda bastante a que el peso chileno se aprecie. Junto a eso, otras monedas de Latam, como el peso mexicano, ha tenido un buen desempeño en los últimos seis meses, y eso indirectamente ayuda a otras monedas que se consideran similares. Adicionalmente, hay un asesor masivo de cambios de fondos de AFP que durante las últimas dos semanas ha realizado un llamado a cambios de fondos de menor riesgo. Esto gatilla la venta de activos que están dolarizados y por lo tanto, empuja el dólar hacia abajo, en un proceso que suele durar unos 3 o 4 días. Finalmente, el proyecto del segundo retiro del 10% de las AFP también podría explicar que el mercado se prepara para una nueva liquidación de dólares.
+
+Por el lado del escenario político local, al parecer hay un cierto optimismo desde inversionistas extranjeros de que el proceso constitucional no va a causar una mayor inestabilidad política.
+
+Sin embargo, no es fácil explicar el nivel de “calma” del CLP en días como hoy miércoles, donde varios mercados y moneda emergentes caen, y los activos riesgosos globales caen fuertemente (_risk-off_ global).
+
+Por el lado positivo, los índices de volatilidad implícita VIX (sobre el S&P 500) y VXN (sobre el NASDAQ-100) subieron +20,78% (nivel actual de 40,28) y +18,68% (nivel actual de 43,39) respectivamente, a niveles similares a junio y abril de este año, lo que refleja que el mercado incorporó bastante los escenarios de riesgo.
 
 Si tienes dudas nos vemos en el live del jueves!
