@@ -13,15 +13,15 @@ url = "/actualizacion-de-mercado-28-de-octubre-2020"
 +++
 Este miércoles 28 el mercado accionario global cayó fuertemente, en línea con la preocupación ante el aumento de casos de covid-19 en Europa y Estados Unidos, y con la incertidumbre sobre las nuevas cuarentenas y el impacto extra a la economía de una segunda ola de contagios.
 
-Esto hizo caer el valor de los fondos en Fintual, en especial las estrategias más arriesgadas **(y que están destinadas a inversiones de largo plazo)**. La baja de precios de activos arrastró a los principales índices globales, en una de las caídas más grandes registradas desde junio de este año.
+Esto hizo caer el valor de los fondos en Fintual, en especial las estrategias más arriesgadas (y que están destinadas a inversiones de largo plazo). La baja de precios de activos arrastró a los principales índices globales, en una de las caídas más grandes registradas desde junio de este año.
 
 #### Antes de seguir con la explicación quería invitarte a un Live de inversiones que vamos a hacer este jueves 29 de octubre a las 18:30. 
 
-Queremos responder tus dudas sobre el panorama de los mercados globales, las elecciones estadounidenses y sus efectos en los fondos. Prepara tus preguntas e inscríbete en [fintu.al/live-mercado](https://fintu.al/live-mercado "fintu.al/live-mercado")
+Queremos responder tus dudas sobre el panorama de los mercados globales, las elecciones estadounidenses y sus efectos en los fondos. Prepara tus preguntas e inscríbete en [fintu.al/live-mercado](https://fintu.al/live-mercado "fintu.al/live-mercado").
 
-### ¿Hay que hacer algo?
+## ¿Hay que hacer algo?
 
-No es necesario. Es una caída dentro de lo contemplado en un portafolio diseñado para el largo plazo, donde todos nuestros fondos, a excepción del fondo Very Conservative Streep, están diseñados para plazos de inversión de un año o más. Por eso no haremos ningún cambio ni recomendamos que alguien lo haga, dado que sólo afectó a los portafolios que recomendamos para horizontes de largo plazo.
+No es necesario. Es una caída dentro de lo contemplado en un portafolio diseñado para el largo plazo, donde todos nuestros fondos, a excepción del fondo Very Conservative Streep, están diseñados para plazos de inversión de un año o más. **Por eso no haremos ningún cambio ni recomendamos que alguien lo haga, dado que sólo afectó a los portafolios que recomendamos para horizontes de largo plazo.**
 
 ## ¿Es una caída normal?
 
@@ -31,15 +31,15 @@ Sí, es una caída grande pero dentro de lo normal, incluso ya contemplada en lo
 
 El índice S&P 500, que contiene las 500 acciones más importantes en Estados Unidos, bajó -3,53% este miércoles, mientras que el NASDAQ, que contempla acciones de empresas tecnológicas, cayó un -3,73%.
 
-La caída fue global y afectó a prácticamente todos los mercados importantes alrededor del mundo, como Europa (el Dax de Alemania cayó -4,17% y el Stoxx Europe 600 cayó -2.95%) y también a Reino Unido, donde el FTSE 100 cayó -2,55%.
+La caída fue global y afectó a prácticamente todos los mercados importantes alrededor del mundo, como Europa (el DAX de Alemania cayó -4,17% y el Stoxx Europe 600 cayó -2.95%) y también a Reino Unido, donde el FTSE 100 cayó -2,55%.
 
 ## ¿Era predecible?
 
-No era predecible. El mercado reacciona muchas veces inesperadamente y es casi imposible predecir la magnitud y el momento preciso de cuándo sucederán estas bajas.
+No era predecible. El mercado muchas veces reacciona inesperadamente y es casi imposible predecir la magnitud y el momento preciso de cuándo sucederán estas bajas.
 
-Lo que vemos claro, sin embargo, es que estamos atravesando por momentos de alta volatilidad, principalmente por las incertidumbres asociadas al nuevo rebrote de covid-19 en el mundo desarrollado occidental, y de las elecciones de Estados Unidos, que se definen el próximo martes 3 de noviembre.
+Lo que vemos claro, sin embargo, es que estamos atravesando por momentos de alta volatilidad. Entre las razones están la incertidumbre que genera el nuevo rebrote de covid-19 en el mundo desarrollado occidental, además de las elecciones de Estados Unidos, que se definen el próximo martes 3 de noviembre.
 
-Es importante recalcar que tratar de predecir el día y magnitud de una caída del mercado es similar a tratar de predecir un terremoto: mientras que es muy fácil decir que en Chile puede ocurrir luego un terremoto, no es fácil determinar ni la magnitud ni el día exacto de cuando suceda.
+**Tratar de predecir el día y magnitud de una caída del mercado es similar a tratar de predecir un terremoto: mientras que es muy fácil decir que en Chile puede ocurrir luego un terremoto, no es fácil determinar ni la magnitud ni el día exacto de cuando suceda.**
 
 ## Nota un pelo más técnica
 
