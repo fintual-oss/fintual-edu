@@ -16,7 +16,7 @@ Acá puedes complementar lo que ya sabes.
 
 Te compartimos algunos ejemplos y más detalles, pero primero, repasemos lo básico:
 
-* Hay dos tipos de activos de inversión: Renta Variable y Deuda o Renta Fija. Los impuestos dependen en qué tipo de activo está invertido el fondo, y no por el tipo de fondo. **
+* Hay dos tipos de activos de inversión: Renta Variable y Deuda o Renta Fija. Los impuestos dependen en qué tipo de activo está invertido el fondo, y no por el tipo de fondo.
 * **Su cálculo lo gestiona el fondo de inversión y se hace de forma proporcional dependiendo la composición de tu portafolio.**
 
 Por lo tanto, cada fondo de inversión generará impuestos de Renta Variable o impuestos del tipo de Deuda, respecto a las partes proporcionales.
@@ -84,7 +84,6 @@ Así, podría recuperar o compensar un 0.855%
 
 Si la tasa de interés es de 3.50% durante un año, el rendimiento neto de impuestos que Paco vería en su inversión en deuda será de 2.05%.
 
-
 <div style="text-align:center"> <figure> <img src="/uploads/rendimiento-neto-paco.png"> </figure> </div>
 
 Si hace su declaración anual de impuestos, el rendimiento real de su inversión sería de -0.30%, y en ese caso tendría una pérdida.
@@ -135,9 +134,7 @@ La segunda.
 
 Este impuesto lo pagarás una vez al año en tu declaración anual fiscal, y se cobra un 10% sobre la ganancia real obtenida (salvo algunas excepciones para los grandes capitales).
 
-Cuando decimos **ganancia real** significa que el costo al que compraste, se le suman los costos de corretaje cuando es el caso.
-
-Fintual no te cobra ninguno, por ejemplo, pero en general los otros sí. Esto se va actualizando por la inflación, y este costo se compara con el precio de venta, y si se obtienen ganancias, se paga un impuesto del 10% sobre de ellas.
+Cuando decimos **ganancia real** significa que el costo al que compraste, se le suman los costos de corretaje cuando es el caso _(Fintual no te cobra ninguno, por ejemplo, pero en general los otros sí)_. Esto se va actualizando por la inflación, y este costo se compara con el precio de venta, y si se obtienen ganancias, se paga un impuesto del 10% sobre de ellas.
 
 En caso de tener pérdidas se puede compensar contra las ganancias obtenidas por operaciones de renta variable en las bolsas de valores reconocidas (no se mezcla con el impuesto sobre la renta, sino que es un impuesto a parte).
 
