@@ -43,12 +43,12 @@ Lo que vemos claro, sin embargo, es que estamos atravesando por momentos de alta
 
 ## Nota un pelo más técnica
 
-Los precios de índices accionarios globales han bajado desde mediados de octubre, destacando como mayor caída la de este miércoles 28. Estos retrocesos han estado acompañados por una baja del precio del dólar contra el peso chileno (USD/CLP), lo cual ha sido un “doble efecto” negativo para los fondos, algo que en la práctica no suele ser tan común, ya que en general estos movimientos tienen correlación negativa.
+Los precios de índices accionarios globales han bajado desde mediados de octubre, destacando como mayor caída la de este miércoles 28. Estos retrocesos han estado acompañados por una baja del precio del dólar contra el peso chileno (USD/CLP), lo que ha sido un “doble efecto” negativo para los fondos, algo que en la práctica no suele ser tan común, ya que en general estos movimientos tienen correlación negativa.
 
 La parte más sorpresiva de este desacople del comportamiento de precios ha venido por el lado del USD/CLP, que ha bajado fuertemente desde mediados de octubre.
 
-El USD/CLP llegó hoy a niveles de 773,74 (que está en la parte baja del rango de los últimos seis meses). Que el peso chileno se haya apreciado últimamente, mientras el resto de activos riesgosos del mundo cae de precio, no es tan común.
-
+El USD/CLP llegó hoy a niveles de 773,74 (que está en la parte baja del rango de los últimos seis meses). Que el peso chileno se haya apreciado últimamente, mientras el resto de activos riesgosos del mundo cae de precio, no es tan común.  
+  
 Este movimiento del peso chileno se puede relacionar con varias cosas, pero no hay un claro motivo. Por ejemplo, el precio del cobre está alto, cerca de los máximos de un año, y eso ayuda bastante a que el peso chileno se aprecie. Junto a eso, otras monedas de Latam, como el peso mexicano, ha tenido un buen desempeño en los últimos seis meses, y eso indirectamente ayuda a otras monedas que se consideran similares. Adicionalmente, hay un asesor masivo de cambios de fondos de AFP que durante las últimas dos semanas ha realizado un llamado a cambios de fondos de menor riesgo. Esto gatilla la venta de activos que están dolarizados y por lo tanto, empuja el dólar hacia abajo, en un proceso que suele durar unos 3 o 4 días. Finalmente, el proyecto del segundo retiro del 10% de las AFP también podría explicar que el mercado se prepara para una nueva liquidación de dólares.
 
 Por el lado del escenario político local, al parecer hay un cierto optimismo desde inversionistas extranjeros de que el proceso constitucional no va a causar una mayor inestabilidad política.
