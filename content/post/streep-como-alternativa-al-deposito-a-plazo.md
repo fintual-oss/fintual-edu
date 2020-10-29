@@ -4,6 +4,7 @@ author = "Omar Larré"
 categories = ["educación financiera"]
 date = 2020-10-07T13:32:36Z
 description = "Por qué el nuevo fondo Very Conservative Streep es ahora una excelente alternativa al depósito a plazo"
+draft = true
 hide = false
 image = "/uploads/2020-10-15/1602798024808_streep-fintual.png"
 title = "Una buena alternativa al depósito a plazo"
@@ -12,11 +13,11 @@ url = "/alternativa-al-deposito-a-plazo"
 +++
 El depósito a plazo (DAP) nunca ha sido muy sexy.
 
-Hay gente que los usa igual porque buscan no correr ningún riesgo.
+Hay gente que los quiere igual porque buscan correr poco riesgo.
 
 Pero este año 2020 las tasas de interés de los depósitos a plazo en Chile están históricamente bajas. Esto hace que a muchas personas ni siquiera les valga la pena gastar tiempo en tomar uno, ya que más encima pierden la posibilidad de usar esa plata si llegan a necesitarla.
 
-Hicimos el ejercicio de simular un DAP a 30 días en varios bancos y notamos que la mayoría ofrecen intereses de 0,01% a 0,06% al mes.
+Hicimos el ejercicio de simular un DAP a 30 días en varios bancos y notamos que la mayoría ofrecen intereses de 0,01% a 0,06% al mes. Es poco.
 
 ![Tasas de depósitos a 30 días cotizadas por internet el 07/10/2020](/uploads/2020-10-08/tasas-depositos-a-plazo-bancarios-a-30-dias.png)_Tasas de depósitos a 30 días cotizadas por internet el 07/10/2020_
 
@@ -26,16 +27,17 @@ Hicimos el ejercicio de simular un DAP a 30 días en varios bancos y notamos que
 
 Nuestro fondo de muy bajo riesgo se llama "Very Conservative Streep".
 
-Hasta hace poco estaba justamente compuesto principalmente por depósitos a plazo de bancos, de menos de 90 días de plazo. Obviamente con la baja de tasas ha rentado menos, especialmente desde mayo hasta agosto del 2020.
+Hasta hace poco estaba compuesto principalmente por depósitos a plazo de bancos, de menos de 90 días de plazo.
+
+Obviamente con la baja de tasas ha rentado menos, especialmente desde mayo hasta agosto del 2020.
 
 ![Fondo Streep, desde sus inicios hasta el 7 de octubre de 2020. Fíjate en la “meseta” entre mayo y agosto](/uploads/2020-10-08/meseta-streep.png)_Fondo Streep, desde sus inicios hasta el 7 de octubre de 2020. Fíjate en la “meseta” entre mayo y agosto_
 
-Había que hacer algo.
+Había que hacer algo. Y esto es lo que hicimos:
 
-1. Primero, **cambiamos la estrategia de inversión para buscar más rentabilidad.**
-Para lograrlo hay que tomar algo más de riesgos, claro, y escapar un poco de los depósitos a plazo de grandes bancos.Entonces buscamos instrumentos de deuda de mayor duración, pero no de un plazo excesivamente largo, sino que deuda de alrededor de un año de duración o algo menos. Al mismo tiempo, invertimos pequeños porcentajes de estrategias de crédito privado de corto plazo, que tienen mejores tasas de interés (más adelante hablo de esto en detalle).
-2. Luego, para lograr estabilidad **decidimos cobrar 0% de remuneración fija y cobraremos una remuneración variable** únicamente si al fondo le va mejor que a un cierto "objetivo de rentabilidad". La idea es que este objetivo sea realmente competitivo con respecto a los depósitos a plazo.Esto podemos hacerlo gracias a que en Fintual hemos avanzado mucho en la automatización de la contabilidad. Si no, nos volveríamos monos calculando la remuneración variable cada día.
-
+1. Primero, **cambiamos la estrategia de inversión para buscar más rentabilidad**. Para lograrlo hay que tomar algo más de riesgos, claro, y escapar un poco de los depósitos a plazo de grandes bancos. Entonces, buscamos instrumentos de deuda de mayor duración, pero no de un plazo excesivamente largo, sino que deuda de alrededor de un año de duración o algo menos. Al mismo tiempo, invertimos pequeños porcentajes de estrategias de crédito privado de corto plazo, que tienen mejores tasas de interés (más adelante hablo de esto en detalle).
+2. Luego, **cambiamos el cobro para lograr estabilidad.**  
+   Decidimos cobrar 0% de remuneración fija y cobraremos una remuneración variable únicamente si al fondo le va mejor que a un cierto "objetivo de rentabilidad". La idea es que este objetivo sea realmente competitivo con respecto a los depósitos a plazo. Esto podemos hacerlo gracias a que en Fintual hemos avanzado mucho en la automatización de la contabilidad. Si no, nos volveríamos monos calculando la remuneración variable cada día.
 
 ### Cómo va a funcionar
 
