@@ -100,7 +100,7 @@ En este caso, y en resumen, **Paco podría recuperar no sólo el 1.45% que le re
 
 Con el 20% de su tasa fiscal efectiva y el porcentaje de su pérdida fiscal, es decir, podría obtener 0.06% adicional, obteniendo al final, un 1.51% extra total.
 
-<div style="text-align:center"> <figure> <img src="/uploads/impuesto-total-paco.png"> </figure> </div>
+<div style="text-align:center"> <figure> <img src="/uploads/impuesto-por-recuperar-paco.png"> </figure> </div>
 
 #### **El caso de Luis**
 
