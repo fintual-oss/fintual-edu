@@ -70,6 +70,8 @@ Ese rendimiento lo tendría que acumular a sus otros ingresos y ver en qué segm
 
 Por decir un ejemplo. Supongamos que Hugo tiene la tasa fiscal más alta del 35%. **El impuesto a pagar sería el 35% de la tasa real**, es decir 0.595%.
 
+![](/uploads/impuesto-a-pagar-hugo-ii.png)
+
 <div style="text-align:center"> <figure> <img src="/uploads/impuesto-real-hugo.png"> </figure> </div>
 
 Sin embargo, el fondo ya le retuvo 1.45%.
