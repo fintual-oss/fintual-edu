@@ -17,7 +17,7 @@ Hay gente que los quiere igual porque buscan correr poco riesgo.
 
 Pero este año 2020 las tasas de interés de los depósitos a plazo en Chile están históricamente bajas. Esto hace que a muchas personas ni siquiera les valga la pena gastar tiempo en tomar uno, ya que más encima pierden la posibilidad de usar esa plata si llegan a necesitarla.
 
-Hicimos el ejercicio de simular un DAP a 30 días en varios bancos y notamos que la mayoría ofrecen intereses de 0,01% a 0,06% al mes. Es poco.
+Hicimos el ejercicio de simular un DAP a 30 días en varios bancos y notamos que la mayoría ofrecen intereses de 0,01% a 0,06% al mes.
 
 ![Tasas de depósitos a 30 días cotizadas por internet el 07/10/2020](/uploads/2020-10-08/tasas-depositos-a-plazo-bancarios-a-30-dias.png)_Tasas de depósitos a 30 días cotizadas por internet el 07/10/2020_
 
