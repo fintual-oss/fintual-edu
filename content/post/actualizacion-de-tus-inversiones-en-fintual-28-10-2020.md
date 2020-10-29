@@ -14,7 +14,7 @@ Este miércoles 28 el mercado accionario global cayó fuertemente, en línea con
 
 Esto hizo caer el valor de los fondos en Fintual, en especial las estrategias más arriesgadas (y que están destinadas a inversiones de largo plazo). La baja de precios de activos arrastró a los principales índices globales, en una de las caídas más grandes registradas desde junio de este año.
 
-Antes de seguir con la explicación quería invitarte a un Fintual Live de inversiones que vamos a hacer este jueves 29 de octubre a las 18:30. 
+Antes de seguir con la explicación quería invitarte a un Fintual Live de inversiones que vamos a hacer este jueves 29 de octubre a las 18:30.
 
 #### Queremos responder tus dudas sobre el panorama de los mercados globales, las elecciones estadounidenses y sus efectos en los fondos. Prepara tus preguntas e inscríbete en [fintu.al/live-mercado](https://fintu.al/live-mercado "fintu.al/live-mercado").
 
@@ -46,11 +46,11 @@ Los precios de índices accionarios globales han bajado desde mediados de octubr
 
 La parte más sorpresiva de este desacople del comportamiento de precios ha venido por el lado del USD/CLP, que ha bajado fuertemente desde mediados de octubre.
 
-El USD/CLP llegó hoy a niveles de 773,74 (que está en la parte baja del rango de los últimos seis meses). Que el peso chileno se haya apreciado últimamente, mientras el resto de activos riesgosos del mundo cae de precio, no es tan común.  
-  
-Este movimiento del peso chileno se puede relacionar con varias cosas, pero no hay un motivo claro. 
+El USD/CLP llegó hoy a niveles de 773,74 (que está en la parte baja del rango de los últimos seis meses). Que el peso chileno se haya apreciado últimamente, mientras el resto de activos riesgosos del mundo cae de precio, no es tan común.
 
-Por ejemplo, el precio del cobre está alto, cerca de los máximos de un año, y eso ayuda bastante a que el peso chileno se aprecie. Junto a eso, otras monedas de Latinoamérica, como el peso mexicano, ha tenido un buen desempeño en los últimos seis meses, algo que ayuda indirectamente a otras monedas que se consideran similares. Adicionalmente, un asesor masivo de cambios de fondos de AFP hizo un llamado a cambios de fondos de menor riesgo a fines de la semana antepasada. Esto gatilla la venta de activos que están dolarizados y, por lo tanto, empujó el dólar hacia abajo, en un proceso que suele durar unos 3 o 4 días.
+Este movimiento del peso chileno se puede relacionar con varias cosas, pero no hay un motivo claro.
+
+Por ejemplo, el precio del cobre está alto, cerca de los máximos de un año, y eso ayuda bastante a que el peso chileno se aprecie. Junto a eso, otras monedas de Latinoamérica, como el peso mexicano, ha tenido un buen desempeño en los últimos seis meses, algo que ayuda indirectamente a otras monedas que se consideran similares. Adicionalmente, hay un asesor masivo de cambios de fondos de AFP que durante las últimas tres semanas ha realizado un par de llamados a cambios de fondos de menor riesgo. Esto gatilla la venta de activos que están dolarizados y por lo tanto, empuja el dólar hacia abajo, en un proceso que suele durar unos 3 o 4 días. Finalmente, el proyecto del segundo retiro del 10% de las AFP también podría explicar que el mercado se prepara para una nueva liquidación de dólares.
 
 Finalmente, el proyecto del segundo retiro del 10% de las AFP también podría explicar que el mercado se prepara para una nueva liquidación de dólares.
 
