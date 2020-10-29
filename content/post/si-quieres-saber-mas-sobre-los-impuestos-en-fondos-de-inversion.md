@@ -116,7 +116,6 @@ Al siguiente año, en su declaración anual de impuestos, el rendimiento real de
 
 Y solo para poner un ejemplo, supongamos que tiene una tasa fiscal de 30%. Así el impuesto a pagar sería el 30% de la tasa real, es decir 1.56%, sin embargo, el fondo ya le retuvo 1.45%, por lo que te falta por pagar 0.11%, o bien, lo compensa contra alguna pérdida fiscal que tenga.
 
-
 <div style="text-align:center"> <figure> <img src="/uploads/impuesto-por-pagar-luis.png"> </figure> </div>
 
 Nada sencillo. En general, quien tiene más que perder es el pequeño inversionista que no suele hacer sus declaraciones anuales.
