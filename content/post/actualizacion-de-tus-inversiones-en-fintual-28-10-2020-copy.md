@@ -18,14 +18,14 @@ La semana ya había tenido bajas en todo el mundo, en línea con la percepción 
 
 Todo esto contribuyó a que los mercados cerraran la semana con una baja, en la peor semana del mercado bursátil para las acciones desde marzo.
 
+Esto hizo caer el valor de los fondos en Fintual, en especial las estrategias más arriesgadas (y que están destinadas a inversiones de largo plazo).
+
 Antes de seguir con la explicación te recomiendo este live en el que profundizamos un poco más sobre lo que está pasando en el mercado y el efecto en tus inversiones en Fintual:
 
 <div style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KmT8e-dMX9Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
-Esto hizo caer el valor de los fondos en Fintual, en especial las estrategias más arriesgadas (y que están destinadas a inversiones de largo plazo).
 
 ## ¿Hay que hacer algo?
 
