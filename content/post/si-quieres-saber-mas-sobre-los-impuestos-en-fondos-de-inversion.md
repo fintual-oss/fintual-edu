@@ -32,7 +32,7 @@ Ese porcentaje puede variar dependiendo lo que dicte el SAT cada año. Por ejemp
 Así que:
 
 * El fondo descuenta de tu inversión una parte proporcional de ese porcentaje, todos los días. Es decir, 1.45% / 360 días (en México los años financieros se calculan de esa forma).
-* El rendimiento que te entregan los fondos ya le quitaron esa retención. Por ejemplo, cuando ves lo ganado en tu inversión en Fintual, a esa cifra ya le restamos la retención que va al SAT, además de nuestra comisión.
+* El rendimiento que te entregan los fondos ya le quitaron esa retención. Por ejemplo, cuando ves lo ganado en tu inversión en [Fintual](https://fintu.al/4YeX), a esa cifra ya le restamos la retención que va al SAT, además de nuestra comisión.
 
 _Ojo! En los bancos o en Cetes te dicen el rendimiento antes de impuestos, pero de cualquier forma te hacen la retención_.
 
@@ -126,25 +126,25 @@ El impuesto a la Renta Variable es relativamente más sencillo por dos razones:
 
 La primera.
 
-En esta inversión no se te hace ninguna retención, sólo se le avisa a Hacienda cuáles fueron tus ganancias o pérdidas por este concepto en el año.
+**En esta inversión no se te hace ninguna retención**, sólo se le avisa a Hacienda cuáles fueron tus ganancias o pérdidas por este concepto en el año.
 
 Tú recibes una constancia con la misma información a fin de febrero de cada año (para que hagas tu declaración anual).
 
 La segunda.
 
-Este impuesto lo pagarás una vez al año en tu declaración anual fiscal, y se cobra un 10% sobre la ganancia real obtenida (salvo algunas excepciones para los grandes capitales).
+**Este impuesto lo pagarás una vez al año en tu declaración anual fiscal, y se cobra un 10% sobre la ganancia real obtenida** (salvo algunas excepciones para los grandes capitales).
 
 Cuando decimos **ganancia real** significa que el costo al que compraste, se le suman los costos de corretaje cuando es el caso _(Fintual no te cobra ninguno, por ejemplo, pero en general los otros sí)_. Esto se va actualizando por la inflación, y este costo se compara con el precio de venta, y si se obtienen ganancias, se paga un impuesto del 10% sobre de ellas.
 
 En caso de tener pérdidas se puede compensar contra las ganancias obtenidas por operaciones de renta variable en las bolsas de valores reconocidas (no se mezcla con el impuesto sobre la renta, sino que es un impuesto a parte).
 
-Un ejemplo con números:
+##### Un ejemplo con números:
 
 Compras un fondo o acciones por un monto total de $10,000 (por ejemplo, 1000 acciones a $10) y lo vendes a $11,000 (1000 acciones a $11).
 
 Tú tienes en tu cuenta esos $11,000 pesos y nadie te hace ninguna retención.
 
-Asume que lo compraste en Fintual y por lo tanto no te cobramos ningún costo de corretaje, y que la inflación entre el día que compraste y el día que vendiste fue de 3.8%.
+Asume que lo compraste en [Fintual](https://fintu.al/4YeX) y por lo tanto no te cobramos ningún costo de corretaje, y que la inflación entre el día que compraste y el día que vendiste fue de 3.8%.
 
 Tu costo de adquisición se ajusta a $10.38 ($10*1.038), y entonces el precio de venta le restas este costo y queda una ganancia de $0.62 por acción.
 
@@ -156,13 +156,13 @@ Ese pago lo debes hacer tú, nosotros te ayudamos en hacer los cálculos y decí
 
 ## Ah! Por cierto.
 
-Recuerda que los fondos de inversión calculan los impuestos y hacen las retenciones en el caso de Deuda o notificaciones en el caso de Renta Variable, no tú.
+Recuerda que **los fondos de inversión calculan los impuestos y hacen las retenciones en el caso de Deuda o notificaciones en el caso de Renta Variable, no tú**.
 
 La ventaja de invertir en renta variable a través de fondos, respecto a hacerlo directamente sobre acciones o un ETF, es el tratamiento fiscal: **las compras o ventas que haga el fondo al interior de su cartera no te afectan fiscalmente**.
 
 En cambio, los fondos pueden reajustarse a las nuevas condiciones económicas o de mercado sin causar pagos innecesarios de impuestos. En fondos de renta variable solo vas a tener que pagar un impuesto cuando vendas el fondo.
 
-No olvides que todas las inversiones deberían pagar impuestos (existen muy pocas excepciones para Hacienda). Pese a eso, muchos mencionan los rendimientos antes de impuestos.
+No olvides que **todas las inversiones deberían pagar impuestos (existen muy pocas excepciones para Hacienda)**. Pese a eso, muchos mencionan los rendimientos antes de impuestos.
 
 Los fondos de inversión son al menos más transparentes fiscalmente.
 
