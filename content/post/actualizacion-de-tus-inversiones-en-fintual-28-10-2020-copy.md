@@ -48,4 +48,6 @@ Los resultados de las empresas de tecnología mostraron hoy aún más incertidum
 
 Te dejamos un live que hicimos explicando más lo que está pasando en el mercado y el efecto en tus inversiones en Fintual:
 
-<div style="text-align:center"> <iframe width="560" height="315" src="[https://www.youtube.com/embed/KmT8e-dMX9Y](https://www.youtube.com/embed/KmT8e-dMX9Y "https://www.youtube.com/embed/KmT8e-dMX9Y")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KmT8e-dMX9Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
