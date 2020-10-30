@@ -13,17 +13,21 @@ url = "/actualizacion-de-mercado-30-de-octubre-2020"
 +++
 Este viernes 30 el mercado accionario global cerró a la baja, impulsado principalmente por las empresas de tecnología.
 
-Las tecnológicas anunciaron sus resultados del tercer trimestre con resultados mixtos respecto a las expectativas del mercado, en una semana donde además se añade el miedo a que la recuperación económica sea muy lenta y tenga impactos negativos en las ganancias futuras.
+Las tecnológicas anunciaron sus resultados del tercer trimestre con resultados mixtos respecto a las expectativas del mercado, en una semana marcada por el miedo a que la recuperación económica sea muy lenta y tenga impactos negativos en las ganancias futuras.
 
-La semana ya había tenido bajas en todo el mundo, en línea con la percepción de riesgo del aumento de casos de covid-19 en Europa y Estados Unidos, con la incertidumbre sobre las nuevas cuarentenas y el impacto extra a la economía global de una segunda ola de contagios, además de la proximidad con el final de las elecciones estadounidenses. 
+La semana ya había tenido bajas en todo el mundo, en línea con la percepción de riesgo del aumento de casos de covid-19 en Europa y Estados Unidos, con la incertidumbre sobre las nuevas cuarentenas y el impacto extra a la economía global de una segunda ola de contagios. A esto se suma la proximidad a las elecciones estadounidenses (martes 3 de noviembre). 
 
-Eso contribuyó para que los mercados cerraran la semana con una baja, en la peor semana del mercado bursátil para las acciones desde marzo.
+Todo esto contribuyó a que los mercados cerraran la semana con una baja, en la peor semana del mercado bursátil para las acciones desde marzo.
 
 Esto hizo caer el valor de los fondos en Fintual, en especial las estrategias más arriesgadas (y que están destinadas a inversiones de largo plazo).
 
 ## ¿Hay que hacer algo?
 
-Si definiste bien tu horizonte y nivel de riesgo del objetivo, no es necesario. Es una caída dentro de lo contemplado en un portafolio diseñado para el largo plazo, donde todos nuestros fondos, a excepción del fondo Very Conservative Streep (diseñado para inversiones de menos de un año), están diseñados para plazos de inversión de un año o más. Por eso no haremos ningún cambio ni recomendamos que alguien lo haga, dado que sólo afectó a los portafolios que recomendamos para horizontes de largo plazo.
+Si definiste bien tu horizonte y nivel de riesgo del objetivo, no es necesario. 
+
+Es una caída dentro de lo contemplado en un portafolio diseñado para el largo plazo, donde todos nuestros fondos, a excepción del fondo Very Conservative Streep (diseñado para inversiones de menos de un año), están diseñados para plazos de inversión de un año o más. 
+
+**Por eso no haremos ningún cambio ni recomendamos que alguien lo haga, dado que sólo afectó a los portafolios que recomendamos para horizontes de largo plazo.**
 
 ## ¿Es una caída normal?
 
