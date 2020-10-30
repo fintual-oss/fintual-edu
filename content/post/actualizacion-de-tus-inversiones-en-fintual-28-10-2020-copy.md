@@ -24,6 +24,7 @@ Antes de seguir con la explicación te recomiendo este live en el que profundiza
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KmT8e-dMX9Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 Esto hizo caer el valor de los fondos en Fintual, en especial las estrategias más arriesgadas (y que están destinadas a inversiones de largo plazo).
 
 ## ¿Hay que hacer algo?
