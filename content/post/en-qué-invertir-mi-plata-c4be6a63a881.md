@@ -2,7 +2,7 @@
 author: Pedro Pineda
 author_thumbnail: "/uploads/pedro_pineda.png"
 title: En qué invertir mi plata
-date: 2020-08-24T01:00:00+00:00
+date: 2020-08-24T01:00:00.000+00:00
 image: "/uploads/en-que-invertir-sandrineanne-min.png"
 categories:
 - educación financiera
@@ -15,7 +15,7 @@ _Menciono algunas instituciones financieras y empresas, pero aparte de_ [_Fintua
 
 #### 1. Depósitos a plazo
 
-Depósito a plazo es meter plata en el banco por un retorno tan seguro como pequeño: un 2% anual aprox.
+Depósito a plazo es meter plata en el banco por un retorno tan seguro como pequeño.
 
 Es una solución cómoda y simple cuando necesitas gastar la plata en 30 días y hasta 6 meses, aunque [es un error para inversiones de largo plazo](https://edu.fintual.cl/mejor-deposito-a-plazo/): los intereses que se generan son tan bajos que apenas superan a la inflación.
 
@@ -121,7 +121,7 @@ utmcontent="en_que_invertir_mi_plata"
 card_title="Prueba Fintual"
 card_button="Empezar" %}}
 
-Diversificado, simple, transparente y con comisiones bajas. 
+Diversificado, simple, transparente y con comisiones bajas.
 
 {{% /prueba_fintual %}}
 
